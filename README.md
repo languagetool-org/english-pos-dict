@@ -1,2 +1,2 @@
 # english-pos-dict
-English POS and dictioanry data
+English POS and dictionary data
