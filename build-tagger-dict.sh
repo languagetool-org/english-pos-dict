@@ -46,3 +46,5 @@ cp ../${target_dir}/english_synth.info .
 java -cp ../$lt_tools org.languagetool.tools.SynthDictionaryBuilder -i english-tagger.txt -info english_synth.info -o ../${target_dir}/english_synth.dict
 cd -
 mv ${target_dir}/english_synth.dict_tags.txt ${target_dir}/english_tags.txt
+
+diff $src_dict/english_tags.txt ${target_dir}/english_tags.txt > tagger-dict/english_tags.diff
