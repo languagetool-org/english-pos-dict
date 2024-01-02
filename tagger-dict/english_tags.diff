@@ -1,13 +1,4 @@
-15a16
-> JJs
-19a21,23
-> NN:UU
-> NNNP
-> NNO
-22a27,28
-> NNs
-> NPP
-26a33,77
+26a27,71
 > PRP$_A1P
 > PRP$_A1S
 > PRP$_A2P
@@ -53,9 +44,3 @@
 > PRP_S3SF
 > PRP_S3SM
 > PRP_S3SN
-27a79
-> RBB
-38a91
-> VG
-43a97
-> adj
