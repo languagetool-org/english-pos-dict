@@ -19,8 +19,10 @@ cp $src_dict/removed.txt tagger-dict
 cd tagger-dict
 sed -i 's/#.*$//' added.txt
 sed -i '/^$/d' added.txt
+sed -i -e '$a\' added.txt
 sed -i 's/#.*$//' removed.txt
 sed -i '/^$/d' removed.txt
+sed -i -e '$a\' removed.txt
 iconv -f ISO-8859-1 -t UTF-8 english-tagger-original.txt > english-tagger-original-utf8.txt
 cat added.txt english-tagger-original-utf8.txt > english-tagger-added.txt
 grep -v -Ff removed.txt english-tagger-added.txt > english-tagger.txt
