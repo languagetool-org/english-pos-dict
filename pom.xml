@@ -10,6 +10,13 @@
     <name>English part-of-speech and spelling dictionaries</name>
     <description>English part-of-speech (POS) and spelling dictionaries as a Morfologik binaries</description>
 
+    <licenses>
+        <license>
+            <name>GNU Lesser General Public License, Version 2.1, February 1999</name>
+            <url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt</url>
+        </license>
+    </licenses>
+    
     <developers>
         <developer>
             <name>Jaume Ortolà</name>
