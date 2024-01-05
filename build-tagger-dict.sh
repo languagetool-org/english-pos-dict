@@ -4,11 +4,11 @@ lt_version=6.4-SNAPSHOT
 lt_tools=../languagetool/languagetool-standalone/target/LanguageTool-${lt_version}/LanguageTool-${lt_version}/languagetool.jar
 
 #to be updated
-src_dict=./original-files-december-2023
+#src_dict=./original-files-december-2023
+src_dict=..//languagetool/languagetool-language-modules/en/src/main/resources/org/languagetool/resource/en
 
 rm -rf tagger-dict
 mkdir tagger-dict
-
 
 # dump the tagger dictionary
 java -cp $lt_tools org.languagetool.tools.DictionaryExporter -i $src_dict/english.dict -o ./tagger-dict/english-tagger-original.txt -info $src_dict/english.info
