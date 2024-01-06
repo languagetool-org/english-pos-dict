@@ -25,7 +25,9 @@ sed -i '/^$/d' removed.txt
 sed -i -e '$a\' removed.txt
 iconv -f ISO-8859-1 -t UTF-8 english-tagger-original.txt > english-tagger-original-utf8.txt
 cat added.txt english-tagger-original-utf8.txt > english-tagger-added.txt
-grep -v -Ff removed.txt english-tagger-added.txt > english-tagger.txt
+export LC_ALL=C && sort -u -o removed.txt removed.txt
+export LC_ALL=C && sort -u -o english-tagger-added.txt english-tagger-added.txt
+comm -23 english-tagger-added.txt removed.txt > english-tagger.txt
 export LC_ALL=C && sort -u -o english-tagger-original-utf8.txt english-tagger-original-utf8.txt
 export LC_ALL=C && sort -u -o english-tagger.txt english-tagger.txt
 diff english-tagger-original-utf8.txt english-tagger.txt >> english-tagger.diff
@@ -50,3 +52,6 @@ cd -
 mv ${target_dir}/english_synth.dict_tags.txt ${target_dir}/english_tags.txt
 
 diff $src_dict/english_tags.txt ${target_dir}/english_tags.txt > tagger-dict/english_tags.diff
+
+#dump synth dict
+java -cp $lt_tools org.languagetool.tools.DictionaryExporter -i ${target_dir}/english_synth.dict -o ./tagger-dict/english_synth_lt.txt -info ${target_dir}/english_synth.info
