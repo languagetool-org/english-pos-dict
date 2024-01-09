@@ -5,7 +5,7 @@
 
     <groupId>org.languagetool</groupId>
     <artifactId>english-pos-dict</artifactId>
-    <version>0.2</version>
+    <version>0.3</version>
     <url>https://languagetool.org</url>
     <name>English part-of-speech and spelling dictionaries</name>
     <description>English part-of-speech (POS) and spelling dictionaries as a Morfologik binaries</description>
