@@ -28,9 +28,9 @@ def getRegular(s):
   return s
       
 # read spelling dicts
-variants = ["au", "ca", "gb", "nz", "us", "za"]
+variants = ["au", "ca", "gb", "nz", "us", "us-large", "za"]
 spell_dict = {
-  'au': {}, 'ca': {}, 'gb': {}, 'nz': {}, 'us': {}, 'za': {}
+  'au': {}, 'ca': {}, 'gb': {}, 'nz': {}, 'us': {}, 'us-large': {}, 'za': {}
 }
 for variant in variants:
   file_path = '../spell-dicts/en_'+variant.upper()+'.txt'
@@ -38,7 +38,6 @@ for variant in variants:
     for line in file.readlines():
       line = line.strip()
       spell_dict[variant][line] = 0
-#TODO: add large US spelling dict
 
 file_path = '../tagger-dict/english-tagger.txt'
 with open(file_path, 'r') as file:
@@ -64,6 +63,7 @@ for lemma,forms_tags_str in sorted(dict_by_lemma.items()):
     if lemma in spell_dict[variant]:
       found_in_variants=found_in_variants+","+variant
   found_in_variants=found_in_variants[1:]
+  found_in_variants = found_in_variants.replace("us,us-large","us")
   if found_in_variants=="au,ca,gb,nz,us,za":
     found_in_variants="all"
   if found_in_variants=="":
@@ -133,6 +133,7 @@ for variant in variants:
           found_in_variants=found_in_variants+","+variant2
           spell_dict[variant2][word] = 1
       found_in_variants=found_in_variants[1:]
+      found_in_variants = found_in_variants.replace("us,us-large","us")
       if found_in_variants=="au,ca,gb,nz,us,za":
         found_in_variants="all"
       if found_in_variants=="":
