@@ -9,7 +9,9 @@ def starts_with_prefix(string):
     for prefix in prefixes_gb:
         if string.startswith(prefix):
             return True
-    if string.startswith("in") and string[2].isupper():
+    if (string.startswith("in") or string.startswith("de") or string.startswith("un"))  and string[2].isupper():
+       return True
+    if (string.startswith("con") or string.startswith("dis") or string.startswith("pre") or string.startswith("mis")) and string[3].isupper():
        return True
     return False
 
@@ -28,6 +30,8 @@ with open(file_path, 'r') as file:
       clean_output.write(lemma + "=" + tag + "=all\n")
     elif tag == "UNTAGGED" and variants == "gb" and starts_with_prefix(lemma):
        discarded_output.write(line + "\n")
+    #elif tag == "NNP" and variants!="none":
+    #  clean_output.write(lemma + "=" + tag + "=all\n")
     else:
       pending_output.write(line + "\n")
     
