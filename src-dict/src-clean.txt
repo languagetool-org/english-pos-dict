@@ -26100,7 +26100,6 @@ Ypres=NNP=all
 Ypsilanti=NNP=all
 Yser=NNP=all
 Yseult=NNP=all
-Yt=NNP=all
 Yuanzhang=NNP=all
 Yucatan=NNP=all
 Yucatán=NNP=all
@@ -41989,8 +41988,7 @@ cépage=NN:U=all
 córdoba=NN=all
 d'Arenberg=NNP=all
 dB=dB/NN,dB/NNS=all
-dBW=NNP=all
-dBm=NNP=all
+dBm=dBm/NN,dBm/NNS=all
 dab=dab/NN,dabs/NNS=all
 dab=dab/VB,dabbed/VBD,dabbing/VBG,dabbed/VBN,dab/VBP,dabs/VBZ=all
 dabber=dabber/NN,dabbers/NNS=all
@@ -61694,11 +61692,10 @@ juvenility=juvenility/NN:UN,juvenilities/NNS=all
 juxtapose=verb=all
 juxtaposition=juxtaposition/NN:UN,juxtapositions/NNS=all
 jökulhlaup=jökulhlaup/NN,jökulhlaups/NNS=all
-kB=NNP=all
-kHz=NNP=all
-kJ=kJ/NN,kJ/NNP,kJ/NNS=all
-kV=NNP=all
-kW=NNP=all
+kHz=kHz/NN,kHz/NNS=all
+kJ=kJ/NN,kJ/NNS=all
+kV=kV/NN,kV/NNS=all
+kW=kW/NN,kW/NNS=all
 kWh=kWh/NN,kWh/NNS=all
 ka=ka/NN,kas/NNS=all
 kabbalist=kabbalist/NN,kabbalists/NNS=all
@@ -61779,7 +61776,6 @@ kb=NN=all
 kc=NN=all
 kcal=NN=all
 kcf=kcf/NN,kcfs/NNS=all
-keV=NNP=all
 kea=kea/NN,keas/NNS=all
 kebab=kebab/NN,kebabs/NNS=all
 kedgeree=kedgeree/NN:U,kedgerees/NNS=all
@@ -64552,7 +64548,6 @@ lysosome=lysosome/NN,lysosomes/NNS=all
 lysozyme=lysozyme/NN:U,lysozymes/NNS=all
 lytic=JJ=all
 löllingite=NN:U=all
-mA=NNP=all
 mCi=mCi/NN:U,mCi/NNP=all
 mRNA=mRNA/NN,mRNA/NNP,mRNAs/NNS=all
 mSATA=NNP=all
@@ -69825,7 +69820,6 @@ non-Aryan=non-Aryan/NNP,non-Aryans/NNPS=all
 non-British=JJ=all
 non-Catholic=non-Catholic/JJ=all
 non-Catholic=non-Catholic/NNP=all
-non-Chinese=NNP=all
 non-Christian=non-Christian/JJ=all
 non-Christian=non-Christian/NNP=all
 non-English=non-English/JJ=all
