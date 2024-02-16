@@ -30,8 +30,8 @@ with open(file_path, 'r') as file:
       clean_output.write(lemma + "=" + tag + "=all\n")
     elif tag == "UNTAGGED" and variants == "gb" and starts_with_prefix(lemma):
        discarded_output.write(line + "\n")
-    #elif tag == "NNP" and variants!="none":
-    #  clean_output.write(lemma + "=" + tag + "=all\n")
+    elif tag == "NNP" and variants!="none":
+      clean_output.write(lemma + "=" + tag + "=all\n")
     else:
       pending_output.write(line + "\n")
     
