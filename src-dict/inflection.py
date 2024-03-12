@@ -1,11 +1,11 @@
 import re
 
-def getInflectedForms(lemma, PoS):
+def getInflectedForms(lemma, pos):
   forms = ""
   patternCVC = r"^[^aeiou]+[aeiou][^aeiou]$"
   vowels = "aeiou";
   # inflection of regular verbs
-  if PoS=="verb":
+  if pos=="verb":
     if lemma.endswith("e"):
       root = lemma[:-1]
       forms = "-e/VB,-ed/VBD,-ing/VBG,-ed/VBN,-e/VBP,-es/VBZ".replace("-", root)
@@ -23,7 +23,7 @@ def getInflectedForms(lemma, PoS):
       forms = "-/VB,-ed/VBD,-ing/VBG,-ed/VBN,-/VBP,-s/VBZ".replace("-", lemma)
 
   #inflection of regular nouns
-  if PoS=="noun":
+  if pos=="noun":
     if lemma[-2:] in ["ch","sh"] or lemma[-1] in "sxz":
       forms = "-/NN,-es/NNS".replace("-", lemma)
     #potato/potatoes  
