@@ -4081,7 +4081,6 @@ sterilizations;sterilisations
 sterilize;sterilise
 sterilized;sterilised
 sterilizer;steriliser
-sterilizer;sterilize
 sterilizers;sterilisers
 sterilizes;sterilises
 sterilizing;sterilising
