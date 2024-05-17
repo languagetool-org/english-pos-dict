@@ -1,3 +1,4 @@
+
 #=#=all
 1st=1st/JJ=all
 1st=1st/RB=all
@@ -23467,6 +23468,8 @@ TeamViewer=NNP=all
 Teaneck=NNP=all
 Teasdale=NNP=all
 Tecate=NNP=all
+Technicolor=Technicolor/NNP,Technicolors/NNPS=all
+Technicolour=Technicolour/NNP,Technicolours/NNPS=gb,ca,au,nz,za
 Technoblade=NNP=all
 Tecumseh=NNP=all
 Ted=NNP=all
@@ -28422,6 +28425,7 @@ ambassador=ambassador/NN,ambassadors/NNS=all
 ambassadorial=JJ=all
 ambassadorship=ambassadorship/NN,ambassadorships/NNS=all
 ambassadress=ambassadress/NN,ambassadresses/NNS=all
+amber-colored|amber-coloured=JJ=us|gb,ca,au,nz,za
 amber=amber/JJ=all
 amber=amber/NN:U,ambers/NNS=all
 ambergris=ambergris/NN:U,ambergrises/NNS=all
@@ -29173,6 +29177,7 @@ anti=anti/NN,antis/NNS=all
 antialiasing=antialiasing/NN,antialiasing/NN:UN,antialiasings/NNS=all
 antianginal=JJ=all
 antianxiety=JJ=all
+antiarmor|antiarmour=JJ=us|gb,ca,au,nz,za
 antiarrhythmic=antiarrhythmic/JJ=all
 antiarrhythmic=antiarrhythmic/NN,antiarrhythmics/NNS=all
 antibacterial=antibacterial/JJ=all
@@ -29215,6 +29220,7 @@ anticoagulation=anticoagulation/JJ=all
 anticoagulation=anticoagulation/NN:UN=all
 anticoagulatory=JJ=all
 anticodon=anticodon/NN,anticodons/NNS=all
+anticolor|anticolour=noun=us|gb,ca,au,nz,za
 anticommunism=anticommunism/NN:U,anticommunisms/NNS=all
 anticommunist=anticommunist/JJ=all
 anticommunist=anticommunist/NN,anticommunists/NNS=all
@@ -29267,6 +29273,7 @@ antihypertensive=antihypertensive/JJ=all
 antihypertensive=antihypertensive/NN,antihypertensives/NNS=all
 antiknock=antiknock/JJ=all
 antiknock=antiknock/NN:U,antiknocks/NNS=all
+antilabor|antilabour=JJ=us|gb,ca,au,nz,za
 antileishmanial=JJ=all
 antilinear=JJ=all
 antilog=antilog/NN,antilogs/NNS=all
@@ -29389,8 +29396,8 @@ antitoxin=antitoxin/NN:U,antitoxins/NNS=all
 antitrust=antitrust/JJ=all
 antitrust=antitrust/NN=all
 antitrypsin=JJ=all
-antitumor=JJ=all
-antitumoral=JJ=all
+antitumoral|antitumoural=JJ=us|gb,ca,au,nz,za
+antitumor|antitumour=JJ=us|gb,ca,au,nz,za
 antitussive=antitussive/JJ=all
 antitussive=antitussive/NN,antitussives/NNS=all
 antitype=antitype/NN,antitypes/NNS=all
@@ -29782,6 +29789,7 @@ arbitrate=verb=all
 arbitration=arbitration/NN:U,arbitrations/NNS=all
 arbitrator=arbitrator/NN,arbitrators/NNS=all
 arboreal=JJ=all
+arbored|arboured=JJ=us|gb,ca,au,nz,za
 arborescent=JJ=all
 arboretum=arboretum/NN,arboreta/NNS,arboretums/NNS=all
 arboricultural=JJ=all
@@ -29791,6 +29799,7 @@ arborist=arborist/NN,arborists/NNS=all
 arborization|arborisation=noun_UN=us,ca,gb|gb,au,nz,za
 arborize=verb=all
 arborvitae=arborvitae/NN,arborvitaes/NNS=all
+arbor|arbour=noun=us|gb,ca,au,nz,za
 arbovirus=arbovirus/NN,arboviruses/NNS=all
 arbutus=arbutus/NN,arbutuses/NNS=all
 arc=arc/NN,arcs/NNS=all
@@ -29886,6 +29895,7 @@ arcuate=JJ=all
 ardency=ardency/NN,ardencies/NNS=all
 ardent=JJ=all
 ardently=RB=all
+ardor|ardour=noun=us|gb,ca,au,nz,za
 arduous=JJ=all
 arduously=RB=all
 arduousness=arduousness/NN:U,arduousnesses/NNS=all
@@ -29971,8 +29981,20 @@ armless=JJ=all
 armlet=armlet/NN,armlets/NNS=all
 armload=armload/NN,armloads/NNS=all
 armoire=armoire/NN,armoires/NNS=all
+armor-bearer|armour-bearer=noun=us|gb,ca,au,nz,za
+armor-clad|armour-clad=JJ=us|gb,ca,au,nz,za
+armor-piercing|armour-piercing=JJ=us|gb,ca,au,nz,za
+armor-plated|armour-plated=JJ=us|gb,ca,au,nz,za
+armorbearer|armourbearer=noun=us|gb,ca,au,nz,za
+armored|armoured=JJ=us|gb,ca,au,nz,za
+armorer|armourer=noun=us|gb,ca,au,nz,za
 armorial=armorial/JJ=all
-armorial=armorial/NN=all
+armorial=noun=all
+armoried|armouried=JJ=us|gb,ca,au,nz,za
+armorless|armourless=JJ=us|gb,ca,au,nz,za
+armory|armoury=noun_UN=us|gb,ca,au,nz,za
+armor|armour=noun=us|gb,ca,au,nz,za
+armor|armour=verb=us|gb,ca,au,nz,za
 armpit=armpit/NN,armpits/NNS=all
 armrest=armrest/NN,armrests/NNS=all
 army=army/NN,armies/NNS=all
@@ -30176,6 +30198,7 @@ asexual=asexual/NN,asexuals/NNS=all
 asexuality=asexuality/NN:U,asexualities/NNS=all
 asexualization|asexualisation=noun_UN=us,ca,gb|gb,au,nz,za
 asexually=RB=all
+ash-colored|ash-coloured=JJ=us|gb,ca,au,nz,za
 ash=ash/NN:UN,ashes/NNS=all
 ash=verb=all
 ashamed=JJ=all
@@ -32218,6 +32241,17 @@ beguine=beguine/NN,beguines/NNS=all
 begum=begum/NN,begums/NNS=all
 behalf=behalf/NN:U,behalves/NNS=all
 behave=verb=all
+behavioralism|behaviouralism=noun_UN=us|gb,ca,au,nz,za
+behavioralist|behaviouralist=noun=us|gb,ca,au,nz,za
+behaviorally|behaviorally=RB=us|gb,ca,au,nz,za
+behavioral|behavioural=JJ=us|gb,ca,au,nz,za
+behaviorism|behaviourism=noun_UN=us|gb,ca,au,nz,za
+behavioristically|behaviouristically=RB=us|gb,ca,au,nz,za
+behavioristics|behaviouristics=NN=us|gb,ca,au,nz,za
+behavioristic|behaviouristic=JJ=us|gb,ca,au,nz,za
+behaviorist|behaviourist=JJ=us|gb,ca,au,nz,za
+behaviorist|behaviourist=noun=us|gb,ca,au,nz,za
+behavior|behaviour=noun_UN=us|gb,ca,au,nz,za
 behead=verb=all
 beheaded=JJ=all
 beheading=beheading/NN:UN,beheadings/NNS=all
@@ -32236,6 +32270,7 @@ beige=beige/JJ=all
 beige=beige/NN:U,beiges/NNS=all
 being=being/NN:UN,beings/NNS=all
 bejewel=bejewel/VB,bejeweled/VBD,bejewelled/VBD,bejeweling/VBG,bejewelling/VBG,bejeweled/VBN,bejewelled/VBN,bejewel/VBP,bejewels/VBZ=all
+belabor|belabour=verb=us|gb,ca,au,nz,za
 belated=JJ=all
 belatedly=RB=all
 belatedness=belatedness/NN,belatednesses/NNS=all
@@ -32588,6 +32623,9 @@ bicker=verb=all
 bickerer=bickerer/NN,bickerers/NNS=all
 bickering=NN:UN=all
 bicoastal=JJ=all
+bicolored|bicoloured=JJ=us|gb,ca,au,nz,za
+bicolor|bicolour=JJ=us|gb,ca,au,nz,za
+bicolor|bicolour=noun=us|gb,ca,au,nz,za
 biconcave=JJ=all
 biconditional=biconditional/NN,biconditionals/NNS=all
 biconvex=JJ=all
@@ -32782,6 +32820,7 @@ bioavailability=bioavailability/NN:UN,bioavailabilities/NNS=all
 bioavailable=JJ=all
 biobank=biobank/NN,biobanks/NNS=all
 biobanking=NN:U=all
+biobehavioral|biobehavioural=JJ=us|gb,ca,au,nz,za
 biocapacity=biocapacity/NN,biocapacities/NNS=all
 biocatalyst=biocatalyst/NN,biocatalysts/NNS=all
 biocellate=JJ=all
@@ -33487,6 +33526,7 @@ bludgeon=bludgeon/NN,bludgeons/NNS=all
 bludgeon=verb=all
 blue-chip=JJ=all
 blue-collar=JJ=all
+blue-colored|blue-coloured=JJ=us|gb,ca,au,nz,za
 blue-sky=JJ=all
 blue=blue/JJ,bluer/JJR,bluest/JJS=all
 blue=blue/NN:UN,blues/NNS=all
@@ -34382,6 +34422,7 @@ brigand=brigand/NN,brigands/NNS=all
 brigandage=brigandage/NN:U,brigandages/NNS=all
 brigandine=brigandine/NN,brigandines/NNS=all
 brigantine=brigantine/NN,brigantines/NNS=all
+bright-colored|bright-coloured=JJ=us|gb,ca,au,nz,za
 bright=bright/JJ,brighter/JJR,brightest/JJS=all
 bright=bright/NN,brights/NNS=all
 brighten=verb=all
@@ -34522,6 +34563,7 @@ bronco=bronco/NN,broncos/NNS=all
 broncobuster=broncobuster/NN,broncobusters/NNS=all
 brontosaur=brontosaur/NN,brontosaurs/NNS=all
 brontosaurus=brontosaurus/NN,brontosauri/NNS,brontosauruses/NNS=all
+bronze-colored|bronze-coloured=JJ=us|gb,ca,au,nz,za
 bronze=bronze/JJ,bronzer/JJR=all
 bronze=bronze/NN:UN,bronzes/NNS=all
 bronze=verb=all
@@ -38395,6 +38437,7 @@ coexisting=JJ=all
 coextensive=JJ=all
 coextensively=RB=all
 cofactor=cofactor/NN:U,cofactors/NNS=all
+coffee-colored|coffee-coloured=JJ=us|gb,ca,au,nz,za
 coffee=coffee/NN:U,coffees/NNS=all
 coffer=coffer/NN,coffers/NNS=all
 cofferdam=cofferdam/NN,cofferdams/NNS=all
@@ -38649,20 +38692,71 @@ colonoscope=colonoscope/NN,colonoscopes/NNS=all
 colonoscopy=colonoscopy/NN,colonoscopies/NNS=all
 colony=colony/NN,colonies/NNS=all
 colophon=colophon/NN,colophons/NNS=all
+color-bearer|colour-bearer=noun=us|gb,ca,au,nz,za
+color-blindness|colour-blindness=NN=us|gb,ca,au,nz,za
+color-blind|colour-blind=JJ=us|gb,ca,au,nz,za
+color-blocked|colour-blocked=JJ=us|gb,ca,au,nz,za
+color-block|colour-block=JJ=us|gb,ca,au,nz,za
+color-changing|colour-changing=JJ=us|gb,ca,au,nz,za
+color-code|colour-code=verb=us|gb,ca,au,nz,za
+color-field|colour-field=NN=us|gb,ca,au,nz,za
+color-sensitive|colour-sensitive=JJ=us|gb,ca,au,nz,za
+colorability|colourability=noun_UN=us|gb,ca,au,nz,za
+colorableness|colourableness=NN=us|gb,ca,au,nz,za
+colorable|colourable=JJ=us|gb,ca,au,nz,za
+colorably|colourably=RB=us|gb,ca,au,nz,za
+coloradoite=noun=all
+colorant|colourant=noun=us|gb,ca,au,nz,za
+colorationally|colourationally=RB=us|gb,ca,au,nz,za
+colorational|colourational=JJ=us|gb,ca,au,nz,za
+coloration|colouration=noun_UN=us|gb,ca,au,nz,za
 coloratura=coloratura/JJ=all
 coloratura=coloratura/NN:U,coloraturas/NNS=all
+colorblindness|colourblindness=NN=us|gb,ca,au,nz,za
+colorblind|colourblind=JJ=us|gb,ca,au,nz,za
+colorcast=colorcast/VB,colorcast/VBD,colorcasted/VBD,colorcasting/VBG,colorcast/VBN,colorcasted/VBN,colorcast/VBP,colorcasts/VBZ=us
+colorcast|colourcast=noun=us|gb,ca,au,nz,za
 colorectal=JJ=all
-colorimeter=colorimeter/NN,colorimeters/NNS=all
+colored|coloured=JJ=us|gb,ca,au,nz,za
+colored|coloured=noun=us|gb,ca,au,nz,za
+colorer|colourer=noun=us|gb,ca,au,nz,za
+colorfastness|colourfastness=NN=us|gb,ca,au,nz,za
+colorfast|colourfast=JJ=us|gb,ca,au,nz,za
+colorfield|colourfield=NN=us|gb,ca,au,nz,za
+colorfully|colourfully=RB=us|gb,ca,au,nz,za
+colorfulness|colourfulness=NN=us|gb,ca,au,nz,za
+colorful|colourful=JJ=us|gb,ca,au,nz,za
+colorific|colourific=JJ=us|gb,ca,au,nz,za
+colorimeter=noun=all
 colorimetric=JJ=all
 colorimetrical=JJ=all
 colorimetrically=RB=all
-colorization|colorisation=noun_UN=us,ca,gb|gb,au,nz,za
+colorimetrist=noun=all
+colorimetry=noun_UN=all
+coloring|colouring=JJ=us|gb,ca,au,nz,za
+coloring|colouring=noun_UN=us|gb,ca,au,nz,za
+colorism|colourism=noun_UN=us|gb,ca,au,nz,za
+coloristically|colouristically=RB=us|gb,ca,au,nz,za
+coloristic|colouristic=JJ=us|gb,ca,au,nz,za
+colorist|colourist=noun=us|gb,ca,au,nz,za
+colorization|colourisation|colourization=noun_UN=us|gb,au,nz,za|ca,gb
+colorize|colourise|colourize=verb=us|gb,au,nz,za|ca,gb
+colorlessly|colourlessly=RB=us|gb,ca,au,nz,za
+colorlessness|colourlessness=NN=us|gb,ca,au,nz,za
+colorless|colourless=JJ=us|gb,ca,au,nz,za
+colorman=colorman/NN,colormen/NNS=us
+colorpoint|colourpoint=JJ=us|gb,ca,au,nz,za
+colorpoint|colourpoint=noun=us|gb,ca,au,nz,za
+colorway|colourway=noun=us|gb,ca,au,nz,za
+colory|coloury=JJ=us|gb,ca,au,nz,za
+color|colour=noun_UN=us|gb,ca,au,nz,za
+color|colour=verb=us|gb,ca,au,nz,za
 colossal=JJ=all
 colossally=RB=all
 colossus=colossus/NN,colossi/NNS,colossuses/NNS=all
 colostomy=colostomy/NN,colostomies/NNS=all
 colostrum=colostrum/NN:U,colostrums/NNS=all
-colourization|colourisation=noun_UN=us,ca,gb|gb,au,nz,za
+colourman=colourman/NN,colourmen/NNS=gb,ca,au,nz,za
 colt=colt/NN,colts/NNS=all
 colter=colter/NN,colters/NNS=all
 coltish=JJ=all
@@ -40221,6 +40315,7 @@ copolymer=copolymer/NN:U,copolymers/NNS=all
 copolymerization|copolymerisation=noun_UN=us,ca,gb|gb,au,nz,za
 copolymerize=verb=all
 copout=copout/NN,copouts/NNS=all
+copper-colored|copper-coloured=JJ=us|gb,ca,au,nz,za
 copper=copper/NN:U,coppers/NNS=all
 copper=verb=all
 copperas=copperas/NN,copperases/NNS=all
@@ -40327,6 +40422,7 @@ corkwood=corkwood/NN,corkwoods/NNS=all
 corky=corky/JJ,corkier/JJR,corkiest/JJS=all
 corm=corm/NN,corms/NNS=all
 cormorant=cormorant/NN,cormorants/NNS=all
+corn-colored|corn-coloured=JJ=us|gb,ca,au,nz,za
 corn=corn/NN:U,corns/NNS=all
 corn=verb=all
 cornball=cornball/JJ=all
@@ -40611,6 +40707,7 @@ countdown=countdown/NN,countdowns/NNS=all
 countenance=countenance/NN:UN,countenances/NNS=all
 countenance=verb=all
 countenancer=countenancer/NN,countenancers/NNS=all
+counter-colored|counter-coloured=JJ=us|gb,ca,au,nz,za
 counter=counter/JJ=all
 counter=counter/NN,counters/NNS=all
 counter=verb=all
@@ -40636,6 +40733,7 @@ counterclaim=counterclaim/NN,counterclaims/NNS=all
 counterclaim=verb=all
 counterclockwise=counterclockwise/JJ=all
 counterclockwise=counterclockwise/RB=all
+countercolored|countercoloured=JJ=us|gb,ca,au,nz,za
 countercoup=countercoup/NN,countercoups/NNS=all
 countercry=countercry/NN,countercries/NNS=all
 countercultural=JJ=all
@@ -41049,6 +41147,7 @@ creakily=RB=all
 creakiness=creakiness/NN:U,creakinesses/NNS=all
 creaking=JJ=all
 creaky=creaky/JJ,creakier/JJR,creakiest/JJS=all
+cream-colored|cream-coloured=JJ=us|gb,ca,au,nz,za
 cream=cream/JJ,creamer/JJR=all
 cream=cream/NN:U,creams/NNS=all
 cream=verb=all
@@ -42227,6 +42326,7 @@ daring=daring/NN:U,darings/NNS=all
 daringly=RB=all
 daringness=daringness/NN,daringnesses/NNS=all
 dariole=dariole/NN,darioles/NNS=all
+dark-colored|dark-coloured=JJ=us|gb,ca,au,nz,za
 dark=dark/JJ,darker/JJR,darkest/JJS=all
 dark=dark/NN:U,darks/NNS=all
 darken=verb=all
@@ -42705,9 +42805,13 @@ decoder=decoder/NN,decoders/NNS=all
 decollectivization|decollectivisation=noun_UN=us,ca,gb|gb,au,nz,za
 decolonization|decolonisation=noun_UN=us,ca,gb|gb,au,nz,za
 decolonize=verb=all
-decolorization|decolorisation=noun_UN=us,ca,gb|gb,au,nz,za
-decolorize=verb=all
-decolourization|decolourisation=noun_UN=us,ca,gb|gb,au,nz,za
+decolorant|decolourant=JJ=us|gb,ca,au,nz,za
+decolorant|decolourant=noun=us|gb,ca,au,nz,za
+decoloration|decolouration=noun_UN=us|gb,ca,au,nz,za
+decolorization|decolourisation|decolourization=noun_UN=us|gb,au,nz,za|ca,gb
+decolorizer|decolouriser|decolourizer=noun=us|gb,au,nz,za|ca,gb
+decolorize|decolourise|decolourize=verb=us|gb,au,nz,za|ca,gb
+decolor|decolour=verb=us|gb,ca,au,nz,za
 decommission=decommission/NN,decommissions/NNS=all
 decommission=verb=all
 decommunization|decommunisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -44624,6 +44728,12 @@ discography=discography/NN,discographies/NNS=all
 discoid=discoid/JJ=all
 discoid=discoid/NN,discoids/NNS=all
 discoidal=JJ=all
+discoloration|discolouration=noun_UN=us|gb,ca,au,nz,za
+discoloredness|discolouredness=NN=us|gb,ca,au,nz,za
+discolored|discoloured=JJ=us|gb,ca,au,nz,za
+discolorize|discolourise|discolourize=verb=us|gb,au,nz,za|ca,gb
+discolorment|discolourment=noun_UN=us|gb,ca,au,nz,za
+discolor|discolour=verb=us|gb,ca,au,nz,za
 discombobulate=verb=all
 discombobulation=discombobulation/NN:U,discombobulations/NNS=all
 discomfit=verb=all
@@ -45693,6 +45803,7 @@ dourly=RB=all
 dourness=dourness/NN:U,dournesses/NNS=all
 douse=verb=all
 douser=douser/NN,dousers/NNS=all
+dove-colored|dove-coloured=JJ=us|gb,ca,au,nz,za
 dove=dove/NN,doves/NNS=all
 dovecot=dovecot/NN,dovecots/NNS=all
 dovecote=dovecote/NN,dovecotes/NNS=all
@@ -50906,6 +51017,7 @@ flamboyant=flamboyant/NN=all
 flamboyantly=RB=all
 flambé=flambé/JJ=all
 flambé=verb=all
+flame-colored|flame-coloured=JJ=us|gb,ca,au,nz,za
 flame=flame/NN:UN,flames/NNS=all
 flame=verb=all
 flameless=JJ=all
@@ -51053,6 +51165,7 @@ fleetingness=fleetingness/NN:U,fleetingnesses/NNS=all
 fleetly=RB=all
 fleetness=fleetness/NN:U,fleetnesses/NNS=all
 flerovium=NN:U=all
+flesh-colored|flesh-coloured=JJ=us|gb,ca,au,nz,za
 flesh=flesh/NN:UN,fleshes/NNS=all
 flesh=verb=all
 flesher=flesher/NN,fleshers/NNS=all
@@ -51919,6 +52032,7 @@ foundry=foundry/NN,foundries/NNS=all
 fount=fount/NN,founts/NNS=all
 fountain=fountain/NN,fountains/NNS=all
 fountainhead=fountainhead/NN,fountainheads/NNS=all
+four-color|four-colour=JJ=us|gb,ca,au,nz,za
 four-engined=JJ=all
 four-lane=JJ=all
 four-seater=four-seater/NN,four-seaters/NNS=all
@@ -54019,6 +54133,7 @@ goggle=verb=all
 goggler=goggler/NN,gogglers/NNS=all
 going=going/NN:UN,goings/NNS=all
 goitrous=JJ=all
+gold-colored|gold-coloured=JJ=us|gb,ca,au,nz,za
 gold=gold/JJ,golder/JJR,goldest/JJS=all
 gold=gold/NN:U,golds/NNS=all
 goldbrick=goldbrick/NN,goldbricks/NNS=all
@@ -54479,6 +54594,7 @@ greedily=RB=all
 greediness=greediness/NN:U,greedinesses/NNS=all
 greedy=greedy/JJ,greedier/JJR,greediest/JJS=all
 greegree=greegree/NN,greegrees/NNS=all
+green-colored|green-coloured=JJ=us|gb,ca,au,nz,za
 green-light=green-light/JJ=all
 green-light=verb=all
 green=green/JJ,greener/JJR,greenest/JJS=all
@@ -55159,6 +55275,7 @@ hale=verb=all
 haleness=haleness/NN,halenesses/NNS=all
 haler=haler/NN,halers/NNS=all
 half-assed=JJ=all
+half-colored|half-coloured=JJ=us|gb,ca,au,nz,za
 half-heartedly=RB=all
 half-hourly=half-hourly/JJ=all
 half-hourly=half-hourly/RB=all
@@ -55252,6 +55369,7 @@ hamper=verb=all
 hamster=hamster/NN,hamsters/NNS=all
 hamstring=hamstring/NN,hamstrings/NNS=all
 hamstring=hamstring/VB,hamstrung/VBD,hamstringing/VBG,hamstrung/VBN,hamstring/VBP,hamstrings/VBZ=all
+hand-colored|hand-coloured=JJ=us|gb,ca,au,nz,za
 hand-deliver=verb=all
 hand-held=JJ=all
 hand-hold=hand-hold/NN,hand-holds/NNS=all
@@ -56438,6 +56556,7 @@ higgling=higgling/NN:UN,higglings/NNS=all
 high-cal=JJ=all
 high-carbon=JJ=all
 high-ceilinged=JJ=all
+high-colored|high-coloured=JJ=us|gb,ca,au,nz,za
 high-end=JJ=all
 high-functioning=JJ=all
 high-pressure=high-pressure/JJ=all
@@ -60312,6 +60431,7 @@ interbank=JJ=all
 interbed=interbed/NN,interbeds/NNS=all
 interbed=interbed/VB,interbedded/VBD,interbedding/VBG,interbedded/VBN,interbed/VBP,interbeds/VBZ=all
 interbedded=JJ=all
+interbehavior|interbehaviour=noun=us|gb,ca,au,nz,za
 interbody=JJ=all
 interbred=JJ=all
 interbreed=interbreed/VB,interbred/VBD,interbreeding/VBG,interbred/VBN,interbreed/VBP,interbreeds/VBZ=all
@@ -63058,6 +63178,7 @@ leach=leach/NN,leaches/NNS=all
 leach=verb=all
 leachate=leachate/NN,leachates/NNS=all
 leaching=leaching/NN:UN,leachings/NNS=all
+lead-colored|lead-coloured=JJ=us|gb,ca,au,nz,za
 lead=lead/NN:UN,leads/NNS=all
 lead=lead/VB,leaded/VBD,led/VBD,leading/VBG,leaded/VBN,led/VBN,lead/VBP,leads/VBZ=all
 leadable=JJ=all
@@ -63613,6 +63734,7 @@ ligation=ligation/NN:U,ligations/NNS=all
 ligature=ligature/NN,ligatures/NNS=all
 ligature=verb=all
 liger=liger/NN,ligers/NNS=all
+light-colored|light-coloured=JJ=us|gb,ca,au,nz,za
 light-headed=JJ=all
 light-headedly=RB=all
 light-headedness=NN:U=all
@@ -67288,6 +67410,7 @@ misbegotten=JJ=all
 misbehave=verb=all
 misbehaver=misbehaver/NN,misbehavers/NNS=all
 misbehavior=misbehavior/NN:U,misbehaviors/NNS=all
+misbehavior|misbehaviour=noun_UN=us|gb,ca,au,nz,za
 misbelief=misbelief/NN,misbeliefs/NNS,misbelieves/NNS=all
 misbelieve=verb=all
 misbeliever=misbeliever/NN,misbelievers/NNS=all
@@ -68278,6 +68401,7 @@ mournfully=RB=all
 mournfulness=mournfulness/NN:U,mournfulnesses/NNS=all
 mourning=mourning/JJ=all
 mourning=mourning/NN:U,mournings/NNS=all
+mouse-colored|mouse-coloured=JJ=us|gb,ca,au,nz,za
 mouse=mouse/NN,mice/NNS=all
 mouse=verb=all
 mousebird=mousebird/NN,mousebirds/NNS=all
@@ -68481,6 +68605,9 @@ multichain=JJ=all
 multichannel=multichannel/JJ=all
 multichannel=multichannel/NN,multichannels/NNS=all
 multicollinearity=NN:UN=all
+multicolored|multicoloured=JJ=us|gb,ca,au,nz,za
+multicolor|multicolour=JJ=us|gb,ca,au,nz,za
+multicolor|multicolour=noun=us|gb,ca,au,nz,za
 multicommodity=JJ=all
 multicore=multicore/JJ=all
 multicore=multicore/NN=all
@@ -69606,6 +69733,7 @@ neuroanatomic=JJ=all
 neuroanatomical=JJ=all
 neuroanatomist=neuroanatomist/NN,neuroanatomists/NNS=all
 neuroanatomy=neuroanatomy/NN,neuroanatomies/NNS=all
+neurobehavioral|neurobehavioural=JJ=us|gb,ca,au,nz,za
 neurobiological=JJ=all
 neurobiologist=neurobiologist/NN,neurobiologists/NNS=all
 neurobiology=neurobiology/NN:UN,neurobiologies/NNS=all
@@ -70147,6 +70275,8 @@ nonchalantly=RB=all
 noncharismatic=JJ=all
 noncharitable=JJ=all
 noncollinear=JJ=all
+noncolorability|noncolourability=noun_UN=us|gb,ca,au,nz,za
+noncolor|noncolour=noun=us|gb,ca,au,nz,za
 noncombatant=noncombatant/JJ=all
 noncombatant=noncombatant/NN,noncombatants/NNS=all
 noncompliance=noncompliance/NN:U,noncompliances/NNS=all
@@ -71041,6 +71171,7 @@ oenophile=oenophile/NN,oenophiles/NNS=all
 oestrogenization|oestrogenisation=noun_UN=us,ca,gb|gb,au,nz,za
 oeuvre=oeuvre/NN,oeuvres/NNS=all
 of=IN=all
+off-color|off-colour=JJ=us|gb,ca,au,nz,za
 off-key=off-key/JJ=all
 off-key=off-key/RB=all
 off-peak=off-peak/JJ=all
@@ -71592,6 +71723,7 @@ orality=orality/NN:UN,oralities/NNS=all
 orally=RB=all
 orang=orang/JJ,oranger/JJR,orangest/JJS=all
 orang=orang/NN,orangs/NNS=all
+orange-colored|orange-coloured=JJ=us|gb,ca,au,nz,za
 orange=orange/JJ,oranger/JJR,orangest/JJS=all
 orange=orange/NN:UN,oranges/NNS=all
 orangeade=orangeade/NN:U,orangeades/NNS=all
@@ -72237,6 +72369,7 @@ overcheck=NN=all
 overcivilization|overcivilisation=noun_UN=us,ca,gb|gb,au,nz,za
 overcloud=verb=all
 overcoat=overcoat/NN,overcoats/NNS=all
+overcoloration|overcolouration=noun_UN=us|gb,ca,au,nz,za
 overcome=overcome/VB,overcame/VBD,overcoming/VBG,overcome/VBN,overcome/VBP,overcomes/VBZ=all
 overcomer=overcomer/NN,overcomers/NNS=all
 overcommercialization|overcommercialisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -73426,6 +73559,7 @@ parthenocarpy=parthenocarpy/NN:U,parthenocarpies/NNS=all
 parthenogenesis=parthenogenesis/NN:U,parthenogeneses/NNS=all
 parthenogenetic=JJ=all
 parthenogenetically=RB=all
+parti-colored|parti-coloured=JJ=us|gb,ca,au,nz,za
 partial=partial/JJ=all
 partial=partial/NN,partials/NNS=all
 partiality=partiality/NN:U,partialities/NNS=all
@@ -73446,6 +73580,7 @@ participially=RB=all
 participle=participle/NN,participles/NNS=all
 particle=particle/NN,particles/NNS=all
 particleboard=particleboard/NN:U,particleboards/NNS=all
+particolored|particoloured=JJ=us|gb,ca,au,nz,za
 particular=particular/JJ=all
 particular=particular/NN,particulars/NNS=all
 particularism=particularism/NN:UN,particularisms/NNS=all
@@ -73481,6 +73616,7 @@ parturifacient=parturifacient/JJ=all
 parturifacient=parturifacient/NN,parturifacients/NNS=all
 parturition=parturition/NN:U,parturitions/NNS=all
 partway=JJ=all
+party-colored|party-coloured=JJ=us|gb,ca,au,nz,za
 party-pooper=party-pooper/NN,party-poopers/NNS=all
 party=party/JJ,partier/JJR=all
 party=party/NN:UN,parties/NNS=all
@@ -73794,6 +73930,7 @@ peacemaker=peacemaker/NN,peacemakers/NNS=all
 peacemaking=peacemaking/JJ=all
 peacemaking=peacemaking/NN:U,peacemakings/NNS=all
 peacetime=peacetime/NN:U,peacetimes/NNS=all
+peach-colored|peach-coloured=JJ=us|gb,ca,au,nz,za
 peach=peach/NN,peaches/NNS=all
 peach=verb=all
 peachy=peachy/JJ,peachier/JJR,peachiest/JJS=all
@@ -75431,6 +75568,7 @@ pining=NN:UN=all
 pinion=pinion/NN,pinions/NNS=all
 pinion=verb=all
 pinioned=JJ=all
+pink-colored|pink-coloured=JJ=us|gb,ca,au,nz,za
 pink=pink/JJ,pinker/JJR,pinkest/JJS=all
 pink=pink/NN:UN,pinks/NNS=all
 pink=verb=all
@@ -77270,6 +77408,7 @@ precognitive=JJ=all
 precollege=precollege/JJ=all
 precollege=precollege/NN,precolleges/NNS=all
 precolonial=JJ=all
+precoloration|precolouration=noun_UN=us|gb,ca,au,nz,za
 precompetitive=JJ=all
 precompile=verb=all
 precompose=verb=all
@@ -78821,6 +78960,8 @@ pseudoaneurysm=pseudoaneurysm/NN,pseudoaneurysms/NNS=all
 pseudocarp=pseudocarp/JJ=all
 pseudocarp=pseudocarp/NN,pseudocarp/NNS=all
 pseudocode=pseudocode/NN:U,pseudocode/NN:UN,pseudocodes/NNS=all
+pseudocoloring|pseudocolouring=noun=us|gb,ca,au,nz,za
+pseudocolor|pseudocolour=noun=us|gb,ca,au,nz,za
 pseudogene=pseudogene/NN,pseudogenes/NNS=all
 pseudogeneric=JJ=all
 pseudonym=pseudonym/NN,pseudonyms/NNS=all
@@ -79238,6 +79379,7 @@ purling=purling/NN:UN,purling/NNS=all
 purloin=verb=all
 purloined=JJ=all
 purloiner=purloiner/NN,purloiners/NNS=all
+purple-colored|purple-coloured=JJ=us|gb,ca,au,nz,za
 purple=purple/JJ,purpler/JJR,purplest/JJS=all
 purple=purple/NN:UN,purples/NNS=all
 purple=verb=all
@@ -79884,6 +80026,8 @@ quoth=quoth/VB,quoth/VBP=all
 quotidian=quotidian/JJ=all
 quotidian=quotidian/NN=all
 quotient=quotient/NN,quotients/NNS=all
+r-colored|r-coloured=JJ=us|gb,ca,au,nz,za
+r-color|r-colour=noun=us|gb,ca,au,nz,za
 rDNA=NN:U=all
 rRNA=NN:U=all
 rabbet=rabbet/NN,rabbets/NNS=all
@@ -80100,6 +80244,7 @@ raiment=raiment/NN:U,raiments/NNS=all
 rain=rain/NN:U,rains/NNS=all
 rain=verb=all
 rainbird=rainbird/NN,rainbirds/NNS=all
+rainbow-colored|rainbow-coloured=JJ=us|gb,ca,au,nz,za
 rainbow=rainbow/JJ=all
 rainbow=rainbow/NN,rainbows/NNS=all
 raincoat=raincoat/NN,raincoats/NNS=all
@@ -80798,6 +80943,8 @@ recollected=JJ=all
 recollection=recollection/NN:UN,recollections/NNS=all
 recolonization|recolonisation=noun_UN=us,ca,gb|gb,au,nz,za
 recolonize=verb=all
+recoloration|recolouration=noun_UN=us|gb,ca,au,nz,za
+recolor|recolour=verb=us|gb,ca,au,nz,za
 recombinant=recombinant/NN,recombinants/NNS=all
 recombination=recombination/NN,recombination/NN:U,recombinations/NNS=all
 recombine=verb=all
@@ -80978,6 +81125,7 @@ recycler=recycler/NN,recyclers/NNS=all
 recycling=recycling/NN:U,recyclings/NNS=all
 red-bellied=JJ=all
 red-coated=JJ=all
+red-colored|red-coloured=JJ=us|gb,ca,au,nz,za
 red-light=JJ=all
 red-tabbed=JJ=all
 red-tailed=JJ=all
@@ -83415,6 +83563,7 @@ rosacea=rosacea/NN:U,rosaceas/NNS=all
 rosaniline=rosaniline/NN,rosanilines/NNS=all
 rosarium=rosarium/NN,rosaria/NNS,rosariums/NNS=all
 rosary=rosary/NN,rosaries/NNS=all
+rose-colored|rose-coloured=JJ=us|gb,ca,au,nz,za
 rose-scented=JJ=all
 rose=rose/NN:UN,roses/NNS=all
 roseate=JJ=all
@@ -83761,6 +83910,7 @@ rusk=rusk/NN:UN,rusks/NNS=all
 russet=russet/JJ=all
 russet=russet/NN:UN,russets/NNS=all
 russety=JJ=all
+rust-colored|rust-coloured=JJ=us|gb,ca,au,nz,za
 rust=rust/NN:U,rusts/NNS=all
 rust=verb=all
 rusted=JJ=all
@@ -84215,6 +84365,7 @@ saponin=saponin/NN:U,saponins/NNS=all
 sapper=sapper/NN,sappers/NNS=all
 sapphic=sapphic/JJ=all
 sapphic=sapphic/NN,sapphics/NNS=all
+sapphire-colored|sapphire-coloured=JJ=us|gb,ca,au,nz,za
 sapphire=sapphire/JJ=all
 sapphire=sapphire/NN:UN,sapphires/NNS=all
 sapphirine=sapphirine/JJ=all
@@ -85321,6 +85472,7 @@ self-actualization|self-actualisation=noun_UN=us,ca,gb|gb,au,nz,za
 self-advertiser=self-advertiser/NN,self-advertisers/NNS=all
 self-balancing=JJ=all
 self-betrayal=NN:UN=all
+self-colored|self-coloured=JJ=us|gb,ca,au,nz,za
 self-confidence=NN:UN=all
 self-confident=JJ=all
 self-confidently=RB=all
@@ -85345,6 +85497,7 @@ self-destroying=JJ=all
 self-directed=JJ=all
 self-discipline=NN:UN=all
 self-disciplined=JJ=all
+self-discoloration|self-discolouration=noun_UN=us|gb,ca,au,nz,za
 self-doubt=NN:UN=all
 self-doubting=JJ=all
 self-dramatization|self-dramatisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -86719,6 +86872,7 @@ silt=verb=all
 siltation=siltation/NN:UN,siltations/NNS=all
 siltstone=siltstone/NN,siltstones/NNS=all
 silty=silty/JJ,siltier/JJR,siltiest/JJS=all
+silver-colored|silver-coloured=JJ=us|gb,ca,au,nz,za
 silver=silver/JJ,silverer/JJR=all
 silver=silver/NN:U,silvers/NNS=all
 silver=verb=all
@@ -87800,6 +87954,7 @@ snub=snub/JJ,snubber/JJR=all
 snub=snub/NN,snubs/NNS=all
 snub=snub/VB,snubbed/VBD,snubbing/VBG,snubbed/VBN,snub/VBP,snubs/VBZ=all
 snubbing=snubbing/NN:UN,snubbings/NNS=all
+snuff-color|snuff-colour=noun=us|gb,ca,au,nz,za
 snuff=snuff/JJ,snuffer/JJR=all
 snuff=snuff/NN:UN,snuffs/NNS=all
 snuff=verb=all
@@ -88561,6 +88716,7 @@ spectator=spectator/NN,spectators/NNS=all
 spectral=JJ=all
 spectrally=RB=all
 spectrochemistry=spectrochemistry/NN:U,spectrochemistries/NNS=all
+spectrocolorimetry=noun_UN=all
 spectrogram=spectrogram/NN,spectrograms/NNS=all
 spectrograph=spectrograph/NN,spectrographs/NNS=all
 spectrographic=JJ=all
@@ -90118,6 +90274,7 @@ stratospherically=RB=all
 stratovolcano=stratovolcano/NN,stratovolcanoes/NNS,stratovolcanos/NNS=all
 stratum=stratum/NN,strata/NNS,stratums/NNS=all
 stratus=stratus/NN,strati/NNS,stratuses/NNS=all
+straw-colored|straw-coloured=JJ=us|gb,ca,au,nz,za
 straw=straw/JJ=all
 straw=straw/NN:UN,straws/NNS=all
 straw=verb=all
@@ -90456,6 +90613,7 @@ suavely=RB=all
 suaveness=suaveness/NN:U,suavenesses/NNS=all
 suavity=suavity/NN:U,suavities/NNS=all
 sub-Saharan=JJ=all
+sub-armor|sub-armour=noun=us|gb,ca,au,nz,za
 sub-clause=sub-clause/NN,sub-clauses/NNS=all
 sub-dialect=sub-dialect/NN,sub-dialects/NNS=all
 sub-district=sub-district/NN,sub-districts/NNS=all
@@ -92616,6 +92774,10 @@ technicalization|technicalisation=noun_UN=us,ca,gb|gb,au,nz,za
 technically=RB=all
 technician=technician/NN,technicians/NNS=all
 technicize=verb=all
+technicolor=JJ=all
+technicolor=NN=all
+technicolour=JJ=gb,ca,au,nz,za
+technicolour=NN=gb,ca,au,nz,za
 technics=NN:U=all
 technique=technique/NN:UN,techniques/NNS=all
 techno=techno/NN,techno/NN:U,technos/NNS=all
@@ -93573,6 +93735,7 @@ threatened=JJ=all
 threatening=threatening/JJ=all
 threatening=threatening/NN:UN,threatenings/NNS=all
 threateningly=RB=all
+three-color|three-colour=JJ=us|gb,ca,au,nz,za
 three-lane=JJ=all
 three-way=JJ=all
 three=three/CD=all
@@ -94456,6 +94619,7 @@ tourniquet=tourniquet/NN,tourniquets/NNS=all
 tousle=verb=all
 tout=tout/NN,touts/NNS=all
 tout=verb=all
+tow-colored|tow-coloured=JJ=us|gb,ca,au,nz,za
 tow=tow/NN:UN,tows/NNS=all
 tow=verb=all
 towable=JJ=all
@@ -94684,6 +94848,8 @@ transcendentalization|transcendentalisation=noun_UN=us,ca,gb|gb,au,nz,za
 transcendentally=RB=all
 transcendently=RB=all
 transcode=verb=all
+transcoloration|transcolouration=noun_UN=us|gb,ca,au,nz,za
+transcolor|transcolour=verb=us|gb,ca,au,nz,za
 transcontinental=JJ=all
 transcontinentally=RB=all
 transcranial=JJ=all
@@ -95131,6 +95297,9 @@ trickster=trickster/NN,tricksters/NNS=all
 tricky=tricky/JJ,trickier/JJR,trickiest/JJS=all
 triclinic=JJ=all
 triclosan=NN:U=all
+tricolored|tricoloured=JJ=us|gb,ca,au,nz,za
+tricolor|tricolour=JJ=us|gb,ca,au,nz,za
+tricolor|tricolour=noun=us|gb,ca,au,nz,za
 tricorn=tricorn/JJ=all
 tricorn=tricorn/NN,tricorns/NNS=all
 tricorne=tricorne/NN,tricornes/NNS=all
@@ -95832,6 +96001,7 @@ twittery=JJ=all
 twitting=twitting/NN:UN,twittings/NNS=all
 twizzle=twizzle/NN,twizzles/NNS=all
 twizzle=verb=all
+two-color|two-colour=JJ=us|gb,ca,au,nz,za
 two-edged=JJ=all
 two-lane=JJ=all
 two-seater=two-seater/NN,two-seaters/NNS=all
@@ -96145,6 +96315,7 @@ unarguable=JJ=all
 unarguably=RB=all
 unarm=verb=all
 unarmed=JJ=all
+unarmored|unarmoured=JJ=us|gb,ca,au,nz,za
 unarrested=JJ=all
 unarticulated=JJ=all
 unartistic=JJ=all
@@ -96432,6 +96603,10 @@ uncollectable=JJ=all
 uncollected=JJ=all
 uncollectible=uncollectible/JJ=all
 uncollectible=uncollectible/NN,uncollectibles/NNS=all
+uncolorable|uncolourable=JJ=us|gb,ca,au,nz,za
+uncoloredly|uncolouredly=RB=us|gb,ca,au,nz,za
+uncoloredness|uncolouredness=NN=us|gb,ca,au,nz,za
+uncolored|uncoloured=JJ=us|gb,ca,au,nz,za
 uncombable=JJ=all
 uncombative=JJ=all
 uncombed=JJ=all
@@ -96693,6 +96868,7 @@ undercoat=undercoat/NN,undercoats/NNS=all
 undercoat=verb=all
 undercoated=JJ=all
 undercoating=undercoating/NN:UN,undercoatings/NNS=all
+undercolored|undercoloured=JJ=us|gb,ca,au,nz,za
 undercook=verb=all
 undercooked=JJ=all
 undercount=undercount/NN,undercounts/NNS=all
@@ -96939,6 +97115,7 @@ undiscerning=JJ=all
 undischarged=JJ=all
 undisciplined=JJ=all
 undisclosed=JJ=all
+undiscolored|undiscoloured=JJ=us|gb,ca,au,nz,za
 undiscounted=JJ=all
 undiscouraged=JJ=all
 undiscovered=JJ=all
@@ -97363,6 +97540,8 @@ uniaxial=JJ=all
 unibrow=unibrow/NN,unibrows/NNS=all
 unicameral=JJ=all
 unicellular=JJ=all
+unicolored|unicoloured=JJ=us|gb,ca,au,nz,za
+unicolor|unicolour=JJ=us|gb,ca,au,nz,za
 unicorn=unicorn/NN,unicorns/NNS=all
 unicuspid=JJ=all
 unicycle=unicycle/NN,unicycles/NNS=all
@@ -99147,6 +99326,7 @@ variational=variational/JJ=all
 variational=variational/NN=all
 varicella=varicella/NN,varicellas/NNS=all
 varicocele=varicocele/NN:U,varicoceles/NNS=all
+varicolored|varicoloured=JJ=us|gb,ca,au,nz,za
 varicose=varicose/JJ=all
 varicose=varicose/NN,varicoses/NNS=all
 varicosity=varicosity/NN:UN,varicosities/NNS=all
@@ -99447,6 +99627,8 @@ verse=verb=all
 verse=verse/NN:UN,verses/NNS=all
 versed=JJ=all
 versicle=versicle/NN,versicles/NNS=all
+versicolored|versicoloured=JJ=us|gb,ca,au,nz,za
+versicolor|versicolour=JJ=us|gb,ca,au,nz,za
 versification=versification/NN:U,versifications/NNS=all
 versifier=versifier/NN,versifiers/NNS=all
 versify=verb=all
@@ -100363,6 +100545,10 @@ waterbird=waterbird/NN,waterbirds/NNS=all
 waterborne=JJ=all
 waterbuck=waterbuck/NN,waterbuck/NNS,waterbucks/NNS=all
 watercolorist=watercolorist/NN,watercolorists/NNS=all
+watercolorist|watercolourist=noun=us|gb,ca,au,nz,za
+watercolor|watercolour=JJ=us|gb,ca,au,nz,za
+watercolor|watercolour=noun_UN=us|gb,ca,au,nz,za
+watercolor|watercolour=verb=us|gb,ca,au,nz,za
 watercourse=watercourse/NN,watercourses/NNS=all
 watercraft=watercraft/NN,watercraft/NNS=all
 watercress=watercress/JJ=all
@@ -100640,6 +100826,8 @@ welfare=welfare/JJ=all
 welfare=welfare/NN:U,welfares/NNS=all
 welfarism=welfarism/NN:UN,welfarisms/NNS=all
 welkin=welkin/NN:U,welkins/NNS=all
+well-armored|well-armoured=JJ=us|gb,ca,au,nz,za
+well-colored|well-coloured=JJ=us|gb,ca,au,nz,za
 well-decked=JJ=all
 well-deserving=well-deserving/JJ=all
 well-deserving=well-deserving/NN:U=all
@@ -101213,6 +101401,7 @@ windswept=JJ=all
 windward=windward/JJ=all
 windward=windward/NN:U,windwards/NNS=all
 windy=windy/JJ,windier/JJR,windiest/JJS=all
+wine-colored|wine-coloured=JJ=us|gb,ca,au,nz,za
 wine=verb=all
 wine=wine/NN:U,wines/NNS=all
 wineberry=NN=all
@@ -101865,6 +102054,7 @@ yeller=yeller/NN,yellers/NNS=all
 yelling=yelling/JJ=all
 yelling=yelling/NN:UN,yellings/NNS=all
 yellow-bellied=yellow-bellied/JJ,yellowbellied/JJ=all
+yellow-colored|yellow-coloured=JJ=us|gb,ca,au,nz,za
 yellow=verb=all
 yellow=yellow/JJ,yellower/JJR,yellowest/JJS=all
 yellow=yellow/NN:UN,yellows/NNS=all
