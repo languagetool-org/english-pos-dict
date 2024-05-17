@@ -1,4 +1,3 @@
-
 #=#=all
 1st=1st/JJ=all
 1st=1st/RB=all
@@ -35563,6 +35562,7 @@ candlepower=candlepower/NN:U,candlepowers/NNS=all
 candler=candler/NN,candlers/NNS=all
 candlestick=candlestick/NN,candlesticks/NNS=all
 candlewick=candlewick/NN:U,candlewicks/NNS=all
+candor|candour=noun_UN=us|gb,ca,au,nz,za
 candy=candy/NN:U,candies/NNS=all
 candy=verb=all
 candyfloss=candyfloss/NN,candyflosses/NNS=all
@@ -37740,9 +37740,15 @@ clamberer=clamberer/NN,clamberers/NNS=all
 clammily=RB=all
 clamminess=clamminess/NN:U,clamminesses/NNS=all
 clammy=clammy/JJ,clammier/JJR,clammiest/JJS=all
-clamorous=JJ=all
-clamorously=RB=all
-clamorousness=clamorousness/NN,clamorousnesses/NNS=all
+clamorer|clamourer=noun=us|gb,ca,au,nz,za
+clamoring|clamouring=JJ=us|gb,ca,au,nz,za
+clamoring|clamouring=NN:UN=us|gb,ca,au,nz,za
+clamorist|clamourist=noun=us|gb,ca,au,nz,za
+clamorously|clamourously=RB=us|gb,ca,au,nz,za
+clamorousness|clamourousness=NN=us|gb,ca,au,nz,za
+clamorous|clamourous=JJ=us|gb,ca,au,nz,za
+clamor|clamour=noun_UN=us|gb,ca,au,nz,za
+clamor|clamour=verb=us|gb,ca,au,nz,za
 clamp=clamp/NN,clamps/NNS=all
 clamp=verb=all
 clampdown=clampdown/NN,clampdowns/NNS=all
@@ -37757,8 +37763,10 @@ clang=verb=all
 clanger=clanger/NN,clangers/NNS=all
 clanging=clanging/JJ=all
 clanging=clanging/NN:UN,clangings/NNS=all
-clangorous=JJ=all
-clangorously=RB=all
+clangorously|clangourously=RB=us|gb,ca,au,nz,za
+clangorous|clangourous=JJ=us|gb,ca,au,nz,za
+clangor|clangour=noun_UN=us|gb,ca,au,nz,za
+clangor|clangour=verb=us|gb,ca,au,nz,za
 clank=clank/NN,clanks/NNS=all
 clank=verb=all
 clanking=clanking/JJ=all
@@ -43301,6 +43309,7 @@ dematerialization|dematerialisation=noun_UN=us,ca,gb|gb,au,nz,za
 dematerialize=verb=all
 demean=verb=all
 demeaning=JJ=all
+demeanor|demeanour=noun_UN=us|gb,ca,au,nz,za
 demented=JJ=all
 dementedly=RB=all
 dementia=dementia/NN:U,dementias/NNS=all
@@ -44878,6 +44887,9 @@ disestablishment=disestablishment/NN:U,disestablishments/NNS=all
 disestablishmentarianism=NN:UN=all
 disesteem=disesteem/NN,disesteems/NNS=all
 disesteem=verb=all
+disfavorer|disfavourer=noun=us|gb,ca,au,nz,za
+disfavor|disfavour=noun_UN=us|gb,ca,au,nz,za
+disfavor|disfavour=verb=us|gb,ca,au,nz,za
 disfiguration=disfiguration/NN:UN,disfigurations/NNS=all
 disfigure=verb=all
 disfigurement=disfigurement/NN:UN,disfigurements/NNS=all
@@ -44923,6 +44935,13 @@ dishing=dishing/NN:UN,dishings/NNS=all
 dishonest=JJ=all
 dishonestly=RB=all
 dishonesty=dishonesty/NN:U,dishonesties/NNS=all
+dishonorableness|dishonourableness=NN=us|gb,ca,au,nz,za
+dishonorable|dishonourable=JJ=us|gb,ca,au,nz,za
+dishonorably|dishonourably=RB=us|gb,ca,au,nz,za
+dishonored|dishonoured=JJ=us|gb,ca,au,nz,za
+dishonorer|dishonourer=noun=us|gb,ca,au,nz,za
+dishonor|dishonour=noun_UN=us|gb,ca,au,nz,za
+dishonor|dishonour=verb=us|gb,ca,au,nz,za
 dishwash=verb=all
 dishwasher=dishwasher/NN,dishwashers/NNS=all
 dishwashing=NN:U=all
@@ -45594,8 +45613,10 @@ dolomite=dolomite/NN:U,dolomites/NNS=all
 dolomitic=JJ=all
 dolomitization|dolomitisation=noun_UN=us,ca,gb|gb,au,nz,za
 dolomitize=verb=all
-dolorous=JJ=all
-dolorously=RB=all
+dolorously|dolourously=RB=us|gb,ca,au,nz,za
+dolorousness|dolourousness=NN=us|gb,ca,au,nz,za
+dolorous|dolourous=JJ=us|gb,ca,au,nz,za
+dolour|dolor=noun_UN=us|gb,ca,au,nz,za
 dolphin=dolphin/NN,dolphins/NNS=all
 dolt=dolt/NN,dolts/NNS=all
 doltish=JJ=all
@@ -45692,6 +45713,7 @@ dopiness=dopiness/NN:U,dopinesses/NNS=all
 doping=doping/NN:U,dopings/NNS=all
 doppelganger=doppelganger/NN,doppelgangers/NNS=all
 doppelgänger=doppelgänger/NN,doppelgängers/NNS=all
+dor=noun=all # unusual?
 dorado=dorado/NN,dorados/NNS=all
 dork=dork/NN,dorks/NNS=all
 dorky=dorky/JJ,dorkier/JJR,dorkiest/JJS=all
@@ -45800,7 +45822,7 @@ doughty=doughty/JJ,doughtier/JJR,doughtiest/JJS=all
 doughy=doughy/JJ,doughier/JJR,doughiest/JJS=all
 dour=dour/JJ,dourer/JJR,dourest/JJS=all
 dourly=RB=all
-dourness=dourness/NN:U,dournesses/NNS=all
+dourness=noun_UN=all
 douse=verb=all
 douser=douser/NN,dousers/NNS=all
 dove-colored|dove-coloured=JJ=us|gb,ca,au,nz,za
@@ -47533,6 +47555,11 @@ enactor=enactor/NN,enactors/NNS=all
 enamel=enamel/NN:U,enamels/NNS=all
 enamel=enamel/VB,enameled/VBD,enamelled/VBD,enameling/VBG,enamelling/VBG,enameled/VBN,enamelled/VBN,enamel/VBP,enamels/VBZ=all
 enamelware=enamelware/NN:U,enamelwares/NNS=all
+enamoration=noun_UN=all
+enamoredness|enamouredness=NN=us|gb,ca,au,nz,za
+enamored|enamoured=JJ=us|gb,ca,au,nz,za
+enamorment|enamourment=noun_UN=us|gb,ca,au,nz,za
+enamor|enamour=verb=us|gb,ca,au,nz,za
 enantiomer=enantiomer/NN,enantiomers/NNS=all
 enantiomorph=enantiomorph/NN:U,enantiomorphs/NNS=all
 enarthrosis=enarthrosis/NN,enarthroses/NNS=all
@@ -47636,6 +47663,10 @@ endear=verb=all
 endearing=JJ=all
 endearingly=RB=all
 endearment=endearment/NN:UN,endearments/NNS=all
+endeavorer|endeavourer=noun=us|gb,ca,au,nz,za
+endeavorment|endeavourment=noun=us|gb,ca,au,nz,za
+endeavor|endeavour=noun=us|gb,ca,au,nz,za
+endeavor|endeavour=verb=us|gb,ca,au,nz,za
 ended=JJ=all
 endemic=endemic/JJ=all
 endemic=endemic/NN:U,endemics/NNS=all
@@ -49821,6 +49852,7 @@ faithfulness=faithfulness/NN:U,faithfulnesses/NNS=all
 faithless=JJ=all
 faithlessly=RB=all
 faithlessness=faithlessness/NN:U,faithlessnesses/NNS=all
+faitour=noun=all
 fajita=fajita/NN,fajitas/NNS=all
 fake=fake/JJ,faker/JJR,fakest/JJS=all
 fake=fake/NN,fakes/NNS=all
@@ -50143,7 +50175,23 @@ fav=fav/NN,favs/NNS=all
 fave=fave/NN,faves/NNS=all
 favela=favela/NN,favelas/NNS=all
 favicon=favicon/NN,favicons/NNS=all
-favorability=NN:UN=all
+favorability|favourability=noun_UN=us|gb,ca,au,nz,za
+favorableness|favourableness=NN=us|gb,ca,au,nz,za
+favorable|favourable=JJ=us|gb,ca,au,nz,za
+favorably|favourably=RB=us|gb,ca,au,nz,za
+favoredly|favouredly=RB=us|gb,ca,au,nz,za
+favoredness|favouredness=NN=us|gb,ca,au,nz,za
+favored|favoured=JJ=us|gb,ca,au,nz,za
+favorer|favourer=noun=us|gb,ca,au,nz,za
+favoringly|favouringly=RB=us|gb,ca,au,nz,za
+favoring|favouring=JJ=us|gb,ca,au,nz,za
+favorite|favourite=favorite/JJ=us|gb,ca,au,nz,za
+favorite|favourite=noun=us|gb,ca,au,nz,za
+favoritism|favouritism=noun_UN=us|gb,ca,au,nz,za
+favorless|favourless=JJ=us|gb,ca,au,nz,za
+favor|favour=noun_UN=us|gb,ca,au,nz,za
+favor|favour=verb=us|gb,ca,au,nz,za
+favosite=noun=all
 fawn=fawn/NN,fawns/NNS=all
 fawn=verb=all
 fawner=fawner/NN,fawners/NNS=all
@@ -50429,6 +50477,7 @@ fervently=RB=all
 fervid=fervid/JJ,fervider/JJR,fervidest/JJS=all
 fervidly=RB=all
 fervidness=fervidness/NN,fervidnesses/NNS=all
+fervor|fervour=noun_UN=us|gb,ca,au,nz,za
 fescue=fescue/NN,fescues/NNS=all
 fess=fess/NN=all
 fess=verb=all
@@ -51122,6 +51171,21 @@ flavine=flavine/NN,flavines/NNS=all
 flavone=flavone/NN,flavones/NNS=all
 flavonoid=flavonoid/NN,flavonoids/NNS=all
 flavoprotein=flavoprotein/NN,flavoproteins/NNS=all
+flavored|flavoured=JJ=us|gb,ca,au,nz,za
+flavorer|flavourer=noun=us|gb,ca,au,nz,za
+flavorfully|flavourfully=RB=us|gb,ca,au,nz,za
+flavorful|flavourful=JJ=us|gb,ca,au,nz,za
+flavoring|flavouring=noun=us|gb,ca,au,nz,za
+flavorist|flavourist=noun=us|gb,ca,au,nz,za
+flavorlessness|flavourlessness=NN=us|gb,ca,au,nz,za
+flavorless|flavourless=JJ=us|gb,ca,au,nz,za
+flavorous|flavourous=JJ=us|gb,ca,au,nz,za
+flavorsomely|flavoursomely=RB=us|gb,ca,au,nz,za
+flavorsomeness|flavoursomeness=NN=us|gb,ca,au,nz,za
+flavorsome|flavoursome=JJ=us|gb,ca,au,nz,za
+flavory|flavoury=JJ=us|gb,ca,au,nz,za
+flavor|flavour=noun_UN=us|gb,ca,au,nz,za
+flavor|flavour=verb=us|gb,ca,au,nz,za
 flaw=flaw/NN,flaws/NNS=all
 flaw=verb=all
 flawed=JJ=all
@@ -51310,6 +51374,7 @@ floppily=RB=all
 floppiness=floppiness/NN:U,floppinesses/NNS=all
 floppy=floppy/JJ,floppier/JJR,floppiest/JJS=all
 floppy=floppy/NN,floppies/NNS=all
+flor=noun=all # unusual?
 flora=flora/NN,flora/NN:U,florae/NNS,floras/NNS=all
 floral=floral/JJ=all
 floral=floral/NN,florals/NNS=all
@@ -53057,6 +53122,7 @@ garishly=RB=all
 garishness=garishness/NN:U,garishnesses/NNS=all
 garland=garland/NN,garlands/NNS=all
 garland=verb=all
+garlic-flavored|garlic-flavoured=JJ=us|gb,ca,au,nz,za
 garlic=garlic/NN:U,garlics/NNS=all
 garlicky=JJ=all
 garment=garment/NN,garments/NNS=all
@@ -54305,6 +54371,8 @@ grab=grab/VB,grabbed/VBD,grabbing/VBG,grabbed/VBN,grab/VBP,grabs/VBZ=all
 grabbable=JJ=all
 grabber=grabber/NN,grabbers/NNS=all
 graben=graben/NN,grabens/NNS=all
+grace-and-favor|grace-and-favour=JJ=us|gb,ca,au,nz,za
+grace-and-favor|grace-and-favour=NN=us|gb,ca,au,nz,za
 grace=grace/NN:UN,graces/NNS=all
 grace=verb=all
 graceful=graceful/JJ,gracefuller/JJR,gracefullest/JJS=all
@@ -55532,6 +55600,8 @@ hard-boil=verb=all
 hard-boiled=JJ=all
 hard-coated=JJ=all
 hard-code=verb=all
+hard-favoredness|hard-favouredness=NN=us|gb,ca,au,nz,za
+hard-favored|hard-favoured=JJ=us|gb,ca,au,nz,za
 hard-heartedly=RB=all
 hard-line=JJ=all
 hard-skinned=JJ=all
@@ -58286,6 +58356,9 @@ iliotibial=JJ=all
 ilium=ilium/NN,ilia/NNS=all
 ilk=ilk/NN:U,ilks/NNS=all
 ill-advised=JJ=all
+ill-favoredly|ill-favouredly=RB=us|gb,ca,au,nz,za
+ill-favoredness|ill-favouredness=NN=us|gb,ca,au,nz,za
+ill-favored|ill-favoured=JJ=us|gb,ca,au,nz,za
 ill=ill/JJ,iller/JJR,worse/JJR,illest/JJS,worst/JJS=all
 ill=ill/NN:UN,ills/NNS=all
 illegal=illegal/JJ=all
@@ -67409,7 +67482,6 @@ misauthorization|misauthorisation=noun_UN=us,ca,gb|gb,au,nz,za
 misbegotten=JJ=all
 misbehave=verb=all
 misbehaver=misbehaver/NN,misbehavers/NNS=all
-misbehavior=misbehavior/NN:U,misbehaviors/NNS=all
 misbehavior|misbehaviour=noun_UN=us|gb,ca,au,nz,za
 misbelief=misbelief/NN,misbeliefs/NNS,misbelieves/NNS=all
 misbelieve=verb=all
@@ -68288,6 +68360,7 @@ moss=moss/NN:U,mosses/NNS=all
 mosstrooper=mosstrooper/NN,mosstroopers/NNS=all
 mossy=mossy/JJ,mossier/JJR,mossiest/JJS=all
 mossy=mossy/NN,mossies/NNS=all
+most-favored-nation|most-favoured-nation=NN=us|gb,ca,au,nz,za
 most=most/NN:U,mosts/NNS=all
 mostly=RB=all
 mote=mote/NN,motes/NNS=all
@@ -70326,6 +70399,7 @@ nonfamous=JJ=all
 nonfiction=nonfiction/NN:U,nonfictions/NNS=all
 nonfictional=JJ=all
 nonfigurative=JJ=all
+nonflavored|nonflavoured=JJ=us|gb,ca,au,nz,za
 nonfraternization|nonfraternisation=noun_UN=us,ca,gb|gb,au,nz,za
 nonfunctional=JJ=all
 nonfunctionally=RB=all
@@ -71467,6 +71541,7 @@ oneself=PRP=all
 onesie=onesie/NN,onesies/NNS=all
 ongoing=ongoing/JJ=all
 ongoing=ongoing/NN,ongoings/NNS=all
+onion-flavored|onion-flavoured=JJ=us|gb,ca,au,nz,za
 onion=onion/NN:UN,onions/NNS=all
 onionskin=onionskin/NN:U,onionskins/NNS=all
 online=online/JJ,onliner/JJR=all
@@ -77554,6 +77629,7 @@ preferentially=RB=all
 preferment=preferment/NN:U,preferments/NNS=all
 preferrer=preferrer/NN,preferrers/NNS=all
 prefertilization|prefertilisation=noun_UN=us,ca,gb|gb,au,nz,za
+prefervor|prefervour=noun_UN=us|gb,ca,au,nz,za
 prefetch=prefetch/NN,prefetches/NNS=all
 prefetch=verb=all
 prefiguration=prefiguration/NN:UN,prefigurations/NNS=all
@@ -79730,6 +79806,8 @@ quartzite=quartzite/NN,quartzites/NNS=all
 quartzitic=JJ=all
 quasar=quasar/NN,quasars/NNS=all
 quash=verb=all
+quasi-favorable|quasi-favourable=JJ=us|gb,ca,au,nz,za
+quasi-favorably|quasi-favourably=RB=us|gb,ca,au,nz,za
 quasi=JJ=all
 quassia=quassia/NN:U,quassias/NNS=all
 quaternary=quaternary/JJ=all
@@ -97329,6 +97407,12 @@ unfastening=NN:UN=all
 unfathomable=JJ=all
 unfathomably=RB=all
 unfathomed=JJ=all
+unfavorableness|unfavourableness=NN=us|gb,ca,au,nz,za
+unfavorable|unfavourable=JJ=us|gb,ca,au,nz,za
+unfavorably|unfavourably=RB=us|gb,ca,au,nz,za
+unfavored|unfavoured=JJ=us|gb,ca,au,nz,za
+unfavoring|unfavouring=JJ=us|gb,ca,au,nz,za
+unfavorite|unfavourite=JJ=us|gb,ca,au,nz,za
 unfearing=JJ=all
 unfeasibility=NN:UN=all
 unfeasible=JJ=all
@@ -97369,6 +97453,7 @@ unflappable=JJ=all
 unflappably=RB=all
 unflattering=JJ=all
 unflatteringly=RB=all
+unflavored|unflavoured=JJ=us|gb,ca,au,nz,za
 unflawed=JJ=all
 unfledged=JJ=all
 unfleshly=RB=all
@@ -100832,7 +100917,10 @@ well-decked=JJ=all
 well-deserving=well-deserving/JJ=all
 well-deserving=well-deserving/NN:U=all
 well-drafted=JJ=all
+well-favoredness|well-favouredness=NN=us|gb,ca,au,nz,za
+well-favored|well-favoured=JJ=us|gb,ca,au,nz,za
 well-fitted=JJ=all
+well-flavored|well-flavoured=JJ=us|gb,ca,au,nz,za
 well-formed=JJ=all
 well-formedness=NN:U=all
 well-foundedness=NN:U=all
