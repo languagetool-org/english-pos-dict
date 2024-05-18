@@ -13740,6 +13740,9 @@ Lab=Lab/NNP,Labs/NNPS=all
 Laban=NNP=all
 Labe=NNP=all
 Labiche=NNP=all
+Laborism|Labourism=noun=us|gb,ca,au,nz,za
+Laborite|Labourite=noun=us|gb,ca,au,nz,za
+Labor|Labour=NNP=us|gb,ca,au,nz,za
 Labouchère=NNP=all
 Labrador=Labrador/NNP,Labradors/NNPS=all
 Labuan=NNP=all
@@ -32212,6 +32215,7 @@ beg=beg/VB,begged/VBD,begging/VBG,begged/VBN,beg/VBP,begs/VBZ=all
 beget=beget/VB,begat/VBD,begot/VBD,begetting/VBG,begot/VBN,begotten/VBN,beget/VBP,begets/VBZ=all
 begetter=begetter/NN,begetters/NNS=all
 begetter=begetter/RB=all
+beggar-my-neighbor|beggar-my-neighbour=NN:U=us|gb,ca,au,nz,za
 beggar=beggar/NN,beggars/NNS=all
 beggar=verb=all
 beggarliness=beggarliness/NN,beggarlinesses/NNS=all
@@ -43117,7 +43121,7 @@ degeneration=degeneration/NN:U,degenerations/NNS=all
 degenerative=JJ=all
 deglaciation=deglaciation/NN:UN,deglaciations/NNS=all
 deglamorization|deglamorisation=noun_UN=us,ca,gb|gb,au,nz,za
-deglamorize=verb=all
+deglamorize|deglamorise=verb=us,ca,gb|gb,au,nz,za
 deglobalization|deglobalisation=noun_UN=us,ca,gb|gb,au,nz,za
 deglutition=deglutition/NN:UN,deglutitions/NNS=all
 degradability=degradability/NN:UN,degradabilities/NNS=all
@@ -53844,15 +53848,23 @@ gladsomely=RB=all
 glaikit=JJ=all
 glairy=glairy/JJ,glairier/JJR,glairiest/JJS=all
 glaive=glaive/NN,glaives/NNS=all
+glamor=JJ=us # unusual
+glamor=noun_UN=us # unusual
+glamor=verb=us # unusual
 glamorization|glamorisation=noun_UN=us,ca,gb|gb,au,nz,za
-glamorize=verb=all
-glamorizer=glamorizer/NN,glamorizers/NNS=all
+glamorizer|glamoriser=noun=us,ca,gb|gb,au,nz,za
+glamorize|glamorise=verb=us,ca,gb|gb,au,nz,za
 glamorous=JJ=all
 glamorously=RB=all
-glamour=glamour/JJ=all
-glamour=glamour/NN:U,glamours/NNS=all
+glamorousness=NN=all
+glamour-puss=glamour-puss/NN,glamour-pusses/NNS=all
+glamour=JJ=all
+glamour=noun_UN=all
 glamour=verb=all
-glamourization|glamourisation=noun_UN=us,ca,gb|gb,au,nz,za
+glamourless=JJ=less
+glamourous=JJ=all # unusual
+glamourously=RB=all # unusual
+glamourousness=NN=all # unusual
 glamper=glamper/NN,glampers/NNS=all
 glamping=NN:U=all
 glance=glance/NN,glances/NNS=all
@@ -54244,7 +54256,12 @@ goniometer=goniometer/NN,goniometers/NNS=all
 gonococcal=JJ=all
 gonococcus=gonococcus/NN,gonococci/NNS=all
 goo=goo/NN:U,goos/NNS=all
+good-humoredly|good-humouredly=RB=us|gb,ca,au,nz,za
+good-humoredness|good-humouredness=NN=us|gb,ca,au,nz,za
+good-humored|good-humoured=JJ=us|gb,ca,au,nz,za
 good-natured=JJ=all
+good-neighborliness|good-neighbourliness=NN:U=us|gb,ca,au,nz,za
+good-neighbor|good-neighbour=JJ=us|gb,ca,au,nz,za
 good-sized=JJ=all
 good=good/JJ,better/JJR,best/JJS=all
 good=good/NN:U,goods/NNS=all
@@ -55596,6 +55613,17 @@ harassing=harassing/NN:UN,harassings/NNS=all
 harassingly=RB=all
 harassment=harassment/NN:U,harassments/NNS=all
 harbinger=harbinger/NN,harbingers/NNS=all
+harborage|harbourage=noun=us|gb,ca,au,nz,za
+harborer|harbourer=noun=us|gb,ca,au,nz,za
+harborful|harbourful=noun=us|gb,ca,au,nz,za
+harborless|harbourless=JJ=us|gb,ca,au,nz,za
+harbormaster|harbourmaster=noun=us|gb,ca,au,nz,za
+harborous|harbourous=JJ=us|gb,ca,au,nz,za
+harborside|harbourside=JJ=us|gb,ca,au,nz,za
+harborside|harbourside=noun=us|gb,ca,au,nz,za
+harborward|harbourward=RB=us|gb,ca,au,nz,za
+harbor|harbour=noun=us|gb,ca,au,nz,za
+harbor|harbour=verb=us|gb,ca,au,nz,za
 hard-boil=verb=all
 hard-boiled=JJ=all
 hard-coated=JJ=all
@@ -55803,6 +55831,7 @@ haversack=haversack/NN,haversacks/NNS=all
 haversine=haversine/NN,haversines/NNS=all
 havildar=havildar/NN,havildars/NNS=all
 having=having/NN:UN,havings/NNS=all
+haviour=noun=all # unusual
 havoc=havoc/NN:U,havocs/NNS=all
 haw=haw/NN,haws/NNS=all
 haw=haw/UH=all
@@ -57117,13 +57146,28 @@ honk=honk/NN,honks/NNS=all
 honk=verb=all
 honker=honker/NN,honkers/NNS=all
 honky-tonk=honky-tonk/NN,honky-tonks/NNS=all
+honor-worthy|honour-worthy=JJ=us|gb,ca,au,nz,za
+honor=noun_UN=us|gb,ca,au,nz,za
+honor=verb=us|gb,ca,au,nz,za
+honorability|honourability=noun_UN=us|gb,ca,au,nz,za
+honorableness|honourableness=noun_UN=us|gb,ca,au,nz,za
+honorable|honourable=JJ=us|gb,ca,au,nz,za
+honorably|honourably=RB=us|gb,ca,au,nz,za
+honorand=noun=all
 honorarily=RB=all
 honorarium=honorarium/NN,honoraria/NNS,honorariums/NNS=all
 honorary=honorary/JJ=all
 honorary=honorary/NN,honoraries/NNS=all
+honored|honoured=JJ=us|gb,ca,au,nz,za
+honoree|honouree=noun=us|gb,ca,au,nz,za
+honorer|honourer=noun=us|gb,ca,au,nz,za
 honorific=honorific/JJ=all
 honorific=honorific/NN,honorifics/NNS=all
+honorificabilitudinitatibus=NN=all
+honorifical=JJ=all # unusual
 honorifically=RB=all
+honorless|honourless=JJ=us|gb,ca,au,nz,za
+honorous|honourous=JJ=us|gb,ca,au,nz,za   # unusual
 hood=hood/NN,hoods/NNS=all
 hood=verb=all
 hooded=JJ=all
@@ -57186,6 +57230,7 @@ hopple=verb=all
 hopsack=hopsack/NN,hopsacks/NNS=all
 hopscotch=hopscotch/NN:U,hopscotches/NNS=all
 hopscotch=verb=all
+hor=NN=all # unusual, abbreviation of horizontal
 horary=JJ=all
 horchata=horchata/NN:UN,horchatas/NNS=all
 horde=horde/NN,hordes/NNS=all
@@ -57547,12 +57592,29 @@ hummocky=JJ=all
 hummus=hummus/NN:U,hummuses/NNS=all
 humongous=JJ=all
 humoral=JJ=all
-humoresque=humoresque/NN,humoresques/NNS=all
-humorist=humorist/NN,humorists/NNS=all
+humoralism=NN=all
+humoralist=noun=all
+humoredly|humouredly=RB=us|gb,ca,au,nz,za
+humoresque=noun=all
+humoresquely=RB=all # unusual
+humorful|humourful=JJ=us|gb,ca,au,nz,za
+humorism=NN=all
+humorist=noun=all
+humoristic=JJ=all
+humoristical=JJ=all
 humorize=verb=all
+humorize|humorise=verb=us,ca,gb|gb,au,nz,za # unusual
+humorlessly|humourlessly=RB=us|gb,ca,au,nz,za
+humorlessness|humourlessness=noun_UN=us|gb,ca,au,nz,za
+humorless|humourless=JJ=us|gb,ca,au,nz,za
 humorous=JJ=all
 humorously=RB=all
-humorousness=humorousness/NN:U,humorousnesses/NNS=all
+humorousness=NN=all
+humorsome|humoursome=JJ=us|gb,ca,au,nz,za
+humor|humour=noun_UN=us|gb,ca,au,nz,za
+humor|humour=verb=us|gb,ca,au,nz,za
+humourise=verb=gb,ca,au,nz,za # unusual
+humourize=verb=gb,ca,au,nz,za # unusual
 hump=hump/NN,humps/NNS=all
 hump=verb=all
 humpback=humpback/NN,humpbacks/NNS=all
@@ -58359,6 +58421,9 @@ ill-advised=JJ=all
 ill-favoredly|ill-favouredly=RB=us|gb,ca,au,nz,za
 ill-favoredness|ill-favouredness=NN=us|gb,ca,au,nz,za
 ill-favored|ill-favoured=JJ=us|gb,ca,au,nz,za
+ill-humoredly|ill-humouredly=RB=us|gb,ca,au,nz,za
+ill-humoredness|ill-humouredness=NN=us|gb,ca,au,nz,za
+ill-humored|ill-humoured=JJ=us|gb,ca,au,nz,za
 ill=ill/JJ,iller/JJR,worse/JJR,illest/JJS,worst/JJS=all
 ill=ill/NN:UN,ills/NNS=all
 illegal=illegal/JJ=all
@@ -61887,6 +61952,7 @@ jotting=jotting/NN:UN,jottings/NNS=all
 joule=joule/NN,joules/NNS=all
 jounce=jounce/NN,jounces/NNS=all
 jounce=verb=all
+jour=NN=all # unusual abbreviation
 journal=journal/NN,journals/NNS=all
 journal=verb=all
 journalese=journalese/NN:U,journaleses/NNS=all
@@ -62673,11 +62739,29 @@ labiodental=labiodental/JJ=all
 labiodental=labiodental/NN,labiodentals/NNS=all
 labiovelarization|labiovelarisation=noun_UN=us,ca,gb|gb,au,nz,za
 labium=labium/NN,labia/NNS=all
-labor-intensive=JJ=all
+labor-intensive|labour-intensive=JJ=us|gb,ca,au,nz,za
+labor-saving|labour-saving=JJ=us|gb,ca,au,nz,za
+laboratorial=JJ=all
+laboratorially=RB=all
+laboratorian=noun=all
 laboratory=laboratory/NN,laboratories/NNS=all
+laboredly|labouredly=RB=us|gb,ca,au,nz,za
+laboredness|labouredness=NN=us|gb,ca,au,nz,za
+labored|laboured=JJ=us|gb,ca,au,nz,za
+laborer|labourer=noun=us|gb,ca,au,nz,za
+laboringly|labouringly=RB=us|gb,ca,au,nz,za
+laboring|labouring=JJ=us|gb,ca,au,nz,za
 laborious=JJ=all
 laboriously=RB=all
-laboriousness=laboriousness/NN:U,laboriousnesses/NNS=all
+laboriousness=NN=all
+laborism|labourism=noun=us|gb,ca,au,nz,za
+laboristic|labouristic=JJ=us|gb,ca,au,nz,za
+laborist|labourist=noun=us|gb,ca,au,nz,za
+laborite|labourite=noun=us|gb,ca,au,nz,za
+laborless|labourless=JJ=us|gb,ca,au,nz,za
+labor|labour=noun_UN=us|gb,ca,au,nz,za
+labor|labour=verb=us|gb,ca,au,nz,za
+laboursaving|laboursaving=JJ=us|gb,ca,au,nz,za
 labradorite=labradorite/NN,labradorites/NNS=all
 labret=labret/NN,labrets/NNS=all
 labriform=JJ=all
@@ -64600,7 +64684,7 @@ loungewear=NN:U=all
 lounging=lounging/JJ=all
 lounging=lounging/NN:UN,loungings/NNS=all
 loupe=loupe/NN,loupes/NNS=all
-lour=verb=all
+lour=verb=all # unusual
 louring=louring/JJ=all
 louring=louring/NN:UN,lourings/NNS=all
 louse=louse/NN,lice/NNS,louses/NNS=all
@@ -65301,7 +65385,8 @@ malnutrition=malnutrition/NN:U,malnutritions/NNS=all
 malocclusion=malocclusion/NN:U,malocclusions/NNS=all
 malodorous=JJ=all
 malodorously=RB=all
-malodorousness=malodorousness/NN,malodorousnesses/NNS=all
+malodorousness=NN=all
+malodor|malodour=noun=us|gb,ca,au,nz,za
 malposition=malposition/NN:UN,malpositions/NNS=all
 malposition=verb=all
 malpractice=malpractice/NN:UN,malpractices/NNS=all
@@ -67536,6 +67621,7 @@ misdeliver=verb=all
 misdelivered=JJ=all
 misdelivery=NN=all
 misdemeanant=misdemeanant/NN,misdemeanants/NNS=all
+misdemeanor|misdemeanour=noun=us|gb,ca,au,nz,za
 misdiagnose=verb=all
 misdiagnosis=misdiagnosis/NN,misdiagnoses/NNS=all
 misdirect=verb=all
@@ -69631,6 +69717,16 @@ negritude=negritude/NN:U,negritudes/NNS=all
 negus=negus/NN:U,neguses/NNS=all
 neigh=neigh/NN,neighs/NNS=all
 neigh=verb=all
+neighborhood|neighbourhood=noun_UN=us|gb,ca,au,nz,za
+neighboring|neighbouring=JJ=us|gb,ca,au,nz,za
+neighborless|neighbourless=JJ=us|gb,ca,au,nz,za
+neighborlike|neighbourlike=JJ=us|gb,ca,au,nz,za
+neighborliness|neighbourliness=NN=us|gb,ca,au,nz,za
+neighborly|neighbourly=JJ=us|gb,ca,au,nz,za
+neighborship|neighbourship=noun_UN=us|gb,ca,au,nz,za
+neighbor|neighbour=JJ=us|gb,ca,au,nz,za
+neighbor|neighbour=noun=us|gb,ca,au,nz,za
+neighbor|neighbour=verb=us|gb,ca,au,nz,za
 neither=neither/CC=all
 neither=neither/DT=all
 nekton=nekton/NN,nektons/NNS=all
@@ -69828,6 +69924,9 @@ neurogenetic=neurogenetic/NN,neurogenetics/NNS=all
 neurogenic=JJ=all
 neuroglia=neuroglia/NN,neuroglias/NNS=all
 neuroglial=JJ=all
+neurohumor=noun=all
+neurohumoral=JJ=all
+neurohumour=noun=gb,ca,au,nz,za
 neuroimaging=NN:U=all
 neuroinflammation=NN:U=all
 neuroleptic=neuroleptic/JJ=all
@@ -70407,6 +70506,9 @@ nongovernmental=JJ=all
 nonhomologous=JJ=all
 nonhuman=nonhuman/JJ=all
 nonhuman=nonhuman/NN,nonhumans/NNS=all
+nonhumorous=JJ=all
+nonhumorously=RB=all
+nonhumorousness=NN=all
 nonideological=JJ=all
 nonillion=nonillion/CD=all
 nonillion=nonillion/NN,nonillions/NNS=all
@@ -72552,7 +72654,7 @@ overgarment=overgarment/NN,overgarments/NNS=all
 overgeneralization|overgeneralisation=noun_UN=us,ca,gb|gb,au,nz,za
 overgeneralize=verb=all
 overgenerous=JJ=all
-overglamorize=verb=all
+overglamorize|overglamorise=verb=us,ca,gb|gb,au,nz,za
 overglaze=JJ=all
 overgo=overgo/NN,overgoes/NNS=all
 overgo=overgo/VB,overwent/VBD,overgoing/VBG,overgone/VBN,overgo/VBP,overgoes/VBZ=all
@@ -78532,6 +78634,7 @@ projectively=RB=all
 projector=projector/NN,projectors/NNS=all
 prokaryote=prokaryote/NN,prokaryotes/NNS=all
 prokaryotic=JJ=all
+prolabor|prolabour=JJ=us|gb,ca,au,nz,za
 prolactin=prolactin/NN,prolactin/NN:U,prolactins/NNS=all
 prolapse=prolapse/NN,prolapses/NNS=all
 prolapse=verb=all
@@ -79808,6 +79911,10 @@ quasar=quasar/NN,quasars/NNS=all
 quash=verb=all
 quasi-favorable|quasi-favourable=JJ=us|gb,ca,au,nz,za
 quasi-favorably|quasi-favourably=RB=us|gb,ca,au,nz,za
+quasi-honorable|quasi-honourable=JJ=us|gb,ca,au,nz,za
+quasi-honorably|quasi-honourably=RB=us|gb,ca,au,nz,za
+quasi-humorous=JJ=all
+quasi-humorously=RB=all
 quasi=JJ=all
 quassia=quassia/NN:U,quassias/NNS=all
 quaternary=quaternary/JJ=all
@@ -85584,6 +85691,7 @@ self-fertilization|self-fertilisation=noun_UN=us,ca,gb|gb,au,nz,za
 self-formed=JJ=all
 self-fulfilling=JJ=all
 self-gratulation=NN:UN=all
+self-honored|self-honoured=JJ=us|gb,ca,au,nz,za
 self-host=verb=all
 self-hostable=JJ=all
 self-hypnotization|self-hypnotisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -94089,6 +94197,7 @@ time-barred=JJ=all
 time-consuming=JJ=all
 time-critical=JJ=all
 time-dependent=JJ=all
+time-honored|time-honoured=JJ=us|gb,ca,au,nz,za
 time-honoured=JJ=all
 time-lapse=JJ=all
 time-limited=JJ=all
@@ -97014,6 +97123,7 @@ underinsured=RB=all
 underinvest=verb=all
 underinvestment=underinvestment/NN,underinvestments/NNS=all
 underking=underking/NN,underkings/NNS=all
+underlaborer|underlabourer=noun=us|gb,ca,au,nz,za
 underlaid=JJ=all
 underlain=underlain/NN,underlains/NNS=all
 underlay=underlay/NN:U,underlays/NNS=all
@@ -97201,6 +97311,7 @@ undiscriminating=JJ=all
 undiscussed=JJ=all
 undisguisable=JJ=all
 undisguised=JJ=all
+undishonored|undishonoured=JJ=us|gb,ca,au,nz,za
 undismayed=JJ=all
 undisposed=JJ=all
 undisputable=JJ=all
@@ -97531,6 +97642,11 @@ ungentlemanly=RB=all
 ungerminated=JJ=all
 unglaciated=JJ=all
 unglamorous=JJ=all
+unglamorously=RB=all
+unglamorousness=NN=all
+unglamourous=JJ=all # unusual
+unglamourously=RB=all # unusual
+unglamourousness=NN=all # unusual
 unglazed=JJ=all
 ungodliness=ungodliness/NN:U,ungodlinesses/NNS=all
 ungodly=ungodly/JJ,ungodlier/JJR,ungodliest/JJS=all
@@ -97578,6 +97694,7 @@ unhandy=unhandy/JJ,unhandier/JJR,unhandiest/JJS=all
 unhappily=RB=all
 unhappiness=unhappiness/NN:U,unhappinesses/NNS=all
 unhappy=unhappy/JJ,unhappier/JJR,unhappiest/JJS=all
+unharbored|unharboured=JJ=us|gb,ca,au,nz,za
 unhardened=JJ=all
 unharmed=JJ=all
 unharmful=JJ=all
@@ -97612,9 +97729,13 @@ unhistorical=JJ=all
 unhitch=verb=all
 unholiness=unholiness/NN:U,unholinesses/NNS=all
 unholy=unholy/JJ,unholier/JJR,unholiest/JJS=all
+unhonored|unhonoured=JJ=us|gb,ca,au,nz,za
 unhook=verb=all
 unhoped=JJ=all
 unhorse=verb=all
+unhumored|unhumoured=JJ=us|gb,ca,au,nz,za
+unhumorous=JJ=all
+unhumorously=RB=all
 unhurried=JJ=all
 unhurriedly=RB=all
 unhurt=JJ=all
@@ -97841,6 +97962,11 @@ unknowingly=RB=all
 unknowledgeable=JJ=all
 unknown=unknown/JJ=all
 unknown=unknown/NN,unknowns/NNS=all
+unlabored|unlaboured=JJ=us|gb,ca,au,nz,za
+unlaboring|unlabouring=JJ=us|gb,ca,au,nz,za
+unlaborious=JJ=all
+unlaboriously=RB=all
+unlaboriousness=NN=all
 unlace=verb=all
 unlaced=JJ=all
 unladen=JJ=all
@@ -98023,6 +98149,8 @@ unnecessarily=RB=all
 unnecessary=JJ=all
 unneeded=JJ=all
 unnegotiable=JJ=all
+unneighborliness|unneighbourliness=NN=us|gb,ca,au,nz,za
+unneighborly|unneighbourly=RB=us|gb,ca,au,nz,za
 unnerve=verb=all
 unnerved=JJ=all
 unnerving=JJ=all
@@ -100925,6 +101053,7 @@ well-formed=JJ=all
 well-formedness=NN:U=all
 well-foundedness=NN:U=all
 well-heeled=JJ=all
+well-humored|well-humoured=JJ=us|gb,ca,au,nz,za # unusual
 well-intentioned=JJ=all
 well-known=JJ=all
 well-packed=JJ=all
