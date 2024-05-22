@@ -37748,9 +37748,9 @@ clamorer|clamourer=noun=us|gb,ca,au,nz,za
 clamoring|clamouring=JJ=us|gb,ca,au,nz,za
 clamoring|clamouring=NN:UN=us|gb,ca,au,nz,za
 clamorist|clamourist=noun=us|gb,ca,au,nz,za
-clamorously|clamourously=RB=us|gb,ca,au,nz,za
-clamorousness|clamourousness=NN=us|gb,ca,au,nz,za
-clamorous|clamourous=JJ=us|gb,ca,au,nz,za
+clamorously=RB=all
+clamorousness=NN=all
+clamorous=JJ=all
 clamor|clamour=noun_UN=us|gb,ca,au,nz,za
 clamor|clamour=verb=us|gb,ca,au,nz,za
 clamp=clamp/NN,clamps/NNS=all
@@ -37767,8 +37767,8 @@ clang=verb=all
 clanger=clanger/NN,clangers/NNS=all
 clanging=clanging/JJ=all
 clanging=clanging/NN:UN,clangings/NNS=all
-clangorously|clangourously=RB=us|gb,ca,au,nz,za
-clangorous|clangourous=JJ=us|gb,ca,au,nz,za
+clangorously=RB=all
+clangorous=JJ=all
 clangor|clangour=noun_UN=us|gb,ca,au,nz,za
 clangor|clangour=verb=us|gb,ca,au,nz,za
 clank=clank/NN,clanks/NNS=all
@@ -45617,10 +45617,10 @@ dolomite=dolomite/NN:U,dolomites/NNS=all
 dolomitic=JJ=all
 dolomitization|dolomitisation=noun_UN=us,ca,gb|gb,au,nz,za
 dolomitize=verb=all
-dolorously|dolourously=RB=us|gb,ca,au,nz,za
-dolorousness|dolourousness=NN=us|gb,ca,au,nz,za
-dolorous|dolourous=JJ=us|gb,ca,au,nz,za
-dolour|dolor=noun_UN=us|gb,ca,au,nz,za
+dolorously=RB=all
+dolorousness=NN=all
+dolorous=JJ=all
+dolor|dolour=noun_UN=us|gb,ca,au,nz,za
 dolphin=dolphin/NN,dolphins/NNS=all
 dolt=dolt/NN,dolts/NNS=all
 doltish=JJ=all
@@ -51187,7 +51187,7 @@ flavoring|flavouring=noun=us|gb,ca,au,nz,za
 flavorist|flavourist=noun=us|gb,ca,au,nz,za
 flavorlessness|flavourlessness=NN=us|gb,ca,au,nz,za
 flavorless|flavourless=JJ=us|gb,ca,au,nz,za
-flavorous|flavourous=JJ=us|gb,ca,au,nz,za
+flavorous=JJ=all
 flavorsomely|flavoursomely=RB=us|gb,ca,au,nz,za
 flavorsomeness|flavoursomeness=NN=us|gb,ca,au,nz,za
 flavorsome|flavoursome=JJ=us|gb,ca,au,nz,za
@@ -53866,9 +53866,6 @@ glamour=JJ=all
 glamour=noun_UN=all
 glamour=verb=all
 glamourless=JJ=less
-glamourous=JJ=all # unusual
-glamourously=RB=all # unusual
-glamourousness=NN=all # unusual
 glamper=glamper/NN,glampers/NNS=all
 glamping=NN:U=all
 glance=glance/NN,glances/NNS=all
@@ -55624,7 +55621,7 @@ harborer|harbourer=noun=us|gb,ca,au,nz,za
 harborful|harbourful=noun=us|gb,ca,au,nz,za
 harborless|harbourless=JJ=us|gb,ca,au,nz,za
 harbormaster|harbourmaster=noun=us|gb,ca,au,nz,za
-harborous|harbourous=JJ=us|gb,ca,au,nz,za
+harborous=JJ=all
 harborside|harbourside=JJ=us|gb,ca,au,nz,za
 harborside|harbourside=noun=us|gb,ca,au,nz,za
 harborward|harbourward=RB=us|gb,ca,au,nz,za
@@ -57173,7 +57170,7 @@ honorificabilitudinitatibus=NN=all
 honorifical=JJ=all # unusual
 honorifically=RB=all
 honorless|honourless=JJ=us|gb,ca,au,nz,za
-honorous|honourous=JJ=us|gb,ca,au,nz,za   # unusual
+honorous=JJ=all
 hood=hood/NN,hoods/NNS=all
 hood=verb=all
 hooded=JJ=all
@@ -96029,7 +96026,6 @@ tumorous=JJ=all
 tumor|tumour=noun=us|gb,ca,au,nz,za
 tumoural=JJ=au,ca,gb,nz,za #unusual?
 tumourlike=JJ=au,ca,gb,nz,za #unusual?
-tumourous=JJ=au,ca,gb,nz,za #unusual?
 tumult=tumult/NN:UN,tumults/NNS=all
 tumultuous=JJ=all
 tumultuously=RB=all
@@ -97734,9 +97730,6 @@ unglaciated=JJ=all
 unglamorous=JJ=all
 unglamorously=RB=all
 unglamorousness=NN=all
-unglamourous=JJ=all # unusual
-unglamourously=RB=all # unusual
-unglamourousness=NN=all # unusual
 unglazed=JJ=all
 ungodliness=ungodliness/NN:U,ungodlinesses/NNS=all
 ungodly=ungodly/JJ,ungodlier/JJR,ungodliest/JJS=all
