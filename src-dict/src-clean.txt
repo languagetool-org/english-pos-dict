@@ -1,4 +1,6 @@
 #=#=all
+#lor=lor/NN,lors/NNS=all # unusual
+#lor=lor/UH=all  # unusual
 1st=1st/JJ=all
 1st=1st/RB=all
 2nd=JJ=all
@@ -21482,8 +21484,6 @@ Savage=NNP=all
 Savaii=NNP=all
 Savannah=NNP=all
 Saville=NNP=all
-Savior=NNP=all
-Saviour=NNP=all
 Savitṛ=NNP=all
 Savoie=NNP=all
 Savona=NNP=all
@@ -48773,13 +48773,17 @@ evangelistic=JJ=all
 evangelization|evangelisation=noun_UN=us,ca,gb|gb,au,nz,za
 evangelize=verb=all
 evangelizer=evangelizer/NN,evangelizers/NNS=all
+evaporability=noun_UN=all
 evaporable=JJ=all
 evaporate=verb=all
 evaporation=evaporation/NN:U,evaporations/NNS=all
 evaporative=JJ=all
 evaporatively=RB=all
 evaporator=evaporator/NN,evaporators/NNS=all
+evaporimeter=noun=all
 evaporite=evaporite/NN,evaporites/NNS=all
+evaporitic=JJ=all
+evaporometer=noun=all #unusual
 evapotranspiration=evapotranspiration/NN:UN,evapotranspirations/NNS=all
 evasion=evasion/NN:UN,evasions/NNS=all
 evasive=JJ=all
@@ -55361,6 +55365,8 @@ haleness=haleness/NN,halenesses/NNS=all
 haler=haler/NN,halers/NNS=all
 half-assed=JJ=all
 half-colored|half-coloured=JJ=us|gb,ca,au,nz,za
+half-evaporated=JJ=all
+half-evaporating=JJ=all
 half-heartedly=RB=all
 half-hourly=half-hourly/JJ=all
 half-hourly=half-hourly/RB=all
@@ -61192,10 +61198,13 @@ invidiously=RB=all
 invidiousness=invidiousness/NN:U,invidiousnesses/NNS=all
 invigilate=verb=all
 invigilator=invigilator/NN,invigilators/NNS=all
+invigorant=noun=all
 invigorate=verb=all
 invigoratingly=RB=all
 invigoration=invigoration/NN:U,invigorations/NNS=all
 invigorative=JJ=all
+invigoratively=RB=all
+invigorator=noun=all
 invincibility=invincibility/NN:U,invincibilities/NNS=all
 invincible=JJ=all
 invincibly=RB=all
@@ -70493,6 +70502,10 @@ nonesuch=nonesuch/NN,nonesuches/NNS=all
 nonet=nonet/NN,nonets/NNS=all
 nonetheless=nonetheless/CC=all
 nonetheless=nonetheless/RB=all
+nonevaporable=JJ=all
+nonevaporating=JJ=all
+nonevaporation=noun_U=all
+nonevaporative=JJ=all
 nonexpendable=JJ=all
 nonfamous=JJ=all
 nonfiction=nonfiction/NN:U,nonfictions/NNS=all
@@ -71335,11 +71348,18 @@ odontoid=odontoid/NN,odontoids/NNS=all
 odontological=JJ=all
 odontologist=odontologist/NN,odontologists/NNS=all
 odontology=odontology/NN:UN,odontologies/NNS=all
+odorant=noun=all
+odored|odoured=JJ=us|gb,ca,au,nz,za # unusual
+odorful|odourful=JJ=us|gb,ca,au,nz,za
 odoriferous=JJ=all
 odorize=verb=all
+odorlessly|odourlessly=RB=us|gb,ca,au,nz,za
+odorlessness|odourlessness=NN=us|gb,ca,au,nz,za
+odorless|odourless=us|gb,ca,au,nz,za
 odorous=JJ=all
 odorously=RB=all
 odorousness=odorousness/NN,odorousnesses/NNS=all
+odor|odour=noun_UN=us|gb,ca,au,nz,za
 odyssey=odyssey/NN,odysseys/NNS=all
 oedometer=oedometer/NN,oedometers/NNS=all
 oenology=oenology/NN:U,oenologies/NNS=all
@@ -72914,6 +72934,9 @@ overvalue=verb=all
 overvalued=JJ=all
 overview=overview/NN,overviews/NNS=all
 overview=verb=all
+overvigorous=JJ=all
+overvigorously=RB=all
+overvigorousness=NN=all
 overvoltage=overvoltage/NN,overvoltages/NNS=all
 overwash=overwash/NN,overwashes/NNS=all
 overwash=verb=all
@@ -73668,6 +73691,9 @@ parliamentarian=parliamentarian/NN,parliamentarians/NNS=all
 parliamentarianism=NN:UN=all
 parliamentarization|parliamentarisation=noun_UN=us,ca,gb|gb,au,nz,za
 parliamentary=JJ=all
+parlorish|parlourish=JJ=us|gb,ca,au,nz,za
+parlormaid|parlourmaid=noun=us|gb,ca,au,nz,za
+parlor|parlour=noun=us|gb,ca,au,nz,za
 parlous=parlous/JJ=all
 parlous=parlous/RB=all
 parlously=RB=all
@@ -74055,6 +74081,7 @@ pavement=pavement/NN,pavements/NNS=all
 paver=paver/NN,pavers/NNS=all
 pavilion=pavilion/NN,pavilions/NNS=all
 paving=paving/NN:UN,pavings/NNS=all
+pavior|paviour=noun=us|gb,ca,au,nz,za
 pavlova=pavlova/NN,pavlovas/NNS=all
 paw=paw/NN,paws/NNS=all
 paw=verb=all
@@ -74572,6 +74599,7 @@ perfectly=RB=all
 perfectness=perfectness/NN:U,perfectnesses/NNS=all
 perfecto=perfecto/NN,perfectos/NNS=all
 perfervid=JJ=all
+perfervor|perfervour=NN=us|gb,ca,au,nz,za
 perfidious=JJ=all
 perfidiously=RB=all
 perfidy=perfidy/NN,perfidies/NNS=all
@@ -74878,6 +74906,7 @@ peruse=verb=all
 peruser=peruser/NN,perusers/NNS=all
 perv=perv/NN,pervs/NNS=all
 pervade=verb=all
+pervaporation=NN:UN=all
 pervasion=pervasion/NN:U,pervasions/NNS=all
 pervasive=JJ=all
 pervasively=RB=all
@@ -77347,6 +77376,8 @@ pre-establish=pre-established/JJ=all
 pre-establish=verb=all
 pre-estimate=pre-estimate/NN,pre-estimates/NNS=all
 pre-estimate=verb=all
+pre-evaporation=noun_UN=all
+pre-evaporator=noun=all
 pre-exist=verb=all
 pre-existence=NN:UN=all
 pre-existent=JJ=all
@@ -80505,6 +80536,8 @@ rancidity=rancidity/NN:U,rancidities/NNS=all
 rancidness=rancidness/NN:U,rancidnesses/NNS=all
 rancorous=JJ=all
 rancorously=RB=all
+rancorousness=NN:U=all
+rancor|rancour=noun_U=us|gb,ca,au,nz,za
 rand=rand/NN,rand/NNS,rands/NNS=all
 randan=randan/NN,randans/NNS=all
 randiness=randiness/NN:U,randinesses/NNS=all
@@ -81840,6 +81873,7 @@ reinvestigation=reinvestigation/NN:UN,reinvestigations/NNS=all
 reinvestment=reinvestment/NN:U,reinvestments/NNS=all
 reinvigorate=verb=all
 reinvigoration=reinvigoration/NN,reinvigorations/NNS=all
+reinvigorator=noun=all
 reissue=reissue/NN,reissues/NNS=all
 reissue=verb=all
 reiterate=verb=all
@@ -83356,9 +83390,13 @@ rigidify=verb=all
 rigidity=rigidity/NN:U,rigidities/NNS=all
 rigidly=RB=all
 rigmarole=rigmarole/NN:UN,rigmaroles/NNS=all
+rigorism=noun_UN=all
+rigorist=noun=all
+rigoristic=JJ=all
 rigorous=JJ=all
 rigorously=RB=all
-rigorousness=rigorousness/NN:U,rigorousnesses/NNS=all
+rigorousness=noun_U=all
+rigor|rigour=noun_UN=us|gb,ca,au,nz,za
 rile=verb=all
 rill=rill/NN,rills/NNS=all
 rim=rim/NN,rims/NNS=all
@@ -84038,6 +84076,13 @@ rummager=rummager/NN,rummagers/NNS=all
 rummer=rummer/NN,rummers/NNS=all
 rummy=rummy/JJ=all
 rummy=rummy/NN:U,rummies/NNS=all
+rumor-mongering|rumor-mongering=noun_UN=us|gb,ca,au,nz,za
+rumor-monger|rumour-monger=noun=us|gb,ca,au,nz,za
+rumored|rumoured=JJ=us|gb,ca,au,nz,za
+rumormongering|rumormongering=noun_UN=us|gb,ca,au,nz,za
+rumormonger|rumourmonger=noun=us|gb,ca,au,nz,za
+rumor|rumour=noun_UN=us|gb,ca,au,nz,za
+rumor|rumour=verb=us|gb,ca,au,nz,za
 rump=rump/NN,rumps/NNS=all
 rumple=rumple/NN,rumples/NNS=all
 rumple=verb=all
@@ -84547,6 +84592,8 @@ saponaceous=JJ=all
 saponification=saponification/NN:UN,saponifications/NNS=all
 saponify=verb=all
 saponin=saponin/NN:U,saponins/NNS=all
+saporific=JJ=all
+sapor|sapour=noun=us|gb,ca,au,nz,za
 sapper=sapper/NN,sappers/NNS=all
 sapphic=sapphic/JJ=all
 sapphic=sapphic/NN,sapphics/NNS=all
@@ -84717,7 +84764,27 @@ saveloy=saveloy/NN:UN,saveloys/NNS=all
 saver=saver/NN,savers/NNS=all
 saving=saving/JJ=all
 saving=saving/NN:UN,savings/NNS=all
+savioress|saviouress=noun=us|gb,ca,au,nz,za
+saviorhood|saviourhood=NN:U=us|gb,ca,au,nz,za
+saviorship|saviourship=NN:U=us|gb,ca,au,nz,za
+savior|saviour=noun=us|gb,ca,au,nz,za
 savoir-faire=NN:U=all
+savorable|savourable=JJ=us|gb,ca,au,nz,za # unusual
+savorer|savourer=noun=us|gb,ca,au,nz,za
+savorily|savourly=RB=us|gb,ca,au,nz,za
+savoriness|savouriness=noun_U=us|gb,ca,au,nz,za
+savoringly|savouringly=RB=us|gb,ca,au,nz,za
+savorlessness|savourlessness=noun_U=us|gb,ca,au,nz,za
+savorless|savourless=JJ=us|gb,ca,au,nz,za
+savorous=JJ=all
+savorously=RB=all
+savorsome|savoursome=JJ=us|gb,ca,au,nz,za # unusual
+savory=savory/JJ,savorier/JJR,savoriest/JJS=us
+savory=savory/NN:U,savories/NNS=us
+savor|savour=noun_UN=us|gb,ca,au,nz,za
+savor|savour=verb=us|gb,ca,au,nz,za
+savoury=savoury/JJ,savourier/JJR,savouriest/JJS=au,ca,gb,nz,za
+savoury=savoury/NN,savouries/NNS=au,ca,gb,nz,za
 savoy=savoy/NN:UN,savoys/NNS=all
 savvy=savvy/JJ,savvier/JJR,savviest/JJS=all
 savvy=savvy/NN:U,savvies/NNS=all
@@ -85824,6 +85891,9 @@ semiprivate=JJ=all
 semipublic=JJ=all
 semiquaver=semiquaver/NN,semiquavers/NNS=all
 semiregular=JJ=all
+semirigorous=JJ=all
+semirigorously=RB=all
+semirigorousness=noun_U=all
 semis=semis/NN,semises/NNS=all
 semisubmersible=semisubmersible/JJ=all
 semisubmersible=semisubmersible/NN,semisubmersibles/NNS=all
@@ -89191,6 +89261,10 @@ splendent=JJ=all
 splendid=splendid/JJ,splendider/JJR,splendidest/JJS=all
 splendidly=RB=all
 splendiferous=JJ=all
+splendorous=JJ=all
+splendorously=RB=all
+splendor|splendour=noun_U=us|gb,ca,au,nz,za
+splendrous=JJ=us # unusual
 splenectomize=verb=all
 splenectomy=splenectomy/NN,splenectomies/NNS=all
 splenetic=splenetic/JJ=all
@@ -90357,6 +90431,7 @@ storyteller=storyteller/JJ=all
 storyteller=storyteller/NN,storytellers/NNS=all
 storytelling=storytelling/NN:U,storytellings/NNS=all
 stoup=stoup/NN,stoups/NNS=all
+stour=stour/NN,stours/NNS=all # unusual
 stout=stout/JJ,stouter/JJR,stoutest/JJS=all
 stout=stout/NN:U,stouts/NNS=all
 stoutly=RB=all
@@ -91275,6 +91350,10 @@ succinctness=succinctness/NN:U,succinctnesses/NNS=all
 succinic=JJ=all
 succinyl=succinyl/NN:U,succinyls/NNS=all
 succinylcholine=succinylcholine/NN,succinylcholine/NN:U,succinylcholines/NNS=all
+succorer|succourer=noun=us|gb,ca,au,nz,za
+succorless|succourless=JJ=us|gb,ca,au,nz,za
+succor|succour=noun_UN=us|gb,ca,au,nz,za
+succor|succour=verb=us|gb,ca,au,nz,za
 succubus=succubus/NN,succubi/NNS,succubuses/NNS=all
 succulence=succulence/NN:U,succulences/NNS=all
 succulent=succulent/JJ=all
@@ -91728,6 +91807,9 @@ supertonic=supertonic/NN,supertonics/NNS=all
 superuser=superuser/NN,superusers/NNS=all
 supervene=verb=all
 supervention=supervention/NN:U,superventions/NNS=all
+supervigorous=JJ=all
+supervigorously=RB=all
+supervigorousness=NN=all
 supervise=verb=all
 supervision=supervision/NN:U,supervisions/NNS=all
 supervisor=supervisor/NN,supervisors/NNS=all
@@ -92438,7 +92520,8 @@ tabloidization|tabloidisation=noun_UN=us,ca,gb|gb,au,nz,za
 taboo=taboo/JJ=all
 taboo=taboo/NN:UN,taboos/NNS=all
 taboo=verb=all
-tabor=tabor/NN,tabors/NNS=all
+tabor=noun=all
+tabour=noun=gb,ca,au,nz,za # unusual
 tabular=JJ=all
 tabularization|tabularisation=noun_UN=us,ca,gb|gb,au,nz,za
 tabularly=RB=all
@@ -93257,9 +93340,10 @@ tennessine=NN:U=all
 tennis=tennis/NN:U,tennises/NNS=all
 tenofovir=NN:U=all
 tenon=tenon/NN,tenons/NNS=all
+tenor=noun=all
 tenor=tenor/JJ=all
-tenor=tenor/NN,tenors/NNS=all
 tenotomy=tenotomy/NN,tenotomies/NNS=all
+tenour=noun=gb,ca,au,nz,za # unusual
 tenpin=tenpin/NN,tenpins/NNS=all
 tenrec=tenrec/NN,tenrecs/NNS=all
 tens=tenser/JJR,tensest/JJS=all
@@ -95936,10 +96020,16 @@ tumid=JJ=all
 tumidity=tumidity/NN:U,tumidities/NNS=all
 tumidly=RB=all
 tummy=tummy/NN,tummies/NNS=all
+tumoral=JJ=all
 tumorigenesis=tumorigenesis/NN,tumorigeneses/NNS=all
 tumorigenic=JJ=all
 tumorigenicity=tumorigenicity/NN:UN,tumorigenicities/NNS=all
+tumorlike=JJ=all
 tumorous=JJ=all
+tumor|tumour=noun=us|gb,ca,au,nz,za
+tumoural=JJ=au,ca,gb,nz,za #unusual?
+tumourlike=JJ=au,ca,gb,nz,za #unusual?
+tumourous=JJ=au,ca,gb,nz,za #unusual?
 tumult=tumult/NN:UN,tumults/NNS=all
 tumultuous=JJ=all
 tumultuously=RB=all
@@ -98176,6 +98266,7 @@ unobtrusively=RB=all
 unobtrusiveness=unobtrusiveness/NN:U,unobtrusivenesses/NNS=all
 unobvious=JJ=all
 unoccupied=JJ=all
+unodorous=JJ=all
 unoffended=JJ=all
 unoffending=JJ=all
 unoffensive=JJ=all
@@ -98534,6 +98625,9 @@ unrhythmic=JJ=all
 unrig=unrig/VB,unrigged/VBD,unrigging/VBG,unrigged/VBN,unrig/VBP,unrigs/VBZ=all
 unrighteous=JJ=all
 unrighteousness=unrighteousness/NN:U,unrighteousnesses/NNS=all
+unrigorous=JJ=all
+unrigorously=RB=all
+unrigorousness=noun_U=all
 unripe=unripe/JJ,unriper/JJR,unripest/JJS=all
 unripeness=unripeness/NN,unripenesses/NNS=all
 unrivalled=JJ=all
@@ -98736,6 +98830,8 @@ unspectacularly=RB=all
 unspellable=JJ=all
 unspent=JJ=all
 unspiritual=JJ=all
+unsplendorous=JJ=all
+unsplendorously=RB=all
 unspliced=JJ=all
 unsplittable=JJ=all
 unspoiled=JJ=all
@@ -98977,6 +99073,9 @@ unvaccinated=JJ=all
 unvalued=JJ=all
 unvanquishable=JJ=all
 unvanquished=JJ=all
+unvaporous=JJ=all
+unvaporously=RB=all
+unvaporousness=noun_UN=all
 unvaried=JJ=all
 unvarnished=JJ=all
 unvarying=JJ=all
@@ -98990,6 +99089,9 @@ unverifiable=JJ=all
 unverified=JJ=all
 unversed=JJ=all
 unviable=JJ=all
+unvigorous=JJ=all
+unvigorously=RB=all
+unvigorousness=NN=all
 unvirtuous=JJ=all
 unvirtuously=RB=all
 unvirtuousness=NN=all
@@ -99458,6 +99560,8 @@ valorization|valorisation=noun_UN=us,ca,gb|gb,au,nz,za
 valorize=verb=all
 valorous=JJ=all
 valorously=RB=all
+valorousness=NN:U=all
+valor|valour=noun_U=us|gb,ca,au,nz,za
 valproate=valproate/NN,valproates/NNS=all
 valse=valse/NN,valses/NNS=all
 valuable=valuable/JJ=all
@@ -99516,13 +99620,32 @@ vapid=vapid/JJ,vapider/JJR,vapidest/JJS=all
 vapidity=vapidity/NN:U,vapidities/NNS=all
 vapidly=RB=all
 vaping=NN:U=all
-vaporizable=JJ=all
+vapor-like|vapour-like=JJ=us|gb,ca,au,nz,za
+vaporability|vapourability=noun_UN=us|gb,ca,au,nz,za
+vaporable|vapourable=JJ=us|gb,ca,au,nz,za
+vaporer|vapourer=noun=us|gb,ca,au,nz,za
+vaporescence=noun=all
+vaporescent=JJ=all
+vaporetto=noun=all
+vaporific=JJ=all
+vaporimeter=noun=all
+vaporingly|vapouringly=JJ=us|gb,ca,au,nz,za
+vaporing|vapouring=JJ=us|gb,ca,au,nz,za
+vaporishness|vapourishness=NN=us|gb,ca,au,nz,za
+vaporish|vapourish=JJ=us|gb,ca,au,nz,za
+vaporizable|vaporisable=JJ=us,ca,gb|gb,au,nz,za
 vaporization|vaporisation=noun_UN=us,ca,gb|gb,au,nz,za
-vaporize=verb=all
-vaporizer=vaporizer/NN,vaporizers/NNS=all
+vaporizer|vaporiser=noun=us,ca,gb|gb,au,nz,za
+vaporize|vaporise=verb=us,ca,gb|gb,au,nz,za
+vaporless|vapourless=JJ=us|gb,ca,au,nz,za
+vaporosity=noun=all
 vaporous=JJ=all
 vaporously=RB=all
+vaporousness=noun_UN=all
 vaporware=vaporware/NN,vaporwares/NNS=all
+vapory|vapoury=JJ=us|gb,ca,au,nz,za
+vapor|vapour=noun_UN=us|gb,ca,au,nz,za
+vapor|vapour=verb=us|gb,ca,au,nz,za
 var=var/NN,vars/NNS=all
 variability=variability/NN:U,variabilities/NNS=all
 variable=variable/JJ=all
@@ -99619,6 +99742,8 @@ vaunted=JJ=all
 vaunter=vaunter/NN,vaunters/NNS=all
 vaunting=vaunting/JJ=all
 vaunting=vaunting/NN:UN,vauntings/NNS=all
+vavasory=noun=all
+vavasor|vavasour=noun=us|gb,ca,au,nz,za
 veal=veal/NN:U,veals/NNS=all
 vector=vector/NN,vectors/NNS=all
 vector=verb=all
@@ -100026,10 +100151,13 @@ vignette=verb=all
 vignette=vignette/NN,vignettes/NNS=all
 vignetting=NN:UN=all
 vignettist=vignettist/NN,vignettists/NNS=all
-vigor=vigor/NN:U,vigors/NNS=all
+vigorish=noun_UN=all
+vigorless|vigourless=JJ=us|gb,ca,au,nz,za
+vigoroso=JJ=all
 vigorous=JJ=all
 vigorously=RB=all
 vigorousness=vigorousness/NN,vigorousnesses/NNS=all
+vigour|vigor=noun_U=us|gb,ca,au,nz,za
 vii=JJ=all
 viii=JJ=all
 vile=vile/JJ,viler/JJR,vilest/JJS=all
