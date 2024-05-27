@@ -37888,7 +37888,7 @@ civilizable|civilisable=JJ=us,ca,gb|gb,au,nz,za
 civilizationally|civilisationally=RB=us,ca,gb|gb,au,nz,za
 civilizational|civilisational=JJ=us,ca,gb|gb,au,nz,za
 civilization|civilisation=noun_UN=us,ca,gb|gb,au,nz,za
-civilizatory=JJ=all
+civilizatory|civilisatory=JJ=us,ca,gb|gb,au,nz,za
 civilized|civilised=JJ=us,ca,gb|gb,au,nz,za
 civilizer|civiliser=us,ca,gb|gb,au,nz,za
 civilize|civilise=verb=us,ca,gb|gb,au,nz,za
