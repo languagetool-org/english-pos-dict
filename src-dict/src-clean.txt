@@ -1,4 +1,3 @@
-
 #=#=all
 #crystalize=verb= #unusual
 #lor=lor/NN,lors/NNS=all # unusual
@@ -37890,7 +37889,7 @@ civilizational|civilisational=JJ=us,ca,gb|gb,au,nz,za
 civilization|civilisation=noun_UN=us,ca,gb|gb,au,nz,za
 civilizatory|civilisatory=JJ=us,ca,gb|gb,au,nz,za
 civilized|civilised=JJ=us,ca,gb|gb,au,nz,za
-civilizer|civiliser=us,ca,gb|gb,au,nz,za
+civilizer|civiliser=noun=us,ca,gb|gb,au,nz,za
 civilize|civilise=verb=us,ca,gb|gb,au,nz,za
 civilly=RB=all
 ck=NN=all
@@ -71629,7 +71628,7 @@ odoriferous=JJ=all
 odorize|odorise=verb=us,ca,gb|gb,au,nz,za
 odorlessly|odourlessly=RB=us|gb,ca,au,nz,za
 odorlessness|odourlessness=NN=us|gb,ca,au,nz,za
-odorless|odourless=us|gb,ca,au,nz,za
+odorless|odourless=JJ=us|gb,ca,au,nz,za
 odorous=JJ=all
 odorously=RB=all
 odorousness=odorousness/NN,odorousnesses/NNS=all
