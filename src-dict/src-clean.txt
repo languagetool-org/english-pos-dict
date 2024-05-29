@@ -36163,6 +36163,7 @@ carny=verb=all
 carob=carob/NN:U,carobs/NNS=all
 carol=carol/NN,carols/NNS=all
 carol=carol/VB,caroled/VBD,carolled/VBD,caroling/VBG,carolling/VBG,caroled/VBN,carolled/VBN,carol/VBP,carols/VBZ=all
+caroler|caroller=noun=us|au,ca,gb,nz,za
 carolus=carolus/NN,caroluses/NNS=all
 carom=carom/NN,caroms/NNS=all
 carom=verb=all
@@ -36560,6 +36561,7 @@ cavesson=cavesson/NN,cavessons/NNS=all
 caviar=caviar/NN:U,caviars/NNS=all
 cavil=cavil/NN,cavils/NNS=all
 cavil=cavil/VB,caviled/VBD,cavilled/VBD,caviling/VBG,cavilling/VBG,caviled/VBN,cavilled/VBN,cavil/VBP,cavils/VBZ=all
+caviler|caviller=noun=us|au,ca,gb,nz,za
 caving=caving/NN:U,cavings/NNS=all
 cavitary=JJ=all
 cavitation=cavitation/NN:UN,cavitations/NNS=all
@@ -40901,6 +40903,7 @@ councilwoman=councilwoman/NN,councilwomen/NNS=all
 counsel=counsel/NN:UN,counsels/NNS=all
 counsel=counsel/VB,counseled/VBD,counselled/VBD,counseling/VBG,counselling/VBG,counseled/VBN,counselled/VBN,counsel/VBP,counsels/VBZ=all
 counselling=counselling/NN:UN,counsellings/NNS=all
+counselor|counsellor=noun=us|au,ca,gb,nz,za
 count=count/NN:UN,counts/NNS=all
 count=verb=all
 countability=countability/NN:UN,countabilities/NNS=all
@@ -44239,6 +44242,7 @@ devil=devil/VB,deviled/VBD,devilled/VBD,deviling/VBG,devilling/VBG,deviled/VBN,d
 deviless=deviless/JJ=all
 deviless=deviless/NN,devilesses/NNS=all
 devilfish=devilfish/NN,devilfish/NNS=all
+deviling|devilling=noun_UN=us|au,ca,gb,nz,za
 devilish=JJ=all
 devilishly=RB=all
 devilishness=devilishness/NN:U,devilishnesses/NNS=all
@@ -46340,7 +46344,9 @@ driveability=driveability/NN:UN,driveabilities/NNS=all
 driveable=JJ=all
 drivel=drivel/NN:U,drivels/NNS=all
 drivel=drivel/VB,driveled/VBD,drivelled/VBD,driveling/VBG,drivelling/VBG,driveled/VBN,drivelled/VBN,drivel/VBP,drivels/VBZ=all
+driveler|driveller=noun=us|au,ca,gb,nz,za
 driveline=driveline/NN,drivelines/NNS=all
+driveling|drivelling=noun_UN=us|au,ca,gb,nz,za
 driven=JJ=all
 driver=driver/NN,drivers/NNS=all
 driverless=JJ=all
@@ -46517,6 +46523,9 @@ due=due/JJ=all
 due=due/NN,dues/NNS=all
 duel=duel/NN,duels/NNS=all
 duel=duel/VB,dueled/VBD,duelled/VBD,dueling/VBG,duelling/VBG,dueled/VBN,duelled/VBN,duel/VBP,duels/VBZ=all
+dueler|dueller=noun=us|au,ca,gb,nz,za
+dueling|duelling=noun_UN=us|au,ca,gb,nz,za
+duelist|duellist=noun=us|au,ca,gb,nz,za
 duende=duende/NN,duendes/NNS=all
 duenna=duenna/NN,duennas/NNS=all
 duet=duet/NN,duets/NNS=all
@@ -47779,6 +47788,7 @@ enactment=enactment/NN:UN,enactments/NNS=all
 enactor=enactor/NN,enactors/NNS=all
 enamel=enamel/NN:U,enamels/NNS=all
 enamel=enamel/VB,enameled/VBD,enamelled/VBD,enameling/VBG,enamelling/VBG,enameled/VBN,enamelled/VBN,enamel/VBP,enamels/VBZ=all
+enameler|enameller=noun=us|au,ca,gb,nz,za
 enamelware=enamelware/NN:U,enamelwares/NNS=all
 enamoration=noun_UN=all
 enamoredness|enamouredness=NN=us|gb,ca,au,nz,za
@@ -53259,6 +53269,7 @@ gambling=NN:U=all
 gamboge=gamboge/NN:U,gamboges/NNS=all
 gambol=gambol/NN,gambols/NNS=all
 gambol=gambol/VB,gamboled/VBD,gambolled/VBD,gamboling/VBG,gambolling/VBG,gamboled/VBN,gambolled/VBN,gambol/VBP,gambols/VBZ=all
+gamboling|gambolling=noun_UN=us|au,ca,gb,nz,za
 gambrel=gambrel/JJ=all
 gambrel=gambrel/NN,gambrels/NNS=all
 game-changing=JJ=all
@@ -54861,6 +54872,7 @@ grave=grave/VB,graved/VBD,graving/VBG,graved/VBN,graven/VBN,grave/VBP,graves/VBZ
 gravedigger=gravedigger/NN,gravediggers/NNS=all
 gravel=gravel/NN:U,gravels/NNS=all
 gravel=gravel/VB,graveled/VBD,gravelled/VBD,graveling/VBG,gravelling/VBG,graveled/VBN,gravelled/VBN,gravel/VBP,gravels/VBZ=all
+graveling|gravelling=noun_UN=us|au,ca,gb,nz,za
 gravelly=gravelly/JJ=all
 gravelly=gravelly/RB=all
 gravely=gravely/JJ=all
@@ -55152,6 +55164,7 @@ grouter=grouter/NN,grouters/NNS=all
 grouting=grouting/NN:UN,groutings/NNS=all
 grove=grove/NN,groves/NNS=all
 grovel=grovel/VB,groveled/VBD,grovelled/VBD,groveling/VBG,grovelling/VBG,groveled/VBN,grovelled/VBN,grovel/VBP,grovels/VBZ=all
+groveler|groveller=noun=us|au,ca,gb,nz,za
 grovelling=grovelling/NN:UN,grovelling/NNS=all
 grow=grow/VB,grew/VBD,growing/VBG,grown/VBN,grow/VBP,grows/VBZ=all
 growable=JJ=all
@@ -55180,6 +55193,8 @@ grudging=grudging/JJ=all
 grudging=grudging/NN:UN,grudgings/NNS=all
 grudgingly=RB=all
 gruel=gruel/NN:U,gruels/NNS=all
+gruelingly|gruellingly=RB=us|au,ca,gb,nz,za
+grueling|gruelling=JJ=us|au,ca,gb,nz,za
 gruesome=gruesome/JJ,gruesomer/JJR,gruesomest/JJS=all
 gruesomely=RB=all
 gruesomeness=gruesomeness/NN:U,gruesomenesses/NNS=all
@@ -62052,6 +62067,7 @@ jetty=jetty/NN,jetties/NNS=all
 jeté=jeté/NN,jetés/NNS=all
 jewel=jewel/NN,jewels/NNS=all
 jewel=jewel/VB,jeweled/VBD,jewelled/VBD,jeweling/VBG,jewelling/VBG,jeweled/VBN,jewelled/VBN,jewel/VBP,jewels/VBZ=all
+jeweler|jeweller=noun=us|au,ca,gb,nz,za
 jewelling=NN:UN=all
 jg=NN=all
 jib=jib/NN,jibs/NNS=all
@@ -63955,6 +63971,7 @@ levee=levee/NN,levees/NNS=all
 level=level/JJ,leveller/JJR,levellest/JJS=all
 level=level/NN:UN,levels/NNS=all
 level=level/VB,leveled/VBD,levelled/VBD,leveling/VBG,levelling/VBG,leveled/VBN,levelled/VBN,level/VBP,levels/VBZ=all
+leveler|leveller=noun=us|au,ca,gb,nz,za
 levelling=levelling/NN:UN=all
 levelling=levelling/RB=all
 levelly=RB=all
@@ -64011,6 +64028,8 @@ libation=libation/NN,libations/NNS=all
 libber=libber/NN,libbers/NNS=all
 libel=libel/NN:UN,libels/NNS=all
 libel=libel/VB,libeled/VBD,libelled/VBD,libeling/VBG,libelling/VBG,libeled/VBN,libelled/VBN,libel/VBP,libels/VBZ=all
+libeler|libeller=noun=us|au,ca,gb,nz,za
+libelous|libellous=JJ=us|au,ca,gb,nz,za
 liber=liber/NN,libers/NNS=all
 liberal-minded=JJ=all
 liberal=liberal/JJ=all
@@ -66071,6 +66090,8 @@ martyry=martyry/NN,martyries/NNS=all
 marvel=marvel/NN,marvels/NNS=all
 marvel=marvel/VB,marveled/VBD,marvelled/VBD,marveling/VBG,marvelling/VBG,marveled/VBN,marvelled/VBN,marvel/VBP,marvels/VBZ=all
 marvelling=NN:UN=all
+marvelously|marvellously=RB=us|au,ca,gb,nz,za
+marvelous|marvellous=JJ=us|au,ca,gb,nz,za
 marzipan=marzipan/NN:U,marzipans/NNS=all
 masala=masala/NN,masalas/NNS=all
 masc=NN=all
@@ -66432,6 +66453,7 @@ mechlorethamine=NN:U=all
 meclizine=meclizine/NN,meclizines/NNS=all
 meconium=meconium/NN,meconiums/NNS=all
 medal=medal/NN,medals/NNS=all
+medalist|medallist=noun=us|au,ca,gb,nz,za
 medallion=medallion/NN,medallions/NNS=all
 meddle=verb=all
 meddler=meddler/NN,meddlers/NNS=all
@@ -66947,6 +66969,7 @@ metagenesis=metagenesis/NN:U,metageneses/NNS=all
 metal=metal/JJ=all
 metal=metal/NN,metal/NN:U,metals/NNS=all
 metalanguage=metalanguage/NN,metalanguages/NNS=all
+metaled|metalled=JJ=us|au,ca,gb,nz,za
 metalepsis=metalepsis/NN,metalepses/NNS=all
 metalhead=metalhead/NN,metalheads/NNS=all
 metalinguistic=metalinguistic/JJ=all
@@ -68166,6 +68189,7 @@ mode=mode/NN,mode/NN:U,modes/NNS=all
 model=model/JJ=all
 model=model/NN,models/NNS=all
 model=model/VB,modeled/VBD,modelled/VBD,modeling/VBG,modelling/VBG,modeled/VBN,modelled/VBN,model/VBP,models/VBZ=all
+modeler|modeller=noun=us|au,ca,gb,nz,za
 modelize|modelise=verb=us,ca,gb|gb,au,nz,za
 modelling=modelling/NN:U,modellings/NNS=all
 modem=modem/NN,modems/NNS=all
@@ -73608,6 +73632,8 @@ panegyrist=panegyrist/NN,panegyrists/NNS=all
 panegyrize|panegyrise=verb=us,ca,gb|gb,au,nz,za
 panel=panel/NN,panels/NNS=all
 panel=panel/VB,paneled/VBD,panelled/VBD,paneling/VBG,panelling/VBG,paneled/VBN,panelled/VBN,panel/VBP,panels/VBZ=all
+paneling|panelling=noun_UN=us|au,ca,gb,nz,za
+panelist|panellist=noun=us|au,ca,gb,nz,za
 panelized|panellized|panellised=JJ=us|ca,gb|gb,au,nz,za
 panellization|panellisation=noun_UN=us,ca,gb|gb,au,nz,za
 panettone=panettone/NN,panettones/NNS=all
@@ -73900,6 +73926,7 @@ paravertebrally=RB=all
 parboil=verb=all
 parcel=parcel/NN,parcels/NNS=all
 parcel=parcel/VB,parceled/VBD,parcelled/VBD,parceling/VBG,parcelling/VBG,parceled/VBN,parcelled/VBN,parcel/VBP,parcels/VBZ=all
+parceling|parcelling=noun_UN=us|au,ca,gb,nz,za
 parcenary=parcenary/NN,parcenaries/NNS=all
 parch=verb=all
 parched=JJ=all
@@ -74948,6 +74975,7 @@ perigynous=JJ=all
 perihelion=perihelion/NN,perihelia/NNS,perihelions/NNS=all
 peril=peril/NN:UN,perils/NNS=all
 peril=peril/VB,periled/VBD,perilled/VBD,periling/VBG,perilling/VBG,periled/VBN,perilled/VBN,peril/VBP,perils/VBZ=all
+periling|perilling=noun_UN=us|au,ca,gb,nz,za
 perilous=JJ=all
 perilously=RB=all
 perilune=perilune/NN,perilunes/NNS=all
@@ -75260,6 +75288,7 @@ petajoule=petajoule/NN,petajoules/NNS=all
 petakatal=petakatal/NN,petakatals/NNS=all
 petakelvin=petakelvin/NN,petakelvins/NNS=all
 petal=petal/NN,petals/NNS=all
+petaled|petalled=JJ=us|au,ca,gb,nz,za
 petalite=NN:U=all
 petaloid=JJ=all
 petalumen=petalumen/NN,petalumens/NNS=all
@@ -80203,6 +80232,7 @@ quarantined=JJ=all
 quark=quark/NN,quarks/NNS=all
 quarrel=quarrel/NN,quarrels/NNS=all
 quarrel=quarrel/VB,quarreled/VBD,quarrelled/VBD,quarreling/VBG,quarrelling/VBG,quarreled/VBN,quarrelled/VBN,quarrel/VBP,quarrels/VBZ=all
+quarreler|quarreller=noun=us|au,ca,gb,nz,za
 quarrelling=quarrelling/NN:UN,quarrellings/NNS=all
 quarrelsome=JJ=all
 quarrelsomeness=quarrelsomeness/NN:U,quarrelsomenesses/NNS=all
@@ -81043,6 +81073,7 @@ rave=rave/NN,raves/NNS=all
 rave=verb=all
 ravel=ravel/NN,ravels/NNS=all
 ravel=ravel/VB,raveled/VBD,ravelled/VBD,raveling/VBG,ravelling/VBG,raveled/VBN,ravelled/VBN,ravel/VBP,ravels/VBZ=all
+raveling|ravelling=noun_UN=us|au,ca,gb,nz,za
 raven=raven/JJ,ravener/JJR=all
 raven=raven/NN,ravens/NNS=all
 raven=verb=all
@@ -83361,6 +83392,7 @@ revel=revel/VB,reveled/VBD,revelled/VBD,reveling/VBG,revelling/VBG,reveled/VBN,r
 revelation=revelation/NN:UN,revelations/NNS=all
 revelationist=revelationist/NN,revelationists/NNS=all
 revelatory=JJ=all
+reveler|reveller=noun=us|au,ca,gb,nz,za
 revelry=revelry/NN,revelries/NNS=all
 revenant=revenant/NN,revenants/NNS=all
 revenge=revenge/NN:U,revenges/NNS=all
@@ -83832,6 +83864,7 @@ ritzy=ritzy/JJ,ritzier/JJR,ritziest/JJS=all
 rival=rival/JJ=all
 rival=rival/NN,rivals/NNS=all
 rival=rival/VB,rivaled/VBD,rivalled/VBD,rivaling/VBG,rivalling/VBG,rivaled/VBN,rivalled/VBN,rival/VBP,rivals/VBZ=all
+rivaling|rivalling=noun_UN=us|au,ca,gb,nz,za
 rivalize|rivalise=verb=us,ca,gb|gb,au,nz,za
 rivalrous=JJ=all
 rivalry=rivalry/NN:UN,rivalries/NNS=all
@@ -87133,6 +87166,7 @@ shovel=shovel/VB,shoveled/VBD,shovelled/VBD,shoveling/VBG,shovelling/VBG,shovele
 shovelboard=NN=all
 shovelful=shovelful/NN,shovelfuls/NNS,shovelsful/NNS=all
 shovelhead=shovelhead/NN,shovelheads/NNS=all
+shoveling|shovelling=noun_UN=us|au,ca,gb,nz,za
 shovelnose=shovelnose/NN,shovelnoses/NNS=all
 show-off=NN=all
 show=show/NN:UN,shows/NNS=all
@@ -88460,6 +88494,7 @@ snitch=snitch/NN,snitches/NNS=all
 snitch=verb=all
 snivel=snivel/NN,snivels/NNS=all
 snivel=snivel/VB,sniveled/VBD,snivelled/VBD,sniveling/VBG,snivelling/VBG,sniveled/VBN,snivelled/VBN,snivel/VBP,snivels/VBZ=all
+sniveler|sniveller=noun=us|au,ca,gb,nz,za
 snivelling=snivelling/NN:UN,snivelling/NNS=all
 snob=snob/NN,snobs/NNS=all
 snobbery=snobbery/NN:U,snobberies/NNS=all
@@ -89508,6 +89543,7 @@ spiraea=spiraea/NN,spiraeas/NNS=all
 spiral=spiral/JJ=all
 spiral=spiral/NN,spirals/NNS=all
 spiral=spiral/VB,spiraled/VBD,spiralled/VBD,spiraling/VBG,spiralling/VBG,spiraled/VBN,spiralled/VBN,spiral/VBP,spirals/VBZ=all
+spiraling|spiralling=noun_UN=us|au,ca,gb,nz,za
 spiralizer=spiralizer/NN,spiralizers/NNS=all
 spiralize|spiralise=verb=us,ca,gb|gb,au,nz,za
 spirally=RB=all
@@ -92595,6 +92631,7 @@ switchover=NN=all
 switchyard=switchyard/NN,switchyards/NNS=all
 swivel=swivel/NN,swivels/NNS=all
 swivel=swivel/VB,swiveled/VBD,swivelled/VBD,swiveling/VBG,swivelling/VBG,swiveled/VBN,swivelled/VBN,swivel/VBP,swivels/VBZ=all
+swiveling|swivelling=noun_UN=us|au,ca,gb,nz,za
 swizz=swizz/NN,swizzes/NNS=all
 swizzle=swizzle/NN,swizzles/NNS=all
 swizzling=NN=all
@@ -93205,6 +93242,7 @@ taskmistress=taskmistress/NN,taskmistresses/NNS=all
 tass=tass/NN,tasses/NNS=all
 tassel=tassel/NN,tassels/NNS=all
 tassel=tassel/VB,tasseled/VBD,tasselled/VBD,tasseling/VBG,tasselling/VBG,tasseled/VBN,tasselled/VBN,tassel/VBP,tassels/VBZ=all
+tasseling|tasselling=noun_UN=us|au,ca,gb,nz,za
 taste=taste/NN:UN,tastes/NNS=all
 taste=verb=all
 tasteful=JJ=all
@@ -93439,6 +93477,7 @@ teeterboard=teeterboard/NN,teeterboards/NNS=all
 teethe=verb=all
 teething=teething/NN:U,teethings/NNS=all
 teetotal=JJ=all
+teetotaler|teetotaller=noun=us|au,ca,gb,nz,za
 teetotalism=teetotalism/NN:U,teetotalisms/NNS=all
 teetotum=teetotum/NN,teetotums/NNS=all
 tegument=tegument/NN,teguments/NNS=all
@@ -95700,6 +95739,7 @@ travail=travail/NN:UN,travails/NNS=all
 travail=verb=all
 travel=travel/NN:U,travels/NNS=all
 travel=travel/VB,traveled/VBD,travelled/VBD,traveling/VBG,travelling/VBG,traveled/VBN,travelled/VBN,travel/VBP,travels/VBZ=all
+traveler|traveller=noun=us|au,ca,gb,nz,za
 travelled=JJ=all
 travelling=travelling/JJ=all
 travelling=travelling/NN:UN,travellings/NNS=all
@@ -96405,6 +96445,8 @@ tunicle=tunicle/NN,tunicles/NNS=all
 tuning=tuning/NN:UN,tunings/NNS=all
 tunnel=tunnel/NN,tunnels/NNS=all
 tunnel=tunnel/VB,tunneled/VBD,tunnelled/VBD,tunneling/VBG,tunnelling/VBG,tunneled/VBN,tunnelled/VBN,tunnel/VBP,tunnels/VBZ=all
+tunneler|tunneller=noun=us|au,ca,gb,nz,za
+tunneling|tunnelling=noun_UN=us|au,ca,gb,nz,za
 tunny=tunny/NN,tunnies/NNS,tunny/NNS=all
 tupelo=tupelo/NN,tupelos/NNS=all
 tuppence=tuppence/NN,tuppences/NNS=all
@@ -98403,6 +98445,7 @@ unknowingly=RB=all
 unknowledgeable=JJ=all
 unknown=unknown/JJ=all
 unknown=unknown/NN,unknowns/NNS=all
+unlabeled|unlabelled=JJ=us|au,ca,gb,nz,za
 unlabored|unlaboured=JJ=us|gb,ca,au,nz,za
 unlaboring|unlabouring=JJ=us|gb,ca,au,nz,za
 unlaborious=JJ=all
@@ -99373,6 +99416,7 @@ untradable=JJ=all
 untradeable=JJ=all
 untraditional=JJ=all
 untrained=JJ=all
+untrammeled|untrammelled=JJ=us|au,ca,gb,nz,za
 untransferable=JJ=all
 untransformed=JJ=all
 untranslatable=JJ=all
@@ -102375,6 +102419,7 @@ woof=woof/UH=all
 woofer=woofer/NN,woofers/NNS=all
 wooing=wooing/NN:UN,wooings/NNS=all
 wool=wool/NN:U,wools/NNS=all
+woolen|woollen=noun=us|au,ca,gb,nz,za
 woolliness=woolliness/NN:U,woollinesses/NNS=all
 woolly=woolly/JJ,woollier/JJR,woolliest/JJS=all
 woolly=woolly/NN,woollies/NNS=all
@@ -102840,6 +102885,8 @@ yoctowatt=yoctowatt/NN,yoctowatts/NNS=all
 yoctoweber=yoctoweber/NN,yoctowebers/NNS=all
 yodel=yodel/NN,yodels/NNS=all
 yodel=yodel/VB,yodeled/VBD,yodelled/VBD,yodeling/VBG,yodelling/VBG,yodeled/VBN,yodelled/VBN,yodel/VBP,yodels/VBZ=all
+yodeler|yodeller=noun=us|au,ca,gb,nz,za
+yodeling|yodelling=noun_UN=us|au,ca,gb,nz,za
 yoga=yoga/NN:U,yogas/NNS=all
 yogi=yogi/NN,yogis/NNS=all
 yogic=JJ=all
