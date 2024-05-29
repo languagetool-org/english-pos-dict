@@ -1,3 +1,4 @@
+
 #=#=all
 #crystalize=verb= #unusual
 #lor=lor/NN,lors/NNS=all # unusual
@@ -87797,9 +87798,17 @@ skier=skier/NN,skiers/NNS=all
 skiff=skiff/NN,skiffs/NNS=all
 skiing=skiing/NN:U,skiings/NNS=all
 skijoring=skijoring/NN,skijoring/NN:U,skijorings/NNS=all
+skilfully|skillfully=RB=au,ca,gb,nz,za|us
+skilfulness|skillfulness=NN:U=au,ca,gb,nz,za|us
+skilful|skillful=JJ=au,ca,gb,nz,za|us
+skill-less=JJ=all
+skill-lessness=NN:U=all
 skill=skill/NN:UN,skills/NNS=all
 skilled=JJ=all
+skilless=JJ=all
+skillessness=NN:U=all
 skillet=skillet/NN,skillets/NNS=all
+skilletfish=skilletfish/NN,skilletfish/NNS=none
 skim=skim/JJ,skimmer/JJR=all
 skim=skim/NN,skims/NNS=all
 skim=skim/VB,skimmed/VBD,skimming/VBG,skimmed/VBN,skim/VBP,skims/VBZ=all
@@ -99177,6 +99186,9 @@ unsigned=JJ=all
 unsimulated=JJ=all
 unsingable=JJ=all
 unsinkable=JJ=all
+unskilfully|unskillfully=RB=au,ca,gb,nz,za|us
+unskilfulness|unskillfulness=NN:U=au,ca,gb,nz,za|us
+unskilful|unskillful=JJ=au,ca,gb,nz,za|us
 unskilled=JJ=all
 unslakable=JJ=all
 unsliced=JJ=all
@@ -99530,6 +99542,9 @@ unwholesomeness=unwholesomeness/NN:U,unwholesomenesses/NNS=all
 unwieldily=RB=all
 unwieldiness=unwieldiness/NN:U,unwieldinesses/NNS=all
 unwieldy=unwieldy/JJ,unwieldier/JJR,unwieldiest/JJS=all
+unwilfully|unwillfully=RB=au,ca,gb,nz,za|us
+unwilfulness|unwillfulness=NN:U=au,ca,gb,nz,za|us
+unwilful|unwillful=JJ=au,ca,gb,nz,za|us
 unwilled=JJ=all
 unwilling=JJ=all
 unwillingly=RB=all
@@ -102071,10 +102086,14 @@ wildness=wildness/NN:U,wildnesses/NNS=all
 wildwood=wildwood/NN,wildwoods/NNS=all
 wile=verb=all
 wile=wile/NN,wiles/NNS=all
-wilful=JJ=all
-wilfulness=wilfulness/NN:U,wilfulnesses/NNS=all
+wilfully|willfully=RB=au,ca,gb,nz,za|us
+wilfulness|willfulness=NN:U=au,ca,gb,nz,za|us
+wilful|willful=JJ=au,ca,gb,nz,za|us
 wilily=RB=all
 wiliness=wiliness/NN:U,wilinesses/NNS=all
+will-less=JJ=all
+will-lessly=RB=all
+will-lessness=NN:U=all
 will='d/MD,'ll/MD,will/MD,would/MD,wouldst/MD=all
 will=verb=all
 will=will/NN:UN,wills/NNS=all
