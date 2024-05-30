@@ -1,5 +1,6 @@
 
 #=#=all
+#cancelation=noun_UN=us # unusual
 #crystalize=verb= #unusual
 #lor=lor/NN,lors/NNS=all # unusual
 #lor=lor/UH=all  # unusual
@@ -35701,12 +35702,13 @@ canasta=canasta/NN:U,canastas/NNS=all
 canaster=NN=all
 cancan=cancan/NN,cancans/NNS=all
 cancel=cancel/NN,cancels/NNS=all
-cancel=cancel/VB,canceled/VBD,cancelled/VBD,canceling/VBG,cancelling/VBG,canceled/VBN,cancelled/VBN,cancel/VBP,cancels/VBZ=all
+cancel=cancel/VB,canceled/VBD,canceling/VBG,canceled/VBN,cancel/VBP,cancels/VBZ=us
+cancel=cancel/VB,cancelled/VBD,cancelling/VBG,cancelled/VBN,cancel/VBP,cancels/VBZ=all
 cancelable=JJ=all
 canceler=canceler/NN,cancelers/NNS=all
 cancellable=JJ=all
 cancellate=JJ=all
-cancellation=cancellation/NN:UN,cancellations/NNS=all
+cancellation=noun_UN=all
 canceller=canceller/NN,cancellers/NNS=all
 cancelling=NN:UN=all
 cancellous=JJ=all
