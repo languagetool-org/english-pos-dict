@@ -4,6 +4,11 @@
 #Archaeozoic=JJ=all #unusual
 #cancelation=noun_UN=us # unusual
 #crystalize=verb= #unusual
+#froward=JJ=all # unusual, forward vs froward
+#frowardly=RB=all # unusual, forward vs froward
+#frowardness=NN:U=all  # unusual, forward vs froward
+#gynaecic=JJ=all # unusual
+#gynecic=JJ=all # unusual
 #lor=lor/NN,lors/NNS=all # unusual
 #lor=lor/UH=all  # unusual
 #ptyalize|ptyalise=verb=none # unusual obsolete
@@ -8306,6 +8311,7 @@ Europocentrism=Europocentrism/NNP,Europocentrisms/NNPS=all
 Europol=NNP=all
 Europoort=NNP=all
 Eurorail=NNP=all
+Euroskepticism|Euroscepticism=NN:UN=ca,us|au,gb,nz,za
 Eurostar=NNP=all
 Eurostat=NNP=all
 Eurotunnel=NNP=all
@@ -28958,8 +28964,7 @@ anaemic|anemic=JJ=au,gb,nz,za|us,ca
 anaerobe=noun=all
 anaerobic=JJ=all
 anaerobically=RB=all
-anaesthetization|anaesthetisation=noun_UN=us,ca,gb|gb,au,nz,za
-anaesthetize|anaesthetise=verb=us,ca,gb|gb,au,nz,za
+anaesthesiology|anesthesiology=noun_U=ca,us|au,gb,nz,za
 anagenesis=anagenesis/NN:U,anageneses/NNS=all
 anaglyph=noun=all
 anagnorisis=anagnorisis/NN,anagnorises/NNS=all
@@ -29108,8 +29113,17 @@ anemone=noun=all
 anemophilous=JJ=all
 aneroid=aneroid/JJ=all
 aneroid=noun=all
+anesthesia|anaesthesia=noun_U=us,ca|au,gb,nz,za
+anesthesiologist|anaesthesiologist=noun=ca,us|au,gb,nz,za
+anesthetically|anaesthetically=RB=ca,us|au,gb,nz,za
+anesthetic|anaesthetic=JJ=ca,us|au,gb,nz,za
+anesthetic|anaesthetic=noun=ca,us|au,gb,nz,za
+anesthetist|anaesthetist=noun=ca,us|au,gb,nz,za
+anesthetization|anaesthetization|anaesthetisation=noun_UN=us,ca|gb|gb,au,nz,za
 anesthetization|anesthetisation=noun_UN=us,ca,gb|gb,au,nz,za
 anesthetize=verb=us
+anesthetizer|anaesthetizer|anaesthetiser=noun=us,ca|gb|gb,au,nz,za
+anesthetize|anaesthetize|anaesthetise=verb=us,ca|gb|gb,au,nz,za
 anethole=noun=all
 aneuploid=aneuploid/JJ=all
 aneuploid=noun=all
@@ -33670,11 +33684,11 @@ blah=blah/JJ=all
 blah=blah/UH=all
 blah=noun_U=all
 blamableness=NN:U=all
+blamableness|blameableness=NN:U=us|gb,ca,au,nz,za
+blamable|blameable=JJ=us|gb,ca,au,nz,za
 blame=blame/JJ,blamer/JJR=all
 blame=noun_UN=all
 blame=verb=all
-blameable=JJ=all
-blameableness=NN:U=all
 blamed=blamed/JJ=all
 blamed=blamed/RB=all
 blamefulness=NN:U=all
@@ -43197,9 +43211,11 @@ dapper=dapper/JJ,dapperer/JJR,dapperest/JJS=all
 dapper=noun=all
 dapperly=RB=all
 dapperness=NN:U=all
+dapple-gray|dapple-grey=JJ=us|au,ca,gb,nz,za
 dapple=dapple/JJ=all
 dapple=noun=all
 dapple=verb=all
+dappled-gray|dappled-grey=JJ=us|au,ca,gb,nz,za
 dappled=JJ=all
 dare=dare/MD=all
 dare=dare/VB,dared/VBD,durst/VBD,daring/VBG,dared/VBN,durst/VBN,dare/VBP,dares/VBZ=all
@@ -46395,6 +46411,8 @@ disturbed=JJ=all
 disturber=noun=all
 disturbing=JJ=all
 disturbingly=RB=all
+disulfate|disulphate=noun=us|au,ca,gb,nz,za
+disulfuric|disulphuric=JJ=us|au,ca,gb,nz,za
 disulphide=noun=all
 disunion=noun_U=all
 disunite=verb=all
@@ -47946,6 +47964,9 @@ edaphic=JJ=all
 eddy=noun=all
 eddy=verb=all
 edelweiss=noun_U=all
+edematic|oedematic=JJ=ca,us|au,gb,nz,za
+edematous|oedematous=JJ=ca,us|au,gb,nz,za
+edema|oedema=noun=ca,us|au,gb,nz,za
 edentate=edentate/JJ=all
 edentate=noun=all
 edge=edge/JJ,edger/JJR=all
@@ -49742,6 +49763,11 @@ estrangedness=NN:U=all
 estrangement=noun_UN=all
 estrogen=noun_U=all
 estrogenic=JJ=all
+estrogenically|oestrogenically=RB=ca,us|au,gb,nz,za
+estrogenic|oestrogenic=JJ=ca,us|au,gb,nz,za
+estrogen|oestrogen=noun=ca,us|au,gb,nz,za
+estrone|oestrone=noun_U=ca,us|au,gb,nz,za
+estrous|oestrous=JJ=ca,us|au,gb,nz,za
 estuarial=JJ=all
 estuarine=JJ=all
 estuary=noun=all
@@ -51511,6 +51537,8 @@ febrifuge=febrifuge/JJ=all
 febrifuge=noun=all
 febrile=JJ=all
 febrility=noun_UN=all
+fecal|faecal=JJ=ca,us|au,gb,nz,za
+feces|faeces=NNS=ca,us|au,gb,nz,za
 feckless=JJ=all
 fecklessly=RB=all
 fecklessness=NN:U=all
@@ -53889,8 +53917,6 @@ frothy=frothy/JJ,frothier/JJR,frothiest/JJS=all
 frottage=noun=all
 froufrou=noun_U=all
 frow=noun=all
-frowardly=RB=all
-frowardness=NN:U=all
 frown=noun=all
 frown=verb=all
 frowner=noun=all
@@ -55688,6 +55714,9 @@ gong=verb=all
 goniometer=noun=all
 gonococcal=JJ=all
 gonococcus=gonococcus/NN,gonococci/NNS=all
+gonorrheal|gonorrhoeal=JJ=ca,us|au,gb,nz,za
+gonorrhea|gonorrhoea=noun_U=ca,us|au,gb,nz,za
+gonorrheic|gonorrhoeic=JJ=ca,us|au,gb,nz,za
 goo=noun_U=all
 good-for-nothing=JJ=all
 good-for-nothing=noun=all
@@ -56105,10 +56134,20 @@ graviton=noun=all
 gravity=noun_U=all
 gravure=noun=all
 gravy=noun_U=all
+gray-haired|grey-haired=JJ=us|au,ca,gb,nz,za
 gray=gray/JJ,grayer/JJR,grayest/JJS=all
+gray=gray/JJ,grayer/JJR,grayest/JJS=us
 gray=noun_UN=all
 gray=verb=all
+grayback=noun=all
+graybeard|greybeard=noun=us|au,ca,gb,nz,za
+grayish|greyish=JJ=us|au,ca,gb,nz,za
+grayling=noun=all
+grayly|greyly=RB=us|au,ca,gb,nz,za
 grayness=NN:U=all
+grayscale|greyscale=JJ=us|au,ca,gb,nz,za
+gray|grey=noun_UN=us|au,ca,gb,nz,za
+gray|grey=verb=us|au,ca,gb,nz,za
 graze=noun=all
 graze=verb=all
 grazer=noun=all
@@ -56197,6 +56236,7 @@ gremlin=noun=all
 grenade=noun=all
 grenadier=noun=all
 grenadine=noun_U=all
+grey=grey/JJ,greyer/JJR,greyest/JJS=au,ca,gb,nz,za
 greybeard=noun=all
 greyhound=noun=all
 greylag=noun=all
@@ -56683,10 +56723,31 @@ gymnosophist=noun=all
 gymnosperm=noun=all
 gymnospermous=JJ=all
 gymslip=NN=all
+gynaeceum=gynaeceum/NN,gynaeceums/NNS,gynaecea/NNS=all
+gynaecium=gynaecium/NN,gynaecia/NNS=all
 gynandromorph=noun=all
 gynandrous=JJ=all
 gynarchy=noun=all
+gynecium=gynecium/NN,gynecia/NNS=all
+gynecocracy|gynaecocracy=noun_U=ca,us|au,gb,nz,za
+gynecocratic|gynaecocratic=JJ=ca,us|au,gb,nz,za
+gynecocrat|gynaecocrat=noun=ca,us|au,gb,nz,za
+gynecoid|gynaecoid=JJ=ca,us|au,gb,nz,za
+gynecologically|gynaecologically=ca,us|au,gb,nz,za
+gynecological|gynaecological=ca,us|au,gb,nz,za
+gynecologic|gynaecologic=ca,us|au,gb,nz,za
+gynecologist|gynaecologist=noun=ca,us|au,gb,nz,za
+gynecology|gynaecology=noun_U=ca,us|au,gb,nz,za
+gynecomastia|gynaecomastia=noun=ca,us|au,gb,nz,za
+gynecomasty|gynaecomasty=noun=ca,us|au,gb,nz,za
+gynecomorphous|gynaecomorphous=JJ=ca,us|au,gb,nz,za
+gynecopathic=JJ=all
+gynecopathy=noun=all
+gyneolatry=noun_UN=all
+gynephilia=NN:U=all
+gynephobia=NN:U=all
 gynocentric=JJ=all
+gynoecium=gynecium/NN,gynecia/NNS=all
 gynoecium=noun=all
 gyp=gyp/VB,gypped/VBD,gypping/VBG,gypped/VBN,gyp/VBP,gyps/VBZ=all
 gyp=noun=all
@@ -59616,6 +59677,8 @@ hyperfocused=JJ=all
 hyperfunction=noun_UN=all
 hyperfunctional=JJ=all
 hypergeometric=JJ=all
+hyperglycemia|hyperglycaemia=noun_UN=ca,us|au,gb,nz,za
+hyperglycemic|hyperglycaemic=JJ=ca,us|au,gb,nz,za
 hypergolic=JJ=all
 hyperhidrosis=hyperhidrosis/NN:U,hyperhidroses/NNS=all
 hyperimmune=JJ=all
@@ -59759,6 +59822,8 @@ hypogeum=hypogeum/NN,hypogea/NNS=all
 hypoglossal=hypoglossal/JJ=all
 hypoglossal=noun=all
 hypoglycaemia=NN:U=all
+hypoglycemia|hypoglycaemia=noun_UN=ca,us|au,gb,nz,za
+hypoglycemic|hypoglycaemic=JJ=ca,us|au,gb,nz,za
 hypogynous=JJ=all
 hypokalemia=noun_U=all
 hypokalemic=JJ=all
@@ -63356,6 +63421,8 @@ irruption=noun=all
 irruptive=JJ=all
 isagogics=NN:U=all
 isatin=noun=all
+ischemia|ischaemia=noun=ca,us|au,gb,nz,za
+ischemic|ischaemic=JJ=ca,us|au,gb,nz,za
 ischium=ischium/NN,ischia/NNS=all
 isentropic=JJ=all
 isinglass=noun_U=all
@@ -64376,6 +64443,7 @@ kimberlite=noun=all
 kimchi=noun=all
 kimono=noun=all
 kin=kin/NN,kin/NNS,kins/NNS=all
+kinaesthesis=kinaesthesis/NN,kinaestheses/NNS=au,gb,nz,za
 kinase=noun_U=all
 kind-hearted=JJ=all
 kind-heartedly=RB=all
@@ -64410,6 +64478,11 @@ kinesin=NN=all
 kinesiologist=noun=all
 kinesiology=noun_UN=all
 kinesis=kinesis/NN,kineses/NNS=all
+kinesthesia|kinaesthesia=noun_UN=ca,us|au,gb,nz,za
+kinesthesis=kinesthesis/NN,kinestheses/NNS=ca,us
+kinesthetically|kinaesthetically=RB=ca,us|au,gb,nz,za
+kinesthetics|kinaesthetics=NN:U=ca,us|au,gb,nz,za
+kinesthetic|kinaesthetic=JJ=ca,us|au,gb,nz,za
 kinetic=kinetic/JJ=all
 kinetic=noun=all
 kinetically=RB=all
@@ -65932,7 +66005,10 @@ lignocellulosic=JJ=all
 ligroin=noun=all
 ligulate=JJ=all
 ligule=noun=all
+likability=NN:UN=us
+likable=JJ=us
 likableness=NN:U=all
+likableness=NN:U=us
 like-minded=JJ=all
 like-mindedly=RB=all
 like-mindedness=NN:U=all
@@ -66991,8 +67067,12 @@ lushness=NN:U=all
 lusophone=JJ=all
 lust=noun_UN=all
 lust=verb=all
+lustered|lustred=JJ=us|au,ca,gb,nz,za
 lusterlessness=NN:U=all
+lusterless|lustreless=JJ=us|au,ca,gb,nz,za
 lusterware=noun=all
+luster|lustre=noun_U=us|au,ca,gb,nz,za
+luster|lustre=verb=us|au,ca,gb,nz,za
 lustful=JJ=all
 lustfully=RB=all
 lustfulness=NN:U=all
@@ -67556,6 +67636,12 @@ mandrill=noun=all
 manducate=verb=all
 mane=noun=all
 maned=JJ=all
+maneuverability|manoeuvrability=noun_U=us|au,ca,gb,nz,za
+maneuverable|manoeuvrable=JJ=us|au,ca,gb,nz,za
+maneuverer|manoeuvrer=noun=us|au,ca,gb,nz,za
+maneuvering|manoeuvring=noun=us|au,ca,gb,nz,za
+maneuver|manoeuvre=noun=us|au,ca,gb,nz,za
+maneuver|manoeuvre=verb=us|au,ca,gb,nz,za
 manful=JJ=all
 manfully=RB=all
 manfulness=NN:U=all
@@ -70151,6 +70237,7 @@ molarity=noun_UN=all
 molasses=noun_U=all
 moldable=JJ=all
 moldiness=NN:U=all
+moldy=moldy/JJ,moldier/JJR,moldiest/JJS=us
 mole=noun=all
 molecular=JJ=all
 molecularity=noun_U=all
@@ -70721,6 +70808,7 @@ mouflon=noun=all
 mouillé=JJ=all
 moujik=noun=all
 mouldiness=NN:U=all
+mouldy=mouldy/JJ,mouldier/JJR,mouldiest/JJS=au,ca,gb,nz,za
 mound-building=mound-building/JJ=all
 mound-building=mound-building/NN:U=all
 mound=noun=all
@@ -71302,6 +71390,10 @@ mussy=mussy/JJ,mussier/JJR,mussiest/JJS=all
 must=must/JJ=all
 must=must/MD=all
 must=noun_UN=all
+mustached|moustached=JJ=us|au,ca,gb,nz,za
+mustache|moustache=noun=us|au,ca,gb,nz,za
+mustachioed|moustachioed=JJ=au,ca,us|gb,nz,za
+mustachio|moustachio=noun=au,ca,us|gb,nz,za
 mustang=noun=all
 mustard=noun_U=all
 mustardy=JJ=all
@@ -72488,6 +72580,7 @@ nitroglycerin=noun_U=all
 nitroglycerine=noun_U=all
 nitrosamine=noun=all
 nitrosyl=noun=all
+nitrosylsulfuric|nitrosylsulphuric=JJ=us|au,ca,gb,nz,za
 nitrous=JJ=all
 nitty-gritty=NN:U=all
 nitwit=noun=all
@@ -74554,6 +74647,13 @@ orthography=orthography/NN,orthography/NN:U,orthographies/NNS=all
 ortholog=noun=all
 orthonormalization|orthonormalisation=noun_UN=us,ca,gb|gb,au,nz,za
 orthonormalize|orthonormalise=verb=us,ca,gb|gb,au,nz,za
+orthopedically|orthopaedically=RB=us|au,ca,gb,nz,za
+orthopedical|orthopaedical=JJ=us|au,ca,gb,nz,za
+orthopedics|orthopaedics=NN:U=us|au,ca,gb,nz,za
+orthopedic|orthopaedic=JJ=us|au,ca,gb,nz,za
+orthopedic|orthopaedic=noun=us|au,ca,gb,nz,za
+orthopedist|orthopaedist=noun=us|au,ca,gb,nz,za
+orthopedy|orthopaedy=noun_UN=us|au,ca,gb,nz,za
 orthophosphate=noun=all
 orthopnea=NN=all
 orthopraxy=noun_U=all
@@ -74793,6 +74893,7 @@ outline=verb=all
 outlive=verb=all
 outlook=noun=all
 outlying=JJ=all
+outmaneuver|outmanoeuvre=verb=us|au,ca,gb,nz,za
 outmatch=verb=all
 outmoded=JJ=all
 outmost=JJ=all
@@ -76746,6 +76847,10 @@ pedestrian=pedestrian/JJ=all
 pedestrianism=noun_UN=all
 pedestrianization|pedestrianisation=noun_UN=us,ca,gb|gb,au,nz,za
 pedestrianize|pedestrianise=verb=us,ca,gb|gb,au,nz,za
+pediatrician|paediatrician=noun=au,gb,nz,za|ca,us
+pediatrics|paediatrics=NN:U=au,gb,nz,za|ca,us
+pediatric|paediatric=JJ=au,gb,nz,za|ca,us
+pediatric|paediatric=noun=au,gb,nz,za|ca,us
 pedicab=noun=all
 pedicel=noun=all
 pedicle=noun=all
@@ -82499,6 +82604,7 @@ pyrophoric=JJ=all
 pyrophosphate=noun_U=all
 pyrophyllite=noun=all
 pyrosis=pyrosis/NN,pyroses/NNS,pyrosises/NNS=all
+pyrosulfuric|pyrosulphuric=JJ=us|au,ca,gb,nz,za
 pyrotechnic=noun=all
 pyrotechnic=pyrotechnic/JJ=all
 pyrotechnical=JJ=all
@@ -90523,6 +90629,11 @@ skeletonization|skeletonisation=noun_UN=us,ca,gb|gb,au,nz,za
 skeletonize|skeletonise=verb=us,ca,gb|gb,au,nz,za
 skep=noun=all
 skeps=noun=all
+skeptically|sceptically=RB=ca,us|au,gb,nz,za
+skeptical|sceptical=JJ=ca,us|au,gb,nz,za
+skepticism|scepticism=noun_U=ca,us|au,gb,nz,za
+skeptic|sceptic=JJ=ca,us|au,gb,nz,za
+skeptic|sceptic=noun=ca,us|au,gb,nz,za
 skerry=noun=all
 sketch=noun=all
 sketch=verb=all
@@ -94790,11 +94901,16 @@ sulfonic=NN=all
 sulfonyl=noun=all
 sulfonyl=sulfonyl/JJ=all
 sulfoxide=noun=all
+sulfuric|sulphuric=JJ=us|au,ca,gb,nz,za
 sulfurization|sulfurisation=noun_UN=us,ca,gb|gb,au,nz,za
 sulfurize|sulphurize|sulphurise=verb=us,ca|gb|gb,au,nz,za
+sulfurously|sulphurously=RB=us|au,ca,gb,nz,za
 sulfurousness=NN:U=all
+sulfurous|sulphurous=JJ=us|au,ca,gb,nz,za
 sulfuryl=noun=all
 sulfuryl=sulfuryl/JJ=all
+sulfur|sulphur=noun_UN=us|au,ca,gb,nz,za # but scientific usage -> sulfur!
+sulfur|sulphur=verb=us|au,ca,gb,nz,za
 sulk=noun=all
 sulk=verb=all
 sulkily=RB=all
@@ -101183,7 +101299,7 @@ unenviable=JJ=all
 unequal=noun=all
 unequal=unequal/JJ=all
 unequalize|unequalise=verb=us,ca,gb|gb,au,nz,za
-unequalled=JJ=all
+unequalled|unequaled=JJ=all|us
 unequally=RB=all
 unequalness=NN:U=all
 unequipped=JJ=all
@@ -101451,6 +101567,7 @@ ungrateful=JJ=all
 ungratefully=RB=all
 ungratefulness=NN:U=all
 ungratifying=JJ=all
+ungrayed|ungreyed=JJ=us|au,ca,gb,nz,za
 ungreased=JJ=all
 unground=JJ=all
 ungrounded=JJ=all
@@ -102469,7 +102586,7 @@ unrigorousness=NN:U=all
 unripe=unripe/JJ,unriper/JJR,unripest/JJS=all
 unripened=JJ=all
 unripeness=NN:U=all
-unrivalled=JJ=all
+unrivalled|unrivaled=JJ=all|us
 unrobustness=NN:U=all
 unroll=verb=all
 unrolled=JJ=all
@@ -102511,7 +102628,9 @@ unsatisfying=JJ=all
 unsaturate=noun=all
 unsaturated=JJ=all
 unsaved=JJ=all
+unsavorily|unsavourily=RB=us|au,ca,gb,nz,za
 unsavoriness=NN:U=all
+unsavory|unsavoury=JJ=us|au,ca,gb,nz,za
 unsavouriness=NN:U=all
 unsay=unsay/VB,unsaid/VBD,unsaying/VBG,unsaid/VBN,unsay/VBP,unsays/VBZ=all
 unsayable=JJ=all
@@ -103309,6 +103428,8 @@ urbanologist=noun=all
 urbanology=noun_U=all
 urchin=noun=all
 urea=noun_U=all
+uremia|uraemia=noun_U=ca,us|au,gb,nz,za
+uremic|uraemic=JJ=ca,us|au,gb,nz,za
 ureter=noun=all
 ureteral=JJ=all
 ureteric=JJ=all

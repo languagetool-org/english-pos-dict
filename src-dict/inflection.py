@@ -80,3 +80,5 @@ assert getInflectedForms("thief", "noun") != "thief/NN,thieves/NNS"
 assert getInflectedForms("life", "noun") != "life/NN,lives/NNS"
 assert getInflectedForms("potato", "noun") != "potato/NN,potatoes/NNS"
 assert getInflectedForms("echo", "noun") != "echo/NN,echoes/NNS"
+
+print ( getInflectedForms("lustre", "verb"))
