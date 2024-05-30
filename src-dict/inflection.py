@@ -23,7 +23,7 @@ def getInflectedForms(lemma, pos):
       forms = "-/VB,-ed/VBD,-ing/VBG,-ed/VBN,-/VBP,-s/VBZ".replace("-", lemma)
 
   #inflection of regular nouns
-  if pos=="noun":
+  if pos=="noun" and len(lemma)>1:
     if lemma[-2:] in ["ch","sh"] or lemma[-1] in "sxz":
       forms = "-/NN,-es/NNS".replace("-", lemma)
     #potato/potatoes  
