@@ -1222,6 +1222,7 @@ Americanist=Americanist/NNP,Americanists/NNPS=all
 Americanization|Americanisation=noun_UN=us,ca,gb|gb,au,nz,za
 Americanizer=Americanizer/NN,Americanizer/NNP,Americanizers/NNS=all
 Americanize|Americanise=verb=us,ca,gb|gb,au,nz,za
+Americanness=NN:U=all
 Americano=NNP=all
 Amerigo=NNP=all
 Amerigroup=NNP=all
@@ -26746,6 +26747,7 @@ absentee=absentee/NN,absentees/NNS=all
 absenteeism=absenteeism/NN:U,absenteeisms/NNS=all
 absently=RB=all
 absentminded=JJ=all
+absentmindedness=NN:U=all
 absinthe=absinthe/NN:U,absinthes/NNS=all
 absinthism=NN:UN=all
 absolute=absolute/JJ,absoluter/JJR,absolutest/JJS=all
@@ -28578,6 +28580,7 @@ amateurish=JJ=all
 amateurishly=RB=all
 amateurishness=NN:U=all
 amateurism=amateurism/NN:U,amateurisms/NNS=all
+amativeness=NN:U=all
 amatory=JJ=all
 amaurosis=amaurosis/NN,amauroses/NNS=all
 amaze=amaze/NN,amazes/NNS=all
@@ -34411,6 +34414,7 @@ brassware=brassware/NN,brasswares/NNS=all
 brassy=brassy/JJ,brassier/JJR,brassiest/JJS=all
 brat=brat/NN,brats/NNS=all
 brattice=verb=all
+brattiness=NN:U=all
 bratty=bratty/JJ,brattier/JJR,brattiest/JJS=all
 bratwurst=bratwurst/NN,bratwursts/NNS=all
 braunite=braunite/NN,braunites/NNS=all
@@ -41198,6 +41202,7 @@ coypu=coypu/NN,coypus/NNS=all
 cozen=verb=all
 cozenage=cozenage/NN:U,cozenages/NNS=all
 cozies=JJ=all
+coziness=NN:U=all
 cpd=NN=all
 cpl=NN=all
 cps=NN=all
@@ -50271,6 +50276,7 @@ farrow=verb=all
 farrowing=NN:UN=all
 farseeing=JJ=all
 farsighted=JJ=all
+farsightedness=NN:U=all
 fart=fart/NN,farts/NNS=all
 fart=verb=all
 farther=farther/JJ=all
@@ -50518,6 +50524,7 @@ fedora=fedora/NN,fedoras/NNS=all
 fee=fee/NN:UN,fees/NNS=all
 fee=fee/VB,feed/VBD,feeing/VBG,feed/VBN,fee/VBP,fees/VBZ=all
 feeble=feeble/JJ,feebler/JJR,feeblest/JJS=all
+feeblemindedness=NN:U=all
 feebleness=NN:U=all
 feebly=RB=all
 feed=feed/NN:UN,feeds/NNS=all
@@ -54899,6 +54906,7 @@ gravy=gravy/NN:U,gravies/NNS=all
 gray=gray/JJ,grayer/JJR,grayest/JJS=all
 gray=gray/NN:UN,grays/NNS=all
 gray=verb=all
+grayness=NN:U=all
 graze=graze/NN,grazes/NNS=all
 graze=verb=all
 grazer=grazer/NN,grazers/NNS=all
@@ -55620,10 +55628,12 @@ half-hourly=half-hourly/JJ=all
 half-hourly=half-hourly/RB=all
 half-life=half-life/NN:UN,half-lives/NNS=all
 half-timbered=JJ=all
+half-wittedness=NN:U=all
 half=half/DT=all
 half=half/NN,halves/NNS=all
 half=half/PDT=all
 halfbeak=halfbeak/NN,halfbeaks/NNS=all
+halfheartedness=NN:U=all
 halfling=halfling/NN,halfling/NNS=all
 halfpence=halfpence/NN,halfpences/NNS=all
 halfpenny=halfpenny/NN,halfpence/NNS,halfpennies/NNS=all
@@ -55885,6 +55895,7 @@ hard-code=verb=all
 hard-favoredness|hard-favouredness=NN:U=us|gb,ca,au,nz,za
 hard-favored|hard-favoured=JJ=us|gb,ca,au,nz,za
 hard-heartedly=RB=all
+hard-heartedness=NN:U=all
 hard-line=JJ=all
 hard-skinned=JJ=all
 hard=hard/JJ,harder/JJR,hardest/JJS=all
@@ -55899,6 +55910,7 @@ harden=verb=all
 hardened=JJ=all
 hardener=hardener/NN,hardeners/NNS=all
 hardening=hardening/NN:UN,hardenings/NNS=all
+hardheadedness=NN:U=all
 hardihood=hardihood/NN:U,hardihoods/NNS=all
 hardily=RB=all
 hardiness=NN:U=all
@@ -56914,6 +56926,8 @@ high-ceilinged=JJ=all
 high-colored|high-coloured=JJ=us|gb,ca,au,nz,za
 high-end=JJ=all
 high-functioning=JJ=all
+high-handedness=NN:U=all
+high-mindedness=NN:U=all
 high-pressure=high-pressure/JJ=all
 high-pressure=verb=all
 high-priced=JJ=all
@@ -58527,6 +58541,7 @@ icicle=icicle/NN,icicles/NNS=all
 icily=RB=all
 iciness=NN:U=all
 icing=icing/NN:U,icings/NNS=all
+ickiness=NN:U=all
 icky=icky/JJ,ickier/JJR,ickiest/JJS=all
 icon=icon/NN,icons/NNS=all
 iconic=JJ=all
@@ -60311,6 +60326,7 @@ inhumane=JJ=all
 inhumanely=RB=all
 inhumanity=inhumanity/NN:UN,inhumanities/NNS=all
 inhumanly=RB=all
+inhumanness=NN:U=all
 inhumation=inhumation/NN:UN,inhumations/NNS=all
 inhume=verb=all
 inimical=JJ=all
@@ -64181,6 +64197,7 @@ lighter=verb=all
 lighterage=lighterage/NN:U,lighterages/NNS=all
 lighterman=lighterman/NN,lightermen/NNS=all
 lightheadedness=NN:U=all
+lightheartedness=NN:U=all
 lighthouse=lighthouse/NN,lighthouses/NNS=all
 lighting=lighting/NN:U,lightings/NNS=all
 lightish=JJ=all
@@ -66088,6 +66105,7 @@ marvel=marvel/NN,marvels/NNS=all
 marvel=marvel/VB,marveled/VBD,marvelled/VBD,marveling/VBG,marvelling/VBG,marveled/VBN,marvelled/VBN,marvel/VBP,marvels/VBZ=all
 marvelling=NN:UN=all
 marvelously|marvellously=RB=us|au,ca,gb,nz,za
+marvelousness=NN:U=all
 marvelous|marvellous=JJ=us|au,ca,gb,nz,za
 marzipan=marzipan/NN:U,marzipans/NNS=all
 masala=masala/NN,masalas/NNS=all
@@ -66273,6 +66291,7 @@ matte=matte/NN,mattes/NNS=all
 matte=verb=all
 matted=JJ=all
 matter-of-factly=RB=all
+matter-of-factness=NN:U=all
 matter=matter/NN:UN,matters/NNS=all
 matter=verb=all
 mattify=verb=all
@@ -66368,6 +66387,7 @@ meadow=meadow/NN:UN,meadows/NNS=all
 meadowland=meadowland/NN,meadowlands/NNS=all
 meadowlark=meadowlark/NN,meadowlarks/NNS=all
 meadowsweet=meadowsweet/NN,meadowsweets/NNS=all
+meagerness=NN:U=all
 meal=meal/NN:UN,meals/NNS=all
 mealiness=NN:U=all
 mealtime=mealtime/NN,mealtime/NN:U,mealtimes/NNS=all
@@ -68271,6 +68291,7 @@ molariform=JJ=all
 molarity=molarity/NN:UN,molarities/NNS=all
 molasses=molasses/NN:U,molasseses/NNS=all
 moldable=JJ=all
+moldiness=NN:U=all
 mole=mole/NN,moles/NNS=all
 molecular=JJ=all
 molecularity=molecularity/NN:U,molecularities/NNS=all
@@ -69379,6 +69400,7 @@ musquash=musquash/NN:U,musquashes/NNS=all
 muss=muss/NN:UN,musses/NNS=all
 muss=verb=all
 mussel=mussel/NN,mussels/NNS=all
+mussiness=NN:U=all
 mussy=mussy/JJ,mussier/JJR,mussiest/JJS=all
 must=must/JJ=all
 must=must/MD=all
@@ -69881,6 +69903,7 @@ nearly=nearlier/JJR,nearliest/JJS=all
 nearly=nearly/RB=all
 nearness=NN:U=all
 nearside=nearside/NN,nearsides/NNS=all
+nearsightedness=NN:U=all
 neat=neat/JJ,neater/JJR,neatest/JJS=all
 neat=neat/NN=all
 neaten=verb=all
@@ -72046,6 +72069,7 @@ opcode=opcode/NN,opcodes/NNS=all
 open-ended=JJ=all
 open-minded=JJ=all
 open-mindedly=RB=all
+open-mindedness=NN:U=all
 open=open/JJ,openest/JJS=all
 open=open/NN:U,opens/NNS=all
 open=verb=all
@@ -72794,6 +72818,7 @@ ovenproof=JJ=all
 over-costly=RB=all
 over-deliver=verb=all
 over-represented=JJ=all
+over-ripeness=NN:U=all
 over-the-air=JJ=all
 over-tolerant=JJ=all
 over=o'er/IN,over/IN=all
@@ -76702,6 +76727,7 @@ plush=plush/JJ,plusher/JJR,plushest/JJS=all
 plush=plush/NN:U,plushes/NNS=all
 plushiness=NN:U=all
 plushly=RB=all
+plushness=NN:U=all
 plushy=plushy/JJ,plushier/JJR,plushiest/JJS=all
 plutino=plutino/NN,plutinos/NNS=all
 plutocracy=plutocracy/NN,plutocracies/NNS=all
@@ -80888,6 +80914,7 @@ ranged=JJ=all
 rangefinder=rangefinder/NN,rangefinders/NNS=all
 rangeland=rangeland/NN,rangeland/NNS=all
 ranger=ranger/NN,rangers/NNS=all
+ranginess=NN:U=all
 rangy=rangy/JJ,rangier/JJR,rangiest/JJS=all
 rani=rani/NN,ranis/NNS=all
 ranibizumab=NN:U=all
@@ -81702,6 +81729,7 @@ redden=verb=all
 reddened=JJ=all
 redder=redder/NN,redders/NNS=all
 reddish=JJ=all
+reddishness=NN:U=all
 redecorate=verb=all
 redecoration=redecoration/NN:U,redecorations/NNS=all
 rededicate=verb=all
@@ -83709,6 +83737,7 @@ rigging=rigging/NN:U,riggings/NNS=all
 right-angle=JJ=all
 right-angled=JJ=all
 right-click=verb=all
+right-handedness=NN:U=all
 right-hander=right-hander/NN,right-handers/NNS,righthanders/NNS=all
 right-wing=JJ=all
 right-winger=right-winger/NN,right-wingers/NNS=all
@@ -86078,8 +86107,10 @@ selenologist=selenologist/NN,selenologists/NNS=all
 selenology=selenology/NN:UN,selenologies/NNS=all
 self-actualization|self-actualisation=noun_UN=us,ca,gb|gb,au,nz,za
 self-advertiser=self-advertiser/NN,self-advertisers/NNS=all
+self-awareness=NN:U=all
 self-balancing=JJ=all
 self-betrayal=NN:UN=all
+self-centeredness=NN:U=all
 self-colored|self-coloured=JJ=us|gb,ca,au,nz,za
 self-confidence=NN:UN=all
 self-confident=JJ=all
@@ -86210,6 +86241,7 @@ semicommercial=JJ=all
 semiconducting=JJ=all
 semiconductor=semiconductor/NN,semiconductors/NNS=all
 semicontinuous=JJ=all
+semidarkness=NN:U=all
 semidesert=semidesert/NN,semideserts/NNS=all
 semidiurnal=JJ=all
 semidocumentary=semidocumentary/JJ=all
@@ -86345,6 +86377,7 @@ sentencing=sentencing/NN:UN,sentencings/NNS=all
 sentential=JJ=all
 sententious=JJ=all
 sententiously=RB=all
+sententiousness=NN:U=all
 sentience=sentience/NN:U,sentiences/NNS=all
 sentient=sentient/JJ=all
 sentient=sentient/NN=all
@@ -87134,6 +87167,7 @@ shortlist=shortlist/NN,shortlists/NNS=all
 shortlist=verb=all
 shortly=RB=all
 shortness=NN:U=all
+shortsightedness=NN:U=all
 shortstop=shortstop/NN,shortstops/NNS=all
 shorty=shorty/JJ=all
 shorty=shorty/NN,shorties/NNS=all
@@ -87593,6 +87627,7 @@ single-ended=JJ=all
 single-handedly=RB=all
 single-minded=JJ=all
 single-mindedly=RB=all
+single-mindedness=NN:U=all
 single-player=JJ=all
 single-seater=single-seater/NN,single-seaters/NNS=all
 single-serving=JJ=all
@@ -90542,6 +90577,7 @@ sthenic=JJ=all
 stibine=stibine/NN,stibines/NNS=all
 stibnite=stibnite/NN,stibnites/NNS=all
 stichomythia=stichomythia/NN,stichomythias/NNS=all
+stick-to-itiveness=NN:U=all
 stick=stick/NN:UN,sticks/NNS=all
 stick=stick/VB,stuck/VBD,sticking/VBG,stuck/VBN,stick/VBP,sticks/VBZ=all
 sticker=sticker/NN,stickers/NNS=all
@@ -96718,6 +96754,7 @@ typhus=typhus/NN:U,typhuses/NNS=all
 typical=JJ=all
 typicality=typicality/NN:U,typicalities/NNS=all
 typically=RB=all
+typicalness=NN:U=all
 typifier=typifier/NN,typifiers/NNS=all
 typify=verb=all
 typing=typing/NN:U,typings/NNS=all
@@ -99583,6 +99620,7 @@ unyoke=verb=all
 unzip=unzip/VB,unzipped/VBD,unzipping/VBG,unzipped/VBN,unzip/VBP,unzips/VBZ=all
 up-and-coming=JJ=all
 up-to-date=JJ=all
+up-to-dateness=NN:U=all
 up=up/IN=all
 up=up/JJ=all
 up=up/NN,ups/NNS=all
@@ -100024,6 +100062,7 @@ vape=verb=all
 vapid=vapid/JJ,vapider/JJR,vapidest/JJS=all
 vapidity=vapidity/NN:U,vapidities/NNS=all
 vapidly=RB=all
+vapidness=NN:U=all
 vaping=NN:U=all
 vapor-like|vapour-like=JJ=us|gb,ca,au,nz,za
 vaporability|vapourability=noun_UN=us|gb,ca,au,nz,za
@@ -101140,6 +101179,7 @@ wanker=wanker/NN,wankers/NNS=all
 wanly=RB=all
 wannabe=wannabe/NN,wannabes/NNS=all
 wannabee=wannabee/NN,wannabees/NNS=all
+wanness=NN:U=all
 want=verb=all
 want=want/NN:UN,wants/NNS=all
 wanted=JJ=all
@@ -101193,6 +101233,7 @@ warm=warm/JJ,warmer/JJR,warmest/JJS=all
 warmaker=warmaker/NN,warmakers/NNS=all
 warmed=JJ=all
 warmer=warmer/NN,warmers/NNS=all
+warmheartedness=NN:U=all
 warming=warming/JJ=all
 warming=warming/NN:UN,warmings/NNS=all
 warmish=JJ=all
@@ -101719,6 +101760,7 @@ wheelless=JJ=all
 wheelwright=wheelwright/NN,wheelwrights/NNS=all
 wheeze=verb=all
 wheeze=wheeze/NN,wheezes/NNS=all
+wheeziness=NN:U=all
 wheezing=wheezing/NN:UN,wheezings/NNS=all
 wheezy=wheezy/JJ,wheezier/JJR,wheeziest/JJS=all
 whelk=whelk/NN,whelks/NNS=all
@@ -102660,6 +102702,7 @@ wronged=JJ=all
 wrongful=JJ=all
 wrongfully=RB=all
 wrongfulness=NN:U=all
+wrongheadedness=NN:U=all
 wrongly=RB=all
 wrongness=NN:U=all
 wroth=JJ=all
