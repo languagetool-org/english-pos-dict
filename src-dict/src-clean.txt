@@ -46786,6 +46786,7 @@ dénouement=dénouement/NN,dénouements/NNS=all
 dépanneur=dépanneur/NN,dépanneurs/NNS=all
 détente=NN:U=all
 développé=développé/NN,développés/NNS=all
+e-business=noun_UN=all
 e-cigarette=e-cigarette/NN,e-cigarettes/NNS=all
 e-mailer=e-mailer/NN,e-mailers/NNS=all
 e-meet=e-meet/VB,e-met/VBD,e-meeting/VBG,e-met/VBN,e-meet/VBP,e-meets/VBZ=all
@@ -67208,6 +67209,7 @@ microbudget=microbudget/JJ=all
 microbudget=microbudget/NN:UN,microbudgets/NNS=all
 microburst=microburst/NN,microbursts/NNS=all
 microbus=microbus/NN,microbuses/NNS,microbusses/NNS=all
+microbusiness=noun=all
 microcandela=microcandela/NN,microcandelas/NNS=all
 microcapsule=microcapsule/NN,microcapsules/NNS=all
 microcassette=microcassette/NN,microcassettes/NNS=all
@@ -88249,6 +88251,7 @@ smackdown=smackdown/NN,smackdowns/NNS=all
 smacker=smacker/NN,smackers/NNS=all
 smacking=smacking/JJ=all
 smacking=smacking/NN:UN,smackings/NNS=all
+small-business=JJ=all
 small-minded=small-minded/JJ,smallminded/JJ=all
 small-mindedly=RB=all
 small-sized=JJ=all
@@ -100573,9 +100576,11 @@ village=village/NN,villages/NNS=all
 villager=villager/NN,villagers/NNS=all
 villain=villain/NN,villains/NNS=all
 villainage=villainage/NN,villainages/NNS=all
+villainess=noun=all
 villainize|villainise=verb=us,ca,gb|gb,au,nz,za
 villainous=JJ=all
 villainously=RB=all
+villainousness=NN:U=all
 villainy=villainy/NN,villainies/NNS=all
 villanelle=villanelle/NN,villanelles/NNS=all
 villein=villein/NN,villeins/NNS=all
