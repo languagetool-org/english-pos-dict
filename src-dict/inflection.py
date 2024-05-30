@@ -29,6 +29,8 @@ def getInflectedForms(lemma, pos):
     if len(parts) == 2:
       if parts[1] == "UN":
         add_string = ":UN"
+      if parts[1] == "U":
+        add_string = ":U"
     if lemma[-2:] in ["ch","sh"] or lemma[-1] in "sxz":
       forms = "-/NN,-es/NNS".replace("-", lemma)
     #potato/potatoes  
