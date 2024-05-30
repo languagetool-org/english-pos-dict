@@ -57893,6 +57893,11 @@ helter-skelter=helter-skelter/NN:UN=all
 helve=noun=all
 hem=hem/VB,hemmed/VBD,hemming/VBG,hemmed/VBN,hem/VBP,hems/VBZ=all
 hem=noun=all
+hematological|haematological=JJ=us,ca|au,gb,nz,za
+hematologic|haematologic=JJ=us,ca|au,gb,nz,za
+hematologist|haematologist=noun=us,ca|au,gb,nz,za
+hematology|haematology=noun_UN=us,ca|au,gb,nz,za
+hematolysis|haematolysis=NN=us,ca|au,gb,nz,za
 hematopoiesis=hematopoiesis/NN:U,hematopoieses/NNS=all
 hematopoietic=JJ=all
 hemianopsia=NN:U=all
@@ -57934,8 +57939,14 @@ hemopoiesis=hemopoiesis/NN:U,hemopoieses/NNS=all
 hemopoietic=JJ=all
 hemoprotein=noun_U=all
 hemoptysis=hemoptysis/NN:U,hemoptyses/NNS=all
+hemorrhage|haemorrhage=noun_UN=us,ca|au,gb,nz,za
+hemorrhage|haemorrhage=verb=us,ca|au,gb,nz,za
+hemorrhagic|haemorrhagic=JJ=us,ca|au,gb,nz,za
 hemorrhoidal=hemorrhoidal/JJ=all
 hemorrhoidal=noun=all
+hemorrhoidal|haemorrhoidal=JJ=all|au,gb,nz,za
+hemorrhoidectomy|haemorrhoidectomy=noun=all|au,gb,nz,za
+hemorrhoid|haemorrhoid=noun=all|au,gb,nz,za
 hemostatic=hemostatic/JJ=all
 hemostatic=noun=all
 hemp=noun_U=all
