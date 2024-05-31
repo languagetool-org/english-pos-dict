@@ -29578,6 +29578,7 @@ anticorrosion=JJ=all
 anticyclone=anticyclone/JJ=all
 anticyclone=noun=all
 anticyclonic=JJ=all
+antidefense|antidefence=JJ=us|au,ca,gb,nz,za
 antidemocratic=JJ=all
 antidepressant=antidepressant/JJ=all
 antidepressant=noun=all
@@ -33313,7 +33314,7 @@ biocompatible=JJ=all
 biocontrol=noun=all
 bioconversion=noun=all
 biocultural=JJ=all
-biodefense=noun=all
+biodefense|biodefence=noun_UN=us|au,ca,gb,nz,za
 biodegradability=noun_U=all
 biodegradable=JJ=all
 biodegradation=noun_UN=all
@@ -42985,6 +42986,7 @@ cybercafé=noun=all
 cybercivilization|cybercivilisation=noun_UN=us,ca,gb|gb,au,nz,za
 cybercrime=noun_UN=all
 cybercriminal=noun=all
+cyberdefense|cyberdefence=noun_UN=us|au,ca,gb,nz,za
 cyberespionage=NN:U=all
 cybernetic=cybernetic/JJ=all
 cybernetic=noun=all
@@ -43969,8 +43971,6 @@ defectiveness=NN:U=all
 defector=noun=all
 defeminization|defeminisation=noun_UN=us,ca,gb|gb,au,nz,za
 defeminize|defeminise=verb=us,ca,gb|gb,au,nz,za
-defencelessness=NN:U=all
-defenceman=defenceman/NN,defencemen/NNS=all
 defend=verb=all
 defendable=JJ=all
 defendant=defendant/JJ=all
@@ -43978,9 +43978,12 @@ defendant=noun=all
 defender=noun=all
 defending=JJ=all
 defenestration=noun_UN=all
+defensed|defenced=JJ=us|au,ca,gb,nz,za
 defenselessly|defencelessly=JJ=us|au,ca,gb,nz,za
-defenselessness=NN:U=all
+defenselessness|defencelessness=NN:UN=us|au,ca,gb,nz,za
 defenseless|defenceless=JJ=us|au,ca,gb,nz,za
+defenseman [pl. defensemen]|defenceman [pl. defencemen]=noun=us|au,ca,gb,nz,za
+defense|defence=noun_UN=us|au,ca,gb,nz,za
 defensibility=noun_UN=all
 defensible=JJ=all
 defensibleness=NN:U=all
@@ -72967,6 +72970,7 @@ noncrystalline|non-crystalline=JJ=au,ca,us|gb,nz,za
 noncustodial=JJ=all
 nondairy=JJ=all
 nondeductible|non-deductible=noun=au,ca,us|gb,nz,za
+nondefense|nondefence=JJ=us|au,ca,gb,nz,za
 nondegree=JJ=all
 nondelivery|non-delivery=noun=au,ca,us|gb,nz,za
 nondemobilization|nondemobilisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -89211,7 +89215,7 @@ self-dealing=NN:U=all
 self-deceit=NN:UN=all
 self-deception=noun_UN=all
 self-defeating=JJ=all
-self-defense=NN:UN=all
+self-defense|self-defence=noun_UN=us|au,ca,gb,nz,za
 self-defensive=JJ=all
 self-definition=NN:UN=all
 self-deluded=JJ=all
@@ -101249,6 +101253,7 @@ undefeatedness=NN:U=all
 undefectiveness=NN:U=all
 undefendable=JJ=all
 undefended=JJ=all
+undefensed|undefenced=JJ=us|au,ca,gb,nz,za
 undefiled=JJ=all
 undefinable=JJ=all
 undefined=JJ=all
