@@ -63332,7 +63332,7 @@ irrationality=noun_U=all
 irrationalize|irrationalise=verb=us,ca,gb|gb,au,nz,za
 irrationally=RB=all
 irrationalness=NN:U=all
-irrealizable=JJ=all
+irrealizable|irrealisable=JJ=us,ca,gb|gb,au,nz,za
 irreclaimable=JJ=all
 irreclaimableness=NN:U=all
 irreconcilability=noun_U=all
@@ -84006,12 +84006,12 @@ realist=realist/JJ=all
 realistic=JJ=all
 realistically=RB=all
 reality=noun_UN=all
-realizability=NN:UN=all
-realizable=JJ=all
-realizableness=NN:U=all
-realizably=RB=all
+realizability|realisability=NN:UN=us,ca,gb|gb,au,nz,za
+realizableness|realisableness=NN:U=us,ca,gb|gb,au,nz,za
+realizable|realisable=JJ=us,ca,gb|gb,au,nz,za
+realizably|realisably=RB=us,ca,gb|gb,au,nz,za
 realization|realisation=noun_UN=us,ca,gb|gb,au,nz,za
-realizer=noun=all
+realizer|realiser=noun=us,ca,gb|gb,au,nz,za
 realize|realise=verb=us,ca,gb|gb,au,nz,za
 reallocate=verb=all
 reallocation=noun_U=all
@@ -102767,8 +102767,8 @@ unreal=JJ=all
 unrealistic=JJ=all
 unrealistically=RB=all
 unreality=noun_U=all
-unrealizable=JJ=all
-unrealized=JJ=all
+unrealizable|unrealisable=JJ=us,ca,gb|gb,au,nz,za
+unrealized|unrealised=JJ=us,ca,gb|gb,au,nz,za
 unrealize|unrealise=verb=us,ca,gb|gb,au,nz,za
 unrealness=NN:U=all
 unreason=noun=all
