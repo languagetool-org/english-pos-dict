@@ -29011,7 +29011,11 @@ analytic=noun=all
 analytical=JJ=all
 analytically=RB=all
 analytics=NN:U=all
+analyzability|analysability=noun_UN=ca,us|au,gb,nz,za
+analyzable|analysable=JJ=ca,us|au,gb,nz,za
 analyzation=noun_UN=all
+analyzer|analyser=noun|ca,us|au,gb,nz,za
+analyze|analyse=verb=ca,us|au,gb,nz,za
 anamnesis=anamnesis/NN,anamneses/NNS=all
 anamorphic=JJ=all
 anamorphosis=anamorphosis/NN,anamorphoses/NNS=all
@@ -31252,6 +31256,7 @@ auto-scale=verb=all
 auto-tune=noun_UN=all
 auto-tune=verb=all
 auto=noun=all
+autoanalyzer|autoanalyser=noun=ca,us|au,gb,nz,za
 autoantibody=noun_U=all
 autobahn=autobahn/NN,autobahnen/NNS,autobahns/NNS=all
 autobiographer=noun=all
@@ -33273,6 +33278,7 @@ bioactivity=noun_UN=all
 bioanalyst=noun=all
 bioanalytic=JJ=all
 bioanalytical=JJ=all
+bioanalyzer|bioanalyser=noun=ca,us|au,gb,nz,za
 bioavailability=noun_UN=all
 bioavailable=JJ=all
 biobank=noun=all
@@ -34850,6 +34856,8 @@ breastwork=noun=all
 breath=noun_UN=all
 breathability=noun_UN=all
 breathable=JJ=all
+breathalyzer|breathalyser=noun=ca,us|au,gb,nz,za
+breathalyze|breathalyse=verb=ca,us|au,gb,nz,za
 breathe=verb=all
 breathed=JJ=all
 breather=noun=all
@@ -60395,6 +60403,7 @@ immunity=noun_U=all
 immunization|immunisation=noun_UN=us,ca,gb|gb,au,nz,za
 immunizer=noun=all
 immunize|immunise=verb=us,ca,gb|gb,au,nz,za
+immunoanalyzer|immunoanalyser=noun=ca,us|au,gb,nz,za
 immunoassay=noun=all
 immunoblot=noun=all
 immunochemistry=noun=all
@@ -69138,6 +69147,7 @@ microanalysis=microanalysis/NN,microanalyses/NNS=all
 microanalyst=noun=all
 microanalytic=JJ=all
 microanalytical=JJ=all
+microanalyzer|microanalyser=noun=ca,us|au,gb,nz,za
 microarray=noun=all
 microbalance=noun=all
 microbe=noun=all
@@ -69793,6 +69803,8 @@ misalign=verb=all
 misalignment=noun_U=all
 misalliance=noun=all
 misallocation=noun_UN=all
+misanalyzed|misanalysed=JJ=ca,us|au,gb,nz,za
+misanalyze|misanalyse=verb=ca,us|au,gb,nz,za
 misanthrope=noun=all
 misanthropic=JJ=all
 misanthropical=JJ=all
@@ -72809,6 +72821,8 @@ nonalcoholic|non-alcoholic=noun=au,ca,us|gb,nz,za
 nonaligned=JJ=all
 nonambulatory=nonambulatory/JJ=all
 nonambulatory=nonambulatory/NN=all
+nonanalyzable=JJ=ca,us
+nonanalyzed=JJ=ca,u
 nonappearance|non-appearance=noun=au,ca,us|gb,nz,za
 nonaromatic=JJ=all
 nonary=nonary/JJ=all
@@ -74081,12 +74095,15 @@ offspring=offspring/NN,offspring/NNS,offsprings/NNS=all
 offstage=noun=all
 offstage=offstage/JJ=all
 offtake=noun=all
+oft-times=RB=all # unusual
 oft=oft/JJ,ofter/JJR,oftest/JJS=all
 oft=oft/RB,ofter/RBR,oftest/RBS=all
 often=often/RB=all
 often=oftener/JJR,oftenest/JJS=all
 oftener=oftener/RB,oftener/RBR=all
 oftenness=NN:U=all
+oftentimes=RB=all # unusual in GB
+ofttimes=RB=all # unusual
 ogam=ogam/NN,ogam/NN:U,ogams/NNS=all
 oganesson=NN:U=all
 ogham=ogham/NN,ogham/NN:U,oghams/NNS=all
@@ -75218,8 +75235,7 @@ overall=overall/JJ=all
 overall=overall/RB=all
 overambitious=JJ=all
 overambitiousness=NN:U=all
-overanalyze=verb=all
-overanalyzed=JJ=all
+overanalyze|overanalyse=verb=ca,us|au,gb,nz,za
 overanxious=JJ=all
 overanxiousness=NN:U=all
 overapplication=noun_UN=all
@@ -82241,6 +82257,8 @@ psychoanalyst=noun=all
 psychoanalytic=JJ=all
 psychoanalytical=JJ=all
 psychoanalytically=RB=all
+psychoanalyzer|psychoanalyser=noun=ca,us|au,gb,nz,za
+psychoanalyze|psychoanalyse=verb=ca,us|au,gb,nz,za
 psychobabble=noun_U=all
 psychobabbler=noun=all
 psychobiologic=JJ=all
@@ -83981,6 +83999,8 @@ ream=noun=all
 ream=verb=all
 reamer=noun=all
 reanalysis=reanalysis/NN,reanalyses/NNS=all
+reanalyzable|reanalysable=JJ=ca,us|au,gb,nz,za
+reanalyze|reanalyse=verb=ca,us|au,gb,nz,za
 reanimate=verb=all
 reanimated=JJ=all
 reanimation=noun_U=all
@@ -89058,6 +89078,7 @@ self-advertiser=noun=all
 self-aggrandizement|self-aggrandisement=NN:U=us,ca,gb|gb,au,nz,za
 self-aggrandizing|self-aggrandising=JJ=us,ca,gb|gb,au,nz,za
 self-analysis=NN:UN=all
+self-analyzed|self-analysed=JJ=ca,us|au,gb,nz,za
 self-appointed=JJ=all
 self-asserting=JJ=all
 self-assertion=NN:UN=all
@@ -97606,6 +97627,7 @@ thermionic=thermionic/JJ=all
 thermionics=NN:U=all
 thermistor=noun=all
 thermoacidophile=NN=all
+thermoanalyzer|thermoanalyser=noun=ca,us|au,gb,nz,za
 thermobaric=JJ=all
 thermochemical=JJ=all
 thermochemistry=noun_U=all
@@ -100506,6 +100528,7 @@ unamended=JJ=all
 unamiable=JJ=all
 unamiableness=NN:U=all
 unamused=JJ=all
+unanalyzable|unanalysable=JJ=ca,us|au,gb,nz,za
 unanchored=JJ=all
 unaneled=JJ=all
 unanimity=noun_U=all
@@ -105655,6 +105678,7 @@ welfarism=noun_UN=all
 welkin=noun_U=all
 well-adjusted=JJ=all
 well-advised=JJ=all
+well-analyzed|well-analysed=JJ=ca,us|au,gb,nz,za
 well-appointed=JJ=all
 well-armored|well-armoured=JJ=us|gb,ca,au,nz,za
 well-balanced=JJ=all
