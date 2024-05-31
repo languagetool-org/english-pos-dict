@@ -1,8 +1,9 @@
 import re
 
-def getInflectedForms(lemma, pos):
+def getInflectedForms(lemma, pos, extra=''):
   forms = ""
   patternCVC = r"^[^aeiou]+[aeiou][^aeiou]$"
+  patternDuplicateConsonant = r"^\-([a-z])\1\-$"
   vowels = "aeiou";
   # inflection of regular verbs
   if pos=="verb":
@@ -19,6 +20,9 @@ def getInflectedForms(lemma, pos):
       forms = "-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", lemma[-1])
       # for verbs with more than one syllable, it cannot be done because 
       # we don't know which syllable is stressed (prefer/preferred, visit/visited, admit/admitted)
+    elif extra!="" and re.search(patternDuplicateConsonant,extra):
+      duplicateCosonant = extra[1]
+      forms = "-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", duplicateCosonant)
     else:
       forms = "-/VB,-ed/VBD,-ing/VBG,-ed/VBN,-/VBP,-s/VBZ".replace("-", lemma)
 
@@ -83,3 +87,4 @@ assert getInflectedForms("echo", "noun") != "echo/NN,echoes/NNS"
 
 print ( getInflectedForms("lustre", "verb"))
 print ( getInflectedForms("cosy", "verb"))
+print (getInflectedForms("program", "verb", "-mm-"))

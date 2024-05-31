@@ -10,8 +10,17 @@
 #frowardness=NN:U=all  # unusual, forward vs froward
 #gynaecic=JJ=all # unusual
 #gynecic=JJ=all # unusual
+#kinema=noun=au,gb,nz,za # unusual
+#kinematographer=noun=all # unusual
+#kinematographic=JJ=all # unusual
+#kinematographical=JJ=all # unusual
+#kinematographically=RB=all # unusual
+#kinematography=noun_UN=all # unusual
 #lor=lor/NN,lors/NNS=all # unusual
 #lor=lor/UH=all  # unusual
+#oecumenical=JJ=gb # arcaic
+#programer=noun=us # unusual
+#programing=noun_U=us #unusual
 #ptyalize|ptyalise=verb=none # unusual obsolete
 0-year-old=noun=all
 1-month-old=noun=all
@@ -18370,6 +18379,9 @@ Odontoceti=NNP=all
 Odra=NNP=all
 Odysseus=NNP=all
 Odyssey=NNP=all
+Oedipal=JJ=all
+Oedipally=JJ=all
+Oedipean=JJ=all
 Oedipus=NNP=all
 Oenone=NNP=all
 Oenopides=NNP=all
@@ -37486,6 +37498,7 @@ chapfallen=JJ=all
 chaplain=noun=all
 chaplaincy=noun=all
 chaplet=noun=all
+chapman [pl. chapmen]=noun=all # unusual
 chapped=JJ=all
 chappie=noun=all
 chapstick=NN=all
@@ -41706,7 +41719,7 @@ counterpose=verb=all
 counterpower=noun=all
 counterpressure=noun=all
 counterproductive=JJ=all
-counterprogramming=noun=all
+counterprogramming=noun_UN=all
 counterproject=noun=all
 counterproposal=noun=all
 counterprotest=noun=all
@@ -44674,7 +44687,7 @@ deprival=noun=all
 deprivation=noun_UN=all
 deprive=verb=all
 deprived=JJ=all
-deprogram=deprogram/VB,deprogramed/VBD,deprogrammed/VBD,deprograming/VBG,deprogramming/VBG,deprogramed/VBN,deprogrammed/VBN,deprogram/VBP,deprograms/VBZ=all
+deprogram [-mm-]=verb=all
 deprogrammer=noun=all
 deproteinization|deproteinisation=noun_UN=us,ca,gb|gb,au,nz,za
 deproteinize|deproteinise=verb=us,ca,gb|gb,au,nz,za
@@ -45212,7 +45225,7 @@ diacritically=RB=all
 diadelphous=JJ=all
 diadem=noun=all
 diadromous=JJ=all
-diaeresis=diaeresis/NN,diaereses/NNS=all
+diaeresis [pl. diaereses]=noun=all
 diagenesis=diagenesis/NN,diageneses/NNS=all
 diagenetic=JJ=all
 diagnosable=JJ=all
@@ -45290,7 +45303,10 @@ diaphysis=diaphysis/NN,diaphyses/NNS=all
 diapositive=noun=all
 diarist=noun=all
 diarize|diarise=verb=us,ca,gb|gb,au,nz,za
-diarrheal=JJ=all
+diarrheal|diarrhoeal=JJ=ca,us|au,gb,nz,za
+diarrhea|diarrhoea=noun_U=ca,us|au,gb,nz,za
+diarrheic|diarrhoeic=JJ=ca,us|au,gb,nz,za
+diarrhetic|diarrhoetic=JJ=ca,us|au,gb,nz,za
 diary=noun=all
 diaspora=noun=all
 diaspore=noun=all
@@ -45386,6 +45402,7 @@ dielectric=dielectric/JJ=all
 dielectric=noun=all
 diemaker=noun=all
 diencephalon=noun=all
+dieresis [pl. diereses]=noun=all
 dies=noun=all
 diesel=noun_U=all
 diesel=verb=all
@@ -47136,6 +47153,7 @@ doxy=noun=all
 doxycycline=noun=all
 doyen=noun=all
 doyenne=noun=all
+doyley=noun=au,gb,nz,za
 doze=noun=all
 doze=verb=all
 dozen=dozen/JJ=all
@@ -49795,7 +49813,7 @@ escutcheoned=JJ=all
 esker=noun=all
 esophageal=JJ=all
 esophagitis=NN:U=all
-esophagus=esophagus/NN,esophagi/NNS,esophaguses/NNS=all
+esophagus [pl. esophagi]|oesophagus [pl. oesophagi]=noun=all|au,ca,gb,nz,za
 esoteric=JJ=all
 esoterica=esoterica/NN,esoterica/NNS=all
 esoterically=RB=all
@@ -51040,6 +51058,8 @@ eyewitnessed=JJ=all
 eyot=noun=all
 eyra=noun=all
 eyre=noun=all
+eyrie=aerie/JJ,eyrier/JJR,eyriest/JJS=au,gb,nz,za
+eyrie=noun=au,gb,nz,za
 fMRI=NN:U=all
 fa=noun_U=all
 fab=fab/JJ=all
@@ -51738,6 +51758,7 @@ felonious=JJ=all
 feloniousness=NN:U=all
 felonry=noun=all
 felony=noun=all
+felspar=noun_U=au,gb,nz,za
 felt=noun_U=all
 felt=verb=all
 felted=JJ=all
@@ -51969,9 +51990,13 @@ fiat=noun=all
 fib=fib/VB,fibbed/VBD,fibbing/VBG,fibbed/VBN,fib/VBP,fibs/VBZ=all
 fib=noun=all
 fibber=noun=all
-fiber-optic=JJ=all
+fiber-optic|fibre-optic=JJ=us|au,ca,gb,nz,za
+fiberboard|fibreboard=noun_U=us|au,ca,gb,nz,za
+fiberfill|fibrefill=noun_U=us|au,ca,gb,nz,za
+fiberglass|fibreglass=noun_U=us|au,ca,gb,nz,za
 fiberization|fiberisation=noun_UN=us,ca,gb|gb,au,nz,za
 fiberize|fiberise=verb=us,ca,gb|gb,au,nz,za
+fiber|fibre=noun_UN=us|au,ca,gb,nz,za
 fibril=noun=all
 fibrillar=JJ=all
 fibrillary=RB=all
@@ -55771,6 +55796,7 @@ goggle=noun=all
 goggle=verb=all
 goggler=noun=all
 going=noun_UN=all
+goiter|goitre=noun=us|au,ca,gb,nz,za
 goitrous=JJ=all
 gold-colored|gold-coloured=JJ=us|gb,ca,au,nz,za
 gold=gold/JJ,golder/JJR,goldest/JJS=all
@@ -56049,6 +56075,7 @@ grammaticalize|grammaticalise=verb=us,ca,gb|gb,au,nz,za
 grammatically=RB=all
 grammaticalness=NN:U=all
 grammaticize|grammaticise=verb=us,ca,gb|gb,au,nz,za
+gramme=noun=gb,nz,za # unusual
 gramophone=noun=all
 grampus=noun=all
 gran=noun=all
@@ -58004,6 +58031,7 @@ hematology|haematology=noun_UN=us,ca|au,gb,nz,za
 hematolysis|haematolysis=NN=us,ca|au,gb,nz,za
 hematopoiesis=hematopoiesis/NN:U,hematopoieses/NNS=all
 hematopoietic=JJ=all
+heme|haem=noun_UN=all|au,ca,gb,nz,za
 hemianopsia=NN:U=all
 hemicellulose=noun=all
 hemichordate=hemichordate/JJ=all
@@ -59328,6 +59356,7 @@ hull=verb=all
 hullabaloo=noun=all
 huller=noun=all
 hulling=NN:UN=all
+hullo=noun=gb,nz,za
 hum=hum/VB,hummed/VBD,humming/VBG,hummed/VBN,hum/VBP,hums/VBZ=all
 hum=noun=all
 human-centered|human-centred=JJ=us|au,ca,gb,nz,za
@@ -61879,6 +61908,7 @@ inflexibility=noun_U=all
 inflexible=JJ=all
 inflexibleness=NN:U=all
 inflexibly=RB=all
+inflexion=noun_UN=au,gb,nz,za
 inflict=verb=all
 inflicter=noun=all
 infliction=noun_U=all
@@ -62376,11 +62406,13 @@ inst=inst/JJ=all
 inst=inst/NN=all
 instability=noun_U=all
 instable=JJ=all
+instal [-ll-]=verb=gb,nz # unusual
 install=verb=all
 installable=JJ=all
 installation=noun_UN=all
 installer=noun=all
 installing=NN:UN=all
+installment|instalment=noun=us|au,ca,gb,nz,za
 instance=noun=all
 instance=verb=all
 instant=instant/JJ,instanter/JJR=all
@@ -62402,6 +62434,8 @@ instep=noun=all
 instigate=verb=all
 instigation=noun_U=all
 instigator=noun=all
+instil [-ll-]=verb=au,gb,nz,za
+instill=verb=ca,us
 instillation=noun_U=all
 instiller=noun=all
 instilling=instilling/NN:UN,instilling/NNS=all
@@ -63908,7 +63942,9 @@ jeté=noun=all
 jewel=jewel/VB,jeweled/VBD,jewelled/VBD,jeweling/VBG,jewelling/VBG,jeweled/VBN,jewelled/VBN,jewel/VBP,jewels/VBZ=all
 jewel=noun=all
 jeweler|jeweller=noun=us|au,ca,gb,nz,za
+jewellike=JJ=all
 jewelling=NN:UN=all
+jewelry|jewellery=noun_U=us|au,ca,gb,nz,za
 jg=NN=all
 jib=jib/VB,jibbed/VBD,jibbing/VBG,jibbed/VBN,jib/VBP,jibs/VBZ=all
 jib=noun=all
@@ -64398,6 +64434,7 @@ keratoplasty=noun_UN=all
 keratose=keratose/JJ=all
 keratose=keratose/NN,keratose/NN:U,keratoses/NNS=all
 keratosis=keratosis/NN:U,keratoses/NNS=all
+kerb=noun=au,gb,nz,za
 kerbstone=noun=all
 kerchief=kerchief/NN,kerchiefs/NNS,kerchieves/NNS=all
 kerf=NN=all
@@ -64466,8 +64503,8 @@ kibibyte=noun=all
 kibitka=noun=all
 kibitzer=noun=all
 kiblah=noun=all
-kibosh=noun_U=all
-kibosh=verb=all
+kibosh|kybosh=noun_U=all|gb
+kibosh|kybosh=verb=all|gb
 kick-ass=JJ=all
 kick-off=NN=all
 kick-start=noun=all
@@ -65864,6 +65901,8 @@ leucoma=noun=all
 leuconoid=JJ=all
 leucoplast=noun=all
 leucotomy=noun=all
+leukaemia|leukemia=noun_U=au,gb,nz,za|ca,us
+leukaemic|leukemic=JJ=au,gb,nz,za|ca,us
 leukocyte=noun=all
 leukocytosis=leukocytosis/NN,leukocytoses/NNS=all
 leukoplakia=noun=all
@@ -66010,7 +66049,7 @@ lickerishness=NN:U=all
 lickety-split=RB=all
 licking=noun_UN=all
 lickspittle=noun=all
-licorice=licorice/NN,licorice/NN:U,licorices/NNS=all
+licorice|liquorice=noun_UN=all|au,gb,nz,za
 lictor=noun=all
 lid=lid/VB,lidded/VBD,lidding/VBG,lidded/VBN,lid/VBP,lids/VBZ=all
 lid=noun=all
@@ -67050,6 +67089,7 @@ lubricity=noun_U=all
 lucency=noun=all
 lucent=JJ=all
 lucently=RB=all
+lucerne=noun_U=au,gb,nz,za
 lucid=lucid/JJ,lucider/JJR,lucidest/JJS=all
 lucidity=noun_U=all
 lucidly=RB=all
@@ -69130,8 +69170,8 @@ meteorologically=RB=all
 meteorologist=noun=all
 meteorology=noun_U=all
 meter-kilogram-second=JJ=all
-meter=noun=all
-meter=verb=all
+meter|metre=noun_UN=all|au,ca,gb,nz,za
+meter|metre=verb=all|au,ca,gb,nz,za
 metformin=NN=all
 meth=meth/NN,meth/NN:U,meths/NNS=all
 methacrylate=noun=all
@@ -69405,6 +69445,8 @@ microporous=JJ=all
 microprint=NN:U=all
 microprocessor=noun=all
 microprogram=noun=all
+microprogrammable=JJ=all
+microprogrammer=noun=all
 microprogramming=noun=all
 micropropagation=NN:UN=all
 micropyle=noun=all
@@ -70361,9 +70403,17 @@ molar=noun=all
 molariform=JJ=all
 molarity=noun_UN=all
 molasses=noun_U=all
-moldable=JJ=all
+moldable|mouldable=JJ=us|au,ca,gb,nz,za
+moldboard|mouldboard=noun=us|au,ca,gb,nz,za
+moldered|mouldered=JJ=us|au,ca,gb,nz,za
+moldering|mouldering=JJ=us|au,ca,gb,nz,za
+molder|moulder=noun=us|au,ca,gb,nz,za
+molder|moulder=verb=us|au,ca,gb,nz,za
 moldiness=NN:U=all
+molding|moulding=noun=us|au,ca,gb,nz,za
 moldy=moldy/JJ,moldier/JJR,moldiest/JJS=us
+mold|mould=noun_UN=us|au,ca,gb,nz,za
+mold|mould=verb=us|au,ca,gb,nz,za
 mole=noun=all
 molecular=JJ=all
 molecularity=noun_U=all
@@ -70388,6 +70438,9 @@ mollycoddle=noun=all
 mollycoddle=verb=all
 mollycoddler=noun=all
 molten=JJ=all
+molter|moulter=noun=us|au,ca,gb,nz,za
+molt|moult=noun=us|au,ca,gb,nz,za
+molt|moult=verb=us|au,ca,gb,nz,za
 moly=noun=all
 molybdenite=noun=all
 molybdenum=noun_U=all
@@ -71310,7 +71363,8 @@ multiport=noun=all
 multiprocessing=noun=all
 multiprocessor=noun=all
 multiprofile=JJ=all
-multiprogramming=multiprogramming/NN,multiprogramming/NN:U,multiprogrammings/NNS=all
+multiprogram=JJ=all
+multiprogramming=noun_UN=all
 multipronged=JJ=all
 multiprotocol=JJ=all
 multipurpose=JJ=all
@@ -72338,6 +72392,7 @@ netherworld=noun_U=all
 netiquette=netiquette/NN,netiquette/NN:U,netiquettes/NNS=all
 netizen=noun=all
 netsuke=noun=all
+nett=nett/JJ,netter/JJR=gb,nz,za
 netter=noun=all
 netting=noun_U=all
 nettle=noun=all
@@ -72404,9 +72459,9 @@ neurologist=noun=all
 neurology=noun_U=all
 neuroma=noun=all
 neuromuscular=JJ=all
-neuron=neuron/JJ=all
-neuron=noun=all
 neuronal=JJ=all
+neuron|neurone=JJ=all|gb,nz,za
+neuron|neurone=noun=all|gb,nz,za
 neuropath=noun=all
 neuropathic=JJ=all
 neuropathically=RB=all
@@ -72677,6 +72732,7 @@ nirvana=noun_U=all
 nisei=nisei/NN,nisei/NNS,niseis/NNS=all
 nisi=JJ=all
 nit=noun=all
+niter|nitre=noun_UN=us|au,ca,gb,nz,za
 nitid=JJ=all
 nitpick=noun=all
 nitpick=verb=all
@@ -72890,6 +72946,7 @@ non-polar=JJ=all
 non-price=JJ=all
 non-profit=non-profit/JJ=all
 non-profit=noun=all
+non-programmer=noun=all
 non-protein=JJ=all
 non-refundable=JJ=all
 non-renewable=noun=all
@@ -73194,6 +73251,9 @@ nonprescription=JJ=all
 nonproductive|non-productive=JJ=au,ca,us|gb,nz,za
 nonprofessional=noun=all
 nonprofit=noun=all
+nonprogram=JJ=all
+nonprogrammable=JJ=all
+nonprogrammer=noun=all
 nonproliferation=noun_U=all
 nonprotein=nonprotein/JJ=all
 nonprotein=nonprotein/NN=all
@@ -74115,6 +74175,8 @@ odorously=RB=all
 odorousness=NN:U=all
 odor|odour=noun_UN=us|gb,ca,au,nz,za
 odyssey=noun=all
+oedipal=JJ=all
+oedipally=JJ=all
 oedometer=noun=all
 oenology=noun_U=all
 oenophile=noun=all
@@ -78210,6 +78272,7 @@ philosophization|philosophisation=noun_UN=us,ca,gb|gb,au,nz,za
 philosophizer=noun=all
 philosophize|philosophise=verb=us,ca,gb|gb,au,nz,za
 philosophy=noun_UN=all
+philter|philtre=noun=us|au,ca,gb,nz,za
 phishing=NN:U=all
 phlebitis=phlebitis/NN:U,phlebitides/NNS=all
 phlebotomist=noun=all
@@ -80473,7 +80536,7 @@ pre-format=pre-format/VB,pre-formatted/VBD,pre-formatting/VBG,pre-formatted/VBN,
 pre-incorporation=JJ=all
 pre-industrial=JJ=all
 pre-injury=JJ=all
-pre-install=pre-install/VB,pre-installed/VBD,pre-installed/VBN,pre-install/VBP,pre-installs/VBZ=all
+pre-install=verb=all
 pre-installation=noun_UN=all
 pre-instruction=noun_UN=all
 pre-instruction=pre-instruction/JJ=all
@@ -80508,7 +80571,7 @@ pre-primary=JJ=all
 pre-prison=JJ=all
 pre-privatization|pre-privatisation=noun_UN=us,ca,gb|gb,au,nz,za
 pre-production=noun_UN=all
-pre-program=pre-program/VB,pre-programmed/VBD,pre-programming/VBG,pre-programmed/VBN,pre-program/VBP,pre-programs/VBZ=all
+pre-program [-mm-]=verb=all
 pre-purchase=pre-purchase/JJ=all
 pre-purchase=verb=all
 pre-purchased=JJ=all
@@ -81063,7 +81126,7 @@ preprocessing=NN:U=all
 preprocessor=noun=all
 preproduction=noun_UN=all
 preprofessional=JJ=all
-preprogram=preprogram/VB,preprogrammed/VBD,preprogramming/VBG,preprogrammed/VBN,preprogram/VBP,preprograms/VBZ=all
+preprogram [-mm-]=verb=all
 prepubertal=JJ=all
 prepuberty=noun=all
 prepubescence=noun_U=all
@@ -81757,15 +81820,16 @@ prognosticate=verb=all
 prognostication=noun_UN=all
 prognosticator=noun=all
 prograde=verb=all
-program=noun=all
-program=program/VB,programed/VBD,programmed/VBD,programing/VBG,programming/VBG,programed/VBN,programmed/VBN,program/VBP,programs/VBZ=all
+program [-mm-]=verb=all
 programmability=noun_UN=all
+programmable=JJ=all
 programmable=noun=all
-programmable=programmable/JJ=all
 programmatic=JJ=all
 programmatically=RB=all
+programme=verb=gb,nz,za
 programmer=noun=all
 programming=noun_U=all
+program|programme=noun=all|gb,nz,za
 progress=noun_U=all
 progress=verb=all
 progression=noun_UN=all
@@ -85731,8 +85795,9 @@ reproduction=noun_UN=all
 reproductive=JJ=all
 reproductively=RB=all
 reproductiveness=NN:U=all
-reprogram=reprogram/VB,reprogramed/VBD,reprogrammed/VBD,reprograming/VBG,reprogramming/VBG,reprogramed/VBN,reprogrammed/VBN,reprogram/VBP,reprograms/VBZ=all
+reprogram [-mm-]=verb=all
 reprogrammable=JJ=all
+reprogrammer=noun=all
 reprography=noun_U=all
 repromise=verb=all
 reproof=noun_UN=all
@@ -88430,6 +88495,11 @@ scented=JJ=all
 scenting=noun_UN=all
 scentless=JJ=all
 scentlessness=NN:U=all
+sceptered|sceptred=JJ=us|au,ca,gb,nz,za
+scepterless|sceptreless=JJ=us|au,ca,gb,nz,za
+scepter|sceptre=noun=us|au,ca,gb,nz,za
+scepter|sceptre=verb=us|au,ca,gb,nz,za
+sceptral=JJ=all
 schadenfreude=schadenfreude/NN,schadenfreude/NN:U,schadenfreudes/NNS=all
 schedule=noun_UN=all
 schedule=verb=all
@@ -102812,6 +102882,7 @@ unprofitability=noun_UN=all
 unprofitable=JJ=all
 unprofitableness=NN:U=all
 unprofitably=RB=all
+unprogrammed=JJ=all
 unprogressive=JJ=all
 unprogressiveness=NN:U=all
 unprohibited=JJ=all
