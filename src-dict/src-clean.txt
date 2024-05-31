@@ -5,6 +5,7 @@
 #bye-election=noun=all # usual
 #cancelation=noun_UN=us # unusual
 #crystalize=verb= #unusual
+#fiord=noun=all #unusual
 #froward=JJ=all # unusual, forward vs froward
 #frowardly=RB=all # unusual, forward vs froward
 #frowardness=NN:U=all  # unusual, forward vs froward
@@ -22,6 +23,7 @@
 #programer=noun=us # unusual
 #programing=noun_U=us #unusual
 #ptyalize|ptyalise=verb=none # unusual obsolete
+#shew=shew/VB,shewed/VBD,shewing/VBG,shewn/VBN,shew/VBP,shews/VBZ=au,ca,us # unusual, archaic
 0-year-old=noun=all
 1-month-old=noun=all
 1-year-old=noun=all
@@ -6457,6 +6459,7 @@ D'Arcy=NNP=all
 D-Day=NNP=all
 D-day=NNP=all
 D-notice=NNP=all
+D=symbol=all
 DA=NNP=all
 DAB=NNP=all
 DACA=NNP=all
@@ -7380,6 +7383,7 @@ Dryopithecus=NNP=all
 Drysdale=NNP=all
 Drägerwerk=NNP=all
 Drôme=NNP=all
+Ds=symbol=all
 DuBois=NNP=all
 DuBose=NNP=all
 DuMont=NNP=all
@@ -8320,6 +8324,7 @@ Europass=NNP=all
 Europe=NNP=all
 European=European/JJ=all
 European=European/NNP,Europeans/NNPS=all
+Europeanism=noun_UN=all
 Europeanization|Europeanisation=noun_UN=us,ca,gb|gb,au,nz,za
 Europeanize|Europeanise=verb=us,ca,gb|gb,au,nz,za
 Europocentrism=Europocentrism/NNP,Europocentrisms/NNPS=all
@@ -8418,6 +8423,7 @@ Ezra=NNP=all
 Eógan=NNP=all
 Eötvös=NNP=all
 F&F=NNP=all
+F=symbol=all
 FAA=NNP=all
 FAANG=NNP=all
 FACS=NNP=all
@@ -27691,7 +27697,7 @@ aeciospore=noun=all
 aecium=aecium/NN,aecia/NNS=all
 aedicula=NN=all
 aedile=noun=all
-aegis=noun_U=all
+aegis [pl. aegises,aegides]=noun=all
 aegrotat=noun=all
 aeolian=JJ=all
 aeolipile=noun=all
@@ -32034,7 +32040,7 @@ bandsaw=verb=all
 bandsman=bandsman/NN,bandsmen/NNS=all
 bandstand=noun=all
 bandura=noun=all
-bandwagon=noun=all
+bandwagon|bandwaggon=noun=all|au,gb,nz,za
 bandwidth=bandwidth/NN,bandwidth/NN:U,bandwidths/NNS=all
 bandy=bandy/JJ,bandier/JJR,bandiest/JJS=all
 bandy=verb=all
@@ -32424,6 +32430,7 @@ battlement=noun=all
 battlemented=JJ=all
 battler=noun=all
 battleship=noun=all
+battlewagon=noun=all
 battling=NN:UN=all
 battue=noun=all
 batty=batty/JJ,battier/JJR,battiest/JJS=all
@@ -35795,6 +35802,7 @@ bêche-de-mer=bêche-de-mer/NN,bêches-de-mer/NNS=all
 bêtise=noun=all
 cDNA=noun_UN=all
 cPanel=NNP=all
+ca=abbreviation=all
 cab=cab/VB,cabbed/VBD,cabbing/VBG,cabbed/VBN,cab/VBP,cabs/VBZ=all
 cab=noun=all
 cabal=noun=all
@@ -35922,6 +35930,7 @@ cakewalk=verb=all
 cakey=cakey/JJ,cakier/JJR,cakiest/JJS=all
 cakiness=NN:U=all
 caking=noun_UN=all
+cal=abbreviation=all
 calabash=noun=all
 calaboose=noun=all
 calabrese=noun=all
@@ -35983,6 +35992,7 @@ calender=verb=all
 calendered=JJ=all
 calendric=JJ=all
 calendrical=JJ=all
+calends=NNS=all
 calendula=noun=all
 calenture=noun=all
 calf=calf/NN,calfs/NNS,calves/NNS=all
@@ -36892,6 +36902,7 @@ catchpenny=catchpenny/JJ=all
 catchpenny=catchpenny/NN=all
 catchphrase=noun=all
 catchpole=noun=all
+catchup=noun_U=all
 catchweight=JJ=all
 catchword=noun=all
 catchy=catchy/JJ,catchier/JJR,catchiest/JJS=all
@@ -37029,6 +37040,7 @@ cavalierness=NN:U=all
 cavalry=cavalry/NN,cavalry/NN:U,cavalries/NNS,cavalry/NNS=all
 cavalryman=cavalryman/NN,cavalrymen/NNS=all
 cavatina=noun=all
+cave-in=noun=all
 cave=noun=all
 cave=verb=all
 caveat=noun=all
@@ -37052,6 +37064,7 @@ caw=verb=all
 cawing=noun_UN=all
 cay=noun=all
 cayenne=noun_U=all
+cayman=noun=all
 caïque=noun=all
 cc=cc/NN=all
 cc=cc/VB,cc'd/VBD,cc'ing/VBG,cc'd/VBN,cc/VBP,cc's/VBZ=all
@@ -37421,6 +37434,7 @@ chameleonic=JJ=all
 chameleonlike=JJ=all
 chamfer=noun=all
 chamfer=verb=all
+chammy=noun=all
 chamois=chamois/NN,chamois/NNS,chamoix/NNS=all
 chamomile=noun=all
 champ=noun=all
@@ -38842,6 +38856,7 @@ clorazepate=NN:U=all
 closable=JJ=all
 close-fertilization|close-fertilisation=noun_UN=us,ca,gb|gb,au,nz,za
 close-knit=JJ=all
+close-up=noun=all
 close=close/JJ,closer/JJR,closest/JJS=all
 close=close/RB=all
 close=noun=all
@@ -38983,10 +38998,14 @@ co-location=noun_UN=all
 co-manage=verb=all
 co-manager=noun=all
 co-official=JJ=all
+co-op=noun_U=all
+co-opt=verb=all
 co-ordinate=noun=all
 co-ordinate=verb=all
 co-pay=co-pay/VB,co-paid/VBD,co-paying/VBG,co-paid/VBN,co-pay/VBP,co-pays/VBZ=all
 co-payment=noun_UN=all
+co-star [-rr-]=verb=all
+co-star=noun=all
 co-write=co-write/VB,co-wrote/VBD,co-writing/VBG,co-written/VBN,co-write/VBP,co-writes/VBZ=all
 co-writer=noun=all
 coacervate=NN=all
@@ -39330,6 +39349,7 @@ cold-heartedness=NN:U=all
 cold-jawed=JJ=all
 cold-press=verb=all
 cold-rolled=JJ=all
+cold-shoulder=verb=all
 cold=cold/JJ,colder/JJR,coldest/JJS=all
 cold=noun_U=all
 coldhearted=JJ=all
@@ -40358,6 +40378,7 @@ confiscate=verb=all
 confiscation=noun_UN=all
 confiscator=noun=all
 confiscatory=JJ=all
+confit=noun=all
 conflagration=noun=all
 conflate=verb=all
 conflation=noun_UN=all
@@ -41275,6 +41296,7 @@ coquette=verb=all
 coquettish=JJ=all
 coquettishly=RB=all
 coquettishness=NN:U=all
+cor=abbreviation=all
 coracle=noun=all
 coracoid=noun=all
 coral=coral/JJ=all
@@ -41849,6 +41871,7 @@ covenant=verb=all
 covenantal=JJ=all
 covenanter=noun=all
 covenantor=noun=all
+cover-up=noun=all
 cover=noun_UN=all
 cover=verb=all
 coverable=JJ=all
@@ -42030,6 +42053,7 @@ crappy=noun=all
 crapulent=JJ=all
 crapulousness=NN:U=all
 crapy=JJ=all
+crash-land=verb=all
 crash=crash/JJ,crasher/JJR=all
 crash=noun_UN=all
 crash=verb=all
@@ -42168,6 +42192,7 @@ crenation=crenation/NN,crenation/NN:UN,crenations/NNS=all
 crenelate=verb=all
 crenelated=JJ=all
 crenelation=noun_UN=all
+crenellation=noun_UN=all
 crenulate=JJ=all
 crenulated=JJ=all
 crenulation=noun_UN=all
@@ -42361,6 +42386,8 @@ cross-country=JJ=all
 cross-cultural=JJ=all
 cross-cut=cross-cut/JJ=all
 cross-cut=cross-cut/VB,cross-cut/VBD,cross-cutting/VBG,cross-cut/VBN,cross-cut/VBP,cross-cuts/VBZ=all
+cross-examination=noun_UN=all
+cross-examine=verb=all
 cross-eyed=JJ=all
 cross-fade=noun=all
 cross-fade=verb=all
@@ -42368,14 +42395,19 @@ cross-feed=NN:UN=all
 cross-fertilization|cross-fertilisation=noun_UN=us,ca,gb|gb,au,nz,za
 cross-functional=JJ=all
 cross-grain=JJ=all
+cross-hatching=noun=all
 cross-index=cross-index/VB,cross-indexed/VBD,cross-indexing/VBG,cross-indexed/VBN,cross-index/VBP,cross-indexes/VBZ=all
 cross-index=noun=all
 cross-link=noun=all
 cross-link=verb=all
 cross-match=noun=all
 cross-match=verb=all
+cross-question=noun=all
+cross-question=verb=all
 cross-react=verb=all
 cross-refer=cross-refer/VB,cross-referred/VBD,cross-referring/VBG,cross-referred/VBN,cross-refer/VBP,cross-refers/VBZ=all
+cross-reference=noun=all
+cross-reference=verb=all
 cross-ruff=noun=all
 cross-ruff=verb=all
 cross-sectional=JJ=all
@@ -42429,6 +42461,7 @@ crosswind=noun=all
 crosswise=crosswise/JJ=all
 crosswise=crosswise/RB=all
 crossword=noun=all
+crostini=NNS=all
 crotch=noun=all
 crotchet=noun=all
 crotchetiness=NN:U=all
@@ -42746,6 +42779,7 @@ cumbersomely=RB=all
 cumbersomeness=NN:U=all
 cumbia=NN:UN=all
 cumbrous=JJ=all
+cumbrously=RB=all
 cumbrousness=NN:U=all
 cumin=noun_U=all
 cummerbund=noun=all
@@ -43420,6 +43454,7 @@ daube=NN=all
 daubed=JJ=all
 dauber=noun=all
 daubing=noun_UN=all
+daughter-in-law [pl. daughters-in-law]=noun=all
 daughter=noun=all
 daughterless=JJ=all
 daughterliness=NN:U=all
@@ -43476,6 +43511,7 @@ dbForge=NNP=all
 de-Stalinization|de-Stalinisation=noun_UN=us,ca,gb|gb,au,nz,za
 de-Stalinize|de-Stalinise=verb=us,ca,gb|gb,au,nz,za
 de-anglicization|de-anglicisation=noun_UN=us,ca,gb|gb,au,nz,za
+de-emphasis=NN:UN=all
 de-emphasize|de-emphasise=verb=us,ca,gb|gb,au,nz,za
 de-energization|de-energisation=noun_UN=us,ca,gb|gb,au,nz,za
 de-energize|de-energise=verb=us,ca,gb|gb,au,nz,za
@@ -43962,6 +43998,8 @@ deejay=noun=all
 deem=verb=all
 deemphasize|deemphasise=verb=us,ca,gb|gb,au,nz,za
 deemster=noun=all
+deep-freeze=deep-freeze/VB,deep-froze/VBD,deep-freezing/VBG,deep-frozen/VBN,deep-freeze/VBP,deep-freezes/VBZ=all
+deep-freeze=noun=all
 deep-rooted=JJ=all
 deep-sea=JJ=all
 deep-seated=JJ=all
@@ -44700,6 +44738,7 @@ deputization|deputisation=noun_UN=us,ca,gb|gb,au,nz,za
 deputize|deputise=verb=us,ca,gb|gb,au,nz,za
 deputy=deputy/JJ=all
 deputy=noun=all
+der=abbreviation=all
 deracialize|deracialise=verb=us,ca,gb|gb,au,nz,za
 deracinate=verb=all
 deracination=noun=all
@@ -46637,6 +46676,8 @@ divorce=noun_UN=all
 divorce=verb=all
 divorcee=noun=all
 divorcement=noun=all
+divorcé=noun=all
+divorcée=noun=all
 divot=noun=all
 divulgation=noun_UN=all
 divulge=verb=all
@@ -46657,6 +46698,7 @@ djellaba=noun=all
 dm=dm/NN=all
 dm=dm/VB,dm'd/VBD,dmed/VBD,dming/VBG,dm'd/VBN,dmed/VBN,dm/VBP,dms/VBZ=all
 do-gooder=noun=all
+do-it-yourself=NN=all
 do-it-yourselfer=NN=all
 do-over=noun=all
 do=do/VB,did/VBD,didst/VBD,doing/VBG,done/VBN,do/VBP,does/VBZ,dost/VBZ,doth/VBZ=all
@@ -46956,6 +46998,7 @@ doss=verb=all
 dossal=noun=all
 dosser=noun=all
 dossier=noun=all
+dot-com=noun=all
 dot=dot/VB,dotted/VBD,dotting/VBG,dotted/VBN,dot/VBP,dots/VBZ=all
 dot=noun=all
 dotage=noun_U=all
@@ -46972,6 +47015,7 @@ dotty=dotty/JJ,dottier/JJR,dottiest/JJS=all
 double-banked=JJ=all
 double-check=verb=all
 double-coated=JJ=all
+double-cross=verb=all
 double-date=verb=all
 double-dealing=JJ=all
 double-dealing=noun_UN=all
@@ -46995,6 +47039,7 @@ double-vaccinated=JJ=all
 double=double/JJ=all
 double=noun=all
 double=verb=all
+doublecross=verb=all
 doubled=doubled/JJ=all
 doubled=doubled/NN=all
 doubleheader=noun=all
@@ -47034,6 +47079,7 @@ doughnut=noun=all
 doughtiness=NN:U=all
 doughty=doughty/JJ,doughtier/JJR,doughtiest/JJS=all
 doughy=doughy/JJ,doughier/JJR,doughiest/JJS=all
+doula=noun=all
 dour=dour/JJ,dourer/JJR,dourest/JJS=all
 dourly=RB=all
 dourness=NN:U=all
@@ -47106,6 +47152,7 @@ downright=downright/RB=all
 downrightness=NN:U=all
 downriver=RB=all
 downscale=JJ=all
+downshift=verb=all
 downside=noun=all
 downsize=verb=all
 downsizing=noun_U=all
@@ -47815,6 +47862,9 @@ détente=NN:U=all
 développé=noun=all
 e-business=noun_UN=all
 e-cigarette=noun=all
+e-commerce=NN:U=all
+e-mail=noun_UN=all
+e-mail=verb=all
 e-mailer=noun=all
 e-meet=e-meet/VB,e-met/VBD,e-meeting/VBG,e-met/VBN,e-meet/VBP,e-meets/VBZ=all
 e-signature=noun=all
@@ -48238,6 +48288,7 @@ eggnog=noun_U=all
 eggplant=noun_UN=all
 eggshell=eggshell/JJ=all
 eggshell=noun=all
+egis [pl. egises]=noun=all
 eglantine=noun_U=all
 ego=ego/NN,ego/NN:U,egos/NNS=all
 egocentric=egocentric/JJ=all
@@ -48298,6 +48349,15 @@ eighth=noun=all
 eightieth=eightieth/JJ=all
 eightieth=noun=all
 eightpence=noun=all
+eighty-eight=CD=all
+eighty-five=CD=all
+eighty-four=CD=all
+eighty-nine=CD=all
+eighty-one=CD=all
+eighty-seven=CD=all
+eighty-six=CD=all
+eighty-three=CD=all
+eighty-two=CD=all
 eighty=eighty/CD=all
 eighty=eighty/JJ=all
 eighty=noun=all
@@ -48594,7 +48654,7 @@ em=noun=all
 emaciate=verb=all
 emaciated=JJ=all
 emaciation=noun_U=all
-email=noun_U=all
+email=noun_UN=all
 email=verb=all
 emailer=noun=all
 emanate=verb=all
@@ -48624,6 +48684,7 @@ embarrassing=JJ=all
 embarrassingly=RB=all
 embarrassment=noun_UN=all
 embassy=noun=all
+embattle=verb=all
 embattled=JJ=all
 embayment=noun=all
 embed=embed/VB,embedded/VBD,embedding/VBG,embedded/VBN,embed/VBP,embeds/VBZ=all
@@ -49061,6 +49122,8 @@ enduringly=RB=all
 enduringness=NN:U=all
 endways=endways/JJ=all
 endways=endways/RB=all
+endwise=JJ=all
+endwise=RB=all
 enema=enema/NN,enemas/NNS,enemata/NNS=all
 enemy=enemy/JJ=all
 enemy=noun=all
@@ -49302,6 +49365,7 @@ entomophagous=JJ=all
 entomophilous=JJ=all
 entomophobia=NN=all
 entourage=noun=all
+entr'acte=noun=all
 entr=NN=all
 entrain=verb=all
 entrainment=noun=all
@@ -51517,6 +51581,7 @@ fatefulness=NN:U=all
 fathead=noun=all
 fatheaded=JJ=all
 fatheadedness=NN:U=all
+father-in-law [pl. fathers-in-law]=NN=all
 father=noun=all
 father=verb=all
 fatherhood=noun_U=all
@@ -52097,8 +52162,17 @@ fifth=noun=all
 fifthly=RB=all
 fiftieth=fiftieth/JJ=all
 fiftieth=noun=all
+fifty-eight=CD=all
 fifty-fifty=JJ=all
 fifty-fifty=RB=all
+fifty-five=CD=all
+fifty-four=CD=all
+fifty-nine=CD=all
+fifty-one=CD=all
+fifty-seven=CD=all
+fifty-six=CD=all
+fifty-three=CD=all
+fifty-two=CD=all
 fifty=fifty/CD=all
 fifty=fifty/JJ=all
 fifty=noun=all
@@ -52460,6 +52534,7 @@ fizzle=verb=all
 fizzling=fizzling/NN:UN,fizzling/NNS=all
 fizzy=fizzy/JJ,fizzier/JJR,fizziest/JJS=all
 fjord=noun=all
+fl=abbreviation=all
 flab=noun_U=all
 flabbergast=verb=all
 flabbergasted=JJ=all
@@ -52550,6 +52625,7 @@ flap=noun=all
 flapjack=noun_UN=all
 flapper=noun=all
 flappy=flappy/JJ,flappier/JJR,flappiest/JJS=all
+flare-up=noun=all
 flare=noun_UN=all
 flare=verb=all
 flaring=JJ=all
@@ -52620,6 +52696,7 @@ flauntiness=NN:U=all
 flaunting=NN:UN=all
 flauntingly=RB=all
 flaunty=flaunty/JJ,flauntier/JJR,flauntiest/JJS=all
+flautist=noun=all
 flavescent=JJ=all
 flavin=noun_U=all
 flavine=noun=all
@@ -53003,6 +53080,7 @@ fluxgate=noun=all
 fluxion=noun=all
 fly-by-night=JJ=all
 fly-by-night=noun=all
+fly-fishing=noun_UN=all
 fly=fly/JJ,flier/JJR,fliest/JJS=all
 fly=fly/VB,flew/VBD,flied/VBD,flying/VBG,flown/VBN,fly/VBP,flies/VBZ=all
 fly=noun=all
@@ -53123,6 +53201,7 @@ folktale=noun=all
 foll=NN=all
 follicle=noun=all
 follicular=JJ=all
+follow-up=noun=all
 follow=noun=all
 follow=verb=all
 follower=noun=all
@@ -53379,6 +53458,7 @@ foretell=foretell/VB,foretold/VBD,foretelling/VBG,foretold/VBN,foretell/VBP,fore
 foreteller=noun=all
 forethought=noun_U=all
 forethoughtfulness=NN:U=all
+foretoken=verb=all
 foretop=noun=all
 forever=forever/RB=all
 forever=noun_U=all
@@ -53397,6 +53477,7 @@ forfeitable=JJ=all
 forfeited=JJ=all
 forfeiter=noun=all
 forfeiture=noun_U=all
+forfend=verb=all
 forgather=verb=all
 forge=noun=all
 forge=verb=all
@@ -53404,6 +53485,7 @@ forgeability=noun_UN=all
 forgeable=JJ=all
 forger=noun=all
 forgery=noun_UN=all
+forget-me-not=noun=all
 forget=forget/VB,forgot/VBD,forgetting/VBG,forgotten/VBN,forget/VBP,forgets/VBZ=all
 forgetful=JJ=all
 forgetfully=RB=all
@@ -53542,7 +53624,16 @@ fortune-telling=fortune-telling/JJ=all
 fortune-telling=fortune-telling/NN:UN=all
 fortune=noun_UN=all
 fortunize|fortunise=verb=us,ca,gb|gb,au,nz,za
+forty-eight=CD=all
+forty-five=CD=all
+forty-four=CD=all
+forty-nine=CD=all
 forty-niner=NN=all
+forty-one=CD=all
+forty-seven=CD=all
+forty-six=CD=all
+forty-three=CD=all
+forty-two=CD=all
 forty=forty/CD=all
 forty=forty/JJ=all
 forty=noun=all
@@ -70910,6 +71001,7 @@ moth=noun=all
 mothball=noun=all
 mothball=verb=all
 mother-city=noun=all
+mother-in-law [pl. mothers-in-law]=noun=all
 mother=noun_UN=all
 mother=verb=all
 motherboard=noun=all
@@ -72708,6 +72800,15 @@ nineteenth=nineteenth/JJ=all
 nineteenth=noun=all
 ninetieth=ninetieth/JJ=all
 ninetieth=noun=all
+ninety-eight=CD=all
+ninety-five=CD=all
+ninety-four=CD=all
+ninety-nine=CD=all
+ninety-one=CD=all
+ninety-seven=CD=all
+ninety-six=CD=all
+ninety-three=CD=all
+ninety-two=CD=all
 ninety=ninety/CD=all
 ninety=ninety/JJ=all
 ninety=noun=all
@@ -74214,6 +74315,9 @@ offended=JJ=all
 offendedness=NN:U=all
 offender=noun=all
 offending=JJ=all
+offenselessly|offencelessly=RB=us|au,ca,gb,nz,za
+offenseless|offenceless=JJ=us|au,ca,gb,nz,za
+offense|offence=noun_UN=us|au,ca,gb,nz,za
 offensive=noun_UN=all
 offensive=offensive/JJ=all
 offensively=RB=all
@@ -89935,6 +90039,15 @@ seventh=noun=all
 seventh=seventh/JJ=all
 seventieth=noun=all
 seventieth=seventieth/JJ=all
+seventy-eight=CD=all
+seventy-five=CD=all
+seventy-four=CD=all
+seventy-nine=CD=all
+seventy-one=CD=all
+seventy-seven=CD=all
+seventy-six=CD=all
+seventy-three=CD=all
+seventy-two=CD=all
 seventy=noun=all
 seventy=seventy/CD=all
 seventy=seventy/JJ=all
@@ -91063,6 +91176,7 @@ sissiness=NN:U=all
 sissy=noun=all
 sissy=sissy/JJ,sissier/JJR,sissiest/JJS=all
 sissyish=JJ=all
+sister-in-law [pl. sisters-in-law]=noun=all
 sister=noun=all
 sisterhood=noun_U=all
 sisterliness=NN:U=all
@@ -91112,6 +91226,15 @@ sixth=sixth/JJ=all
 sixthly=RB=all
 sixtieth=noun_UN=all
 sixtieth=sixtieth/JJ=all
+sixty-eight=CD=all
+sixty-five=CD=all
+sixty-four=CD=all
+sixty-nine=CD=all
+sixty-one=CD=all
+sixty-seven=CD=all
+sixty-six=CD=all
+sixty-three=CD=all
+sixty-two=CD=all
 sixty=noun=all
 sixty=sixty/CD=all
 sixty=sixty/JJ=all
@@ -92350,6 +92473,7 @@ somnolence=noun_U=all
 somnolency=noun=all
 somnolent=JJ=all
 somnolently=RB=all
+son-in-law [pl. sons-in-law]=noun=all
 son=noun=all
 sonant=noun=all
 sonant=sonant/JJ=all
@@ -96101,8 +96225,8 @@ swankiness=NN:U=all
 swanky=noun=all
 swanky=swanky/JJ,swankier/JJR,swankiest/JJS=all
 swansong=noun=all
-swap=swap/NN,swap/NN:UN,swaps/NNS=all
-swap=swap/VB,swapped/VBD,swapping/VBG,swapped/VBN,swap/VBP,swaps/VBZ=all
+swap [-pp-]|swop [-pp-]=verb=all|au,gb,nz,za
+swap=noun=all
 swappable=JJ=all
 swapper=noun=all
 swapping=noun_UN=all
@@ -97996,6 +98120,15 @@ thirteenth=noun=all
 thirteenth=thirteenth/JJ=all
 thirtieth=noun=all
 thirtieth=thirtieth/JJ=all
+thirty-eight=CD=all
+thirty-five=CD=all
+thirty-four=CD=all
+thirty-nine=CD=all
+thirty-one=CD=all
+thirty-seven=CD=all
+thirty-six=CD=all
+thirty-three=CD=all
+thirty-two=CD=all
 thirty=noun=all
 thirty=thirty/CD=all
 thirty=thirty/JJ=all
@@ -98491,8 +98624,6 @@ tiptop=noun=all
 tiptop=tiptop/JJ=all
 tirade=noun=all
 tiramisu=noun=all
-tire=noun=all
-tire=verb=all
 tired=tired/JJ,tireder/JJR,tiredest/JJS=all
 tiredly=RB=all
 tiredness=NN:U=all
@@ -98502,8 +98633,11 @@ tirelessness=NN:U=all
 tiresome=JJ=all
 tiresomely=RB=all
 tiresomeness=NN:U=all
+tire|tyre=noun=all|au,gb,nz,za
+tire|tyre=verb=all|au,gb,nz,za
 tiring=noun_UN=all
 tiring=tiring/JJ=all
+tiro [pl. tiroes,tiros]=noun=au,gb,nz,za
 tisane=noun=all
 tissue=noun_UN=all
 tit=noun=all
@@ -100372,7 +100506,16 @@ twelvefold=twelvefold/JJ=all
 twelvefold=twelvefold/RB=all
 twentieth=noun=all
 twentieth=twentieth/JJ=all
+twenty-eight=CD=all
+twenty-five=CD=all
+twenty-four=CD=all
+twenty-nine=CD=all
+twenty-one=CD=all
+twenty-seven=CD=all
+twenty-six=CD=all
+twenty-three=CD=all
 twenty-twenty=JJ=all
+twenty-two=CD=all
 twenty-year-old=noun=all
 twenty=noun=all
 twenty=twenty/CD=all
@@ -100521,7 +100664,7 @@ tyrannously=RB=all
 tyrannousness=NN:U=all
 tyranny=noun_UN=all
 tyrant=noun=all
-tyro=tyro/NN,tyroes/NNS,tyros/NNS=all
+tyro [pl. tyroes,tyros]=noun=all
 tyrocidine=noun=all
 tyrosinase=noun=all
 tyrosine=noun_U=all
@@ -105311,9 +105454,16 @@ waggishly=RB=all
 waggishness=NN:U=all
 waggle=noun=all
 waggle=verb=all
-wagon=noun=all
-wagoner=noun=all
-wagonette=noun=all
+wagon-headed|waggon-headed=JJ=all|au,gb,nz,za
+wagon-head|waggon-head=JJ=all|au,gb,nz,za
+wagon-lit [pl. wagons-lits,wagon-lits]=all
+wagonage|waggonage=noun_UN=all|au,gb,nz,za
+wagoner|waggoner=noun=all|au,gb,nz,za
+wagonette|waggonette=noun=all|au,gb,nz,za
+wagonful=noun=all
+wagonload|waggonload=noun=all|au,gb,nz,za
+wagonwright|waggonwright=noun=all|au,gb,nz,za
+wagon|waggon=noun=all|au,gb,nz,za
 wagtail=noun=all
 waif=waif/NN,waifs/NNS,waives/NNS=all
 wail=noun=all

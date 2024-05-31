@@ -21,8 +21,8 @@ def getInflectedForms(lemma, pos, extra=''):
       # for verbs with more than one syllable, it cannot be done because 
       # we don't know which syllable is stressed (prefer/preferred, visit/visited, admit/admitted)
     elif extra!="" and re.search(patternDuplicateConsonant,extra):
-      duplicateCosonant = extra[1]
-      forms = "-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", duplicateCosonant)
+      duplicateConsonant = extra[1]
+      forms = "-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", duplicateConsonant)
     else:
       forms = "-/VB,-ed/VBD,-ing/VBG,-ed/VBN,-/VBP,-s/VBZ".replace("-", lemma)
 
@@ -88,3 +88,4 @@ assert getInflectedForms("echo", "noun") != "echo/NN,echoes/NNS"
 print ( getInflectedForms("lustre", "verb"))
 print ( getInflectedForms("cosy", "verb"))
 print (getInflectedForms("program", "verb", "-mm-"))
+print (getInflectedForms("co-star", "verb", "-rr-"))
