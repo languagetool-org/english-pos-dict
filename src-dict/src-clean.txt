@@ -2,6 +2,7 @@
 #=#=all
 #Americaness=NN:U=all #unusual
 #Archaeozoic=JJ=all #unusual
+#bye-election=noun=all # usual
 #cancelation=noun_UN=us # unusual
 #crystalize=verb= #unusual
 #froward=JJ=all # unusual, forward vs froward
@@ -100,6 +101,7 @@
 48-year-old=noun=all
 49-year-old=noun=all
 4th=JJ=all
+4x4=noun=all
 5-month-old=noun=all
 5-year-old=noun=all
 50-year-old=noun=all
@@ -1426,6 +1428,7 @@ Anglicize|Anglicise=verb=us,ca,gb|gb,au,nz,za
 Anglistics=NNP=all
 Anglo-American=Anglo-American/JJ=all
 Anglo-American=Anglo-American/NNP=all
+Anglo-French=NN=all
 Anglo-Latin=NNP=all
 Anglo-Norman=Anglo-Norman/JJ=all
 Anglo-Norman=Anglo-Norman/NNP,Anglo-Normans/NNPS=all
@@ -3818,6 +3821,7 @@ Brest-Litovsk=NNP=all
 Brest=NNP=all
 Bret=NNP=all
 Bretagne=NNP=all
+Brethren=NNPS=all
 Breton=Breton/JJ=all
 Breton=Breton/NN:U,Breton/NNP,Bretons/NNPS=all
 Brett=NNP=all
@@ -12920,6 +12924,7 @@ KCl=NNP=all
 KDKA-TV=NNP=all
 KDKA=NNP=all
 KFC=NNP=all
+KGB=NNP=all
 KIAS=NNP=all
 KKK=NNP=all
 KKR=NNP=all
@@ -27155,6 +27160,7 @@ acidulate=verb=all
 acidulous=JJ=all
 acidulousness=NN:U=all
 acinus=acinus/NN,acini/NNS=all
+ack=abbreviation=all
 acknowledge=verb=all
 acknowledgeable=JJ=all
 acknowledgement=acknowledgement/NN,acknowledgement/NN:U,acknowledgements/NNS=all
@@ -27336,6 +27342,7 @@ adaptiveness=NN:U=all
 adaptivity=noun_UN=all
 adaptor=noun=all
 adaxial=JJ=all
+add-on=noun=all
 add=verb=all
 addable=JJ=all
 addax=noun=all
@@ -27423,6 +27430,7 @@ adipose=adipose/NN:U=all
 adiposeness=NN:U=all
 adiposity=noun_UN=all
 adit=noun=all
+adj=abbreviation=all
 adjacency=noun_U=all
 adjacent=adjacent/JJ=all
 adjacent=adjacent/NN=all
@@ -27588,6 +27596,7 @@ adumbrate=verb=all
 adumbration=noun_U=all
 adumbrative=JJ=all
 adust=JJ=all
+adv=abbreviation=all
 advance=advance/JJ,advancer/JJR=all
 advance=noun_UN=all
 advance=verb=all
@@ -27910,6 +27919,7 @@ agamogenesis=agamogenesis/NN:U,agamogeneses/NNS=all
 agapanthus=noun=all
 agape=agape/JJ=all
 agape=agape/NN:U,agapae/NNS,agapai/NNS,agapes/NNS=all
+agar-agar=NN:U=all
 agar=noun_U=all
 agaric=noun=all
 agarose=agarose/NN,agarose/NN:U,agaroses/NNS=all
@@ -28111,6 +28121,7 @@ aim=verb=all
 aimless=JJ=all
 aimlessly=RB=all
 aimlessness=NN:U=all
+ain't=contraction=all
 aioli=noun_U=all
 air-braked=JJ=all
 air-condition=verb=all
@@ -28472,6 +28483,7 @@ alleviation=noun_U=all
 alleviative=alleviative/JJ=all
 alleviative=alleviative/NN=all
 alleviator=noun=all
+alley-oop=noun=all
 alley=noun=all
 alleyway=noun=all
 alliaceous=JJ=all
@@ -28682,6 +28694,7 @@ aluminate=noun_U=all
 aluminiferous=JJ=all
 aluminization|aluminisation=noun_UN=us,ca,gb|gb,au,nz,za
 aluminize|aluminise=verb=us,ca,gb|gb,au,nz,za
+aluminum|aluminium=noun_U=ca,us|au,gb,nz,za
 alumna=alumna/NN,alumnae/NNS=all
 alumnus=alumnus/NN,alumni/NNS=all
 alveolar=alveolar/JJ=all
@@ -29143,7 +29156,7 @@ aneurysmal=JJ=all
 anew=anew/JJ=all
 anew=anew/RB=all
 angel=noun=all
-angelfish=angelfish/NN,angelfish/NNS,angelfishes/NNS=all
+angelfish=noun=all
 angelic=JJ=all
 angelica=noun_U=all
 angelical=JJ=all
@@ -29811,6 +29824,7 @@ aorist=noun=all
 aorta=aorta/NN,aortae/NNS,aortas/NNS=all
 aortic=JJ=all
 aortoiliac=JJ=all
+ap=abbreviation=all
 apace=apace/JJ=all
 apace=apace/RB=all
 apart=apart/JJ=all
@@ -30936,6 +30950,7 @@ athwart=athwart/RB=all
 atilt=atilt/JJ=all
 atilt=atilt/RB=all
 atlas=atlas/NN,atlantes/NNS,atlases/NNS=all
+atm=abbreviation=all
 atman=noun=all
 atmosphere=noun_UN=all
 atmospheric=atmospheric/JJ=all
@@ -32552,6 +32567,7 @@ becoming=noun_UN=all
 becomingly=RB=all
 becomingness=NN:U=all
 becquerel=noun=all
+bed-wetting=NN:UN=all
 bed=bed/VB,bedded/VBD,bedding/VBG,bedded/VBN,bed/VBP,beds/VBZ=all
 bed=noun_UN=all
 bedaub=verb=all
@@ -33318,6 +33334,7 @@ biodefense|biodefence=noun_UN=us|au,ca,gb,nz,za
 biodegradability=noun_U=all
 biodegradable=JJ=all
 biodegradation=noun_UN=all
+biodegrade=verb=all
 biodiesel=NN:U=all
 biodiversity=noun_U=all
 biodynamic=biodynamic/JJ=all
@@ -34006,6 +34023,8 @@ blouse=noun=all
 blouse=verb=all
 blouson=noun=all
 blow-by-blow=JJ=all
+blow-dry=verb=all
+blow-dryer=noun=all
 blow=blow/VB,blew/VBD,blowed/VBD,blowing/VBG,blowed/VBN,blown/VBN,blow/VBP,blows/VBZ=all
 blow=noun=all
 blowback=noun=all
@@ -34319,6 +34338,7 @@ boo=verb=all
 boob=noun=all
 boob=verb=all
 boobird=noun=all
+booby-trap=booby-trap/VB,booby-trapped/VBD,booby-trapping/VBG,booby-trapped/VBN,booby-trap/VBP,booby-traps/VBZ=all
 booby=noun=all
 boodle=noun=all
 boogeyman=boogeyman/NN,boogeymen/NNS=all
@@ -34828,6 +34848,7 @@ break-dance=verb=all
 break-dancer=noun=all
 break-even=break-even/JJ=all
 break-even=break-even/NN=all
+break-in=noun=all
 break=break/UH=all
 break=break/VB,broke/VBD,breaking/VBG,broken/VBN,break/VBP,breaks/VBZ=all
 break=noun_UN=all
@@ -35031,6 +35052,7 @@ broach=verb=all
 broached=JJ=all
 broacher=noun=all
 broad-minded=JJ=all
+broad-mindedly=RB=all
 broad-mindedness=NN:U=all
 broad-spectrum=JJ=all
 broad=broad/JJ,broader/JJR,broadest/JJS=all
@@ -35152,6 +35174,7 @@ bros=noun=all
 brose=noun=all
 broth=noun_U=all
 brothel=noun=all
+brother-in-law=brother-in-law/NN,brothers-in-law/NNS=all
 brother=brother/NN,brethren/NNS,brothers/NNS=all
 brotherhood=noun_UN=all
 brotherliness=NN:U=all
@@ -35376,6 +35399,7 @@ bulkily=RB=all
 bulkiness=NN:U=all
 bulking=noun_UN=all
 bulky=bulky/JJ,bulkier/JJR,bulkiest/JJS=all
+bull's-eye=noun=all
 bull=bull/JJ=all
 bull=bull/NN,bull/NN:U,bulls/NNS=all
 bull=verb=all
@@ -35728,6 +35752,8 @@ buzzing=noun_UN=all
 buzzword=noun=all
 buzzy=buzzy/JJ,buzzier/JJR,buzziest/JJS=all
 bx=NN=all
+by-election=noun=all
+by-product=NN=all
 by=by/IN=all
 by=by/JJ,bier/JJR=all
 by=by/NN,byes/NNS,bys/NNS=all
@@ -36385,6 +36411,7 @@ caracal=noun=all
 caracara=noun=all
 caracole=noun=all
 caracole=verb=all
+caracul=noun=all
 carafe=noun=all
 carambola=noun=all
 caramel=caramel/JJ=all
@@ -36643,6 +36670,7 @@ carronade=noun=all
 carrot=noun=all
 carrotiness=NN:U=all
 carroty=carroty/JJ,carrotier/JJR,carrotiest/JJS=all
+carrousel=noun=all # less common
 carry-on=JJ=all
 carry-on=noun=all
 carry=noun=all
@@ -36814,6 +36842,8 @@ catalyst=noun=all
 catalytic=catalytic/JJ=all
 catalytic=noun=all
 catalytically=RB=all
+catalyzer|catalyser=noun=ca,us,gb|au,gb,nz,za
+catalyze|catalyse=verb=ca,us,gb|au,gb,nz,za
 catamaran=noun=all
 cataplexy=cataplexy/JJ=all
 cataplexy=noun=all
@@ -37021,6 +37051,9 @@ ceaselessly=RB=all
 ceaselessness=NN:U=all
 ceasing=noun_UN=all
 cecal=JJ=all
+cecally|caecally=RB=au,ca,us|gb,nz,za
+cecal|caecal=JJ=au,ca,us|gb,nz,za
+cecum [pl. ceca]|caecuam [pl. caeca]=noun=au,ca,us|gb,nz,za
 cedar=cedar/JJ=all
 cedar=noun_UN=all
 cedarbird=noun=all
@@ -40497,6 +40530,7 @@ connective=noun=all
 connectively=RB=all
 connectivity=noun_U=all
 connector=noun=all
+connexion=noun_UN=gb,nz,za
 conning=noun_UN=all
 connivance=noun_U=all
 connive=verb=all
@@ -41523,6 +41557,7 @@ costume=costume/JJ,costumer/JJR=all
 costume=noun_UN=all
 costume=verb=all
 costumer=noun=all
+cosy=cosy/JJ,cosier/JJR,cosiest/JJS=au,gb,nz,za
 cot=noun=all
 cotangent=noun=all
 cote=noun=all
@@ -41869,8 +41904,11 @@ coyote=noun=all
 coypu=noun=all
 cozen=verb=all
 cozenage=noun_U=all
-cozies=JJ=all
-coziness=NN:U=all
+cozily|cosily=RB=ca,us|au,gb,nz,za
+coziness|cosiness=NN:U=ca,us|au,gb,nz,za
+cozy=cozy/JJ,cozier/JJR,coziest/JJS=ca,us
+cozy|cosy=noun=ca,us|au,gb,nz,za
+cozy|cosy=verb=ca,us|au,gb,nz,za
 cpd=NN=all
 cpl=NN=all
 cps=NN=all
@@ -64273,7 +64311,7 @@ kappa=noun=all
 kaput=kaput/JJ=all
 kaput=kaput/NN=all
 karabiner=noun=all
-karakul=noun_U=all
+karakul=noun=all
 karambit=noun=all
 karaoke=karaoke/NN,karaoke/NN:UN,karaokes/NNS=all
 karate=noun_U=all
@@ -69186,6 +69224,7 @@ meze=meze/NN,meze/NNS,mezes/NNS=all
 mezereon=noun=all
 mezuzah=noun=all
 mezzanine=noun=all
+mezzo-soprano=noun=all
 mezzo=mezzo/JJ=all
 mezzo=mezzo/RB=all
 mezzo=noun=all
@@ -76371,10 +76410,20 @@ parallelly=RB=all
 parallelogram=noun=all
 paralogism=noun_UN=all
 paralogist=noun=all
+paralysation|paralyzation=noun_UN=ca,us,gb|au,gb,nz,za
 paralysis=paralysis/NN:U,paralyses/NNS=all
 paralytic=noun=all
 paralytic=paralytic/JJ=all
+paralytical=JJ=gb # unusual?
 paralytically=RB=all
+paralyzant|paralysant=/JJ=ca,us,gb|au,gb,nz,za
+paralyzant|paralysant=NN=ca,us,gb|au,gb,nz,za
+paralyzedly|paralysedly=RB=ca,us,gb|au,gb,nz,za
+paralyzed|paralysed=JJ=ca,us,gb|au,gb,nz,za
+paralyzer|paralyser=noun=ca,us,gb|au,gb,nz,za
+paralyze|paralyse=verb=ca,us,gb|au,gb,nz,za
+paralyzingly|paralysingly=RB=ca,us,gb|au,gb,nz,za
+paralyzing|paralysing=JJ=ca,us,gb|au,gb,nz,za
 paramagnet=noun=all
 paramagnetic=JJ=all
 paramagnetism=noun_UN=all

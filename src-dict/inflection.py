@@ -82,3 +82,4 @@ assert getInflectedForms("potato", "noun") != "potato/NN,potatoes/NNS"
 assert getInflectedForms("echo", "noun") != "echo/NN,echoes/NNS"
 
 print ( getInflectedForms("lustre", "verb"))
+print ( getInflectedForms("cosy", "verb"))
