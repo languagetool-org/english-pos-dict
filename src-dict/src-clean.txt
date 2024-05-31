@@ -27917,12 +27917,12 @@ agatize|agatise=verb=us,ca,gb|gb,au,nz,za
 agave=noun_U=all
 age-dependent=JJ=all
 age-old=JJ=all
-age=age/VB,aged/VBD,ageing/VBG,aging/VBG,aged/VBN,age/VBP,ages/VBZ=all
+age=age/VB,aged/VBD,ageing/VBG,aged/VBN,age/VBP,ages/VBZ=au,gb,nz,za
+age=age/VB,aged/VBD,aging/VBG,aged/VBN,age/VBP,ages/VBZ=us,ca,au
 age=noun_UN=all
 aged=aged/JJ=all
 aged=aged/NN=all
 agedness=NN:U=all
-ageing=JJ=all
 ageism=noun_U=all
 ageist=noun=all
 ageless=JJ=all
@@ -27983,6 +27983,8 @@ agile=agile/JJ,agiler/JJR,agilest/JJS=all
 agilely=RB=all
 agileness=NN:U=all
 agility=noun_U=all
+aging|ageing=JJ=us,ca,au|au,gb,nz,za
+aging|ageing=noun_U=us,ca,au|au,gb,nz,za
 agio=noun=all
 agitate=verb=all
 agitatedly=RB=all
@@ -29463,6 +29465,7 @@ anti-Mexican=anti-Mexican/NNP=all
 anti-Semitic=JJ=all
 anti-Semitism=NNP=all
 anti-Trump=JJ=all
+anti-aging|anti-ageing=JJ=us,ca,au|au,gb,nz,za
 anti-arrhythmic=JJ=all
 anti-bug=JJ=all
 anti-centralization|anti-centralisation=JJ=us,ca,gb|gb,au,nz,za
@@ -29512,6 +29515,7 @@ anti-war=JJ=all
 anti=anti/JJ=all
 anti=noun=all
 antiabortion=JJ=all
+antiaging|antiageing=JJ=us,ca,au|au,gb,nz,za
 antialiasing=antialiasing/NN,antialiasing/NN:UN,antialiasings/NNS=all
 antianginal=JJ=all
 antianxiety=JJ=all
