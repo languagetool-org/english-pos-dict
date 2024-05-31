@@ -29003,13 +29003,14 @@ analogy=noun_UN=all
 analphabetic=analphabetic/JJ=all
 analphabetic=noun=all
 analysand=noun=all
-analysis=analysis/NN:UN,analyses/NNS=all
+analysis [pl. analyses]=noun_UN=all
 analyst=noun=all
 analyte=noun=all
 analytic=analytic/JJ=all
 analytic=noun=all
 analytical=JJ=all
 analytically=RB=all
+analyticity=noun_U=all
 analytics=NN:U=all
 analyzability|analysability=noun_UN=ca,us|au,gb,nz,za
 analyzable|analysable=JJ=ca,us|au,gb,nz,za
@@ -31256,6 +31257,7 @@ auto-scale=verb=all
 auto-tune=noun_UN=all
 auto-tune=verb=all
 auto=noun=all
+autoanalysis [pl. autoanalyses]=noun_UN=all
 autoanalyzer|autoanalyser=noun=ca,us|au,gb,nz,za
 autoantibody=noun_U=all
 autobahn=autobahn/NN,autobahnen/NNS,autobahns/NNS=all
@@ -33275,6 +33277,7 @@ bioacoustic=JJ=all
 bioacoustical=JJ=all
 bioactive=JJ=all
 bioactivity=noun_UN=all
+bioanalysis [pl. bioanalyses]=noun_UN=all
 bioanalyst=noun=all
 bioanalytic=JJ=all
 bioanalytical=JJ=all
@@ -42489,16 +42492,26 @@ cryosurgery=noun_U=all
 cryotherapy=cryotherapy/NN,cryotherapy/NN:UN,cryotherapies/NNS=all
 cryovolcanism=NN:U=all
 crypt=noun=all
-cryptanalysis=cryptanalysis/NN,cryptanalysis/NN:U,cryptanalyses/NNS=all
+cryptanalysis [pl. cryptanalyses]=noun_UN=all
 cryptanalyst=noun=all
 cryptanalytic=JJ=all
+cryptanalytical=JJ=all
+cryptanalytically=RB=all
+cryptanalytics=NN:U=all
 cryptic=JJ=all
+cryptical=JJ=gb
 cryptically=RB=all
 crypticness=NN:U=all
 cryptid=noun=all
 crypto-fascist=noun=all
 crypto-friendly=JJ=all
 crypto=crypto/NN,crypto/NN:U,cryptos/NNS=all
+cryptoanalysis [pl. cryptoanalyses]=noun_UN=all
+cryptoanalyst=noun=all
+cryptoanalytic=JJ=all
+cryptoanalytical=JJ=all
+cryptoanalytically=RB=all
+cryptoanalytics=NN:U=all
 cryptocrystalline=JJ=all
 cryptogam=noun=all
 cryptogenic=JJ=all
@@ -48286,6 +48299,9 @@ electrify=verb=all
 electro-optic=JJ=all
 electro-optical=JJ=all
 electro=electro/NN:U,electro/NN:UN=all
+electroanalysis [pl. electroanalyses]=noun_UN=all
+electroanalytic=JJ=all
+electroanalytical=JJ=all
 electrobiology=NN:UN=all
 electrocardiogram=noun=all
 electrocardiograph=noun=all
@@ -59792,6 +59808,8 @@ hyphenated=JJ=all
 hyphenation=noun_U=all
 hyphenization|hyphenisation=noun_UN=us,ca,gb|gb,au,nz,za
 hypnagogic=JJ=all
+hypnoanalysis [pl. hypnoanalyses]=noun_UN=all
+hypnoanalytic=JJ=all
 hypnobirth=NN:U=all
 hypnobirthing=NN:U=all
 hypnosis=hypnosis/NN:U,hypnoses/NNS=all
@@ -68963,6 +68981,7 @@ metamorphize|metamorphise=verb=us,ca,gb|gb,au,nz,za
 metamorphose=verb=all
 metamorphosis=metamorphosis/NN:UN,metamorphoses/NNS=all
 metamorphosize|metamorphosise=verb=us,ca,gb|gb,au,nz,za
+metanalysis [pl. metanalyses]=noun_UN=all
 metaobject=noun=all
 metaphase=noun=all
 metaphor=noun_UN=all
@@ -69143,7 +69162,7 @@ microaggression=noun_UN=all
 microaggressive=JJ=all
 microaggressor=noun=all
 microampere=noun=all
-microanalysis=microanalysis/NN,microanalyses/NNS=all
+microanalysis [pl. microanalyses]=noun_UN=all
 microanalyst=noun=all
 microanalytic=JJ=all
 microanalytical=JJ=all
@@ -69803,6 +69822,7 @@ misalign=verb=all
 misalignment=noun_U=all
 misalliance=noun=all
 misallocation=noun_UN=all
+misanalysis [pl. misanalyses]=noun_UN=all
 misanalyzed|misanalysed=JJ=ca,us|au,gb,nz,za
 misanalyze|misanalyse=verb=ca,us|au,gb,nz,za
 misanthrope=noun=all
@@ -71736,6 +71756,7 @@ narcissism=noun_U=all
 narcissist=noun=all
 narcissistic=JJ=all
 narcissus=narcissus/NN,narcissi/NNS,narcissus/NNS,narcissuses/NNS=all
+narcoanalysis [pl. narcoanalyses]=noun_UN=all
 narcolepsy=noun_U=all
 narcoleptic=narcoleptic/JJ=all
 narcoleptic=noun=all
@@ -72821,6 +72842,10 @@ nonalcoholic|non-alcoholic=noun=au,ca,us|gb,nz,za
 nonaligned=JJ=all
 nonambulatory=nonambulatory/JJ=all
 nonambulatory=nonambulatory/NN=all
+nonanalytic=JJ=all
+nonanalytical=JJ=all
+nonanalytically=RB=all
+nonanalyticity=noun_U=all
 nonanalyzable=JJ=ca,us
 nonanalyzed=JJ=ca,u
 nonappearance|non-appearance=noun=au,ca,us|gb,nz,za
@@ -75235,6 +75260,9 @@ overall=overall/JJ=all
 overall=overall/RB=all
 overambitious=JJ=all
 overambitiousness=NN:U=all
+overanalysis [pl. overanalyses]=noun_UN=all
+overanalytical=JJ=all
+overanalytically=RB=all
 overanalyze|overanalyse=verb=ca,us|au,gb,nz,za
 overanxious=JJ=all
 overanxiousness=NN:U=all
@@ -82252,7 +82280,7 @@ psycho=psycho/JJ=all
 psychoacoustic=noun=all
 psychoacoustics=NN:U=all
 psychoactive=JJ=all
-psychoanalysis=psychoanalysis/NN:U,psychoanalyses/NNS=all
+psychoanalysis [pl. psychoanalyses]=noun_UN=all
 psychoanalyst=noun=all
 psychoanalytic=JJ=all
 psychoanalytical=JJ=all
@@ -83998,7 +84026,7 @@ realty=noun_U=all
 ream=noun=all
 ream=verb=all
 reamer=noun=all
-reanalysis=reanalysis/NN,reanalyses/NNS=all
+reanalysis [pl. reanalyses]=noun_UN=all
 reanalyzable|reanalysable=JJ=ca,us|au,gb,nz,za
 reanalyze|reanalyse=verb=ca,us|au,gb,nz,za
 reanimate=verb=all
@@ -89077,7 +89105,8 @@ self-advancement=NN:U=all
 self-advertiser=noun=all
 self-aggrandizement|self-aggrandisement=NN:U=us,ca,gb|gb,au,nz,za
 self-aggrandizing|self-aggrandising=JJ=us,ca,gb|gb,au,nz,za
-self-analysis=NN:UN=all
+self-analysis [pl. self-analyses]=noun_UN=all
+self-analytical=JJ=all
 self-analyzed|self-analysed=JJ=ca,us|au,gb,nz,za
 self-appointed=JJ=all
 self-asserting=JJ=all
@@ -89317,6 +89346,9 @@ semi-free=JJ=all
 semi-well=JJ=all
 semi=noun=all
 semi=semi/JJ=all
+semianalytic=JJ=all
+semianalytical=JJ=all
+semianalytically=RB=all
 semiaquatic=JJ=all
 semiarid=JJ=all
 semiautomatically=RB=all
@@ -100528,6 +100560,9 @@ unamended=JJ=all
 unamiable=JJ=all
 unamiableness=NN:U=all
 unamused=JJ=all
+unanalytic=JJ=all
+unanalytical=JJ=all
+unanalytically=RB=all
 unanalyzable|unanalysable=JJ=ca,us|au,gb,nz,za
 unanchored=JJ=all
 unaneled=JJ=all
@@ -103719,6 +103754,7 @@ upwind=upwind/JJ=all
 upwind=upwind/RB=all
 uracil=noun_U=all
 uralitize|uralitise=verb=us,ca,gb|gb,au,nz,za
+uranalysis [pl. uranalyses]=noun_UN=all
 uraninite=uraninite/NN,uraninite/NN:U,uraninites/NNS=all
 uranium=noun_U=all
 uranographer=noun=all
