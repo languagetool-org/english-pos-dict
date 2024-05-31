@@ -36796,9 +36796,11 @@ catalase=noun_U=all
 catalepsy=noun_U=all
 cataleptic=cataleptic/JJ=all
 cataleptic=noun=all
+catalogic=JJ=all
 catalogize|catalogise=verb=us,ca,gb|gb,au,nz,za
-catalogue=noun=all
-catalogue=verb=all
+cataloguer|cataloger=noun=all|us
+catalogue|catalog=noun=all|us
+catalogue|catalog=verb=all|us
 catalpa=noun=all
 catalysis=catalysis/NN:U,catalyses/NNS=all
 catalyst=noun=all
@@ -100822,6 +100824,7 @@ uncarpeted=JJ=all
 uncashed=JJ=all
 uncataloged=JJ=all
 uncatalogued=JJ=all
+uncatalogued|uncataloged=JJ=all|us
 uncategorizable=JJ=all
 uncategorized=JJ=all
 uncaught=JJ=all
