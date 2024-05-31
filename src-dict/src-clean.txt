@@ -5028,11 +5028,13 @@ Cenozoic=Cenozoic/NNP=all
 CentOS=NNP=all
 Centauri=NNP=all
 Centaurus=NNP=all
+Centerton=NNP=all
 Centerville=NNP=all
 Centralia=NNP=all
-Centre=NNP=all
+Centre-du-Québec=NPP=all
 Centrelink=NNP=all
 Centreville=NNP=all
+Centrex=Centrex/NNP,Centrexes/NNPS=all
 Cephalochordata=NNP=all
 Cephalonia=NNP=all
 Cephalopoda=NNP=all
@@ -12655,6 +12657,7 @@ Joaquim=NNP=all
 Joaquin=NNP=all
 Joaquín=NNP=all
 Job=NNP=all
+Jobcentre=Jobcentre/NNP,Jobcentres/NNPS=gb
 Jobs=NNP=all
 Jocasta=NNP=all
 Jocelin=NNP=all
@@ -29871,6 +29874,7 @@ apocalyptic=JJ=all
 apocalyptical=JJ=all
 apocalyptically=RB=all
 apocalypticism=noun_UN=all
+apocenter|apocentre=noun=us|au,ca,gb,nz,za
 apocrine=JJ=all
 apocryphal=JJ=all
 apocryphally=RB=all
@@ -32241,6 +32245,7 @@ barter=noun_U=all
 barter=verb=all
 barterer=noun=all
 barware=noun=all
+barycenter|barycentre=noun=us|au,ca,gb,nz,za
 baryon=noun=all
 barège=NN:U=all
 bas-relief=NN:UN=all
@@ -34162,6 +34167,7 @@ bodily=bodily/JJ=all
 bodily=bodily/RB=all
 boding=noun_U=all
 bodkin=noun=all
+body-centered|body-centred=JJ=us|au,ca,gb,nz,za
 body-con=JJ=all
 body-shame=verb=all
 body=body/JJ=all
@@ -37113,7 +37119,23 @@ centenary=noun=all
 centennial=centennial/JJ=all
 centennial=noun=all
 centennially=RB=all
-centeredness=NN:U=all
+center-fire|centre-fire=JJ=us|au,ca,gb,nz,za
+center=verb=us
+centerable|centrable=JJ=us|au,ca,gb,nz,za
+centerboard|centreboard=noun=us|au,ca,gb,nz,za
+centeredness|centredness=NN:U=us|au,ca,gb,nz,za
+centered|centred=JJ=us|au,ca,gb,nz,za
+centerfielder|centrefielder=noun=us|au,ca,gb,nz,za
+centerfield|centrefield=noun=us|au,ca,gb,nz,za
+centerfold|centrefold=noun=us|au,ca,gb,nz,za
+centering|centring=noun_UN=us|au,ca,gb,nz,za
+centerless|centreless=JJ=us|au,ca,gb,nz,za
+centerline|centreline=noun=us|au,ca,gb,nz,za
+centermost|centremost=JJ=us|au,ca,gb,nz,za
+centerpiece|centrepiece=noun=us|au,ca,gb,nz,za
+centerpin|centrepin=us|au,ca,gb,nz,za
+center|centre=JJ=us|au,ca,gb,nz,za
+center|centre=noun=us|au,ca,gb,nz,za
 centesimal=centesimal/JJ=all
 centesimal=centesimal/NN=all
 centesimally=RB=all
@@ -37165,7 +37187,7 @@ centralized=JJ=all
 centralizer=noun=all
 centralize|centralise=verb=us,ca,gb|gb,au,nz,za
 centrally=RB=all
-centredness=NN:U=all
+centre=centre/VB,centred/VBD,centreing/VBG,centring/VBG,centred/VBN,centre/VBP,centres/VBZ=au,ca,gb,nz,za
 centric=JJ=all
 centricity=noun=all
 centrifugal=centrifugal/JJ=all
@@ -37769,6 +37791,7 @@ chigger=noun=all
 chignon=noun=all
 chihuahua=noun=all
 chilblain=noun=all
+child-centered|child-centred=JJ=us|au,ca,gb,nz,za
 child-free=JJ=all
 child-friendly=JJ=all
 child=child/NN,children/NNS=all
@@ -38065,6 +38088,7 @@ chroming=noun_UN=all
 chromite=chromite/NN,chromite/NN:U,chromites/NNS=all
 chromium=noun_U=all
 chromize|chromise=verb=us,ca,gb|gb,au,nz,za
+chromocenter|chromocentre=noun=us|au,ca,gb,nz,za
 chromogen=noun_U=all
 chromogenic=JJ=all
 chromophore=noun=all
@@ -38271,6 +38295,7 @@ circulator=noun=all
 circulatory=JJ=all
 circumambulate=verb=all
 circumboreal=JJ=all
+circumcenter|circumcentre=noun=us|au,ca,gb,nz,za
 circumcise=verb=all
 circumcision=circumcision/NN,circumcision/NN:U,circumcisions/NNS=all
 circumduct=verb=all
@@ -40025,6 +40050,7 @@ conceivably=RB=all
 conceive=verb=all
 conceiver=noun=all
 concelebrant=noun=all
+concenter=verb=us
 concentrate=noun_UN=all
 concentrate=verb=all
 concentrated=JJ=all
@@ -40032,6 +40058,7 @@ concentration=noun_UN=all
 concentrative=JJ=all
 concentrativeness=NN:U=all
 concentrator=noun=all
+concentre=concentre/VB,concentred/VBD,concentreing/VBG,concentring/VBG,concentred/VBN,concentre/VBP,concentres/VBZ=au,ca,gb,nz,za # unusual, dated
 concentric=JJ=all
 concentrically=RB=all
 concept=noun=all
@@ -42871,6 +42898,7 @@ customarily=RB=all
 customariness=NN:U=all
 customary=customary/JJ=all
 customary=customary/NN=all
+customer-centered|customer-centred=JJ=us|au,ca,gb,nz,za
 customer-centric=JJ=all
 customer-facing=JJ=all
 customer=noun=all
@@ -43315,6 +43343,7 @@ dasyure=noun=all
 data=NN:UN=all
 database=noun=all
 datable=JJ=all
+datacenter|datacentre=noun=us|au,ca,gb,nz,za
 datary=noun=all
 dataset=noun=all
 datasphere=noun_UN=all
@@ -43409,6 +43438,8 @@ deaconship=noun=all
 deactivatable=JJ=all
 deactivate=verb=all
 deactivation=noun_U=all
+dead-center|dead-centre=JJ=us|au,ca,gb,nz,za
+dead-center|dead-centre=RB=us|au,ca,gb,nz,za
 dead-end=dead-end/JJ=all
 dead-end=noun=all
 dead-end=verb=all
@@ -49349,6 +49380,7 @@ epicarp=noun=all
 epicedium=epicedium/NN,epicedia/NNS=all
 epicene=epicene/JJ=all
 epicene=noun=all
+epicenter|epicentre=noun=us|au,ca,gb,nz,za
 epicentral=JJ=all
 epiclesis=epiclesis/NN,epicleses/NNS=all
 epicondylar=JJ=all
@@ -50987,6 +51019,7 @@ fabulously=RB=all
 fabulousness=NN:U=all
 fac=NN=all
 facade=noun=all
+face-centered|face-centred=JJ=us|au,ca,gb,nz,za
 face-plant=verb=all
 face-saving=JJ=all
 face=noun=all
@@ -59256,6 +59289,7 @@ huller=noun=all
 hulling=NN:UN=all
 hum=hum/VB,hummed/VBD,humming/VBG,hummed/VBN,hum/VBP,hums/VBZ=all
 hum=noun=all
+human-centered|human-centred=JJ=us|au,ca,gb,nz,za
 human-induced=JJ=all
 human=human/JJ,humaner/JJR,humanest/JJS=all
 human=noun=all
@@ -59836,6 +59870,7 @@ hypoactive=JJ=all
 hypoallergenic=JJ=all
 hypoblast=noun=all
 hypocaust=noun=all
+hypocenter|hypocentre=noun=us|au,ca,gb,nz,za
 hypochlorite=noun_U=all
 hypochondria=noun_U=all
 hypochondriac=hypochondriac/JJ=all
@@ -61001,6 +61036,7 @@ incendiary=noun=all
 incense=noun_U=all
 incense=verb=all
 incensory=noun=all
+incenter|incentre=noun=us|au,ca,gb,nz,za
 incentive=incentive/JJ=all
 incentive=noun_UN=all
 incentivization|incentivisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -65481,6 +65517,8 @@ learnable=JJ=all
 learned=JJ=all
 learnedly=RB=all
 learnedness=NN:U=all
+learner-centeredness|learner-centredness=NN:U=us|au,ca,gb,nz,za
+learner-centered|learner-centred=JJ=us|au,ca,gb,nz,za
 learner=noun=all
 learning=noun_U=all
 leasable=JJ=all
@@ -65559,6 +65597,7 @@ left-handed=JJ=all
 left-handed=RB=all
 left-handedness=NN:U=all
 left-hander=left-hander/NN,left-handers/NNS,lefthanders/NNS=all
+left-of-center|left-of-centre=JJ=us|au,ca,gb,nz,za
 left-wing=left-wing/JJ,leftwing/JJ=all
 left-winger=noun=all
 left-wingy=RB=all
@@ -68516,6 +68555,7 @@ megabit=noun=all
 megabuck=megabuck/NN,megabuck/NNS,megabucks/NNS=all
 megabyte=noun=all
 megacandela=noun=all
+megacenter|megacentre=noun=us|au,ca,gb,nz,za
 megacity=noun=all
 megacorporation=noun=all
 megacoulomb=noun=all
@@ -71093,6 +71133,7 @@ multicategory=multicategory/JJ=all
 multicategory=noun=all
 multicellular=JJ=all
 multicellularity=noun_UN=all
+multicenter|multicentre=noun=us|au,ca,gb,nz,za
 multichain=JJ=all
 multichannel=multichannel/JJ=all
 multichannel=noun=all
@@ -74037,6 +74078,8 @@ oenophile=noun=all
 oestrogenization|oestrogenisation=noun_UN=us,ca,gb|gb,au,nz,za
 oeuvre=noun=all
 of=IN=all
+off-center|off-centre=JJ=us|au,ca,gb,nz,za
+off-center|off-centre=RB=us|au,ca,gb,nz,za
 off-color|off-colour=JJ=us|gb,ca,au,nz,za
 off-key=off-key/JJ=all
 off-key=off-key/RB=all
@@ -74326,11 +74369,13 @@ oncology=noun_U=all
 oncoming=oncoming/JJ=all
 oncoming=oncoming/NN=all
 ondansetron=NN:U=all
+one-hundred-percenter=noun=all
 one-month-old=noun=all
 one-nighter=NN=all
 one-off=noun=all
 one-off=one-off/JJ=all
 one-pager=noun=all
+one-percenter=noun=all
 one-seater=noun=all
 one-shot=noun=all
 one-shot=one-shot/JJ=all
@@ -74852,6 +74897,7 @@ orrery=noun=all
 orris=noun=all
 orthicon=noun=all
 ortho-xylene=NN=all
+orthocenter|orthocentre=noun=us|au,ca,gb,nz,za
 orthocephalic=JJ=all
 orthochromatic=JJ=all
 orthoclase=noun=all
@@ -77515,6 +77561,7 @@ pericardial=JJ=all
 pericarditis=pericarditis/NN:U,pericarditides/NNS=all
 pericardium=pericardium/NN,pericardia/NNS,pericardiums/NNS=all
 pericarp=pericarp/NN,pericarp/NNS=all
+pericenter|pericentre=noun=us|au,ca,gb,nz,za
 perichondral=JJ=all
 perichondrium=perichondrium/NN,perichondria/NNS,perichondriums/NNS=all
 pericope=noun=all
@@ -77719,6 +77766,7 @@ persistently=RB=all
 persisting=JJ=all
 persnicketiness=NN:U=all
 persnickety=JJ=all
+person-centered|person-centred=JJ=us|au,ca,gb,nz,za
 person=person/NN,people/NNS,persons/NNS=all
 persona=persona/NN,personae/NNS,personas/NNS=all
 personable=JJ=all
@@ -80543,6 +80591,7 @@ precedent=precedent/JJ=all
 precedent=precedent/NN,precedent/NN:U,precedents/NNS=all
 preceding=JJ=all
 precentor=noun=all
+precentress=noun=all
 precept=noun_UN=all
 preceptive=JJ=all
 preceptor=noun=all
@@ -84209,10 +84258,12 @@ receivership=noun_U=all
 recency=noun_U=all
 recension=noun=all
 recent=recent/JJ,recentest/JJS=all
+recenter=verb=us
 recently=RB=all
 recentness=NN:U=all
 recentralization|recentralisation=noun_UN=us,ca,gb|gb,au,nz,za
 recentralize|recentralise=verb=us,ca,gb|gb,au,nz,za
+recentre=recentre/VB,recentred/VBD,recentreing/VBG,recentring/VBG,recentred/VBN,recentre/VBP,recentres/VBZ=au,ca,gb,nz,za
 receptacle=noun=all
 reception=noun_UN=all
 receptionist=noun_UN=all
@@ -86614,6 +86665,7 @@ right-handed=JJ=all
 right-handedness=NN:U=all
 right-hander=right-hander/NN,right-handers/NNS,righthanders/NNS=all
 right-mindedness=NN:U=all
+right-of-center|right-of-centre=JJ=us|au,ca,gb,nz,za
 right-wing=JJ=all
 right-winger=noun=all
 right-wingy=RB=all
@@ -89125,8 +89177,9 @@ self-assuredness=NN:U=all
 self-awareness=NN:U=all
 self-balancing=JJ=all
 self-betrayal=NN:UN=all
-self-centered=JJ=all
-self-centeredness=NN:U=all
+self-centeredly|self-centredly=RB=us|au,ca,gb,nz,za
+self-centeredness|self-centredness=NN:U=us|au,ca,gb,nz,za
+self-centered|self-centred=JJ=us|au,ca,gb,nz,za
 self-cleaning=JJ=all
 self-closing=JJ=all
 self-colored|self-coloured=JJ=us|gb,ca,au,nz,za
@@ -91985,6 +92038,7 @@ sofa=noun=all
 soffit=noun=all
 soft-boil=verb=all
 soft-boiled=JJ=all
+soft-centered|soft-centred=JJ=us|au,ca,gb,nz,za
 soft-heartedness=NN:U=all
 soft=soft/JJ,softer/JJR,softest/JJS=all
 soft=soft/UH=all
@@ -93807,6 +93861,7 @@ stercoraceous=JJ=all
 stereo=noun=all
 stereo=stereo/JJ=all
 stereobate=noun=all
+stereocenter|stereocentre=noun=us|au,ca,gb,nz,za
 stereochemistry=noun_U=all
 stereogram=noun=all
 stereograph=NN=all
@@ -94517,6 +94572,8 @@ stud=stud/VB,studded/VBD,studding/VBG,studded/VBN,stud/VBP,studs/VBZ=all
 studbook=noun=all
 studded=JJ=all
 studding=noun_U=all
+student-centeredness|student-centredness=NN:U=us|au,ca,gb,nz,za
+student-centered|student-centred=JJ=us|au,ca,gb,nz,za
 student=noun=all
 studentship=noun=all
 studied=JJ=all
@@ -94678,6 +94735,7 @@ subcategorization|subcategorisation=noun_UN=us,ca,gb|gb,au,nz,za
 subcategorize|subcategorise=verb=us,ca,gb|gb,au,nz,za
 subcategory=noun=all
 subcellular=JJ=all
+subcenter|subcentre=noun=us|au,ca,gb,nz,za
 subchapter=noun=all
 subchaser=noun=all
 subcivilization|subcivilisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -95429,6 +95487,7 @@ supercalifragilisticexpialidociousness=NN:U=all
 supercar=noun=all
 supercargo=supercargo/NN,supercargoes/NNS,supercargos/NNS=all
 supercell=noun=all
+supercenter|supercentre=noun=us|au,ca,gb,nz,za
 supercharge=verb=all
 supercharger=noun=all
 supercilious=JJ=all
@@ -95753,6 +95812,7 @@ surgeon=noun=all
 surgery=noun_UN=all
 surgical=JJ=all
 surgically=RB=all
+surgicenter|surgicentre=noun=us|au,ca,gb,nz,za
 surging=noun_UN=all
 suricate=noun=all
 surjection=noun_UN=all
@@ -96962,6 +97022,7 @@ telecast=noun=all
 telecast=telecast/VB,telecast/VBD,telecasted/VBD,telecasting/VBG,telecast/VBN,telecasted/VBN,telecast/VBP,telecasts/VBZ=all
 telecaster=noun=all
 telecasting=NN:UN=all
+telecenter|telecentre=noun=us|au,ca,gb,nz,za
 telecom=noun=all
 telecommunication=noun_UN=all
 telecommute=verb=all
@@ -97139,6 +97200,7 @@ temptingness=NN:U=all
 temptress=noun=all
 tempura=noun_U=all
 ten-month-old=noun=all
+ten-percenter=noun=all
 ten-year-old=noun=all
 ten=noun_UN=all
 ten=ten/CD=all
@@ -100837,6 +100899,9 @@ uncelebrated=JJ=all
 uncensored=JJ=all
 uncensoriousness=NN:U=all
 uncensured=JJ=all
+uncenter=verb=us
+uncentered|uncentred=JJ=us|au,ca,gb,nz,za
+uncentre=uncentre/VB,uncentred/VBD,uncentreing/VBG,uncentring/VBG,uncentred/VBN,uncentre/VBP,uncentres/VBZ=au,ca,gb,nz,za
 unceremonious=JJ=all
 unceremoniously=RB=all
 unceremoniousness=NN:U=all
@@ -103049,6 +103114,7 @@ unseizable=JJ=all
 unselect=verb=all
 unselected=JJ=all
 unselective=JJ=all
+unself-centered|unself-centred=JJ=us|au,ca,gb,nz,za
 unselfconscious=JJ=all
 unselfconsciously=RB=all
 unselfconsciousness=NN:U=all
@@ -103802,6 +103868,7 @@ urge=verb=all
 urgency=noun_U=all
 urgent=JJ=all
 urgently=RB=all
+urgicenter|urgicentre=noun=us|au,ca,gb,nz,za
 urging=noun_UN=all
 uric=JJ=all
 urinal=noun=all
@@ -103842,6 +103909,7 @@ usefulness=NN:U=all
 useless=JJ=all
 uselessly=RB=all
 uselessness=NN:U=all
+user-centered|user-centred=JJ=us|au,ca,gb,nz,za
 user-centric=JJ=all
 user-facing=JJ=all
 user-friendliness=NN:U=all
@@ -105726,6 +105794,7 @@ well-appointed=JJ=all
 well-armored|well-armoured=JJ=us|gb,ca,au,nz,za
 well-balanced=JJ=all
 well-bred=JJ=all
+well-centered|well-centred=JJ=us|au,ca,gb,nz,za
 well-colored|well-coloured=JJ=us|gb,ca,au,nz,za
 well-decked=JJ=all
 well-defined=JJ=all
