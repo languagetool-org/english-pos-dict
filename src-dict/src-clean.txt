@@ -5891,6 +5891,7 @@ Comsat=Comsat/NNP,Comsats/NNPS=all
 Comstock=NNP=all
 Comte=NNP=all
 Comus=NNP=all
+Comédie-Française=NNP=all
 Con=NNP=all
 Conagra=NNP=all
 Conakry=NNP=all
@@ -24015,6 +24016,7 @@ Théophile=NNP=all
 Théotime=NNP=all
 Thérèse=NNP=all
 Thévenard=NNP=all
+Théâtre-Français=NNP=all
 Ti=NNP=all
 Tia=NNP=all
 Tiago=NNP=all
@@ -28965,6 +28967,7 @@ amphiprostyle=amphiprostyle/JJ=all
 amphiprostyle=noun=all
 amphiprotic=JJ=all
 amphisbaena=noun=all
+amphitheater|amphitheatre=noun=us|au,ca,gb,nz,za
 amphora=amphora/NN,amphorae/NNS,amphoras/NNS=all
 amphoteric=JJ=all
 ampicillin=ampicillin/NN,ampicillin/NN:U,ampicillins/NNS=all
@@ -97546,6 +97549,7 @@ teleshopping=noun=all
 telestic=noun=all
 telestic=telestic/JJ=all
 teletext=teletext/NN,teletext/NN:U,teletexts/NNS=all
+teletheater|teletheatre=noun=us|au,ca,gb,nz,za
 teletherapy=noun_UN=all
 telethermometer=NN=all
 telethon=noun=all
@@ -98045,6 +98049,10 @@ thawed=JJ=all
 thawing=noun_UN=all
 the=DT=all
 thearchy=noun=all
+theater-in-the-round [pl. theaters-in-the-round]|theatre-in-the-round [pl. theatres-in-the-round]=noun=us|au,ca,gb,nz,za
+theatergoer|theatregoer=noun=us|au,ca,gb,nz,za
+theatergoing|theatregoing=noun_U=us|au,ca,gb,nz,za
+theater|theatre=noun_UN=us|au,ca,gb,nz,za
 theatrical=noun=all
 theatrical=theatrical/JJ=all
 theatricality=noun_U=all
