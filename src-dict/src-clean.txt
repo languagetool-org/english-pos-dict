@@ -5105,7 +5105,7 @@ Centaurus=NNP=all
 Centerton=NNP=all
 Centerville=NNP=all
 Centralia=NNP=all
-Centre-du-Québec=NPP=all
+Centre-du-Québec=NNP=all
 Centrelink=NNP=all
 Centreville=NNP=all
 Centrex=Centrex/NNP,Centrexes/NNPS=all
@@ -28473,7 +28473,7 @@ air=air/NN,air/NN:U,airs/NNS=all
 air=verb=all
 airbag=noun=all
 airbase=noun=all
-airbed=nou=all
+airbed=noun=all
 airboat=noun=all
 airborne=JJ=all
 airbrush=noun=all
@@ -29374,7 +29374,7 @@ analytics=NN:U=all
 analyzability|analysability=noun_UN=ca,us|au,gb,nz,za
 analyzable|analysable=JJ=ca,us|au,gb,nz,za
 analyzation=noun_UN=all
-analyzer|analyser=noun|ca,us|au,gb,nz,za
+analyzer|analyser=noun=ca,us|au,gb,nz,za
 analyze|analyse=verb=ca,us|au,gb,nz,za
 anamnesis=anamnesis/NN,anamneses/NNS=all
 anamorphic=JJ=all
@@ -36447,7 +36447,7 @@ cameraperson [pl. camerapersons,camerapeople]=noun=all
 camerawoman=camerawoman/NN,camerawomen/NNS=all
 camerawork=noun=all
 camerlengo=noun=all
-camiknickers=NS=all
+camiknickers=NNS=all
 camion=noun=all
 camisole=noun=all
 camo=noun=all
@@ -37538,7 +37538,7 @@ centerless|centreless=JJ=us|au,ca,gb,nz,za
 centerline|centreline=noun=us|au,ca,gb,nz,za
 centermost|centremost=JJ=us|au,ca,gb,nz,za
 centerpiece|centrepiece=noun=us|au,ca,gb,nz,za
-centerpin|centrepin=us|au,ca,gb,nz,za
+centerpin|centrepin=noun=us|au,ca,gb,nz,za
 center|centre=JJ=us|au,ca,gb,nz,za
 center|centre=noun=us|au,ca,gb,nz,za
 centesimal=centesimal/JJ=all
@@ -56044,7 +56044,7 @@ globalization|globalisation=noun_UN=us,ca,gb|gb,au,nz,za
 globalize|globalise=verb=us,ca,gb|gb,au,nz,za
 globally=RB=all
 globe-trotting=JJ=all
-globe-trotting=noune=all
+globe-trotting=noun=all
 globe=noun=all
 globe=verb=all
 globefish=globefish/NN,globefish/NNS=all
@@ -57358,9 +57358,9 @@ gynecocracy|gynaecocracy=noun_U=ca,us|au,gb,nz,za
 gynecocratic|gynaecocratic=JJ=ca,us|au,gb,nz,za
 gynecocrat|gynaecocrat=noun=ca,us|au,gb,nz,za
 gynecoid|gynaecoid=JJ=ca,us|au,gb,nz,za
-gynecologically|gynaecologically=ca,us|au,gb,nz,za
-gynecological|gynaecological=ca,us|au,gb,nz,za
-gynecologic|gynaecologic=ca,us|au,gb,nz,za
+gynecologically|gynaecologically=RB=ca,us|au,gb,nz,za
+gynecological|gynaecological=JJ=ca,us|au,gb,nz,za
+gynecologic|gynaecologic=JJ=ca,us|au,gb,nz,za
 gynecologist|gynaecologist=noun=ca,us|au,gb,nz,za
 gynecology|gynaecology=noun_U=ca,us|au,gb,nz,za
 gynecomastia|gynaecomastia=noun=ca,us|au,gb,nz,za
@@ -57550,7 +57550,7 @@ half-baked=JJ=all
 half-breed=JJ=all
 half-breed=noun=all
 half-caste=JJ=all
-half-caste=nouns=all
+half-caste=noun=all
 half-colored|half-coloured=JJ=us|gb,ca,au,nz,za
 half-evaporated=JJ=all
 half-evaporating=JJ=all
@@ -67071,7 +67071,7 @@ liturgically=RB=all
 liturgics=NN:U=all
 liturgist=noun=all
 liturgy=noun_UN=all
-livableness|liveableness=us|gb,ca,au,nz,za
+livableness|liveableness=NN:U=us|gb,ca,au,nz,za
 livable|liveable=JJ=us|gb,ca,au,nz,za
 live-stream=noun=all
 live-stream=verb=all
@@ -70665,8 +70665,8 @@ mislay=mislay/VB,mislaid/VBD,mislaying/VBG,mislaid/VBN,mislay/VBP,mislays/VBZ=al
 mislead=mislead/VB,misled/VBD,misleading/VBG,misled/VBN,mislead/VBP,misleads/VBZ=all
 misleading=JJ=all
 misleadingly=RB=all
-mislike=UNTAverbGGED=all
 mislike=noun=all
+mislike=verb=all
 mismanage=verb=all
 mismanagement=noun_U=all
 mismatch=noun=all
@@ -106094,7 +106094,7 @@ waggle=noun=all
 waggle=verb=all
 wagon-headed|waggon-headed=JJ=all|au,gb,nz,za
 wagon-head|waggon-head=JJ=all|au,gb,nz,za
-wagon-lit [pl. wagons-lits,wagon-lits]=all
+wagon-lit [pl. wagons-lits,wagon-lits]=noun=all
 wagonage|waggonage=noun_UN=all|au,gb,nz,za
 wagoner|waggoner=noun=all|au,gb,nz,za
 wagonette|waggonette=noun=all|au,gb,nz,za
