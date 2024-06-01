@@ -3,14 +3,14 @@ import re
 def getInflectedForms(lemma, pos, extra=''):
   forms = ""
   patternCVC = r"^[^aeiou]+[aeiou][^aeiou]$"
-  patternDuplicateConsonant = r"^\-([a-z])\1\-$"
+  patternDuplicateConsonant = r"^\-([^aeiouywh])\1\-$"
   vowels = "aeiou";
   # inflection of regular verbs
   if pos=="verb":
     if lemma.endswith("e"):
       root = lemma[:-1]
       forms = "-e/VB,-ed/VBD,-ing/VBG,-ed/VBN,-e/VBP,-es/VBZ".replace("-", root)
-    elif lemma[-1]==("y") and lemma[-2] not in vowels:
+    elif len(lemma)>2 and lemma[-1]==("y") and lemma[-2] not in vowels:
       root = lemma[:-1]
       forms = "-y/VB,-ied/VBD,-ying/VBG,-ied/VBN,-y/VBP,-ies/VBZ".replace("-", root)
     elif lemma.endswith("sh") or lemma.endswith("ss") or lemma.endswith("ch"):
