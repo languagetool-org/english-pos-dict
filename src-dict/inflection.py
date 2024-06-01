@@ -1,6 +1,9 @@
 import re
 
-def getInflectedForms(lemma, pos, extra=''):
+def clean_line(s):
+  return s.split('#')[0].strip()
+
+def getInflectedFormsAndTags(lemma, pos, extra=''):
   forms = ""
   patternCVC = r"^[^aeiou]+[aeiou][^aeiou]$"
   patternDuplicateConsonant = r"^\-([^aeiouywh])\1\-$"
@@ -27,7 +30,7 @@ def getInflectedForms(lemma, pos, extra=''):
       forms = "-/VB,-ed/VBD,-ing/VBG,-ed/VBN,-/VBP,-s/VBZ".replace("-", lemma)
 
   #inflection of regular nouns
-  if pos.startswith("noun") and len(lemma)>1:
+  if pos.startswith("noun"):
     add_string = ""
     parts = pos.split("_")
     if len(parts) == 2:
@@ -35,57 +38,117 @@ def getInflectedForms(lemma, pos, extra=''):
         add_string = ":UN"
       if parts[1] == "U":
         add_string = ":U"
-    if lemma[-2:] in ["ch","sh"] or lemma[-1] in "sxz":
+    if len(extra)>0:
+      forms = lemma+"/NN"+add_string
+      plurals = extra.replace("pl.","").strip()
+      for plural in plurals.split(","):
+        plural = plural.strip()
+        forms = forms+","+plural+"/NNS"
+    elif len(lemma)>1 and (lemma[-2:] in ["ch","sh"] or lemma[-1] in "sxz"):
       forms = "-/NN,-es/NNS".replace("-", lemma)
     #potato/potatoes  
     #elif lemma[-2] not in vowels and lemma[-1]=="o":
     #  forms = "-/NN,-es/NNS".replace("-", lemma)
-    elif lemma[-1]==("y") and lemma[-2] not in vowels:
+    elif len(lemma)>1 and lemma[-1]==("y") and lemma[-2] not in vowels:
       forms = lemma + "/NN,"+lemma[:-1]+"ies/NNS"
     else:
       forms = lemma + "/NN,"+lemma+"s/NNS"
     if add_string != "":
       forms = forms.replace("NN,", "NN"+add_string+",")
+  if forms=="":
+    if extra != "":
+      print("ERROR: cannot generate forms with lemma and pos: " + lemma + " ["+extra+"]=" + pos)
+    else:
+      #print("ERROR: cannot generate forms with lemma and pos: " + lemma + "=" + pos)
+      forms = lemma+"/"+pos
   return forms
+
+def getFormTagLemma(forms_tags, lemma, variants):
+  inflected_forms = []
+  if "/" in forms_tags:
+    for form_tag in forms_tags.split(","):
+       form, tag = tuple(form_tag.split("/"))
+       inflected_forms.append(form+" "+lemma+" "+tag+" "+variants)
+    return inflected_forms
+
+def getFormsFromLine(line):
+  print(line)
+  line = clean_line(line)
+  inflected_forms = []
+  if line == "":
+    return inflected_forms
+  parts = line.split("=")
+  lemmas = parts[0]
+  forms_tags = parts[1]
+  variants = parts[2]
+  if "," in forms_tags:
+    return getFormTagLemma(forms_tags, lemmas, variants)
+  variants_groups = variants.split("|") 
+  for i,lemma in enumerate(lemmas.split("|")):
+    pattern = r"^(.+?) \[(.+?)\]$"
+    match = re.search(pattern, lemma)
+    extra = ""
+    if match:
+      lemma = match.group(1)
+      extra = match.group(2)
+
+    inflected_forms_tags = getInflectedFormsAndTags(lemma, forms_tags, extra)
+    inflected_forms.extend(getFormTagLemma(inflected_forms_tags, lemma, variants_groups[i])) 
+  return inflected_forms
+   
+    
+
+  
+  
+
+
 
 
 #examples
-assert getInflectedForms("add", "verb") == "add/VB,added/VBD,adding/VBG,added/VBN,add/VBP,adds/VBZ"
-assert getInflectedForms("wish", "verb") == "wish/VB,wished/VBD,wishing/VBG,wished/VBN,wish/VBP,wishes/VBZ"
-assert getInflectedForms("portray", "verb") == "portray/VB,portrayed/VBD,portraying/VBG,portrayed/VBN,portray/VBP,portrays/VBZ"
-assert getInflectedForms("specify", "verb") == "specify/VB,specified/VBD,specifying/VBG,specified/VBN,specify/VBP,specifies/VBZ"
-assert getInflectedForms("hug", "verb") == "hug/VB,hugged/VBD,hugging/VBG,hugged/VBN,hug/VBP,hugs/VBZ"
+assert getInflectedFormsAndTags("add", "verb") == "add/VB,added/VBD,adding/VBG,added/VBN,add/VBP,adds/VBZ"
+assert getInflectedFormsAndTags("wish", "verb") == "wish/VB,wished/VBD,wishing/VBG,wished/VBN,wish/VBP,wishes/VBZ"
+assert getInflectedFormsAndTags("portray", "verb") == "portray/VB,portrayed/VBD,portraying/VBG,portrayed/VBN,portray/VBP,portrays/VBZ"
+assert getInflectedFormsAndTags("specify", "verb") == "specify/VB,specified/VBD,specifying/VBG,specified/VBN,specify/VBP,specifies/VBZ"
+assert getInflectedFormsAndTags("hug", "verb") == "hug/VB,hugged/VBD,hugging/VBG,hugged/VBN,hug/VBP,hugs/VBZ"
 # doesn't work for irregular verbs
-assert getInflectedForms("run", "verb") != "run/VB,ran/VBD,running/VBG,run/VBN,run/VBP,runs/VBZ"
+assert getInflectedFormsAndTags("run", "verb") != "run/VB,ran/VBD,running/VBG,run/VBN,run/VBP,runs/VBZ"
 
-assert getInflectedForms("baby", "noun") == "baby/NN,babies/NNS"
-assert getInflectedForms("army", "noun") == "army/NN,armies/NNS"
-assert getInflectedForms("cat", "noun") == "cat/NN,cats/NNS"
-assert getInflectedForms("student", "noun") == "student/NN,students/NNS"
-assert getInflectedForms("video", "noun") == "video/NN,videos/NNS"
-assert getInflectedForms("radio", "noun") == "radio/NN,radios/NNS"
-assert getInflectedForms("toy", "noun") == "toy/NN,toys/NNS"
-assert getInflectedForms("day", "noun") == "day/NN,days/NNS"
-assert getInflectedForms("church", "noun") == "church/NN,churches/NNS"
-assert getInflectedForms("bench", "noun") == "bench/NN,benches/NNS"
-assert getInflectedForms("brush", "noun") == "brush/NN,brushes/NNS"
-assert getInflectedForms("dish", "noun") == "dish/NN,dishes/NNS"
-assert getInflectedForms("class", "noun") == "class/NN,classes/NNS"
-assert getInflectedForms("kiss", "noun") == "kiss/NN,kisses/NNS"
-assert getInflectedForms("fox", "noun") == "fox/NN,foxes/NNS"
-assert getInflectedForms("topaz", "noun") == "topaz/NN,topazes/NNS"
-assert getInflectedForms("buzz", "noun") == "buzz/NN,buzzes/NNS"
+assert getInflectedFormsAndTags("baby", "noun") == "baby/NN,babies/NNS"
+assert getInflectedFormsAndTags("army", "noun") == "army/NN,armies/NNS"
+assert getInflectedFormsAndTags("cat", "noun") == "cat/NN,cats/NNS"
+assert getInflectedFormsAndTags("student", "noun") == "student/NN,students/NNS"
+assert getInflectedFormsAndTags("video", "noun") == "video/NN,videos/NNS"
+assert getInflectedFormsAndTags("radio", "noun") == "radio/NN,radios/NNS"
+assert getInflectedFormsAndTags("toy", "noun") == "toy/NN,toys/NNS"
+assert getInflectedFormsAndTags("day", "noun") == "day/NN,days/NNS"
+assert getInflectedFormsAndTags("church", "noun") == "church/NN,churches/NNS"
+assert getInflectedFormsAndTags("bench", "noun") == "bench/NN,benches/NNS"
+assert getInflectedFormsAndTags("brush", "noun") == "brush/NN,brushes/NNS"
+assert getInflectedFormsAndTags("dish", "noun") == "dish/NN,dishes/NNS"
+assert getInflectedFormsAndTags("class", "noun") == "class/NN,classes/NNS"
+assert getInflectedFormsAndTags("kiss", "noun") == "kiss/NN,kisses/NNS"
+assert getInflectedFormsAndTags("fox", "noun") == "fox/NN,foxes/NNS"
+assert getInflectedFormsAndTags("topaz", "noun") == "topaz/NN,topazes/NNS"
+assert getInflectedFormsAndTags("buzz", "noun") == "buzz/NN,buzzes/NNS"
 
 # doesn't work for irregular nouns
-assert getInflectedForms("man", "noun") != "man/NN,men/NNS"
+assert getInflectedFormsAndTags("man", "noun") != "man/NN,men/NNS"
 
 # not implemented, but could be
-assert getInflectedForms("thief", "noun") != "thief/NN,thieves/NNS"
-assert getInflectedForms("life", "noun") != "life/NN,lives/NNS"
-assert getInflectedForms("potato", "noun") != "potato/NN,potatoes/NNS"
-assert getInflectedForms("echo", "noun") != "echo/NN,echoes/NNS"
+assert getInflectedFormsAndTags("thief", "noun") != "thief/NN,thieves/NNS"
+assert getInflectedFormsAndTags("life", "noun") != "life/NN,lives/NNS"
+assert getInflectedFormsAndTags("potato", "noun") != "potato/NN,potatoes/NNS"
+assert getInflectedFormsAndTags("echo", "noun") != "echo/NN,echoes/NNS"
 
-print ( getInflectedForms("hantavirus", "noun"))
-print ( getInflectedForms("shilly-shally", "verb"))
-print (getInflectedForms("program", "verb", "-mm-"))
-print (getInflectedForms("co-star", "verb", "-rr-"))
+#print ( getInflectedFormsAndTags("hantavirus", "noun"))
+#print ( getInflectedFormsAndTags("shilly-shally", "verb"))
+#print (getInflectedFormsAndTags("program", "verb", "-mm-"))
+#print (getInflectedFormsAndTags("co-star", "verb", "-rr-"))
+
+getFormsFromLine("j [pl. js,j's]=noun=all")
+print (getFormsFromLine("pommel=pommel/VB,pommeled/VBD,pommelled/VBD,pommeling/VBG,pommelling/VBG,pommeled/VBN,pommelled/VBN,pommel/VBP,pommels/VBZ=all"))
+print (getFormsFromLine("pomelo=noun=all"))
+print (getFormsFromLine("honor|honour=noun_UN=us|gb,ca,au,nz,za"))
+print (getFormsFromLine("honor|honour=verb=us|gb,ca,au,nz,za"))
+
+

@@ -35538,7 +35538,7 @@ bros=noun=all
 brose=noun=all
 broth=noun_U=all
 brothel=noun=all
-brother-in-law=brother-in-law/NN,brothers-in-law/NNS=all
+brother-in-law [pl. brothers-in-law]=noun=all
 brother=brother/NN,brethren/NNS,brothers/NNS=all
 brotherhood=noun_UN=all
 brotherliness=NN:U=all
@@ -51957,7 +51957,7 @@ fatefulness=NN:U=all
 fathead=noun=all
 fatheaded=JJ=all
 fatheadedness=NN:U=all
-father-in-law [pl. fathers-in-law]=NN=all
+father-in-law [pl. fathers-in-law]=noun=all
 father=noun=all
 father=verb=all
 fatherhood=noun_U=all
@@ -61718,7 +61718,12 @@ inclusiveness=NN:U=all
 inclusivity=noun_UN=all
 incoercible=JJ=all
 incog=abbreviation=all
-incognito=incognito/NN,incognita/NNS,incognitos/NNS=all
+incognito=JJ=all
+incognito=RB=all
+incognito=noun=all
+incognita=JJ=all
+incognita=RB=all
+incognita=noun=all
 incognizant=JJ=all
 incoherence=noun_U=all
 incoherency=noun=all
@@ -65442,7 +65447,7 @@ kymograph=noun=all
 kyphosis=kyphosis/NN,kyphoses/NNS=all
 kyphotic=JJ=all
 kāvya=NN:U=all
-l [pl. ls,l's]=abbreviation=all
+l [pl. ls,l's]=noun=all
 l=abbreviation=all
 la=noun_U=all
 laager=noun=all
@@ -67336,8 +67341,7 @@ long-livedness=NN:U=all
 long-necked=JJ=all
 long-overdue=JJ=all
 long-range=JJ=all
-long-running=JJ=all
-long-running=long-running/VB,longest-running/VBG,long-running/VBP=all
+long-running=long-running/JJ,longer-running/JJR,longest-running/JJS=all
 long-serving=JJ=all
 long-shadowed=JJ=all
 long-sightedness=NN:U=all
@@ -72344,7 +72348,7 @@ mésalliance=noun=all
 métier=noun=all
 mézair=noun=all
 mûmak=NN=all
-n [pl. ns,n's]=abbreviation=all
+n [pl. ns,n's]=noun=all
 n=abbreviation=all
 nab=verb=all
 nabob=noun=all
@@ -101282,7 +101286,7 @@ tête-à-tête=JJ=all
 tête-à-tête=RB=all
 tête-à-tête=tête-à-tête/NN,tête-à-tête/NNS,tête-à-têtes/NNS=all
 tögrög=tögrög/NN,tögrög/NNS=all
-u [pl us,u's]=abbreviation=all
+u [pl. us,u's]=noun=all
 u=abbreviation=all
 ubiquitarian=noun=all
 ubiquitarianism=NN:U=all
@@ -106036,7 +106040,7 @@ vulval=JJ=all
 vulvar=JJ=all
 vuvuzela=noun=all
 vying=JJ=all
-w [pl. ws,w's]=abbreviation=all
+w [pl. ws,w's]=noun=all
 w=abbreviation=all
 wabbit=noun=all
 wacke=NN=all
@@ -108220,7 +108224,7 @@ yuppie=noun=all
 yuppification=NN:UN=all
 yuppify=verb=all
 yurt=noun=all
-z [pl. zs,z's]=abbreviation=all
+z [pl. zs,z's]=noun=all
 z=abbreviation=all
 zabaglione=noun=all
 zaibatsu=NN=all
