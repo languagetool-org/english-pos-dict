@@ -13,7 +13,7 @@ def getInflectedForms(lemma, pos, extra=''):
     elif len(lemma)>2 and lemma[-1]==("y") and lemma[-2] not in vowels:
       root = lemma[:-1]
       forms = "-y/VB,-ied/VBD,-ying/VBG,-ied/VBN,-y/VBP,-ies/VBZ".replace("-", root)
-    elif lemma.endswith("sh") or lemma.endswith("ss") or lemma.endswith("ch"):
+    elif len(lemma)>2 and (lemma.endswith("sh") or lemma.endswith("ss") or lemma.endswith("ch") or (lemma.endswith("s") and lemma[-2] in vowels)):
       forms = "-/VB,-ed/VBD,-ing/VBG,-ed/VBN,-/VBP,-es/VBZ".replace("-", lemma)
     elif re.search(patternCVC,lemma): 
       # duplicate the last consonant: hug -> hugged
@@ -21,8 +21,8 @@ def getInflectedForms(lemma, pos, extra=''):
       # for verbs with more than one syllable, it cannot be done because 
       # we don't know which syllable is stressed (prefer/preferred, visit/visited, admit/admitted)
     elif extra!="" and re.search(patternDuplicateConsonant,extra):
-      duplicateConsonant = extra[1]
-      forms = "-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", duplicateConsonant)
+      duplicate_consonant = extra[1]
+      forms = "-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", duplicate_consonant)
     else:
       forms = "-/VB,-ed/VBD,-ing/VBG,-ed/VBN,-/VBP,-s/VBZ".replace("-", lemma)
 
@@ -86,6 +86,6 @@ assert getInflectedForms("potato", "noun") != "potato/NN,potatoes/NNS"
 assert getInflectedForms("echo", "noun") != "echo/NN,echoes/NNS"
 
 print ( getInflectedForms("lustre", "verb"))
-print ( getInflectedForms("cosy", "verb"))
+print ( getInflectedForms("alias", "verb"))
 print (getInflectedForms("program", "verb", "-mm-"))
 print (getInflectedForms("co-star", "verb", "-rr-"))

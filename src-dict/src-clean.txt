@@ -28375,7 +28375,7 @@ algorithmic=JJ=all
 algorithmically=RB=all
 alias=alias/JJ=all
 alias=alias/RB=all
-alias=alias/VB,aliased/VBD,aliasing/VBG,aliased/VBN,alias/VBP,aliases/VBZ=all
+alias=verb=all
 alias=noun=all
 aliasing=noun_UN=all
 alibi=alibi/NN,alibies/NNS,alibis/NNS=all
@@ -36033,14 +36033,14 @@ calliope=noun=all
 callipygian=JJ=all
 callosity=noun_UN=all
 callous=callous/JJ=all
-callous=callous/VB,calloused/VBD,callousing/VBG,calloused/VBN,callous/VBP,callouses/VBZ=all
+callous=verb=all
 calloused=JJ=all
 callously=RB=all
 callousness=NN:U=all
 callout=noun=all
 callow=callow/JJ,callower/JJR,callowest/JJS=all
 callowness=NN:U=all
-callus=callus/VB,callused/VBD,callusing/VBG,callused/VBN,callus/VBP,calluses/VBZ=all
+callus=verb=all
 callus=noun=all
 calm=calm/JJ,calmer/JJR,calmest/JJS=all
 calm=noun=all
@@ -37167,7 +37167,7 @@ censurableness=NN:U=all
 censure=noun_UN=all
 censure=verb=all
 censurer=noun=all
-census=census/VB,censused/VBD,censusing/VBG,censused/VBN,census/VBP,censuses/VBZ=all
+census=verb=all
 census=noun=all
 cent=noun=all
 centaur=noun=all
@@ -82479,7 +82479,7 @@ prying=noun_UN=all
 pryingly=RB=all
 pryingness=NN:U=all
 précis=précis/NN,précis/NNS=all
-précis=précis/VB,précised/VBD,précising/VBG,précised/VBN,précis/VBP,précises/VBZ=all
+précis=verb=all
 psalm=noun=all
 psalmbook=noun=all
 psalmist=noun=all
@@ -85615,7 +85615,7 @@ rendered=JJ=all
 renderer=noun=all
 rendering=noun_UN=all
 rendezvous=rendezvous/NN,rendezvous/NNS,rendezvouses/NNS=all
-rendezvous=rendezvous/VB,rendezvoused/VBD,rendezvousing/VBG,rendezvoused/VBN,rendezvous/VBP,rendezvouses/VBZ=all
+rendezvous=verb=all
 rending=JJ=all
 rendition=noun_UN=all
 renegade=noun=all
@@ -99698,7 +99698,7 @@ trek=noun=all
 trek=verb=all
 trekker=noun=all
 trellis=noun=all
-trellis=trellis/VB,trellised/VBD,trellising/VBG,trellised/VBN,trellis/VBP,trellises/VBZ=all
+trellis=verb=all
 trelliswork=noun=all
 trematode=noun=all
 tremble=noun=all
@@ -104706,7 +104706,7 @@ verdantly=RB=all
 verderer=noun=all
 verdict=noun=all
 verdigris=noun_U=all
-verdigris=verdigris/VB,verdigrised/VBD,verdigrising/VBG,verdigrised/VBN,verdigris/VBP,verdigrises/VBZ=all
+verdigris=verb=all
 verdure=noun_U=all
 verdurousness=NN:U=all
 verge=noun=all
