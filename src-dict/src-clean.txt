@@ -2,6 +2,7 @@
 #=#=all
 #Americaness=NN:U=all #unusual
 #Archaeozoic=JJ=all #unusual
+#Las=NNP=all # Spanish names, musical note
 #bye-election=noun=all # usual
 #cancelation=noun_UN=us # unusual
 #crystalize=verb= #unusual
@@ -540,6 +541,7 @@ Acosta=NNP=all
 Acre=NNP=all
 Acres=NNP=all
 Acronis=NNP=all
+Acropolis=NNP=all
 Acrux=NNP=all
 Actemra=NNP=all
 Actinomycetales=NNP=all
@@ -572,6 +574,7 @@ Adana=NNP=all
 Adapa=NNP=all
 Addams=NNP=all
 Adderall=NNP=all
+Adderley=NNP=all
 Addie=NNP=all
 Addington=NNP=all
 Addis=NNP=all
@@ -594,6 +597,7 @@ Adeline=NNP=all
 Adelman=NNP=all
 Aden=NNP=all
 Adenauer=NNP=all
+Adhara=NNP=all
 Adhiyaman=NNP=all
 Adi=NNP=all
 Adichie=NNP=all
@@ -707,7 +711,10 @@ Afro-Asiatic=Afro-Asiatic/NNP=all
 Afro-Eurasia=NNP=all
 Afro=Afro/NNP,Afros/NNPS=all
 Afroasiatic=NNP=all
-Afrocentrism=Afrocentrism/NN:U,Afrocentrism/NNP,Afrocentrisms/NNPS=all
+Afrocentric=JJ=all
+Afrocentricity=NN:U=all
+Afrocentrism=noun_U=all
+Afrocentrist=noun=all
 Ag=NNP=all
 Agadir=NNP=all
 Agamemnon=NNP=all
@@ -763,6 +770,7 @@ Ahern=NNP=all
 Ahithophel=NNP=all
 Ahlen=NNP=all
 Ahmad=NNP=all
+Ahmadabad=NNP=all
 Ahmadi=NNP=all
 Ahmaud=NNP=all
 Ahmed=NNP=all
@@ -828,6 +836,7 @@ Akihito=NNP=all
 Akins=NNP=all
 Akira=NNP=all
 Akita=Akita/NNP,Akitas/NNPS=all
+Akiva=NNP=all
 Akkad=NNP=all
 Akkadian=Akkadian/JJ=all
 Akkadian=Akkadian/NN:U,Akkadian/NNP,Akkadians/NNPS=all
@@ -961,6 +970,7 @@ Aldabra=NNP=all
 Aldan=NNP=all
 Aldebaran=NNP=all
 Alden=NNP=all
+Alderamin=NNP=all
 Aldermaston=NNP=all
 Alderney=Alderney/NNP,Alderneys/NNPS=all
 Aldershot=NNP=all
@@ -1159,8 +1169,10 @@ Alsatia=NNP=all
 Alsatian=Alsatian/JJ=all
 Alsatian=Alsatian/NNP,Alsatians/NNPS=all
 Alsip=NNP=all
+Alsop=NNP=all
 Alston=NNP=all
 Alta=NNP=all
+Altaba=NNP=all
 Altadena=NNP=all
 Altai=NNP=all
 Altaic=Altaic/JJ=all
@@ -1263,6 +1275,7 @@ Amersham=NNP=all
 Ames=NNP=all
 Amesbury=NNP=all
 Amex=NNP=all
+Amgen=NNP=all
 Amhara=NNP=all
 Amharic=Amharic/JJ=all
 Amharic=Amharic/NN:U,Amharic/NNP=all
@@ -1417,6 +1430,7 @@ Angelique=NNP=all
 Angelita=NNP=all
 Angell=NNP=all
 Angelo=NNP=all
+Angelou=NNP=all
 Angelus=Angelus/NNP,Angeluses/NNPS=all
 Angers=NNP=all
 Angevin=Angevin/JJ=all
@@ -1465,6 +1479,7 @@ Angus=Angus/NNP,Anguses/NNPS=all
 Angélica=NNP=all
 Angélique=NNP=all
 Anhalt=NNP=all
+Anhui=NNP=all
 Anhwei=NNP=all
 Aniakchak=NNP=all
 Anika=NNP=all
@@ -1546,6 +1561,7 @@ Anthe=NNP=all
 Anthelme=NNP=all
 Anthony=NNP=all
 Anthozoa=NNP=all
+Anthropocene=NNP=all
 Antibes=NNP=all
 Antichrist=Antichrist/NNP,Antichrists/NNPS=all
 Anticosti=NNP=all
@@ -1673,6 +1689,7 @@ Aquarius=Aquarius/NNP,Aquariuses/NNPS=all
 Aquila=NNP=all
 Aquileia=NNP=all
 Aquinas=NNP=all
+Aquino=NNP=all
 Aquitaine=NNP=all
 Aquitania=NNP=all
 Aquitanian=Aquitanian/NNP,Aquitanians/NNPS=all
@@ -1703,6 +1720,7 @@ Aragonese=Aragonese/JJ=all
 Aragonese=Aragonese/NNP=all
 Araguaia=NNP=all
 Araguaya=NNP=all
+Aral=NNP=all
 Aramaic=Aramaic/JJ=all
 Aramaic=Aramaic/NN:U,Aramaic/NNP=all
 Aramco=NNP=all
@@ -1978,6 +1996,7 @@ Ashley=NNP=all
 Ashlyn=NNP=all
 Ashlynn=NNP=all
 Ashman=NNP=all
+Ashmolean=NNP=all
 Ashmore=NNP=all
 Ashneel=NNP=all
 Ashok=NNP=all
@@ -2011,6 +2030,7 @@ Asmussen=NNP=all
 Asnières-sur-Seine=NNP=all
 Asoka=NNP=all
 Aspasia=NNP=all
+Aspell=NNP=all
 Aspen=NNP=all
 Asperger=NNP=all
 Asperges=NNP=all
@@ -2068,6 +2088,7 @@ Asus=NNP=all
 Aswan=NNP=all
 Asyut=NNP=all
 At=NNP=all
+Atacama=NNP=all
 Atahualpa=NNP=all
 Atalanta=NNP=all
 Atari=NNP=all
@@ -2270,6 +2291,7 @@ Avril=NNP=all
 Avshalom=NNP=all
 Axe=NNP=all
 Axelle=NNP=all
+Axis=NNP=all
 Axminster=Axminster/NNP,Axminsters/NNPS=all
 Axum=NNP=all
 Ayacucho=NNP=all
@@ -2295,6 +2317,7 @@ Azad=NNP=all
 Azalea=NNP=all
 Azamgarh=NNP=all
 Azana=NNP=all
+Azania=NNP=all
 Azar=NNP=all
 Azazel=NNP=all
 Azeem=NNP=all
@@ -2316,6 +2339,7 @@ Aztec=Aztec/JJ=all
 Aztec=Aztec/NNP,Aztecs/NNPS=all
 Aztecan=Aztecan/JJ=all
 Aztecan=Aztecan/NNP=all
+Aztlan=NNP=all
 Aztlán=NNP=all
 Azul=NNP=all
 AzureWave=NNP=all
@@ -2434,6 +2458,9 @@ Ba=NNP=all
 Baader-Meinhof=NNP=all
 Baal=Baal/NNP,Baals/NNPS=all
 Baalbek=NNP=all
+Baath=NNP=all
+Baathist=JJ=all
+Baathist=noun=all
 Babbage=NNP=all
 Babbel=NNP=all
 Babbitry=NNP=all
@@ -2488,6 +2515,7 @@ Baghdadi=Baghdadi/NNP,Baghdadis/NNPS=all
 Bagnall=NNP=all
 Bagpuize=NNP=all
 Bagsley=NNP=all
+Baha=NNP=all
 Bahai=Bahai/JJ=all
 Bahai=Bahai/NNP,Bahais/NNPS=all
 Bahamas=Bahamas/NNP,Bahamas/NNPS=all
@@ -2578,6 +2606,7 @@ Bamberg=NNP=all
 Bambi=NNP=all
 Bamford=NNP=all
 Bamman=NNP=all
+Banach=NNP=all
 Banaras=NNP=all
 Banares=NNP=all
 Banbury=NNP=all
@@ -2717,6 +2746,7 @@ Barstow=NNP=all
 Bart=NNP=all
 Bartek=NNP=all
 Barth=NNP=all
+Barthes=NNP=all
 Barthol=NNP=all
 Bartholdi=NNP=all
 Bartholomew=NNP=all
@@ -2794,10 +2824,12 @@ Bator=NNP=all
 Batrachia=NNP=all
 Batson=NNP=all
 Battersea=NNP=all
+Battle=NNP=all
 BattleHawks=NNP=all
 Baucis=NNP=all
 Baudelaire=NNP=all
 Baudot=NNP=all
+Baudrillard=NNP=all
 Bauer=NNP=all
 Baughman=NNP=all
 Bauhaus=Bauhaus/NNP,Bauhauses/NNPS=all
@@ -2818,6 +2850,7 @@ Baya=NNP=all
 Bayard=NNP=all
 Bayer=NNP=all
 Bayern=NNP=all
+Bayes=NNP=all
 Bayesian=JJ=all
 Bayle=NNP=all
 Bayley=NNP=all
@@ -2836,6 +2869,7 @@ Beach=NNP=all
 Beachwood=NNP=all
 Beachy=NNP=all
 Beaconsfield=NNP=all
+Beadle=NNP=all
 BeagleBoard=NNP=all
 Beal=NNP=all
 Beale=NNP=all
@@ -3003,6 +3037,7 @@ Belton=NNP=all
 Beltrami=NNP=all
 Beltran=NNP=all
 Beltrán=NNP=all
+Belushi=NNP=all
 Belvidere=NNP=all
 Belville=NNP=all
 Belém=NNP=all
@@ -3309,6 +3344,7 @@ Bingley=NNP=all
 BioNTech=NNP=all
 BioTek=NNP=all
 Biobío=NNP=all
+Biogen=NNP=all
 Bioko=NNP=all
 Birch=NNP=all
 Bircher=Bircher/NNP,Birchers/NNPS=all
@@ -3334,6 +3370,7 @@ Bismarck=NNP=all
 Bissau=NNP=all
 Bisset=NNP=all
 Bisutun=NNP=all
+BitTorrent=NNP=all
 Bitbucket=NNP=all
 Bitfinex=NNP=all
 Bithynia=NNP=all
@@ -3455,6 +3492,7 @@ Bob=NNP=all
 Bobbi=NNP=all
 Bobbie=NNP=all
 Bobby=NNP=all
+Boccaccio=NNP=all
 Boccherini=NNP=all
 Boccioni=NNP=all
 Bocelli=NNP=all
@@ -3544,6 +3582,7 @@ Bonapartist=Bonapartist/JJ=all
 Bonapartist=Bonapartist/NNP,Bonapartists/NNPS=all
 Bonar=NNP=all
 Bonaventura=NNP=all
+Bonaventure=NNP=all
 Bond=NNP=all
 Bonham=NNP=all
 Bonhams=NNP=all
@@ -3582,6 +3621,7 @@ Borden=NNP=all
 Bordentown=NNP=all
 Border=NNP=all
 Bordetella=NNP=all
+Bordon=NNP=all
 Boreas=NNP=all
 Borel=NNP=all
 Borg=Borg/NNP,Borgs/NNPS=all
@@ -3601,6 +3641,7 @@ Bornean=Bornean/NNP,Borneans/NNPS=all
 Borneo=NNP=all
 Bornholm=NNP=all
 Bornu=NNP=all
+Borobudur=NNP=all
 Borodin=NNP=all
 Borodino=NNP=all
 Borowski=NNP=all
@@ -3634,6 +3675,7 @@ Botham=NNP=all
 Bothell=NNP=all
 Bothnia=NNP=all
 Bothwell=NNP=all
+Botox=NNP=all
 Botswana=NNP=all
 Botticelli=NNP=all
 Bottomore=NNP=all
@@ -3706,6 +3748,7 @@ Bracknell=NNP=all
 Brad=NNP=all
 Bradburn=NNP=all
 Bradbury=Bradbury/NNP,Bradburys/NNPS=all
+Braddock=NNP=all
 Braden=NNP=all
 Bradenton=NNP=all
 Bradford=NNP=all
@@ -3800,6 +3843,7 @@ Brea=NNP=all
 Bream=NNP=all
 Breanna=NNP=all
 Breanne=NNP=all
+Brecht=NNP=all
 Breckenridge=NNP=all
 Breckinridge=NNP=all
 Brecksville=NNP=all
@@ -3863,6 +3907,7 @@ Bridge=NNP=all
 Bridgeline=NNP=all
 Bridgend=NNP=all
 Bridgeport=NNP=all
+Bridger=NNP=all
 Bridgerton=NNP=all
 Bridges=NNP=all
 Bridgestone=NNP=all
@@ -3890,6 +3935,7 @@ Brigitte=NNP=all
 Brihaspati=NNP=all
 Briley=NNP=all
 Brill=NNP=all
+Brillouin=NNP=all
 Brindisi=NNP=all
 Brindle=NNP=all
 Brindley=NNP=all
@@ -4094,6 +4140,7 @@ Buffy=NNP=all
 Buford=NNP=all
 Bug=NNP=all
 Bugatti=NNP=all
+Bugzilla=NNP=all
 Buick=NNP=all
 Buitenzorg=NNP=all
 Bujumbura=NNP=all
@@ -4197,6 +4244,7 @@ Burrell=NNP=all
 Burrill=NNP=all
 Burris=NNP=all
 Burroughs=NNP=all
+Bursa=NNP=all
 Burschenschaft=NNP=all
 Burstein=NNP=all
 Burt=NNP=all
@@ -4876,6 +4924,7 @@ Casey=NNP=all
 Cash=NNP=all
 Cashmere=NNP=all
 Casimir=NNP=all
+Casio=NNP=all
 Caslon=NNP=all
 Caspar=NNP=all
 Casper=NNP=all
@@ -4991,6 +5040,7 @@ Cawnpore=NNP=all
 Caxton=NNP=all
 Cayce=NNP=all
 Cayden=NNP=all
+Cayenne=NNP=all
 Cayes=NNP=all
 Cayley=NNP=all
 Cayman=Cayman/NNP,Caymans/NNPS=all
@@ -5023,6 +5073,7 @@ Celaya=NNP=all
 Celebes=NNP=all
 Celebrex=NNP=all
 Celeste=NNP=all
+Celgene=NNP=all
 Celia=NNP=all
 Celina=NNP=all
 Celine=NNP=all
@@ -5163,6 +5214,7 @@ Chao=NNP=all
 Chaoan=NNP=all
 Chapel=NNP=all
 Chaplin=NNP=all
+Chaplinesque=JJ=all
 Chapman=NNP=all
 Chapo=NNP=all
 Chappell=NNP=all
@@ -5220,6 +5272,7 @@ Chatswood=NNP=all
 Chattahoochee=NNP=all
 Chattanooga=NNP=all
 Chatterjee=NNP=all
+Chatterley=NNP=all
 Chatterton=NNP=all
 Chaturthi=NNP=all
 Chaucer=NNP=all
@@ -5279,6 +5332,7 @@ Chenab=NNP=all
 Cheney=NNP=all
 Cheng=NNP=all
 Chengchow=NNP=all
+Chengdu=NNP=all
 Chengteh=NNP=all
 Chengtu=NNP=all
 Chennai=NNP=all
@@ -5309,6 +5363,7 @@ Cheshvan=NNP=all
 Chesley=NNP=all
 Chessa=NNP=all
 Chester=NNP=all
+Chesterfield=NNP=all
 Chesterton=Chesterton/NNP,Chesterton/NNPS=all
 Cheswick=NNP=all
 Chetnik=NNP=all
@@ -5438,12 +5493,14 @@ Chomsky=Chomsky/JJ=all
 Chomsky=Chomsky/NNP=all
 Chong=NNP=all
 Chongjin=NNP=all
+Chongqing=NNP=all
 Chonju=NNP=all
 Chopin=NNP=all
 Chordata=NNP=all
 Chorley=NNP=all
 Chorotega=NNP=all
 Chosen=NNP=all
+Chou=NNP=all
 Choudhury=NNP=all
 Chowchilla=NNP=all
 Chowdhury=NNP=all
@@ -5675,6 +5732,7 @@ Cleve=NNP=all
 Cleveland=NNP=all
 Clevelander=Clevelander/NNP,Clevelanders/NNPS=all
 Cleves=NNP=all
+Cliburn=NNP=all
 Clichy=NNP=all
 ClickFunnels=NNP=all
 Cliff=NNP=all
@@ -5879,6 +5937,7 @@ Communism=Communism/NNP,Communisms/NNPS=all
 Communist=Communist/NNP,Communists/NNPS=all
 Como=NNP=all
 Comondú=NNP=all
+Comoran=NNP=all
 Comorin=NNP=all
 Comoros=NNP=all
 Compaq=NNP=all
@@ -5943,6 +6002,7 @@ Connell=NNP=all
 Connellsville=NNP=all
 Connelly=NNP=all
 Conner=NNP=all
+Connery=NNP=all
 Connie=NNP=all
 Connolly=NNP=all
 Connor=Connor/NNP,Connors/NNPS=all
@@ -5955,6 +6015,7 @@ Conroe=NNP=all
 Conroy=NNP=all
 Cons=NNP=all
 Conservative=Conservative/NNP,Conservatives/NNPS=all
+Constable=NNP=all
 Constance=NNP=all
 Constancia=NNP=all
 Constant=NNP=all
@@ -6101,6 +6162,7 @@ Cory=NNP=all
 Corydon=NNP=all
 Coryell=NNP=all
 Cos=NNP=all
+Cosby=NNP=all
 Cosenza=NNP=all
 Cosgrave=NNP=all
 Cosgrove=NNP=all
@@ -6116,6 +6178,7 @@ Costello=NNP=all
 Costelloe=NNP=all
 Costermansville=NNP=all
 Costilla=NNP=all
+Costner=NNP=all
 Cosworth=NNP=all
 Cote=NNP=all
 Cotman=NNP=all
@@ -6211,6 +6274,7 @@ Creation=NNP=all
 Creator=NNP=all
 Crecy=NNP=all
 Cree=Cree/NN:U,Cree/NNP,Cree/NNPS,Crees/NNPS=all
+Creed=NNP=all
 Creek=Creek/NN:U,Creek/NNP,Creeks/NNPS=all
 Creekside=NNP=all
 Creeley=NNP=all
@@ -6226,6 +6290,7 @@ Crespo=NNP=all
 Cressey=NNP=all
 Cressida=NNP=all
 Cressy=NNP=all
+Crest=NNP=all
 Creston=NNP=all
 Crestview=NNP=all
 Crestwood=NNP=all
@@ -6305,6 +6370,7 @@ Crucis=NNP=all
 Cruella=NNP=all
 Cruickshank=NNP=all
 Cruikshank=NNP=all
+Cruise=NNP=all
 Crusoe=NNP=all
 Crustacea=NNP=all
 Crutcher=NNP=all
@@ -6315,6 +6381,7 @@ Créteil=NNP=all
 Ctenophora=NNP=all
 Ctesias=NNP=all
 Ctesiphon=NNP=all
+Cthulhu=NNP=all
 Ctrl=NN=all
 Cu=NNP=all
 Cuauhtémoc=NNP=all
@@ -6435,6 +6502,7 @@ Cytherea=NNP=all
 Cyzicus=NNP=all
 Czech=Czech/JJ=all
 Czech=Czech/NN:U,Czech/NNP,Czechs/NNPS=all
+Czechia=NNP=all
 Czechian=Czechian/JJ=all
 Czechian=Czechian/NNP,Czechians/NNPS=all
 Czechoslovak=Czechoslovak/JJ=all
@@ -6521,6 +6589,7 @@ DLS=NNP=all
 DM=DM/VB,DM'd/VBD,DMed/VBD,DMing/VBG,DM'd/VBN,DMed/VBN,DM/VBP,DMs/VBZ=all
 DM=DMs/NNS=all
 DMARC=NNP=all
+DMCA=NNP=all
 DMD=NNP=all
 DMG=DMG/NNP,DMGs/NNPS=all
 DMS=NNP=all
@@ -6561,6 +6630,8 @@ DUP=NNP=all
 DVC=NNP=all
 DVD=DVD/NNP,DVDs/NNPS=all
 DVM=DVM/NN,DVM/NNP,DVMs/NNS=all
+DVR=NNP=all
+DVRs=NNP=all
 DVS=NNP=all
 DW-TV=NNP=all
 DX=NNP=all
@@ -6605,10 +6676,12 @@ Dakar=NNP=all
 Dakin=NNP=all
 Dakota=Dakota/NN:U,Dakota/NNP,Dakotas/NNPS=all
 Daladier=NNP=all
+Dalai=NNP=all
 Dale=NNP=all
 Daley=NNP=all
 Dalhousie=NNP=all
 Dali=NNP=all
+Dalian=NNP=all
 Daliyah=NNP=all
 Dallapiccola=NNP=all
 Dallas=NNP=all
@@ -6648,6 +6721,7 @@ Danelaw=NNP=all
 Danforth=NNP=all
 Danfoss=NNP=all
 Dang=NNP=all
+Dangerfield=NNP=all
 Dani=NNP=all
 Dania=NNP=all
 Danica=NNP=all
@@ -6723,6 +6797,7 @@ Darry=NNP=all
 Darryl=NNP=all
 Darryn=NNP=all
 Dartford=NNP=all
+Darth=NNP=all
 Dartmoor=NNP=all
 Dartmouth=NNP=all
 Darton=NNP=all
@@ -6813,6 +6888,7 @@ Death=NNP=all
 Deauville=NNP=all
 Debbie=NNP=all
 Debby=NNP=all
+Debian=NNP=all
 Debora=NNP=all
 Deborah=NNP=all
 Debra=NNP=all
@@ -6916,6 +6992,7 @@ Denby=NNP=all
 Dendermonde=NNP=all
 Deneb=NNP=all
 Denebola=NNP=all
+Deng=NNP=all
 Denham=NNP=all
 Denis=Denis/NNP,Denes/NNPS=all
 Denise=NNP=all
@@ -6947,6 +7024,7 @@ Dermaptera=NNP=all
 Dermot=NNP=all
 Derrel=NNP=all
 Derrick=NNP=all
+Derrida=NNP=all
 Derry=NNP=all
 Dershowitz=NNP=all
 Derwent=NNP=all
@@ -7077,6 +7155,7 @@ Dike=NNP=all
 Dilbeek=NNP=all
 Dilbert=Dilbert/NNP,Dilberts/NNPS=all
 Dili=NNP=all
+Dillard=NNP=all
 Dillinger=NNP=all
 Dillingham=NNP=all
 Dillon=NNP=all
@@ -7110,6 +7189,7 @@ Dionysian=JJ=all
 Dionysius=NNP=all
 Dionysos=NNP=all
 Dionysus=NNP=all
+Diophantine=NNP=all
 Diophantus=NNP=all
 Dior=NNP=all
 Diptera=NNP=all
@@ -7165,6 +7245,7 @@ Docetism=Docetism/NNP,Docetisms/NNPS=all
 Docetist=Docetist/NNP,Docetists/NNPS=all
 Dockery=NNP=all
 Doctor=Doctor/NNP,Doctors/NNPS=all
+Doctorow=NNP=all
 DocuSign=NNP=all
 Dodd=NNP=all
 Doddridge=NNP=all
@@ -7201,6 +7282,7 @@ Dom=NNP=all
 Domenico=NNP=all
 Domett=NNP=all
 Domingo=NNP=all
+Dominguez=NNP=all
 Domini=NNP=all
 Dominic=NNP=all
 Dominica=NNP=all
@@ -7251,6 +7333,7 @@ Dončić=NNP=all
 Doodle=NNP=all
 Doolittle=NNP=all
 Doom=NNP=all
+Doonesbury=NNP=all
 DoorDash=NNP=all
 Doorn=NNP=all
 Doornik=NNP=all
@@ -7300,6 +7383,7 @@ Dotty=NNP=all
 Dou=NNP=all
 Douai=NNP=all
 Douala=NNP=all
+Douay=NNP=all
 Doubleday=NNP=all
 Doubs=NNP=all
 Doug=NNP=all
@@ -7495,6 +7579,7 @@ Durham=Durham/NNP,Durhams/NNPS=all
 Durkheim=NNP=all
 Durkin=NNP=all
 Duroc=Duroc/NNP,Durocs/NNPS=all
+Durocher=NNP=all
 Durrell=NNP=all
 Dursley=NNP=all
 Durston=NNP=all
@@ -7566,6 +7651,7 @@ ECC=NNP=all
 ECDC=NNP=all
 ECG=NNP=all
 ECM=NNP=all
+ECMAScript=NNP=all
 ECO=NNP=all
 ECOSOC=NNP=all
 ECS=NNP=all
@@ -7629,6 +7715,7 @@ ETD=NNP=all
 ETF=ETF/NN,ETF/NNP,ETFs/NNS=all
 ETH=NNP=all
 ETV=NNP=all
+EULA=noun=all
 EV=EV/NN,EV/NNP,EVs/NNS=all
 EVA=NNP=all
 EW=NNP=all
@@ -7829,6 +7916,7 @@ Eisenhower=NNP=all
 Eisenstein=NNP=all
 Eisk=NNP=all
 Eisleben=NNP=all
+Eisner=NNP=all
 Ekaterina=NNP=all
 Ekaterinburg=NNP=all
 Ekaterinodar=NNP=all
@@ -7840,6 +7928,7 @@ Elagabalus=NNP=all
 Elah=NNP=all
 Elaine=NNP=all
 Elam=NNP=all
+Elanor=NNP=all
 Elara=NNP=all
 Elastoplast=Elastoplast/NNP,Elastoplasts/NNPS=all
 Elba=Elba/NNP,Elbas/NNPS=all
@@ -8174,6 +8263,7 @@ Esbriet=NNP=all
 Esc=NNP=all
 Escanaba=NNP=all
 Escaut=NNP=all
+Escher=NNP=all
 Escherichia=NNP=all
 Eschscholtz=NNP=all
 Escitalopram=NNP=all
@@ -8513,6 +8603,7 @@ FTSE=NNP=all
 FUD=FUD/NNP,FUDs/NNPS=all
 FW=NN=all
 FWA=NNP=all
+FWIW=abbreviation=all
 FX=NN=all
 FYI=NNP=all
 Fabaceae=NNP=all
@@ -8538,6 +8629,7 @@ FaceTime=FaceTime/NNP=all
 FaceTime=verb=all
 Facebook=NNP=all
 Faenza=NNP=all
+Faeroe=NNP=all
 Faeroese=Faeroese/JJ=all
 Faeroese=Faeroese/NNP=all
 Fafnir=NNP=all
@@ -8546,6 +8638,7 @@ Fagan=NNP=all
 Fagen=NNP=all
 Fagin=Fagin/NNP,Fagins/NNPS=all
 Fahad=NNP=all
+Fahd=NNP=all
 Fahrenheit=Fahrenheit/JJ=all
 Fahrenheit=Fahrenheit/NNP,Fahrenheits/NNPS=all
 Fahrvergnügen=NN:U=all
@@ -8588,6 +8681,7 @@ Falstaff=NNP=all
 Falstaffian=JJ=all
 Falster=NNP=all
 Faludi=NNP=all
+Falwell=NNP=all
 Famagusta=NNP=all
 Fanagalo=NNP=all
 Fanfani=NNP=all
@@ -8629,6 +8723,7 @@ Farquhar=NNP=all
 Farr=NNP=all
 Farragut=NNP=all
 Farrah=NNP=all
+Farrakhan=NNP=all
 Farrell=NNP=all
 Farrington=NNP=all
 Farrokh=NNP=all
@@ -8743,6 +8838,7 @@ Ferrand=NNP=all
 Ferrara=NNP=all
 Ferrari=NNP=all
 Ferraris=NNPS=all
+Ferraro=NNP=all
 Ferreira=NNP=all
 Ferrell=NNP=all
 Ferrer=NNP=all
@@ -8872,6 +8968,7 @@ Flathead=Flathead/NNP,Flatheads/NNPS=all
 Flaticon=NNP=all
 Flatpak=NNP=all
 Flattr=NNP=all
+Flaubert=NNP=all
 Flavia=NNP=all
 Flavio=NNP=all
 Flavius=NNP=all
@@ -8901,6 +8998,7 @@ Flickr=NNP=all
 Flin=NNP=all
 Flint=NNP=all
 Flintshire=NNP=all
+Flintstones=NNP=all
 Flipboard=NNP=all
 Flipgrid=NNP=all
 Flipkart=NNP=all
@@ -9003,6 +9101,7 @@ Fortuna=NNP=all
 Fortunato=NNP=all
 Fortune=NNP=all
 Foss=NNP=all
+Fosse=NNP=all
 Foster=NNP=all
 Fostoria=NNP=all
 Fotheringhay=NNP=all
@@ -9197,6 +9296,7 @@ Friuli=NNP=all
 Friulian=Friulian/JJ=all
 Friulian=Friulian/NN:U,Friulian/NNP,Friulians/NNPS=all
 Frobisher=NNP=all
+Frodo=NNP=all
 Froebel=NNP=all
 Froissart=NNP=all
 Frome=NNP=all
@@ -9226,6 +9326,7 @@ Fuengirola=NNP=all
 Fuenlabrada=NNP=all
 Fugger=NNP=all
 Fuji=NNP=all
+Fujian=NNP=all
 Fujiko=NNP=all
 Fujio=NNP=all
 Fujitsu=NNP=all
@@ -9234,6 +9335,7 @@ Fujiyama=NNP=all
 Fukien=NNP=all
 Fukuoka=NNP=all
 Fukushima=NNP=all
+Fukuyama=NNP=all
 Fulani=Fulani/JJ=all
 Fulani=Fulani/NNP,Fulanis/NNPS=all
 Fulcher=NNP=all
@@ -9245,13 +9347,16 @@ Fullwood=NNP=all
 Fulmer=NNP=all
 Fulton=NNP=all
 Fultonville=NNP=all
+Funafuti=NNP=all
 Funchal=NNP=all
 Fundy=NNP=all
+Furman=NNP=all
 Furness=NNP=all
 Furnivall=NNP=all
 Fuseli=NNP=all
 Fushih=NNP=all
 Fushun=NNP=all
+Fuzhou=NNP=all
 Fylde=NNP=all
 Fyn=NNP=all
 Fyodor=NNP=all
@@ -9387,6 +9492,7 @@ Galatia=NNP=all
 Galatian=Galatian/JJ=all
 Galatian=Galatian/NNP,Galatians/NNPS=all
 Galatians=NNP=all
+Galaxy=NNP=all
 Galba=NNP=all
 Galbraith=NNP=all
 Gale=NNP=all
@@ -9419,6 +9525,7 @@ Gallicism=Gallicism/NNP,Gallicisms/NNPS=all
 Gallicization|Gallicisation=noun_UN=us,ca,gb|gb,au,nz,za
 Gallicize|Gallicise=verb=us,ca,gb|gb,au,nz,za
 Gallipoli=NNP=all
+Gallo=NNP=all
 Galloway=Galloway/NNP,Galloways/NNPS=all
 Gallucci=NNP=all
 Gallup=NNP=all
@@ -9449,6 +9556,7 @@ Gambrinus=NNP=all
 GameStop=NNP=all
 Ganapati=NNP=all
 Gand=NNP=all
+Gandalf=NNP=all
 Gandhara=Gandhara/JJ=all
 Gandhara=Gandhara/NNP=all
 Gandhi=NNP=all
@@ -9503,6 +9611,7 @@ Garuda=NNP=all
 Garvey=NNP=all
 Garvin=NNP=all
 Gary=NNP=all
+Garza=NNP=all
 Garzon=NNP=all
 Garífuna=NNP=all
 Gascoigne=NNP=all
@@ -9585,6 +9694,7 @@ Geely=NNP=all
 Geena=NNP=all
 Geetha=NNP=all
 Geez=NNP=all
+Geffen=NNP=all
 Gehenna=Gehenna/NNP,Gehennas/NNPS=all
 Gehrig=NNP=all
 Geiger=NNP=all
@@ -9882,6 +9992,7 @@ Glendon=NNP=all
 Glendora=NNP=all
 Glendower=NNP=all
 Glengarry=Glengarry/NNP,Glengarries/NNPS=all
+Glenlivet=NNP=all
 Glenn=NNP=all
 Glenna=NNP=all
 Glenrothes=NNP=all
@@ -9918,6 +10029,7 @@ GoNoodle=NNP=all
 GoPro=NNP=all
 GoToMeeting=NNP=all
 GoTranscript=NNP=all
+Goa=NNP=all
 Gobelin=Gobelin/JJ=all
 Gobelin=Gobelin/NNP,Gobelins/NNPS=all
 Gobi=NNP=all
@@ -10003,6 +10115,7 @@ González=NNP=all
 Gonçalves=NNP=all
 Goober=NNP=all
 Good=NNP=all
+Goodall=NNP=all
 Goode=NNP=all
 Goodhue=NNP=all
 Gooding=NNP=all
@@ -10014,6 +10127,7 @@ Goodwin=NNP=all
 Goodyear=NNP=all
 Google=NNP=all
 Goole=NNP=all
+Gopher=NNP=all
 Gopinath=NNP=all
 Gopuff=NNP=all
 Gorakhpur=NNP=all
@@ -10083,6 +10197,7 @@ Gracenote=NNP=all
 Graces=Graces/NNP,Graces/NNPS=all
 Graciano=NNP=all
 Gracie=NNP=all
+Graciela=NNP=all
 Gradiška=NNP=all
 Grady=NNP=all
 Graeco-Roman=JJ=all
@@ -10169,6 +10284,7 @@ Greenhill=NNP=all
 Greenhills=NNP=all
 Greenland=NNP=all
 Greenlander=Greenlander/NNP,Greenlanders/NNPS=all
+Greenlandic=NNP=all
 Greenleaf=NNP=all
 Greenock=NNP=all
 Greenpeace=NNP=all
@@ -10284,6 +10400,7 @@ Guanacaste=NNP=all
 Guanajuato=NNP=all
 Guangdong=NNP=all
 Guangzhou=NNP=all
+Guantanamo=NNP=all
 Guantánamo=NNP=all
 Guarani=Guarani/NN:U,Guarani/NNP,Guaranis/NNPS=all
 Guaraní=NNP=all
@@ -10342,6 +10459,8 @@ Guinness=NNP=all
 Guion=NNP=all
 Guiscard=NNP=all
 Guise=NNP=all
+Guiyang=NNP=all
+Guizhou=NNP=all
 Guizot=NNP=all
 Gujarat=NNP=all
 Gujarati=Gujarati/JJ=all
@@ -10598,12 +10717,14 @@ Hamadan=NNP=all
 Hamal=NNP=all
 Hamamatsu=NNP=all
 Haman=NNP=all
+Hamas=NNP=all
 Hambleton=NNP=all
 Hamburg=Hamburg/NNP,Hamburgs/NNPS=all
 Hamden=NNP=all
 Hamelin=NNP=all
 Hamhung=NNP=all
 Hamid=NNP=all
+Hamill=NNP=all
 Hamilton=NNP=all
 Hamiltonian=Hamiltonian/JJ=all
 Hamiltonian=Hamiltonian/NNP,Hamiltonians/NNPS=all
@@ -10839,6 +10960,7 @@ Haverhill=NNP=all
 Havering=NNP=all
 Haverstraw=NNP=all
 Havre=NNP=all
+Haw=NNP=all
 Hawaii=NNP=all
 Hawaiian=Hawaiian/JJ=all
 Hawaiian=Hawaiian/NN:U,Hawaiian/NNP,Hawaiians/NNPS=all
@@ -10857,6 +10979,7 @@ Hayabusa=NNP=all
 Hayden=NNP=all
 Haydn=NNP=all
 Haydon=NNP=all
+Hayek=NNP=all
 Hayes=NNP=all
 Hayesville=NNP=all
 Haylee=NNP=all
@@ -10871,6 +10994,7 @@ Haysville=NNP=all
 Hayton=NNP=all
 Hayward=NNP=all
 Haywood=NNP=all
+Hayworth=NNP=all
 Hazel=NNP=all
 Hazelwood=NNP=all
 Hazlehurst=NNP=all
@@ -10897,6 +11021,7 @@ Heaviside=NNP=all
 Heb=NNP=all
 Hebbel=NNP=all
 Hebden=NNP=all
+Hebei=NNP=all
 Heber=NNP=all
 Hebert=NNP=all
 Hebraic=JJ=all
@@ -10927,6 +11052,7 @@ Heep=NNP=all
 Heerenveen=NNP=all
 Heerhugowaard=NNP=all
 Heerlen=NNP=all
+Hefner=NNP=all
 Hegarty=NNP=all
 Hegel=NNP=all
 Hegelian=Hegelian/JJ=all
@@ -10940,6 +11066,7 @@ Heidi=NNP=all
 Heifetz=NNP=all
 Heilbronn=NNP=all
 Heilman=NNP=all
+Heilongjiang=NNP=all
 Heilungkiang=NNP=all
 Heimdall=NNP=all
 Heimlich=NNP=all
@@ -10968,6 +11095,7 @@ Helga=NNP=all
 Helgenæs=NNP=all
 Helgoland=NNP=all
 Helichrysum=NNP=all
+Helicon=NNP=all
 Heligoland=NNP=all
 Heliochrome=NNP=all
 Heliogabalus=NNP=all
@@ -11016,6 +11144,7 @@ Hempfield=NNP=all
 Hemphill=NNP=all
 Hempstead=NNP=all
 Hemsworth=NNP=all
+Henan=NNP=all
 Hench=NNP=all
 Henderson=NNP=all
 Hendersonville=NNP=all
@@ -11080,6 +11209,7 @@ Herby=NNP=all
 Hercegovina=NNP=all
 Herceptin=NNP=all
 Herculaneum=NNP=all
+Herculean=JJ=all
 Hercules=NNP=all
 Hercynian=JJ=all
 Herdwick=NNP=all
@@ -11145,6 +11275,7 @@ Hertha=NNP=all
 Hertogenbosch=NNP=all
 Hertz=NNP=all
 Hertzog=NNP=all
+Hertzsprung=NNP=all
 Hervey=NNP=all
 Herzegovina=NNP=all
 Herzegovinian=Herzegovinian/JJ=all
@@ -11167,6 +11298,7 @@ Hessian=Hessian/JJ=all
 Hessian=Hessian/NNP,Hessians/NNPS=all
 Hester=NNP=all
 Hestia=NNP=all
+Heston=NNP=all
 Hesychast=NNP=all
 Heteromeles=NNP=all
 Hetherington=NNP=all
@@ -11187,6 +11319,7 @@ Heyerdahl=NNP=all
 Heyman=NNP=all
 Heysham=NNP=all
 Heywood=NNP=all
+Hezbollah=NNP=all
 Hezekiah=NNP=all
 Hf=NNP=all
 Hg=NNP=all
@@ -11377,9 +11510,11 @@ Hogg=NNP=all
 Hogmanay=Hogmanay/NNP,Hogmanays/NNPS=all
 Hogsmeade=NNP=all
 Hogue=NNP=all
+Hogwarts=NNP=all
 Hohenlinden=NNP=all
 Hohenlohe=NNP=all
 Hohenzollern=Hohenzollern/NNP,Hohenzollerns/NNPS=all
+Hohhot=NNP=all
 Hokan=NNP=all
 Hokkaido=NNP=all
 Hokusai=NNP=all
@@ -11400,6 +11535,7 @@ Hollander=Hollander/NNP,Hollanders/NNPS=all
 Hollandia=NNP=all
 Hollands=NNP=all
 Hollenbach=NNP=all
+Holley=NNP=all
 Hollie=NNP=all
 Holling=NNP=all
 Hollingsworth=NNP=all
@@ -11414,6 +11550,7 @@ Hollywood=NNP=all
 Holman=NNP=all
 Holmes=NNP=all
 Holocaine=NNP=all
+Holocaust=NNP=all
 Holocene=Holocene/JJ=all
 Holocene=Holocene/NNP=all
 Holofernes=NNP=all
@@ -11577,6 +11714,7 @@ Huawei=NNP=all
 HubSpot=NNP=all
 Hubbard=Hubbard/NNP,Hubbards/NNPS=all
 Hubble=NNP=all
+Hubei=NNP=all
 Huber=NNP=all
 Huberman=NNP=all
 Hubermann=NNP=all
@@ -11627,6 +11765,7 @@ Humism=NNP=all
 Hummel=NNP=all
 Humperdinck=NNP=all
 Humphrey=NNP=all
+Humphreys=NNP=all
 Humphries=NNP=all
 Humphry=NNP=all
 Hun=Hun/NNP,Huns/NNPS=all
@@ -11824,6 +11963,7 @@ IRS=NNP=all
 IS=NNP=all
 ISACA=NNP=all
 ISBN=ISBN/NN,ISBN/NNP,ISBNs/NNS=all
+ISIS=NNP=all
 ISN=NNP=all
 ISO=NNP=all
 ISP=noun=all
@@ -11839,6 +11979,7 @@ IUCN=NNP=all
 IUD=NNP=all
 IUPAC=NNP=all
 IV=IV/NNP,IVs/NNPS=all
+IVF=NNP=all
 IXL=NNP=all
 IaaS=NN:U=all
 Iago=NNP=all
@@ -11927,6 +12068,7 @@ Ille-et-Vilaine=NNP=all
 Illimani=NNP=all
 Illinois=Illinois/JJ=all
 Illinois=Illinois/NNP=all
+Illuminati=NNP=all
 Illyria=NNP=all
 Illyrian=Illyrian/JJ=all
 Illyrian=Illyrian/NNP,Illyrians/NNPS=all
@@ -12086,6 +12228,7 @@ Ipoh=NNP=all
 Ipsambul=NNP=all
 Ipsus=NNP=all
 Ipswich=NNP=all
+Iqaluit=NNP=all
 Iqbal=NNP=all
 Iquique=NNP=all
 Iquitos=NNP=all
@@ -12180,6 +12323,8 @@ Islamist=Islamist/NNP,Islamists/NNPS=all
 Islamite=NNP=all
 Islamization|Islamisation=noun_UN=us,ca,gb|gb,au,nz,za
 Islamize|Islamise=verb=us,ca,gb|gb,au,nz,za
+Islamophobia=noun_U=all
+Islamophobic=JJ=all
 Island=NNP=all
 Islay=NNP=all
 Isle=NNP=all
@@ -12415,6 +12560,7 @@ Jana=NNP=all
 Janacek=NNP=all
 Jane=NNP=all
 Janeiro=NNP=all
+Janell=NNP=all
 Janelle=NNP=all
 Janesville=NNP=all
 Janet=NNP=all
@@ -12523,6 +12669,7 @@ Jed=NNP=all
 Jedburgh=NNP=all
 Jeddah=NNP=all
 Jedediah=NNP=all
+Jedi=NNP=all
 Jeep=Jeep/NNP,Jeeps/NNPS=all
 Jeeps=NNP=all
 Jeevan=NNP=all
@@ -12641,8 +12788,11 @@ Jhelum=NNP=all
 Jianfeng=NNP=all
 Jiang=NNP=all
 Jiangling=NNP=all
+Jiangsu=NNP=all
+Jiangxi=NNP=all
 Jibuti=NNP=all
 Jidda=NNP=all
+Jilin=NNP=all
 Jill=Jill/NNP,Jills/NNPS=all
 Jillian=NNP=all
 Jillie=NNP=all
@@ -12659,6 +12809,7 @@ Jimmie=NNP=all
 Jimmy=NNP=all
 Jiménez=NNP=all
 Jin=NNP=all
+Jinan=NNP=all
 Jing=NNP=all
 Jinja=NNP=all
 Jinnah=NNP=all
@@ -12691,6 +12842,7 @@ Jocelin=NNP=all
 Jocelyn=NNP=all
 Jochen=NNP=all
 Jock=NNP=all
+Jockey=NNP=all
 Jodhpur=NNP=all
 Jodi=NNP=all
 Jodie=NNP=all
@@ -12965,6 +13117,7 @@ KPI=noun=all
 KPMG=NN:U=all
 KRP=NNP=all
 KRS-One=NNP=all
+KS=abbreviation=all
 KTLA=NNP=all
 KV=NNP=all
 KVLY-TV=NNP=all
@@ -13092,6 +13245,7 @@ Kaohsiung=NNP=all
 Kaolack=NNP=all
 Kaplan=NNP=all
 Kapolei=NNP=all
+Kaposi=NNP=all
 Kara-Kalpak=NNP=all
 Kara=NNP=all
 Karabakh=NNP=all
@@ -13142,6 +13296,7 @@ Kashmiris=NNPS=all
 Kasia=NNP=all
 Kasich=NNP=all
 Kaskaskia=NNP=all
+Kasparov=NNP=all
 Kaspersky=NNP=all
 Kasprowicz=NNP=all
 Kassa=NNP=all
@@ -13155,6 +13310,7 @@ Katar=NNP=all
 Katarina=NNP=all
 Katarzyna=NNP=all
 Kate=NNP=all
+Katelyn=NNP=all
 Katelynn=NNP=all
 Katerina=NNP=all
 Kateryna=NNP=all
@@ -13250,6 +13406,7 @@ Keewatin=NNP=all
 Kegan=NNP=all
 Keighley=NNP=all
 Keijo=NNP=all
+Keillor=NNP=all
 Keily=NNP=all
 Keir=NNP=all
 Keira=NNP=all
@@ -13371,6 +13528,7 @@ Kev=NNP=all
 Keven=NNP=all
 Keverne=NNP=all
 Kevin=NNP=all
+Kevorkian=NNP=all
 Kew=NNP=all
 Kewanee=NNP=all
 Kewaunee=NNP=all
@@ -13398,6 +13556,7 @@ Kharkiv=NNP=all
 Kharkov=NNP=all
 Khartoum=NNP=all
 Khashoggi=NNP=all
+Khayyam=NNP=all
 Khelat=NNP=all
 Kherson=NNP=all
 Khiva=NNP=all
@@ -13410,6 +13569,7 @@ Khoi=NNP=all
 Khoikhoi=NNP=all
 Khoisan=Khoisan/JJ=all
 Khoisan=Khoisan/NNP=all
+Khomeini=NNP=all
 Khosla=NNP=all
 Khotan=NNP=all
 Khrushchev=NNP=all
@@ -13620,6 +13780,8 @@ Kohl=NNP=all
 Kohler=NNP=all
 Kohn=NNP=all
 Kohtla-Järve=NNP=all
+Koizumi=NNP=all
+Kojak=NNP=all
 Kokand=NNP=all
 Kokomo=NNP=all
 Kokoschka=NNP=all
@@ -13718,6 +13880,7 @@ Kremlin=NNP=all
 Kremlinologist=Kremlinologist/NNP,Kremlinologists/NNPS=all
 Kremlinology=Kremlinology/NNP,Kremlinologies/NNPS=all
 Krems=NNP=all
+Kresge=NNP=all
 Kreuzberg=NNP=all
 Krewson=NNP=all
 Krieger=NNP=all
@@ -13749,6 +13912,7 @@ Kristof=NNP=all
 Kristopher=NNP=all
 Kristy=NNP=all
 Kroemer=NNP=all
+Kroger=NNP=all
 Krogstad=NNP=all
 Kronecker=NNP=all
 Kronos=NNP=all
@@ -13879,6 +14043,7 @@ Kęstutis=NNP=all
 Kırklareli=NNP=all
 Kŭrdzhali=NNP=all
 L-shaped=JJ=all
+L=abbreviation=all
 LA=NNP=all
 LAHC=NNP=all
 LAN=NNP=all
@@ -14092,6 +14257,7 @@ Langdon=NNP=all
 Lange=NNP=all
 Langenfeld=NNP=all
 Langer=NNP=all
+Langerhans=NNP=all
 Langford=NNP=all
 Langham=NNP=all
 Langhorne=NNP=all
@@ -14106,6 +14272,7 @@ LanguageTool=NNP=all
 Languedoc=NNP=all
 Lanier=NNP=all
 Lanka=NNP=all
+Lankan=NNP=all
 Lankester=NNP=all
 Lannister=NNP=all
 Lanny=NNP=all
@@ -14162,6 +14329,7 @@ Lasker=NNP=all
 Lassa=NNP=all
 Lassalle=NNP=all
 Lassell=NNP=all
+Lassen=NNP=all
 LastPass=NNP=all
 Lastex=NNP=all
 Laszlo=NNP=all
@@ -14482,6 +14650,7 @@ Lew=NNP=all
 Lewandowski=NNP=all
 Lewes=NNP=all
 Lewin=NNP=all
+Lewinsky=NNP=all
 Lewis=NNP=all
 Lewisburg=NNP=all
 Lewisham=NNP=all
@@ -14576,6 +14745,7 @@ Lili=NNP=all
 Lilia=NNP=all
 Liliaceae=NNP=all
 Lilian=NNP=all
+Liliana=NNP=all
 Lilianna=NNP=all
 Lilibet=NNP=all
 Lilibeth=NNP=all
@@ -14597,6 +14767,7 @@ Lily=NNP=all
 Lim=NNP=all
 Lima=NNP=all
 Limassol=NNP=all
+Limbaugh=NNP=all
 Limber=NNP=all
 Limbourg=NNP=all
 Limburg=Limburg/NNP,Limburgs/NNPS=all
@@ -14689,6 +14860,7 @@ Liss=NNP=all
 Lissette=NNP=all
 Lister=NNP=all
 Listerism=NNP=all
+Liston=NNP=all
 Liszt=NNP=all
 Litany=NNP=all
 Litchfield=NNP=all
@@ -14856,6 +15028,7 @@ Lothair=NNP=all
 Lothario=Lothario/NNP,Lotharios/NNPS=all
 Lotharios=NNPS=all
 Lothians=NNP=all
+Lott=NNP=all
 Lotta=NNP=all
 Lottie=NNP=all
 Lotty=NNP=all
@@ -15401,6 +15574,7 @@ Magdalenian=Magdalenian/JJ=all
 Magdalenian=Magdalenian/NNP=all
 Magdeburg=NNP=all
 Magellan=NNP=all
+Magellanic=NNP=all
 Magento=NNP=all
 Maggie=NNP=all
 Maggiore=NNP=all
@@ -15408,6 +15582,7 @@ Maghreb=NNP=all
 Maghrib=NNP=all
 Magi=NNP=all
 Magill=NNP=all
+Maginot=NNP=all
 Maglite=Maglite/NNP,Maglites/NNPS=all
 Magna=NNP=all
 Magnificat=Magnificat/NNP,Magnificats/NNPS=all
@@ -15484,6 +15659,7 @@ Majid=NNP=all
 Major=NNP=all
 Majorca=NNP=all
 Majunga=NNP=all
+Majuro=NNP=all
 Makalu=NNP=all
 Makassar=NNP=all
 Makaton=NNP=all
@@ -15496,6 +15672,7 @@ Makovich=NNP=all
 Maksym=NNP=all
 Malabar=NNP=all
 Malabo=NNP=all
+Malacca=NNP=all
 Malaccan=Malaccan/JJ=all
 Malaccan=Malaccan/NNP=all
 Malachi=NNP=all
@@ -15522,6 +15699,7 @@ Malchus=NNP=all
 Malcolm=NNP=all
 Malden=NNP=all
 Maldivan=NNP=all
+Maldive=NNP=all
 Maldives=Maldives/NNP,Maldives/NNPS=all
 Maldivian=Maldivian/NNP,Maldivians/NNPS=all
 Maldon=NNP=all
@@ -15836,6 +16014,7 @@ Maronite=Maronite/NNP,Maronites/NNPS=all
 Maros=NNP=all
 Marple=NNP=all
 Marquand=NNP=all
+Marquesas=NNP=all
 Marquette=NNP=all
 Marquez=NNP=all
 Marquis=NNP=all
@@ -15921,6 +16100,7 @@ Marysville=NNP=all
 Maryville=NNP=all
 María=NNP=all
 Masaccio=NNP=all
+Masada=NNP=all
 Masai=Masai/NN:U,Masai/NNP,Masais/NNPS=all
 Masan=NNP=all
 Masaryk=NNP=all
@@ -15957,6 +16137,7 @@ Massillon=NNP=all
 Massimo=NNP=all
 Massorah=NNP=all
 Master=Master/NNP,Masters/NNPS=all
+MasterCard=NNP=all
 Mastercard=NNP=all
 Masuria=NNP=all
 Mata=NNP=all
@@ -16294,6 +16475,7 @@ McInnerny=NNP=all
 McInnes=NNP=all
 McIntosh=McIntosh/NNP,McIntoshes/NNPS=all
 McIntyre=NNP=all
+McJob=NNP=all
 McKain=NNP=all
 McKay=NNP=all
 McKean=NNP=all
@@ -16603,6 +16785,7 @@ Messapian=NNP=all
 Messeigneurs=NNP=all
 Messene=NNP=all
 Messenia=NNP=all
+Messerschmidt=NNP=all
 Messerschmitt=NNP=all
 Messi=NNP=all
 Messiaen=NNP=all
@@ -16646,6 +16829,7 @@ Meyerhof=NNP=all
 Meyers=NNP=all
 Meyerson=NNP=all
 Mg=NNP=all
+MiG=NNP=all
 Mia=NNP=all
 Miami-Dade=NNP=all
 Miami=Miami/NNP,Miamis/NNPS=all
@@ -16795,6 +16979,7 @@ Milquetoast=Milquetoast/NNP,Milquetoasts/NNPS=all
 Milson=NNP=all
 Miltiades=NNP=all
 Milton=NNP=all
+Miltonian=JJ=all
 Miltonic=JJ=all
 Miltown=NNP=all
 Milwaukee=NNP=all
@@ -16904,6 +17089,7 @@ Mitra=NNP=all
 Mitsubishi=NNP=all
 Mitsuki=NNP=all
 Mitterrand=NNP=all
+Mitty=NNP=all
 Mitzi=NNP=all
 Mixtec=Mixtec/NNP,Mixtecs/NNPS=all
 Miyamoto=NNP=all
@@ -16988,6 +17174,8 @@ Moldau=NNP=all
 Moldavia=NNP=all
 Moldavian=Moldavian/NN:U,Moldavian/NNP,Moldavians/NNPS=all
 Moldova=NNP=all
+Moldovan=JJ=all
+Moldovan=noun=all
 Moliere=NNP=all
 Molina=NNP=all
 Moline=NNP=all
@@ -17169,6 +17357,7 @@ Morgen=NNP=all
 Morgenthaler=NNP=all
 Moria=NNP=all
 Moriarty=NNP=all
+Morin=NNP=all
 Morisco=Morisco/JJ=all
 Morisco=Morisco/NNP,Moriscoes/NNPS,Moriscos/NNPS=all
 Morison=NNP=all
@@ -17197,6 +17386,7 @@ Morriss=NNP=all
 Morrissey=NNP=all
 Morristown=NNP=all
 Morrisville=NNP=all
+Morrow=NNP=all
 Mors=NNP=all
 Morse=NNP=all
 Mort=NNP=all
@@ -17270,6 +17460,7 @@ Mozilla=NNP=all
 Mr=Mr/NNP,Mrs/NNPS=all
 Mrs=NNP=all
 Msgr=NNP=all
+Mubarak=NNP=all
 Mucomyst=NNP=all
 Mudéjar=NNP=all
 Mudéjares=NNP=all
@@ -17308,6 +17499,7 @@ Muller=NNP=all
 Mullett=NNP=all
 Mulligan=NNP=all
 Mullins=NNP=all
+Mulroney=NNP=all
 Multan=NNP=all
 Multics=Multics/NNP,Multicses/NNPS=all
 Multisync=Multisync/JJ=all
@@ -17631,6 +17823,7 @@ Naples=NNP=all
 Napoleon=Napoleon/NNP,Napoleons/NNPS=all
 Napoleonic=JJ=all
 Napoleón=NNP=all
+Napster=NNP=all
 Nara=NNP=all
 Naraka=NNP=all
 Narayan=NNP=all
@@ -17704,6 +17897,7 @@ Nazarene=Nazarene/JJ=all
 Nazarene=Nazarene/NNP,Nazarenes/NNPS=all
 Nazareth=NNP=all
 Nazarite=Nazarite/NNP,Nazarites/NNPS=all
+Nazca=NNP=all
 Naze=NNP=all
 Nazi=Nazi/JJ=all
 Nazi=Nazi/NNP,Nazis/NNPS=all
@@ -17863,6 +18057,7 @@ Neville=NNP=all
 Nevin=NNP=all
 Nevis=NNP=all
 Nevski=NNP=all
+Nevsky=NNP=all
 New=New/JJ=all
 New=New/NNP=all
 NewRelic=NNP=all
@@ -17940,6 +18135,7 @@ Nicko=NNP=all
 Nickolas=NNP=all
 Nicky=NNP=all
 Nico=NNP=all
+Nicobar=NNP=all
 Nicobarese=NNP=all
 Nicodemus=NNP=all
 Nicol=NNP=all
@@ -18186,6 +18382,7 @@ Novokuznetsk=NNP=all
 Novosibirsk=NNP=all
 Nowata=NNP=all
 Nowitzki=NNP=all
+Noyce=NNP=all
 Noyes=NNP=all
 Noémie=NNP=all
 Np=NNP=all
@@ -18329,6 +18526,7 @@ Ob=NNP=all
 Obad=NNP=all
 Obadiah=NNP=all
 Obama=NNP=all
+Obamacare=NNP=all
 Oban=NNP=all
 Obelix=NNP=all
 Oberammergau=NNP=all
@@ -18534,6 +18732,7 @@ Ontarian=Ontarian/JJ=all
 Ontarian=Ontarian/NNP,Ontarians/NNPS=all
 Ontario=NNP=all
 Oomycetes=NNP=all
+Oort=NNP=all
 Oosterhout=NNP=all
 Opa-locka=NNP=all
 Opal=NNP=all
@@ -18559,6 +18758,7 @@ Opera=NNP=all
 Ophelia=NNP=all
 Ophidia=NNP=all
 Ophir=NNP=all
+Ophiuchus=NNP=all
 Ophiuroidea=NNP=all
 Ophélie=NNP=all
 Oporto=NNP=all
@@ -18577,6 +18777,7 @@ Orangeism=Orangeism/NNP,Orangeisms/NNPS=all
 Orangeman=Orangeman/NNP,Orangemen/NNPS=all
 Orangemen=NNPS=all
 Orazio=NNP=all
+Orbison=NNP=all
 Orbán=NNP=all
 Orcus=NNP=all
 Ordovician=Ordovician/JJ=all
@@ -18697,6 +18898,7 @@ Ostrava=NNP=all
 Ostrogoth=Ostrogoth/NNP,Ostrogoths/NNPS=all
 Ostrogothic=JJ=all
 Ostwald=NNP=all
+Osvaldo=NNP=all
 Oswald=NNP=all
 Oswaldo=NNP=all
 Oswego=NNP=all
@@ -18856,6 +19058,7 @@ PacifiCorp=NNP=all
 Pacific=Pacific/JJ=all
 Pacific=Pacific/NNP=all
 Pacifica=NNP=all
+Pacino=NNP=all
 Packard=NNP=all
 Paco=NNP=all
 Pacquiao=NNP=all
@@ -18995,6 +19198,7 @@ Papua=NNP=all
 Par=NNP=all
 Parabellum=Parabellum/NNP,Parabellums/NNPS=all
 Paracelsus=NNP=all
+Paraclete=NNP=all
 Paraense=NNP=all
 Paragould=NNP=all
 Paraguay=NNP=all
@@ -19142,6 +19346,7 @@ Paulsen=NNP=all
 Paulson=NNP=all
 Paulus=NNP=all
 Pavan=NNP=all
+Pavarotti=NNP=all
 Pavel=NNP=all
 Pavlo=NNP=all
 Pavlodar=NNP=all
@@ -19256,6 +19461,7 @@ Penrose=NNP=all
 Pensacola=NNP=all
 Pentagon=NNP=all
 Pentateuch=NNP=all
+Pentax=NNP=all
 Pentecost=Pentecost/NNP,Pentecosts/NNPS=all
 Pentecostal=Pentecostal/JJ=all
 Pentecostal=Pentecostal/NNP,Pentecostals/NNPS=all
@@ -19398,6 +19604,7 @@ Pfeffer=NNP=all
 Pfeifer=NNP=all
 Pfeiffer=NNP=all
 Pfister=NNP=all
+Pfizer=NNP=all
 Pflugerville=NNP=all
 Pforzheim=NNP=all
 Ph=NNP=all
@@ -19566,6 +19773,7 @@ Pinsk=NNP=all
 Pinter=NNP=all
 Pinterest=NNP=all
 Pinto=NNP=all
+Pinyin=NNP=all
 Pioneer=NNP=all
 Piotr=NNP=all
 Pipa=NNP=all
@@ -19587,6 +19795,7 @@ Pisistratus=NNP=all
 Pissarro=NNP=all
 Pistoia=NNP=all
 Pitbull=NNP=all
+Pitcairn=NNP=all
 Pitchford=NNP=all
 Pithecanthropus=NNP=all
 Pitt=NNP=all
@@ -19608,6 +19817,7 @@ Plainsboro=NNP=all
 Plainview=NNP=all
 Planck=NNP=all
 Planckian=JJ=all
+Plano=NNP=all
 Plantagenet=Plantagenet/NNP,Plantagenets/NNPS=all
 Plaquenil=NNP=all
 Plassey=NNP=all
@@ -19670,6 +19880,7 @@ PoW=noun=all
 Pocahontas=NNP=all
 Pocatello=NNP=all
 Pocklington=NNP=all
+Pocono=NNP=all
 Podgorica=NNP=all
 Podolsk=NNP=all
 Poe=NNP=all
@@ -19812,6 +20023,7 @@ Potomac=NNP=all
 Potosí=NNP=all
 Potsdam-Babelsberg=NNP=all
 Potsdam=NNP=all
+Pottawatomie=NNP=all
 Potter=NNP=all
 Potts=NNP=all
 Pottstown=NNP=all
@@ -19825,6 +20037,7 @@ Powder=NNP=all
 Powderly=NNP=all
 Powell=NNP=all
 Power=NNP=all
+PowerPC=NNP=all
 PowerPoint=PowerPoint/NNP,PowerPoints/NNPS=all
 PowerSchool=NNP=all
 PowerShell=NNP=all
@@ -19858,6 +20071,7 @@ Pramathanath=NNP=all
 Prasad=NNP=all
 Prashant=NNP=all
 Prashanth=NNP=all
+Pratchett=NNP=all
 Prateek=NNP=all
 Pratheesh=NNP=all
 Prato=NNP=all
@@ -19893,6 +20107,7 @@ Prezi=NNP=all
 Priam=NNP=all
 Priapus=NNP=all
 Price=NNP=all
+Priceline=NNP=all
 Prichard=NNP=all
 Pride=NNP=all
 Priest=NNP=all
@@ -20015,6 +20230,7 @@ PubMed=NNP=all
 Publix=NNP=all
 Pucallpa=NNP=all
 Puccini=NNP=all
+Puckett=NNP=all
 Pudahuel=NNP=all
 Pudsey=NNP=all
 Puebla=NNP=all
@@ -20023,6 +20239,7 @@ Puebloan=Puebloan/JJ=all
 Puebloan=Puebloan/NNP,Puebloans/NNPS=all
 Puente=NNP=all
 Puerto=NNP=all
+Puget=NNP=all
 Pugh=NNP=all
 Pugin=NNP=all
 Puglia=NNP=all
@@ -20076,6 +20293,7 @@ Pyle=NNP=all
 Pylle=NNP=all
 Pylos=NNP=all
 Pym=NNP=all
+Pynchon=NNP=all
 Pyne=NNP=all
 Pyongyang=NNP=all
 Pyotr=NNP=all
@@ -20114,6 +20332,7 @@ QF=NNP=all
 QKtP=NNP=all
 QM=NNP=all
 QNP=NNP=all
+QWERTY=JJ=all
 Qaddafi=NNP=all
 Qassem=NNP=all
 Qatar=NNP=all
@@ -20122,7 +20341,9 @@ Qiagen=NNP=all
 Qianlong=NNP=all
 Qin=NNP=all
 Qing=NNP=all
+Qinghai=NNP=all
 Qlik=NNP=all
+Qom=NNP=all
 Qq=NNP=all
 Quadragesima=NNP=all
 Quadrantid=Quadrantid/NNP,Quadrantids/NNPS=all
@@ -20135,8 +20356,10 @@ Qualitätswein=NN:U=all
 Qualtrics=NNP=all
 Quantico=NNP=all
 Quanzhou=NNP=all
+Quaoar=NNP=all
 Quaternary=NNP=all
 Quathlamba=NNP=all
+Quayle=NNP=all
 Que=NNP=all
 Queanbeyan=NNP=all
 Quebec=NNP=all
@@ -20196,6 +20419,7 @@ Quintus=NNP=all
 Quirinal=Quirinal/NNP,Quirinals/NNPS=all
 Quirinus=NNP=all
 Quiróz=NNP=all
+Quisling=NNP=all
 Quito=NNP=all
 Quixote=Quixote/NNP,Quixotes/NNPS=all
 Quizizz=NNP=all
@@ -20206,6 +20430,7 @@ Quonset=Quonset/NNP,Quonsets/NNPS=all
 Quora=NNP=all
 Quraish=NNP=all
 Quran=Quran/NNP,Qurans/NNPS=all
+Quranic=NNP=all
 Qureshi=NNP=all
 Québec=NNP=all
 Québécois=NNP=all
@@ -20374,6 +20599,7 @@ Ramaphosa=NNP=all
 Ramapo=NNP=all
 Ramaswamy=NNP=all
 Ramayana=Ramayana/NNP,Ramayanas/NNPS=all
+Rambo=NNP=all
 Rambouillet=Rambouillet/NNP,Rambouillets/NNPS=all
 Rameau=NNP=all
 Ramesh=NNP=all
@@ -20418,6 +20644,7 @@ Raoul=NNP=all
 Rapallo=NNP=all
 Raphael=NNP=all
 Raphaël=NNP=all
+Rappaport=NNP=all
 Rapunzel=NNP=all
 Raquel=NNP=all
 Raritan=NNP=all
@@ -20541,6 +20768,7 @@ Regiomontanus=NNP=all
 Regis=NNP=all
 Regt=NNP=all
 Regulus=NNP=all
+Rehnquist=NNP=all
 Reich=NNP=all
 Reichenberg=NNP=all
 Reichsmark=NNP=all
@@ -20855,6 +21083,7 @@ Rockwell=NNP=all
 Rocky=NNP=all
 Rod=NNP=all
 Rodd=NNP=all
+Roddenberry=NNP=all
 Rodentia=NNP=all
 Roderick=NNP=all
 Roderigo=NNP=all
@@ -21138,6 +21367,7 @@ Rumelia=NNP=all
 Rumford=NNP=all
 Rumney=NNP=all
 Rumpelstiltskin=NNP=all
+Rumsfeld=NNP=all
 Runcorn=NNP=all
 Runnymede=NNP=all
 Runyon=NNP=all
@@ -21148,6 +21378,7 @@ Ruritania=NNP=all
 Rus=NNP=all
 Rush=NNP=all
 Rushcliffe=NNP=all
+Rushdie=NNP=all
 Rushmore=NNP=all
 Ruskin=NNP=all
 Ruslan=NNP=all
@@ -21345,6 +21576,7 @@ STL=NNP=all
 STM=NNP=all
 STOL=NNP=all
 STP=NNP=all
+SUSE=NNP=all
 SUV=noun=all
 SV=NNP=all
 SVG=noun=all
@@ -21406,10 +21638,12 @@ Sadiq=NNP=all
 Sadiqabad=NNP=all
 Sadler=NNP=all
 Sadowa=NNP=all
+Sadr=NNP=all
 Safari=NNP=all
 Safavid=NNP=all
 Safi=NNP=all
 Sagamore=NNP=all
+Sagan=NNP=all
 Sagitta=NNP=all
 Sagittarian=Sagittarian/NNP,Sagittarians/NNPS=all
 Sagittarius=Sagittarius/JJ=all
@@ -21501,6 +21735,7 @@ Salop=NNP=all
 Salta=NNP=all
 Saltillo=NNP=all
 Salto=NNP=all
+Salton=NNP=all
 Saltzman=NNP=all
 Salva=NNP=all
 Salvador=NNP=all
@@ -21730,6 +21965,7 @@ Savitṛ=NNP=all
 Savoie=NNP=all
 Savona=NNP=all
 Savonarola=NNP=all
+Savoy=NNP=all
 Savoyard=Savoyard/JJ=all
 Savoyard=Savoyard/NNP,Savoyards/NNPS=all
 Sawley=NNP=all
@@ -21977,11 +22213,13 @@ Sedgefield=NNP=all
 Sedgemoor=NNP=all
 Sedgewick=NNP=all
 Sedgwick=NNP=all
+Sedna=NNP=all
 Sedro-Woolley=NNP=all
 Seebeck=NNP=all
 Seeger=NNP=all
 Seely=NNP=all
 Sefton=NNP=all
+Sega=NNP=all
 Segal=NNP=all
 Segovia=NNP=all
 Seguin=NNP=all
@@ -22119,6 +22357,7 @@ Seán=NNP=all
 Sfax=NNP=all
 Sforza=NNP=all
 Sg=symbol=all
+Shaanxi=NNP=all
 Shaban=NNP=all
 Shabbat=Shabbat/NNP,Shabbats/NNPS=all
 Shabbir=NNP=all
@@ -22157,6 +22396,7 @@ Shamshi-Adad=NNP=all
 Shamus=NNP=all
 Shana=NNP=all
 Shanahan=NNP=all
+Shandong=NNP=all
 Shane=NNP=all
 Shang=Shang/JJ=all
 Shang=Shang/NNP=all
@@ -22173,6 +22413,7 @@ Shanksville=NNP=all
 Shanley=NNP=all
 Shanna=NNP=all
 Shannon=NNP=all
+Shanxi=NNP=all
 Shaolin=Shaolin/JJ=all
 Shaolin=Shaolin/NNP,Shaolins/NNPS=all
 Shapiro=NNP=all
@@ -22288,6 +22529,7 @@ Shibuya=NNP=all
 Shields=NNP=all
 Shiite=Shiite/JJ=all
 Shiite=Shiite/NNP,Shiites/NNPS=all
+Shijiazhuang=NNP=all
 Shikarpur=NNP=all
 Shikhar=NNP=all
 Shikoku=NNP=all
@@ -22446,6 +22688,7 @@ Silvio=NNP=all
 SimCity=NNP=all
 Simba=NNP=all
 Simbirsk=NNP=all
+Simenon=NNP=all
 Simeon=NNP=all
 Simeticone=NNP=all
 Simferopol=NNP=all
@@ -22473,6 +22716,7 @@ Sinaloan=Sinaloan/JJ=all
 Sinaloan=Sinaloan/NNP=all
 Sinan=NNP=all
 Sinatra=NNP=all
+Sinbad=NNP=all
 Sinclair=NNP=all
 Sind=NNP=all
 Sindelfingen=NNP=all
@@ -22565,6 +22809,7 @@ Skywalker=NNP=all
 Skåne=NNP=all
 Skåneland=NNP=all
 Skírnismál=NNP=all
+Slackware=NNP=all
 Slade=NNP=all
 SlashGear=NNP=all
 Slater=NNP=all
@@ -22984,6 +23229,7 @@ Stavanger=NNP=all
 Staveley=NNP=all
 Stavropol=NNP=all
 Ste=NNP=all
+Steadicam=NNP=all
 Steamtown=NNP=all
 Steamworks=NNP=all
 Stearns=NNP=all
@@ -23302,6 +23548,7 @@ Sutlej=NNP=all
 Sutter=NNP=all
 Sutton=NNP=all
 Suva=NNP=all
+Suwanee=NNP=all
 Suwannee=NNP=all
 Suzan=NNP=all
 Suzana=NNP=all
@@ -23548,6 +23795,8 @@ Talbot=Talbot/NNP,Talbots/NNPS=all
 Talca=NNP=all
 Talcahuano=NNP=all
 Talcottville=NNP=all
+Taliban=NN=all # Talibans?
+Taliban=NNS=all
 Talibanization|Talibanisation=noun_UN=us,ca,gb|gb,au,nz,za
 Talibanize|Talibanise=verb=us,ca,gb|gb,au,nz,za
 Taliesin=NNP=all
@@ -23557,6 +23806,7 @@ Tallahatchie=NNP=all
 Tallapoosa=NNP=all
 Tallchief=NNP=all
 Talley=NNP=all
+Talleyrand=NNP=all
 Tallinn=NNP=all
 Tallis=NNP=all
 Tallulah=NNP=all
@@ -23630,6 +23880,7 @@ Taos=NNP=all
 Tapachula=NNP=all
 Tapton=NNP=all
 Tara=NNP=all
+Tarantino=NNP=all
 Taranto=NNP=all
 Tarapacá=NNP=all
 Tarapoto=NNP=all
@@ -23757,6 +24008,7 @@ Teletype=Teletype/NNP,Teletypes/NNPS=all
 Telfer=NNP=all
 Telford=NNP=all
 Tell=NNP=all
+Teller=NNP=all
 Tellus=NNP=all
 Telstar=NNP=all
 Telstra=NNP=all
@@ -23786,6 +24038,7 @@ Tenney=NNP=all
 Tenniel=NNP=all
 Tennille=NNP=all
 Tennyson=NNP=all
+Tennysonian=NNP=all
 Tenochtitlan=NNP=all
 TensorFlow=NNP=all
 Tepelenë=NNP=all
@@ -23948,6 +24201,7 @@ Thiensville=NNP=all
 Thierry=NNP=all
 Thies=NNP=all
 Thimbu=NNP=all
+Thimphu=NNP=all
 ThinkPad=ThinkPad/NNP,ThinkPads/NNPS=all
 Thirlwall=NNP=all
 Thiruvananthapuram=NNP=all
@@ -24090,6 +24344,7 @@ Tindal=NNP=all
 Tingey=NNP=all
 Tingley=NNP=all
 Tinkercad=NNP=all
+Tinseltown=NNP=all
 Tinsley=NNP=all
 Tintin=NNP=all
 Tintoretto=NNP=all
@@ -24101,6 +24356,7 @@ Tippett=NNP=all
 Tipton=NNP=all
 Tiptronic=NNP=all
 Tirana=NNP=all
+Tirane=NNP=all
 Tiranë=NNP=all
 Tiresias=NNP=all
 Tirol=NNP=all
@@ -24255,6 +24511,7 @@ Tortola=NNP=all
 Tortuga=NNP=all
 Tortuguero=NNP=all
 Torvald=NNP=all
+Torvalds=NNP=all
 Tory=Tory/JJ=all
 Tory=Tory/NNP,Tories/NNPS=all
 Toryism=Toryism/NNP,Toryisms/NNPS=all
@@ -24318,11 +24575,13 @@ Trautman=NNP=all
 Travancore=NNP=all
 Travers=NNP=all
 Travis=NNP=all
+Travolta=NNP=all
 Trayvon=NNP=all
 Trebizond=NNP=all
 Treblinka=NNP=all
 Tree=NNP=all
 Trejo=NNP=all
+Trekkie=NNP=all
 Trello=NNP=all
 Tremaine=NNP=all
 Trematoda=NNP=all
@@ -24350,6 +24609,7 @@ Treviño=NNP=all
 Trevor=NNP=all
 Trey=NNP=all
 Tri-City=Tri-City/NNP,Tri-Cities/NNPS=all
+Triangulum=NNP=all
 Triassic=NNP=all
 Tribolium=NNP=all
 Trichinopoly=NNP=all
@@ -24436,6 +24696,7 @@ Tswanas=NNPS=all
 Tu=NNP=all
 Tualatin=NNP=all
 Tuareg=Tuareg/NNP,Tuaregs/NNPS=all
+Tubman=NNP=all
 Tubulidentata=NNP=all
 Tucana=NNP=all
 Tuck=NNP=all
@@ -24524,6 +24785,7 @@ Tut=NNP=all
 Tutankhamen=NNP=all
 Tutsi=Tutsi/NNP,Tutsis/NNPS=all
 Tuttle=NNP=all
+Tutu=NNP=all
 Tutuila=NNP=all
 Tuvalu=Tuvalu/NNP,Tuvalu/NNPS=all
 Tuvaluan=NN:U=all
@@ -24764,6 +25026,7 @@ Unger=NNP=all
 Uniat=Uniat/JJ=all
 Uniat=Uniat/NNP,Uniats/NNPS=all
 Unicode=NNP=all
+Unilever=NNP=all
 Union=Union/JJ=all
 Union=Union/NNP,Unions/NNPS=all
 Uniondale=NNP=all
@@ -24825,6 +25088,7 @@ Uruguay=NNP=all
 Uruguayan=Uruguayan/JJ=all
 Uruguayan=Uruguayan/NNP,Uruguayans/NNPS=all
 Uruk=NNP=all
+Urumqi=NNP=all
 Usenet=Usenet/NNP,Usenets/NNPS=all
 Ushant=NNP=all
 Ushas=NNP=all
@@ -25171,6 +25435,7 @@ Viktor=NNP=all
 Viktoria=NNP=all
 Vila=NNP=all
 Vilcabamba=NNP=all
+Villa=NNP=all
 Villach=NNP=all
 Village=NNP=all
 Villahermosa=NNP=all
@@ -25283,6 +25548,7 @@ Vlahović=NNP=all
 Vlaminck=NNP=all
 Vlissingen=NNP=all
 Vltava=NNP=all
+VoIP=NNP=all
 Vodafone=Vodafone/NNP,Vodafones/NNPS=all
 Vogel=NNP=all
 Vogt=NNP=all
@@ -25416,6 +25682,7 @@ WSCR=NNP=all
 WSFS=NNP=all
 WSL=NNP=all
 WSW=NNP=all
+WTO=NNP=all
 WVPX-TV=NNP=all
 WW=NNP=all
 WWDC=NNP=all
@@ -25481,6 +25748,7 @@ Waldron=NNP=all
 Waler=Waler/NNP,Walers/NNPS=all
 Wales=NNP=all
 Walford=NNP=all
+Walgreens=NNP=all
 Walhalla=NNP=all
 Walker=NNP=all
 Walkerton=NNP=all
@@ -25561,6 +25829,7 @@ Wartburg=NNP=all
 Warton=NNP=all
 Warwick=NNP=all
 Warwickshire=NNP=all
+Wasatch=NNP=all
 Waseca=NNP=all
 Waseem=NNP=all
 Wash=NNP=all
@@ -25689,6 +25958,7 @@ Weldon=NNP=all
 Welford=NNP=all
 Welker=NNP=all
 Welkom=NNP=all
+Welland=NNP=all
 Wellbutrin=NNP=all
 Welles=NNP=all
 Wellesley=NNP=all
@@ -25872,7 +26142,9 @@ Wigglesworth=NNP=all
 Wight=NNP=all
 Wigner=NNP=all
 Wigtown=NNP=all
+Wii=NNP=all
 Wijchen=NNP=all
+WikiLeaks=NNP=all
 Wikidata=NNP=all
 Wikimedia=NNP=all
 Wikipedia=NNP=all
@@ -25905,6 +26177,7 @@ Wilhelmina=NNP=all
 Wilhelmshaven=NNP=all
 Wilhelmstrasse=NNP=all
 Wilkens=NNP=all
+Wilkerson=NNP=all
 Wilkes-Barre=NNP=all
 Wilkes=NNP=all
 Wilkie=NNP=all
@@ -25970,6 +26243,7 @@ Windsor=Windsor/NNP,Windsors/NNPS=all
 Winesap=Winesap/NNP,Winesaps/NNPS=all
 Winfield=NNP=all
 Winfred=NNP=all
+Winfrey=NNP=all
 Winfried=NNP=all
 Wing=NNP=all
 WingStreet=NNP=all
@@ -26032,6 +26306,7 @@ Wix=NNP=all
 Wiśniowski=NNP=all
 Wladimir=NNP=all
 WoW=NNP=all
+Wobegon=NNP=all
 Woburn=NNP=all
 Wodehouse=NNP=all
 Woden=NNP=all
@@ -26054,6 +26329,7 @@ Wolfsburg=NNP=all
 Wolfsheim=NNP=all
 Wolfson=NNP=all
 Wollongong=NNP=all
+Wollstonecraft=NNP=all
 Wolpert=NNP=all
 Wolseley=NNP=all
 Wolsey=NNP=all
@@ -26206,12 +26482,16 @@ Xiangya=NNP=all
 Xiao=NNP=all
 Xiaoguang=NNP=all
 Xiaomi=NNP=all
+Xiaoping=NNP=all
 Xico=NNP=all
 Ximena=NNP=all
 Ximenes=NNP=all
 Ximénez=NNP=all
 Xing=NNP=all
+Xinhua=NNP=all
+Xinjiang=NNP=all
 Xiong=NNP=all
+Xizang=NNP=all
 Xmas=Xmas/NN:U,Xmas/NNP,Xmases/NNPS=all
 Xnty=NNP=all
 Xsolla=NNP=all
@@ -26219,6 +26499,7 @@ Xt=NNP=all
 Xuan=NNP=all
 Xuanzong=NNP=all
 Xuthus=NNP=all
+Xuzhou=NNP=all
 Xylocaine=Xylocaine/NNP,Xylocaines/NNPS=all
 Y=symbol=all
 YB=NNP=all
@@ -26308,6 +26589,7 @@ Yellen=NNP=all
 Yellowknife=NNP=all
 Yellowstone=NNP=all
 Yelp=NNP=all
+Yeltsin=NNP=all
 Yemen=Yemen/JJ=all
 Yemen=Yemen/NNP=all
 Yemeni=JJ=all
@@ -26494,6 +26776,7 @@ Zebulun=NNP=all
 Zech=NNP=all
 Zechariah=NNP=all
 Zedekiah=NNP=all
+Zedong=NNP=all
 Zeebrugge=NNP=all
 Zeeland=NNP=all
 Zeeman=NNP=all
@@ -26532,8 +26815,10 @@ Zeuxis=NNP=all
 Zhang=NNP=all
 Zhao=NNP=all
 Zhdanov=NNP=all
+Zhejiang=NNP=all
 Zheng=NNP=all
 Zhengyangmen=NNP=all
+Zhengzhou=NNP=all
 Zhou=NNP=all
 Zhu=NNP=all
 Zhukov=NNP=all
@@ -26542,6 +26827,7 @@ Zidane=NNP=all
 Ziegfeld=NNP=all
 Ziegler=NNP=all
 Zihuatanejo=NNP=all
+Zika=NNP=all
 Zikri=Zikri/JJ=all
 Zikri=Zikri/NNP=all
 Zikrism=NNP=all
@@ -26582,6 +26868,7 @@ Zohar=Zohar/NNP,Zohars/NNPS=all
 Zoho=NNP=all
 Zola=NNP=all
 Zollverein=NNP=all
+Zoloft=NNP=all
 Zoltán=NNP=all
 Zomba=NNP=all
 Zond=NNP=all
@@ -26601,12 +26888,14 @@ Zorro=NNP=all
 Zoé=NNP=all
 Zoë=NNP=all
 Zr=NNP=all
+Zs=symbol=all
 Zsigmondy=NNP=all
 Zubaydah=NNP=all
 Zuck=NNP=all
 Zuckerberg=NNP=all
 Zuckerman=NNP=all
 Zug=NNP=all
+Zukor=NNP=all
 Zulu=Zulu/NN:U,Zulu/NNP,Zulus/NNPS=all
 Zululand=NNP=all
 Zumba=NNP=all
@@ -27514,6 +27803,7 @@ adjutancy=noun=all
 adjutant=noun=all
 adjuvant=adjuvant/JJ=all
 adjuvant=noun=all
+adm=abbreviation=all
 adman=adman/NN,admen/NNS=all
 admass=noun_U=all
 admeasure=verb=all
@@ -31624,7 +31914,7 @@ axiomatic=noun=all
 axiomatically=RB=all
 axiomatization|axiomatisation=noun_UN=us,ca,gb|gb,au,nz,za
 axiomatize|axiomatise=verb=us,ca,gb|gb,au,nz,za
-axis=axis/NN,axes/NNS,axises/NNS=all
+axis [pl. axes]=noun=all
 axle=noun=all
 axolotl=noun=all
 axon=noun=all
@@ -33393,6 +33683,7 @@ bioeconomic=JJ=all
 bioelectric=JJ=all
 bioelectrical=JJ=all
 bioelectronic=noun=all
+bioenergetic=JJ=all
 bioenergetics=NN:U=all
 bioenergy=NN:U=all
 bioengineer=noun=all
@@ -33408,13 +33699,16 @@ bioflavonoid=noun=all
 biofuel=noun=all
 biog=noun=all
 biogas=biogas/NN,biogases/NNS,biogasses/NNS=all
+biogen=noun=all
 biogenesis=biogenesis/NN,biogeneses/NNS=all
 biogenetic=JJ=all
+biogenetically=RB=all
 biogenic=JJ=all
 biogenous=JJ=all
 biogeochemical=biogeochemical/JJ=all
 biogeochemical=noun=all
 biogeochemically=RB=all
+biogeochemist=noun=all
 biogeochemistry=noun_U=all
 biogeographer=noun=all
 biogeographic=JJ=all
@@ -37385,6 +37679,7 @@ cetirizine=NN:U=all
 cetology=noun_UN=all
 ceviche=noun=all
 cf=JJ=all
+ch=abbreviation=all
 cha-cha=noun=all
 cha=noun=all
 chaconne=noun=all
