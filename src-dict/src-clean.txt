@@ -1,3 +1,5 @@
+"=''=all
+"=``=all
 #=#=all
 #Americaness=NN:U=all #unusual
 #Archaeozoic=JJ=all #unusual
@@ -48040,8 +48042,7 @@ dunked=JJ=all
 dunlin=noun=all
 dunnage=noun=all
 dunness=NN:U=all
-dunno=NN=all
-dunno=VBP=all
+dunno=contraction=all #informal
 dunnock=noun=all
 duo=noun=all
 duodecillion=CD=all
@@ -86428,8 +86429,8 @@ reproachfulness=NN:U=all
 reproachingly=RB=all
 reproachlessness=NN:U=all
 reprobate=JJ=all
-reprobate=VB=all
 reprobate=noun_UN=all
+reprobate=verb=all
 reprobation=noun_UN=all
 reprocess=verb=all
 reprocessed=JJ=all
@@ -88532,8 +88533,8 @@ salivate=verb=all
 salivation=noun_U=all
 sallet=noun=all
 sallow=NN:UN=all
-sallow=VB=all
 sallow=sallow/JJ,sallower/JJR,sallowest/JJS=all
+sallow=verb=all
 sallowish=JJ=all
 sallowness=NN:U=all
 sally=noun=all
