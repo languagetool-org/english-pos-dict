@@ -21,7 +21,7 @@
 #kinematography=noun_UN=all # unusual
 #lor=lor/NN,lors/NNS=all # unusual
 #lor=lor/UH=all  # unusual
-#oecumenical=JJ=gb # arcaic
+#oecumenical=JJ=gb # archaic
 #programer=noun=us # unusual
 #programing=noun_U=us #unusual
 #ptyalize|ptyalise=verb=none # unusual obsolete
@@ -58588,7 +58588,7 @@ high-handed=JJ=all
 high-handedly=RB=all
 high-handedness=NN:U=all
 high-hat=JJ=all
-high-hat=high-hat/VB,high-hatted/VBD,high-hatting/VBG,high-hatted/VBN,high-hat/VBP,high-hats/VBP=all
+high-hat=high-hat/VB,high-hatted/VBD,high-hatting/VBG,high-hatted/VBN,high-hat/VBP,high-hats/VBZ=all
 high-level=JJ=all
 high-minded=JJ=all
 high-mindedness=NN:U=all
@@ -92094,7 +92094,7 @@ smuggling=noun_U=all
 smugly=RB=all
 smugness=NN:U=all
 smut=noun_UN=all
-smut=smut/VB,smutted/VBD,smutting/VBG,smutted/VBN,smut/VBP,smuts/VBP=all
+smut=smut/VB,smutted/VBD,smutting/VBG,smutted/VBN,smut/VBP,smuts/VBZ=all
 smuttiness=NN:U=all
 smutty=smutty/JJ,smuttier/JJR,smuttiest/JJS=all
 snack=noun=all
