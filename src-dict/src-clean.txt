@@ -26,6 +26,7 @@
 #programing=noun_U=us #unusual
 #ptyalize|ptyalise=verb=none # unusual obsolete
 #shew=shew/VB,shewed/VBD,shewing/VBG,shewn/VBN,shew/VBP,shews/VBZ=au,ca,us # unusual, archaic
+'twixt=IN=all # unusual
 0-year-old=noun=all
 1-month-old=noun=all
 1-year-old=noun=all
@@ -23403,6 +23404,7 @@ Syncom=NNP=all
 Synge=NNP=all
 Synthroid=NNP=all
 Syracuse=NNP=all
+Syrah=noun_UN=all
 Syria=NNP=all
 Syriac=Syriac/NN:U,Syriac/NNP=all
 Syrian=Syrian/JJ=all
@@ -23817,6 +23819,8 @@ Terrie=NNP=all
 Terrill=NNP=all
 Terry=NNP=all
 Tersanctus=NNP=all
+Tertiary=JJ=all
+Tertiary=NN=all
 Tertullian=NNP=all
 Terylene=Terylene/NNP,Terylenes/NNPS=all
 Tesco=NNP=all
@@ -25344,6 +25348,7 @@ Võro=NNP=all
 Völundarkviða=NNP=all
 Völuspá=NNP=all
 Vāyu=NNP=all
+W=abbreviation=all
 WAAC=NNP=all
 WAAF=NNP=all
 WAGA-TV=NNP=all
@@ -25391,6 +25396,7 @@ WMUR-TV=NNP=all
 WNBA=NNP=all
 WNET-TV=NNP=all
 WNW=NNP=all
+WO=abbreviation=all
 WOSU-TV=NNP=all
 WPP=NNP=all
 WPRE=NNP=all
@@ -26212,6 +26218,7 @@ Xuan=NNP=all
 Xuanzong=NNP=all
 Xuthus=NNP=all
 Xylocaine=Xylocaine/NNP,Xylocaines/NNPS=all
+Y=symbol=all
 YB=NNP=all
 YC=NNP=all
 YHA=NNP=all
@@ -43218,6 +43225,7 @@ cytotoxic=JJ=all
 cytotoxicity=noun_U=all
 cytotrophoblast=NN=all
 czar=noun=all
+czardom=noun_UN=all
 czarevitch=noun=all
 czarina=noun=all
 czarism=noun_UN=all
@@ -58587,8 +58595,8 @@ high-functioning=JJ=all
 high-handed=JJ=all
 high-handedly=RB=all
 high-handedness=NN:U=all
-high-hat=JJ=all
 high-hat [-tt-]=verb=all
+high-hat=JJ=all
 high-level=JJ=all
 high-minded=JJ=all
 high-mindedness=NN:U=all
@@ -91316,9 +91324,9 @@ sinusoidal=JJ=all
 sinusoidally=RB=all
 sip=noun=all
 sip=verb=all
-siphon=noun=all
-siphon=verb=all
 siphonophore=noun=all
+siphon|syphon=noun=all|gb,nz,za
+siphon|syphon=verb=all|gb,nz,za
 sipper=noun=all
 sippet=noun=all
 sir=noun_UN=all
@@ -93363,6 +93371,8 @@ spirometer=noun=all
 spirometric=JJ=all
 spirometry=noun_U=all
 spironolactone=noun=all
+spirt=noun=au,gb,nz,za
+spirt=verb=au,gb,nz,za
 spirulina=spirulina/NN,spirulina/NN:U,spirulinas/NNS=all
 spiry=spiry/JJ,spirier/JJR,spiriest/JJS=all
 spit=noun_UN=all
@@ -93440,6 +93450,8 @@ splinter=verb=all
 splintered=JJ=all
 splintering=NN:UN=all
 splintery=JJ=all
+split-level=JJ=all
+split-level=noun=all
 split-second=JJ=all
 split=noun=all
 split=split/VB,split/VBD,splitting/VBG,split/VBN,split/VBP,splits/VBZ=all
@@ -93509,6 +93521,7 @@ spool=noun=all
 spool=verb=all
 spooler=noun=all
 spooling=noun_UN=all
+spoon-feed=spoon-feed/VB,spoon-fed/VBD,spoon-feeding/VBG,spoon-fed/VBN,spoon-feed/VBP,spoon-feeds/VBZ=all
 spoon=noun=all
 spoon=verb=all
 spoonbill=noun=all
@@ -93960,6 +93973,7 @@ stance=noun=all
 stanchion=noun=all
 stanchless=JJ=all
 stand-alone=noun=all
+stand-in=noun=all
 stand-off=JJ=all
 stand-up=noun=all
 stand-up=stand-up/JJ=all
@@ -93967,6 +93981,7 @@ stand=noun=all
 stand=stand/VB,stood/VBD,standing/VBG,stood/VBN,stand/VBP,stands/VBZ=all
 standalone=noun=all
 standalone=standalone/JJ=all
+standard-bearer=noun=all
 standard=noun_UN=all
 standard=standard/JJ=all
 standardizable=JJ=all
@@ -94464,6 +94479,9 @@ stipulation=noun_UN=all
 stipulator=noun=all
 stipule=noun=all
 stir-crazy=JJ=all
+stir-fried=JJ=all
+stir-fry=noun=all
+stir-fry=verb=all
 stir=noun=all
 stir=verb=all
 stirk=noun=all
@@ -95157,6 +95175,7 @@ subclaim=noun=all
 subclass=noun=all
 subclass=verb=all
 subclassification=noun_UN=all
+subclassify=verb=all
 subclause=noun=all
 subclavian=noun=all
 subclavian=subclavian/JJ=all
@@ -95910,6 +95929,7 @@ superciliousness=NN:U=all
 supercity=noun=all
 supercivilization|supercivilisation=noun_UN=us,ca,gb|gb,au,nz,za
 superclass=noun=all
+superclean=JJ=all
 supercollider=noun=all
 supercomputer=noun=all
 superconducting=JJ=all
@@ -97075,6 +97095,7 @@ tanzanite=tanzanite/NN,tanzanite/NN:UN,tanzanites/NNS=all
 tap=noun_U=all
 tap=verb=all
 tapas=NN:U=all
+tape-record=verb=all
 tape=noun_UN=all
 tape=tape/JJ,taper/JJR=all
 tape=verb=all
@@ -97559,6 +97580,8 @@ telluric=JJ=all
 telluride=noun_U=all
 tellurium=noun_U=all
 telly=telly/NN:UN,tellies/NNS,tellys/NNS=all
+telnet=noun=all
+telnet=verb=all
 telomerase=NN:U=all
 telomere=noun=all
 telomerization|telomerisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -97976,6 +97999,7 @@ thalamus=thalamus/NN,thalami/NNS=all
 thalassemia=noun_U=all
 thalassic=JJ=all
 thalassophile=noun=all
+thalassotherapy=noun_UN=all
 thaler=noun=all
 thalidomide=noun_U=all
 thallic=JJ=all
@@ -98662,7 +98686,11 @@ time-honored|time-honoured=JJ=us|gb,ca,au,nz,za
 time-honoured=JJ=all
 time-lapse=JJ=all
 time-limited=JJ=all
+time-out=noun=all
 time-saving=JJ=all
+time-share=noun=all
+time-share=verb=all
+time-sharing=noun=all
 time-shift=noun=all
 time-shift=verb=all
 time=noun_UN=all
@@ -98713,6 +98741,7 @@ timorously=RB=all
 timorousness=NN:U=all
 timpani=timpani/NN,timpani/NNS=all
 timpanist=noun=all
+tin-plate=verb=all
 tin=noun_UN=all
 tin=tin/JJ,tinner/JJR=all
 tin=verb=all
@@ -98767,6 +98796,7 @@ tintype=noun=all
 tinware=noun_U=all
 tiny=tiny/JJ,tinier/JJR,tiniest/JJS=all
 tinyness=NN:U=all
+tip-off=noun=all
 tip-top=JJ=all
 tip-top=RB=all
 tip-top=noun=all
@@ -98814,6 +98844,7 @@ titanic=JJ=all
 titanically=RB=all
 titanite=noun=all
 titanium=noun_U=all
+titbit=noun=au,gb,nz,za
 titchy=titchier/JJ,titchiest/JJ,titchy/JJ=all
 titfer=noun=all
 tithable=JJ=all
@@ -98959,6 +98990,7 @@ tollbooth=noun=all
 tollgate=noun=all
 toluene=noun_U=all
 toluidine=noun=all
+tom-tom=noun=all
 tom=noun=all
 tom=tom/JJ=all
 tomahawk=noun=all
@@ -99404,6 +99436,7 @@ tractor=noun=all
 trad=trad/JJ=all
 trad=trad/NN:U=all
 tradable=tradable/JJ,tradeable/JJ=all
+trade-in=trade-in/JJ=all
 trade-off=noun=all
 trade=noun_UN=all
 trade=trade/JJ=all
@@ -100164,6 +100197,7 @@ tritium=noun_U=all
 triton=noun=all
 tritonia=noun=all
 triturable=JJ=all
+triturate=verb=all
 trituration=noun_UN=all
 triumph=noun_UN=all
 triumph=verb=all
@@ -100395,6 +100429,7 @@ tryptophane=noun=all
 tryst=noun=all
 tryst=verb=all
 tsar=noun=all
+tsarina=noun=gb,nz,za
 tsarist=noun=all
 tsarist=tsarist/JJ=all
 tsetse=noun=all
@@ -100653,6 +100688,7 @@ twee=twee/JJ,tweer/JJR,tweest/JJS=all
 tweed=noun_UN=all
 tweediness=NN:U=all
 tweedy=tweedy/JJ,tweedier/JJR,tweediest/JJS=all
+tween=IN=all # unusual
 tweeness=NN:U=all
 tweeny=noun=all
 tweet=noun=all
@@ -100749,6 +100785,7 @@ twitter=verb=all
 twittering=noun_UN=all
 twittery=JJ=all
 twitting=noun_UN=all
+twixt=IN=all # unusual
 twizzle=noun=all
 twizzle=verb=all
 two-color|two-colour=JJ=us|gb,ca,au,nz,za
@@ -100760,6 +100797,9 @@ two-lane=JJ=all
 two-month-old=noun=all
 two-ply=JJ=all
 two-seater=noun=all
+two-step=noun=all
+two-step=verb=all
+two-timer=noun=all
 two-way=JJ=all
 two-year-old=noun=all
 two=noun=all
@@ -100835,12 +100875,15 @@ tyro [pl. tyroes,tyros]=noun=all
 tyrocidine=noun=all
 tyrosinase=noun=all
 tyrosine=noun_U=all
+tzar=noun=gb,nz,za
 tzatziki=noun=all
 tête-bêche=JJ=all
 tête-à-tête=tête-à-tête/JJ=all
 tête-à-tête=tête-à-tête/NN,tête-à-tête/NNS,tête-à-têtes/NNS=all
 tête-à-tête=tête-à-tête/RB=all
 tögrög=tögrög/NN,tögrög/NNS=all
+u [pl us,u's]=abbreviation=all
+u=abbreviation=all
 ubiquitarian=noun=all
 ubiquitarianism=NN:U=all
 ubiquitous=JJ=all
@@ -101706,6 +101749,7 @@ undeniable=JJ=all
 undeniableness=NN:U=all
 undeniably=RB=all
 undenied=JJ=all
+undenominational=JJ=all
 undependability=NN:UN=all
 undependable=JJ=all
 undependableness=NN:U=all
@@ -102687,6 +102731,7 @@ unit=noun=all
 unit=unit/JJ,uniter/JJR=all
 unital=JJ=all
 unitard=noun=all
+unitarily=RB=all
 unitariness=NN:U=all
 unitary=JJ=all
 unite=verb=all
@@ -102961,6 +103006,7 @@ unmusicalness=NN:U=all
 unmute=verb=all
 unmuted=JJ=all
 unmutilated=JJ=all
+unmuzzle=verb=all
 unmyelinated=JJ=all
 unmysteriousness=NN:U=all
 unnameable=JJ=all
@@ -103444,11 +103490,13 @@ unripe=unripe/JJ,unriper/JJR,unripest/JJS=all
 unripened=JJ=all
 unripeness=NN:U=all
 unrivalled|unrivaled=JJ=all|us
+unrobe=verb=all
 unrobustness=NN:U=all
 unroll=verb=all
 unrolled=JJ=all
 unromantic=JJ=all
 unromantically=RB=all
+unroof=verb=all
 unroped=JJ=all
 unrounded=JJ=all
 unrufflable=JJ=all
@@ -103919,6 +103967,7 @@ untreated=JJ=all
 untried=JJ=all
 untrimmed=JJ=all
 untrimmedness=NN:U=all
+untrodden=JJ=all
 untroubled=JJ=all
 untroubledness=NN:U=all
 untrue=untrue/JJ,untruer/JJR,untruest/JJS=all
@@ -105076,6 +105125,8 @@ victoriousness=NN:U=all
 victory=noun_UN=all
 victual=noun=all
 victual=victual/VB,victualed/VBD,victualled/VBD,victualing/VBG,victualling/VBG,victualed/VBN,victualled/VBN,victual/VBP,victuals/VBZ=all
+victualer=noun=us
+victualler=noun=all
 victualling=victualling/NN:UN,victualling/NNS=all
 vicuña=noun_UN=all
 vid=noun=all
@@ -105257,6 +105308,7 @@ virus=noun_UN=all
 vis-à-vis=vis-à-vis/JJ=all
 vis-à-vis=vis-à-vis/NN=all
 vis-à-vis=vis-à-vis/RB=all
+vis=abbreviation=all
 visa=noun=all
 visa=verb=all
 visage=noun=all
@@ -105581,6 +105633,8 @@ vulval=JJ=all
 vulvar=JJ=all
 vuvuzela=noun=all
 vying=JJ=all
+w [pl. ws,w's]=abbreviation=all
+w=abbreviation=all
 wabbit=noun=all
 wacke=NN=all
 wacked-out=JJ=all
@@ -105669,6 +105723,7 @@ wakame=wakame/NN,wakame/NN:U,wakames/NNS=all
 wake-up=noun=all
 wake=noun=all
 wake=wake/VB,waked/VBD,woke/VBD,waking/VBG,waked/VBN,woken/VBN,wake/VBP,wakes/VBZ=all
+wakeboard=noun=all
 wakeboarder=noun=all
 wakeboarding=NN:U=all
 wakeful=JJ=all
@@ -105682,6 +105737,7 @@ wale=noun=all
 wale=verb=all
 walk-in=noun=all
 walk-in=walk-in/JJ=all
+walk-on=noun=all
 walk-through=NN=all
 walk-up=JJ=all
 walk-up=noun=all
@@ -105804,6 +105860,7 @@ warlordism=noun_UN=all
 warm-blooded=JJ=all
 warm-bloodedness=NN:U=all
 warm-heartedness=NN:U=all
+warm-up=noun=all
 warm=verb=all
 warm=warm/JJ,warmer/JJR,warmest/JJS=all
 warmaker=noun=all
@@ -105820,6 +105877,7 @@ warmness=NN:U=all
 warmonger=noun=all
 warmongering=noun_U=all
 warmth=noun_U=all
+warmup=noun=us # unusual
 warn=verb=all
 warning=noun_UN=all
 warning=warning/JJ=all
@@ -106235,6 +106293,7 @@ well-analyzed|well-analysed=JJ=ca,us|au,gb,nz,za
 well-appointed=JJ=all
 well-armored|well-armoured=JJ=us|gb,ca,au,nz,za
 well-balanced=JJ=all
+well-being=NN:U=all
 well-bred=JJ=all
 well-centered|well-centred=JJ=us|au,ca,gb,nz,za
 well-colored|well-coloured=JJ=us|gb,ca,au,nz,za
@@ -106262,6 +106321,7 @@ well-humored|well-humoured=JJ=us|gb,ca,au,nz,za # unusual
 well-intentioned=JJ=all
 well-known=JJ=all
 well-meaning=JJ=all
+well-nigh=RB=all
 well-off=JJ=all
 well-ordered=JJ=all
 well-packed=JJ=all
@@ -106276,6 +106336,7 @@ well-timed=JJ=all
 well-to-do=JJ=all
 well-turned=JJ=all
 well-wish=noun=all
+well-wisher=noun=all
 well=noun=all
 well=verb=all
 well=well/JJ,better/JJR,best/JJS=all
@@ -106555,6 +106616,7 @@ whispery=JJ=all
 whist=noun_U=all
 whist=whist/JJ=all
 whist=whist/UH=all
+whistle-blower=noun=all
 whistle-blowing=JJ=all
 whistle-stop [-pp-]=verb=all
 whistle-stop=noun=all
@@ -106847,6 +106909,7 @@ windless=JJ=all
 windlessness=NN:U=all
 windmill=noun=all
 windmill=verb=all
+window-shop [-pp]=verb=all
 window=noun=all
 window=verb=all
 windowless=JJ=all
@@ -106974,6 +107037,9 @@ wistful=JJ=all
 wistfully=RB=all
 wistfulness=NN:U=all
 wit=noun_UN=all
+witch-hunt=noun=all
+witch-hunter=noun=all
+witch-hunting=NN:U=gb
 witch=noun=all
 witch=verb=all
 witchcraft=noun_U=all
@@ -107086,6 +107152,7 @@ womanness=NN:U=all
 womb=noun=all
 wombat=noun=all
 womenfolk=womenfolk/NN,womenfolk/NNS,womenfolks/NNS=all
+won't=contraction=all
 won=won/NN,won/NNS=all
 wonder=noun_UN=all
 wonder=verb=all
@@ -107416,6 +107483,7 @@ wussy=noun=all
 wussy=wussy/JJ,wussier/JJR,wussiest/JJS=all
 wyvern=noun=all
 wüstite=noun_UN=all
+x-axis [pl. x-axes]=noun=all
 x-ray=noun=all
 x-ray=verb=all
 x-ray=x-ray/JJ=all
@@ -107469,6 +107537,7 @@ xylene=noun=all
 xylophone=noun=all
 xylophonist=noun=all
 xylose=noun=all
+y-axis [pl. y-axes]=noun=all
 ya=PRP=all
 yacht=noun=all
 yacht=verb=all
@@ -107589,6 +107658,7 @@ yep=noun=all
 yep=yep/JJ=all
 yep=yep/RB=all
 yerba=noun=all
+yes-man [pl. yes-men]=noun=all
 yes=yes/NN,yeses/NNS,yesses/NNS=all
 yes=yes/RB=all
 yes=yes/VB,yesed/VBD,yessed/VBD,yesing/VBG,yessing/VBG,yesed/VBN,yessed/VBN,yes/VBP,yeses/VBZ,yesses/VBZ=all
@@ -107738,6 +107808,8 @@ yup=yup/JJ=all
 yuppie=noun=all
 yuppification=NN:UN=all
 yurt=noun=all
+z [pl. zs,z's]=abbreviation=all
+z=abbreviation=all
 zabaglione=noun=all
 zaibatsu=NN=all
 zanies=JJ=all
