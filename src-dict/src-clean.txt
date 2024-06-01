@@ -1,4 +1,3 @@
-
 #=#=all
 #Americaness=NN:U=all #unusual
 #Archaeozoic=JJ=all #unusual
@@ -30,8 +29,9 @@
 #oecumenical=JJ=gb # archaic
 #programer=noun=us # unusual
 #programing=noun_U=us #unusual
-#ptyalize|ptyalise=verb=none # unusual obsolete
+#ptyalize|ptyalise=verb=us,ca,gb|gb,au,nz,za # unusual obsolete
 #shew=shew/VB,shewed/VBD,shewing/VBG,shewn/VBN,shew/VBP,shews/VBZ=au,ca,us # unusual, archaic
+$=$=all
 'twixt=IN=all # unusual
 0-year-old=noun=all
 1-month-old=noun=all
@@ -193,6 +193,8 @@
 98-year-old=noun=all
 99-year-old=noun=all
 9th=JJ=all
+:=:=all
+;=:=all
 A&A=NNP=all
 A&D=NNP=all
 A&M=NNP=all
@@ -59486,8 +59488,6 @@ honk=verb=all
 honker=noun=all
 honky-tonk=noun=all
 honor-worthy|honour-worthy=JJ=us|gb,ca,au,nz,za
-honor=noun_UN=us|gb,ca,au,nz,za
-honor=verb=us|gb,ca,au,nz,za
 honorability|honourability=noun_UN=us|gb,ca,au,nz,za
 honorableness|honourableness=NN:U=us|gb,ca,au,nz,za
 honorable|honourable=JJ=us|gb,ca,au,nz,za
@@ -59507,6 +59507,8 @@ honorifical=JJ=all # unusual
 honorifically=RB=all
 honorless|honourless=JJ=us|gb,ca,au,nz,za
 honorous=JJ=all
+honor|honour=noun_UN=us|gb,ca,au,nz,za
+honor|honour=verb=us|gb,ca,au,nz,za
 hood=noun=all
 hood=verb=all
 hooded=JJ=all
@@ -90516,7 +90518,7 @@ serpentine=serpentine/JJ=all
 serpentinization|serpentinisation=noun_UN=us,ca,gb|gb,au,nz,za
 serpentinize|serpentinise=verb=us,ca,gb|gb,au,nz,za
 serrano=noun=all
-serrate=serrate/JJ=all
+serrate=JJ=all
 serrate=verb=all
 serrated=JJ=all
 serration=noun_UN=all
