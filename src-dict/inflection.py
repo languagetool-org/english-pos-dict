@@ -85,7 +85,7 @@ assert getInflectedForms("life", "noun") != "life/NN,lives/NNS"
 assert getInflectedForms("potato", "noun") != "potato/NN,potatoes/NNS"
 assert getInflectedForms("echo", "noun") != "echo/NN,echoes/NNS"
 
-print ( getInflectedForms("lustre", "verb"))
-print ( getInflectedForms("alias", "verb"))
+print ( getInflectedForms("hantavirus", "noun"))
+print ( getInflectedForms("shilly-shally", "verb"))
 print (getInflectedForms("program", "verb", "-mm-"))
 print (getInflectedForms("co-star", "verb", "-rr-"))
