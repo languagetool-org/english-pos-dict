@@ -55914,7 +55914,7 @@ glamour-puss=noun=all
 glamour=JJ=all
 glamour=noun_UN=all
 glamour=verb=all
-glamourless=JJ=less
+glamourless=JJ=all
 glamper=noun=all
 glamping=NN:U=all
 glance=noun=all
@@ -58956,7 +58956,7 @@ high-cal=JJ=all
 high-carbon=JJ=all
 high-ceilinged=JJ=all
 high-colored|high-coloured=JJ=us|gb,ca,au,nz,za
-high-definition=JJ=alls
+high-definition=JJ=all
 high-end=JJ=all
 high-flown=JJ=all
 high-functioning=JJ=all
@@ -73591,7 +73591,7 @@ nonanalytical=JJ=all
 nonanalytically=RB=all
 nonanalyticity=noun_U=all
 nonanalyzable=JJ=ca,us
-nonanalyzed=JJ=ca,u
+nonanalyzed=JJ=ca,us
 nonappearance|non-appearance=noun=au,ca,us|gb,nz,za
 nonaromatic=JJ=all
 nonary=nonary/JJ=all
