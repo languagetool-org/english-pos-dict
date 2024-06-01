@@ -3,8 +3,10 @@
 #Americaness=NN:U=all #unusual
 #Archaeozoic=JJ=all #unusual
 #Las=NNP=all # Spanish names, musical note
+#anotherArtificialTestWordForLanguageTool=UNTAGGED=all
 #bye-election=noun=all # usual
 #cancelation=noun_UN=us # unusual
+#ceteris=RB=all #ceteris paribus
 #crystalize=verb= #unusual
 #ess=noun=all # unusual?
 #fiord=noun=all #unusual
@@ -28468,6 +28470,7 @@ air=air/NN,air/NN:U,airs/NNS=all
 air=verb=all
 airbag=noun=all
 airbase=noun=all
+airbed=nou=all
 airboat=noun=all
 airborne=JJ=all
 airbrush=noun=all
@@ -30790,6 +30793,8 @@ arrow=verb=all
 arrowhead=noun=all
 arrowroot=noun_U=all
 arroyo=noun=all
+arse=noun=au,ca,gb,nz # slang
+arse=verb=au,ca,gb,nz # slang
 arsenal=noun=all
 arsenate=noun_U=all
 arsenic=arsenic/JJ=all
@@ -31831,6 +31836,8 @@ avoid=verb=all
 avoidable=JJ=all
 avoidably=RB=all
 avoidance=noun_U=all
+avoidant=JJ=all
+avoidant=noun=all
 avoider=noun=all
 avoirdupois=noun_U=all
 avouch=verb=all
@@ -31982,6 +31989,7 @@ bacillus=bacillus/NN,bacilli/NNS,bacilluses/NNS=all
 bacitracin=noun=all
 back-channel=back-channel/JJ=all
 back-channel=back-channel/VB,back-channeled/VBD,back-channelled/VBD,back-channeling/VBG,back-channeled/VBN,back-channelled/VBN,back-channel/VBP,back-channels/VBZ=all
+back-comb=verb=all
 back-office=JJ=all
 back-order=noun=all
 back-order=verb=all
@@ -32004,6 +32012,7 @@ backbreaker=noun=all
 backbreaking=JJ=all
 backchat=noun_U=all
 backcloth=noun=all
+backcomb=verb=all
 backcourt=noun=all
 backcross=verb=all
 backdate=verb=all
@@ -32275,6 +32284,7 @@ ballerina=noun=all
 ballet=noun_UN=all
 balletic=JJ=all
 ballgame=noun=all
+ballgirl=noun=all
 ballgown=noun=all
 balling=balling/NN:UN,balling/NNS=all
 ballista=ballista/NN,ballistae/NNS,ballistas/NNS=all
@@ -32945,7 +32955,7 @@ bedsheet=noun=all
 bedside=bedside/JJ=all
 bedside=noun=all
 bedsit=noun=all
-bedsitter=NN=all
+bedsitter=noun=all
 bedsore=noun=all
 bedspread=noun=all
 bedspring=noun=all
@@ -33293,6 +33303,8 @@ bespeak=bespeak/VB,bespake/VBD,bespoke/VBD,bespeaking/VBG,bespoke/VBN,bespoken/V
 bespectacled=JJ=all
 bespoke=JJ=all
 besprinkle=verb=all
+best-seller=noun=all
+best-selling=JJ=all
 best=noun_U=all
 best=verb=all
 bested=JJ=all
@@ -33309,6 +33321,7 @@ bestowed=JJ=all
 bestrew=bestrew/VB,bestrewed/VBD,bestrewing/VBG,bestrewed/VBN,bestrewn/VBN,bestrew/VBP,bestrews/VBZ=all
 bestride=bestride/VB,bestrid/VBD,bestrode/VBD,bestriding/VBG,bestrid/VBN,bestridden/VBN,bestride/VBP,bestrides/VBZ=all
 bestseller=noun=all
+bestselling=JJ=all
 bet=bet/VB,bet/VBD,betted/VBD,betting/VBG,bet/VBN,betted/VBN,bet/VBP,bets/VBZ=all
 bet=noun=all
 beta-carotene=NN:U=all
@@ -33695,6 +33708,7 @@ bioethical=JJ=all
 bioethicist=noun=all
 biofeedback=noun_U=all
 biofertilizer=noun=all
+biofilm=noun=all
 bioflavonoid=noun=all
 biofuel=noun=all
 biog=noun=all
@@ -34056,6 +34070,8 @@ blade=verb=all
 bladed=JJ=all
 bladeless=JJ=all
 blading=noun=all
+blag=noun=gb
+blag=verb=gb
 blagging=noun=all
 blah=blah/JJ=all
 blah=blah/UH=all
@@ -34519,6 +34535,7 @@ bock=noun_U=all
 bod=noun=all
 bode=verb=all
 bodega=noun=all
+bodge=verb=gb
 bodhisattva=noun=all
 bodice=noun=all
 bodiless=JJ=all
@@ -34590,6 +34607,7 @@ bolero=noun=all
 boletus=noun=all
 boll=noun=all
 bollard=noun=all
+bollocking=noun=au,ca,gb,nz,za
 bollocks=bollocks/VB,bollocksed/VBD,bollocksing/VBG,bollocksed/VBN,bollocks/VBP,bollockses/VBZ=all
 bollworm=noun=all
 bolognese=bolognese/JJ=all
@@ -35573,6 +35591,7 @@ brushland=noun=all
 brushless=JJ=all
 brushlessness=NN:U=all
 brushout=noun=all
+brushstroke=noun=all
 brushup=noun=all
 brushwood=noun_U=all
 brushwork=noun_U=all
@@ -36036,6 +36055,7 @@ butter=noun_U=all
 butter=verb=all
 butterball=noun=all
 butterbur=noun=all
+buttercream=noun=all
 buttercup=noun=all
 buttercupped=JJ=all
 buttercuppy=JJ=all
@@ -36420,10 +36440,11 @@ cameo=verb=all
 camera-ready=JJ=all
 camera=camera/NN,camerae/NNS,cameras/NNS=all
 cameraman=cameraman/NN,cameramen/NNS=all
-cameraperson=noun=all
+cameraperson [pl. camerapersons,camerapeople]=noun=all
 camerawoman=camerawoman/NN,camerawomen/NNS=all
 camerawork=noun=all
 camerlengo=noun=all
+camiknickers=NS=all
 camion=noun=all
 camisole=noun=all
 camo=noun=all
@@ -37087,6 +37108,7 @@ cash=cash/JJ=all
 cash=noun_U=all
 cash=verb=all
 cashable=JJ=all
+cashback=NN:U=all
 cashed=JJ=all
 cashew=noun=all
 cashflow-negative=JJ=all
@@ -37937,6 +37959,7 @@ chat=verb=all
 chatbot=noun=all
 chatelaine=noun=all
 chatline=noun=all
+chatroom=noun=all
 chattel=noun=all
 chatter=noun_UN=all
 chatter=verb=all
@@ -38191,6 +38214,7 @@ childless=JJ=all
 childlessness=NN:U=all
 childlike=JJ=all
 childlikeness=NN:U=all
+childmind=verb=gb
 childminder=noun=all
 childness=NN:U=all
 childproof=childproof/JJ=all
@@ -42809,6 +42833,7 @@ crowd=verb=all
 crowded=JJ=all
 crowdedness=NN:U=all
 crowder=noun=all
+crowdfund=verb=all
 crowding=NN:UN=all
 crowdsource=crowdsourcing/NN:U=all
 crowdsource=verb=all
