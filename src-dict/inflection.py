@@ -3,6 +3,29 @@ import re
 def clean_line(s):
   return s.split('#')[0].strip()
 
+def getLemmaAndExtra(lemma):
+  pattern = r"^(.+?) \[(.+?)\]$"
+  match = re.search(pattern, lemma)
+  extra = ""
+  if match:
+    lemma = match.group(1)
+    extra = match.group(2)
+  return lemma, extra
+
+def getDuplicateConsonant(extra):
+  results = []
+  patternDuplicateConsonant1 = r"^\-(([^aeiouywh])\2)-$"
+  match = re.search(patternDuplicateConsonant1,extra)
+  if match:
+    results.append(match.group(1))
+  #patternDuplicateConsonant2 = r"^\-(([^aeiouywh])\2)-,-(\2)-$"
+  #match = re.search(patternDuplicateConsonant2,extra)
+  #if match:
+  #  results.append(match.group(1))
+  #  results.append(match.group(2))
+  return results
+
+
 def getInflectedFormsAndTags(lemma, pos, extra=''):
   forms = ""
   patternCVC = r"^[^aeiou]+[aeiou][^aeiou]$"
@@ -10,7 +33,14 @@ def getInflectedFormsAndTags(lemma, pos, extra=''):
   vowels = "aeiou";
   # inflection of regular verbs
   if pos=="verb":
-    if lemma.endswith("e"):
+    duplicate_consonant_list = getDuplicateConsonant(extra)
+    if len(duplicate_consonant_list) == 1:
+      duplicate_consonant = extra[1]
+      forms = "-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", duplicate_consonant)
+    #elif len(duplicate_consonant_list) == 2:
+    #  duplicate_consonant = extra[1]
+    #  forms = "-/VB,-ed/VBD,-$ed/VBD,-ing/VBG,-$ing/VBG,-ed/VBN,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", duplicate_consonant)
+    elif lemma.endswith("e"):
       root = lemma[:-1]
       forms = "-e/VB,-ed/VBD,-ing/VBG,-ed/VBN,-e/VBP,-es/VBZ".replace("-", root)
     elif len(lemma)>2 and lemma[-1]==("y") and lemma[-2] not in vowels:
@@ -23,9 +53,6 @@ def getInflectedFormsAndTags(lemma, pos, extra=''):
       forms = "-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", lemma[-1])
       # for verbs with more than one syllable, it cannot be done because 
       # we don't know which syllable is stressed (prefer/preferred, visit/visited, admit/admitted)
-    elif extra!="" and re.search(patternDuplicateConsonant,extra):
-      duplicate_consonant = extra[1]
-      forms = "-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", duplicate_consonant)
     else:
       forms = "-/VB,-ed/VBD,-ing/VBG,-ed/VBN,-/VBP,-s/VBZ".replace("-", lemma)
 
@@ -85,13 +112,7 @@ def getFormsFromLine(line):
     return getFormTagLemma(forms_tags, lemmas, variants)
   variants_groups = variants.split("|") 
   for i,lemma in enumerate(lemmas.split("|")):
-    pattern = r"^(.+?) \[(.+?)\]$"
-    match = re.search(pattern, lemma)
-    extra = ""
-    if match:
-      lemma = match.group(1)
-      extra = match.group(2)
-
+    lemma, extra = getLemmaAndExtra(lemma)
     inflected_forms_tags = getInflectedFormsAndTags(lemma, forms_tags, extra)
     inflected_forms.extend(getFormTagLemma(inflected_forms_tags, lemma, variants_groups[i])) 
   return inflected_forms
