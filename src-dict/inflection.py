@@ -18,11 +18,11 @@ def getDuplicateConsonant(extra):
   match = re.search(patternDuplicateConsonant1,extra)
   if match:
     results.append(match.group(1))
-  #patternDuplicateConsonant2 = r"^\-(([^aeiouywh])\2)-,-(\2)-$"
-  #match = re.search(patternDuplicateConsonant2,extra)
-  #if match:
-  #  results.append(match.group(1))
-  #  results.append(match.group(2))
+  patternDuplicateConsonant2 = r"^\-(([^aeiouywh])\2)-,-(\2)-$"
+  match = re.search(patternDuplicateConsonant2,extra)
+  if match:
+    results.append(match.group(1))
+    results.append(match.group(2))
   return results
 
 
@@ -34,27 +34,44 @@ def getInflectedFormsAndTags(lemma, pos, extra=''):
   # inflection of regular verbs
   if pos=="verb":
     duplicate_consonant_list = getDuplicateConsonant(extra)
-    if len(duplicate_consonant_list) == 1:
+    third_person = "s"
+    if len(lemma)>2 and (lemma.endswith("x") or lemma.endswith("sh") or lemma.endswith("ss") or lemma.endswith("ch") or (lemma.endswith("s") and lemma[-2] in vowels)):
+      third_person = "es"
+    if ";" in extra:
+      forms = lemma +"/VB"
+      extra_parts = extra.split(";")
+      vbzs = extra_parts[0].split(",")
+      vbds = extra_parts[1].split(",")
+      vbns = extra_parts[2].split(",")
+      vbgs = extra_parts[3].split(",")
+      for vbd in vbds:
+        forms += ","+vbd+"/VBD"
+      for vbg in vbgs:
+        forms += ","+vbg+"/VBG"
+      for vbn in vbns:
+        forms += ","+vbn+"/VBN"
+      forms += ","+lemma+"/VBP"
+      for vbz in vbzs:
+        forms += ","+vbz+"/VBZ"
+    elif len(duplicate_consonant_list) == 1:
       duplicate_consonant = extra[1]
-      forms = "-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", duplicate_consonant)
-    #elif len(duplicate_consonant_list) == 2:
-    #  duplicate_consonant = extra[1]
-    #  forms = "-/VB,-ed/VBD,-$ed/VBD,-ing/VBG,-$ing/VBG,-ed/VBN,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", duplicate_consonant)
+      forms = ("-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-"+third_person+"/VBZ").replace("-", lemma).replace("$", duplicate_consonant)
+    elif len(duplicate_consonant_list) == 2:
+      duplicate_consonant = extra[1]
+      forms = ("-/VB,-ed/VBD,-$ed/VBD,-ing/VBG,-$ing/VBG,-ed/VBN,-$ed/VBN,-/VBP,-"+third_person+"/VBZ").replace("-", lemma).replace("$", duplicate_consonant)
     elif lemma.endswith("e"):
       root = lemma[:-1]
       forms = "-e/VB,-ed/VBD,-ing/VBG,-ed/VBN,-e/VBP,-es/VBZ".replace("-", root)
     elif len(lemma)>2 and lemma[-1]==("y") and lemma[-2] not in vowels:
       root = lemma[:-1]
       forms = "-y/VB,-ied/VBD,-ying/VBG,-ied/VBN,-y/VBP,-ies/VBZ".replace("-", root)
-    elif len(lemma)>2 and (lemma.endswith("x") or lemma.endswith("sh") or lemma.endswith("ss") or lemma.endswith("ch") or (lemma.endswith("s") and lemma[-2] in vowels)):
-      forms = "-/VB,-ed/VBD,-ing/VBG,-ed/VBN,-/VBP,-es/VBZ".replace("-", lemma)
     elif re.search(patternCVC,lemma): 
       # duplicate the last consonant: hug -> hugged
-      forms = "-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-s/VBZ".replace("-", lemma).replace("$", lemma[-1])
+      forms = ("-/VB,-$ed/VBD,-$ing/VBG,-$ed/VBN,-/VBP,-"+third_person+"/VBZ").replace("-", lemma).replace("$", lemma[-1])
       # for verbs with more than one syllable, it cannot be done because 
       # we don't know which syllable is stressed (prefer/preferred, visit/visited, admit/admitted)
     else:
-      forms = "-/VB,-ed/VBD,-ing/VBG,-ed/VBN,-/VBP,-s/VBZ".replace("-", lemma)
+      forms = ("-/VB,-ed/VBD,-ing/VBG,-ed/VBN,-/VBP,-"+third_person+"/VBZ").replace("-", lemma)
 
   #inflection of regular nouns
   if pos.startswith("noun"):
