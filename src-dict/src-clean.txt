@@ -5,6 +5,7 @@
 #Americaness=NN:U=all #unusual
 #Archaeozoic=JJ=all #unusual
 #Las=NNP=all # Spanish names, musical note
+#aggroup=verb=all # archaic
 #an't=contraction=all # misspelling?
 #anotherArtificialTestWordForLanguageTool=UNTAGGED=all
 #bye-election=noun=all # usual
@@ -27124,6 +27125,7 @@ abracadabra=UH=all
 abracadabra=noun_U=all
 abrade=verb=all
 abrader=noun=all
+abrase=verb=all
 abrasion=noun_UN=all
 abrasive=JJ=all
 abrasive=noun_UN=all
@@ -27464,7 +27466,9 @@ acetylative=JJ=all
 acetylcholine=noun_U=all
 acetylcholinesterase=noun=all
 acetylene=noun_U=all
-acetylization|acetylisation=noun_UN=us,ca,gb|gb,au,nz,za
+acetylization=noun_UN=all # unusual
+acetylize=verb=all # unusual
+acetylizer=noun=all # unusual
 acetylsalicylic=JJ=all
 ach-laut=noun=all
 ache=noun=all
@@ -29423,6 +29427,7 @@ anastrophe=noun=all
 anathema=anathema/NN,anathema/NN:U,anathemas/NNS=all
 anathematization|anathematisation=noun_UN=us,ca,gb|gb,au,nz,za
 anathematize|anathematise=verb=us,ca,gb|gb,au,nz,za
+anathemize|anathemise=verb=us,ca,gb|gb,au,nz,za
 anatomic=JJ=all
 anatomical=JJ=all
 anatomical=NN=all
@@ -30714,8 +30719,8 @@ arm=verb=all
 armada=noun=all
 armadillo=noun=all
 armament=noun_UN=all
-armature=armatured/VBD,armaturing/VBG,armatured/VBN=all
 armature=noun=all
+armature=verb=all
 armband=noun=all
 armchair=JJ=all
 armchair=noun=all
@@ -32831,8 +32836,8 @@ beady=beady/JJ,beadier/JJR,beadiest/JJS=all
 beagle=noun=all
 beagle=verb=all
 beagling=noun_U=all
-beak=beak/VB,beaked/VBD,beaked/VBN,beak/VBP,beaks/VBZ=all
 beak=noun=all
+beak=verb=all
 beaked=JJ=all
 beaker=noun=all
 beam=noun=all
@@ -32913,7 +32918,7 @@ beauty=UH=all
 beauty=noun_UN=all
 beaver=beaver/NN:UN,beaver/NNS,beavers/NNS=all
 beaver=verb=all
-bebop=bebop/VB,bebop/VBP,bebops/VBZ=all
+bebop [-pp-]=verb=all
 bebop=noun_U=all
 becalm=verb=all
 becalmed=JJ=all
@@ -34032,7 +34037,6 @@ black=verb=all
 blackamoor=noun=all
 blackball=noun=all
 blackball=verb=all
-blackberry=blackberry/VB,blackberrying/VBG,blackberry/VBP,blackberries/VBZ=all
 blackberry=noun=all
 blackbird=noun=all
 blackboard=noun=all
@@ -35522,8 +35526,8 @@ bronze=verb=all
 bronzer=noun=all
 bronzing=noun_UN=all
 bronzy=bronzy/JJ,bronzier/JJR,bronziest/JJS=all
-brooch=brooch/VB,brooch/VBP,brooches/VBZ=all
 brooch=noun=all
+brooch=verb=all
 brood=brood/JJ,brooder/JJR=all
 brood=noun=all
 brood=verb=all
@@ -36960,7 +36964,6 @@ carman=carman/NN,carmen/NNS=all
 carminative=JJ=all
 carminative=noun=all
 carmine=JJ=all
-carmine=carmine/VB,carmine/VBP,carmines/VBZ=all
 carmine=noun_U=all
 carnage=noun_U=all
 carnal=JJ=all
@@ -37739,7 +37742,7 @@ chaffy=chaffy/JJ,chaffier/JJR,chaffiest/JJS=all
 chagrin=chagrin/VB,chagrined/VBD,chagrinned/VBD,chagrining/VBG,chagrinning/VBG,chagrined/VBN,chagrinned/VBN,chagrin/VBP,chagrins/VBZ=all
 chagrin=noun_U=all
 chai=noun=all
-chain-smoke=chain-smoke/VB,chain-smoked/VBD,chain-smoking/VBG,chain-smoked/VBN,chain-smoke/VBP=all
+chain-smoke=verb=all
 chain=noun=all
 chain=verb=all
 chained=JJ=all
@@ -38289,8 +38292,8 @@ chintz=noun_U=all
 chintzily=RB=all
 chintziness=NN:U=all
 chintzy=chintzy/JJ,chintzier/JJR,chintziest/JJS=all
+chinwag [-gg-]=verb=all
 chinwag=NN=all
-chinwag=chinwag/VB,chinwagged/VBD,chinwagged/VBN,chinwag/VBP,chinwagging/VBZ,chinwags/VBZ=all
 chip=noun=all
 chip=verb=all
 chipboard=noun_U=all
@@ -38789,8 +38792,8 @@ citizenly=RB=all
 citizenry=noun_U=all
 citizenship=noun_U=all
 citole=noun=all
-citrate=citrate/VB,citrated/VBD,citrated/VBN,citrate/VBP,citrates/VBZ=all
 citrate=noun=all
+citrate=verb=all
 citric=JJ=all
 citriculture=noun=all
 citrine=noun=all
@@ -40331,8 +40334,8 @@ completist=noun=all
 complex=complex/JJ,complexer/JJR,complexest/JJS=all
 complex=complex/NN:U,complexes/NNS,complices/NNS=all
 complex=complex/VB,complexed/VBD,complexing/VBG,complexed/VBN,complex/VBP,complexes/VBZ=all
-complexion=complexion/VB,complexioned/VBD,complexioned/VBN,complexion/VBP,complexions/VBZ=all
 complexion=noun=all
+complexion=verb=all
 complexional=JJ=all
 complexioned=JJ=all
 complexity=noun_UN=all
@@ -41338,7 +41341,7 @@ contractor=noun=all
 contractual=JJ=all
 contractually=RB=all
 contracture=noun=all
-contradance=contradance/VB,contradance/VBP,contradances/VBZ=all
+contradance=noun=all
 contradict=verb=all
 contradiction=noun_UN=all
 contradictiousness=NN:U=all
@@ -42022,6 +42025,8 @@ countenance=noun_UN=all
 countenance=verb=all
 countenancer=noun=all
 counter-colored|counter-coloured=JJ=us|gb,ca,au,nz,za
+counter-strike=noun=all
+counter-stroke=noun=all
 counter=JJ=all
 counter=noun=all
 counter=verb=all
@@ -42137,7 +42142,6 @@ counterspy=noun=all
 counterstatement=noun=all
 counterstrategy=noun=all
 counterstream=noun=all
-counterstrike=counterstrike/VB,counterstrike/VBP,counterstrikes/VBZ=all
 counterstrike=noun=all
 counterstroke=noun=all
 counterstyle=noun=all
@@ -42202,8 +42206,7 @@ courser=noun=all
 courseware=noun=all
 coursework=NN:U=all
 coursing=noun_UN=all
-court-martial=court-martial/NN,court-martials/NNS,courts-martial/NNS=all
-court-martial=court-martial/VB,court-martialed/VBD,court-martialing/VBG,court-martialed/VBN,court-martial/VBP=all
+court-martial [-ll-]|court-martial=verb=all|us
 court=noun_UN=all
 court=verb=all
 courteous=JJ=all
@@ -43743,7 +43746,7 @@ daredevil=noun=all
 daredevilry=noun_U=all
 daren't=contraction=all
 darer=noun=all
-daresay=daresay/VB,daresay/VBP=all
+daresay=daresay/VB,daresayed/VBD,daresaid/VBD,daresaying/VBG,daresaid/VBN,daresayed/VBN,daresay/VBP,daresays/VBZ=all
 daring=JJ=all
 daring=noun_U=all
 daringly=RB=all
@@ -47840,8 +47843,8 @@ droopingly=RB=all
 droopy=droopy/JJ,droopier/JJR,droopiest/JJS=all
 drop-dead=JJ=all
 drop-dead=RB=all
-drop-kick=drop-kick/VB,dropkicking/VBG,drop-kick/VBP=all
 drop-kick=noun=all
+drop-kick=verb=all
 drop-off=NN=all
 drop-ship [-pp-]=verb=all
 drop-ship=JJ=all
@@ -51964,8 +51967,8 @@ fastness=NN:U=all
 fat-finger=noun=all
 fat-finger=verb=all
 fat=fat/JJ,fatter/JJR,fattest/JJS=all
-fat=fatted/VBD,fatted/VBN=all
 fat=noun_UN=all
+fat=verb=all
 fatal=JJ=all
 fatalism=noun_U=all
 fatalist=JJ=all
@@ -52872,7 +52875,7 @@ fissure=noun=all
 fissure=verb=all
 fist=noun=all
 fist=verb=all
-fistfight=fistfight/VB,fistfight/VBP,fistfights/VBZ=all
+fistfight=fistfight/VB,fistfought/VBD,fistfighting/VBG,fistfought/VBN,fistfight/VBP,fistfights/VBZ=all
 fistfight=noun=all
 fistful=noun=all
 fistic=JJ=all
@@ -53646,7 +53649,7 @@ foolish=foolish/JJ,foolisher/JJR,foolishest/JJS=all
 foolishly=RB=all
 foolishness=NN:U=all
 foolproof=JJ=all
-foolproof=foolproof/VB,foolproof/VBP=all
+foolproof=verb=all
 foolscap=noun_U=all
 foosball=NN:UN=all
 foot=foot/NN:UN,feet/NNS=all
@@ -53754,7 +53757,7 @@ fore=UH=all
 fore=noun_U=all
 forearm=noun=all
 forearm=verb=all
-forebear=forebear/VB,forebear/VBP,forebears/VBZ=all
+forebear=forebear/VB,forebore/VBD,forebearing/VBG,foreborne/VBN,forebear/VBP,forebears/VBZ=all # obsolete --> remove! 
 forebear=noun=all
 forebode=verb=all
 foreboding=JJ=all
@@ -54686,7 +54689,6 @@ full-time=RB=all
 full=full/JJ,fuller/JJR,fullest/JJS=all
 full=noun=all
 full=verb=all
-fullback=fullback/VB,fullback/VBP,fullbacks/VBZ=all
 fullback=noun=all
 fuller=noun=all
 fullerene=noun=all
@@ -57940,8 +57942,8 @@ harissa=noun=all
 hark=verb=all
 harken=verb=all
 harlequin=JJ=all
-harlequin=harlequin/VB,harlequin/VBP,harlequins/VBZ=all
 harlequin=noun=all
+harlequin=verb=all
 harlequinade=noun=all
 harlot=JJ=all
 harlot=noun=all
@@ -59881,7 +59883,6 @@ huckster=verb=all
 huddle=noun=all
 huddle=verb=all
 huddler=noun=all
-hue=hue/VB,hued/VBD,hued/VBN,hue/VBP,hues/VBZ=all
 hue=noun=all
 hued=JJ=all
 hueless=JJ=all
@@ -67912,7 +67913,6 @@ lyrate=JJ=all
 lyre=noun=all
 lyrebird=noun=all
 lyric=JJ=all
-lyric=lyric/VB,lyric/VBP,lyrics/VBZ=all
 lyric=noun=all
 lyrical=JJ=all
 lyrically=RB=all
@@ -67921,6 +67921,7 @@ lyricism=noun_U=all
 lyricist=noun=all
 lyricization|lyricisation=noun_UN=us,ca,gb|gb,au,nz,za
 lyricize|lyricise=verb=us,ca,gb|gb,au,nz,za
+lyrics=NNS=all
 lyrist=noun=all
 lysine=noun_U=all
 lysis=lysis/NN:U,lyses/NNS=all
@@ -69796,7 +69797,7 @@ methanol=noun_U=all
 metheglin=noun=all
 methenamine=noun=all
 methicillin=methicillin/NN,methicillin/NN:U,methicillins/NNS=all
-methinks=methinks/VB,methought/VBD,methought/VBN,methinks/VBP=all
+methinks=methought/VBD,methinks/VBP=all
 methionine=noun_UN=all
 methocarbamol=methocarbamol/NN,methocarbamol/NN:U=all
 method=noun_UN=all
@@ -69950,7 +69951,8 @@ microcoded=JJ=all
 microcomputer=noun=all
 microcontinental=JJ=all
 microcontroller=noun=all
-microcopy=microcopy/VB,microcopy/VBP,microcopies/VBZ=all
+microcopy=noun=all
+microcopy=verb=all
 microcosm=noun_UN=all
 microcosmic=JJ=all
 microcoulomb=noun=all
@@ -71367,8 +71369,8 @@ moonlit=JJ=all
 moonrise=noun=all
 moonscape=noun=all
 moonset=noun=all
-moonshine=moonshine/VB,moonshine/VBP,moonshines/VBZ=all
 moonshine=noun_U=all
+moonshine=verb=all
 moonshiner=noun=all
 moonshot=noun=all
 moonstone=moonstone/NN,moonstone/NN:U,moonstones/NNS=all
@@ -71578,7 +71580,6 @@ motiveless=JJ=all
 motivelessness=NN:U=all
 motivity=noun_UN=all
 motley=motley/JJ,motlier/JJR,motliest/JJS=all
-motley=motley/VB,motley/VBP,motleys/VBZ=all
 motley=noun_U=all
 motmot=noun=all
 motocross=noun=all
@@ -71908,8 +71909,8 @@ multigene=JJ=all
 multigene=noun=all
 multigenre=JJ=all
 multigrain=noun=all
-multigraph=multigraph/VB,multigraph/VBP=all
 multigraph=noun=all
+multigraph=verb=all
 multiheaded=JJ=all
 multihull=noun=all
 multijoint=JJ=all
@@ -72114,8 +72115,8 @@ muriatic=JJ=all
 murine=JJ=all
 murine=noun=all
 murk=JJ=all
-murk=murk/VB,murk/VBP,murks/VBZ=all
 murk=noun_U=all
+murk=verb=all
 murkily=RB=all
 murkiness=NN:U=all
 murky=NN=all
@@ -75846,7 +75847,7 @@ outargue=verb=all
 outback=noun=all
 outback=outback/JJ,outbacker/JJR=all
 outbalance=verb=all
-outbid=outbid/VB,outbidden/VB,outbid/VBD,outbidding/VBG,outbid/VBN,outbidden/VBN,outbid/VBP,outbids/VBZ=all
+outbid=outbid/VB,outbid/VBD,outbidding/VBG,outbid/VBN,outbidden/VBN,outbid/VBP,outbids/VBZ=all
 outboard=JJ=all
 outboard=noun=all
 outboast=verb=all
@@ -76210,7 +76211,7 @@ overenthusiastically=RB=all
 overestimate=noun=all
 overestimate=verb=all
 overestimation=noun_U=all
-overexaggerate=overexaggerate/VB,overexaggerated/VBD,overexaggerated/VBN,overexaggerate/VBP,overexaggerates/VBZ=all
+overexaggerate=verb=all
 overexaggeration=noun_UN=all
 overexcitable=JJ=all
 overexcite=verb=all
@@ -77699,7 +77700,7 @@ patrolling=NN:UN=all
 patrology=NN:UN=all
 patron=noun=all
 patronage=noun_U=all
-patronage=patronage/VB,patronage/VBP,patronages/VBZ=all
+patronage=verb=all
 patronal=JJ=all
 patroness=NN:U=all
 patronization|patronisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -80571,7 +80572,7 @@ pommel=noun=all
 pomodoro=JJ=all
 pomp=noun_U=all
 pompadour=noun=all
-pompadour=pompadour/VB,pompadoured/VBD,pompadoured/VBN,pompadour/VBP,pompadours/VBZ=all
+pompadour=verb=all
 pompano=pompano/NN,pompano/NNS,pompanos/NNS=all
 pompom=noun=all
 pompon=noun=all
@@ -81247,7 +81248,7 @@ pre-order=verb=all
 pre-orderable=JJ=all
 pre-owned=JJ=all
 pre-pandemic=JJ=all
-pre-plan=pre-plan/VB,pre-planned/VBD,pre-planning/VBG,pre-planned/VBN,pre-plan/VBP=all
+pre-plan [-nn-]=verb=all
 pre-planned=JJ=all
 pre-prep=JJ=all
 pre-prepare=verb=all
@@ -81345,7 +81346,7 @@ prearrange=verb=all
 prearranged=JJ=all
 prearrangement=noun_U=all
 prearrival=JJ=all
-preassemble=preassemble/VB,preassembled/VBD,preassembled/VBN,preassemble/VBP=all
+preassemble=verb=all
 preassembled=JJ=all
 preassembly=NN=all
 preassign=verb=all
@@ -81624,7 +81625,7 @@ prefix=noun=all
 prefix=prefix/VB,prefixed/VBD,prefixing/VBG,prefixed/VBN,prefix/VBP,prefixes/VBZ=all
 preflight=JJ=all
 preflight=NN=all
-preflight=preflight/VB,preflighted/VBD,preflighting/VBG,preflighted/VBN,preflight/VBP=all
+preflight=verb=all
 preform=noun=all
 preform=verb=all
 preformat [-tt-]=verb=all
@@ -81778,7 +81779,7 @@ prepense=JJ=all
 preperitoneal=JJ=all
 preplace=verb=all
 preplacental=JJ=all
-preplan=preplan/VB,preplanned/VBD,preplanning/VBG,preplanned/VBN,preplan/VBP=all
+preplan [-nn-]=verb=all
 preplanned=JJ=all
 preponderance=noun=all
 preponderant=JJ=all
@@ -82268,7 +82269,6 @@ prize=prize/JJ,prizer/JJR=all
 prize=verb=all
 prized=JJ=all
 prizefight=noun=all
-prizefight=prizefight/VB,prizefighting/VBG,prizefight/VBP,prizefights/VBZ=all
 prizefighter=noun=all
 prizefighting=noun_U=all
 prizewinner=noun=all
@@ -84065,8 +84065,8 @@ quickness=NN:U=all
 quicksand=noun_UN=all
 quicksilver=JJ=all
 quicksilver=noun_U=all
+quickstep [-pp-]=verb=all
 quickstep=noun=all
-quickstep=quickstep/VB,quickstepping/VBG,quickstep/VBP,quicksteps/VBZ=all
 quickwitted=JJ=all
 quickwittedness=NN:U=all
 quid=quid/NN,quid/NNS,quids/NNS=all
@@ -84204,7 +84204,7 @@ quote=UH=all
 quote=noun=all
 quote=verb=all
 quoter=noun=all
-quoth=quoth/VB,quoth/VBP=all
+quoth=verb=all # archaic
 quotidian=JJ=all
 quotidian=NN=all
 quotidianness=NN:U=all
@@ -84784,8 +84784,8 @@ re-examine=noun=all
 re-examine=verb=all
 re-execute=verb=all
 re-exist=verb=all
-re-export=re-export/NN,re-export/NN:UN,re-exports/NNS=all
-re-export=re-export/VB,re-exported/VBD,re-exported/VBN,re-export/VBP,re-exporting/VBZ,re-exports/VBZ=all
+re-export=noun=all
+re-export=verb=all
 re-form=verb=all
 re-import=noun=all
 re-import=verb=all
@@ -85106,7 +85106,7 @@ recheck=noun=all
 recheck=verb=all
 recherché=JJ=all
 rechristen=verb=all
-recidivate=recidivate/VB,recidivate/VBP=all
+recidivate=verb=all
 recidivism=noun_U=all
 recidivist=noun=all
 recipe=noun=all
@@ -86910,7 +86910,7 @@ resuscitate=verb=all
 resuscitation=noun_U=all
 resuscitative=JJ=all
 resuscitator=noun=all
-resuspend=resuspend/VB,resuspend/VBP=all
+resuspend=verb=all
 resuspension=NN=all
 resveratrol=noun_UN=all
 resymbolization|resymbolisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -89693,7 +89693,6 @@ seamstress=noun=all
 seamy=seamy/JJ,seamier/JJR,seamiest/JJS=all
 seance=noun=all
 seaplane=noun=all
-seaplane=seaplane/VB,seaplane/VBP,seaplanes/VBZ=all
 seaport=noun=all
 seaquake=noun=all
 sear=noun=all
@@ -91984,7 +91983,7 @@ skinned=JJ=all
 skinner=noun=all
 skinniness=NN:U=all
 skinny-dip=noun=all
-skinny-dip=skinny-dip/VB,skinny-dipping/VBG,skinny-dip/VBP=all
+skinny-dip=verb=all
 skinny-dipper=NN=all
 skinny=skinny/JJ,skinnier/JJR,skinniest/JJS=all
 skinny=skinny/NN,skinny/NN:U,skinnies/NNS=all
@@ -92123,7 +92122,7 @@ slasher=noun=all
 slashing=JJ=all
 slashing=noun_UN=all
 slat=noun=all
-slat=slat/VB,slatted/VBD,slatting/VBG,slatted/VBN,slat/VBP=all
+slat=verb=all
 slate=noun_UN=all
 slate=verb=all
 slater=noun=all
@@ -95392,7 +95391,7 @@ stromatolite=noun=all
 strombolian=JJ=all
 strong-arm=JJ=all
 strong-arm=NN=all
-strong-arm=strong-arm/VB,strong-armed/VBD,strong-arming/VBG,strong-armed/VBN,strong-arm/VBP=all
+strong-arm=verb=all
 strong-mindedness=NN:U=all
 strong=strong/JJ,stronger/JJR,strongest/JJS=all
 strongbox=noun=all
@@ -102342,7 +102341,7 @@ underlaborer|underlabourer=noun=us|gb,ca,au,nz,za
 underlaid=JJ=all
 underlain=noun=all
 underlay=noun_U=all
-underlay=underlay/VB,underlaid/VBD,underlaying/VBG,underlaid/VBN,underlay/VBP=all
+underlay=underlay/VB,underlaid/VBD,underlaying/VBG,underlaid/VBN,underlay/VBP,underlays/VBZ=all
 underlayer=noun=all
 underlet=underlet/VB,underlet/VBD,underletting/VBG,underlet/VBN,underlet/VBP,underlets/VBZ=all
 underlie=underlie/VB,underlay/VBD,underlying/VBG,underlain/VBN,underlie/VBP,underlies/VBZ=all
@@ -103465,7 +103464,7 @@ unmodifiable=JJ=all
 unmodified=JJ=all
 unmolested=JJ=all
 unmonitored=JJ=all
-unmoor=unmoor/VB,unmoored/VBD,unmooring/VBG,unmoored/VBN,unmoors/VBZ=all
+unmoor=verb=all
 unmoral=JJ=all
 unmorality=noun_U=all
 unmotivated=JJ=all
@@ -106958,7 +106957,6 @@ wheeziness=NN:U=all
 wheezing=noun_UN=all
 wheezy=wheezy/JJ,wheezier/JJR,wheeziest/JJS=all
 whelk=noun=all
-whelk=whelk/VB,whelked/VBD,whelked/VBN,whelk/VBP,whelks/VBZ=all
 whelm=verb=all
 whelp=noun=all
 whelp=verb=all
@@ -107084,7 +107082,6 @@ whirl=noun=all
 whirl=verb=all
 whirler=noun=all
 whirligig=noun=all
-whirligig=whirligig/VB,whirligig/VBP,whirligigs/VBZ=all
 whirling=JJ=all
 whirling=NN:UN=all
 whirlpool=noun=all
@@ -107099,7 +107096,6 @@ whirring=noun_UN=all
 whisk=noun=all
 whisk=verb=all
 whisker=noun=all
-whisker=whisker/VB,whiskered/VBD,whiskered/VBN,whisker/VBP,whiskers/VBZ=all
 whiskered=JJ=all
 whiskery=JJ=all
 whiskey=noun_UN=all

@@ -99,7 +99,7 @@ def getFormTagLemma(forms_tags, lemma, variants):
     return inflected_forms
 
 def getFormsFromLine(line):
-  print(line)
+  #print(line)
   line = clean_line(line)
   inflected_forms = []
   if line == "":
@@ -116,8 +116,63 @@ def getFormsFromLine(line):
     inflected_forms_tags = getInflectedFormsAndTags(lemma, forms_tags, extra)
     inflected_forms.extend(getFormTagLemma(inflected_forms_tags, lemma, variants_groups[i])) 
   return inflected_forms
-   
-    
+
+#behold/VB,beheld/VBD,beholding/VBG,beheld/VBN,behold/VBP,beholds/VBZ
+def isErrorInVerbalForms(tag_forms_dict, lemma):
+  verb_tags = ["VB", "VBP", "VBZ", "VBD", "VBN", "VBG"]
+  is_error = False
+  if lemma in ["do", "have", "methinks", "be"]:
+    return is_error
+  if set(tag_forms_dict.keys()) != set(verb_tags):
+    print ("ERROR: incomplete set of tags: " + str(tag_forms_dict))
+    is_error = True
+  if any(not s.endswith("s") for s in tag_forms_dict["VBZ"]):
+    print ("ERROR: VBZ form must end with -s: " + str(tag_forms_dict))
+    is_error = True
+  if any(not s.endswith("ing") for s in tag_forms_dict["VBG"]):
+    print ("ERROR: VBG form must end with -ing: " + str(tag_forms_dict))
+    is_error = True
+  if len(tag_forms_dict["VB"])>1:
+    print ("ERROR: only one base form is expected: " + str(tag_forms_dict))
+    is_error = True
+  if lemma == "be":
+    return is_error
+  if len(tag_forms_dict["VBP"])>1:
+    print ("ERROR: only one VBP is expected: " + str(tag_forms_dict))
+    is_error = True
+  if len(tag_forms_dict["VB"])==1 and len(tag_forms_dict["VBP"])==1 and tag_forms_dict["VB"][0]!=tag_forms_dict["VBP"][0]:
+    print ("ERROR: VB and VBP forms are expected to be equal: " + str(tag_forms_dict))
+    is_error = True
+  if len(tag_forms_dict["VB"])==1 and tag_forms_dict["VB"][0]!=lemma:
+    print ("ERROR: lemma is expected to be equal to VB form: " + str(tag_forms_dict))
+    is_error = True
+  return is_error
+
+
+def parseVerbalForms(line):
+  line = clean_line(line)
+  parts = line.split("=")
+  if len(parts)!=3:
+    return
+  lemmas = parts[0]
+  forms_tags = parts[1]
+  variants = parts[2]
+  tag_forms_dict = {}
+  if lemmas in ["do", "have", "methinks", "be"]:
+    return line
+  for form_tag in forms_tags.split(","):
+    form, tag = tuple(form_tag.split("/"))
+    if tag in tag_forms_dict:
+      tag_forms_dict[tag].append(form)
+    else:
+      tag_forms_dict[tag] = [form]
+  if not isErrorInVerbalForms(tag_forms_dict, lemmas):
+    # "VBZ", "VBD", "VBN", "VBG"
+    new_line = lemmas+" ["+",".join(tag_forms_dict["VBZ"])+";"+",".join(tag_forms_dict["VBD"])+";" + ",".join(tag_forms_dict["VBN"])+";" + ",".join(tag_forms_dict["VBG"])+"]=verb="+variants
+    return new_line
+  return "ERROR: "+line
+
+  
 
   
   
@@ -161,7 +216,7 @@ assert getInflectedFormsAndTags("life", "noun") != "life/NN,lives/NNS"
 assert getInflectedFormsAndTags("potato", "noun") != "potato/NN,potatoes/NNS"
 assert getInflectedFormsAndTags("echo", "noun") != "echo/NN,echoes/NNS"
 
-#print (getInflectedFormsAndTags("hantavirus", "noun"))
+
 #print (getInflectedFormsAndTags("shilly-shally", "verb"))
 #print (getInflectedFormsAndTags("program", "verb", "-mm-"))
 #print (getInflectedFormsAndTags("co-star", "verb", "-rr-"))
