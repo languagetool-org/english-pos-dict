@@ -8783,7 +8783,7 @@ Februaries=NNPS=all
 February=FEBRUARY/NNP,February/NNP,Februaries/NNPS,Februarys/NNPS=all
 Fechner=NNP=all
 Fed=Fed/NNP,Feds/NNPS=all
-FedEx=FedEx/VB,FedExed/VBD,FedExing/VBG,FedExed/VBN,FedEx/VBP,FedExes/VBZ=all
+FedEx=verb=all
 FedEx=NNP=all
 FedExField=NNP=all
 Federal=Federal/NNP,Federals/NNPS=all
@@ -27859,7 +27859,7 @@ admissive=JJ=all
 admit [-tt-]=verb=all
 admittance=noun_U=all
 admittedly=RB=all
-admix=admix/VB,admixed/VBD,admixing/VBG,admixed/VBN,admix/VBP,admixes/VBZ=all
+admix=verb=all
 admixture=noun=all
 admonish=verb=all
 admonished=JJ=all
@@ -28158,7 +28158,7 @@ affirmatively=RB=all
 affirmativeness=NN:U=all
 affirmatory=JJ=all
 affirmer=noun=all
-affix=affix/VB,affixed/VBD,affixing/VBG,affixed/VBN,affix/VBP,affixes/VBZ=all
+affix=verb=all
 affix=noun=all
 affixation=noun_UN=all
 affixed=JJ=all
@@ -29633,7 +29633,7 @@ annealer=noun=all
 annealing=noun_UN=all
 annelid=JJ=all
 annelid=noun=all
-annex=annex/VB,annexed/VBD,annexing/VBG,annexed/VBN,annex/VBP,annexes/VBZ=all
+annex=verb=all
 annex=noun=all
 annexation=noun_UN=all
 annexationist=noun=all
@@ -32886,7 +32886,7 @@ beat=JJ=all
 beat=beat/VB,beat/VBD,beating/VBG,beat/VBN,beaten/VBN,beat/VBP,beats/VBZ=all
 beat=noun=all
 beatable=JJ=all
-beatbox=beatbox/VB,beatboxed/VBD,beatboxing/VBG,beatboxed/VBN,beatbox/VBP,beatboxes/VBZ=all
+beatbox=verb=all
 beatbox=noun=all
 beatboxer=noun=all
 beatboxing=NN:U=all
@@ -35017,7 +35017,7 @@ bowstring=noun=all
 bowwow=noun=all
 bowyer=noun=all
 box=box/NN:UN,box/NNS,boxes/NNS=all
-box=box/VB,boxed/VBD,boxing/VBG,boxed/VBN,box/VBP,boxes/VBZ=all
+box=verb=all
 boxboard=noun=all
 boxcar=noun=all
 boxed=JJ=all
@@ -38245,7 +38245,7 @@ chiliastic=JJ=all
 chill=chill/JJ,chiller/JJR,chillest/JJS=all
 chill=noun=all
 chill=verb=all
-chillax=chillax/VB,chillaxed/VBD,chillaxing/VBG,chillaxed/VBN,chillax/VBP,chillaxes/VBZ=all
+chillax=verb=all
 chilled=JJ=all
 chiller=noun=all
 chilliness=NN:U=all
@@ -39120,7 +39120,7 @@ climatological=JJ=all
 climatologically=RB=all
 climatologist=noun=all
 climatology=noun_U=all
-climax=climax/VB,climaxed/VBD,climaxing/VBG,climaxed/VBN,climax/VBP,climaxes/VBZ=all
+climax=verb=all
 climax=noun=all
 climb=climb/NN,climbdown/NNS,climbs/NNS=all
 climb=verb=all
@@ -39434,7 +39434,7 @@ coater=noun=all
 coating=noun_UN=all
 coattail=JJ=all
 coattail=noun=all
-coax=coax/VB,coaxed/VBD,coaxing/VBG,coaxed/VBN,coax/VBP,coaxes/VBZ=all
+coax=verb=all
 coax=noun=all
 coaxer=noun=all
 coaxial=JJ=all
@@ -40333,7 +40333,7 @@ completion=noun_U=all
 completist=noun=all
 complex=complex/JJ,complexer/JJR,complexest/JJS=all
 complex=complex/NN:U,complexes/NNS,complices/NNS=all
-complex=complex/VB,complexed/VBD,complexing/VBG,complexed/VBN,complex/VBP,complexes/VBZ=all
+complex=verb=all
 complexion=noun=all
 complexion=verb=all
 complexional=JJ=all
@@ -42302,7 +42302,7 @@ cowrite=noun=all
 cowriter=noun=all
 cowshed=noun=all
 cowslip=noun=all
-cox=cox/VB,coxed/VBD,coxing/VBG,coxed/VBN,cox/VBP,coxes/VBZ=all
+cox=verb=all
 cox=noun=all
 coxcomb=noun=all
 coxswain=noun=all
@@ -42772,7 +42772,7 @@ cross-fertilization|cross-fertilisation=noun_UN=us,ca,gb|gb,au,nz,za
 cross-functional=JJ=all
 cross-grain=JJ=all
 cross-hatching=noun=all
-cross-index=cross-index/VB,cross-indexed/VBD,cross-indexing/VBG,cross-indexed/VBN,cross-index/VBP,cross-indexes/VBZ=all
+cross-index=verb=all
 cross-index=noun=all
 cross-link=noun=all
 cross-link=verb=all
@@ -45256,7 +45256,7 @@ deserving=JJ=all
 deserving=noun_UN=all
 deservingly=RB=all
 deservingness=NN:U=all
-desex=desex/VB,desexed/VBD,desexing/VBG,desexed/VBN,desex/VBP,desexes/VBZ=all
+desex=verb=all
 desexualization|desexualisation=noun_UN=us,ca,gb|gb,au,nz,za
 desexualize|desexualise=verb=us,ca,gb|gb,au,nz,za
 desiccant=JJ=all
@@ -45475,7 +45475,7 @@ detonation=detonation/NN,detonation/NN:U,detonations/NNS=all
 detonator=noun=all
 detour=noun=all
 detour=verb=all
-detox=detox/VB,detoxed/VBD,detoxing/VBG,detoxed/VBN,detox/VBP,detoxes/VBZ=all
+detox=verb=all
 detox=noun=all
 detoxicate=verb=all
 detoxification=noun_U=all
@@ -48096,7 +48096,7 @@ dupion=noun=all
 duple=JJ=all
 duplet=noun=all
 duplex=duplex/JJ,duplexer/JJR=all
-duplex=duplex/VB,duplexed/VBD,duplexing/VBG,duplexed/VBN,duplex/VBP,duplexes/VBZ=all
+duplex=verb=all
 duplex=noun=all
 duplicability=noun_UN=all
 duplicable=JJ=all
@@ -52078,7 +52078,7 @@ fawning=noun_UN=all
 fawningly=RB=all
 fawningness=NN:U=all
 fawny=fawny/JJ,fawnier/JJR,fawniest/JJS=all
-fax=fax/VB,faxed/VBD,faxing/VBG,faxed/VBN,fax/VBP,faxes/VBZ=all
+fax=verb=all
 fax=noun=all
 fay=fay/JJ,fayer/JJR,fayest/JJS=all
 fay=noun=all
@@ -52915,7 +52915,7 @@ fivefold=JJ=all
 fivefold=RB=all
 fiver=noun=all
 fix=fix/NN,fices/NNS,fixes/NNS=all
-fix=fix/VB,fixed/VBD,fixing/VBG,fixed/VBN,fix/VBP,fixes/VBZ=all
+fix=verb=all
 fixable=JJ=all
 fixate=verb=all
 fixation=noun_UN=all
@@ -53184,7 +53184,7 @@ fletching=fletching/NN,fletching/NN:U,fletchings/NNS=all
 fleur-de-lis=NN=all
 fleuron=noun=all
 flews=NN=all
-flex=flex/VB,flexed/VBD,flexing/VBG,flexed/VBN,flex/VBP,flexes/VBZ=all
+flex=verb=all
 flex=noun_UN=all
 flexed=JJ=all
 flexibility=noun_U=all
@@ -53422,7 +53422,7 @@ flukiness=NN:U=all
 fluky=fluky/JJ,flukier/JJR,flukiest/JJS=all
 flume=noun=all
 flummery=noun=all
-flummox=flummox/VB,flummoxed/VBD,flummoxing/VBG,flummoxed/VBN,flummox/VBP,flummoxes/VBZ=all
+flummox=verb=all
 flump=noun=all
 flump=verb=all
 flunk=noun=all
@@ -53480,7 +53480,7 @@ fluttery=JJ=all
 fluty=fluty/JJ,flutier/JJR,flutiest/JJS=all
 fluvial=JJ=all
 fluviatile=JJ=all
-flux=flux/VB,fluxed/VBD,fluxing/VBG,fluxed/VBN,flux/VBP,fluxes/VBZ=all
+flux=verb=all
 flux=noun_U=all
 fluxgate=noun=all
 fluxion=noun=all
@@ -53757,7 +53757,7 @@ fore=UH=all
 fore=noun_U=all
 forearm=noun=all
 forearm=verb=all
-forebear=forebear/VB,forebore/VBD,forebearing/VBG,foreborne/VBN,forebear/VBP,forebears/VBZ=all # obsolete --> remove! 
+forebear=forebear/VB,forebore/VBD,forebearing/VBG,foreborne/VBN,forebear/VBP,forebears/VBZ=all # obsolete --> remove!
 forebear=noun=all
 forebode=verb=all
 foreboding=JJ=all
@@ -54136,7 +54136,7 @@ fowl=fowl/NN:UN,fowl/NNS,fowls/NNS=all
 fowl=verb=all
 fowler=noun=all
 fowling=noun_UN=all
-fox=fox/VB,foxed/VBD,foxing/VBG,foxed/VBN,fox/VBP,foxes/VBZ=all
+fox=verb=all
 fox=noun=all
 foxglove=noun=all
 foxhole=noun=all
@@ -58889,7 +58889,7 @@ hewer=noun=all
 hewing=noun_UN=all
 hewn=JJ=all
 hex=hex/JJ,hexer/JJR=all
-hex=hex/VB,hexed/VBD,hexing/VBG,hexed/VBN,hex/VBP,hexes/VBZ=all
+hex=verb=all
 hex=noun=all
 hexachord=noun=all
 hexad=noun=all
@@ -59212,7 +59212,7 @@ hoarsely=RB=all
 hoarseness=NN:U=all
 hoary=hoary/JJ,hoarier/JJR,hoariest/JJS=all
 hoatzin=noun=all
-hoax=hoax/VB,hoaxed/VBD,hoaxing/VBG,hoaxed/VBN,hoax/VBP,hoaxes/VBZ=all
+hoax=verb=all
 hoax=noun=all
 hoaxer=noun=all
 hob=noun=all
@@ -61631,7 +61631,7 @@ inbound=JJ=all
 inbound=RB=all
 inbound=verb=all
 inbounds=JJ=all
-inbox=inbox/VB,inboxed/VBD,inboxing/VBG,inboxed/VBN,inbox/VBP,inboxes/VBZ=all
+inbox=verb=all
 inbox=noun=all
 inbred=JJ=all
 inbred=noun=all
@@ -62056,7 +62056,7 @@ indeterminateness=NN:U=all
 indetermination=noun=all
 indeterminism=noun_UN=all
 index=index/NN,indexes/NNS,indices/NNS=all
-index=index/VB,indexed/VBD,indexing/VBG,indexed/VBN,index/VBP,indexes/VBZ=all
+index=verb=all
 indexation=noun_UN=all
 indexer=noun=all
 indexical=JJ=all
@@ -62451,7 +62451,7 @@ infirmary=noun=all
 infirmity=noun_UN=all
 infirmly=RB=all
 infirmness=NN:U=all
-infix=infix/VB,infixed/VBD,infixing/VBG,infixed/VBN,infix/VBP,infixes/VBZ=all
+infix=verb=all
 infix=noun=all
 inflame=verb=all
 inflamedness=NN:U=all
@@ -63415,7 +63415,7 @@ intermittence=noun=all
 intermittency=noun=all
 intermittent=JJ=all
 intermittently=RB=all
-intermix=intermix/VB,intermixed/VBD,intermixing/VBG,intermixed/VBN,intermix/VBP,intermixes/VBZ=all
+intermix=verb=all
 intermixture=noun=all
 intermodal=JJ=all
 intermodality=NN:U=all
@@ -64578,7 +64578,7 @@ jinn=noun=all
 jinni=jinni/NN,jinn/NNS,jinnis/NNS=all
 jinricksha=noun=all
 jinrikisha=noun=all
-jinx=jinx/VB,jinxed/VBD,jinxing/VBG,jinxed/VBN,jinx/VBP,jinxes/VBZ=all
+jinx=verb=all
 jinx=noun=all
 jinxed=JJ=all
 jitter=noun=all
@@ -65105,7 +65105,7 @@ kick=noun_UN=all
 kick=verb=all
 kickback=noun=all
 kickball=noun_U=all
-kickbox=kickbox/VB,kickboxed/VBD,kickboxing/VBG,kickboxed/VBN,kickbox/VBP,kickboxes/VBZ=all
+kickbox=verb=all
 kickboxing=kickboxing/NN,kickboxing/NN:UN,kickboxings/NNS=all
 kicker=noun=all
 kickflip [-pp-]=verb=all
@@ -68999,7 +68999,7 @@ mawkishly=RB=all
 mawkishness=NN:U=all
 max=JJ=all
 max=max/NN,maces/NNS,maxes/NNS=all
-max=max/VB,maxed/VBD,maxing/VBG,maxed/VBN,max/VBP,maxes/VBZ=all
+max=verb=all
 maxi=JJ=all
 maxi=noun=all
 maxilla=maxilla/NN,maxillae/NNS,maxillas/NNS=all
@@ -71970,7 +71970,7 @@ multiple-choice=JJ=all
 multiple=JJ=all
 multiple=noun=all
 multiplex=JJ=all
-multiplex=multiplex/VB,multiplexed/VBD,multiplexing/VBG,multiplexed/VBN,multiplex/VBP,multiplexes/VBZ=all
+multiplex=verb=all
 multiplex=noun=all
 multiplexer=noun=all
 multiplicand=noun=all
@@ -73419,7 +73419,7 @@ nitwit=noun=all
 niveous=JJ=all
 nix=JJ=all
 nix=UH=all
-nix=nix/VB,nixed/VBD,nixing/VBG,nixed/VBN,nix/VBP,nixes/VBZ=all
+nix=verb=all
 nix=noun_U=all
 no-brainer=NN=all
 no-fault=JJ=all
@@ -75906,7 +75906,7 @@ outfit=noun=all
 outfitter=noun=all
 outflank=verb=all
 outflow=noun=all
-outfox=outfox/VB,outfoxed/VBD,outfoxing/VBG,outfoxed/VBN,outfox/VBP,outfoxes/VBZ=all
+outfox=verb=all
 outgeneral=verb=all
 outgo=outgo/NN,outgoes/NNS=all
 outgo=outgo/VB,outwent/VBD,outgoing/VBG,outgone/VBN,outgo/VBP,outgoes/VBZ=all
@@ -76502,7 +76502,7 @@ overtake=overtake/VB,overtook/VBD,overtaking/VBG,overtaken/VBN,overtake/VBP,over
 overtakeable=JJ=all
 overtaking=NN:UN=all
 overtalkativeness=NN:U=all
-overtax=overtax/VB,overtaxed/VBD,overtaxing/VBG,overtaxed/VBN,overtax/VBP,overtaxes/VBZ=all
+overtax=verb=all
 overtaxation=noun_UN=all
 overtheorization|overtheorisation=noun_UN=us,ca,gb|gb,au,nz,za
 overthink=overthink/VB,overthought/VBD,overthinking/VBG,overthought/VBN,overthink/VBP,overthinks/VBZ=all
@@ -78520,7 +78520,7 @@ perpetuate=verb=all
 perpetuation=noun_U=all
 perpetuator=noun=all
 perpetuity=noun_U=all
-perplex=perplex/VB,perplexed/VBD,perplexing/VBG,perplexed/VBN,perplex/VBP,perplexes/VBZ=all
+perplex=verb=all
 perplexed=JJ=all
 perplexedly=RB=all
 perplexedness=NN:U=all
@@ -80852,7 +80852,7 @@ posterize|posterise=verb=us,ca,gb|gb,au,nz,za
 postern=JJ=all
 postern=noun=all
 postfix=noun=all
-postfix=postfix/VB,postfixed/VBD,postfixing/VBG,postfixed/VBN,postfix/VBP,postfixes/VBZ=all
+postfix=verb=all
 postglacial=JJ=all
 postgrad=noun=all
 postgraduate=JJ=all
@@ -81622,7 +81622,7 @@ prefilled=JJ=all
 prefilter=noun=all
 prefilter=verb=all
 prefix=noun=all
-prefix=prefix/VB,prefixed/VBD,prefixing/VBG,prefixed/VBN,prefix/VBP,prefixes/VBZ=all
+prefix=verb=all
 preflight=JJ=all
 preflight=NN=all
 preflight=verb=all
@@ -85607,7 +85607,7 @@ reflector=noun=all
 reflectorize|reflectorise=verb=us,ca,gb|gb,au,nz,za
 reflex=JJ=all
 reflex=noun=all
-reflex=reflex/VB,reflexed/VBD,reflexing/VBG,reflexed/VBN,reflex/VBP,reflexes/VBZ=all
+reflex=verb=all
 reflexive=JJ=all
 reflexive=noun=all
 reflexively=RB=all
@@ -85984,7 +85984,7 @@ relativization|relativisation=noun_UN=us,ca,gb|gb,au,nz,za
 relativize|relativise=verb=us,ca,gb|gb,au,nz,za
 relaunch=noun=all
 relaunch=verb=all
-relax=relax/VB,relaxed/VBD,relaxing/VBG,relaxed/VBN,relax/VBP,relaxes/VBZ=all
+relax=verb=all
 relaxant=JJ=all
 relaxant=noun=all
 relaxation=noun_UN=all
@@ -86146,7 +86146,7 @@ remittee=noun=all
 remittent=JJ=all
 remitter=noun=all
 remix=noun=all
-remix=remix/VB,remixed/VBD,remixing/VBG,remixed/VBN,remix/VBP,remixes/VBZ=all
+remix=verb=all
 remixer=noun=all
 remnant=JJ=all
 remnant=noun=all
@@ -88720,7 +88720,7 @@ sandblast=noun=all
 sandblast=verb=all
 sandblaster=noun=all
 sandbox=noun=all
-sandbox=sandbox/VB,sandboxed/VBD,sandboxing/VBG,sandboxed/VBN,sandbox/VBP,sandboxes/VBZ=all
+sandbox=verb=all
 sandboxed=JJ=all
 sandcastle=noun=all
 sanded=JJ=all
@@ -90691,7 +90691,7 @@ sewing=noun_U=all
 sex-crazed=JJ=all
 sex-neutral=JJ=all
 sex=sex/NN:UN,sexes/NNS,sices/NNS=all
-sex=sex/VB,sexed/VBD,sexing/VBG,sexed/VBN,sex/VBP,sexes/VBZ=all
+sex=verb=all
 sexagenarian=JJ=all
 sexagenarian=noun=all
 sexagenary=JJ=all
@@ -90771,14 +90771,14 @@ shading=noun_UN=all
 shadoof=noun=all
 shadow-ban [-nn-]=verb=all
 shadow-ban=noun=all
-shadow-box=shadow-box/VB,shadow-boxed/VBD,shadow-boxing/VBG,shadow-boxed/VBN,shadow-box/VBP,shadow-boxes/VBZ=all
+shadow-box=verb=all
 shadow-boxing=NN:U=all
 shadow=noun_UN=all
 shadow=shadow/JJ,shadower/JJR=all
 shadow=verb=all
 shadowban [-nn-]=verb=all
 shadowban=noun=all
-shadowbox=shadowbox/VB,shadowboxed/VBD,shadowboxing/VBG,shadowboxed/VBN,shadowbox/VBP,shadowboxes/VBZ=all
+shadowbox=verb=all
 shadowboxing=shadowboxing/NN:U,shadowboxing/NN:UN,shadowboxings/NNS=all
 shadowed=JJ=all
 shadower=noun=all
@@ -96132,7 +96132,7 @@ sufficient=JJ=all
 sufficient=NN=all
 sufficiently=RB=all
 suffix=suffix/NN,suffices/NNS,suffixes/NNS=all
-suffix=suffix/VB,suffixed/VBD,suffixing/VBG,suffixed/VBN,suffix/VBP,suffixes/VBZ=all
+suffix=verb=all
 suffixation=noun_U=all
 suffixion=noun=all
 suffocate=verb=all
@@ -96763,7 +96763,7 @@ surrounded=JJ=all
 surrounding=JJ=all
 surrounding=noun_UN=all
 surtax=noun_UN=all
-surtax=surtax/VB,surtaxed/VBD,surtaxing/VBG,surtaxed/VBN,surtax/VBP,surtaxes/VBZ=all
+surtax=verb=all
 surtitle=noun=all
 surtout=noun=all
 surveillance=noun_U=all
@@ -97738,7 +97738,7 @@ tawny=tawny/JJ,tawnier/JJR,tawniest/JJS=all
 tax-deductible=JJ=all
 tax-exempt=JJ=all
 tax=tax/NN:UN,taces/NNS,taxes/NNS=all
-tax=tax/VB,taxed/VBD,taxing/VBG,taxed/VBN,tax/VBP,taxes/VBZ=all
+tax=verb=all
 taxability=noun_U=all
 taxable=JJ=all
 taxable=noun=all
@@ -97927,7 +97927,7 @@ teleconsultation=noun_UN=all
 telecourse=noun=all
 telefacsimile=noun=all
 telefax=noun=all
-telefax=telefax/VB,telefaxed/VBD,telefaxing/VBG,telefaxed/VBN,telefax/VBP,telefaxes/VBZ=all
+telefax=verb=all
 telefilm=noun=all
 telegenic=JJ=all
 telegonic=JJ=all
@@ -98023,7 +98023,7 @@ telework=verb=all
 teleworker=noun=all
 teleworking=NN=all
 telex=noun=all
-telex=telex/VB,telexed/VBD,telexing/VBG,telexed/VBN,telex/VBP,telexes/VBZ=all
+telex=verb=all
 teliospore=noun=all
 tell=noun=all
 tell=tell/VB,told/VBD,telling/VBG,told/VBN,tell/VBP,tells/VBZ=all
@@ -99171,7 +99171,7 @@ time=JJ=all
 time=noun_UN=all
 time=verb=all
 timebox=noun=all
-timebox=timebox/VB,timeboxed/VBD,timeboxing/VBG,timeboxed/VBN,timebox/VBP,timeboxes/VBZ=all
+timebox=verb=all
 timed=JJ=all
 timeframe=noun=all
 timekeeper=noun=all
@@ -101777,7 +101777,7 @@ unbounded=JJ=all
 unboundedness=NN:U=all
 unbowdlerize|unbowdlerise=verb=us,ca,gb|gb,au,nz,za
 unbowed=JJ=all
-unbox=unbox/VB,unboxed/VBD,unboxing/VBG,unboxed/VBN,unbox/VBP,unboxes/VBZ=all
+unbox=verb=all
 unbrace=verb=all
 unbracketed=JJ=all
 unbraid=verb=all
@@ -102812,7 +102812,7 @@ unfitness=NN:U=all
 unfitted=JJ=all
 unfitting=JJ=all
 unfittingly=RB=all
-unfix=unfix/VB,unfixed/VBD,unfixing/VBG,unfixed/VBN,unfix/VBP,unfixes/VBZ=all
+unfix=verb=all
 unfixable=JJ=all
 unfixed=JJ=all
 unflagging=JJ=all
@@ -104109,7 +104109,7 @@ unsettled=JJ=all
 unsettledness=NN:U=all
 unsettling=JJ=all
 unsettlingly=RB=all
-unsex=unsex/VB,unsexed/VBD,unsexing/VBG,unsexed/VBN,unsex/VBP,unsexes/VBZ=all
+unsex=verb=all
 unsexed=JJ=all
 unsexiness=NN:U=all
 unsexual=JJ=all
@@ -105534,7 +105534,7 @@ veterinary=noun=all
 vetiver=noun=all
 veto=veto/NN,vetoes/NNS=all
 veto=veto/VB,vetoed/VBD,vetoing/VBG,vetoed/VBN,veto/VBP,vetoes/VBZ=all
-vex=vex/VB,vexed/VBD,vexing/VBG,vexed/VBN,vex/VBP,vexes/VBZ=all
+vex=verb=all
 vexation=noun_UN=all
 vexatious=JJ=all
 vexatiously=RB=all
