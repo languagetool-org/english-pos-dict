@@ -46443,8 +46443,8 @@ disengage=noun=all
 disengage=verb=all
 disengagedness=NN:U=all
 disengagement=disengagement/NN,disengagement/NN:U,disengagements/NNS=all
-disenroll=verb=all
-disenrollment=noun=all
+disenrollment|disenrolment=noun_UN=us|au,ca,gb,nz,za
+disenroll|disenrol [-ll-]=verb=us|au,ca,gb,nz,za
 disentangle=verb=all
 disentanglement=noun_U=all
 disentangler=NN=all
@@ -49655,9 +49655,11 @@ enrich=verb=all
 enricher=noun=all
 enrichment=noun_U=all
 enrobe=verb=all
-enrol [-ll-]=verb=all
 enrollee=noun=all
+enroller=noun=all
 enrolling=NN:UN=all
+enrollment|enrolment=noun_UN=us|au,ca,gb,nz,za
+enroll|enrol [-ll-]=verb=us|au,ca,gb,nz,za
 ensconce=verb=all
 ensemble=noun=all
 enshrine=verb=all
@@ -70649,6 +70651,8 @@ misdoing=noun_UN=all
 miseducate=verb=all
 misemphasize|misemphasise=verb=us,ca,gb|gb,au,nz,za
 misemploy=verb=all
+misenrollment|misenrolment=noun_UN=us|au,ca,gb,nz,za
+misenroll|misenrol [-ll-]=verb=us|au,ca,gb,nz,za
 miser=noun=all
 miserable=JJ=all
 miserable=noun=all
@@ -73744,6 +73748,7 @@ nonelectrical|non-electrical=JJ=au,ca,us|gb,nz,za
 nonelectric|non-electric=JJ=au,ca,us|gb,nz,za
 nonemotional|non-emotional=JJ=au,ca,us|gb,nz,za
 nonenforcement|non-enforcement=noun=au,ca,us|gb,nz,za
+nonenrolled=JJ=all
 nonentity=noun=all
 nonessential=noun=all
 nonestablished=JJ=all
@@ -81563,6 +81568,7 @@ preen=verb=all
 preengage=verb=all
 preengaged=JJ=all
 preengagement=noun=all
+preenrollment|preenrolment=noun_UN=us|au,ca,gb,nz,za
 preequalization|preequalisation=noun_UN=us,ca,gb|gb,au,nz,za
 preestablish=verb=us
 preexistence=noun_U=all
