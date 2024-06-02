@@ -1,3 +1,4 @@
+
 "=''=all
 "=``=all
 #=#=all
@@ -32078,7 +32079,7 @@ backpack=noun=all
 backpack=verb=all
 backpacker=noun=all
 backpacking=noun_U=all
-backpedal=backpedal/VB,backpedaled/VBD,backpedalled/VBD,backpedaling/VBG,backpedalling/VBG,backpedaled/VBN,backpedalled/VBN,backpedal/VBP,backpedals/VBZ=all
+backpedal [-ll]|backpedal=verb=all|us
 backplate=noun=all
 backrest=noun=all
 backroom=noun=all
@@ -32942,7 +32943,7 @@ bedder=noun=all
 bedding=noun_U=all
 bedeck=verb=all
 bedecked=JJ=all
-bedevil=bedevil/VB,bedeviled/VBD,bedevilled/VBD,bedeviling/VBG,bedevilling/VBG,bedeviled/VBN,bedevilled/VBN,bedevil/VBP,bedevils/VBZ=all
+bedevil [-ll]|bedevil=verb=all|us
 bedevilment=noun_U=all
 bedew=verb=all
 bedewed=JJ=all
@@ -36989,7 +36990,7 @@ carnotite=noun=all
 carny=noun=all
 carny=verb=all
 carob=noun_U=all
-carol=carol/VB,caroled/VBD,carolled/VBD,caroling/VBG,carolling/VBG,caroled/VBN,carolled/VBN,carol/VBP,carols/VBZ=all
+carol [-ll]|carol=verb=all|us
 carol=noun=all
 caroler|caroller=noun=us|au,ca,gb,nz,za
 carolus=noun=all
@@ -37410,7 +37411,7 @@ cavernous=JJ=all
 cavernously=RB=all
 cavesson=noun=all
 caviar=noun_U=all
-cavil=cavil/VB,caviled/VBD,cavilled/VBD,caviling/VBG,cavilling/VBG,caviled/VBN,cavilled/VBN,cavil/VBP,cavils/VBZ=all
+cavil [-ll]|cavil=verb=all|us
 cavil=noun=all
 caviler|caviller=noun=us|au,ca,gb,nz,za
 caving=noun_U=all
@@ -45536,7 +45537,7 @@ device-agnostic=JJ=all
 device-specific=JJ=all
 device=noun=all
 devicefulness=NN:U=all
-devil=devil/VB,deviled/VBD,devilled/VBD,deviling/VBG,devilling/VBG,deviled/VBN,devilled/VBN,devil/VBP,devils/VBZ=all
+devil [-ll]|devil=verb=all|us
 devil=noun=all
 deviless=JJ=all
 deviless=noun=all
@@ -45667,8 +45668,8 @@ diagrammable=JJ=all
 diagrammatic=JJ=all
 diagrammatically=RB=all
 diakinesis=diakinesis/NN,diakineses/NNS=all
+dial [-ll]|dial=verb=all|us
 dial-up=JJ=all
-dial=dial/VB,dialed/VBD,dialled/VBD,dialing/VBG,dialling/VBG,dialed/VBN,dialled/VBN,dial/VBP,dials/VBZ=all
 dial=noun=all
 dialect=noun_UN=all
 dialectal=JJ=all
@@ -50038,8 +50039,8 @@ equability=noun_U=all
 equable=JJ=all
 equableness=NN:U=all
 equably=RB=all
+equal [-ll]|equal=verb=all|us
 equal=JJ=all
-equal=equal/VB,equaled/VBD,equalled/VBD,equaling/VBG,equalling/VBG,equaled/VBN,equalled/VBN,equal/VBP,equals/VBZ=all
 equal=noun=all
 equalitarian=JJ=all
 equalitarian=noun=all
@@ -54464,6 +54465,7 @@ fritillary=noun=all
 frittata=noun=all
 fritter=noun=all
 fritter=verb=all
+frivol [-ll]|frivol=verb=all|us
 frivolity=noun_UN=all
 frivolous=JJ=all
 frivolously=RB=all
@@ -55062,7 +55064,7 @@ gamble=verb=all
 gambler=noun=all
 gambling=NN:U=all
 gamboge=noun_U=all
-gambol=gambol/VB,gamboled/VBD,gambolled/VBD,gamboling/VBG,gambolling/VBG,gamboled/VBN,gambolled/VBN,gambol/VBP,gambols/VBZ=all
+gambol [-ll]|gambol=verb=all|us
 gambol=noun=all
 gamboling|gambolling=noun_UN=us|au,ca,gb,nz,za
 gambrel=JJ=all
@@ -61241,7 +61243,7 @@ imperialization|imperialisation=noun_UN=us,ca,gb|gb,au,nz,za
 imperialize|imperialise=verb=us,ca,gb|gb,au,nz,za
 imperially=RB=all
 imperialness=NN:U=all
-imperil=imperil/VB,imperiled/VBD,imperilled/VBD,imperiling/VBG,imperilling/VBG,imperiled/VBN,imperilled/VBN,imperil/VBP,imperils/VBZ=all
+imperil [-ll]|imperil=verb=all|us
 imperilment=noun_U=all
 imperious=JJ=all
 imperiously=RB=all
@@ -62674,8 +62676,8 @@ iniquitous=JJ=all
 iniquitously=RB=all
 iniquitousness=NN:U=all
 iniquity=noun_UN=all
+initial [-ll]|initial=verb=all|us
 initial=JJ=all
-initial=initial/VB,initialed/VBD,initialled/VBD,initialing/VBG,initialling/VBG,initialed/VBN,initialled/VBN,initial/VBP,initials/VBZ=all
 initial=noun=all
 initialism=noun_UN=all
 initialization|initialisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -65962,8 +65964,8 @@ latent=noun=all
 latently=RB=all
 later=JJ=all
 later=later/RB,later/RP=all
+lateral [-ll]|lateral=verb=all|us
 lateral=JJ=all
-lateral=lateral/VB,lateraled/VBD,lateralled/VBD,lateraling/VBG,lateralling/VBG,lateraled/VBN,lateralled/VBN,lateral/VBP,laterals/VBZ=all
 lateral=noun=all
 laterality=NN:UN=all
 lateralization|lateralisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -68718,7 +68720,7 @@ marry=UH=all
 marry=verb=all
 mars=noun=all
 marsh=marsh/NN,marsh/NN:U,marshes/NNS=all
-marshal=marshal/VB,marshaled/VBD,marshalled/VBD,marshaling/VBG,marshalling/VBG,marshaled/VBN,marshalled/VBN,marshal/VBP,marshals/VBZ=all
+marshal [-ll]|marshal=verb=all|us
 marshal=noun=all
 marshaller=noun=all
 marshalling=noun_UN=all
@@ -75975,6 +75977,7 @@ outright=JJ=all
 outright=RB=all
 outrightly=RB=all
 outrightness=NN:U=all
+outrival [-ll]|outrival=verb=all|us
 outro=noun=all
 outrun=outrun/VB,outran/VBD,outrunning/VBG,outrun/VBN,outrun/VBP,outruns/VBZ=all
 outré=JJ=all
@@ -77885,9 +77888,9 @@ pedagogically=RB=all
 pedagogics=NN:U=all
 pedagogue=noun=all
 pedagogy=noun_U=all
+pedal [-ll]|pedal=verb=all|us
 pedal=noun=all
 pedal=pedal/JJ,pedaler/JJR,pedaller/JJR=all
-pedal=pedal/VB,pedaled/VBD,pedalled/VBD,pedaling/VBG,pedalling/VBG,pedaled/VBN,pedalled/VBN,pedal/VBP,pedals/VBZ=all
 pedalo=pedalo/NN,pedaloes/NNS,pedalos/NNS=all
 pedant=noun=all
 pedantic=JJ=all
@@ -78036,8 +78039,8 @@ penance=noun_U=all
 penceless=JJ=all
 penchant=noun=all
 penciclovir=NN:U=all
+pencil [-ll]|pencil=verb=all|us
 pencil=noun_UN=all
-pencil=pencil/VB,penciled/VBD,pencilled/VBD,penciling/VBG,pencilling/VBG,penciled/VBN,pencilled/VBN,pencil/VBP,pencils/VBZ=all
 penciller=noun=all
 pencilling=pencilling/NN:UN,pencilling/NNS,pencillings/NNS=all
 pend=verb=all
@@ -78355,8 +78358,8 @@ perigee=noun=all
 periglacial=JJ=all
 perigynous=JJ=all
 perihelion=perihelion/NN,perihelia/NNS,perihelions/NNS=all
+peril [-ll]|peril=verb=all|us
 peril=noun_UN=all
-peril=peril/VB,periled/VBD,perilled/VBD,periling/VBG,perilling/VBG,periled/VBN,perilled/VBN,peril/VBP,perils/VBZ=all
 periling|perilling=noun_UN=us|au,ca,gb,nz,za
 perilous=JJ=all
 perilously=RB=all
@@ -81659,7 +81662,7 @@ preimplantation=JJ=all
 preincorporation=JJ=all
 preincorporation=noun=all
 preinitialize|preinitialise=verb=us,ca,gb|gb,au,nz,za
-preinstall=preinstall/VB,preinstalled/VBD,preinstalled/VBN,preinstall/VBP,preinstalls/VBZ=all
+preinstall=verb=all
 preinstallation=noun_UN=all
 prejudge=verb=all
 prejudice=noun_UN=all
@@ -85427,8 +85430,8 @@ redfish=redfish/NN,redfish/NNS=all
 redhead=noun=all
 redheaded=JJ=all
 redhot=JJ=all
+redial [-ll]|redial=verb=all|us
 redial=noun=all
-redial=redial/VB,redialed/VBD,redialled/VBD,redialing/VBG,redialling/VBG,redialed/VBN,redialled/VBN,redial/VBP,redials/VBZ=all
 redingote=noun=all
 redintegration=noun_UN=all
 redirect=noun=all
@@ -87649,9 +87652,9 @@ ritually=RB=all
 rituximab=NN:U=all
 ritziness=NN:U=all
 ritzy=ritzy/JJ,ritzier/JJR,ritziest/JJS=all
+rival [-ll]|rival=verb=all|us
 rival=JJ=all
 rival=noun=all
-rival=rival/VB,rivaled/VBD,rivalled/VBD,rivaling/VBG,rivalling/VBG,rivaled/VBN,rivalled/VBN,rival/VBP,rivals/VBZ=all
 rivaling|rivalling=noun_UN=us|au,ca,gb,nz,za
 rivalize|rivalise=verb=us,ca,gb|gb,au,nz,za
 rivalrous=JJ=all
@@ -88705,8 +88708,8 @@ sanctuary=noun_UN=all
 sanctum=sanctum/NN,sancta/NNS,sanctums/NNS=all
 sand=noun_U=all
 sand=verb=all
+sandal [-ll]|sandal=verb=all|us
 sandal=noun=all
-sandal=sandal/VB,sandaled/VBD,sandalled/VBD,sandaling/VBG,sandalling/VBG,sandaled/VBN,sandalled/VBN,sandal/VBP,sandals/VBZ=all
 sandalwood=noun_U=all
 sandbag [-gg-]=verb=all
 sandbag=noun=all
@@ -91524,9 +91527,9 @@ sign-up=noun=all
 sign=noun_UN=all
 sign=verb=all
 signage=noun_U=all
+signal [-ll]|signal=verb=all|us
 signal=noun_UN=all
 signal=signal/JJ,signaler/JJR=all
-signal=signal/VB,signaled/VBD,signalled/VBD,signaling/VBG,signalling/VBG,signaled/VBN,signalled/VBN,signal/VBP,signals/VBZ=all
 signalization|signalisation=noun_UN=us,ca,gb|gb,au,nz,za
 signalize|signalise=verb=us,ca,gb|gb,au,nz,za
 signaller=noun=all
@@ -93779,9 +93782,9 @@ spinthariscope=noun=all
 spiny=spiny/JJ,spinier/JJR,spiniest/JJS=all
 spiracle=noun=all
 spiraea=noun=all
+spiral [-ll]|spiral=verb=all|us
 spiral=JJ=all
 spiral=noun=all
-spiral=spiral/VB,spiraled/VBD,spiralled/VBD,spiraling/VBG,spiralling/VBG,spiraled/VBN,spiralled/VBN,spiral/VBP,spirals/VBZ=all
 spiraling|spiralling=noun_UN=us|au,ca,gb,nz,za
 spiralizer=noun=all
 spiralize|spiralise=verb=us,ca,gb|gb,au,nz,za
@@ -94710,8 +94713,8 @@ stem=verb=all
 stemless=JJ=all
 stemmed=JJ=all
 stench=noun=all
+stencil [-ll]|stencil=verb=all|us
 stencil=noun=all
-stencil=stencil/VB,stenciled/VBD,stencilled/VBD,stenciling/VBG,stencilling/VBG,stenciled/VBN,stencilled/VBN,stencil/VBP,stencils/VBZ=all
 stencilling=noun_UN=all
 stenographer=noun=all
 stenographic=JJ=all
@@ -96008,8 +96011,8 @@ subtlety=noun_UN=all
 subtly=RB=all
 subtonic=noun=all
 subtopic=noun=all
+subtotal [-ll]|subtotal=verb=all|us
 subtotal=noun=all
-subtotal=subtotal/VB,subtotaled/VBD,subtotalled/VBD,subtotaling/VBG,subtotalling/VBG,subtotaled/VBN,subtotalled/VBN,subtotal/VBP,subtotals/VBZ=all
 subtract=verb=all
 subtracted=JJ=all
 subtracter=noun=all
@@ -97085,8 +97088,8 @@ symbiosis=symbiosis/NN:U,symbioses/NNS=all
 symbiote=noun=all
 symbiotic=JJ=all
 symbiotically=RB=all
+symbol [-ll]|symbol=verb=all|us
 symbol=noun=all
-symbol=symbol/VB,symboled/VBD,symbolled/VBD,symboling/VBG,symbolling/VBG,symboled/VBN,symbolled/VBN,symbol/VBP,symbols/VBZ=all
 symbolic=JJ=all
 symbolic=noun=all
 symbolical=JJ=all
@@ -99715,9 +99718,9 @@ tosspot=noun=all
 tot=noun=all
 tot=verb=all
 totable=JJ=all
+total [-ll]|total=verb=all|us
 total=JJ=all
 total=noun=all
-total=total/VB,totaled/VBD,totalled/VBD,totaling/VBG,totalling/VBG,totaled/VBN,totalled/VBN,total/VBP,totals/VBZ=all
 totalism=noun_UN=all
 totalist=noun=all
 totalistic=JJ=all
@@ -100433,9 +100436,9 @@ triadically=RB=all
 triage=JJ=all
 triage=noun_U=all
 triage=verb=all
+trial [-ll]|trial=verb=all|us
 trial=JJ=all
 trial=noun_UN=all
-trial=trial/VB,trialed/VBD,trialled/VBD,trialing/VBG,trialling/VBG,trialed/VBN,trialled/VBN,trial/VBP,trials/VBZ=all
 triamcinolone=noun=all
 triangle=noun=all
 triangular=JJ=all
@@ -105600,8 +105603,8 @@ victorious=JJ=all
 victoriously=RB=all
 victoriousness=NN:U=all
 victory=noun_UN=all
+victual [-ll]|victual=verb=all|us
 victual=noun=all
-victual=victual/VB,victualed/VBD,victualled/VBD,victualing/VBG,victualling/VBG,victualed/VBN,victualled/VBN,victual/VBP,victuals/VBZ=all
 victualer=noun=us
 victualler=noun=all
 victualling=victualling/NN:UN,victualling/NNS=all
