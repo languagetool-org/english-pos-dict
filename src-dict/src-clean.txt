@@ -45682,10 +45682,16 @@ dialectologist=noun=all
 dialectology=noun_UN=all
 dialogic=JJ=all
 dialogical=JJ=all
+dialogically=RB=none
+dialogism=noun_UN=all
 dialogist=noun=all
+dialogistic=JJ=all
+dialogistically=RB=all
+dialogite=noun=all
 dialogize|dialogise=verb=us,ca,gb|gb,au,nz,za
-dialogue=noun_UN=all
 dialogue=verb=all
+dialoguer=noun=all # unusual
+dialogue|dialog=noun_UN=all|ca,us
 dialysis=dialysis/NN:UN,dialyses/NNS=all
 dialytic=JJ=all
 diam=NN=all
@@ -90064,6 +90070,7 @@ self-destruct=verb=all
 self-destruction=NN:UN=all
 self-destructive=JJ=all
 self-determination=NN:U=all
+self-dialogue=NN:UN=all
 self-directed=JJ=all
 self-discipline=NN:UN=all
 self-disciplined=JJ=all
@@ -102271,6 +102278,7 @@ undercut=noun_U=all
 undercut=undercut/VB,undercut/VBD,undercutting/VBG,undercut/VBN,undercut/VBP,undercuts/VBZ=all
 underdeveloped=JJ=all
 underdevelopment=noun_U=all
+underdiagnose=verb=all
 underdog=noun=all
 underdone=JJ=all
 underdose=noun=all
