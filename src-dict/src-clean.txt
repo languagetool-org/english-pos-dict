@@ -4,6 +4,7 @@
 #Americaness=NN:U=all #unusual
 #Archaeozoic=JJ=all #unusual
 #Las=NNP=all # Spanish names, musical note
+#an't=contraction=all # misspelling?
 #anotherArtificialTestWordForLanguageTool=UNTAGGED=all
 #bye-election=noun=all # usual
 #cancelation=noun_UN=us # unusual
@@ -33,6 +34,8 @@
 #programing=noun_U=us #unusual
 #ptyalize|ptyalise=verb=us,ca,gb|gb,au,nz,za # unusual obsolete
 #shew=shew/VB,shewed/VBD,shewing/VBG,shewn/VBN,shew/VBP,shews/VBZ=au,ca,us # unusual, archaic
+#somebody'll=contraction=all
+#someone'll=contraction=all
 $=$=all
 'twixt=IN=all # unusual
 0-year-old=noun=all
@@ -11882,6 +11885,10 @@ Hérault=NNP=all
 Hönne=NNP=all
 Hürth=NNP=all
 I&S=NNP=all
+I'd=contraction=all
+I'll=contraction=all
+I'm=contraction=all
+I've=contraction=all
 I=I/PRP,me/PRP,my/PRP$_A1S,mine/PRP$_P1S,me/PRP_O1S,myself/PRP_R1S,I/PRP_S1S=all
 IAA=NNP=all
 IAAEA=NNP=all
@@ -30640,6 +30647,7 @@ are=noun=all
 area=noun_UN=all
 areal=JJ=all
 areca=noun=all
+aren't=contraction=all
 arena=noun=all
 arenaceous=JJ=all
 areola=areola/NN,areolae/NN,areolas/NNS=all
@@ -36486,6 +36494,8 @@ campus=noun=all
 campy=campy/JJ,campier/JJR,campiest/JJS=all
 campylobacter=noun=all
 camshaft=noun=all
+can't've=contraction=all
+can't=contraction=all
 can=can/MD,cannot/MD,canst/MD,could/MD,couldest/MD,couldst/MD=all
 can=noun=all
 can=verb=all
@@ -41983,6 +41993,9 @@ cougar=cougar/NN,cougar/NNS,cougars/NNS=all
 cough=cough/NN,cough/NN:U,coughs/NNS=all
 cough=verb=all
 coughing=noun_UN=all
+could've=contraction=all
+couldn't've=contraction=all
+couldn't=contraction=all
 coulis=coulis/NN,coulises/NNS,coulisses/NNS=all
 couloir=noun=all
 coulomb=noun=all
@@ -42505,6 +42518,7 @@ credential [-ll-,-l-]=verb=all
 credential=JJ=all
 credential=noun=all
 credentialed=JJ=all
+credentialled=JJ=all
 credenza=noun=all
 credibility=noun_U=all
 credible=JJ=all
@@ -43726,6 +43740,7 @@ dare=noun=all
 daredevil=JJ=all
 daredevil=noun=all
 daredevilry=noun_U=all
+daren't=contraction=all
 darer=noun=all
 daresay=daresay/VB,daresay/VBP=all
 daring=JJ=all
@@ -45794,6 +45809,7 @@ diddle=verb=all
 diddler=noun=all
 diddly=noun=all
 didgeridoo=noun=all
+didn't=contraction=all
 didymium=didymium/NN,didymium/NN:U,didymiums/NNS=all
 die=die/NN,dice/NNS,dies/NNS=all
 die=die/VB,died/VBD,dieing/VBG,dying/VBG,died/VBN,die/VBP,dies/VBZ=all
@@ -47134,6 +47150,7 @@ dodo=dodo/NN,dodoes/NNS,dodos/NNS=all
 doe=doe/NN,doe/NNS,does/NNS=all
 doer=noun=all
 doeskin=noun=all
+doesn't=contraction=all
 doff=verb=all
 dog-eared=JJ=all
 dog-faced=JJ=all
@@ -47262,6 +47279,7 @@ dominical=JJ=all
 dominie=noun=all
 dominion=noun_UN=all
 domino=domino/NN,dominoes/NNS,dominos/NNS=all
+don't=contraction=all
 don=noun=all
 don=verb=all
 dona=noun=all
@@ -57453,6 +57471,7 @@ hacktivist=JJ=all
 hacktivist=noun=all
 hackwork=noun_U=all
 haddock=haddock/NN,haddock/NNS,haddocks/NNS=all
+hadn't=contraction=all
 hadron=noun=all
 hadrosaur=noun=all
 haemostat=noun=all
@@ -57992,6 +58011,7 @@ hashish=noun_U=all
 hashtag [-gg-]=verb=all
 hashtag=noun=all
 haslet=noun=all
+hasn't=contraction=all
 hasp=noun=all
 hassium=noun_U=all
 hassle-free=JJ=all
@@ -58068,6 +58088,7 @@ have-not=noun=all
 have='ve/VB,have/VB,'d/VBD,had/VBD,hadst/VBD,having/VBG,had/VBN,hadst/VBN,'ve/VBP,have/VBP,has/VBZ,hast/VBZ,hath/VBZ=all
 have=noun=all
 havelock=noun=all
+haven't=contraction=all
 haven=noun=all
 havering=noun=all
 haversack=noun=all
@@ -58125,6 +58146,8 @@ hazmat=noun=all
 hazy=hazy/JJ,hazier/JJR,haziest/JJS=all
 haüyne=NN:U=all
 hdqrs=NN=all
+he'd=contraction=all
+he'll=contraction=all
 he-he=UH=all
 he=he/PRP,him/PRP,himself/PRP,hisself/PRP,his/PRP$_A3SM,his/PRP$_P3SM,him/PRP_O3SM,himself/PRP_R3SM,he/PRP_S3SM=all
 head-hunting=NN:UN=all
@@ -59802,6 +59825,9 @@ hover=verb=all
 hoverboard=noun=all
 hovercraft=hovercraft/NN,hovercraft/NNS,hovercrafts/NNS=all
 hoverer=noun=all
+how'd=contraction=all
+how're=contraction=all
+how've=contraction=all
 how-to=JJ=all
 how-to=noun=all
 how=WRB=all
@@ -61718,12 +61744,12 @@ inclusiveness=NN:U=all
 inclusivity=noun_UN=all
 incoercible=JJ=all
 incog=abbreviation=all
-incognito=JJ=all
-incognito=RB=all
-incognito=noun=all
 incognita=JJ=all
 incognita=RB=all
 incognita=noun=all
+incognito=JJ=all
+incognito=RB=all
+incognito=noun=all
 incognizant=JJ=all
 incoherence=noun_U=all
 incoherency=noun=all
@@ -64132,6 +64158,7 @@ islandwide=JJ=all
 isle=noun=all
 islet=noun=all
 ism=noun=all
+isn't=contraction=all
 isobar=noun=all
 isobaric=JJ=all
 isobutane=noun=all
@@ -64222,6 +64249,8 @@ issuer=noun=all
 isthmian=JJ=all
 isthmus=isthmus/NN,isthmi/NNS,isthmuses/NNS=all
 istle=noun=all
+it'd=contraction=all
+it'll=contraction=all
 it=it/PRP,itself/PRP,its/PRP$_A3SN,its/PRP$_P3SN,it/PRP_O3SN,itself/PRP_R3SN,it/PRP_S3SN=all
 italic=noun=all
 italicization|italicisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -68991,6 +69020,7 @@ mayfly=noun=all
 mayhap=RB=all
 mayhem=noun_U=all
 maying=noun=all
+mayn't=contraction=all
 mayonnaise=noun_U=all
 mayor=noun=all
 mayoral=JJ=all
@@ -70174,10 +70204,13 @@ mifepristone=noun=all
 miff=verb=all
 miffed=JJ=all
 miffiness=NN:U=all
+might've=contraction=all
 might=MD=all
 might=noun_U=all
 mightily=RB=all
 mightiness=NN:U=all
+mightn't've=contraction=all
+mightn't=contraction=all
 mighty=mighty/JJ,mightier/JJR,mightiest/JJS=all
 mignon=noun=all
 mignonette=JJ=all
@@ -72151,6 +72184,7 @@ muss=verb=all
 mussel=noun=all
 mussiness=NN:U=all
 mussy=mussy/JJ,mussier/JJR,mussiest/JJS=all
+must've=contraction=all
 must=JJ=all
 must=MD=all
 must=noun_UN=all
@@ -72165,6 +72199,7 @@ muster=noun=all
 muster=verb=all
 mustily=RB=all
 mustiness=NN:U=all
+mustn't=contraction=all
 musty=musty/JJ,mustier/JJR,mustiest/JJS=all
 mutability=noun_U=all
 mutable=JJ=all
@@ -72772,6 +72807,7 @@ needlewoman=needlewoman/NN,needlewomen/NNS=all
 needlework=noun_U=all
 needleworker=noun=all
 needling=needling/NN:UN,needling/NNS=all
+needn't=contraction=all
 needs=RB=all
 needy=needy/JJ,needier/JJR,neediest/JJS=all
 nefarious=JJ=all
@@ -75770,6 +75806,7 @@ ouch=NN=all
 ouch=UH=all
 oud=noun=all
 ought=MD=all
+oughtn't=contraction=all
 ougiya=noun=all
 ounce=noun=all
 our=PRP$=all
@@ -90805,6 +90842,7 @@ shammer=noun=all
 shampoo=shampoo/NN,shampoo/NN:U,shampoos/NNS=all
 shampoo=verb=all
 shamrock=noun=all
+shan't=contraction=all
 shandy=noun_UN=all
 shanghai=verb=all
 shank=noun=all
@@ -90874,6 +90912,8 @@ shawarma=noun_UN=all
 shawl=noun=all
 shawm=noun=all
 shaykh=noun=all
+she'd=contraction=all
+she'll=contraction=all
 she-wolf=noun=all
 she=her/PRP,herself/PRP,she/PRP,her/PRP$_A3SF,hers/PRP$_P3SF,her/PRP_O3SF,herself/PRP_R3SF,she/PRP_S3SF=all
 sheaf=sheaf/NN,sheafs/NNS,sheaves/NNS=all
@@ -91192,11 +91232,14 @@ shot=shot/NN:UN,shot/NNS,shots/NNS=all
 shotgun [-nn-]=verb=all
 shotgun=noun=all
 shotgun=shotgun/JJ,shotgunner/JJR=all
+should've=contraction=all
 should=MD=all
 shoulder=shoulder/NN,shoulder/NN:U,shoulders/NNS=all
 shoulder=verb=all
 shouldered=JJ=all
 shouldering=noun_UN=all
+shouldn't've=contraction=all
+shouldn't=contraction=all
 shout-out=noun=all
 shout=noun=all
 shout=verb=all
@@ -98425,6 +98468,9 @@ thanks=NNS=all
 thanks=UH=all
 thanksgiving=noun_UN=all
 thankworthy=JJ=all
+that'd=contraction=all
+that'll=contraction=all
+that've=contraction=all
 that=DT=all
 that=RP=all
 that=that/WDT,that/WP=all
@@ -98529,6 +98575,10 @@ therapist=noun=all
 therapize|therapise=verb=us,ca,gb|gb,au,nz,za
 therapsid=noun=all
 therapy=therapy/NN,therapy/NN:U,therapies/NNS=all
+there'd=contraction=all
+there'll=contraction=all
+there're=contraction=all
+there've=contraction=all
 there=EX=all
 there=RB=all
 there=UH=all
@@ -98632,6 +98682,10 @@ theurgic=JJ=all
 theurgical=JJ=all
 theurgist=noun=all
 theurgy=noun_UN=all
+they'd=contraction=all
+they'll=contraction=all
+they're=contraction=all
+they've=contraction=all
 they=them/PRP,they/PRP,their/PRP$_A3P,their/PRP$_A3S,theirs/PRP$_P3P,theirs/PRP$_P3S,them/PRP_O3P,them/PRP_O3S,themselves/PRP_R3P,themself/PRP_R3S,they/PRP_S3P,they/PRP_S3S=all
 thiamine=noun_U=all
 thick-skinned=JJ=all
@@ -98726,6 +98780,8 @@ thirty-two=CD=all
 thirty=CD=all
 thirty=JJ=all
 thirty=noun=all
+this'd=contraction=all
+this'll=contraction=all
 this=DT=all
 this=PDT=all
 thistle=noun=all
@@ -106340,6 +106396,7 @@ washroom=noun=all
 washstand=noun=all
 washtub=noun=all
 washy=washy/JJ,washier/JJR,washiest/JJS=all
+wasn't=contraction=all
 wasp=noun=all
 waspish=JJ=all
 waspishly=RB=all
@@ -106491,6 +106548,10 @@ wayside=noun=all
 wayward=JJ=all
 waywardly=RB=all
 waywardness=NN:U=all
+we'd=contraction=all
+we'll=contraction=all
+we're=contraction=all
+we've=contraction=all
 we=us/PRP,we/PRP,our/PRP$_A1P,ours/PRP$_P1P,us/PRP_O1P,ourselves/PRP_R1P,we/PRP_S1P=all
 weak-kneed=JJ=all
 weak-mindedness=NN:U=all
@@ -106777,6 +106838,7 @@ wench=noun=all
 wench=verb=all
 wend=verb=all
 wendigo=wendigo/NN,wendigoes/NNS,wendigos/NNS=all
+weren't=contraction=all
 werewolf=werewolf/NN,werewolf/NNS,werewolves/NNS=all
 west-facing=JJ=all
 west=RB=all
@@ -106835,6 +106897,8 @@ whammy=noun=all
 wharf=wharf/NN,wharfs/NNS,wharves/NNS=all
 wharfage=noun_U=all
 wharfinger=noun=all
+what'd=contraction=all
+what're=contraction=all
 what's-her-name=NN=all
 what's-his-name=NN=all
 what=UH=all
@@ -106893,6 +106957,9 @@ whenever=CC=all
 whenever=WRB=all
 whensoever=CC=all
 whensoever=RB=all
+where'd=contraction=all
+where'er=contraction=all
+where're=contraction=all
 where=WRB=all
 whereabout=RB=all
 whereabouts=RB=all
@@ -106932,6 +106999,7 @@ whetstone=noun=all
 whew=UH=all
 whey=noun_U=all
 wheyishness=NN:U=all
+which've=contraction=all
 which=which/WDT,which/WP=all
 whichever=WDT=all
 whicker=verb=all
@@ -107092,6 +107160,10 @@ whittling=noun_UN=all
 whizz=noun=all
 whizz=whizz/VB,whizzed/VBD,whizzing/VBG,whizzed/VBN,whizz/VBP,whizzes/VBZ=all
 whizzing=noun_UN=all
+who'd=contraction=all
+who'll=contraction=all
+who're=contraction=all
+who've=contraction=all
 who=who/WP,whom/WP=all
 whoa=UH=all
 whoa=verb=all
@@ -107324,7 +107396,7 @@ windless=JJ=all
 windlessness=NN:U=all
 windmill=noun=all
 windmill=verb=all
-window-shop [-pp]=verb=all
+window-shop [-pp-]=verb=all
 window=noun=all
 window=verb=all
 windowless=JJ=all
@@ -107772,7 +107844,10 @@ worthwhile=JJ=all
 worthwhileness=NN:U=all
 worthy=noun=all
 worthy=worthy/JJ,worthier/JJR,worthiest/JJS=all
+would've=contraction=all
 would-be=JJ=all
+wouldn't've=contraction=all
+wouldn't=contraction=all
 wound=JJ=all
 wound=noun=all
 wound=verb=all
@@ -108183,6 +108258,10 @@ yottatesla=noun=all
 yottavolt=noun=all
 yottawatt=noun=all
 yottaweber=noun=all
+you'd=contraction=all
+you'll=contraction=all
+you're=contraction=all
+you've=contraction=all
 you=thee/PRP,you/PRP,your/PRP$_A2P,your/PRP$_A2S,yours/PRP$_P2P,yours/PRP$_P2S,you/PRP_O2P,you/PRP_O2S,yourselves/PRP_R2P,yourself/PRP_R2S,you/PRP_S2P,you/PRP_S2S=all
 young=young/JJ,younger/JJR,youngest/JJS=all
 young=young/NN:U,young/NNS=all
