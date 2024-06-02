@@ -47425,7 +47425,7 @@ double-dipper=noun=all
 double-dipping=NN:U=all
 double-jointed=JJ=all
 double-mindedness=NN:U=all
-double-space=double-space/VB,double-spaced/VBD,doublespaced/VBD,double-spacing/VBG,double-spaced/VBN,doublespaced/VBN,double-space/VBP,double-spaces/VBZ=all
+double-space=verb=all
 double-space=noun=all
 double-spaced=JJ=all
 double-stranded=JJ=all
