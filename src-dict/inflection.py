@@ -161,15 +161,15 @@ assert getInflectedFormsAndTags("life", "noun") != "life/NN,lives/NNS"
 assert getInflectedFormsAndTags("potato", "noun") != "potato/NN,potatoes/NNS"
 assert getInflectedFormsAndTags("echo", "noun") != "echo/NN,echoes/NNS"
 
-#print ( getInflectedFormsAndTags("hantavirus", "noun"))
-#print ( getInflectedFormsAndTags("shilly-shally", "verb"))
+#print (getInflectedFormsAndTags("hantavirus", "noun"))
+#print (getInflectedFormsAndTags("shilly-shally", "verb"))
 #print (getInflectedFormsAndTags("program", "verb", "-mm-"))
 #print (getInflectedFormsAndTags("co-star", "verb", "-rr-"))
 
-getFormsFromLine("j [pl. js,j's]=noun=all")
-print (getFormsFromLine("pommel=pommel/VB,pommeled/VBD,pommelled/VBD,pommeling/VBG,pommelling/VBG,pommeled/VBN,pommelled/VBN,pommel/VBP,pommels/VBZ=all"))
-print (getFormsFromLine("pomelo=noun=all"))
-print (getFormsFromLine("honor|honour=noun_UN=us|gb,ca,au,nz,za"))
-print (getFormsFromLine("honor|honour=verb=us|gb,ca,au,nz,za"))
+#getFormsFromLine("j [pl. js,j's]=noun=all")
+#print (getFormsFromLine("pommel=pommel/VB,pommeled/VBD,pommelled/VBD,pommeling/VBG,pommelling/VBG,pommeled/VBN,pommelled/VBN,pommel/VBP,pommels/VBZ=all"))
+#print (getFormsFromLine("pomelo=noun=all"))
+#print (getFormsFromLine("honor|honour=noun_UN=us|gb,ca,au,nz,za"))
+#print (getFormsFromLine("honor|honour=verb=us|gb,ca,au,nz,za"))
 
 
