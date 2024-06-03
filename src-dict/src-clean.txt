@@ -37942,7 +37942,7 @@ channel=noun=all
 channelization|channelisation=noun_UN=us,ca,gb|gb,au,nz,za
 channelize|channelise=verb=us,ca,gb|gb,au,nz,za
 channeller|channeler=noun=all|us
-channelling|channeling=noun_UN=all|US
+channelling|channeling=noun_UN=all|us
 chanson=noun=all
 chant=noun=all
 chant=verb=all
@@ -44165,7 +44165,7 @@ decalcification=noun_UN=all
 decalcifier=noun=all
 decalcify=verb=all
 decalcomania=noun=all
-decaliter|decalitre=noun=us
+decaliter|decalitre=noun=us|au,ca,gb,nz,za
 decameter|decametre=noun=all|au,ca,gb,nz,za
 decamp=verb=all
 decampment=noun_U=all
@@ -48848,7 +48848,7 @@ eigenfunction=noun_UN=all
 eigenvalue=noun=all
 eigenvector=noun=all
 eight-lane=JJ=all
-eight-liter|eight-litre=us|au,ca,gb,nz,za
+eight-liter|eight-litre=noun=us|au,ca,gb,nz,za
 eight-month-old=noun=all
 eight-year-old=noun=all
 eight=CD=all
@@ -50859,7 +50859,7 @@ exalumen=noun=all
 exalux=exalux/NN,exalux/NNS=all
 exam=noun=all
 examen=noun=all
-exameter|exametre=noun=
+exameter|exametre=noun=all|au,ca,gb,nz,za
 examinable=JJ=all
 examination=noun_UN=all
 examinational=JJ=all
@@ -52389,10 +52389,10 @@ femtohertz=femtohertz/NN,femtohertz/NNS=all
 femtojoule=noun=all
 femtokatal=noun=all
 femtokelvin=noun=all
-femtoliter|femtolitre=us|au,ca,gb,nz,za
+femtoliter|femtolitre=noun=us|au,ca,gb,nz,za
 femtolumen=noun=all
 femtolux=femtolux/NN,femtolux/NNS=all
-femtometer|femtometre=noun=
+femtometer|femtometre=noun=all|au,ca,gb,nz,za
 femtomole=noun=all
 femtonewton=noun=all
 femtoohm=noun=all
@@ -53029,7 +53029,7 @@ fitting=noun_UN=all
 fittingly=RB=all
 fittingness=NN:U=all
 five-lane=JJ=all
-five-liter|five-litre=us|au,ca,gb,nz,za
+five-liter|five-litre=noun=us|au,ca,gb,nz,za
 five-month-old=noun=all
 five-seater=noun=all
 five-year-old=JJ=all
@@ -54223,7 +54223,7 @@ four-color|four-colour=JJ=us|gb,ca,au,nz,za
 four-engined=JJ=all
 four-in-hand=noun=all
 four-lane=JJ=all
-four-liter|four-litre=us|au,ca,gb,nz,za
+four-liter|four-litre=noun=us|au,ca,gb,nz,za
 four-poster=noun=all
 four-seater=noun=all
 four-wheel=JJ=all
@@ -55912,7 +55912,7 @@ gigahertz=gigahertz/NN,gigahertz/NNS,gigahertzes/NNS=all
 gigajoule=noun=all
 gigakatal=noun=all
 gigakelvin=noun=all
-gigaliter|gigalitre=us|au,ca,gb,nz,za
+gigaliter|gigalitre=noun=us|au,ca,gb,nz,za
 gigalumen=noun=all
 gigalux=gigalux/NN,gigalux/NNS=all
 gigameter|gigametre=noun=all|au,ca,gb,nz,za
@@ -57721,7 +57721,7 @@ half-heartedness=NN:U=all
 half-hourly=JJ=all
 half-hourly=RB=all
 half-life=half-life/NN:UN,half-lives/NNS=all
-half-liter|half-litre=us|au,ca,gb,nz,za
+half-liter|half-litre=noun=us|au,ca,gb,nz,za
 half-mast=NN:UN=all
 half-pint=JJ=all
 half-pint=noun=all
@@ -58544,10 +58544,10 @@ hectohertz=hectohertz/NN,hectohertz/NNS=all
 hectojoule=noun=all
 hectokatal=noun=all
 hectokelvin=noun=all
-hectoliter|hectolitre=us|au,ca,gb,nz,za
+hectoliter|hectolitre=noun=us|au,ca,gb,nz,za
 hectolumen=noun=all
 hectolux=hectolux/NN,hectolux/NNS=all
-hectometer|hectometre=noun=
+hectometer|hectometre=noun=all|au,ca,gb,nz,za
 hectomole=noun=all
 hectonewton=noun=all
 hectoohm=noun=all
@@ -58623,7 +58623,7 @@ heirloom=noun=all
 heirship=noun=all
 heist=noun=all
 heist=verb=all
-hektoliter|hektolitre=us|au,ca,gb,nz,za
+hektoliter|hektolitre=noun=us|au,ca,gb,nz,za
 helenium=noun=all
 heli-ski=verb=all
 heliacal=JJ=all
@@ -65307,7 +65307,7 @@ kilohm=noun=all
 kilojoule=noun=all
 kilokatal=noun=all
 kilokelvin=noun=all
-kiloliter|kilolitre=us|au,ca,gb,nz,za
+kiloliter|kilolitre=noun=us|au,ca,gb,nz,za
 kilolumen=noun=all
 kilolux=kilolux/NN,kilolux/NNS=all
 kilometer|kilometre=noun=all|au,ca,gb,nz,za
@@ -67204,7 +67204,7 @@ literateness=NN:U=all
 literatim=RB=all
 literator=noun=all
 literature=noun_U=all
-liter|litre=us|au,ca,gb,nz,za
+liter|litre=noun=us|au,ca,gb,nz,za
 litharge=noun=all
 lithe=lithe/JJ,lither/JJR,lithest/JJS=all
 lithely=RB=all
@@ -69414,7 +69414,7 @@ megahertz=megahertz/NN,megahertz/NNS,megahertzes/NNS=all
 megajoule=noun=all
 megakatal=noun=all
 megakelvin=noun=all
-megaliter|megalitre=us|au,ca,gb,nz,za
+megaliter|megalitre=noun=us|au,ca,gb,nz,za
 megalith=noun=all
 megalithic=JJ=all
 megalomania=noun_U=all
@@ -69425,7 +69425,7 @@ megalomanic=JJ=all
 megalopolis=noun=all
 megalumen=noun=all
 megalux=megalux/NN,megalux/NNS=all
-megameter|megametre=noun=
+megameter|megametre=noun=all|au,ca,gb,nz,za
 megamole=noun=all
 meganewton=noun=all
 megaparsec=noun=all
@@ -69933,10 +69933,9 @@ meteorological=JJ=all
 meteorologically=RB=all
 meteorologist=noun=all
 meteorology=noun_U=all
-meter-candle-second|metre-candle-second=NN:U=
-meter-candle|metre-candle=NN:U=
-meter-kilogram-second=JJ=all
-meter-kilogram-second|metre-kilogram-second=NN:U=
+meter-candle-second|metre-candle-second=NN:U=all|au,ca,gb,nz,za
+meter-candle|metre-candle=NN:U=all|au,ca,gb,nz,za
+meter-kilogram-second|metre-kilogram-second=NN:U=all|au,ca,gb,nz,za
 meter|metre=noun_UN=all|au,ca,gb,nz,za
 meter|metre=verb=all|au,ca,gb,nz,za
 metformin=NN=all
@@ -70164,7 +70163,7 @@ microkatal=noun=all
 microkelvin=noun=all
 microlensed=JJ=all
 microlight=noun=all
-microliter|microlitre=us|au,ca,gb,nz,za
+microliter|microlitre=noun=us|au,ca,gb,nz,za
 microlith=noun=all
 microlumen=noun=all
 microlux=microlux/NN,microluces/NNS,microlux/NNS,microluxes/NNS=all
@@ -70177,10 +70176,10 @@ micromechanical=JJ=all
 micrometeorite=noun=all
 micrometeoroid=noun=all
 micrometer=noun=all
-micrometer|micrometre=noun=
+micrometer|micrometre=noun=all|au,ca,gb,nz,za
 micrometrical=JJ=all
 micrometry=noun=all
-micromillimeter|micromillimetre=noun=
+micromillimeter|micromillimetre=noun=all|au,ca,gb,nz,za
 microminiaturization|microminiaturisation=noun_UN=us,ca,gb|gb,au,nz,za
 microminiaturize|microminiaturise=verb=us,ca,gb|gb,au,nz,za
 micromobility=NN:U=all
@@ -70481,10 +70480,10 @@ millihertz=millihertz/NN,millihertz/NNS=all
 millijoule=noun=all
 millikatal=noun=all
 millikelvin=noun=all
-milliliter|millilitre=us|au,ca,gb,nz,za
+milliliter|millilitre=noun=us|au,ca,gb,nz,za
 millilumen=noun=all
 millilux=millilux/NN,milliluces/NNS,millilux/NNS,milliluxes/NNS=all
-millimeter|millimetre=noun=
+millimeter|millimetre=noun=all|au,ca,gb,nz,za
 millimicron=noun=all
 millimole=noun=all
 milliner=noun=all
@@ -72500,8 +72499,8 @@ myosotis=noun=all
 myotonic=JJ=all
 myriad=JJ=all
 myriad=noun=all
-myrialiter|myrialitre=us|au,ca,gb,nz,za
-myriameter|myriametre=noun=
+myrialiter|myrialitre=noun=us|au,ca,gb,nz,za
+myriameter|myriametre=noun=all|au,ca,gb,nz,za
 myriapod=JJ=all
 myriapod=noun=all
 myrmecological=JJ=all
@@ -72642,12 +72641,12 @@ nanohertz=nanohertz/NN,nanohertz/NNS=all
 nanojoule=noun=all
 nanokatal=noun=all
 nanokelvin=noun=all
-nanoliter|nanolitre=us|au,ca,gb,nz,za
+nanoliter|nanolitre=noun=us|au,ca,gb,nz,za
 nanolumen=noun=all
 nanolux=nanolux/NN,nanolux/NNS=all
 nanomaterial=noun=all
 nanomedicine=NN:U=all
-nanometer|nanometre=noun=
+nanometer|nanometre=noun=all|au,ca,gb,nz,za
 nanomole=noun=all
 nanonewton=noun=all
 nanoohm=noun=all
@@ -73492,7 +73491,7 @@ nimbostratus=nimbostratus/NN,nimbostrati/NNS=all
 nimbus=nimbus/NN,nimbi/NNS,nimbuses/NNS=all
 nimiety=noun=all
 nincompoop=noun=all
-nine-liter|nine-litre=us|au,ca,gb,nz,za
+nine-liter|nine-litre=noun=us|au,ca,gb,nz,za
 nine-month-old=noun=all
 nine-year-old=noun=all
 nine=CD=all
@@ -75299,7 +75298,7 @@ oncoming=JJ=all
 oncoming=NN=all
 ondansetron=NN:U=all
 one-hundred-percenter=noun=all
-one-liter|one-litre=us|au,ca,gb,nz,za
+one-liter|one-litre=noun=us|au,ca,gb,nz,za
 one-month-old=noun=all
 one-nighter=NN=all
 one-off=JJ=all
@@ -78866,7 +78865,7 @@ petakelvin=noun=all
 petal=noun=all
 petaled|petalled=JJ=us|au,ca,gb,nz,za
 petalite=NN:U=all
-petaliter|petalitre=us|au,ca,gb,nz,za
+petaliter|petalitre=noun=us|au,ca,gb,nz,za
 petaloid=JJ=all
 petalumen=noun=all
 petalux=petalux/NN,petalux/NNS=all
@@ -79466,7 +79465,7 @@ picohertz=picohertz/NN,picohertz/NNS=all
 picojoule=noun=all
 picokatal=noun=all
 picokelvin=noun=all
-picoliter|picolitre=us|au,ca,gb,nz,za
+picoliter|picolitre=noun=us|au,ca,gb,nz,za
 picolumen=noun=all
 picolux=picolux/NN,picolux/NNS=all
 picometer|picometre=noun=all|au,ca,gb,nz,za
@@ -84110,7 +84109,7 @@ quectohertz=quectohertz/NN,quectohertz/NNS=all
 quectojoule=noun=all
 quectokatal=noun=all
 quectokelvin=noun=all
-quectoliter|quectolitre=us|au,ca,gb,nz,za
+quectoliter|quectolitre=noun=us|au,ca,gb,nz,za
 quectolumen=noun=all
 quectolux=quectolux/NN,quectolux/NNS=all
 quectomole=noun=all
@@ -84198,7 +84197,7 @@ quettahertz=quettahertz/NN,quettahertz/NNS=all
 quettajoule=noun=all
 quettakatal=noun=all
 quettakelvin=noun=all
-quettaliter|quettalitre=us|au,ca,gb,nz,za
+quettaliter|quettalitre=noun=us|au,ca,gb,nz,za
 quettalumen=noun=all
 quettalux=quettalux/NN,quettalux/NNS=all
 quettameter|quettametre=noun=all|au,ca,gb,nz,za
@@ -88033,7 +88032,7 @@ ronnahertz=ronnahertz/NN,ronnahertz/NNS=all
 ronnajoule=noun=all
 ronnakatal=noun=all
 ronnakelvin=noun=all
-ronnaliter|ronnalitre=us|au,ca,gb,nz,za
+ronnaliter|ronnalitre=noun=us|au,ca,gb,nz,za
 ronnalumen=noun=all
 ronnalux=ronnalux/NN,ronnalux/NNS=all
 ronnameter|ronnametre=noun=all|au,ca,gb,nz,za
@@ -88064,7 +88063,7 @@ rontohertz=rontohertz/NN,rontohertz/NNS=all
 rontojoule=noun=all
 rontokatal=noun=all
 rontokelvin=noun=all
-rontoliter|rontolitre=us|au,ca,gb,nz,za
+rontoliter|rontolitre=noun=us|au,ca,gb,nz,za
 rontolumen=noun=all
 rontolux=rontolux/NN,rontolux/NNS=all
 rontomole=noun=all
@@ -90826,7 +90825,7 @@ settler=noun=all
 settling=NN:UN=all
 settlor=noun=all
 setup=setup/NN,setup/NN:U,setups/NNS=all
-seven-liter|seven-litre=us|au,ca,gb,nz,za
+seven-liter|seven-litre=noun=us|au,ca,gb,nz,za
 seven-month-old=noun=all
 seven-year-old=noun=all
 seven=CD=all
@@ -92022,7 +92021,7 @@ situationally=RB=all
 situationism=noun_UN=all
 sitzmark=noun=all
 six-lane=JJ=all
-six-liter|six-litre=us|au,ca,gb,nz,za
+six-liter|six-litre=noun=us|au,ca,gb,nz,za
 six-month-old=noun=all
 six-pack=six-pack/NN,six-packs/NNS,sixpacks/NNS=all
 six-shooter=noun=all
@@ -98291,7 +98290,7 @@ temptingly=RB=all
 temptingness=NN:U=all
 temptress=noun=all
 tempura=noun_U=all
-ten-liter|ten-litre=us|au,ca,gb,nz,za
+ten-liter|ten-litre=noun=us|au,ca,gb,nz,za
 ten-month-old=noun=all
 ten-percenter=noun=all
 ten-year-old=noun=all
@@ -98428,7 +98427,7 @@ terahertz=terahertz/NN:U,terahertz/NNS=all
 terajoule=noun=all
 terakatal=noun=all
 terakelvin=noun=all
-teraliter|teralitre=us|au,ca,gb,nz,za
+teraliter|teralitre=noun=us|au,ca,gb,nz,za
 teralumen=noun=all
 teralux=teralux/NN,teralux/NNS=all
 terameter|terametre=noun=all|au,ca,gb,nz,za
@@ -99074,7 +99073,7 @@ threateningly=RB=all
 three-color|three-colour=JJ=us|gb,ca,au,nz,za
 three-dimensional=JJ=all
 three-lane=JJ=all
-three-liter|three-litre=us|au,ca,gb,nz,za
+three-liter|three-litre=noun=us|au,ca,gb,nz,za
 three-month-old=noun=all
 three-way=JJ=all
 three-year-old=noun=all
@@ -101472,7 +101471,7 @@ two-faced=JJ=all
 two-facedness=NN:U=all
 two-handedness=NN:U=all
 two-lane=JJ=all
-two-liter|two-litre=us|au,ca,gb,nz,za
+two-liter|two-litre=noun=us|au,ca,gb,nz,za
 two-month-old=noun=all
 two-ply=JJ=all
 two-seater=noun=all
@@ -108410,7 +108409,7 @@ yoctohertz=yoctohertz/NN,yoctohertz/NNS=all
 yoctojoule=noun=all
 yoctokatal=noun=all
 yoctokelvin=noun=all
-yoctoliter|yoctolitre=us|au,ca,gb,nz,za
+yoctoliter|yoctolitre=noun=us|au,ca,gb,nz,za
 yoctolumen=noun=all
 yoctolux=yoctolux/NN,yoctolux/NNS=all
 yoctometer|yoctometre=noun=all|au,ca,gb,nz,za
@@ -108463,7 +108462,7 @@ yottahertz=yottahertz/NN,yottahertz/NNS=all
 yottajoule=noun=all
 yottakatal=noun=all
 yottakelvin=noun=all
-yottaliter|yottalitre=us|au,ca,gb,nz,za
+yottaliter|yottalitre=noun=us|au,ca,gb,nz,za
 yottalumen=noun=all
 yottalux=yottalux/NN,yottalux/NNS=all
 yottameter|yottametre=noun=all|au,ca,gb,nz,za
@@ -108575,7 +108574,7 @@ zeptohertz=zeptohertz/NN,zeptohertz/NNS=all
 zeptojoule=noun=all
 zeptokatal=noun=all
 zeptokelvin=noun=all
-zeptoliter|zeptolitre=us|au,ca,gb,nz,za
+zeptoliter|zeptolitre=noun=us|au,ca,gb,nz,za
 zeptolumen=noun=all
 zeptolux=zeptolux/NN,zeptolux/NNS=all
 zeptometer|zeptometre=noun=all|au,ca,gb,nz,za
@@ -108619,7 +108618,7 @@ zettahertz=zettahertz/NN,zettahertz/NNS=all
 zettajoule=noun=all
 zettakatal=noun=all
 zettakelvin=noun=all
-zettaliter|zettalitre=us|au,ca,gb,nz,za
+zettaliter|zettalitre=noun=us|au,ca,gb,nz,za
 zettalumen=noun=all
 zettalux=zettalux/NN,zettalux/NNS=all
 zettameter|zettametre=noun=all|au,ca,gb,nz,za
