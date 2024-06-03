@@ -33,6 +33,7 @@
 #kinematography=noun_UN=all # unusual
 #lor=UH=all # unusual
 #lor=lor/NN,lors/NNS=all # unusual
+#merchandize=verb=us # less common
 #oecumenical=JJ=gb # archaic
 #programer=noun=us # unusual
 #programing=noun_U=us #unusual
@@ -1277,7 +1278,7 @@ Americana=NNP=all
 Americanism=Americanism/NNP,Americanisms/NNPS=all
 Americanist=Americanist/NNP,Americanists/NNPS=all
 Americanization|Americanisation=noun_UN=us,ca,gb|gb,au,nz,za
-Americanizer=Americanizer/NN,Americanizer/NNP,Americanizers/NNS=all
+Americanizer|Americaniser=noun=us,ca,gb|gb,au,nz,za
 Americanize|Americanise=verb=us,ca,gb|gb,au,nz,za
 Americanness=NN:U=all
 Americano=NNP=all
@@ -5547,7 +5548,7 @@ Christianism=NNP=all
 Christianist=Christianist/NNP,Christianists/NNPS=all
 Christianity=Christianity/NNP,Christianities/NNPS=all
 Christianization|Christianisation=noun_UN=us,ca,gb|gb,au,nz,za
-Christianizer=Christianizer/NN,Christianizer/NNP,Christianizers/NNPS,Christianizers/NNS=all
+Christianizer|Christianiser=noun=all
 Christianize|Christianise=verb=us,ca,gb|gb,au,nz,za
 Christianne=NNP=all
 Christiansand=NNP=all
@@ -11131,7 +11132,7 @@ Hellenism=Hellenism/NNP,Hellenisms/NNPS=all
 Hellenist=Hellenist/NNP,Hellenists/NNPS=all
 Hellenistic=JJ=all
 Hellenization|Hellenisation=noun_UN=us,ca,gb|gb,au,nz,za
-Hellenizer=Hellenizer/NN,Hellenizer/NNP,Hellenizers/NNPS,Hellenizers/NNS=all
+Hellenizer|Helleniser=noun=us,ca,gb|gb,au,nz,za
 Hellenize|Hellenise=verb=us,ca,gb|gb,au,nz,za
 Heller=NNP=all
 Helles=NNP=all
@@ -19560,7 +19561,7 @@ Pershing=NNP=all
 Persia=NNP=all
 Persian=JJ=all
 Persian=Persian/NN:U,Persian/NNP,Persians/NNPS=all
-Persianized=JJ=all
+Persianized|Persianised=JJ=us,ca,gb|gb,au,nz,za
 Persis=NNP=all
 Perspex=Perspex/NNP,Perspexes/NNPS=all
 Perth=NNP=all
@@ -27349,7 +27350,7 @@ acclamation=noun_U=all
 acclimate=verb=all
 acclimation=noun_U=all
 acclimatization|acclimatisation=noun_UN=us,ca,gb|gb,au,nz,za
-acclimatizer=noun=all
+acclimatizer|acclimatiser=noun=us,ca,gb|gb,au,nz,za
 acclimatize|acclimatise=verb=us,ca,gb|gb,au,nz,za
 acclivitous=JJ=all
 acclivity=noun=all
@@ -28091,7 +28092,7 @@ aerophobia=noun=all
 aerophone=noun=all
 aerosol=noun_UN=all
 aerosolization|aerosolisation=noun_UN=us,ca,gb|gb,au,nz,za
-aerosolized=JJ=all
+aerosolized|aerosolised=JJ=us,ca,gb|gb,au,nz,za
 aerosolize|aerosolise=verb=us,ca,gb|gb,au,nz,za
 aerospace=noun_U=all
 aerosphere=noun=all
@@ -28772,7 +28773,7 @@ alkalinity=noun_U=all
 alkalinization|alkalinisation=noun_UN=us,ca,gb|gb,au,nz,za
 alkalinize|alkalinise=verb=us,ca,gb|gb,au,nz,za
 alkalization|alkalisation=noun_UN=us,ca,gb|gb,au,nz,za
-alkalizer=noun=all
+alkalizer|alkaliser=noun=us,ca,gb|gb,au,nz,za
 alkalize|alkalise=verb=us,ca,gb|gb,au,nz,za
 alkaloid=noun_U=all
 alkalosis=alkalosis/NN:U,alkaloses/NNS=all
@@ -28977,7 +28978,7 @@ alphabetic=JJ=all
 alphabetical=JJ=all
 alphabetically=RB=all
 alphabetization|alphabetisation=noun_UN=us,ca,gb|gb,au,nz,za
-alphabetizer=noun=all
+alphabetizer|alphabetiser=noun=us,ca,gb|gb,au,nz,za
 alphabetize|alphabetise=verb=us,ca,gb|gb,au,nz,za
 alphameric=JJ=all
 alphanumeric=JJ=all
@@ -29249,7 +29250,7 @@ amorphism=noun_UN=all
 amorphous=JJ=all
 amorphously=RB=all
 amorphousness=NN:U=all
-amortizable=JJ=all
+amortizable|amortisable=JJ=us,ca,gb|gb,au,nz,za
 amortization|amortisation=noun_UN=us,ca,gb|gb,au,nz,za
 amortize|amortise=verb=us,ca,gb|gb,au,nz,za
 amount=noun=all
@@ -30355,7 +30356,7 @@ apperception=noun_UN=all
 appertain=verb=all
 appetite=noun_UN=all
 appetitive=JJ=all
-appetizer=noun=all
+appetizer|appetiser=noun=us,ca,gb|gb,au,nz,za
 appetize|appetise=verb=us,ca,gb|gb,au,nz,za
 appetizing=JJ=all
 appetizingly=RB=all
@@ -31333,7 +31334,7 @@ atomist=noun=all
 atomistic=JJ=all
 atomistically=RB=all
 atomization|atomisation=noun_UN=us,ca,gb|gb,au,nz,za
-atomizer=noun=all
+atomizer|atomiser=noun=us,ca,gb|gb,au,nz,za
 atomize|atomise=verb=us,ca,gb|gb,au,nz,za
 atomy=noun=all
 atonal=JJ=all
@@ -31425,7 +31426,7 @@ attiring=noun_UN=all
 attitude=noun_UN=all
 attitudinal=JJ=all
 attitudinally=RB=all
-attitudinizer=noun=all
+attitudinizer|attitudiniser=noun=us,ca,gb|gb,au,nz,za
 attitudinize|attitudinise=verb=us,ca,gb|gb,au,nz,za
 attoampere=noun=all
 attobecquerel=noun=all
@@ -31623,8 +31624,8 @@ authoritatively=RB=all
 authoritativeness=NN:U=all
 authority=noun_UN=all
 authorization|authorisation=noun_UN=us,ca,gb|gb,au,nz,za
-authorized=JJ=all
-authorizer=noun=all
+authorized|authorised=JJ=us,ca,gb|gb,au,nz,za
+authorizer|authoriser=noun=us,ca,gb|gb,au,nz,za
 authorize|authorise=verb=us,ca,gb|gb,au,nz,za
 authorship=noun_U=all
 autism=noun_U=all
@@ -31781,7 +31782,7 @@ autotune=noun_UN=all
 autotune=verb=all
 autotype=noun_UN=all
 autoxidation=noun_UN=all
-autoxidizable=JJ=all
+autoxidizable|autoxidisable=JJ=us,ca,gb|gb,au,nz,za
 autoxidization|autoxidisation=noun_UN=us,ca,gb|gb,au,nz,za
 autumn=JJ=all
 autumn=noun_UN=all
@@ -32708,7 +32709,7 @@ bast=noun_U=all
 bastard=JJ=all
 bastard=noun=all
 bastardization|bastardisation=noun_UN=us,ca,gb|gb,au,nz,za
-bastardized=JJ=all
+bastardized|bastardised=JJ=us,ca,gb|gb,au,nz,za
 bastardize|bastardise=verb=us,ca,gb|gb,au,nz,za
 bastardly=RB=all
 bastardy=noun_U=all
@@ -33273,6 +33274,7 @@ bequeath=verb=all
 bequeathment=noun=all
 bequest=noun_UN=all
 berate=verb=all
+berceuse=noun=all
 bereave [bereaves;bereaved,bereft;bereaved,bereft;bereaving]=verb=all
 bereaved=JJ=all
 bereavement=noun_UN=all
@@ -33733,7 +33735,7 @@ bioethanol=noun_UN=all
 bioethical=JJ=all
 bioethicist=noun=all
 biofeedback=noun_U=all
-biofertilizer=noun=all
+biofertilizer|biofertiliser=noun=us,ca,gb|gb,au,nz,za
 biofilm=noun=all
 bioflavonoid=noun=all
 biofuel=noun=all
@@ -34910,7 +34912,7 @@ bothersome=JJ=all
 bothy=noun=all
 botnet=noun=all
 botryoidal=JJ=all
-botrytized=JJ=all
+botrytized|botrytised=JJ=us,ca,gb|gb,au,nz,za
 bottle=noun_UN=all
 bottle=verb=all
 bottleneck=noun=all
@@ -34995,7 +34997,7 @@ bow=bow/JJ,bower/JJR=all
 bow=noun=all
 bow=verb=all
 bowdlerization|bowdlerisation=noun_UN=us,ca,gb|gb,au,nz,za
-bowdlerizer=noun=all
+bowdlerizer|bowdleriser=noun=us,ca,gb|gb,au,nz,za
 bowdlerize|bowdlerise=verb=us,ca,gb|gb,au,nz,za
 bowed=JJ=all
 bowedness=NN:U=all
@@ -35260,10 +35262,15 @@ breakthrough=noun=all
 breakup=noun_UN=all
 breakwater=noun=all
 bream=bream/NN,bream/NNS,breams/NNS=all
+breast-feed [breast-feeds;breast-fed;breast-fed;breast-feeding]=verb=all
+breast-feeder=noun=all
+breast-feeding=NN:U=all
 breast=noun=all
 breast=verb=all
 breastbone=noun=all
 breastfeed [breastfeeds;breastfed;breastfed;breastfeeding]=verb=all
+breastfeeder=noun=all
+breastfeeding=NN:U=all
 breasting=NN:UN=all
 breastlessness=NN:U=all
 breastmilk=NN:U=all
@@ -36744,7 +36751,7 @@ capoeira=capoeira/NN,capoeira/NN:U,capoeiras/NNS=all
 capoeirista=noun=all
 capon=noun=all
 caponization|caponisation=noun_UN=us,ca,gb|gb,au,nz,za
-caponizer=noun=all
+caponizer|caponiser=noun=us,ca,gb|gb,au,nz,za
 caponize|caponise=verb=us,ca,gb|gb,au,nz,za
 capping=noun_UN=all
 cappuccino=noun=all
@@ -37284,7 +37291,7 @@ catechismal=JJ=all
 catechist=noun=all
 catechistic=JJ=all
 catechization|catechisation=noun_UN=us,ca,gb|gb,au,nz,za
-catechizer=noun=all
+catechizer|catechiser=noun=us,ca,gb|gb,au,nz,za
 catechize|catechise=verb=us,ca,gb|gb,au,nz,za
 catechol=noun=all
 catecholamine=noun=all
@@ -37612,8 +37619,8 @@ centralist=noun=all
 centralistic=JJ=all
 centrality=noun_U=all
 centralization|centralisation=noun_UN=us,ca,gb|gb,au,nz,za
-centralized=JJ=all
-centralizer=noun=all
+centralized|centralised=JJ=us,ca,gb|gb,au,nz,za
+centralizer|centraliser=noun=us,ca,gb|gb,au,nz,za
 centralize|centralise=verb=us,ca,gb|gb,au,nz,za
 centrally=RB=all
 centre [centres;centred;centred;centreing,centring]=verb=au,ca,gb,nz,za
@@ -37899,9 +37906,9 @@ characterful=JJ=all
 characteristic=JJ=all
 characteristic=noun=all
 characteristically=RB=all
-characterizable=JJ=all
+characterizable|characterisable=JJ=us,ca,gb|gb,au,nz,za
 characterization|characterisation=noun_UN=us,ca,gb|gb,au,nz,za
-characterizer=noun=all
+characterizer|characteriser=noun=us,ca,gb|gb,au,nz,za
 characterize|characterise=verb=us,ca,gb|gb,au,nz,za
 characterless=JJ=all
 charade=noun=all
@@ -39650,9 +39657,9 @@ cognitional=JJ=all
 cognitive=JJ=all
 cognitively=RB=all
 cognitivism=NN:UN=all
-cognizable=JJ=all
-cognizableness=NN:U=all
-cognizably=RB=all
+cognizableness|cognisableness=NN:U=us,ca,gb|gb,au,nz,za
+cognizable|cognisable=JJ=us,ca,gb|gb,au,nz,za
+cognizably|cognisably=RB=us,ca,gb|gb,au,nz,za
 cognizance=noun_U=all
 cognizant=JJ=all
 cognize|cognise=verb=us,ca,gb|gb,au,nz,za
@@ -39879,7 +39886,7 @@ colonic=noun=all
 colonist=noun=all
 colonizationist=noun=all
 colonization|colonisation=noun_UN=us,ca,gb|gb,au,nz,za
-colonizer=noun=all
+colonizer|coloniser=noun=us,ca,gb|gb,au,nz,za
 colonize|colonise=verb=us,ca,gb|gb,au,nz,za
 colonnade=noun=all
 colonnaded=JJ=all
@@ -40453,7 +40460,7 @@ computationally=RB=all
 compute=verb=all
 computer=noun=all
 computerate=JJ=all #informal
-computerizable=JJ=all
+computerizable|computerisable=JJ=us,ca,gb|gb,au,nz,za
 computerization|computerisation=noun_UN=us,ca,gb|gb,au,nz,za
 computerize|computerise=verb=us,ca,gb|gb,au,nz,za
 computing=noun_U=all
@@ -40513,7 +40520,7 @@ conceptual=JJ=all
 conceptualism=noun_UN=all
 conceptualist=noun=all
 conceptualization|conceptualisation=noun_UN=us,ca,gb|gb,au,nz,za
-conceptualizer=noun=all
+conceptualizer|conceptualiser=noun=us,ca,gb|gb,au,nz,za
 conceptualize|conceptualise=verb=us,ca,gb|gb,au,nz,za
 conceptually=RB=all
 concern=noun_UN=all
@@ -42582,7 +42589,7 @@ crenulation=noun_UN=all
 creole=JJ=all
 creole=noun=all
 creolization|creolisation=noun_UN=us,ca,gb|gb,au,nz,za
-creolized=JJ=all
+creolized|creolised=JJ=us,ca,gb|gb,au,nz,za
 creolize|creolise=verb=us,ca,gb|gb,au,nz,za
 creosote=noun_U=all
 creosote=verb=all
@@ -42705,8 +42712,8 @@ criticality=noun_UN=all
 critically=RB=all
 criticalness=NN:U=all
 criticism=noun_UN=all
-criticizable=JJ=all
-criticizer=noun=all
+criticizable|criticisable=JJ=us,ca,gb|gb,au,nz,za
+criticizer|criticiser=noun=us,ca,gb|gb,au,nz,za
 criticize|criticise=verb=us,ca,gb|gb,au,nz,za
 critique=noun=all
 critique=verb=all
@@ -43042,7 +43049,7 @@ crystalline=JJ=all
 crystalline=noun=all
 crystallinity=noun_UN=all
 crystallite=noun=all
-crystallizable=JJ=all
+crystallizable|crystallisable=JJ=us,ca,gb|gb,au,nz,za
 crystallization|crystallisation=noun_UN=us,ca,gb|gb,au,nz,za
 crystallize|crystallise=verb=us,ca,gb|gb,au,nz,za
 crystallographer=noun=all
@@ -43374,10 +43381,10 @@ customer-centric=JJ=all
 customer-facing=JJ=all
 customer=noun=all
 customhouse=noun=all
-customizability=NN:UN=all
-customizable=JJ=all
+customizability|customisability=NN:UN=us,ca,gb|gb,au,nz,za
+customizable|customisable=JJ=us,ca,gb|gb,au,nz,za
 customization|customisation=noun_UN=us,ca,gb|gb,au,nz,za
-customizer=noun=all
+customizer|customiser=noun=us,ca,gb|gb,au,nz,za
 customize|customise=verb=us,ca,gb|gb,au,nz,za
 cut [cuts;cut;cut;cutting]=verb=all
 cut-rate=JJ=all
@@ -44140,7 +44147,7 @@ decent=decent/JJ,decenter/JJR,decentest/JJS=all
 decently=RB=all
 decentness=NN:U=all
 decentralization|decentralisation=noun_UN=us,ca,gb|gb,au,nz,za
-decentralized=JJ=all
+decentralized|decentralised=JJ=us,ca,gb|gb,au,nz,za
 decentralize|decentralise=verb=us,ca,gb|gb,au,nz,za
 deception=noun_UN=all
 deceptive=JJ=all
@@ -44640,7 +44647,7 @@ deindustrialize|deindustrialise=verb=us,ca,gb|gb,au,nz,za
 deinstitutionalization|deinstitutionalisation=noun_UN=us,ca,gb|gb,au,nz,za
 deinstitutionalize|deinstitutionalise=verb=us,ca,gb|gb,au,nz,za
 deionization|deionisation=noun_UN=us,ca,gb|gb,au,nz,za
-deionizer=noun=all
+deionizer|deioniser=noun=us,ca,gb|gb,au,nz,za
 deionize|deionise=verb=us,ca,gb|gb,au,nz,za
 deipnosophist=noun=all
 deism=noun_U=all
@@ -44767,9 +44774,9 @@ deluxe=JJ=all
 deluxe=RB=all
 delve=verb=all
 delver=noun=all
-demagnetizable=JJ=all
+demagnetizable|demagnetisable=JJ=us,ca,gb|gb,au,nz,za
 demagnetization|demagnetisation=noun_UN=us,ca,gb|gb,au,nz,za
-demagnetizer=noun=all
+demagnetizer|demagnetiser=noun=us,ca,gb|gb,au,nz,za
 demagnetize|demagnetise=verb=us,ca,gb|gb,au,nz,za
 demagogic=JJ=all
 demagogue=noun=all
@@ -44806,7 +44813,7 @@ demilitarize|demilitarise=verb=us,ca,gb|gb,au,nz,za
 demilune=noun=all
 demine=verb=all
 demineralization|demineralisation=noun_UN=us,ca,gb|gb,au,nz,za
-demineralizer=noun=all
+demineralizer|demineraliser=noun=us,ca,gb|gb,au,nz,za
 demineralize|demineralise=verb=us,ca,gb|gb,au,nz,za
 demise=demise/NN,demise/NN:U,demises/NNS=all
 demise=verb=all
@@ -44830,7 +44837,7 @@ democrat=noun=all
 democratic=democratic/JJ,democratical/JJ=all
 democratically=RB=all
 democratization|democratisation=noun_UN=us,ca,gb|gb,au,nz,za
-democratizer=noun=all
+democratizer|democratiser=noun=us,ca,gb|gb,au,nz,za
 democratize|democratise=verb=us,ca,gb|gb,au,nz,za
 demodulate=verb=all
 demodulation=noun_U=all
@@ -44878,7 +44885,7 @@ demonstratively=RB=all
 demonstrativeness=NN:U=all
 demonstrator=noun=all
 demoralization|demoralisation=noun_UN=us,ca,gb|gb,au,nz,za
-demoralizer=noun=all
+demoralizer|demoraliser=noun=us,ca,gb|gb,au,nz,za
 demoralize|demoralise=verb=us,ca,gb|gb,au,nz,za
 demos=noun=all
 demote=verb=all
@@ -44998,14 +45005,14 @@ denunciatory=JJ=all
 deny=verb=all
 deodorant=noun_U=all
 deodorization|deodorisation=noun_UN=us,ca,gb|gb,au,nz,za
-deodorizer=noun=all
+deodorizer|deodoriser=noun=us,ca,gb|gb,au,nz,za
 deodorize|deodorise=verb=us,ca,gb|gb,au,nz,za
 deontological=JJ=all
 deontologist=noun=all
 deontology=noun_UN=all
 deoxidation=noun_UN=all
 deoxidization|deoxidisation=noun_UN=us,ca,gb|gb,au,nz,za
-deoxidizer=noun=all
+deoxidizer|deoxidiser=noun=us,ca,gb|gb,au,nz,za
 deoxidize|deoxidise=verb=us,ca,gb|gb,au,nz,za
 deoxygenated=JJ=all
 deoxyribonuclease=noun=all
@@ -45242,7 +45249,7 @@ desegregation=noun_U=all
 deselect=verb=all
 deselection=noun_UN=all
 desensitization|desensitisation=noun_UN=us,ca,gb|gb,au,nz,za
-desensitizer=noun=all
+desensitizer|desensitiser=noun=us,ca,gb|gb,au,nz,za
 desensitize|desensitise=verb=us,ca,gb|gb,au,nz,za
 deserialization|deserialisation=noun_UN=us,ca,gb|gb,au,nz,za
 deserialize|deserialise=verb=us,ca,gb|gb,au,nz,za
@@ -45361,7 +45368,7 @@ despoticalness=NN:U=all
 despotism=noun_U=all
 dessert=noun_UN=all
 destabilization|destabilisation=noun_UN=us,ca,gb|gb,au,nz,za
-destabilizer=noun=all
+destabilizer|destabiliser=noun=us,ca,gb|gb,au,nz,za
 destabilize|destabilise=verb=us,ca,gb|gb,au,nz,za
 destalinize|destalinise=verb=us,ca,gb|gb,au,nz,za
 desterilization|desterilisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -45668,7 +45675,7 @@ diagnostician=noun=all
 diagnostics=NN:U=all
 diagonal=JJ=all
 diagonal=noun=all
-diagonalizable=JJ=all
+diagonalizable|diagonalisable=JJ=us,ca,gb|gb,au,nz,za
 diagonalization|diagonalisation=noun_UN=us,ca,gb|gb,au,nz,za
 diagonalize|diagonalise=verb=us,ca,gb|gb,au,nz,za
 diagonally=RB=all
@@ -45939,7 +45946,7 @@ digitate=JJ=all
 digitigrade=JJ=all
 digitigrade=noun=all
 digitization|digitisation=noun_UN=us,ca,gb|gb,au,nz,za
-digitizer=noun=all
+digitizer|digitiser=noun=us,ca,gb|gb,au,nz,za
 digitize|digitise=verb=us,ca,gb|gb,au,nz,za
 diglossia=diglossia/NN,diglossia/NN:U,diglossias/NNS=all
 dignified=JJ=all
@@ -46644,7 +46651,7 @@ disorderliness=NN:U=all
 disorderly=JJ=all
 disorderly=RB=all
 disorganization|disorganisation=noun_UN=us,ca,gb|gb,au,nz,za
-disorganized=JJ=all
+disorganized|disorganised=JJ=us,ca,gb|gb,au,nz,za
 disorganize|disorganise=verb=us,ca,gb|gb,au,nz,za
 disorient=verb=all
 disorientate=verb=all
@@ -47209,7 +47216,7 @@ dogmaticalness=NN:U=all
 dogmatism=noun_U=all
 dogmatist=noun=all
 dogmatization|dogmatisation=noun_UN=us,ca,gb|gb,au,nz,za
-dogmatizer=noun=all
+dogmatizer|dogmatiser=noun=us,ca,gb|gb,au,nz,za
 dogmatize|dogmatise=verb=us,ca,gb|gb,au,nz,za
 dognapper=noun=all
 dogsbody=noun=all
@@ -47670,9 +47677,9 @@ dramatic=noun=all
 dramatically=RB=all
 dramatics=NN:U=all
 dramatist=noun=all
-dramatizable=JJ=all
+dramatizable|dramatisable=JJ=us,ca,gb|gb,au,nz,za
 dramatization|dramatisation=noun_UN=us,ca,gb|gb,au,nz,za
-dramatizer=noun=all
+dramatizer|dramatiser=noun=us,ca,gb|gb,au,nz,za
 dramatize|dramatise=verb=us,ca,gb|gb,au,nz,za
 dramaturge=noun=all
 dramaturgic=JJ=all
@@ -48490,7 +48497,7 @@ economically=RB=all
 economics=NN:U=all
 economist=noun=all
 economization|economisation=noun_UN=us,ca,gb|gb,au,nz,za
-economizer=noun=all
+economizer|economiser=noun=us,ca,gb|gb,au,nz,za
 economize|economise=verb=us,ca,gb|gb,au,nz,za
 economy=noun_UN=all
 ecosphere=noun=all
@@ -48580,7 +48587,7 @@ editorial=JJ=all
 editorial=noun=all
 editorialist=noun=all
 editorialization|editorialisation=noun_UN=us,ca,gb|gb,au,nz,za
-editorializer=noun=all
+editorializer|editorialiser=noun=us,ca,gb|gb,au,nz,za
 editorialize|editorialise=verb=us,ca,gb|gb,au,nz,za
 editorially=RB=all
 editorship=noun_U=all
@@ -49246,7 +49253,7 @@ empathy=noun_U=all
 empennage=noun=all
 emperor=noun=all
 emphasis=emphasis/NN:UN,emphases/NNS=all
-emphasizer=noun=all
+emphasizer|emphasiser=noun=us,ca,gb|gb,au,nz,za
 emphasize|emphasise=verb=us,ca,gb|gb,au,nz,za
 emphatic=JJ=all
 emphatic=NN=all
@@ -49652,8 +49659,7 @@ ennoble=verb=all
 ennoblement=noun_U=all
 ennui=noun_U=all
 enolate=NN=all
-enolisable=JJ=all
-enolizable=JJ=all
+enolizable|enolisable=JJ=us,ca,gb|gb,au,nz,za
 enolization|enolisation=noun_UN=us,ca,gb|gb,au,nz,za
 enormity=noun_UN=all
 enormous=JJ=all
@@ -50058,7 +50064,7 @@ equalitarian=noun=all
 equalitarianism=noun_UN=all
 equality=noun_U=all
 equalization|equalisation=noun_UN=us,ca,gb|gb,au,nz,za
-equalizer=noun=all
+equalizer|equaliser=noun=us,ca,gb|gb,au,nz,za
 equalize|equalise=verb=us,ca,gb|gb,au,nz,za
 equalling=NN:UN=all
 equally=RB=all
@@ -50492,7 +50498,7 @@ eulogist=noun=all
 eulogistic=JJ=all
 eulogium=eulogium/NN,eulogia/NNS,eulogiums/NNS=all
 eulogization|eulogisation=noun_UN=us,ca,gb|gb,au,nz,za
-eulogizer=noun=all
+eulogizer|eulogiser=noun=us,ca,gb|gb,au,nz,za
 eulogize|eulogise=verb=us,ca,gb|gb,au,nz,za
 eulogy=noun_UN=all
 eunuch=eunuch/NN,eunuchs/NNS=all
@@ -50574,7 +50580,7 @@ evangelist=noun=all
 evangelistary=noun=all
 evangelistic=JJ=all
 evangelization|evangelisation=noun_UN=us,ca,gb|gb,au,nz,za
-evangelizer=noun=all
+evangelizer|evangeliser=noun=us,ca,gb|gb,au,nz,za
 evangelize|evangelise=verb=us,ca,gb|gb,au,nz,za
 evaporability=noun_UN=all
 evaporable=JJ=all
@@ -51619,7 +51625,7 @@ factorage=noun=all
 factorial=JJ=all
 factorial=noun=all
 factoring=NN:UN=all
-factorizable=JJ=all
+factorizable|factorisable=JJ=us,ca,gb|gb,au,nz,za
 factorization|factorisation=noun_UN=us,ca,gb|gb,au,nz,za
 factorize|factorise=verb=us,ca,gb|gb,au,nz,za
 factory=noun_UN=all
@@ -51837,7 +51843,7 @@ fanny=noun=all
 fantail=noun=all
 fantasia=noun=all
 fantasist=noun=all
-fantasizer=noun=all
+fantasizer|fantasiser=noun=us,ca,gb|gb,au,nz,za
 fantasize|fantasise=verb=us,ca,gb|gb,au,nz,za
 fantastic=JJ=all
 fantastic=NN=all
@@ -52314,7 +52320,8 @@ fentanyl=noun_UN=all
 fenugreek=noun_U=all
 feral=JJ=all
 feral=noun=all
-feralized=JJ=all
+feralized|feralised=JJ=us,ca,gb|gb,au,nz,za
+feralize|feralise=verb=us,ca,gb|gb,au,nz,za
 feretory=noun=all
 ferment=noun=all
 ferment=verb=all
@@ -52369,9 +52376,9 @@ fertile=fertile/JJ,fertiler/JJR,fertilest/JJS=all
 fertilely=RB=all
 fertileness=NN:U=all
 fertility=noun_U=all
-fertilizable=JJ=all
+fertilizable|fertilisable=JJ=us,ca,gb|gb,au,nz,za
 fertilization|fertilisation=noun_UN=us,ca,gb|gb,au,nz,za
-fertilizer=noun_UN=all
+fertilizer|fertiliser=noun_UN=us,ca,gb|gb,au,nz,za
 fertilize|fertilise=verb=us,ca,gb|gb,au,nz,za
 ferula=noun=all
 ferule=noun=all
@@ -53421,7 +53428,7 @@ fluid=noun_UN=all
 fluidics=NN:U=all
 fluidity=noun_U=all
 fluidization|fluidisation=noun_UN=us,ca,gb|gb,au,nz,za
-fluidizer=noun=all
+fluidizer|fluidiser=noun=us,ca,gb|gb,au,nz,za
 fluidize|fluidise=verb=us,ca,gb|gb,au,nz,za
 fluidly=RB=all
 fluidness=NN:U=all
@@ -53939,9 +53946,9 @@ formalism=noun_U=all
 formalist=noun=all
 formalistic=JJ=all
 formality=noun_UN=all
-formalizable=JJ=all
+formalizable|formalisable=JJ=us,ca,gb|gb,au,nz,za
 formalization|formalisation=noun_UN=us,ca,gb|gb,au,nz,za
-formalizer=noun=all
+formalizer|formaliser=noun=us,ca,gb|gb,au,nz,za
 formalize|formalise=verb=us,ca,gb|gb,au,nz,za
 formally=RB=all
 formalness=NN:U=all
@@ -54244,7 +54251,7 @@ fraternalism=noun_UN=all
 fraternally=RB=all
 fraternity=noun_UN=all
 fraternization|fraternisation=noun_UN=us,ca,gb|gb,au,nz,za
-fraternizer=noun=all
+fraternizer|fraterniser=noun=us,ca,gb|gb,au,nz,za
 fraternize|fraternise=verb=us,ca,gb|gb,au,nz,za
 fratricidal=JJ=all
 fratricide=noun_UN=all
@@ -55061,7 +55068,7 @@ galvanic=JJ=all
 galvanically=RB=all
 galvanism=noun_U=all
 galvanization|galvanisation=noun_UN=us,ca,gb|gb,au,nz,za
-galvanizer=noun=all
+galvanizer|galvaniser=noun=us,ca,gb|gb,au,nz,za
 galvanize|galvanise=verb=us,ca,gb|gb,au,nz,za
 galvanometer=noun=all
 galvanometric=JJ=all
@@ -55379,7 +55386,7 @@ gel=verb=all
 gelati=noun=all
 gelatin=noun_U=all
 gelatinization|gelatinisation=noun_UN=us,ca,gb|gb,au,nz,za
-gelatinizer=noun=all
+gelatinizer|gelatiniser=noun=us,ca,gb|gb,au,nz,za
 gelatinize|gelatinise=verb=us,ca,gb|gb,au,nz,za
 gelatinous=JJ=all
 gelatinousness=NN:U=all
@@ -55435,10 +55442,10 @@ general=noun=all
 generalissimo=noun=all
 generalist=noun=all
 generality=noun_UN=all
-generalizability=noun_UN=all
-generalizable=JJ=all
+generalizability|generalisability=noun_UN=us,ca,gb|gb,au,nz,za
+generalizable|generalisable=JJ=us,ca,gb|gb,au,nz,za
 generalization|generalisation=noun_UN=us,ca,gb|gb,au,nz,za
-generalizer=noun=all
+generalizer|generaliser=noun=us,ca,gb|gb,au,nz,za
 generalize|generalise=verb=us,ca,gb|gb,au,nz,za
 generally=RB=all
 generalness=NN:U=all
@@ -56455,7 +56462,7 @@ gorilla=noun=all
 gorily=RB=all
 goriness=NN:U=all
 goring=noun_UN=all
-gormandizer=noun=all
+gormandizer|gormandiser=noun=us,ca,gb|gb,au,nz,za
 gormandize|gormandise=verb=us,ca,gb|gb,au,nz,za
 gormless=JJ=all
 gormlessness=NN:U=all
@@ -56657,7 +56664,7 @@ grandstander=noun=all
 granduncle=noun=all
 grange=noun=all
 grangerization|grangerisation=noun_UN=us,ca,gb|gb,au,nz,za
-grangerizer=noun=all
+grangerizer|grangeriser=noun=us,ca,gb|gb,au,nz,za
 grangerize|grangerise=verb=us,ca,gb|gb,au,nz,za
 granite=noun_U=all
 graniteware=noun=all
@@ -56707,7 +56714,7 @@ graphicness=NN:U=all
 graphics=NN:U=all
 graphite=noun_U=all
 graphitic=JJ=all
-graphitizable=JJ=all
+graphitizable|graphitisable=JJ=us,ca,gb|gb,au,nz,za
 graphitization|graphitisation=noun_UN=us,ca,gb|gb,au,nz,za
 graphitize|graphitise=verb=us,ca,gb|gb,au,nz,za
 graphological=JJ=all
@@ -57366,7 +57373,7 @@ guttersnipe=guttersnipe/NN,guttersnipe/NNS=all
 guttural=JJ=all
 guttural=noun=all
 gutturalization|gutturalisation=noun_UN=us,ca,gb|gb,au,nz,za
-gutturalized=JJ=all
+gutturalized|gutturalised=JJ=us,ca,gb|gb,au,nz,za
 gutturalize|gutturalise=verb=us,ca,gb|gb,au,nz,za
 gutturally=RB=all
 gutturalness=NN:U=all
@@ -57436,7 +57443,7 @@ gyroplane=noun=all
 gyroscope=noun=all
 gyroscopic=JJ=all
 gyroscopically=RB=all
-gyrostabilizer=noun=all
+gyrostabilizer|gyrostabiliser=noun=us,ca,gb|gb,au,nz,za
 gyrus=gyrus/NN,gyri/NNS,gyruses/NNS=all
 gâteau=noun=all
 gâteaux=NNS=all
@@ -57982,9 +57989,9 @@ harmoniously=RB=all
 harmoniousness=NN:U=all
 harmonist=noun=all
 harmonium=noun=all
-harmonizable=JJ=all
+harmonizable|harmonisable=JJ=us,ca,gb|gb,au,nz,za
 harmonization|harmonisation=noun_UN=us,ca,gb|gb,au,nz,za
-harmonizer=noun=all
+harmonizer|harmoniser=noun=us,ca,gb|gb,au,nz,za
 harmonize|harmonise=verb=us,ca,gb|gb,au,nz,za
 harmony=noun_UN=all
 harness=noun=all
@@ -59451,7 +59458,7 @@ homogeneous=NN=all
 homogeneously=RB=all
 homogeneousness=NN:U=all
 homogenization|homogenisation=noun_UN=us,ca,gb|gb,au,nz,za
-homogenizer=noun=all
+homogenizer|homogeniser=noun=us,ca,gb|gb,au,nz,za
 homogenize|homogenise=verb=us,ca,gb|gb,au,nz,za
 homogenous=JJ=all
 homogeny=noun=all
@@ -59946,7 +59953,7 @@ humanitarian=noun=all
 humanitarianism=noun_U=all
 humanity=noun_UN=all
 humanization|humanisation=noun_UN=us,ca,gb|gb,au,nz,za
-humanizer=noun=all
+humanizer|humaniser=noun=us,ca,gb|gb,au,nz,za
 humanize|humanise=verb=us,ca,gb|gb,au,nz,za
 humankind=NN:U=all
 humanly=RB=all
@@ -60154,9 +60161,9 @@ hybrid=JJ=all
 hybrid=noun=all
 hybridism=noun_U=all
 hybridity=noun_UN=all
-hybridizable=JJ=all
+hybridizable|hybridisable=JJ=us,ca,gb|gb,au,nz,za
 hybridization|hybridisation=noun_UN=us,ca,gb|gb,au,nz,za
-hybridizer=noun=all
+hybridizer|hybridiser=noun=us,ca,gb|gb,au,nz,za
 hybridize|hybridise=verb=us,ca,gb|gb,au,nz,za
 hybris=noun=all
 hydatid=noun=all
@@ -60503,10 +60510,10 @@ hypnotic=noun=all
 hypnotically=RB=all
 hypnotism=noun_U=all
 hypnotist=noun=all
-hypnotizability=noun_UN=all
-hypnotizable=JJ=all
+hypnotizability|hypnotisability=noun_UN=us,ca,gb|gb,au,nz,za
+hypnotizable|hypnotisable=JJ=us,ca,gb|gb,au,nz,za
 hypnotization|hypnotisation=noun_UN=us,ca,gb|gb,au,nz,za
-hypnotizer=noun=all
+hypnotizer|hypnotiser=noun=us,ca,gb|gb,au,nz,za
 hypnotize|hypnotise=verb=us,ca,gb|gb,au,nz,za
 hypo=noun_U=all
 hypoactive=JJ=all
@@ -60594,7 +60601,7 @@ hypothermal=JJ=all
 hypothermia=noun_U=all
 hypothermic=JJ=all
 hypothesis=hypothesis/NN,hypotheses/NNS=all
-hypothesizer=noun=all
+hypothesizer|hypothesiser=noun=us,ca,gb|gb,au,nz,za
 hypothesize|hypothesise=verb=us,ca,gb|gb,au,nz,za
 hypothetical=JJ=all
 hypothetical=noun=all
@@ -60735,7 +60742,7 @@ idealistic=JJ=all
 idealistically=RB=all
 ideality=noun_UN=all
 idealization|idealisation=noun_UN=us,ca,gb|gb,au,nz,za
-idealizer=noun=all
+idealizer|idealiser=noun=us,ca,gb|gb,au,nz,za
 idealize|idealise=verb=us,ca,gb|gb,au,nz,za
 ideally=RB=all
 idealness=NN:U=all
@@ -60798,14 +60805,14 @@ idocrase=noun=all
 idol=noun=all
 idolater=noun=all
 idolatress=noun=all
-idolatrizer=noun=all
+idolatrizer|idolatriser=noun=us,ca,gb|gb,au,nz,za
 idolatrize|idolatrise=verb=us,ca,gb|gb,au,nz,za
 idolatrous=JJ=all
 idolatrously=RB=all
 idolatrousness=NN:U=all
 idolatry=noun_U=all
 idolization|idolisation=noun_UN=us,ca,gb|gb,au,nz,za
-idolizer=noun=all
+idolizer|idoliser=noun=us,ca,gb|gb,au,nz,za
 idolize|idolise=verb=us,ca,gb|gb,au,nz,za
 idoneousness=NN:U=all
 idyll=noun=all
@@ -61072,9 +61079,9 @@ immitigable=JJ=all
 immixture=noun=all
 immobile=JJ=all
 immobility=noun_U=all
-immobilizable=JJ=all
+immobilizable|immobilisable=JJ=us,ca,gb|gb,au,nz,za
 immobilization|immobilisation=noun_UN=us,ca,gb|gb,au,nz,za
-immobilizer=noun=all
+immobilizer|immobiliser=noun=us,ca,gb|gb,au,nz,za
 immobilize|immobilise=verb=us,ca,gb|gb,au,nz,za
 immoderate=JJ=all
 immoderately=RB=all
@@ -61094,7 +61101,7 @@ immortal=JJ=all
 immortal=noun=all
 immortality=noun_U=all
 immortalization|immortalisation=noun_UN=us,ca,gb|gb,au,nz,za
-immortalizer=noun=all
+immortalizer|immortaliser=noun=us,ca,gb|gb,au,nz,za
 immortalize|immortalise=verb=us,ca,gb|gb,au,nz,za
 immortally=RB=all
 immortelle=noun=all
@@ -61107,7 +61114,7 @@ immune=JJ=all
 immune=NN=all
 immunity=noun_U=all
 immunization|immunisation=noun_UN=us,ca,gb|gb,au,nz,za
-immunizer=noun=all
+immunizer|immuniser=noun=us,ca,gb|gb,au,nz,za
 immunize|immunise=verb=us,ca,gb|gb,au,nz,za
 immunoanalyzer|immunoanalyser=noun=ca,us|au,gb,nz,za
 immunoassay=noun=all
@@ -62692,7 +62699,7 @@ initial=JJ=all
 initial=noun=all
 initialism=noun_UN=all
 initialization|initialisation=noun_UN=us,ca,gb|gb,au,nz,za
-initializer=noun=all
+initializer|initialiser=noun=us,ca,gb|gb,au,nz,za
 initialize|initialise=verb=us,ca,gb|gb,au,nz,za
 initially=RB=all
 initialness=NN:U=all
@@ -63164,7 +63171,7 @@ intellectual=noun=all
 intellectualism=noun_U=all
 intellectuality=noun_UN=all
 intellectualization|intellectualisation=noun_UN=us,ca,gb|gb,au,nz,za
-intellectualizer=noun=all
+intellectualizer|intellectualiser=noun=us,ca,gb|gb,au,nz,za
 intellectualize|intellectualise=verb=us,ca,gb|gb,au,nz,za
 intellectually=RB=all
 intellectualness=NN:U=all
@@ -63957,9 +63964,9 @@ ion=noun=all
 ionic=JJ=all
 ionic=noun=all
 ionium=noun=all
-ionizable=JJ=all
+ionizable|ionisable=JJ=us,ca,gb|gb,au,nz,za
 ionization|ionisation=noun_UN=us,ca,gb|gb,au,nz,za
-ionizer=noun=all
+ionizer|ioniser=noun=us,ca,gb|gb,au,nz,za
 ionize|ionise=verb=us,ca,gb|gb,au,nz,za
 ionosphere=noun=all
 ionospheric=JJ=all
@@ -64285,7 +64292,7 @@ itchy=itchy/JJ,itchier/JJR,itchiest/JJS=all
 item=JJ=all
 item=noun=all
 itemization|itemisation=noun_UN=us,ca,gb|gb,au,nz,za
-itemizer=noun=all
+itemizer|itemiser=noun=us,ca,gb|gb,au,nz,za
 itemize|itemise=verb=us,ca,gb|gb,au,nz,za
 iterable=JJ=all
 iterate=verb=all
@@ -65515,7 +65522,7 @@ labetalol=labetalol/NN,labetalol/NN:U=all
 labial=JJ=all
 labial=noun=all
 labialization|labialisation=noun_UN=us,ca,gb|gb,au,nz,za
-labialized=JJ=all
+labialized|labialised=JJ=us,ca,gb|gb,au,nz,za
 labialize|labialise=verb=us,ca,gb|gb,au,nz,za
 labially=RB=all
 labiate=JJ=all
@@ -66314,7 +66321,7 @@ legalistic=JJ=all
 legalistically=RB=all
 legality=noun_U=all
 legalization|legalisation=noun_UN=us,ca,gb|gb,au,nz,za
-legalizer=noun=all
+legalizer|legaliser=noun=us,ca,gb|gb,au,nz,za
 legalize|legalise=verb=us,ca,gb|gb,au,nz,za
 legally=RB=all
 legaltech=legaltech/NN:U,legaltechs/NNS=all
@@ -66371,7 +66378,7 @@ legitimism=noun_UN=all
 legitimist=JJ=all
 legitimist=noun=all
 legitimization|legitimisation=noun_UN=us,ca,gb|gb,au,nz,za
-legitimizer=noun=all
+legitimizer|legitimiser=noun=us,ca,gb|gb,au,nz,za
 legitimize|legitimise=verb=us,ca,gb|gb,au,nz,za
 legless=JJ=all
 legman=legman/NN,legmen/NNS=all
@@ -66597,7 +66604,7 @@ liberalist=noun=all
 liberalistic=JJ=all
 liberality=noun_U=all
 liberalization|liberalisation=noun_UN=us,ca,gb|gb,au,nz,za
-liberalizer=noun=all
+liberalizer|liberaliser=noun=us,ca,gb|gb,au,nz,za
 liberalize|liberalise=verb=us,ca,gb|gb,au,nz,za
 liberally=RB=all
 liberalness=NN:U=all
@@ -66961,7 +66968,7 @@ lionfish=lionfish/NN,lionfish/NNS=all
 lionhearted=JJ=all
 lionheartedness=NN:U=all
 lionization|lionisation=noun_UN=us,ca,gb|gb,au,nz,za
-lionizer=noun=all
+lionizer|lioniser=noun=us,ca,gb|gb,au,nz,za
 lionize|lionise=verb=us,ca,gb|gb,au,nz,za
 lip-smacking=JJ=all
 lip-smackingly=RB=all
@@ -67010,7 +67017,7 @@ liquidation=noun_UN=all
 liquidator=noun=all
 liquidity=noun_U=all
 liquidization|liquidisation=noun_UN=us,ca,gb|gb,au,nz,za
-liquidizer=noun=all
+liquidizer|liquidiser=noun=us,ca,gb|gb,au,nz,za
 liquidize|liquidise=verb=us,ca,gb|gb,au,nz,za
 liquidness=NN:U=all
 liquified=JJ=all
@@ -67238,10 +67245,10 @@ locale=noun=all
 localhost=NNP=all
 localism=noun_UN=all
 locality=noun_UN=all
-localizability=noun_UN=all
-localizable=JJ=all
+localizability|localisability=noun_UN=us,ca,gb|gb,au,nz,za
+localizable|localisable=JJ=us,ca,gb|gb,au,nz,za
 localization|localisation=noun_UN=us,ca,gb|gb,au,nz,za
-localizer=noun=all
+localizer|localiser=noun=us,ca,gb|gb,au,nz,za
 localize|localise=verb=us,ca,gb|gb,au,nz,za
 locally=RB=all
 localness=NN:U=all
@@ -67956,7 +67963,7 @@ macadam=JJ=all
 macadam=noun_U=all
 macadamia=noun=all
 macadamization|macadamisation=noun_UN=us,ca,gb|gb,au,nz,za
-macadamized=JJ=all
+macadamized|macadamised=JJ=us,ca,gb|gb,au,nz,za
 macadamize|macadamise=verb=us,ca,gb|gb,au,nz,za
 macaque=macaque/NN,macaque/NNS,macaques/NNS=all
 macarize|macarise=verb=us,ca,gb|gb,au,nz,za
@@ -68100,11 +68107,10 @@ magnetically=RB=all
 magnetics=NN:U=all
 magnetism=noun_U=all
 magnetite=noun_U=all
-magnetizability=NN:UN=all
-magnetizable=JJ=all
+magnetizability|magnetisability=NN:UN=us,ca,gb|gb,au,nz,za
+magnetizable|magnetisable=JJ=us,ca,gb|gb,au,nz,za
 magnetization|magnetisation=noun_UN=us,ca,gb|gb,au,nz,za
-magnetized=JJ=all
-magnetizer=noun=all
+magnetizer|magnetiser=noun=us,ca,gb|gb,au,nz,za
 magnetize|magnetise=verb=us,ca,gb|gb,au,nz,za
 magneto=noun=all
 magnetohydrodynamics=JJ=all
@@ -69024,7 +69030,7 @@ maximalist=noun=all
 maximally=RB=all
 maximist=noun=all
 maximization|maximisation=noun_UN=us,ca,gb|gb,au,nz,za
-maximizer=noun=all
+maximizer|maximiser=noun=us,ca,gb|gb,au,nz,za
 maximize|maximise=verb=us,ca,gb|gb,au,nz,za
 maximum=JJ=all
 maximum=RB=all
@@ -69149,10 +69155,10 @@ mechanism=noun_UN=all
 mechanist=noun=all
 mechanistic=JJ=all
 mechanistically=RB=all
-mechanizable=JJ=all
+mechanizable|mechanisable=JJ=us,ca,gb|gb,au,nz,za
 mechanization|mechanisation=noun_UN=us,ca,gb|gb,au,nz,za
-mechanized=JJ=all
-mechanizer=noun=all
+mechanized|mechanized=JJ=us,ca,gb|gb,au,nz,za
+mechanizer|mechaniser=noun=us,ca,gb|gb,au,nz,za
 mechanize|mechanise=verb=us,ca,gb|gb,au,nz,za
 mechanoreception=noun_UN=all
 mechanoreceptor=noun=all
@@ -69427,9 +69433,9 @@ memorialist=noun=all
 memorialization|memorialisation=noun_UN=us,ca,gb|gb,au,nz,za
 memorialize|memorialise=verb=us,ca,gb|gb,au,nz,za
 memorially=RB=all
-memorizable=JJ=all
+memorizable|memorisable=JJ=us,ca,gb|gb,au,nz,za
 memorization|memorisation=noun_UN=us,ca,gb|gb,au,nz,za
-memorizer=noun=all
+memorizer|memoriser=noun=us,ca,gb|gb,au,nz,za
 memorize|memorise=verb=us,ca,gb|gb,au,nz,za
 memory=noun_UN=all
 memsahib=noun=all
@@ -69519,13 +69525,13 @@ mercenary=JJ=all
 mercenary=noun=all
 mercer=noun=all
 mercerization|mercerisation=noun_UN=us,ca,gb|gb,au,nz,za
-mercerizer=noun=all
+mercerizer|merceriser=noun=us,ca,gb|gb,au,nz,za
 mercerize|mercerise=verb=us,ca,gb|gb,au,nz,za
 merch=NN:U=all
 merchandise=noun_U=all
+merchandise=verb=all
 merchandiser=noun=all
 merchandising=noun_U=all
-merchandize|merchandise=verb=us,ca,gb|gb,au,nz,za
 merchant=JJ=all
 merchant=noun=all
 merchantability=noun_UN=all
@@ -69619,8 +69625,8 @@ mesmeric=JJ=all
 mesmerism=noun_U=all
 mesmerist=noun=all
 mesmerization|mesmerisation=noun_UN=us,ca,gb|gb,au,nz,za
-mesmerized=JJ=all
-mesmerizer=noun=all
+mesmerized|mesmerised=JJ=us,ca,gb|gb,au,nz,za
+mesmerizer|mesmeriser=noun=us,ca,gb|gb,au,nz,za
 mesmerize|mesmerise=verb=us,ca,gb|gb,au,nz,za
 mesne=JJ=all
 mesne=noun=all
@@ -69669,7 +69675,7 @@ metabolic=JJ=all
 metabolically=RB=all
 metabolism=noun_UN=all
 metabolite=noun=all
-metabolizable=JJ=all
+metabolizable|metabolisable=JJ=us,ca,gb|gb,au,nz,za
 metabolize|metabolise=verb=us,ca,gb|gb,au,nz,za
 metabolomic=JJ=all
 metabolomics=NN:U=all
@@ -69856,7 +69862,7 @@ metricize|metricise=verb=us,ca,gb|gb,au,nz,za
 metrics=NN:U=all
 metrist=noun=all
 metritis=noun=all
-metrizable=JJ=all
+metrizable|metrisable=JJ=us,ca,gb|gb,au,nz,za
 metrization|metrisation=noun_UN=us,ca,gb|gb,au,nz,za
 metro=noun=all
 metrological=JJ=all
@@ -70438,9 +70444,9 @@ minelayer=noun=all
 miner=noun=all
 mineral=JJ=all
 mineral=noun=all
-mineralizable=JJ=all
+mineralizable|mineralisable=JJ=us,ca,gb|gb,au,nz,za
 mineralization|mineralisation=noun_UN=us,ca,gb|gb,au,nz,za
-mineralizer=noun=all
+mineralizer|mineraliser=noun=us,ca,gb|gb,au,nz,za
 mineralize|mineralise=verb=us,ca,gb|gb,au,nz,za
 mineralocorticoid=noun=all
 mineralogical=JJ=all
@@ -70485,7 +70491,7 @@ minimalize|minimalise=verb=us,ca,gb|gb,au,nz,za
 minimally=RB=all
 minimax=NN=all
 minimization|minimisation=noun_UN=us,ca,gb|gb,au,nz,za
-minimizer=noun=all
+minimizer|minimiser=noun=us,ca,gb|gb,au,nz,za
 minimize|minimise=verb=us,ca,gb|gb,au,nz,za
 minimum=JJ=all
 minimum=minimum/NN,minima/NNS,minimums/NNS=all
@@ -70977,7 +70983,7 @@ modernist=noun=all
 modernistic=JJ=all
 modernity=noun_U=all
 modernization|modernisation=noun_UN=us,ca,gb|gb,au,nz,za
-modernizer=noun=all
+modernizer|moderniser=noun=us,ca,gb|gb,au,nz,za
 modernize|modernise=verb=us,ca,gb|gb,au,nz,za
 modernly=RB=all
 modernness=NN:U=all
@@ -71029,7 +71035,7 @@ moistening=NN:UN=all
 moistly=RB=all
 moistness=NN:U=all
 moisture=noun_U=all
-moisturizer=noun=all
+moisturizer|moisturiser=noun=us,ca,gb|gb,au,nz,za
 moisturize|moisturise=verb=us,ca,gb|gb,au,nz,za
 mojito=noun=all
 mojo=mojo/NN,mojoes/NNS,mojos/NNS=all
@@ -71129,7 +71135,7 @@ monetarism=noun_U=all
 monetarist=noun=all
 monetary=JJ=all
 monetization|monetisation=noun_UN=us,ca,gb|gb,au,nz,za
-monetizer=noun=all
+monetizer|monetiser=noun=us,ca,gb|gb,au,nz,za
 monetize|monetise=verb=us,ca,gb|gb,au,nz,za
 money-back=JJ=all
 money-oriented=JJ=all
@@ -71290,9 +71296,9 @@ monopole=noun=all
 monopolist=noun=all
 monopolistic=JJ=all
 monopolistically=RB=all
-monopolizable=JJ=all
+monopolizable|monopolisable=JJ=us,ca,gb|gb,au,nz,za
 monopolization|monopolisation=noun_UN=us,ca,gb|gb,au,nz,za
-monopolizer=noun=all
+monopolizer|monopoliser=noun=us,ca,gb|gb,au,nz,za
 monopolize|monopolise=verb=us,ca,gb|gb,au,nz,za
 monopoly=noun=all
 monoprotic=JJ=all
@@ -71426,7 +71432,7 @@ moralistic=JJ=all
 moralistically=RB=all
 morality=noun_U=all
 moralization|moralisation=noun_UN=us,ca,gb|gb,au,nz,za
-moralizer=noun=all
+moralizer|moraliser=noun=us,ca,gb|gb,au,nz,za
 moralize|moralise=verb=us,ca,gb|gb,au,nz,za
 morally=RB=all
 morass=noun=all
@@ -72553,7 +72559,7 @@ narcotic=noun=all
 narcotically=RB=all
 narcotism=noun_UN=all
 narcotization|narcotisation=noun_UN=us,ca,gb|gb,au,nz,za
-narcotized=JJ=all
+narcotized|narcotised=JJ=us,ca,gb|gb,au,nz,za
 narcotize|narcotise=verb=us,ca,gb|gb,au,nz,za
 narcotizing=JJ=all
 nard=noun=all
@@ -72628,7 +72634,7 @@ nationalistic=JJ=all
 nationalistically=RB=all
 nationality=noun_UN=all
 nationalization|nationalisation=noun_UN=us,ca,gb|gb,au,nz,za
-nationalizer=noun=all
+nationalizer|nationaliser=noun=us,ca,gb|gb,au,nz,za
 nationalize|nationalise=verb=us,ca,gb|gb,au,nz,za
 nationally=RB=all
 nationhood=noun_U=all
@@ -72748,7 +72754,7 @@ neatness=NN:U=all
 nebula=nebula/NN:U,nebulae/NNS,nebulas/NNS=all
 nebular=JJ=all
 nebulization|nebulisation=noun_UN=us,ca,gb|gb,au,nz,za
-nebulizer=noun=all
+nebulizer|nebuliser=noun=us,ca,gb|gb,au,nz,za
 nebulize|nebulise=verb=us,ca,gb|gb,au,nz,za
 nebulosity=noun_UN=all
 nebulous=JJ=all
@@ -73164,7 +73170,7 @@ neutralism=noun_U=all
 neutralist=noun=all
 neutrality=noun_U=all
 neutralization|neutralisation=noun_UN=us,ca,gb|gb,au,nz,za
-neutralizer=noun=all
+neutralizer|neutraliser=noun=us,ca,gb|gb,au,nz,za
 neutralize|neutralise=verb=us,ca,gb|gb,au,nz,za
 neutrally=RB=all
 neutralness=NN:U=all
@@ -73521,7 +73527,7 @@ nominal=NN=all
 nominalism=noun_UN=all
 nominalist=noun=all
 nominalistic=JJ=all
-nominalizable=JJ=all
+nominalizable|nominalisable=JJ=us,ca,gb|gb,au,nz,za
 nominalization|nominalisation=noun_UN=us,ca,gb|gb,au,nz,za
 nominalize|nominalise=verb=us,ca,gb|gb,au,nz,za
 nominally=RB=all
@@ -73905,7 +73911,7 @@ nonphysical=JJ=all
 nonplus [nonpluses,nonplusses;nonplused,nonplussed;nonplused,nonplussed;nonplusing,nonplussing]=verb=all
 nonpoisonous|non-poisonous=JJ=au,ca,us|gb,nz,za
 nonpolar=JJ=all
-nonpolarizable=JJ=all
+nonpolarizable|nonpolarisable=JJ=us,ca,gb|gb,au,nz,za
 nonpolitical|non-political=JJ=au,ca,us|gb,nz,za
 nonporous|non-porous=JJ=au,ca,us|gb,nz,za
 nonpregnant|non-pregnant=JJ=au,ca,us|gb,nz,za
@@ -74060,9 +74066,9 @@ normal=JJ=all
 normal=noun_U=all
 normalcy=noun_U=all
 normality=noun_U=all
-normalizable=JJ=all
+normalizable|normalisable=JJ=us,ca,gb|gb,au,nz,za
 normalization|normalisation=noun_UN=us,ca,gb|gb,au,nz,za
-normalizer=noun=all
+normalizer|normaliser=noun=us,ca,gb|gb,au,nz,za
 normalize|normalise=verb=us,ca,gb|gb,au,nz,za
 normally=RB=all
 normalness=NN:U=all
@@ -74150,7 +74156,7 @@ notableness=NN:U=all
 notably=RB=all
 notarial=JJ=all
 notarization|notarisation=noun_UN=us,ca,gb|gb,au,nz,za
-notarized=JJ=all
+notarized|notarised=JJ=us,ca,gb|gb,au,nz,za
 notarize|notarise=verb=us,ca,gb|gb,au,nz,za
 notary=noun=all
 notate=verb=all
@@ -75302,7 +75308,7 @@ operatically=RB=all
 operating=JJ=all
 operation=noun_UN=all
 operational=JJ=all
-operationalizable=JJ=all
+operationalizable|operationalisable=JJ=us,ca,gb|gb,au,nz,za
 operationalization|operationalisation=noun_UN=us,ca,gb|gb,au,nz,za
 operationalize|operationalise=verb=us,ca,gb|gb,au,nz,za
 operationally=RB=all
@@ -75419,9 +75425,9 @@ optimism=noun_U=all
 optimist=noun=all
 optimistic=JJ=all
 optimistically=RB=all
-optimizable=JJ=all
+optimizable|optimisable=JJ=us,ca,gb|gb,au,nz,za
 optimization|optimisation=noun_UN=us,ca,gb|gb,au,nz,za
-optimizer=noun=all
+optimizer|optimiser=noun=us,ca,gb|gb,au,nz,za
 optimize|optimise=verb=us,ca,gb|gb,au,nz,za
 optimum=JJ=all
 optimum=optimum/NN,optima/NNS,optimums/NNS=all
@@ -75799,7 +75805,7 @@ ostler=noun=all
 ostmark=noun=all
 ostomy=noun_U=all
 ostracism=noun_U=all
-ostracizable=JJ=all
+ostracizable|ostracisable=JJ=us,ca,gb|gb,au,nz,za
 ostracization|ostracisation=noun_UN=us,ca,gb|gb,au,nz,za
 ostracize|ostracise=verb=us,ca,gb|gb,au,nz,za
 ostracod=noun=all
@@ -76468,7 +76474,7 @@ oversleep [oversleeps;overslept;overslept;oversleeping]=verb=all
 oversolicitous=JJ=all
 oversoul=noun=all
 overspecialization|overspecialisation=noun_UN=us,ca,gb|gb,au,nz,za
-overspecialized=JJ=all
+overspecialized|overspecialised=JJ=us,ca,gb|gb,au,nz,za
 overspecialize|overspecialise=verb=us,ca,gb|gb,au,nz,za
 overspend [overspends;overspent;overspent;overspending]=verb=all
 overspend=noun=all
@@ -76637,11 +76643,11 @@ oxidation=noun_U=all
 oxidative=JJ=all
 oxidatively=RB=all
 oxide=noun_UN=all
-oxidizability=NN:UN=all
-oxidizable=JJ=all
+oxidizability|oxidisability=NN:UN=us,ca,gb|gb,au,nz,za
+oxidizable|oxidisable=JJ=us,ca,gb|gb,au,nz,za
 oxidization|oxidisation=noun_UN=us,ca,gb|gb,au,nz,za
-oxidized=JJ=all
-oxidizer=noun=all
+oxidized|oxidised=JJ=us,ca,gb|gb,au,nz,za
+oxidizer|oxidiser=noun=us,ca,gb|gb,au,nz,za
 oxidize|oxidise=verb=us,ca,gb|gb,au,nz,za
 oxime=noun_U=all
 oximeter=noun=all
@@ -76672,7 +76678,7 @@ oystering=noun=all
 ozone=noun_U=all
 ozonic=JJ=all
 ozonization|ozonisation=noun_UN=us,ca,gb|gb,au,nz,za
-ozonizer=noun=all
+ozonizer|ozoniser=noun=us,ca,gb|gb,au,nz,za
 ozonize|ozonise=verb=us,ca,gb|gb,au,nz,za
 pH=pH/NN:U,pH/NNP,pHs/NNS=all
 pa=noun=all
@@ -76817,7 +76823,7 @@ palatableness=NN:U=all
 palatal=JJ=all
 palatal=noun=all
 palatalization|palatalisation=noun_UN=us,ca,gb|gb,au,nz,za
-palatalized=JJ=all
+palatalized|palatalised=JJ=us,ca,gb|gb,au,nz,za
 palatalize|palatalise=verb=us,ca,gb|gb,au,nz,za
 palate=noun=all
 palatial=JJ=all
@@ -76854,7 +76860,7 @@ palladium=noun_U=all
 pallbearer=noun=all
 pallet=noun=all
 palletization|palletisation=noun_UN=us,ca,gb|gb,au,nz,za
-palletizer=noun=all
+palletizer|palletiser=noun=us,ca,gb|gb,au,nz,za
 palletize|palletise=verb=us,ca,gb|gb,au,nz,za
 palliate=verb=all
 palliation=noun_U=all
@@ -77562,8 +77568,8 @@ pastel=noun=all
 pastelist=noun=all
 pastern=noun=all
 pasteurization|pasteurisation=noun_UN=us,ca,gb|gb,au,nz,za
-pasteurized=JJ=all
-pasteurizer=noun=all
+pasteurized|pasteurised=JJ=us,ca,gb|gb,au,nz,za
+pasteurizer|pasteuriser=noun=us,ca,gb|gb,au,nz,za
 pasteurize|pasteurise=verb=us,ca,gb|gb,au,nz,za
 pasticcio=noun=all
 pastiche=noun=all
@@ -77716,7 +77722,7 @@ patronage=verb=all
 patronal=JJ=all
 patroness=NN:U=all
 patronization|patronisation=noun_UN=us,ca,gb|gb,au,nz,za
-patronizer=noun=all
+patronizer|patroniser=noun=us,ca,gb|gb,au,nz,za
 patronize|patronise=verb=us,ca,gb|gb,au,nz,za
 patronizingly=RB=all
 patronymic=JJ=all
@@ -77878,7 +77884,7 @@ pectic=JJ=all
 pectin=noun_U=all
 pectinate=JJ=all
 pectiniform=JJ=all
-pectizable=JJ=all
+pectizable|pectisable=JJ=us,ca,gb|gb,au,nz,za
 pectization|pectisation=noun_UN=us,ca,gb|gb,au,nz,za
 pectize|pectise=verb=us,ca,gb|gb,au,nz,za
 pectoral=JJ=all
@@ -78020,7 +78026,7 @@ pellet=noun=all
 pellet=verb=all
 pelletal=JJ=all
 pelletization|pelletisation=noun_UN=us,ca,gb|gb,au,nz,za
-pelletizer=noun=all
+pelletizer|pelletiser=noun=us,ca,gb|gb,au,nz,za
 pelletize|pelletise=verb=us,ca,gb|gb,au,nz,za
 pellicle=noun=all
 pellitory=noun=all
@@ -78212,9 +78218,9 @@ peptic=JJ=all
 peptic=noun=all
 peptide=noun_U=all
 peptidoglycan=noun=all
-peptizable=JJ=all
+peptizable|peptisable=JJ=us,ca,gb|gb,au,nz,za
 peptization|peptisation=noun_UN=us,ca,gb|gb,au,nz,za
-peptizer=noun=all
+peptizer|peptiser=noun=us,ca,gb|gb,au,nz,za
 peptize|peptise=verb=us,ca,gb|gb,au,nz,za
 peptone=noun_U=all
 peptonization|peptonisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -78576,7 +78582,7 @@ personalist=noun=all
 personalistic=JJ=all
 personality=noun_UN=all
 personalization|personalisation=noun_UN=us,ca,gb|gb,au,nz,za
-personalized=JJ=all
+personalized|personalised=JJ=us,ca,gb|gb,au,nz,za
 personalize|personalise=verb=us,ca,gb|gb,au,nz,za
 personally=RB=all
 personalness=NN:U=all
@@ -78955,7 +78961,7 @@ philosophical=JJ=all
 philosophically=RB=all
 philosophicalness=NN:U=all
 philosophization|philosophisation=noun_UN=us,ca,gb|gb,au,nz,za
-philosophizer=noun=all
+philosophizer|philosophiser=noun=us,ca,gb|gb,au,nz,za
 philosophize|philosophise=verb=us,ca,gb|gb,au,nz,za
 philosophy=noun_UN=all
 philter|philtre=noun=us|au,ca,gb,nz,za
@@ -79137,7 +79143,7 @@ photorespiration=noun_UN=all
 photosensitive=JJ=all
 photosensitivity=noun_UN=all
 photosensitization|photosensitisation=noun_UN=us,ca,gb|gb,au,nz,za
-photosensitizer=noun=all
+photosensitizer|photosensitiser=noun=us,ca,gb|gb,au,nz,za
 photosensitize|photosensitise=verb=us,ca,gb|gb,au,nz,za
 photoshoot=noun=all
 photoshop [-pp-]=verb=all
@@ -79770,7 +79776,7 @@ plage=noun=all
 plagiarism=noun_UN=all
 plagiarist=noun=all
 plagiarization|plagiarisation=noun_UN=us,ca,gb|gb,au,nz,za
-plagiarizer=noun=all
+plagiarizer|plagiariser=noun=us,ca,gb|gb,au,nz,za
 plagiarize|plagiarise=verb=us,ca,gb|gb,au,nz,za
 plagioclase=noun=all
 plagioclastic=JJ=all
@@ -79888,7 +79894,7 @@ plasticated=JJ=all
 plasticine=noun_U=all
 plasticity=noun_U=all
 plasticization|plasticisation=noun_UN=us,ca,gb|gb,au,nz,za
-plasticizer=noun=all
+plasticizer|plasticiser=noun=us,ca,gb|gb,au,nz,za
 plasticize|plasticise=verb=us,ca,gb|gb,au,nz,za
 plastics=JJ=all
 plastid=noun=all
@@ -80329,10 +80335,10 @@ polar=noun=all
 polarimeter=noun=all
 polariscope=noun=all
 polarity=noun_UN=all
-polarizability=noun_UN=all
-polarizable=JJ=all
+polarizability|polarisability=noun_UN=us,ca,gb|gb,au,nz,za
+polarizable|polarisable=JJ=us,ca,gb|gb,au,nz,za
 polarization|polarisation=noun_UN=us,ca,gb|gb,au,nz,za
-polarizer=noun=all
+polarizer|polariser=noun=us,ca,gb|gb,au,nz,za
 polarize|polarise=verb=us,ca,gb|gb,au,nz,za
 polder=NN=all
 pole-vaulter=noun=all
@@ -80501,7 +80507,7 @@ polymerase=noun_U=all
 polymeric=JJ=all
 polymerically=RB=all
 polymerism=noun_UN=all
-polymerizable=JJ=all
+polymerizable|polymerisable=JJ=us,ca,gb|gb,au,nz,za
 polymerization|polymerisation=noun_UN=us,ca,gb|gb,au,nz,za
 polymerize|polymerise=verb=us,ca,gb|gb,au,nz,za
 polymerous=JJ=all
@@ -80685,7 +80691,7 @@ popular=JJ=all
 popular=noun=all
 popularity=noun_U=all
 popularization|popularisation=noun_UN=us,ca,gb|gb,au,nz,za
-popularizer=noun=all
+popularizer|populariser=noun=us,ca,gb|gb,au,nz,za
 popularize|popularise=verb=us,ca,gb|gb,au,nz,za
 popularly=RB=all
 popularness=NN:U=all
@@ -81969,7 +81975,7 @@ pressroom=noun=all
 pressure=noun_UN=all
 pressure=verb=all
 pressurization|pressurisation=noun_UN=us,ca,gb|gb,au,nz,za
-pressurizer=noun=all
+pressurizer|pressuriser=noun=us,ca,gb|gb,au,nz,za
 pressurize|pressurise=verb=us,ca,gb|gb,au,nz,za
 prestandardization|prestandardisation=noun_UN=us,ca,gb|gb,au,nz,za
 prestate=verb=all
@@ -82820,7 +82826,7 @@ proselyte=noun=all
 proselyte=verb=all
 proselytism=noun_U=all
 proselytization|proselytisation=noun_UN=us,ca,gb|gb,au,nz,za
-proselytizer=noun=all
+proselytizer|proselytiser=noun=us,ca,gb|gb,au,nz,za
 proselytize|proselytise=verb=us,ca,gb|gb,au,nz,za
 prosenchyma=noun=all
 proser=noun=all
@@ -83281,7 +83287,7 @@ publican=noun=all
 publication=noun_UN=all
 publicist=noun=all
 publicity=noun_U=all
-publicized=JJ=all
+publicized|publicised=JJ=us,ca,gb|gb,au,nz,za
 publicize|publicise=verb=us,ca,gb|gb,au,nz,za
 publicizing=NN:UN=all
 publicly=RB=all
@@ -83389,9 +83395,9 @@ pulsatory=JJ=all
 pulse=noun_UN=all
 pulse=verb=all
 pulsimeter=noun=all
-pulverizable=JJ=all
+pulverizable|pulverisable=JJ=us,ca,gb|gb,au,nz,za
 pulverization|pulverisation=noun_UN=us,ca,gb|gb,au,nz,za
-pulverizer=noun=all
+pulverizer|pulveriser=noun=us,ca,gb|gb,au,nz,za
 pulverize|pulverise=verb=us,ca,gb|gb,au,nz,za
 pulverulent=JJ=all
 puma=puma/NN,puma/NNS,pumas/NNS=all
@@ -83852,9 +83858,9 @@ quantitative=quantitative/JJ,quantitive/JJ=all
 quantitatively=RB=all
 quantitativeness=NN:U=all
 quantity=noun_UN=all
-quantizable=JJ=all
+quantizable|quantisable=JJ=us,ca,gb|gb,au,nz,za
 quantization|quantisation=noun_UN=us,ca,gb|gb,au,nz,za
-quantizer=noun=all
+quantizer|quantiser=noun=us,ca,gb|gb,au,nz,za
 quantize|quantise=verb=us,ca,gb|gb,au,nz,za
 quantum=JJ=all
 quantum=quantum/NN,quanta/NNS=all
@@ -84266,7 +84272,7 @@ racialism=noun_U=all
 racialist=noun=all
 racialistic=JJ=all
 racialization|racialisation=noun_UN=us,ca,gb|gb,au,nz,za
-racialized=JJ=all
+racialized|racialised=JJ=us,ca,gb|gb,au,nz,za
 racialize|racialise=verb=us,ca,gb|gb,au,nz,za
 racially=RB=all
 racily=RB=all
@@ -84538,8 +84544,8 @@ randiness=NN:U=all
 random=JJ=all
 random=NN=all
 randomization|randomisation=noun_UN=us,ca,gb|gb,au,nz,za
-randomized=JJ=all
-randomizer=noun=all
+randomized|randomised=JJ=us,ca,gb|gb,au,nz,za
+randomizer|randomiser=noun=us,ca,gb|gb,au,nz,za
 randomize|randomise=verb=us,ca,gb|gb,au,nz,za
 randomly=RB=all
 randomness=NN:U=all
@@ -84697,9 +84703,9 @@ rationalist=JJ=all
 rationalist=noun=all
 rationalistic=JJ=all
 rationality=noun_U=all
-rationalizable=JJ=all
+rationalizable|rationalisable=JJ=us,ca,gb|gb,au,nz,za
 rationalization|rationalisation=noun_UN=us,ca,gb|gb,au,nz,za
-rationalizer=noun=all
+rationalizer|rationaliser=noun=us,ca,gb|gb,au,nz,za
 rationalize|rationalise=verb=us,ca,gb|gb,au,nz,za
 rationally=RB=all
 rationalness=NN:U=all
@@ -85172,11 +85178,11 @@ reclusion=noun=all
 reclusive=JJ=all
 reclusiveness=NN:U=all
 recognition=noun_U=all
-recognizability=noun_UN=all
-recognizable=JJ=all
-recognizably=RB=all
+recognizability|recognisability=noun_UN=us,ca,gb|gb,au,nz,za
+recognizable|recognisable=JJ=us,ca,gb|gb,au,nz,za
+recognizably|recognisably=RB=us,ca,gb|gb,au,nz,za
 recognizance=noun_U=all
-recognizer=noun=all
+recognizer|recogniser=noun=us,ca,gb|gb,au,nz,za
 recognize|recognise=verb=us,ca,gb|gb,au,nz,za
 recoil=noun=all
 recoil=verb=all
@@ -85822,7 +85828,7 @@ regular=JJ=all
 regular=noun=all
 regularity=noun_U=all
 regularization|regularisation=noun_UN=us,ca,gb|gb,au,nz,za
-regularized=JJ=all
+regularized|regularised=JJ=us,ca,gb|gb,au,nz,za
 regularize|regularise=verb=us,ca,gb|gb,au,nz,za
 regularly=RB=all
 regularness=NN:U=all
@@ -86290,7 +86296,7 @@ reorder=noun=all
 reorder=verb=all
 reordering=NN:UN=all
 reorganization|reorganisation=noun_UN=us,ca,gb|gb,au,nz,za
-reorganizer=noun=all
+reorganizer|reorganiser=noun=us,ca,gb|gb,au,nz,za
 reorganize|reorganise=verb=us,ca,gb|gb,au,nz,za
 reorient=verb=all
 reorientate=verb=all
@@ -88782,7 +88788,7 @@ sanitary=JJ=all
 sanitary=noun=all
 sanitation=noun_U=all
 sanitization|sanitisation=noun_UN=us,ca,gb|gb,au,nz,za
-sanitizer=noun_UN=all
+sanitizer|sanitiser=noun=us,ca,gb|gb,au,nz,za
 sanitize|sanitise=verb=us,ca,gb|gb,au,nz,za
 sanity=noun_U=all
 sannyasi=noun=all
@@ -88915,9 +88921,9 @@ satirical=JJ=all
 satirically=RB=all
 satiricalness=NN:U=all
 satirist=noun=all
-satirizable=JJ=all
+satirizable|satirisable=JJ=us,ca,gb|gb,au,nz,za
 satirization|satirisation=noun_UN=us,ca,gb|gb,au,nz,za
-satirizer=noun=all
+satirizer|satiriser=noun=us,ca,gb|gb,au,nz,za
 satirize|satirise=verb=us,ca,gb|gb,au,nz,za
 satisfaction=noun_UN=all
 satisfactorily=RB=all
@@ -89110,7 +89116,7 @@ scan=noun=all
 scan=verb=all
 scandal=noun_UN=all
 scandalization|scandalisation=noun_UN=us,ca,gb|gb,au,nz,za
-scandalizer=noun=all
+scandalizer|scandaliser=noun=us,ca,gb|gb,au,nz,za
 scandalize|scandalise=verb=us,ca,gb|gb,au,nz,za
 scandalmonger=noun=all
 scandalous=JJ=all
@@ -89343,7 +89349,7 @@ sclerosis=sclerosis/NN:U,scleroses/NNS=all
 sclerotic=JJ=all
 sclerotic=noun=all
 sclerotization|sclerotisation=noun_UN=us,ca,gb|gb,au,nz,za
-sclerotized=JJ=all
+sclerotized|sclerotised=JJ=us,ca,gb|gb,au,nz,za
 sclerotize|sclerotise=verb=us,ca,gb|gb,au,nz,za
 scoff=noun=all
 scoff=verb=all
@@ -89598,7 +89604,7 @@ scrupulousness=NN:U=all
 scrutator=noun=all
 scrutineer=noun=all
 scrutinization|scrutinisation=noun_UN=us,ca,gb|gb,au,nz,za
-scrutinizer=noun=all
+scrutinizer|scrutiniser=noun=us,ca,gb|gb,au,nz,za
 scrutinize|scrutinise=verb=us,ca,gb|gb,au,nz,za
 scrutiny=noun_U=all
 scuba-dive [scuba-dives;scuba-dived,scuba-dove;scuba-dived,scuba-dove;scuba-diving]=verb=all
@@ -89840,8 +89846,8 @@ secularism=noun_U=all
 secularist=noun=all
 secularity=noun_UN=all
 secularization|secularisation=noun_UN=us,ca,gb|gb,au,nz,za
-secularized=JJ=all
-secularizer=noun=all
+secularized|secularised=JJ=us,ca,gb|gb,au,nz,za
+secularizer|seculariser=noun=us,ca,gb|gb,au,nz,za
 secularize|secularise=verb=us,ca,gb|gb,au,nz,za
 secularly=RB=all
 securable=JJ=all
@@ -90386,7 +90392,7 @@ sensitively=RB=all
 sensitiveness=NN:U=all
 sensitivity=noun_UN=all
 sensitization|sensitisation=noun_UN=us,ca,gb|gb,au,nz,za
-sensitizer=noun=all
+sensitizer|sensitiser=noun=us,ca,gb|gb,au,nz,za
 sensitize|sensitise=verb=us,ca,gb|gb,au,nz,za
 sensor=noun=all
 sensorial=JJ=all
@@ -90542,7 +90548,7 @@ serial=JJ=all
 serial=noun=all
 serialism=noun_UN=all
 serialist=noun=all
-serializable=JJ=all
+serializable|serialisable=JJ=us,ca,gb|gb,au,nz,za
 serialization|serialisation=noun_UN=us,ca,gb|gb,au,nz,za
 serialize|serialise=verb=us,ca,gb|gb,au,nz,za
 serially=RB=all
@@ -92861,9 +92867,9 @@ socialistic=JJ=all
 socialistically=RB=all
 socialite=noun=all
 sociality=noun_UN=all
-socializable=JJ=all
+socializable|socialisable=JJ=us,ca,gb|gb,au,nz,za
 socialization|socialisation=noun_UN=us,ca,gb|gb,au,nz,za
-socializer=noun=all
+socializer|socialiser=noun=us,ca,gb|gb,au,nz,za
 socialize|socialise=verb=us,ca,gb|gb,au,nz,za
 socially=RB=all
 socialness=NN:U=all
@@ -93547,7 +93553,7 @@ specialist=JJ=all
 specialist=noun=all
 specialistic=JJ=all
 specialization|specialisation=noun_UN=us,ca,gb|gb,au,nz,za
-specialized=JJ=all
+specialized|specialised=JJ=us,ca,gb|gb,au,nz,za
 specialize|specialise=verb=us,ca,gb|gb,au,nz,za
 specially=RB=all
 specialness=NN:U=all
@@ -93798,7 +93804,7 @@ spiral [-ll-]|spiral=verb=all|us
 spiral=JJ=all
 spiral=noun=all
 spiraling|spiralling=noun_UN=us|au,ca,gb,nz,za
-spiralizer=noun=all
+spiralizer|spiraliser=noun=us,ca,gb|gb,au,nz,za
 spiralize|spiralise=verb=us,ca,gb|gb,au,nz,za
 spirally=RB=all
 spirant=JJ=all
@@ -93827,7 +93833,7 @@ spiritualist=noun=all
 spiritualistic=JJ=all
 spirituality=noun_U=all
 spiritualization|spiritualisation=noun_UN=us,ca,gb|gb,au,nz,za
-spiritualizer=noun=all
+spiritualizer|spiritualiser=noun=us,ca,gb|gb,au,nz,za
 spiritualize|spiritualise=verb=us,ca,gb|gb,au,nz,za
 spiritually=RB=all
 spiritualness=NN:U=all
@@ -94315,7 +94321,7 @@ stabile=JJ=all
 stabile=noun=all
 stability=noun_U=all
 stabilization|stabilisation=noun_UN=us,ca,gb|gb,au,nz,za
-stabilizer=noun=all
+stabilizer|stabiliser=noun=us,ca,gb|gb,au,nz,za
 stabilize|stabilise=verb=us,ca,gb|gb,au,nz,za
 stable=noun=all
 stable=stable/JJ,stabler/JJR,stablest/JJS=all
@@ -94454,9 +94460,9 @@ standalone=noun=all
 standard-bearer=noun=all
 standard=JJ=all
 standard=noun_UN=all
-standardizable=JJ=all
+standardizable|standardisable=JJ=us,ca,gb|gb,au,nz,za
 standardization|standardisation=noun_UN=us,ca,gb|gb,au,nz,za
-standardizer=noun=all
+standardizer|standardiser=noun=us,ca,gb|gb,au,nz,za
 standardize|standardise=verb=us,ca,gb|gb,au,nz,za
 standby=JJ=all
 standby=standby/NN:UN,standbys/NNS=all
@@ -94799,10 +94805,10 @@ sterile=JJ=all
 sterilely=RB=all
 sterileness=NN:U=all
 sterility=noun_U=all
-sterilizable=JJ=all
+sterilizable|sterilisable=JJ=us,ca,gb|gb,au,nz,za
 sterilization|sterilisation=noun_UN=us,ca,gb|gb,au,nz,za
-sterilized=JJ=all
-sterilizer=noun=all
+sterilized|sterilised=JJ=us,ca,gb|gb,au,nz,za
+sterilizer|steriliser=noun=us,ca,gb|gb,au,nz,za
 sterilize|sterilise=verb=us,ca,gb|gb,au,nz,za
 sterling=JJ=all
 sterling=noun_U=all
@@ -95931,10 +95937,10 @@ subsidiarity=noun_UN=all
 subsidiary=JJ=all
 subsidiary=noun=all
 subsiding=JJ=all
-subsidizable=JJ=all
+subsidizable|subsidisable=JJ=us,ca,gb|gb,au,nz,za
 subsidization|subsidisation=noun_UN=us,ca,gb|gb,au,nz,za
-subsidized=JJ=all
-subsidizer=noun=all
+subsidized|subsidised=JJ=us,ca,gb|gb,au,nz,za
+subsidizer|subsidiser=noun=us,ca,gb|gb,au,nz,za
 subsidize|subsidise=verb=us,ca,gb|gb,au,nz,za
 subsidy=noun=all
 subsist=verb=all
@@ -96013,7 +96019,7 @@ subtextual=JJ=all
 subtherapeutic=JJ=all
 subtileness=NN:U=all
 subtilization|subtilisation=noun_UN=us,ca,gb|gb,au,nz,za
-subtilizer=noun=all
+subtilizer|subtiliser=noun=us,ca,gb|gb,au,nz,za
 subtilize|subtilise=verb=us,ca,gb|gb,au,nz,za
 subtitle=noun=all
 subtitle=verb=all
@@ -96250,9 +96256,9 @@ sumac=noun_U=all
 summand=noun=all
 summarily=RB=all
 summariness=NN:U=all
-summarizable=JJ=all
+summarizable|summarisable=JJ=us,ca,gb|gb,au,nz,za
 summarization|summarisation=noun_UN=us,ca,gb|gb,au,nz,za
-summarizer=noun=all
+summarizer|summariser=noun=us,ca,gb|gb,au,nz,za
 summarize|summarise=verb=us,ca,gb|gb,au,nz,za
 summary=JJ=all
 summary=noun=all
@@ -97111,7 +97117,7 @@ symbolism=noun_U=all
 symbolist=JJ=all
 symbolist=noun=all
 symbolization|symbolisation=noun_UN=us,ca,gb|gb,au,nz,za
-symbolizer=noun=all
+symbolizer|symboliser=noun=us,ca,gb|gb,au,nz,za
 symbolize|symbolise=verb=us,ca,gb|gb,au,nz,za
 symbology=noun_UN=all
 symmetric=JJ=all
@@ -97124,7 +97130,7 @@ symmetry=noun_U=all
 sympathetic=JJ=all
 sympathetic=noun=all
 sympathetically=RB=all
-sympathizer=noun=all
+sympathizer|sympathiser=noun=us,ca,gb|gb,au,nz,za
 sympathize|sympathise=verb=us,ca,gb|gb,au,nz,za
 sympathy=noun_UN=all
 sympatric=JJ=all
@@ -97162,7 +97168,7 @@ synchronically=RB=all
 synchronicity=noun=all
 synchronism=noun_UN=all
 synchronization|synchronisation=noun_UN=us,ca,gb|gb,au,nz,za
-synchronizer=noun=all
+synchronizer|synchroniser=noun=us,ca,gb|gb,au,nz,za
 synchronize|synchronise=verb=us,ca,gb|gb,au,nz,za
 synchronous=JJ=all
 synchronously=RB=all
@@ -97240,7 +97246,7 @@ synth=noun=all
 synthase=noun=all
 synthesis=synthesis/NN:UN,syntheses/NNS,synthesises/NNS=all
 synthesization|synthesisation=noun_UN=us,ca,gb|gb,au,nz,za
-synthesizer=noun=all
+synthesizer|synthesiser=noun=us,ca,gb|gb,au,nz,za
 synthesize|synthesise=verb=us,ca,gb|gb,au,nz,za
 synthetic=JJ=all
 synthetic=noun=all
@@ -97271,7 +97277,7 @@ systematics=NN:U=all
 systematism=noun_UN=all
 systematist=noun=all
 systematization|systematisation=noun_UN=us,ca,gb|gb,au,nz,za
-systematizer=noun=all
+systematizer|systematiser=noun=us,ca,gb|gb,au,nz,za
 systematize|systematise=verb=us,ca,gb|gb,au,nz,za
 systemic=JJ=all
 systemic=noun=all
@@ -97551,7 +97557,7 @@ tannin=noun_U=all
 tanning=noun_U=all
 tansy=noun_U=all
 tantalization|tantalisation=noun_UN=us,ca,gb|gb,au,nz,za
-tantalizer=noun=all
+tantalizer|tantaliser=noun=us,ca,gb|gb,au,nz,za
 tantalize|tantalise=verb=us,ca,gb|gb,au,nz,za
 tantalizing=JJ=all
 tantalizingly=RB=all
@@ -98093,7 +98099,7 @@ temporariness=NN:U=all
 temporary=JJ=all
 temporary=noun=all
 temporization|temporisation=noun_UN=us,ca,gb|gb,au,nz,za
-temporizer=noun=all
+temporizer|temporiser=noun=us,ca,gb|gb,au,nz,za
 temporize|temporise=verb=us,ca,gb|gb,au,nz,za
 temporizing=noun_UN=all
 temporomandibular=JJ=all
@@ -98145,7 +98151,7 @@ tenderhearted=JJ=all
 tenderheartedness=NN:U=all
 tendering=noun_UN=all
 tenderization|tenderisation=noun_UN=us,ca,gb|gb,au,nz,za
-tenderizer=noun_U=all
+tenderizer|tenderiser=noun=us,ca,gb|gb,au,nz,za
 tenderize|tenderise=verb=us,ca,gb|gb,au,nz,za
 tenderloin=noun_U=all
 tenderly=RB=all
@@ -98351,7 +98357,7 @@ terrorist=JJ=all
 terrorist=noun=all
 terroristic=JJ=all
 terrorization|terrorisation=noun_UN=us,ca,gb|gb,au,nz,za
-terrorizer=noun=all
+terrorizer|terroriser=noun=us,ca,gb|gb,au,nz,za
 terrorize|terrorise=verb=us,ca,gb|gb,au,nz,za
 terry=noun_U=all
 terry=terry/JJ,terrier/JJR=all
@@ -98572,7 +98578,7 @@ theological=JJ=all
 theologically=RB=all
 theologist=noun=all
 theologization|theologisation=noun_UN=us,ca,gb|gb,au,nz,za
-theologizer=noun=all
+theologizer|theologiser=noun=us,ca,gb|gb,au,nz,za
 theologize|theologise=verb=us,ca,gb|gb,au,nz,za
 theology=noun_UN=all
 theophanic=JJ=all
@@ -98587,7 +98593,7 @@ theoretically=RB=all
 theoretician=noun=all
 theorist=noun=all
 theorization|theorisation=noun_UN=us,ca,gb|gb,au,nz,za
-theorizer=noun=all
+theorizer|theoriser=noun=us,ca,gb|gb,au,nz,za
 theorize|theorise=verb=us,ca,gb|gb,au,nz,za
 theory=noun_UN=all
 theosophic=JJ=all
@@ -99457,7 +99463,7 @@ token=JJ=all
 token=noun=all
 tokenism=noun_U=all
 tokenization|tokenisation=noun_UN=us,ca,gb|gb,au,nz,za
-tokenizer=noun=all
+tokenizer|tokeniser=noun=us,ca,gb|gb,au,nz,za
 tokenize|tokenise=verb=us,ca,gb|gb,au,nz,za
 tokomak=noun=all
 tolerability=noun_UN=all
@@ -99742,7 +99748,7 @@ totalitarianism=noun_U=all
 totality=noun_U=all
 totalization|totalisation=noun_UN=us,ca,gb|gb,au,nz,za
 totalizator=noun=all
-totalizer=noun=all
+totalizer|totaliser=noun=us,ca,gb|gb,au,nz,za
 totalize|totalise=verb=us,ca,gb|gb,au,nz,za
 totally=RB=all
 tote=noun=all
@@ -101684,7 +101690,7 @@ unaudited=JJ=all
 unauthentic=JJ=all
 unauthenticated=JJ=all
 unauthoritativeness=NN:U=all
-unauthorized=JJ=all
+unauthorized|unauthorised=JJ=us,ca,gb|gb,au,nz,za
 unavailability=noun_U=all
 unavailable=JJ=all
 unavailableness=NN:U=all
@@ -101842,7 +101848,7 @@ uncanonical=JJ=all
 uncanonization|uncanonisation=noun_UN=us,ca,gb|gb,au,nz,za
 uncap [-pp-]=verb=all
 uncapable=JJ=all
-uncapitalized=JJ=all
+uncapitalized|uncapitalised=JJ=us,ca,gb|gb,au,nz,za
 uncapped=JJ=all
 uncared-for=JJ=all
 uncaring=JJ=all
@@ -101851,8 +101857,8 @@ uncashed=JJ=all
 uncataloged=JJ=all
 uncatalogued=JJ=all
 uncatalogued|uncataloged=JJ=all|us
-uncategorizable=JJ=all
-uncategorized=JJ=all
+uncategorizable|uncategorisable=JJ=us,ca,gb|gb,au,nz,za
+uncategorized|uncategorised=JJ=us,ca,gb|gb,au,nz,za
 uncaught=JJ=all
 uncaused=JJ=all
 uncautiousness=NN:U=all
@@ -101924,8 +101930,8 @@ uncirculated=JJ=all
 uncircumcised=JJ=all
 uncircumcision=noun=all
 uncivil=JJ=all
-uncivilized=JJ=all
 uncivilizedness=NN:U=all
+uncivilized|uncivilised=JJ=us,ca,gb|gb,au,nz,za
 uncivilly=RB=all
 uncivilness=NN:U=all
 unclad=JJ=all
@@ -102161,7 +102167,7 @@ uncrumple=verb=all
 uncrumpled=JJ=all
 uncrumpling=JJ=all
 uncrushable=JJ=all
-uncrystallized=JJ=all
+uncrystallized|uncrystallised=JJ=us,ca,gb|gb,au,nz,za
 unction=noun_UN=all
 unctuous=JJ=all
 unctuously=RB=all
@@ -102265,7 +102271,7 @@ underbody=noun=all
 underbred=JJ=all
 underbrush=noun_U=all
 undercapitalization|undercapitalisation=noun_UN=us,ca,gb|gb,au,nz,za
-undercapitalized=JJ=all
+undercapitalized|undercapitalised=JJ=us,ca,gb|gb,au,nz,za
 undercapitalize|undercapitalise=verb=us,ca,gb|gb,au,nz,za
 undercarriage=noun=all
 undercast=noun=all
@@ -102804,7 +102810,7 @@ unfelicitousness=NN:U=all
 unfelt=JJ=all
 unfeminine=JJ=all
 unfermented=JJ=all
-unfertilized=JJ=all
+unfertilized|unfertilised=JJ=us,ca,gb|gb,au,nz,za
 unfetter=verb=all
 unfettered=JJ=all
 unfeudalize|unfeudalise=verb=us,ca,gb|gb,au,nz,za
@@ -103125,7 +103131,7 @@ unimpressively=RB=all
 unimprovable=JJ=all
 unimproved=JJ=all
 unincorporated=JJ=all
-unindustrialized=JJ=all
+unindustrialized|unindustrialised=JJ=us,ca,gb|gb,au,nz,za
 uninfected=JJ=all
 uninfectiousness=NN:U=all
 uninflected=JJ=all
@@ -103199,8 +103205,8 @@ union=noun_UN=all
 unionism=noun_U=all
 unionist=noun=all
 unionization|unionisation=noun_UN=us,ca,gb|gb,au,nz,za
-unionized=JJ=all
-unionizer=noun=all
+unionized|unionised=JJ=us,ca,gb|gb,au,nz,za
+unionizer|unioniser=noun=us,ca,gb|gb,au,nz,za
 unionize|unionise=verb=us,ca,gb|gb,au,nz,za
 uniparous=JJ=all
 unipersonal=JJ=all
@@ -103248,7 +103254,7 @@ universalist=JJ=all
 universalist=noun=all
 universalistic=JJ=all
 universality=noun_U=all
-universalizability=NN:U=all
+universalizability|universalisability=NN:U=us,ca,gb|gb,au,nz,za
 universalization|universalisation=noun_UN=us,ca,gb|gb,au,nz,za
 universalize|universalise=verb=us,ca,gb|gb,au,nz,za
 universally=RB=all
@@ -103427,7 +103433,7 @@ unmeasurable=JJ=all
 unmeasurableness=NN:U=all
 unmeasured=JJ=all
 unmeasuredness=NN:U=all
-unmechanized=JJ=all
+unmechanized|unmechanised=JJ=us,ca,gb|gb,au,nz,za
 unmediated=JJ=all
 unmeet=JJ=all
 unmeetness=NN:U=all
@@ -103561,10 +103567,10 @@ unopened=JJ=all
 unopposable=JJ=all
 unopposed=JJ=all
 unoppressiveness=NN:U=all
-unoptimized=JJ=all
+unoptimized|unoptimised=JJ=us,ca,gb|gb,au,nz,za
 unordained=JJ=all
 unordered=JJ=all
-unorganized=JJ=all
+unorganized|unorganised=JJ=us,ca,gb|gb,au,nz,za
 unoriginal=JJ=all
 unoriginality=NN:UN=all
 unornamented=JJ=all
@@ -103595,7 +103601,7 @@ unpardonably=RB=all
 unparliamentary=JJ=all
 unpassable=JJ=all
 unpassionateness=NN:U=all
-unpasteurized=JJ=all
+unpasteurized|unpasteurised=JJ=us,ca,gb|gb,au,nz,za
 unpatched=JJ=all
 unpatentable=JJ=all
 unpatented=JJ=all
@@ -103655,7 +103661,7 @@ unpoetical=JJ=all
 unpointed=JJ=all
 unpointedness=NN:U=all
 unpoised=JJ=all
-unpolarizable=JJ=all
+unpolarizable|unpolarisable=JJ=us,ca,gb|gb,au,nz,za
 unpolished=JJ=all
 unpolite=JJ=all
 unpoliteness=NN:U=all
@@ -103759,7 +103765,7 @@ unprovided=JJ=all
 unprovisioned=JJ=all
 unprovocativeness=NN:U=all
 unprovoked=JJ=all
-unpublicized=JJ=all
+unpublicized|unpublicised=JJ=us,ca,gb|gb,au,nz,za
 unpublish=verb=all
 unpublishable=JJ=all
 unpublished=JJ=all
@@ -103831,9 +103837,9 @@ unreceptively=RB=all
 unreceptiveness=NN:U=all
 unreciprocated=JJ=all
 unreclaimed=JJ=all
-unrecognizable=JJ=all
-unrecognizably=RB=all
-unrecognized=JJ=all
+unrecognizable|unrecognisable=JJ=us,ca,gb|gb,au,nz,za
+unrecognizably|unrecognisably=RB=us,ca,gb|gb,au,nz,za
+unrecognized|unrecognised=JJ=us,ca,gb|gb,au,nz,za
 unrecommended=JJ=all
 unrecompensed=JJ=all
 unreconcilable=JJ=all
@@ -104189,7 +104195,7 @@ unsociable=JJ=all
 unsociableness=NN:U=all
 unsociably=RB=all
 unsocial=JJ=all
-unsocialized=JJ=all
+unsocialized|unsocialised=JJ=us,ca,gb|gb,au,nz,za
 unsocially=JJ=all
 unsocially=RB=all
 unsoiled=JJ=all
@@ -104217,7 +104223,7 @@ unsparingness=NN:U=all
 unspeakable=JJ=all
 unspeakableness=NN:U=all
 unspeakably=RB=all
-unspecialized=JJ=all
+unspecialized|unspecialised=JJ=us,ca,gb|gb,au,nz,za
 unspecifiable=JJ=all
 unspecific=JJ=all
 unspecified=JJ=all
@@ -104249,7 +104255,7 @@ unstaffed=JJ=all
 unstaidness=NN:U=all
 unstained=JJ=all
 unstamped=JJ=all
-unstandardized=JJ=all
+unstandardized|unstandardised=JJ=us,ca,gb|gb,au,nz,za
 unstated=JJ=all
 unsteadfastness=NN:U=all
 unsteadily=RB=all
@@ -104292,7 +104298,7 @@ unsubmitting=JJ=all
 unsubscribe=verb=all
 unsubscribed=JJ=all
 unsubscribing=JJ=all
-unsubsidized=JJ=all
+unsubsidized|unsubsidised=JJ=us,ca,gb|gb,au,nz,za
 unsubstantial=JJ=all
 unsubstantiality=noun_UN=all
 unsubstantialize|substantialise=verb=us,ca,gb|gb,au,nz,za
@@ -104355,7 +104361,7 @@ unsymmetrical=JJ=all
 unsymmetrically=RB=all
 unsympathetic=JJ=all
 unsympathetically=RB=all
-unsynchronized=JJ=all
+unsynchronized|unsynchronised=JJ=us,ca,gb|gb,au,nz,za
 unsystematic=JJ=all
 unsystematical=JJ=all
 unsystematically=RB=all
@@ -104524,7 +104530,7 @@ unveiled=JJ=all
 unveiling=noun_UN=all
 unvented=JJ=all
 unventilated=JJ=all
-unverbalized=JJ=all
+unverbalized|unverbalised=JJ=us,ca,gb|gb,au,nz,za
 unverifiable=JJ=all
 unverified=JJ=all
 unversed=JJ=all
@@ -104538,7 +104544,7 @@ unvirtuously=RB=all
 unvirtuousness=NN:U=all
 unvisitable=JJ=all
 unvisited=JJ=all
-unvocalized=JJ=all
+unvocalized|unvocalised=JJ=us,ca,gb|gb,au,nz,za
 unvoiced=JJ=all
 unwakefulness=NN:U=all
 unwanted=JJ=all
@@ -104823,7 +104829,7 @@ urbanistically=RB=all
 urbanite=noun=all
 urbanity=noun_U=all
 urbanization|urbanisation=noun_UN=us,ca,gb|gb,au,nz,za
-urbanized=JJ=all
+urbanized|urbanised=JJ=us,ca,gb|gb,au,nz,za
 urbanize|urbanise=verb=us,ca,gb|gb,au,nz,za
 urbanologist=noun=all
 urbanology=noun_U=all
@@ -104924,9 +104930,9 @@ utilitarian=noun=all
 utilitarianism=noun_U=all
 utility=JJ=all
 utility=noun_UN=all
-utilizable=JJ=all
+utilizable|utilisable=JJ=us,ca,gb|gb,au,nz,za
 utilization|utilisation=noun_UN=us,ca,gb|gb,au,nz,za
-utilizer=noun=all
+utilizer|utiliser=noun=us,ca,gb|gb,au,nz,za
 utilize|utilise=verb=us,ca,gb|gb,au,nz,za
 utmost=JJ=all
 utmost=noun_U=all
@@ -105394,9 +105400,9 @@ veratrine=noun=all
 verb=noun=all
 verbal=JJ=all
 verbal=noun=all
-verbalizable=JJ=all
+verbalizable|verbalisable=JJ=us,ca,gb|gb,au,nz,za
 verbalization|verbalisation=noun_UN=us,ca,gb|gb,au,nz,za
-verbalizer=noun=all
+verbalizer|verbaliser=noun=us,ca,gb|gb,au,nz,za
 verbalize|verbalise=verb=us,ca,gb|gb,au,nz,za
 verbally=RB=all
 verbatim=JJ=all
@@ -105607,7 +105613,7 @@ vicissitude=noun=all
 victim=noun=all
 victimhood=noun=all
 victimization|victimisation=noun_UN=us,ca,gb|gb,au,nz,za
-victimizer=noun=all
+victimizer|victimiser=noun=us,ca,gb|gb,au,nz,za
 victimize|victimise=verb=us,ca,gb|gb,au,nz,za
 victimless=JJ=all
 victimology=noun_UN=all
@@ -105851,9 +105857,9 @@ vista=noun=all
 visual=JJ=all
 visual=noun=all
 visuality=noun_UN=all
-visualizable=JJ=all
+visualizable|visualisable=JJ=us,ca,gb|gb,au,nz,za
 visualization|visualisation=noun_UN=us,ca,gb|gb,au,nz,za
-visualizer=noun=all
+visualizer|visualiser=noun=us,ca,gb|gb,au,nz,za
 visualize|visualise=verb=us,ca,gb|gb,au,nz,za
 visually=RB=all
 visualness=NN:U=all
@@ -105865,7 +105871,7 @@ vitalism=noun_UN=all
 vitalist=noun=all
 vitality=noun_U=all
 vitalization|vitalisation=noun_UN=us,ca,gb|gb,au,nz,za
-vitalizer=noun=all
+vitalizer|vitaliser=noun=us,ca,gb|gb,au,nz,za
 vitalize|vitalise=verb=us,ca,gb|gb,au,nz,za
 vitally=RB=all
 vitalness=NN:U=all
@@ -105938,7 +105944,7 @@ vocalism=noun_UN=all
 vocalist=noun=all
 vocality=noun_UN=all
 vocalization|vocalisation=noun_UN=us,ca,gb|gb,au,nz,za
-vocalizer=noun=all
+vocalizer|vocaliser=noun=us,ca,gb|gb,au,nz,za
 vocalize|vocalise=verb=us,ca,gb|gb,au,nz,za
 vocally=RB=all
 vocalness=NN:U=all
@@ -105993,9 +105999,9 @@ volatile=JJ=all
 volatile=noun=all
 volatileness=NN:U=all
 volatility=noun_U=all
-volatilizable=JJ=all
+volatilizable|volatilisable=JJ=us,ca,gb|gb,au,nz,za
 volatilization|volatilisation=noun_UN=us,ca,gb|gb,au,nz,za
-volatilized=JJ=all
+volatilized|volatilised=JJ=us,ca,gb|gb,au,nz,za
 volatilize|volatilise=verb=us,ca,gb|gb,au,nz,za
 volcanic=JJ=all
 volcanic=noun=all
@@ -106097,10 +106103,10 @@ vroom=UH=all
 vroom=verb=all
 vulcanism=noun_UN=all
 vulcanite=noun_U=all
-vulcanizable=JJ=all
+vulcanizable|vulcanisable=JJ=us,ca,gb|gb,au,nz,za
 vulcanization|vulcanisation=noun_UN=us,ca,gb|gb,au,nz,za
-vulcanized=JJ=all
-vulcanizer=noun=all
+vulcanized|vulcanised=JJ=us,ca,gb|gb,au,nz,za
+vulcanizer|vulcaniser=noun=us,ca,gb|gb,au,nz,za
 vulcanize|vulcanise=verb=us,ca,gb|gb,au,nz,za
 vulcanologist=noun=all
 vulcanology=noun_UN=all
@@ -106109,7 +106115,7 @@ vulgarian=noun=all
 vulgarism=noun_UN=all
 vulgarity=noun_UN=all
 vulgarization|vulgarisation=noun_UN=us,ca,gb|gb,au,nz,za
-vulgarizer=noun=all
+vulgarizer|vulgariser=noun=us,ca,gb|gb,au,nz,za
 vulgarize|vulgarise=verb=us,ca,gb|gb,au,nz,za
 vulgarly=RB=all
 vulgarness=NN:U=all
@@ -107655,7 +107661,7 @@ womanishness=NN:U=all
 womanism=noun_UN=all
 womanist=noun=all
 womanization|womanisation=noun_UN=us,ca,gb|gb,au,nz,za
-womanizer=noun=all
+womanizer|womaniser=noun=us,ca,gb|gb,au,nz,za
 womanize|womanise=verb=us,ca,gb|gb,au,nz,za
 womankind=NN:U=all
 womanlike=JJ=all
@@ -108177,10 +108183,10 @@ yep=JJ=all
 yep=RB=all
 yep=noun=all
 yerba=noun=all
-yes [yeses,yesses;yesed,yessed;yesed,yessed;yesing,yessing]=verb=all
+yes [-ss-,-s-]=verb=all # colloquial, slang
+yes [pl. yeses,yesses]=noun=all
 yes-man [pl. yes-men]=noun=all
 yes=RB=all
-yes=yes/NN,yeses/NNS,yesses/NNS=all
 yesterday=RB=all
 yesterday=noun_UN=all
 yesterdayness=NN:U=all
