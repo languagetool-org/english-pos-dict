@@ -27276,6 +27276,7 @@ absorber=noun=all
 absorbing=JJ=all
 absorbingly=RB=all
 absorptance=noun=all
+absorptiometer=noun=all
 absorption=noun_U=all
 absorptive=JJ=all
 absorptiveness=NN:U=all
@@ -27533,6 +27534,8 @@ acetaminophen=noun_U=all
 acetanilide=noun=all
 acetate=noun_U=all
 acetic=JJ=all
+acetimeter=noun=all
+acetometer=noun=all
 acetone=noun_U=all
 acetonitrile=noun=all
 acetous=JJ=all
@@ -27583,6 +27586,7 @@ acidization|acidisation=noun_UN=us,ca,gb|gb,au,nz,za
 acidize|acidise=verb=us,ca,gb|gb,au,nz,za
 acidly=RB=all
 acidness=NN:U=all
+acidometer=noun=all
 acidophil=JJ=all
 acidophil=noun=all
 acidophilus=noun=all
@@ -28156,6 +28160,7 @@ aerolite=noun=all
 aerology=noun_UN=all
 aeromedical=JJ=all
 aerometeorograph=noun=all
+aerometer=noun=all
 aerometry=noun=all
 aeronautic=JJ=all
 aeronautic=noun=all
@@ -28412,6 +28417,7 @@ aggregation=noun_UN=all
 aggregative=JJ=all
 aggregatively=RB=all
 aggregator=noun=all
+aggregometer=noun=all
 aggress=verb=all
 aggression=noun_U=all
 aggressive=JJ=all
@@ -28693,6 +28699,7 @@ alba=noun=all
 albacore=albacore/NN,albacore/NNS,albacores/NNS=all
 albatross=albatross/NN,albatross/NNS,albatrosses/NNS=all
 albedo=albedo/NN,albedo/NN:U,albedoes/NNS,albedos/NNS=all
+albedometer=noun=all
 albeit=CC=all
 albescent=JJ=all
 albinism=noun_U=all
@@ -28775,6 +28782,7 @@ algebraic=JJ=all
 algebraical=JJ=all
 algebraically=RB=all
 algebraist=noun=all
+algesimeter=noun=all
 algicide=noun=all
 algid=JJ=all
 algidness=NN:U=all
@@ -29887,6 +29895,7 @@ anthropologically=RB=all
 anthropologist=noun=all
 anthropologize|anthropologise=verb=us,ca,gb|gb,au,nz,za
 anthropology=noun_U=all
+anthropometer=noun=all
 anthropometric=JJ=all
 anthropometry=noun_U=all
 anthropomorphic=JJ=all
@@ -30281,6 +30290,7 @@ apeman=apeman/NN,apemen/NNS=all
 aperiodic=JJ=all
 aperiodically=RB=all
 aperitif=noun=all
+apertometer=noun=all
 apertural=JJ=all
 aperture=noun=all
 aperçu=noun=all
@@ -30741,6 +30751,7 @@ areolar=JJ=all
 areolate=JJ=all
 areolation=noun_UN=all
 areole=noun=all
+areometer=noun=all
 argent=JJ=all
 argent=noun_U=all
 argentiferous=JJ=all
@@ -30790,6 +30801,7 @@ arithmetical=JJ=all
 arithmetically=RB=all
 arithmetician=noun=all
 arithmetize|arithmetise=verb=us,ca,gb|gb,au,nz,za
+arithmometer=noun=all
 ark=noun=all
 arkose=noun=all
 arkosic=JJ=all
@@ -31262,6 +31274,7 @@ asthmatically=RB=all
 astigmatic=JJ=all
 astigmatic=NN=all
 astigmatism=noun_UN=all
+astigmometer=noun=all
 astilbe=noun=all
 astir=JJ=all
 astonish=verb=all
@@ -31393,6 +31406,7 @@ atilt=RB=all
 atlas=atlas/NN,atlantes/NNS,atlases/NNS=all
 atm=abbreviation=all
 atman=noun=all
+atmometer=noun=all
 atmosphere=noun_UN=all
 atmospheric=JJ=all
 atmospheric=noun=all
@@ -31864,9 +31878,11 @@ autumn=JJ=all
 autumn=noun_UN=all
 autumnal=JJ=all
 autunite=noun=all
+auxanometer=noun=all
 auxiliary=JJ=all
 auxiliary=noun=all
 auxin=noun_U=all
+auxometer=noun=all
 avail=noun_U=all
 avail=verb=all
 availability=noun_U=all
@@ -32651,6 +32667,7 @@ barnstormer=noun=all
 barnyard=JJ=all
 barnyard=noun=all
 baroclinic=JJ=all
+barocyclonometer=noun=all
 barograph=noun=all
 barometer=noun=all
 barometric=JJ=all
@@ -32811,12 +32828,14 @@ bathhouse=noun=all
 bathing=noun_U=all
 bathmat=noun=all
 batholith=noun=all
+bathometer=noun=all
 bathos=noun_U=all
 bathrobe=noun=all
 bathroom=noun=all
 bathtub=noun=all
 bathwater=noun=all
 bathyal=JJ=all
+bathymeter=noun=all
 bathymetric=JJ=all
 bathymetrical=JJ=all
 bathymetrically=RB=all
@@ -33864,6 +33883,7 @@ biome=noun=all
 biomechanical=JJ=all
 biomedical=JJ=all
 biomedicine=noun=all
+biometer=noun=all
 biometric=JJ=all
 biometric=noun=all
 biometrical=JJ=all
@@ -36202,6 +36222,7 @@ butyl=noun=all
 butyral=noun=all
 butyrate=noun=all
 butyric=JJ=all
+butyrometer=noun=all
 butyryl=JJ=all
 butyryl=noun=all
 buxom=buxom/JJ,buxomer/JJR,buxomest/JJS=all
@@ -36581,6 +36602,7 @@ camphene=noun=all
 camphor=noun_U=all
 camphorate=verb=all
 campily=RB=all
+campimeter=noun=all
 campiness=NN:U=all
 camping=noun_U=all
 campout=noun=all
@@ -36926,6 +36948,7 @@ carboniferous=JJ=all
 carbonization|carbonisation=noun_UN=us,ca,gb|gb,au,nz,za
 carbonize|carbonise=verb=us,ca,gb|gb,au,nz,za
 carbonless=JJ=all
+carbonometer=noun=all
 carbonous=JJ=all
 carbonyl=JJ=all
 carbonyl=noun_U=all
@@ -37408,6 +37431,7 @@ cathedral=noun=all
 catheter=noun=all
 catheterization|catheterisation=noun_UN=us,ca,gb|gb,au,nz,za
 catheterize|catheterise=verb=us,ca,gb|gb,au,nz,za
+cathetometer=noun=all
 cathexis=cathexis/NN,cathexes/NNS=all
 cathodal=JJ=all
 cathode=noun=all
@@ -37545,6 +37569,7 @@ cefuroxime=NN=all
 ceilidh=noun=all
 ceiling=noun=all
 ceilinged=JJ=all
+ceilometer=noun=all
 celadon=noun=all
 celandine=noun_U=all
 celeb=noun=all
@@ -37737,6 +37762,7 @@ cephalic=noun=all
 cephalization|cephalisation=noun_UN=us,ca,gb|gb,au,nz,za
 cephalochordate=JJ=all
 cephalochordate=noun=all
+cephalometer=noun=all
 cephalopod=JJ=all
 cephalopod=noun=all
 cephalosporin=noun=all
@@ -38460,6 +38486,7 @@ chlorate=noun_U=all
 chlorella=noun=all
 chlorenchyma=noun=all
 chloride=noun_U=all
+chlorimeter=noun=all
 chlorinate=verb=all
 chlorination=noun_U=all
 chlorinator=noun=all
@@ -38470,6 +38497,7 @@ chlorofluorocarbon=noun_U=all
 chloroform=noun_U=all
 chloroform=verb=all
 chlorogenic=JJ=all
+chlorometer=noun=all
 chlorophyll=noun_U=all
 chlorophyte=NN=all
 chloropicrin=noun_U=all
@@ -39001,6 +39029,7 @@ clannishness=NN:U=all
 clansman=clansman/NN,clansmen/NNS=all
 clap=noun_UN=all
 clap=verb=all
+clapometer=noun=all
 clapper=noun=all
 clapperboard=noun=all
 clapping=noun_U=all
@@ -39685,6 +39714,7 @@ coequalness=NN:U=all
 coerce=verb=all
 coercer=noun=all
 coercible=JJ=all
+coercimeter=noun=all
 coercion=noun_U=all
 coercive=JJ=all
 coerciveness=NN:U=all
@@ -40522,6 +40552,7 @@ comprise=verb=all
 compromise=noun_UN=all
 compromise=verb=all
 compromiser=noun=all
+comptometer=noun=all
 comptroller=noun=all
 compulsion=noun_U=all
 compulsive=JJ=all
@@ -42098,6 +42129,8 @@ couldn't=contraction=all
 coulis=coulis/NN,coulises/NNS,coulisses/NNS=all
 couloir=noun=all
 coulomb=noun=all
+coulombmeter=noun=all
+coulometer=noun=all
 coulé=noun=all
 council=noun=all
 councillor=noun=all
@@ -42494,6 +42527,7 @@ craniate=noun=all
 craniectomy=noun=all
 craniofacial=JJ=all
 craniology=noun_UN=all
+craniometer=noun=all
 craniometry=noun=all
 craniotomy=noun=all
 cranium=cranium/NN,crania/NNS,craniums/NNS=all
@@ -43074,6 +43108,7 @@ cryogenic=noun=all
 cryogenics=NN:U=all
 cryohydrate=NN=all
 cryolite=cryolite/NN,cryolite/NN:U,cryolites/NNS=all
+cryometer=noun=all
 cryonic=noun=all
 cryonically=RB=all
 cryonics=NN:U=all
@@ -43117,6 +43152,7 @@ cryptological=JJ=all
 cryptologist=noun=all
 cryptology=noun_UN=all
 cryptomeria=noun=all
+cryptometer=noun=all
 cryptomonad=NN=all
 cryptonym=noun=all
 cryptonymous=JJ=all
@@ -43529,6 +43565,7 @@ cyanocobalamin=noun=all
 cyanocobalamine=noun=all
 cyanogen=noun=all
 cyanogenesis=cyanogenesis/NN,cyanogeneses/NNS=all
+cyanometer=noun=all
 cyanophyte=JJ=all
 cyanosis=cyanosis/NN:U,cyanoses/NNS=all
 cyanotic=JJ=all
@@ -43618,6 +43655,7 @@ cyma=cyma/NN,cymae/NNS,cymas/NNS=all
 cymbal=noun=all
 cymbalist=noun=all
 cyme=noun=all
+cymometer=noun=all
 cymose=JJ=all
 cynic=noun=all
 cynical=JJ=all
@@ -43640,6 +43678,7 @@ cysteine=noun_U=all
 cystic=JJ=all
 cystitis=cystitis/NN:U,cystitides/NNS=all
 cystocele=noun=all
+cystometer=noun=all
 cystoscope=noun=all
 cystoscopy=noun=all
 cystotomy=noun=all
@@ -43663,7 +43702,9 @@ cytologist=noun=all
 cytology=noun_U=all
 cytolysis=cytolysis/NN:U,cytolyses/NNS=all
 cytomegalovirus=noun=all
+cytometer=noun=all
 cytometry=NN:U=all
+cytophotometer=noun=all
 cytoplasm=cytoplasm/NN:U,cytoplasm/NN:UN,cytoplasms/NNS=all
 cytoplasmic=JJ=all
 cytosine=noun_U=all
@@ -43901,6 +43942,7 @@ dastard=JJ=all
 dastard=noun=all
 dastardliness=NN:U=all
 dastardly=JJ=all
+dasymeter=noun=all
 dasyure=noun=all
 data=NN:UN=all
 database=noun=all
@@ -44218,6 +44260,7 @@ deceivingly=RB=all
 decelerate=verb=all
 deceleration=noun_U=all
 decelerator=noun=all
+decelerometer=noun=all
 decency=noun_U=all
 decennary=JJ=all
 decennary=noun=all
@@ -44342,6 +44385,7 @@ decline=noun_UN=all
 decline=verb=all
 decliner=noun=all
 declinism=NN:UN=all
+declinometer=noun=all
 declivitous=JJ=all
 declivity=noun=all
 declot [-tt-]=verb=all
@@ -44432,6 +44476,7 @@ decree=noun=all
 decrement=noun=all
 decrement=verb=all
 decremental=JJ=all
+decremeter=noun=all
 decreolization|decreolisation=noun_UN=us,ca,gb|gb,au,nz,za
 decrepit=JJ=all
 decrepitate=verb=all
@@ -44647,6 +44692,7 @@ deformalize|deformalise=verb=us,ca,gb|gb,au,nz,za
 deformation=noun_UN=all
 deformed=JJ=all
 deformedness=NN:U=all
+deformeter=noun=all
 deformity=noun_UN=all
 defragment=verb=all
 defragmentation=NN:UN=all
@@ -45033,6 +45079,7 @@ dendrochronology=noun_UN=all
 dendrological=JJ=all
 dendrologist=noun=all
 dendrology=noun_UN=all
+dendrometer=noun=all
 dengue=noun_U=all
 deniability=noun_UN=all
 deniable=JJ=all
@@ -45069,6 +45116,7 @@ dens=dens/JJ,denser/JJR,densest/JJS=all
 dense=dense/JJ,denser/JJR,densest/JJS=all
 densely=RB=all
 denseness=NN:U=all
+densimeter=noun=all
 densitometer=noun=all
 density=noun_UN=all
 dent=noun=all
@@ -45772,6 +45820,7 @@ diagnostic=noun=all
 diagnostically=RB=all
 diagnostician=noun=all
 diagnostics=NN:U=all
+diagometer=noun=all
 diagonal=JJ=all
 diagonal=noun=all
 diagonalizable|diagonalisable=JJ=us,ca,gb|gb,au,nz,za
@@ -45831,6 +45880,7 @@ diapause=NN=all
 diapedesis=diapedesis/NN,diapedeses/NNS=all
 diaper=noun=all
 diaper=verb=all
+diaphanometer=noun=all
 diaphanous=JJ=all
 diaphanously=RB=all
 diaphanousness=NN:U=all
@@ -46077,6 +46127,7 @@ dilate=verb=all
 dilatedness=NN:U=all
 dilation=noun_U=all
 dilative=JJ=all
+dilatometer=noun=all
 dilator=noun=all
 dilatorily=RB=all
 dilatoriness=NN:U=all
@@ -46195,6 +46246,7 @@ dioecism=noun_UN=all
 dioecy=noun=all
 diopside=noun=all
 diopter=noun=all
+dioptometer=noun=all
 dioptric=JJ=all
 dioptric=noun=all
 dioptrics=NN:U=all
@@ -47361,6 +47413,7 @@ dolomite=noun_U=all
 dolomitic=JJ=all
 dolomitization|dolomitisation=noun_UN=us,ca,gb|gb,au,nz,za
 dolomitize|dolomitise=verb=us,ca,gb|gb,au,nz,za
+dolorimeter=noun=all
 dolorous=JJ=all
 dolorously=RB=all
 dolorousness=NN:U=all
@@ -47501,6 +47554,7 @@ dos=NNS=all
 dosage=noun_UN=all
 dose=noun=all
 dose=verb=all
+dosemeter=noun=all
 dosh=NN:U=gb # informal
 dosimeter=noun=all
 dosimetry=noun_U=all
@@ -47976,6 +48030,7 @@ dropsical=JJ=all
 dropsy=noun_U=all
 dropwort=noun=all
 droshky=droshky/NN,droshkies/NNS,droshkys/NNS=all
+drosometer=noun=all
 drosophila=noun=all
 dross=noun_U=all
 drossiness=NN:U=all
@@ -48022,6 +48077,7 @@ drunkard=noun=all
 drunken=JJ=all
 drunkenly=RB=all
 drunkenness=NN:U=all
+drunkometer=noun=all
 drupe=noun=all
 drupelet=noun=all
 druse=noun=all
@@ -48240,6 +48296,7 @@ durbar=noun=all
 duress=noun_U=all
 durian=noun=all
 during=IN=all
+durometer=noun=all
 durra=noun=all
 durum=noun_U=all
 dusk=JJ=all
@@ -48298,6 +48355,7 @@ dyestuff=noun_U=all
 dying=JJ=all
 dying=noun_U=all
 dyke=noun=all
+dynameter=noun=all
 dynamic=JJ=all
 dynamic=noun=all
 dynamical=JJ=all
@@ -48785,6 +48843,7 @@ effulgence=noun_U=all
 effulgent=JJ=all
 effulgently=RB=all
 effuse=verb=all
+effusiometer=noun=all
 effusion=noun_UN=all
 effusive=JJ=all
 effusively=RB=all
@@ -48997,6 +49056,7 @@ electrodeposition=noun_UN=all
 electrodynamic=JJ=all
 electrodynamic=noun=all
 electrodynamics=NN:U=all
+electrodynamometer=noun=all
 electroencephalogram=noun=all
 electroencephalograph=noun=all
 electroencephalographic=JJ=all
@@ -49133,6 +49193,7 @@ ellipsis=ellipsis/NN,ellipses/NNS=all
 ellipsoid=JJ=all
 ellipsoid=noun=all
 ellipsoidal=JJ=all
+ellipsometer=noun=all
 elliptic=JJ=all
 elliptical=JJ=all
 elliptical=noun=all
@@ -49613,6 +49674,7 @@ endoscopic=JJ=all
 endoscopy=noun_U=all
 endoskeletal=JJ=all
 endoskeleton=noun=all
+endosmometer=noun=all
 endosome=noun=all
 endosperm=noun=all
 endospore=noun=all
@@ -50279,6 +50341,7 @@ ergosterol=noun_U=all
 ergot=noun_U=all
 ergotism=noun_UN=all
 erigeron=noun=all
+eriometer=noun=all
 eristic=JJ=all
 eristic=noun=all
 erk=noun=all
@@ -50353,6 +50416,7 @@ erythroblast=noun=all
 erythroblastosis=erythroblastosis/NN,erythroblastoses/NNS=all
 erythrocyte=JJ=all
 erythrocyte=noun=all
+erythrocytometer=noun=all
 erythromycin=noun=all
 erythropoiesis=erythropoiesis/NN:U,erythropoieses/NNS=all
 erythropoietin=noun_U=all
@@ -50457,6 +50521,7 @@ ester=noun_U=all
 esterase=noun=all
 esterification=noun_UN=all
 esterify=verb=all
+esthesiometer=noun=all
 estimable=JJ=all
 estimableness=NN:U=all
 estimate=noun=all
@@ -51331,6 +51396,7 @@ exploratively=RB=all
 exploratory=JJ=all
 explore=verb=all
 explorer=noun=all
+explosimeter=noun=all
 explosion=noun=all
 explosive=JJ=all
 explosive=noun=all
@@ -51428,6 +51494,7 @@ extensibility=noun_UN=all
 extensible=JJ=all
 extensibleness=NN:U=all
 extensile=JJ=all
+extensimeter=noun=all
 extension=noun_UN=all
 extensional=JJ=all
 extensionality=noun_UN=all
@@ -51756,6 +51823,7 @@ fade=noun=all
 fade=verb=all
 fadedness=NN:U=all
 fadeless=JJ=all
+fadeometer=noun=all
 fadeout=noun=all
 fader=noun=all
 fading=JJ=all
@@ -51974,6 +52042,7 @@ far=far/JJ,farther/JJR,further/JJR,farthest/JJS,furthest/JJS=all
 farad=noun=all
 faradic=JJ=all
 faradization|faradisation=noun_UN=us,ca,gb|gb,au,nz,za
+faradmeter=noun=all
 farandole=noun=all
 faraway=JJ=all
 farawayness=NN:U=all
@@ -52122,6 +52191,7 @@ fatherly=RB=all
 fathom=noun=all
 fathom=verb=all
 fathomable=JJ=all
+fathometer=noun=all
 fathomless=JJ=all
 fathomlessness=NN:U=all
 fatidic=JJ=all
@@ -52474,6 +52544,7 @@ ferromagnet=noun=all
 ferromagnetic=JJ=all
 ferromagnetism=noun_UN=all
 ferromanganese=noun=all
+ferrometer=noun=all
 ferrous=JJ=all
 ferruginous=JJ=all
 ferrule=noun=all
@@ -53512,6 +53583,7 @@ flowing=JJ=all
 flowing=NN:UN=all
 flowingly=RB=all
 flowingness=NN:U=all
+flowmeter=noun=all
 flowy=JJ=all
 flu=noun_U=all
 flub=noun=all
@@ -53566,6 +53638,7 @@ fluoridation=noun_U=all
 fluoride=noun_UN=all
 fluoridization|fluoridisation=noun_UN=us,ca,gb|gb,au,nz,za
 fluoridize|fluoridise=verb=us,ca,gb|gb,au,nz,za
+fluorimeter=noun=all
 fluorinate=verb=all
 fluorinated=JJ=all
 fluorination=noun=all
@@ -53606,10 +53679,12 @@ fluttery=JJ=all
 fluty=fluty/JJ,flutier/JJR,flutiest/JJS=all
 fluvial=JJ=all
 fluviatile=JJ=all
+fluviometer=noun=all
 flux=noun_U=all
 flux=verb=all
 fluxgate=noun=all
 fluxion=noun=all
+fluxmeter=noun=all
 fly [flies;flew,flied;flown;flying]=verb=all
 fly-by-night=JJ=all
 fly-by-night=noun=all
@@ -53662,6 +53737,8 @@ focal=JJ=all
 focalization|focalisation=noun_UN=us,ca,gb|gb,au,nz,za
 focalize|focalise=verb=us,ca,gb|gb,au,nz,za
 focally=RB=all
+focimeter=noun=all
+focometer=noun=all
 focus [-ss-,-s-]=verb=all
 focus=focus/NN:UN,foci/NNS,focuses/NNS,focusses/NNS=all
 focusable=JJ=all
@@ -55113,6 +55190,7 @@ gala=noun=all
 galactagogue=JJ=all
 galactagogue=noun=all
 galactic=JJ=all
+galactometer=noun=all
 galactose=noun_U=all
 galactosemia=noun_U=all
 galactosemic=JJ=all
@@ -55442,6 +55520,7 @@ gauntly=RB=all
 gauntness=NN:U=all
 gaur=noun=all
 gauss=gauss/NN,gauss/NNS,gausses/NNS=all
+gaussmeter=noun=all
 gauze=noun_U=all
 gauzily=RB=all
 gauziness=NN:U=all
@@ -55671,6 +55750,7 @@ geo-fence=noun=all
 geo-fence=verb=all
 geo=noun=all
 geoarchaeology=NN:U=all
+geobarometer=noun=all
 geocache=verb=all
 geocentric=JJ=all
 geocentrically=RB=all
@@ -55770,6 +55850,7 @@ geotectonics=NN:U=all
 geotherm=noun=all
 geothermal=JJ=all
 geothermally=RB=all
+geothermometer=noun=all
 geotropism=noun_UN=all
 geranium=noun=all
 gerbil=noun=all
@@ -56254,6 +56335,7 @@ glossies=JJ=all
 glossily=RB=all
 glossiness=NN:U=all
 glossitis=noun=all
+glossmeter=noun=all
 glossographer=noun=all
 glossolalia=noun_U=all
 glossopharyngeal=JJ=all
@@ -56283,6 +56365,7 @@ glowy=JJ=all
 gloxinia=noun=all
 glucagon=noun=all
 glucocorticoid=noun=all
+glucometer=noun=all
 gluconate=noun=all
 gluconeogenesis=gluconeogenesis/NN:U,gluconeogeneses/NNS=all
 glucosamine=noun=all
@@ -56684,6 +56767,7 @@ grader=noun=all
 gradient=JJ=all
 gradient=noun=all
 gradin=noun=all
+gradiometer=noun=all
 gradual=JJ=all
 gradual=NN=all
 gradualism=noun_U=all
@@ -56914,6 +56998,7 @@ gravitation=noun_U=all
 gravitational=JJ=all
 gravitationally=RB=all
 gravitative=JJ=all
+gravitometer=noun=all
 graviton=noun=all
 gravity=noun_U=all
 gravure=noun=all
@@ -57616,6 +57701,8 @@ haddock=haddock/NN,haddock/NNS,haddocks/NNS=all
 hadn't=contraction=all
 hadron=noun=all
 hadrosaur=noun=all
+haemacytometer=noun=all
+haemocytometer=noun=all
 haemostat=noun=all
 hafnium=noun_U=all
 haft=noun=all
@@ -57985,6 +58072,7 @@ haptic=JJ=all
 haptic=noun=all
 haptically=RB=all
 haptics=NN:U=all
+haptometer=noun=all
 hara-kiri=NN:U=all
 harangue=noun=all
 harangue=verb=all
@@ -58112,6 +58200,7 @@ harmonizable|harmonisable=JJ=us,ca,gb|gb,au,nz,za
 harmonization|harmonisation=noun_UN=us,ca,gb|gb,au,nz,za
 harmonizer|harmoniser=noun=us,ca,gb|gb,au,nz,za
 harmonize|harmonise=verb=us,ca,gb|gb,au,nz,za
+harmonometer=noun=all
 harmony=noun_UN=all
 harness=noun=all
 harness=verb=all
@@ -58710,6 +58799,7 @@ helter-skelter=NN:UN=all
 helve=noun=all
 hem=noun=all
 hem=verb=all
+hemacytometer=noun=all
 hematological|haematological=JJ=us,ca|au,gb,nz,za
 hematologic|haematologic=JJ=us,ca|au,gb,nz,za
 hematologist|haematologist=noun=us,ca|au,gb,nz,za
@@ -58745,6 +58835,7 @@ hemline=noun=all
 hemlock=noun_UN=all
 hemmer=noun=all
 hemoccult=JJ=all
+hemocytometer=noun=all
 hemodialysis=hemodialysis/NN,hemodialysis/NN:UN,hemodialyses/NNS=all
 hemodynamic=JJ=all
 hemodynamic=noun=all
@@ -59378,6 +59469,7 @@ hod=noun=all
 hodden=noun=all
 hodgepodge=noun_U=all
 hodman=hodman/NN,hodmen/NNS=all
+hodometer=noun=all
 hoe [hoes;hoed;hoed;hoeing]=verb=all
 hoe=noun=all
 hoecake=noun=all
@@ -60430,6 +60522,7 @@ hydrozoan=JJ=all
 hydrozoan=noun=all
 hydrozoon=noun=all
 hyena=noun=all
+hyetometer=noun=all
 hygiene=noun_U=all
 hygienic=JJ=all
 hygienic=noun=all
@@ -60544,6 +60637,7 @@ hyperlink=verb=all
 hyperlipidemia=noun_U=all
 hypermarket=noun=all
 hypermedia=noun_U=all
+hypermeter=noun=all
 hypermetropia=noun=all
 hypermnesia=noun=all
 hypermobile=JJ=all
@@ -60847,6 +60941,7 @@ iconographic=JJ=all
 iconography=noun_U=all
 iconolatry=noun=all
 iconology=noun_UN=all
+iconometer=noun=all
 iconoscope=noun=all
 icosahedral=JJ=all
 icosahedron=noun=all
@@ -61062,6 +61157,7 @@ illuminator=noun=all
 illumine=verb=all
 illuminism=noun_UN=all
 illuminist=noun=all
+illuminometer=noun=all
 illusion=noun_UN=all
 illusional=JJ=all
 illusionary=JJ=all
@@ -63328,6 +63424,7 @@ intensify=verb=all
 intension=noun=all
 intensional=JJ=all
 intensionally=RB=all
+intensitometer=noun=all
 intensity=noun_UN=all
 intensive=JJ=all
 intensive=noun=all
@@ -63720,6 +63817,7 @@ intertwist=verb=all
 interurban=JJ=all
 interurban=NN=all
 interval=noun=all
+intervalometer=noun=all
 intervascular=JJ=all
 interveinal=JJ=all
 intervene=verb=all
@@ -63786,6 +63884,7 @@ intoxicate=verb=all
 intoxicated=JJ=all
 intoxicating=JJ=all
 intoxication=noun_U=all
+intoximeter=noun=all
 intra-abdominal=JJ=all
 intra-abdominally=RB=all
 intra-articular=JJ=all
@@ -64364,6 +64463,7 @@ isomorphism=noun_UN=all
 isomorphous=JJ=all
 isoniazid=isoniazid/NN,isoniazid/NN:U,isoniazids/NNS=all
 isopach=isopach/NN,isopachs/NNS=all
+isoperimeter=noun=all
 isoperimetrical=JJ=all
 isopleth=noun=all
 isopod=JJ=all
@@ -65096,6 +65196,8 @@ karyotyping=noun=all
 kashrut=kashrut/NN,kashrut/NN:U,kashruts/NNS=all
 katabatic=JJ=all
 katakana=katakana/NN,katakana/NN:U,katakanas/NNS=all
+katathermometer=noun=all
+katharometer=noun=all
 katydid=noun=all
 kauri=kauri/NN:U,kauries/NNS,kauris/NNS=all
 kaya=noun=all
@@ -65161,6 +65263,7 @@ keratinize|keratinise=verb=us,ca,gb|gb,au,nz,za
 keratitis=keratitis/NN:U,keratitides/NNS=all
 keratoconjunctivitis=noun=all
 keratoconus=NN:U=all
+keratometer=noun=all
 keratoplasty=noun_UN=all
 keratose=JJ=all
 keratose=keratose/NN,keratose/NN:U,keratoses/NNS=all
@@ -65299,6 +65402,7 @@ kilocandela=noun=all
 kilocoulomb=noun=all
 kilocycle=noun=all
 kilofarad=noun=all
+kilogram-meter=noun=all
 kilogram=noun=all
 kilogray=noun=all
 kilohenry=noun=all
@@ -65581,6 +65685,7 @@ koine=noun=all
 kola=noun=all
 kolinsky=noun=all
 kolkhoz=noun=all
+konimeter=noun=all
 kookaburra=noun=all
 kookiness=NN:U=all
 kooky=kooky/JJ,kookier/JJR,kookiest/JJS=all
@@ -65866,6 +65971,7 @@ lamenter=noun=all
 lamenting=JJ=all
 lamenting=noun_UN=all
 lamer=noun=all
+lameter=noun=all
 lamina=lamina/NN,laminae/NNS,laminas/NNS=all
 laminar=JJ=all
 laminarize|laminarise=verb=us,ca,gb|gb,au,nz,za
@@ -68009,6 +68115,7 @@ lux=lux/NN,luces/NNS,luxes/NNS=all
 luxation=noun_UN=all
 luxe=JJ=all
 luxe=noun=all
+luxmeter=noun=all
 luxuriance=noun_U=all
 luxuriant=JJ=all
 luxuriantly=RB=all
@@ -68069,6 +68176,7 @@ lyricization|lyricisation=noun_UN=us,ca,gb|gb,au,nz,za
 lyricize|lyricise=verb=us,ca,gb|gb,au,nz,za
 lyrics=NNS=all
 lyrist=noun=all
+lysimeter=noun=all
 lysine=noun_U=all
 lysis=lysis/NN:U,lyses/NNS=all
 lysogenicity=noun=all
@@ -68120,6 +68228,7 @@ machine=verb=all
 machinery=noun_U=all
 machinist=noun=all
 machismo=noun_U=all
+machmeter=noun=all
 macho=JJ=all
 macho=noun_U=all
 mack=noun=all
@@ -69297,6 +69406,7 @@ mechanosensory=JJ=all
 mechatronic=noun=all
 mechlorethamine=NN:U=all
 meclizine=noun=all
+mecometer=noun=all
 meconium=noun=all
 medal=noun=all
 medalist|medallist=noun=us|au,ca,gb,nz,za
@@ -69461,6 +69571,7 @@ megrim=noun=all
 meiosis=meiosis/NN:U,meioses/NNS=all
 meiotic=JJ=all
 meitnerium=noun_U=all
+mekometer=noun=all
 melamine=noun_U=all
 melancholia=noun_U=all
 melancholiac=noun=all
@@ -70081,6 +70192,7 @@ microbudget=noun_UN=all
 microburst=noun=all
 microbus=microbus/NN,microbuses/NNS,microbusses/NNS=all
 microbusiness=noun=all
+microcalorimeter=noun=all
 microcandela=noun=all
 microcapsule=noun=all
 microcassette=noun=all
@@ -70203,6 +70315,7 @@ microphotograph=noun=all
 microphotographic=JJ=all
 microphotographically=RB=all
 microphotography=noun_U=all
+microphotometer=noun=all
 microphysics=NN:U=all
 microphyte=noun=all
 micropipet=noun=all
@@ -70219,6 +70332,7 @@ microprogrammer=noun=all
 microprogramming=noun=all
 micropropagation=NN:UN=all
 micropyle=noun=all
+micropyrometer=noun=all
 microradian=noun=all
 microreader=noun=all
 microscale=JJ=all
@@ -70231,11 +70345,13 @@ microscopist=noun=all
 microscopy=noun_U=all
 microsecond=noun=all
 microseism=noun_UN=all
+microseismometer=noun=all
 microservice=noun=all
 microsiemens=microsiemens/NN,microsiemens/NNS=all
 microsievert=noun=all
 microsite=noun=all
 microsome=noun=all
+microspectrophotometer=noun=all
 microsphere=noun=all
 microsporangium=microsporangium/NN,microsporangia/NNS=all
 microspore=noun=all
@@ -70407,6 +70523,7 @@ mildly=RB=all
 mildness=NN:U=all
 mile=noun_UN=all
 mileage=noun_UN=all
+mileometer=noun=all
 milepost=noun=all
 miler=noun=all
 milestone=noun=all
@@ -70465,6 +70582,7 @@ miller=noun=all
 millesimal=JJ=all
 millesimal=noun=all
 millet=noun_U=all
+milliammeter=noun=all
 milliampere=noun=all
 milliard=CD=all
 milliard=noun=all
@@ -70509,6 +70627,7 @@ millisievert=noun=all
 millisteradian=noun=all
 millitesla=noun=all
 millivolt=noun=all
+millivoltmeter=noun=all
 milliwatt=noun=all
 milliweber=noun=all
 millpond=noun=all
@@ -71411,6 +71530,7 @@ monomaniac=noun=all
 monomaniacal=JJ=all
 monomer=noun_U=all
 monomeric=JJ=all
+monometer=noun=all
 monomethyl=JJ=all
 monomethyl=NN:U=all
 monomial=JJ=all
@@ -72110,6 +72230,7 @@ multinomial=noun=all
 multinucleate=JJ=all
 multipack=noun=all
 multipage=JJ=all
+multiparameter=noun=all
 multiparous=JJ=all
 multipart=JJ=all
 multipartisan=JJ=all
@@ -73573,6 +73694,7 @@ nitrogenize|nitrogenise=verb=us,ca,gb|gb,au,nz,za
 nitrogenous=JJ=all
 nitroglycerin=noun_U=all
 nitroglycerine=noun_U=all
+nitrometer=noun=all
 nitrosamine=noun=all
 nitrosyl=noun=all
 nitrosylsulfuric|nitrosylsulphuric=JJ=us|au,ca,gb,nz,za
@@ -74993,6 +75115,7 @@ oedipal=JJ=all
 oedipally=JJ=all
 oedometer=noun=all
 oenology=noun_U=all
+oenometer=noun=all
 oenophile=noun=all
 oestrogenization|oestrogenisation=noun_UN=us,ca,gb|gb,au,nz,za
 oeuvre=noun=all
@@ -75193,6 +75316,7 @@ oleic=JJ=all
 oleograph=noun=all
 oleomargarine=noun_U=all
 olfaction=noun_UN=all
+olfactometer=noun=all
 olfactory=JJ=all
 olfactory=noun=all
 oligarch=oligarch/NN,oligarchs/NNS=all
@@ -75218,6 +75342,7 @@ oloroso=noun=all
 omalizumab=NN:U=all
 omasum=omasum/NN,omasa/NNS=all
 ombre=noun=all
+ombrometer=noun=all
 ombrophilous=JJ=all
 ombré=JJ=all
 ombudsman=ombudsman/NN,ombudsmen/NNS=all
@@ -75294,9 +75419,11 @@ oncologic=JJ=all
 oncological=JJ=all
 oncologist=noun=all
 oncology=noun_U=all
+oncometer=noun=all
 oncoming=JJ=all
 oncoming=NN=all
 ondansetron=NN:U=all
+ondometer=noun=all
 one-hundred-percenter=noun=all
 one-liter|one-litre=noun=us|au,ca,gb,nz,za
 one-month-old=noun=all
@@ -75406,6 +75533,7 @@ ooziness=NN:U=all
 oozy=oozy/JJ,oozier/JJR,ooziest/JJS=all
 op=noun_U=all
 opacification=NN:UN=all
+opacimeter=noun=all
 opacity=noun_U=all
 opah=noun=all
 opal=noun=all
@@ -75483,10 +75611,12 @@ ophite=noun=all
 ophthalmia=noun_U=all
 ophthalmic=JJ=all
 ophthalmitis=noun=all
+ophthalmodynamometer=noun=all
 ophthalmologic=JJ=all
 ophthalmological=JJ=all
 ophthalmologist=noun=all
 ophthalmology=noun_U=all
+ophthalmometer=noun=all
 ophthalmoscope=noun=all
 ophthalmoscopy=noun=all
 opiate=JJ=all
@@ -75501,6 +75631,7 @@ opinionativeness=NN:U=all
 opinionize|opinionise=verb=us,ca,gb|gb,au,nz,za
 opioid=JJ=all
 opioid=noun=all
+opisometer=noun=all
 opisthognathous=JJ=all
 opium=noun_U=all
 opossum=opossum/NN,opossum/NNS,opossums/NNS=all
@@ -75550,6 +75681,7 @@ opprobrium=noun_U=all
 oppugn=verb=all
 oppugnant=JJ=all
 oppugnant=noun=all
+opsiometer=noun=all
 opsonin=noun_U=all
 opsonization|opsonisation=noun_UN=us,ca,gb|gb,au,nz,za
 opsonize|opsonise=verb=us,ca,gb|gb,au,nz,za
@@ -75811,6 +75943,7 @@ orogenic=JJ=all
 orogeny=noun=all
 orographic=NN=all
 orography=noun_U=all
+orometer=noun=all
 oropharynx=noun=all
 orotund=JJ=all
 orotundity=noun_UN=all
@@ -75897,6 +76030,7 @@ osmeterium=osmeterium/NN,osmeteria/NNS=all
 osmium=noun_U=all
 osmolality=noun_UN=all
 osmolarity=noun_UN=all
+osmometer=noun=all
 osmoreceptor=noun=all
 osmoregulation=noun_UN=all
 osmosis=osmosis/NN:U,osmoses/NNS=all
@@ -76843,6 +76977,7 @@ pachisi=noun=all
 pachyderm=noun=all
 pachydermal=JJ=all
 pachydermatous=JJ=all
+pachymeter=noun=all
 pacific=JJ=all
 pacifically=RB=all
 pacification=noun_U=all
@@ -77303,6 +77438,7 @@ parallelization|parallelisation=noun_UN=us,ca,gb|gb,au,nz,za
 parallelize|parallelise=verb=us,ca,gb|gb,au,nz,za
 parallelly=RB=all
 parallelogram=noun=all
+parallelometer=noun=all
 paralogism=noun_UN=all
 paralogist=noun=all
 paralysation|paralyzation=noun_UN=ca,us,gb|au,gb,nz,za
@@ -77668,6 +77804,7 @@ passerine=noun=all
 passible=JJ=all
 passim=JJ=all
 passim=RB=all
+passimeter=noun=all
 passing=JJ=all
 passing=noun_U=all
 passingly=RB=all
@@ -78191,6 +78328,7 @@ pelting=noun_UN=all
 peltry=noun=all
 pelvic=JJ=all
 pelvic=noun=all
+pelvimeter=noun=all
 pelvis=pelvis/NN,pelves/NNS,pelvises/NNS=all
 pemmican=noun_U=all
 pemphigus=noun_U=all
@@ -78225,6 +78363,7 @@ peneplain=noun=all
 penetrability=noun_U=all
 penetrable=JJ=all
 penetrableness=NN:U=all
+penetrameter=noun=all
 penetrant=JJ=all
 penetrant=noun=all
 penetrate=verb=all
@@ -78235,6 +78374,7 @@ penetration=noun_UN=all
 penetrative=JJ=all
 penetrativeness=NN:U=all
 penetrator=noun=all
+penetrometer=noun=all
 penfriend=noun=all
 penguin=noun=all
 pengö=pengö/NN,pengö/NNS,pengös/NNS=all
@@ -78633,6 +78773,7 @@ permeability=noun_U=all
 permeabilize|permeabilise=verb=us,ca,gb|gb,au,nz,za
 permeable=JJ=all
 permeableness=NN:U=all
+permeameter=noun=all
 permeance=noun=all
 permeate=verb=all
 permeation=noun_U=all
@@ -79250,7 +79391,9 @@ photoflash=noun=all
 photofluorography=noun_U=all
 photogenic=JJ=all
 photogenically=RB=all
+photogoniometer=noun=all
 photogram=noun=all
+photogrammeter=noun=all
 photogrammetry=noun=all
 photograph=noun=all
 photograph=verb=all
@@ -79282,6 +79425,7 @@ photoperiod=noun=all
 photoperiodic=JJ=all
 photophobia=photophobia/NN,photophobia/NN:U,photophobias/NNS=all
 photopia=noun=all
+photopolarimeter=noun=all
 photopolymerize|photopolymerise=verb=us,ca,gb|gb,au,nz,za
 photorealism=noun_UN=all
 photorealist=noun=all
@@ -79548,6 +79692,7 @@ piety=noun_U=all
 pietà=noun=all
 piezoelectric=JJ=all
 piezoelectricity=noun_U=all
+piezometer=noun=all
 piffle=noun_U=all
 piffle=verb=all
 piffling=JJ=all
@@ -80051,6 +80196,7 @@ plastics=JJ=all
 plastid=noun=all
 plastidial=JJ=all
 plastique=noun=all
+plastometer=noun=all
 plastron=noun=all
 plat=noun=all
 plat=verb=all
@@ -80197,6 +80343,7 @@ pleonastic=JJ=all
 pleonastically=RB=all
 plesiosaur=noun=all
 plesiosaurus=NN=all
+plessimeter=noun=all
 plessor=JJ=all
 plessor=NN=all
 plethora=noun_U=all
@@ -80207,6 +80354,7 @@ pleurisy=noun_U=all
 pleuritic=JJ=all
 plexiform=JJ=all
 plexiglass=noun_U=all
+pleximeter=noun=all
 plexor=noun=all
 plexus=plexus/NN,plexus/NNS,plexuses/NNS=all
 pliability=noun_U=all
@@ -80378,6 +80526,7 @@ pneumonia=noun_U=all
 pneumonic=JJ=all
 pneumonic=noun=all
 pneumonitis=pneumonitis/NN,pneumonitides/NNS=all
+pneumonometer=noun=all
 pneumonoultramicroscopicsilicovolcanoconiosis=NN:U=all
 pneumothorax=pneumothorax/NN:U,pneumothoraces/NNS,pneumothoraxes/NNS=all
 poach=verb=all
@@ -80662,6 +80811,7 @@ polymerizable|polymerisable=JJ=us,ca,gb|gb,au,nz,za
 polymerization|polymerisation=noun_UN=us,ca,gb|gb,au,nz,za
 polymerize|polymerise=verb=us,ca,gb|gb,au,nz,za
 polymerous=JJ=all
+polymeter=noun=all
 polymorph=noun=all
 polymorphic=JJ=all
 polymorphism=noun_UN=all
@@ -81136,6 +81286,7 @@ potlatch=NN=all
 potlatch=verb=all
 potlife=potlife/NN,potlives/NNS=all
 potline=noun=all
+potometer=noun=all
 potoroo=noun=all
 potsherd=noun=all
 potshot=noun=all
@@ -82634,6 +82785,7 @@ proficientness=NN:U=all
 profile=noun_UN=all
 profile=verb=all
 profiler=noun=all
+profilometer=noun=all
 profit=noun_UN=all
 profit=verb=all
 profitability=noun_U=all
@@ -83333,6 +83485,7 @@ psychodrama=noun=all
 psychodynamic=JJ=all
 psychodynamically=RB=all
 psychodynamics=NN:U=all
+psychogalvanometer=noun=all
 psychogenesis=psychogenesis/NN,psychogeneses/NNS=all
 psychogenic=JJ=all
 psychographer=NN=all
@@ -83353,6 +83506,7 @@ psychologist=noun=all
 psychologization|psychologisation=noun_UN=us,ca,gb|gb,au,nz,za
 psychologize|psychologise=verb=us,ca,gb|gb,au,nz,za
 psychology=noun_UN=all
+psychometer=noun=all
 psychometric=JJ=all
 psychometric=noun=all
 psychometrical=JJ=all
@@ -83549,6 +83703,7 @@ pulsatory=JJ=all
 pulse=noun_UN=all
 pulse=verb=all
 pulsimeter=noun=all
+pulsometer=noun=all
 pulverizable|pulverisable=JJ=us,ca,gb|gb,au,nz,za
 pulverization|pulverisation=noun_UN=us,ca,gb|gb,au,nz,za
 pulverizer|pulveriser=noun=us,ca,gb|gb,au,nz,za
@@ -83811,6 +83966,7 @@ puzzling=JJ=all
 puzzling=noun_UN=all
 puzzlingly=RB=all
 puzzlingness=NN:U=all
+pycnometer=noun=all
 pyelitis=noun_U=all
 pyelogram=noun=all
 pyelonephritis=pyelonephritis/NN:U,pyelonephritides/NNS=all
@@ -83834,6 +83990,7 @@ pyramidal=JJ=all
 pyramidally=RB=all
 pyramidical=JJ=all
 pyramidically=RB=all
+pyranometer=noun=all
 pyrargyrite=noun=all
 pyrazole=noun=all
 pyre=noun=all
@@ -83843,6 +84000,7 @@ pyrethrum=noun=all
 pyretic=JJ=all
 pyretic=noun=all
 pyrexia=noun=all
+pyrheliometer=noun=all
 pyridine=noun_U=all
 pyridoxine=noun=all
 pyriform=JJ=all
@@ -83867,6 +84025,7 @@ pyromorphite=noun=all
 pyrope=noun=all
 pyrophoric=JJ=all
 pyrophosphate=noun_U=all
+pyrophotometer=noun=all
 pyrophyllite=noun=all
 pyrosis=pyrosis/NN,pyroses/NNS,pyrosises/NNS=all
 pyrosulfuric|pyrosulphuric=JJ=us|au,ca,gb,nz,za
@@ -83991,6 +84150,7 @@ qualifiedness=NN:U=all
 qualifier=noun=all
 qualify=verb=all
 qualifying=noun_UN=all
+qualimeter=noun=all
 qualitative=JJ=all
 qualitatively=RB=all
 quality-oriented=JJ=all
@@ -84016,6 +84176,7 @@ quantizable|quantisable=JJ=us,ca,gb|gb,au,nz,za
 quantization|quantisation=noun_UN=us,ca,gb|gb,au,nz,za
 quantizer|quantiser=noun=us,ca,gb|gb,au,nz,za
 quantize|quantise=verb=us,ca,gb|gb,au,nz,za
+quantometer=noun=all
 quantum=JJ=all
 quantum=quantum/NN,quanta/NNS=all
 quaquaversal=JJ=all
@@ -84502,6 +84663,7 @@ radiochemical=JJ=all
 radiochemistry=noun=all
 radiocommunication=noun_UN=all
 radiogenic=JJ=all
+radiogoniometer=noun=all
 radiogram=noun=all
 radiograph=noun=all
 radiograph=verb=all
@@ -84523,6 +84685,7 @@ radioman=radioman/NN,radiomen/NNS=all
 radiometer=noun=all
 radiometric=JJ=all
 radiometry=noun_U=all
+radiomicrometer=noun=all
 radionuclide=noun=all
 radiopacity=noun=all
 radiopaque=JJ=all
@@ -84836,6 +84999,7 @@ rateable=noun=all
 rated=JJ=all
 ratel=noun=all
 ratemaking=noun=all
+ratemeter=noun=all
 ratepayer=noun=all
 rater=noun=all
 ratheness=NN:U=all
@@ -85779,6 +85943,7 @@ reflective=JJ=all
 reflectively=RB=all
 reflectiveness=NN:U=all
 reflectivity=noun_UN=all
+reflectometer=noun=all
 reflector=noun=all
 reflectorize|reflectorise=verb=us,ca,gb|gb,au,nz,za
 reflex=JJ=all
@@ -87569,6 +87734,7 @@ rhythmical=JJ=all
 rhythmically=RB=all
 rhythmization|rhythmisation=noun_UN=us,ca,gb|gb,au,nz,za
 rhythmless=JJ=all
+rhythmometer=noun=all
 rial=noun=all
 rib=noun=all
 rib=verb=all
@@ -87949,6 +88115,7 @@ roebuck=roebuck/NN,roebuck/NNS,roebucks/NNS=all
 roentgen=noun=all
 roentgenium=NN:U=all
 roentgenology=noun_UN=all
+roentgenometer=noun=all
 rogation=noun=all
 roger=verb=all
 rogue=JJ=all
@@ -88159,6 +88326,7 @@ rosé=NN:U=all
 rot=noun_U=all
 rot=verb=all
 rota=noun=all
+rotameter=noun=all
 rotary=JJ=all
 rotary=noun=all
 rotatable=JJ=all
@@ -88572,6 +88740,7 @@ saboteur=noun=all
 sabra=noun=all
 sac=noun=all
 saccharide=noun=all
+saccharimeter=noun=all
 saccharin=noun_U=all
 saccharine=JJ=all
 saccharization|saccharisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -88759,6 +88928,7 @@ salientian=JJ=all
 salientian=noun=all
 saliently=RB=all
 saliferous=JJ=all
+salimeter=noun=all
 salina=noun=all
 saline=JJ=all
 saline=noun_UN=all
@@ -88785,6 +88955,7 @@ salmonella=salmonella/NN:U,salmonella/NNS,salmonellae/NNS,salmonellas/NNS=all
 salmonellosis=salmonellosis/NN,salmonelloses/NNS=all
 salmonoid=JJ=all
 salmonoid=noun=all
+salometer=noun=all
 salon=noun=all
 saloon=noun=all
 salpiglossis=noun=all
@@ -89500,6 +89671,7 @@ scintilla=scintilla/NN,scintillae/NNS,scintillas/NNS=all
 scintillate=verb=all
 scintillation=noun_U=all
 scintillator=noun=all
+scintillometer=noun=all
 scion=noun=all
 scirocco=noun=all
 scission=noun=all
@@ -89509,6 +89681,7 @@ sclera=noun=all
 sclerenchyma=noun=all
 sclerite=noun=all
 scleroderma=noun_U=all
+sclerometer=noun=all
 sclerophyll=noun=all
 sclerosed=JJ=all
 sclerosis=sclerosis/NN:U,scleroses/NNS=all
@@ -90451,6 +90624,7 @@ semicontinuous=JJ=all
 semidarkness=NN:U=all
 semidefiniteness=NN:U=all
 semidesert=noun=all
+semidiameter=noun=all
 semidiurnal=JJ=all
 semidocumentary=JJ=all
 semidocumentary=noun=all
@@ -90480,6 +90654,7 @@ semiosization|semiosisation=noun_UN=us,ca,gb|gb,au,nz,za
 semiotic=JJ=all
 semiotician=noun=all
 semiotics=NN:U=all
+semiperimeter=noun=all
 semipermeable=JJ=all
 semiprecious=JJ=all
 semiprivate=JJ=all
@@ -90562,6 +90737,7 @@ sensitivity=noun_UN=all
 sensitization|sensitisation=noun_UN=us,ca,gb|gb,au,nz,za
 sensitizer|sensitiser=noun=us,ca,gb|gb,au,nz,za
 sensitize|sensitise=verb=us,ca,gb|gb,au,nz,za
+sensitometer=noun=all
 sensor=noun=all
 sensorial=JJ=all
 sensorially=RB=all
@@ -93155,6 +93331,7 @@ solander=noun=all
 solanum=noun=all
 solar-powered=JJ=all
 solar=JJ=all
+solarimeter=noun=all
 solarium=solarium/NN,solaria/NNS,solariums/NNS=all
 solarization|solarisation=noun_UN=us,ca,gb|gb,au,nz,za
 solarize|solarise=verb=us,ca,gb|gb,au,nz,za
@@ -93767,8 +93944,11 @@ specter|spectre=noun=us|au,ca,gb,nz,za
 spectral=JJ=all
 spectrally=RB=all
 spectralness=NN:U=all
+spectrobolometer=noun=all
 spectrochemistry=noun_U=all
 spectrocolorimetry=noun_UN=all
+spectrofluorimeter=noun=all
+spectrofluorometer=noun=all
 spectrogram=noun=all
 spectrograph=noun=all
 spectrographic=JJ=all
@@ -93782,6 +93962,7 @@ spectrometric=JJ=all
 spectrometry=noun_U=all
 spectrophotometer=noun=all
 spectrophotometry=noun_U=all
+spectropolarimeter=noun=all
 spectroradiometer=NN=all
 spectroscope=noun=all
 spectroscopic=JJ=all
@@ -93881,6 +94062,7 @@ spheroidal=JJ=all
 spheroidicity=noun=all
 spheroidization|spheroidisation=noun_UN=us,ca,gb|gb,au,nz,za
 spheroidize|spheroidise=verb=us,ca,gb|gb,au,nz,za
+spherometer=noun=all
 spherule=noun=all
 spherulite=noun=all
 spherulitic=JJ=all
@@ -93888,6 +94070,7 @@ sphincter=noun=all
 sphinx=sphinx/NN,sphinges/NNS,sphinxes/NNS=all
 sphygmograph=noun=all
 sphygmomanometer=noun=all
+sphygmometer=noun=all
 spic=JJ=all
 spic=noun=all
 spica=noun=all
@@ -94515,7 +94698,10 @@ stackable=JJ=all
 stacked=JJ=all
 stacker=noun=all
 stacking=noun_UN=all
+stactometer=noun=all
 stadholder=noun=all
+stadimeter=noun=all
+stadiometer=noun=all
 stadium=stadium/NN,stadia/NNS,stadiums/NNS=all
 stadtholder=noun=all
 staff [pl. staffs,staves]=noun_UN=all
@@ -94580,6 +94766,7 @@ stakeout=noun=all
 stalactite=noun=all
 stalagmite=noun=all
 stalagmitic=JJ=all
+stalagmometer=noun=all
 stale=stale/JJ,staler/JJR,stalest/JJS=all
 stale=verb=all
 stalely=RB=all
@@ -94951,6 +95138,7 @@ stereography=noun_U=all
 stereoisomer=noun=all
 stereoisomeric=JJ=all
 stereoisomerism=noun_UN=all
+stereometer=noun=all
 stereometry=NN=all
 stereophonic=JJ=all
 stereophonically=RB=all
@@ -95316,7 +95504,9 @@ stow=verb=all
 stowage=noun_U=all
 stowaway=noun=all
 stowing=noun_UN=all
+strabismometer=noun=all
 strabismus=noun_U=all
+strabometer=noun=all
 straddle=noun=all
 straddle=verb=all
 straddler=noun=all
@@ -95352,6 +95542,7 @@ strainedness=NN:U=all
 strainer=noun=all
 straining=JJ=all
 straining=noun_UN=all
+strainometer=noun=all
 strait=noun=all
 straiten=verb=all
 straitjacket=noun=all
@@ -97198,6 +97389,7 @@ swingeing=JJ=all
 swinger=noun=all
 swinging=JJ=all
 swingletree=noun=all
+swingometer=noun=all
 swinish=JJ=all
 swinishness=NN:U=all
 swipe=noun=all
@@ -97317,6 +97509,7 @@ symphonist=noun=all
 symphonization|symphonisation=noun_UN=us,ca,gb|gb,au,nz,za
 symphony=noun=all
 symphysis=symphysis/NN,symphyses/NNS=all
+sympiesometer=noun=all
 symposium=symposium/NN,symposia/NNS,symposiums/NNS=all
 symptom=noun=all
 symptomatic=JJ=all
@@ -97505,11 +97698,13 @@ tabularly=RB=all
 tabulate=verb=all
 tabulation=noun_U=all
 tabulator=noun=all
+tacheometer=noun=all
 tachistoscope=noun=all
 tachograph=noun=all
 tachometer=noun=all
 tachycardia=noun_U=all
 tachycardic=JJ=all
+tachymeter=noun=all
 tachyon=noun=all
 tachyphylaxis=NN=all
 tachypnea=NN:U=all
@@ -97844,8 +98039,10 @@ tartrate=noun_U=all
 tarty=tarty/JJ,tartier/JJR,tartiest/JJS=all
 tarweed=noun=all
 tase=verb=all
+taseometer=noun=all
 taser=noun=all
 taser=verb=all
+tasimeter=noun=all
 task=noun=all
 task=verb=all
 taskbar=noun=all
@@ -98143,6 +98340,7 @@ telehealth=NN:U=all
 telekinesis=telekinesis/NN:U,telekineses/NNS=all
 telekinetic=JJ=all
 telekinetically=RB=all
+telemanometer=noun=all
 telemark=noun=all
 telemarketer=noun=all
 telemarketing=noun_U=all
@@ -98181,6 +98379,7 @@ telephonist=noun=all
 telephony=noun_U=all
 telephoto=noun_U=all
 telephotography=noun_U=all
+telephotometer=noun=all
 teleplay=noun=all
 teleport=NN=all
 teleport=verb=all
@@ -98233,6 +98432,7 @@ telltale=noun=all
 telluric=JJ=all
 telluride=noun_U=all
 tellurium=noun_U=all
+tellurometer=noun=all
 telly=telly/NN:UN,tellies/NNS,tellys/NNS=all
 telnet=noun=all
 telnet=verb=all
@@ -98335,6 +98535,7 @@ tenderize|tenderise=verb=us,ca,gb|gb,au,nz,za
 tenderloin=noun_U=all
 tenderly=RB=all
 tenderness=NN:U=all
+tenderometer=noun=all
 tending=JJ=all
 tendinitis=noun_U=all
 tendinous=JJ=all
@@ -98370,6 +98571,7 @@ tenseness=NN:U=all
 tensile=JJ=all
 tensileness=NN:U=all
 tensility=noun_UN=all
+tensimeter=noun=all
 tensing=JJ=all
 tensiometer=noun=all
 tension=noun_UN=all
@@ -98835,6 +99037,7 @@ thermistor=noun=all
 thermoacidophile=NN=all
 thermoanalyzer|thermoanalyser=noun=ca,us|au,gb,nz,za
 thermobaric=JJ=all
+thermobarometer=noun=all
 thermochemical=JJ=all
 thermochemistry=noun_U=all
 thermocline=noun=all
@@ -98847,14 +99050,18 @@ thermodynamics=NN:U=all
 thermoelectric=JJ=all
 thermoelectrical=JJ=all
 thermoelectrically=RB=all
+thermoelectrometer=noun=all
 thermoform=verb=all
 thermoformable=JJ=all
+thermogalvanometer=noun=all
 thermogenesis=thermogenesis/NN:U,thermogeneses/NNS=all
 thermogenic=JJ=all
 thermograph=noun=all
 thermographic=JJ=all
 thermography=noun_U=all
+thermogravimeter=noun=all
 thermohaline=JJ=all
+thermohydrometer=noun=all
 thermolabile=JJ=all
 thermoluminescence=noun=all
 thermolysis=thermolysis/NN,thermolyses/NNS=all
@@ -99343,6 +99550,7 @@ tilted=JJ=all
 tilter=noun=all
 tilth=noun=all
 tilting=noun_UN=all
+tiltmeter=noun=all
 tiltyard=noun=all
 timbale=noun=all
 timber=UH=all
@@ -99467,6 +99675,7 @@ tinted=JJ=all
 tinting=noun_UN=all
 tintinnabulation=noun_UN=all
 tintlessness=NN:U=all
+tintometer=noun=all
 tintype=noun=all
 tinware=noun_U=all
 tiny=tiny/JJ,tinier/JJR,tiniest/JJS=all
@@ -99591,6 +99800,7 @@ tobogganist=noun=all
 tobramycin=tobramycin/NN,tobramycin/NN:U=all
 toccata=noun=all
 tocherless=JJ=all
+tocodynamometer=noun=all
 tocopherol=noun=all
 tocsin=noun=all
 tod=noun=all
@@ -100377,6 +100587,7 @@ transmission=noun_UN=all
 transmissive=JJ=all
 transmissiveness=NN:U=all
 transmissivity=noun_UN=all
+transmissometer=noun=all
 transmit [-tt-]=verb=all
 transmittable=JJ=all
 transmittal=noun_U=all
@@ -100661,6 +100872,7 @@ tribe=noun=all
 tribesman=tribesman/NN,tribesmen/NNS=all
 tribeswoman=tribeswoman/NN,tribeswomen/NNS=all
 tribology=noun_UN=all
+tribometer=noun=all
 tribrach=tribrach/NN,tribrachs/NNS=all
 tribulation=noun_UN=all
 tribunal=noun=all
@@ -100759,6 +100971,7 @@ triglyph=noun=all
 trigness=NN:U=all
 trigonal=JJ=all
 trigonally=RB=all
+trigonometer=noun=all
 trigonometric=JJ=all
 trigonometrical=JJ=all
 trigonometry=noun_U=all
@@ -100906,9 +101119,11 @@ trochaic=NN=all
 trochanter=noun=all
 trochanteral=JJ=all
 trochanteric=JJ=all
+trocheameter=noun=all
 trochee=noun=all
 trochlear=JJ=all
 trochlear=noun=all
+trochometer=noun=all
 trochophore=noun=all
 trod=NN=all
 troglodyte=noun=all
@@ -100926,6 +101141,7 @@ trollop=noun=all
 trombone=noun=all
 trombonist=noun=all
 trommel=noun=all
+tromometer=noun=all
 trompe=NN=all
 troop=noun=all
 troop=verb=all
@@ -101235,6 +101451,7 @@ turbary=noun=all
 turbellarian=JJ=all
 turbellarian=noun=all
 turbid=JJ=all
+turbidimeter=noun=all
 turbidity=noun_U=all
 turbidly=RB=all
 turbidness=NN:U=all
@@ -101568,6 +101785,7 @@ ubiquitously=RB=all
 ubiquitousness=NN:U=all
 ubiquity=noun_U=all
 udder=noun=all
+udometer=noun=all
 udātta=NN=all
 ufologist=noun=all
 ufology=noun_U=all
@@ -101623,6 +101841,7 @@ ultralight=JJ=all
 ultralight=noun=all
 ultramarine=JJ=all
 ultramarine=noun_U=all
+ultramicrometer=noun=all
 ultramicroscope=noun=all
 ultramicroscopic=JJ=all
 ultramicroscopical=JJ=all
@@ -105044,6 +105263,7 @@ urinary=NN=all
 urinate=verb=all
 urination=noun_U=all
 urine=noun_U=all
+urinometer=noun=all
 urinous=JJ=all
 urn=noun=all
 uroboros=NN=all
@@ -105363,6 +105583,7 @@ variety=noun_UN=all
 variola=noun=all
 variolite=noun=all
 variolous=JJ=all
+variometer=noun=all
 variorum=JJ=all
 variorum=noun=all
 various=JJ=all
@@ -105484,6 +105705,7 @@ veldt=noun=all
 veliger=noun=all
 vellum=JJ=all
 vellum=noun_U=all
+velocimeter=noun=all
 velocipede=noun=all
 velociraptor=noun=all
 velocity=noun_UN=all
@@ -105756,6 +105978,7 @@ viable=JJ=all
 viably=RB=all
 viaduct=noun=all
 vial=noun=all
+viameter=noun=all
 viand=noun=all
 vibe=noun=all
 vibe=verb=all
@@ -105771,6 +105994,7 @@ vibrational=JJ=all
 vibrato=noun_UN=all
 vibrator=noun=all
 vibratory=JJ=all
+vibrometer=noun=all
 viburnum=noun=all
 vicar=noun=all
 vicarage=noun_UN=all
@@ -105916,6 +106140,7 @@ vinicultural=JJ=all
 viniculture=noun=all
 viniculturist=noun=all
 vino=noun_U=all
+vinometer=noun=all
 vinosity=noun_UN=all
 vinous=JJ=all
 vint=verb=all
@@ -106004,6 +106229,7 @@ viscoelasticity=noun_U=all
 viscometer=noun=all
 viscose=JJ=all
 viscose=noun_U=all
+viscosimeter=noun=all
 viscosity=noun_U=all
 viscount=noun=all
 viscountcy=noun=all
@@ -106206,6 +106432,8 @@ volleyer=noun=all
 volt=noun=all
 voltage=noun_UN=all
 voltaic=JJ=all
+voltameter=noun=all
+voltammeter=noun=all
 volte-face=NN=all
 voltmeter=noun=all
 volubility=noun_U=all
@@ -106215,11 +106443,14 @@ volubly=RB=all
 volume=noun_UN=all
 volume=verb=all
 volumed=JJ=all
+volumenometer=noun=all
+volumeter=noun=all
 volumetric=JJ=all
 voluminous=JJ=all
 voluminously=RB=all
 voluminousness=NN:U=all
 volumize|volumise=verb=us,ca,gb|gb,au,nz,za
+volumometer=noun=all
 voluntarily=RB=all
 voluntariness=NN:U=all
 voluntarism=noun_U=all
@@ -106722,6 +106953,7 @@ wattage=noun_U=all
 wattle=noun_UN=all
 wattle=verb=all
 wattling=wattling/NN:UN,wattling/NNS=all
+wattmeter=noun=all
 wave=noun=all
 wave=verb=all
 waveband=noun=all
@@ -106732,6 +106964,7 @@ waveguide=noun=all
 wavelength=noun=all
 wavelet=noun=all
 wavelike=JJ=all
+wavemeter=noun=all
 waver=noun=all
 waver=verb=all
 waverer=noun=all
@@ -108242,6 +108475,7 @@ xxvii=JJ=all
 xxviii=JJ=all
 xylem=noun_U=all
 xylene=noun=all
+xylometer=noun=all
 xylophone=noun=all
 xylophonist=noun=all
 xylose=noun=all
@@ -108286,6 +108520,7 @@ yarrow=noun_U=all
 yaw=verb=all
 yaw=yaw/NN,yaw/NN:U,yaws/NNS=all
 yawl=noun=all
+yawmeter=noun=all
 yawn=noun=all
 yawn=verb=all
 yawner=noun=all
@@ -108724,6 +108959,8 @@ zygote=noun=all
 zygotene=noun=all
 zygotic=JJ=all
 zymogen=noun=all
+zymometer=noun=all
+zymosimeter=noun=all
 zymotic=JJ=all
 zymurgy=noun_U=all
 zálesíite=NN:U=all
