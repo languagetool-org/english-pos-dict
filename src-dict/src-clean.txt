@@ -5548,7 +5548,7 @@ Christianism=NNP=all
 Christianist=Christianist/NNP,Christianists/NNPS=all
 Christianity=Christianity/NNP,Christianities/NNPS=all
 Christianization|Christianisation=noun_UN=us,ca,gb|gb,au,nz,za
-Christianizer|Christianiser=noun=all
+Christianizer|Christianiser=noun=us,ca,gb|gb,au,nz,za
 Christianize|Christianise=verb=us,ca,gb|gb,au,nz,za
 Christianne=NNP=all
 Christiansand=NNP=all
@@ -33080,7 +33080,7 @@ behalf=behalf/NN:U,behalves/NNS=all
 behave=verb=all
 behavioralism|behaviouralism=noun_UN=us|gb,ca,au,nz,za
 behavioralist|behaviouralist=noun=us|gb,ca,au,nz,za
-behaviorally|behaviorally=RB=us|gb,ca,au,nz,za
+behaviorally|behaviourally=RB=us|gb,ca,au,nz,za
 behavioral|behavioural=JJ=us|gb,ca,au,nz,za
 behaviorism|behaviourism=noun_UN=us|gb,ca,au,nz,za
 behavioristically|behaviouristically=RB=us|gb,ca,au,nz,za
@@ -54177,7 +54177,7 @@ fractionate=verb=all
 fractionation=noun=all
 fractionator=noun=all
 fractionization|fractionisation=noun_UN=us,ca,gb|gb,au,nz,za
-fractionize|fractionize=verb=us,ca,gb|gb,au,nz,za
+fractionize|fractionise=verb=us,ca,gb|gb,au,nz,za
 fractious=JJ=all
 fractiously=RB=all
 fractiousness=NN:U=all
@@ -65556,7 +65556,8 @@ laborite|labourite=noun=us|gb,ca,au,nz,za
 laborless|labourless=JJ=us|gb,ca,au,nz,za
 labor|labour=noun_UN=us|gb,ca,au,nz,za
 labor|labour=verb=us|gb,ca,au,nz,za
-laboursaving|laboursaving=JJ=us|gb,ca,au,nz,za
+laborsaving|laboursaving=JJ=us|gb,ca,au,nz,za
+labor-saving|labour-saving=JJ=us|gb,ca,au,nz,za
 labradorite=noun=all
 labret=noun=all
 labriform=JJ=all
@@ -69157,7 +69158,7 @@ mechanistic=JJ=all
 mechanistically=RB=all
 mechanizable|mechanisable=JJ=us,ca,gb|gb,au,nz,za
 mechanization|mechanisation=noun_UN=us,ca,gb|gb,au,nz,za
-mechanized|mechanized=JJ=us,ca,gb|gb,au,nz,za
+mechanized|mechanised=JJ=us,ca,gb|gb,au,nz,za
 mechanizer|mechaniser=noun=us,ca,gb|gb,au,nz,za
 mechanize|mechanise=verb=us,ca,gb|gb,au,nz,za
 mechanoreception=noun_UN=all
@@ -88276,10 +88277,10 @@ rummer=noun=all
 rummy=JJ=all
 rummy=noun_U=all
 rumness=NN:U=all
-rumor-mongering|rumor-mongering=noun_UN=us|gb,ca,au,nz,za
+rumor-mongering|rumour-mongering=noun_UN=us|gb,ca,au,nz,za
 rumor-monger|rumour-monger=noun=us|gb,ca,au,nz,za
 rumored|rumoured=JJ=us|gb,ca,au,nz,za
-rumormongering|rumormongering=noun_UN=us|gb,ca,au,nz,za
+rumormongering|rumourmongering=noun_UN=us|gb,ca,au,nz,za
 rumormonger|rumourmonger=noun=us|gb,ca,au,nz,za
 rumor|rumour=noun_UN=us|gb,ca,au,nz,za
 rumor|rumour=verb=us|gb,ca,au,nz,za
