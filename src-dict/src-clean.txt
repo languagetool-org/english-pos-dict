@@ -735,10 +735,10 @@ Afghanistan=NNP=all
 Africa=NNP=all
 African-American=JJ=all
 African-American=noun=all
-African=African/NNP,Africans/NNPS=all
 African=JJ=all
-Africanism=Africanism/NNP,Africanisms/NNPS=all
-Africanist=Africanist/NNP,Africanists/NNPS=all
+African=noun=all
+Africanism=noun_UN=all
+Africanist=noun=all
 Africanization|Africanisation=noun_UN=us,ca,gb|gb,au,nz,za
 Africanize|Africanise=verb=us,ca,gb|gb,au,nz,za
 Africanness=NN:U=all
@@ -747,12 +747,12 @@ Africville=NNP=all
 Afrikaans=Afrikaans/NN:U,Afrikaans/NNP=all
 Afrikaner=Afrikaner/NNP,Afrikaners/NNPS=all
 Afro-American=JJ=all
-Afro-American=NNP=all
+Afro-American=noun=all
 Afro-Asiatic=JJ=all
-Afro-Asiatic=NNP=all
+Afro-Asiatic=noun=all
 Afro-Eurasia=NNP=all
-Afro=Afro/NNP,Afros/NNPS=all
-Afroasiatic=NNP=all
+Afro=noun=all
+Afroasiatic=noun=all
 Afrocentric=JJ=all
 Afrocentricity=NN:U=all
 Afrocentrism=noun_U=all
@@ -27111,7 +27111,7 @@ abdominal=JJ=all
 abdominal=noun=all
 abdominally=RB=all
 abdominopelvic=JJ=all
-abdominoplasty=NN:UN=all
+abdominoplasty=noun=all
 abdominous=JJ=all
 abducens=NN=all
 abduct=verb=all
@@ -27158,6 +27158,7 @@ ability=noun_UN=all
 abiogenesis=abiogenesis/NN,abiogeneses/NNS=all
 abiogenetic=JJ=all
 abiogenic=JJ=all
+abiogenically=RB=all
 abiotic=JJ=all
 abject=JJ=all
 abjectedness=NN:U=all
@@ -29023,6 +29024,7 @@ allopurinol=noun=all
 allosaur=noun=all
 allosaurus=noun=all
 allosteric=JJ=all
+allosterically=RB=all
 allostery=noun_U=all
 allot [-tt-]=verb=all
 allotment=noun_UN=all
@@ -29033,6 +29035,7 @@ allotropy=allotropy/NN,allotropy/NN:U,allotropies/NNS=all
 allottee=noun=all
 allotter=noun=all
 allotypic=JJ=all
+allotypically=RB=all
 allow=verb=all
 allowable=JJ=all
 allowableness=NN:U=all
@@ -29747,6 +29750,7 @@ anisogamy=noun_U=all
 anisometropia=noun=all
 anisometropic=JJ=all
 anisotropic=JJ=all
+anisotropically=RB=all
 anisotropism=noun_UN=all
 anisotropy=noun_U=all
 ankh=noun=all
@@ -29955,6 +29959,7 @@ anthropophagous=JJ=all
 anthropophagy=noun=all
 anthroposophic=JJ=all
 anthroposophical=JJ=all
+anthroposophically=RB=all
 anthroposophist=noun=all
 anthroposophy=noun_U=all
 anthurium=noun=all
@@ -30435,6 +30440,7 @@ apothem=noun=all
 apotheosis=apotheosis/NN,apotheoses/NNS,apotheosises/NNS=all
 apotheosize|apotheosise=verb=us,ca,gb|gb,au,nz,za
 apotropaic=JJ=all
+apotropaically=RB=all
 app-specific=JJ=all
 app=noun=all
 appalling=JJ=all
@@ -31056,6 +31062,7 @@ arytenoid=noun=all
 as=CC=all
 as=IN=all
 as=RB=all
+asap=RB=all
 asbestos=noun_U=all
 asbestosis=asbestosis/NN:U,asbestoses/NNS=all
 ascariasis=ascariasis/NN:U,ascariases/NNS=all
@@ -32957,6 +32964,7 @@ bazaar=noun=all
 bazillion=NN=all
 bazooka=noun=all
 bbl=NN=all
+bc=RB=all
 bday=noun=all
 bdellium=noun_U=all
 be=be/VB,was/VBD,wast/VBD,were/VBD,being/VBG,been/VBN,'m/VBP,'re/VBP,am/VBP,are/VBP,'s/VBZ,is/VBZ=all
@@ -33130,6 +33138,7 @@ bedspring=noun=all
 bedstead=noun=all
 bedstraw=noun=all
 bedtime=noun_U=all
+bee-friendly=JJ=all
 bee=noun=all
 beebread=noun_U=all
 beech=noun=all
@@ -33640,6 +33649,7 @@ bicyclic=JJ=all
 bicyclist=noun=all
 bid [bids;bade,bid;bid,bidden;bidding]=verb=all
 bid=noun=all
+bidaily=RB=all
 biddability=noun_UN=all
 biddable=JJ=all
 biddableness=NN:U=all
@@ -33864,6 +33874,7 @@ bioecology=NN:UN=all
 bioeconomic=JJ=all
 bioelectric=JJ=all
 bioelectrical=JJ=all
+bioelectrically=RB=all
 bioelectronic=noun=all
 bioenergetic=JJ=all
 bioenergetics=NN:U=all
@@ -33927,6 +33938,7 @@ biomass=noun_U=all
 biomaterial=noun=all
 biome=noun=all
 biomechanical=JJ=all
+biomechanically=RB=all
 biomedical=JJ=all
 biomedicine=noun=all
 biometer=noun=all
@@ -33999,6 +34011,7 @@ bioswale=noun=all
 biosynthesis=biosynthesis/NN,biosynthesis/NN:U,biosyntheses/NNS=all
 biosynthesize|biosynthesise=verb=us,ca,gb|gb,au,nz,za
 biosynthetic=JJ=all
+biosynthetically=RB=all
 biosystem=noun=all
 biosystematic=JJ=all
 biosystematic=noun=all
@@ -34019,6 +34032,7 @@ bioturbational=JJ=all
 biotype=noun=all
 biowaste=noun=all
 bioweapon=noun=all
+biparentally=RB=all
 bipartisan=JJ=all
 bipartisanship=noun_U=all
 bipartite=JJ=all
@@ -34041,6 +34055,7 @@ biquadratic=JJ=all
 biquadratic=noun=all
 biracial=JJ=all
 biradial=JJ=all
+birationally=RB=all
 birch=JJ=all
 birch=noun_UN=all
 birch=verb=all
@@ -34830,6 +34845,7 @@ bone=verb=all
 boned=JJ=all
 bonehead=noun=all
 boneheaded=JJ=all
+boneheadedly=RB=all
 boneheadedness=NN:U=all
 boneless=JJ=all
 boner=noun=all
@@ -39013,10 +39029,12 @@ clade=noun=all
 cladism=noun_UN=all
 cladist=noun=all
 cladistic=noun=all
+cladistically=RB=all
 cladistics=NN:U=all
 cladoceran=JJ=all
 cladoceran=noun=all
 cladogenesis=cladogenesis/NN,cladogeneses/NNS=all
+cladogenetically=RB=all
 cladogram=noun=all
 claim=noun_UN=all
 claim=verb=all
@@ -39893,6 +39911,7 @@ cold-shoulder=verb=all
 cold=cold/JJ,colder/JJR,coldest/JJS=all
 cold=noun_U=all
 coldhearted=JJ=all
+coldheartedly=RB=all
 coldheartedness=NN:U=all
 coldish=JJ=all
 coldly=RB=all
@@ -41345,6 +41364,7 @@ consumptive=JJ=all
 consumptive=noun=all
 consumptively=RB=all
 consumptiveness=NN:U=all
+cont=abbreviation=all
 contact=UH=all
 contact=noun_UN=all
 contact=verb=all
@@ -45728,6 +45748,7 @@ devastation=noun_U=all
 devastator=noun=all
 develop=verb=all
 developed=JJ=all
+developer-friendly=JJ=all
 developer=noun=all
 developing=JJ=all
 development=noun_UN=all
@@ -45848,6 +45869,7 @@ diabolization|diabolisation=noun_UN=us,ca,gb|gb,au,nz,za
 diabolize|diabolise=verb=us,ca,gb|gb,au,nz,za
 diabolo=noun=all
 diachronic=JJ=all
+diachronically=RB=all
 diachrony=noun_U=all
 diaconal=JJ=all
 diaconate=noun=all
@@ -45861,6 +45883,7 @@ diadromous=JJ=all
 diaeresis [pl. diaereses]=noun=all
 diagenesis=diagenesis/NN,diageneses/NNS=all
 diagenetic=JJ=all
+diagenetically=RB=all
 diagnosable=JJ=all
 diagnose=verb=all
 diagnosis=diagnosis/NN:U,diagnoses/NNS=all
@@ -48305,6 +48328,7 @@ duodenitis=NN=all
 duodenum=duodenum/NN,duodena/NNS,duodenums/NNS=all
 duologue=noun=all
 duomo=noun=all
+duopolistically=RB=all
 duopoly=noun=all
 duotone=noun=all
 dupable=JJ=all
@@ -48432,7 +48456,7 @@ dysenteric=JJ=all
 dysentery=noun_U=all
 dysfunction=noun_UN=all
 dysfunctional=JJ=all
-dysfunctionality=NN:UN=all
+dysfunctionality=noun_UN=all
 dysfunctionally=RB=all
 dysgenic=JJ=all
 dysgenic=noun=all
@@ -48932,6 +48956,7 @@ egoistically=RB=all
 egomania=noun_U=all
 egomaniac=noun=all
 egomaniacal=JJ=all
+egomaniacally=RB=all
 egotism=noun_U=all
 egotist=noun=all
 egotistic=JJ=all
@@ -49144,6 +49169,7 @@ electrophilic=JJ=all
 electrophoresis=JJ=all
 electrophoresis=electrophoresis/NN,electrophoreses/NNS=all
 electrophoretic=JJ=all
+electrophoretically=RB=all
 electrophorus=electrophorus/NN,electrophori/NNS=all
 electrophotography=noun_U=all
 electrophysiologist=noun=all
@@ -49450,6 +49476,7 @@ emotionalization|emotionalisation=noun_UN=us,ca,gb|gb,au,nz,za
 emotionalize|emotionalise=verb=us,ca,gb|gb,au,nz,za
 emotionally=RB=all
 emotionless=JJ=all
+emotionlessly=RB=all
 emotionlessness=NN:U=all
 emotive=JJ=all
 emotively=RB=all
@@ -49690,9 +49717,11 @@ endoderm=noun=all
 endodermis=noun=all
 endodontic=JJ=all
 endodontic=noun=all
+endodontically=RB=all
 endodontics=NN:U=all
 endodontist=noun=all
 endogamous=JJ=all
+endogamously=RB=all
 endogamy=noun_U=all
 endogenous=JJ=all
 endogenously=RB=all
@@ -49727,6 +49756,7 @@ endosmometer=noun=all
 endosome=noun=all
 endosperm=noun=all
 endospore=noun=all
+endosteally=RB=all
 endostyle=noun=all
 endosymbiosis=endosymbiosis/NN,endosymbioses/NNS=all
 endosymbiotic=JJ=all
@@ -50030,6 +50060,7 @@ entrepreneurship=entrepreneurship/NN,entrepreneurship/NN:U,entrepreneurships/NNS
 entrepôt=noun=all
 entresol=noun=all
 entropic=JJ=all
+entropically=RB=all
 entropy=noun_U=all
 entrust=verb=all
 entry=noun_UN=all
@@ -50038,6 +50069,7 @@ entryphone=noun=all
 entryway=noun=all
 entrée=noun_UN=all
 entwine=verb=all
+enucleate=RB=all
 enumerability=noun_UN=all
 enumerable=JJ=all
 enumerate=verb=all
@@ -50360,6 +50392,7 @@ erased=JJ=all
 eraser=noun=all
 erasure=noun_UN=all
 erbium=noun_U=all
+ere=RB=all #archaic
 erect=erect/JJ,erecter/JJR=all
 erect=verb=all
 erectable=JJ=all
@@ -53860,6 +53893,7 @@ folktale=noun=all
 foll=NN=all
 follicle=noun=all
 follicular=JJ=all
+follicularly=RB=all
 follow-up=noun=all
 follow=noun=all
 follow=verb=all
@@ -54935,6 +54969,7 @@ full-blown=JJ=all
 full-bodied=JJ=all
 full-featured=JJ=all
 full-fledged=JJ=all
+full-heartedly=RB=all
 full-scale=JJ=all
 full-screen=JJ=all
 full-stack=JJ=all
@@ -55648,9 +55683,11 @@ geminate=verb=all
 gemination=noun=all
 gemminess=NN:U=all
 gemmological=JJ=all
+gemmologically=RB=all
 gemmology=noun_U=all
 gemmy=gemmy/JJ,gemmier/JJR,gemmiest/JJS=all
 gemological=JJ=all
+gemologically=RB=all
 gemologist=noun=all
 gemology=noun_U=all
 gemstone=noun=all
@@ -55812,6 +55849,7 @@ geochemist=noun=all
 geochemistry=noun_U=all
 geochronologic=JJ=all
 geochronological=JJ=all
+geochronologically=RB=all
 geochronologist=noun=all
 geochronology=noun_UN=all
 geocode=noun=all
@@ -55897,6 +55935,7 @@ geotechnical=JJ=all
 geotechnically=RB=all
 geotectonic=JJ=all
 geotectonic=noun=all
+geotectonically=RB=all
 geotectonics=NN:U=all
 geotherm=noun=all
 geothermal=JJ=all
@@ -56471,6 +56510,7 @@ glycopeptide=noun=all
 glycoprotein=noun_U=all
 glycoside=noun_U=all
 glycosidic=JJ=all
+glycosidically=RB=all
 glycosuria=noun=all
 glymphatic=JJ=all
 glyph=noun=all
@@ -56637,6 +56677,7 @@ goo=noun_U=all
 good-for-nothing=JJ=all
 good-for-nothing=noun=all
 good-hearted=JJ=all
+good-heartedly=RB=all
 good-humoredly|good-humouredly=RB=us|gb,ca,au,nz,za
 good-humoredness|good-humouredness=NN:U=us|gb,ca,au,nz,za
 good-humored|good-humoured=JJ=us|gb,ca,au,nz,za
@@ -56737,6 +56778,7 @@ gotcha=noun=all
 goth=noun=all
 gothic=JJ=all
 gothic=noun=all
+gothically=RB=all
 gouache=noun_U=all
 gouge=noun=all
 gouge=verb=all
@@ -58124,6 +58166,7 @@ haptic=noun=all
 haptically=RB=all
 haptics=NN:U=all
 haptometer=noun=all
+haptotactically=RB=all
 hara-kiri=NN:U=all
 harangue=noun=all
 harangue=verb=all
@@ -59125,6 +59168,7 @@ heterogeneously=RB=all
 heterogeneousness=NN:U=all
 heterograft=noun=all
 heterologous=JJ=all
+heterologously=RB=all
 heterolysis=heterolysis/NN,heterolyses/NNS=all
 heterolytic=JJ=all
 heteromerous=JJ=all
@@ -59715,6 +59759,7 @@ homocentric=JJ=all
 homocercal=JJ=all
 homocysteine=noun=all
 homoerotic=JJ=all
+homoerotically=RB=all
 homoeroticism=noun_UN=all
 homogamy=homogamy/NN,homogamy/NN:U,homogamies/NNS=all
 homogeneity=noun_U=all
@@ -60524,6 +60569,7 @@ hydromorphone=NN:U=all
 hydronephroses=NN=all
 hydronephrosis=NN=all
 hydronic=JJ=all
+hydronically=RB=all
 hydronium=noun=all
 hydropathic=JJ=all
 hydropathist=noun=all
@@ -60646,6 +60692,7 @@ hypercompetitiveness=NN:U=all
 hyperconnectedness=NN:U=all
 hypercorrect=JJ=all
 hypercorrection=noun_UN=all
+hypercorrectly=RB=all
 hypercorrectness=NN:U=all
 hypercritical=JJ=all
 hypercritically=RB=all
@@ -60654,6 +60701,9 @@ hypercube=noun=all
 hyperdevelopment=noun=all
 hyperdiverse=JJ=all
 hyperdiversity=NN:U=all
+hyperefficiency=noun_U=all
+hyperefficient=JJ=all
+hyperefficiently=RB=all
 hyperemesis=NN=all
 hyperemization|hyperemisation=noun_UN=us,ca,gb|gb,au,nz,za
 hyperemotional=JJ=all
@@ -60728,6 +60778,7 @@ hypersexuality=noun_UN=all
 hypersomnia=NN=all
 hypersonic=JJ=all
 hypersonic=noun=all
+hypersonically=RB=all
 hyperspace=noun=all
 hypersphere=NN=all
 hypersplenism=noun=all
@@ -60805,6 +60856,7 @@ hypocycloid=noun=all
 hypoderm=noun=all
 hypoderma=noun=all
 hypodermal=JJ=all
+hypodermally=RB=all
 hypodermic=JJ=all
 hypodermic=noun=all
 hypodermically=RB=all
@@ -60820,6 +60872,7 @@ hypoglycaemia=NN:U=all
 hypoglycemia|hypoglycaemia=noun_UN=ca,us|au,gb,nz,za
 hypoglycemic|hypoglycaemic=JJ=ca,us|au,gb,nz,za
 hypogynous=JJ=all
+hypointensely=RB=all
 hypokalemia=noun_U=all
 hypokalemic=JJ=all
 hypokinesis=hypokinesis/NN,hypokineses/NNS=all
@@ -60928,6 +60981,7 @@ iarovization|iarovisation=noun_UN=us,ca,gb|gb,au,nz,za
 iatrochemical=JJ=all
 iatrochemistry=NN:U=all
 iatrogenic=JJ=all
+iatrogenically=RB=all
 iatrophobe=noun=all
 iatrophobia=NN:U=all
 iatrophobic=JJ=all
@@ -60989,6 +61043,7 @@ iconoclast=noun=all
 iconoclastic=JJ=all
 iconoclastically=RB=all
 iconographic=JJ=all
+iconographically=RB=all
 iconography=noun_U=all
 iconolatry=noun=all
 iconology=noun_UN=all
@@ -61408,6 +61463,7 @@ immunologist=noun=all
 immunology=noun_U=all
 immunomodulator=noun=all
 immunomodulatory=JJ=all
+immunophenotypically=RB=all
 immunosuppressant=noun=all
 immunosuppression=noun=all
 immunosuppressive=JJ=all
@@ -63574,6 +63630,7 @@ intercourse=noun_U=all
 intercrop [-pp-]=verb=all
 intercrop=noun=all
 intercultural=JJ=all
+interculturally=RB=all
 intercurrent=JJ=all
 intercuspation=NN:U=all
 intercut [intercuts;intercut;intercut;intercutting]=verb=all
@@ -63848,6 +63905,7 @@ interstitial=JJ=all
 interstitial=noun=all
 interstitially=RB=all
 intersubjective=JJ=all
+intersubjectively=RB=all
 intersubjectivity=noun_UN=all
 intertemporal=JJ=all
 intertestamental=JJ=all
@@ -63955,10 +64013,12 @@ intradermal=JJ=all
 intradermally=RB=all
 intrados=noun=all
 intragastric=JJ=all
+intragastrically=RB=all
 intrahepatic=JJ=all
 intraluminal=JJ=all
 intramedullary=JJ=all
 intramolecular=JJ=all
+intramolecularly=RB=all
 intramural=JJ=all
 intramuscular=JJ=all
 intramuscularly=RB=all
@@ -63976,9 +64036,11 @@ intransitively=RB=all
 intransitiveness=NN:U=all
 intranuclear=JJ=all
 intraocular=JJ=all
+intraocularly=RB=all
 intraoperative=JJ=all
 intraoperatively=RB=all
 intraoral=JJ=all
+intraorally=RB=all
 intraperitoneal=JJ=all
 intraperitoneally=RB=all
 intrapersonal=JJ=all
@@ -63990,6 +64052,7 @@ intrastate=JJ=all
 intrathecal=JJ=all
 intrathecally=RB=all
 intrathoracic=JJ=all
+intrathoracically=RB=all
 intrauterine=JJ=all
 intravasation=noun_UN=all
 intravascular=JJ=all
@@ -64476,6 +64539,7 @@ isodynamic=JJ=all
 isodynamic=noun=all
 isoelectric=JJ=all
 isoelectronic=JJ=all
+isoelectronically=RB=all
 isoenzyme=noun=all
 isoform=noun=all
 isogamete=noun=all
@@ -65243,6 +65307,7 @@ karting=noun=all
 karyokinesis=karyokinesis/NN,karyokineses/NNS=all
 karyotype=noun=all
 karyotypic=JJ=all
+karyotypically=RB=all
 karyotyping=noun=all
 kashrut=kashrut/NN,kashrut/NN:U,kashruts/NNS=all
 katabatic=JJ=all
@@ -65335,6 +65400,7 @@ kestrel=noun=all
 ketamine=noun=all
 ketch=noun=all
 ketchup=noun_U=all
+keto-friendly=JJ=all
 keto=JJ=all
 ketoacidosis=NN:U=all
 ketogenic=JJ=all
@@ -67043,6 +67109,7 @@ lighterage=noun_U=all
 lighterman=lighterman/NN,lightermen/NNS=all
 lightfaced=JJ=all
 lightfastness=NN:U=all
+lightheadedly=RB=all
 lightheadedness=NN:U=all
 lighthearted=JJ=all
 lightheartedness=NN:U=all
@@ -68238,6 +68305,7 @@ lysosomal=JJ=all
 lysosome=noun=all
 lysozyme=noun_U=all
 lytic=JJ=all
+lytically=RB=all
 löllingite=NN:U=all
 mCi=mCi/NN:U,mCi/NNP=all
 mRNA=mRNA/NN,mRNA/NNP,mRNAs/NNS=all
@@ -68380,6 +68448,7 @@ magistrate=noun=all
 maglev=noun=all
 magma=magma/NN:U,magmas/NNS,magmata/NNS=all
 magmatic=JJ=all
+magmatically=RB=all
 magmatism=NN:UN=all
 magnanimity=noun_U=all
 magnanimous=JJ=all
@@ -69583,6 +69652,7 @@ megalomania=noun_U=all
 megalomaniac=JJ=all
 megalomaniac=noun=all
 megalomaniacal=JJ=all
+megalomaniacally=RB=all
 megalomanic=JJ=all
 megalopolis=noun=all
 megalumen=noun=all
@@ -69910,6 +69980,7 @@ mesencephalon=noun=all
 mesenchymal=JJ=all
 mesenchyme=noun=all
 mesenteric=JJ=all
+mesenterically=RB=all
 mesentery=noun=all
 mesh=noun=all
 mesh=verb=all
@@ -69996,6 +70067,7 @@ metalepsis=metalepsis/NN,metalepses/NNS=all
 metalhead=noun=all
 metalinguistic=JJ=all
 metalinguistic=noun=all
+metalinguistically=RB=all
 metalinguistics=NN:U=all
 metallic=JJ=all
 metallic=noun=all
@@ -71580,6 +71652,7 @@ monologuist=noun=all
 monomania=noun_U=all
 monomaniac=noun=all
 monomaniacal=JJ=all
+monomaniacally=RB=all
 monomer=noun_U=all
 monomeric=JJ=all
 monometer=noun=all
@@ -71589,6 +71662,7 @@ monomial=JJ=all
 monomial=noun=all
 monomolecular=JJ=all
 monomorphic=JJ=all
+monomorphically=RB=all
 monomyth=noun=all
 mononuclear=JJ=all
 mononuclear=noun=all
@@ -71805,6 +71879,7 @@ morphinism=noun_UN=all
 morphism=noun_UN=all
 morphogenesis=morphogenesis/NN:U,morphogeneses/NNS=all
 morphogenetic=JJ=all
+morphogenetically=RB=all
 morphogenic=JJ=all
 morphologic=JJ=all
 morphological=JJ=all
@@ -71812,6 +71887,7 @@ morphologically=RB=all
 morphologist=noun=all
 morphology=noun_U=all
 morphometric=JJ=all
+morphometrically=RB=all
 morphophonemics=NN:U=all
 morphosyntactic=JJ=all
 morris=noun=all
@@ -72202,6 +72278,7 @@ multicrystalline=JJ=all
 multicultural=JJ=all
 multiculturalism=noun_U=all
 multiculturalist=noun=all
+multiculturally=RB=all
 multicylinder=JJ=all
 multidecadal=JJ=all
 multidimensional=JJ=all
@@ -72995,6 +73072,7 @@ naturism=noun_UN=all
 naturist=noun=all
 naturopath=noun=all
 naturopathic=JJ=all
+naturopathically=RB=all
 naturopathy=naturopathy/NN,naturopathy/NN:U,naturopathies/NNS=all
 naught=noun_U=all
 naughtily=RB=all
@@ -73393,6 +73471,7 @@ neuritis=neuritis/NN:U,neuritides/NNS,neuritises/NNS=all
 neuro-oncology=NN:U=all
 neuroanatomic=JJ=all
 neuroanatomical=JJ=all
+neuroanatomically=RB=all
 neuroanatomist=noun=all
 neuroanatomy=noun=all
 neurobehavioral|neurobehavioural=JJ=us|gb,ca,au,nz,za
@@ -73415,6 +73494,7 @@ neurofeedback=NN:U=all
 neurogenesis=neurogenesis/NN:U,neurogeneses/NNS=all
 neurogenetic=noun=all
 neurogenic=JJ=all
+neurogenically=RB=all
 neuroglia=noun=all
 neuroglial=JJ=all
 neurohumor=noun=all
@@ -73475,6 +73555,7 @@ neurotoxin=noun=all
 neurotransmission=noun=all
 neurotransmitter=noun_U=all
 neurotrophic=JJ=all
+neurotrophically=RB=all
 neurotypical=JJ=all
 neurovascular=JJ=all
 neuter=JJ=all
@@ -73896,6 +73977,8 @@ non-U=JJ=all
 non-academic=JJ=all
 non-baryonic=JJ=all
 non-binary=JJ=all
+non-biological=JJ=all
+non-biologically=RB=all
 non-capturing=JJ=all
 non-charitable=JJ=all
 non-consecutive=JJ=all
@@ -74059,6 +74142,8 @@ nondemobilization|nondemobilisation=noun_UN=us,ca,gb|gb,au,nz,za
 nondemocratic|non-democratic=JJ=au,ca,us|gb,nz,za
 nondenominational=JJ=all
 nondenominationalism=noun_UN=all
+nondenumerable=JJ=all
+nondenumerably=RB=all
 nondepartmental|non-departmental=JJ=au,ca,us|gb,nz,za
 nondeposition=noun_UN=all
 nondescript=JJ=all
@@ -74459,6 +74544,7 @@ nosocomephobia=NN:U=all
 nosocomephobic=JJ=all
 nosocomephobic=noun=all
 nosocomial=JJ=all
+nosocomially=RB=all
 nosography=noun=all
 nosology=noun_UN=all
 nostalgia=noun_U=all
@@ -75084,6 +75170,7 @@ octad=noun=all
 octagon=noun=all
 octagonal=JJ=all
 octahedral=JJ=all
+octahedrally=RB=all
 octahedron=noun=all
 octal=JJ=all
 octal=NN:U=all
@@ -75183,6 +75270,8 @@ off-line=JJ=all
 off-line=RB=all
 off-peak=JJ=all
 off-peak=RB=all
+off-piste=JJ=all
+off-piste=RB=all
 off-put [off-puts;off-put;off-put;off-putting]=verb=all
 off-put=JJ=all
 off-putting=off-putting/JJ,offputting/JJ=all
@@ -75194,6 +75283,8 @@ off-screen=JJ=all
 off-screen=RB=all
 off-season=RB=all
 off-season=noun=all
+off-target=JJ=all
+off-target=RB=all
 off-the-shelf=JJ=all
 off-the-wall=JJ=all
 off-white=noun_UN=all
@@ -75424,6 +75515,7 @@ omnichannel=JJ=all
 omnicompetence=noun=all
 omnicompetent=JJ=all
 omnidirectional=JJ=all
+omnidirectionally=RB=all
 omnifarious=JJ=all
 omnifariousness=NN:U=all
 omnipotence=noun_U=all
@@ -75568,6 +75660,7 @@ oocyte=noun=all
 oodles=oodles/NN,oodles/NNS=all
 oof=UH=all
 oogamous=JJ=all
+oogamously=RB=all
 oogenesis=oogenesis/NN:U,oogeneses/NNS=all
 oogenetic=JJ=all
 ooh=UH=all
@@ -75670,6 +75763,7 @@ ophthalmitis=noun=all
 ophthalmodynamometer=noun=all
 ophthalmologic=JJ=all
 ophthalmological=JJ=all
+ophthalmologically=RB=all
 ophthalmologist=noun=all
 ophthalmology=noun_U=all
 ophthalmometer=noun=all
@@ -75691,6 +75785,7 @@ opisometer=noun=all
 opisthognathous=JJ=all
 opium=noun_U=all
 opossum=opossum/NN,opossum/NNS,opossums/NNS=all
+opp=abbreviation=all
 oppidan=JJ=all
 oppidan=noun=all
 opponent=JJ=all
@@ -75996,11 +76091,13 @@ orofacial=JJ=all
 orogenesis=orogenesis/NN:U,orogeneses/NNS=all
 orogenetic=JJ=all
 orogenic=JJ=all
+orogenically=RB=all
 orogeny=noun=all
 orographic=NN=all
 orography=noun_U=all
 orometer=noun=all
 oropharynx=noun=all
+orotracheally=RB=all
 orotund=JJ=all
 orotundity=noun_UN=all
 orphan=JJ=all
@@ -76802,6 +76899,7 @@ oversimple=JJ=all
 oversimplification=noun_UN=all
 oversimplify=verb=all
 oversimplistic=JJ=all
+oversimplistically=RB=all
 oversize=JJ=all
 oversize=NN=all
 oversized=JJ=all
@@ -77565,6 +77663,7 @@ parapodium=parapodium/NN,parapodia/NNS=all
 paraprofessional=JJ=all
 paraprofessional=noun=all
 parapsychological=JJ=all
+parapsychologically=RB=all
 parapsychologist=noun=all
 parapsychology=noun_U=all
 paraquat=noun_U=all
@@ -77589,7 +77688,9 @@ parasitologist=noun=all
 parasitology=noun_UN=all
 parasol=noun=all
 parasomnia=noun_UN=all
+paraspinally=RB=all
 parasternal=JJ=all
+parasternally=RB=all
 parasympathetic=JJ=all
 parasympathetic=noun=all
 parasynthesis=parasynthesis/NN,parasyntheses/NNS=all
@@ -77777,6 +77878,7 @@ participant=noun=all
 participate=verb=all
 participation=noun_U=all
 participative=JJ=all
+participatively=RB=all
 participator=noun=all
 participatory=JJ=all
 participial=JJ=all
@@ -78008,6 +78110,7 @@ pathologization|pathologisation=noun_UN=us,ca,gb|gb,au,nz,za
 pathologize|pathologise=verb=us,ca,gb|gb,au,nz,za
 pathology=noun_UN=all
 pathophysiological=JJ=all
+pathophysiologically=RB=all
 pathophysiology=noun_UN=all
 pathos=noun_U=all
 pathway=noun=all
@@ -78510,6 +78613,7 @@ pentathlete=noun=all
 pentathlon=noun=all
 pentatomic=JJ=all
 pentatonic=JJ=all
+pentatonically=RB=all
 pentavalent=JJ=all
 pentester=noun=all
 pentesting=NN:U=all
@@ -78793,6 +78897,7 @@ peristaltic=JJ=all
 peristaltically=RB=all
 peristome=noun=all
 peristyle=noun=all
+peritidally=RB=all
 peritoneal=JJ=all
 peritoneum=peritoneum/NN,peritonea/NNS,peritoneums/NNS=all
 peritonitis=noun_U=all
@@ -79201,6 +79306,7 @@ pharmaceutics=NN:U=all
 pharmacist=noun=all
 pharmacodynamic=JJ=all
 pharmacodynamic=noun=all
+pharmacodynamically=RB=all
 pharmacodynamics=NN:U=all
 pharmacognosy=noun=all
 pharmacokinetic=JJ=all
@@ -79369,6 +79475,7 @@ phonometer=noun=all
 phonon=noun=all
 phonoscope=noun=all
 phonotactic=noun=all
+phonotactically=RB=all
 phonotactics=NN:U=all
 phony=noun=all
 phony=phony/JJ,phonier/JJR,phoniest/JJS=all
@@ -79466,6 +79573,7 @@ photojournalist=noun=all
 photolithography=noun_U=all
 photolysis=photolysis/NN:U,photolyses/NNS=all
 photolytic=JJ=all
+photolytically=RB=all
 photometer=noun=all
 photometric=JJ=all
 photometrical=JJ=all
@@ -79480,6 +79588,7 @@ photonic=JJ=all
 photonics=NN:U=all
 photoperiod=noun=all
 photoperiodic=JJ=all
+photoperiodically=RB=all
 photophobia=photophobia/NN,photophobia/NN:U,photophobias/NNS=all
 photopia=noun=all
 photopolarimeter=noun=all
@@ -80405,6 +80514,7 @@ plessor=JJ=all
 plessor=NN=all
 plethora=noun_U=all
 plethoric=JJ=all
+plethorically=RB=all
 pleura=pleura/NN,pleurae/NNS,pleuras/NNS=all
 pleural=JJ=all
 pleurisy=noun_U=all
@@ -80458,6 +80568,7 @@ ploughboy=noun=all
 plover=noun=all
 plowable=JJ=all
 ploy=noun=all
+pls=RB=all # slang
 pluck=noun_UN=all
 pluck=verb=all
 plucked=JJ=all
@@ -80790,6 +80901,7 @@ poltroonery=noun_U=all
 poly=poly/NN,polies/NNS,polys/NNS=all
 polyacrylamide=noun=all
 polyadelphous=JJ=all
+polyalphabetically=RB=all
 polyamide=noun_U=all
 polyamine=noun=all
 polyamorous=JJ=all
@@ -80839,6 +80951,7 @@ polygamously=RB=all
 polygamy=noun_U=all
 polygenesis=polygenesis/NN:U,polygeneses/NNS=all
 polygenetic=NN=all
+polygenetically=RB=all
 polygenic=JJ=all
 polygenically=RB=all
 polyglot=JJ=all
@@ -81060,6 +81173,7 @@ population=noun_UN=all
 populism=noun_U=all
 populist=noun=all
 populistic=JJ=all
+populistically=RB=all
 populous=JJ=all
 populousness=NN:U=all
 porbeagle=noun=all
@@ -81230,6 +81344,7 @@ postern=noun=all
 postfix=noun=all
 postfix=verb=all
 postglacial=JJ=all
+postglacially=RB=all
 postgrad=noun=all
 postgraduate=JJ=all
 postgraduate=noun=all
@@ -81420,6 +81535,7 @@ powwow=noun=all
 powwow=verb=all
 pox=pox/NN:U,pox/NNS,poxes/NNS=all
 poxvirus=noun=all
+pp=abbreviation=all
 ppl=ppl/NN,ppl/NN:UN,ppl/NNS=all
 ppm=NN=all
 practicability=noun_U=all
@@ -82469,6 +82585,7 @@ prewired=JJ=all
 prewireless=JJ=all
 prework=JJ=all
 prework=noun_UN=all
+preworkout=RB=all
 prewriting=noun=all
 prey=noun_U=all
 prey=verb=all
@@ -82778,6 +82895,7 @@ procurement=noun_U=all
 procurer=noun=all
 procures=procures/NN,procuresses/NNS=all
 procuress=noun=all
+procyclically=RB=all
 procyonid=NN=all
 procès-verbal=procès-verbal/NN,procès-verbaux/NNS=all
 prod=noun=all
@@ -82861,6 +82979,7 @@ profligate=JJ=all
 profligate=noun=all
 profligately=RB=all
 profligateness=NN:U=all
+proforma=RB=all
 profound=NN:U=all
 profound=profound/JJ,profounder/JJR,profoundest/JJS=all
 profoundly=RB=all
@@ -83275,6 +83394,7 @@ proteinase=noun=all
 proteinuria=noun_U=all
 proteolysis=proteolysis/NN:UN,proteolyses/NNS=all
 proteolytic=JJ=all
+proteolytically=RB=all
 proteome=noun=all
 protest=noun_UN=all
 protest=verb=all
@@ -83303,6 +83423,7 @@ protomammal=NN=all
 protomartyr=noun=all
 proton=noun=all
 protonic=JJ=all
+protonically=RB=all
 protoplasm=noun_U=all
 protoplasmic=JJ=all
 protoplast=noun=all
@@ -83520,6 +83641,7 @@ psychically=RB=all
 psycho=JJ=all
 psycho=noun=all
 psychoacoustic=noun=all
+psychoacoustically=RB=all
 psychoacoustics=NN:U=all
 psychoactive=JJ=all
 psychoanalysis [pl. psychoanalyses]=noun_UN=all
@@ -83533,6 +83655,7 @@ psychobabble=noun_U=all
 psychobabbler=noun=all
 psychobiologic=JJ=all
 psychobiological=JJ=all
+psychobiologically=RB=all
 psychobiologist=noun=all
 psychobiology=noun_UN=all
 psychochemical=JJ=all
@@ -83550,6 +83673,7 @@ psychographer=NN=all
 psychographic=JJ=all
 psychographic=noun=all
 psychohistorian=noun=all
+psychohistorically=RB=all
 psychohistory=noun_U=all
 psychokinesis=psychokinesis/NN:U,psychokineses/NNS=all
 psychokinetic=JJ=all
@@ -83583,6 +83707,7 @@ psychopathic=noun=all
 psychopathist=noun=all
 psychopathologic=JJ=all
 psychopathological=JJ=all
+psychopathologically=RB=all
 psychopathologist=noun=all
 psychopathology=noun_UN=all
 psychopathy=noun_U=all
@@ -83596,6 +83721,7 @@ psychophysiologist=noun=all
 psychophysiology=noun_UN=all
 psychos=noun=all
 psychosexual=JJ=all
+psychosexually=RB=all
 psychosis=psychosis/NN,psychosis/NN:U,psychoses/NNS=all
 psychosocial=JJ=all
 psychosocially=RB=all
@@ -84077,6 +84203,7 @@ pyromancy=noun_U=all
 pyromania=noun_U=all
 pyromaniac=noun=all
 pyromaniacal=JJ=all
+pyromaniacally=RB=all
 pyrometer=noun=all
 pyrometric=JJ=all
 pyromorphite=noun=all
@@ -84219,6 +84346,7 @@ qualmish=JJ=all
 qualmishness=NN:U=all
 quandary=noun=all
 quango=noun=all
+quant=noun=all
 quantic=noun=all
 quantifiable=JJ=all
 quantification=noun_U=all
@@ -84698,6 +84826,7 @@ radiate=JJ=all
 radiate=verb=all
 radiation=noun_UN=all
 radiative=JJ=all
+radiatively=RB=all
 radiator=noun=all
 radical=JJ=all
 radical=noun=all
@@ -84722,6 +84851,7 @@ radiochemical=JJ=all
 radiochemistry=noun=all
 radiocommunication=noun_UN=all
 radiogenic=JJ=all
+radiogenically=RB=all
 radiogoniometer=noun=all
 radiogram=noun=all
 radiograph=noun=all
@@ -86017,6 +86147,7 @@ reflexivity=noun_UN=all
 reflexivize|reflexivise=verb=us,ca,gb|gb,au,nz,za
 reflexly=RB=all
 reflexness=NN:U=all
+reflexologically=RB=all
 reflexologist=noun=all
 reflexology=noun_UN=all
 refloat=verb=all
@@ -88881,6 +89012,7 @@ sadness=noun_UN=all
 sadomasochism=noun_U=all
 sadomasochist=noun=all
 sadomasochistic=JJ=all
+sadomasochistically=RB=all
 safari=noun_UN=all
 safari=verb=all
 safe=safe/JJ,safer/JJR,safest/JJS=all
@@ -90659,6 +90791,7 @@ semeiology=noun_UN=all
 semen=noun_U=all
 semester=noun=all
 semi-autobiographical=JJ=all
+semi-automatically=RB=all
 semi-elliptical=JJ=all
 semi-free=JJ=all
 semi-independent=JJ=all
@@ -93329,6 +93462,7 @@ sociocultural=JJ=all
 socioculturally=RB=all
 sociodemographic=JJ=all
 socioeconomic=JJ=all
+socioemotionally=RB=all
 sociogram=noun=all
 sociolinguistic=JJ=all
 sociolinguistic=noun=all
@@ -95246,6 +95380,7 @@ stereoscopic=JJ=all
 stereoscopically=RB=all
 stereoscopy=noun=all
 stereospecific=JJ=all
+stereospecifically=RB=all
 stereospecificity=noun_U=all
 stereotactic=JJ=all
 stereotactically=RB=all
@@ -95690,6 +95825,7 @@ straticulate=JJ=all
 stratification=noun_U=all
 stratify=verb=all
 stratigraphic=JJ=all
+stratigraphically=RB=all
 stratigraphy=noun_U=all
 stratocracy=noun=all
 stratocumulus=stratocumulus/NN,stratocumuli/NNS=all
@@ -97112,6 +97248,7 @@ suppressed=JJ=all
 suppressible=JJ=all
 suppression=noun_U=all
 suppressive=JJ=all
+suppressively=RB=all
 suppressiveness=NN:U=all
 suppressor=noun=all
 suppurate=verb=all
@@ -97132,6 +97269,8 @@ supraregional=JJ=all
 suprarenal=JJ=all
 suprarenal=noun=all
 suprasegmental=JJ=all
+supratherapeutically=RB=all
+supratidally=RB=all
 supraventricular=JJ=all
 supremacist=JJ=all
 supremacist=noun=all
@@ -97673,6 +97812,7 @@ synecdochically=RB=all
 synechia=synechia/NN,synechiae/NNS=all
 synecology=noun_UN=all
 synergetic=JJ=all
+synergetically=RB=all
 synergic=JJ=all
 synergism=noun_U=all
 synergist=JJ=all
@@ -99609,6 +99749,7 @@ tiffin=noun=all
 tiger=noun=all
 tigerish=JJ=all
 tigerishness=NN:U=all
+tight-knit=JJ=all
 tight-lipped=JJ=all
 tight=RB=all
 tight=noun=all
@@ -99618,6 +99759,7 @@ tightened=JJ=all
 tightener=noun=all
 tightening=NN:UN=all
 tightfisted=JJ=all
+tightknit=JJ=all
 tightly=RB=all
 tightness=NN:U=all
 tightrope=noun=all
@@ -100449,6 +100591,7 @@ traffic=noun_U=all
 trafficable=JJ=all
 trafficker=noun=all
 trafficking=noun_U=all
+trafficwise=RB=all
 tragedian=noun=all
 tragedienne=noun=all
 tragedy=noun_UN=all
@@ -100606,7 +100749,9 @@ transform=verb=all
 transformable=JJ=all
 transformation=noun_UN=all
 transformational=JJ=all
+transformationally=RB=all
 transformative=JJ=all
+transformatively=RB=all
 transformed=JJ=all
 transformer=noun=all
 transforming=noun_UN=all
@@ -100750,6 +100895,7 @@ transsexuality=noun_UN=all
 transship [-pp-]=verb=all
 transshipment=noun_U=all
 transthoracic=JJ=all
+transthoracically=RB=all
 transtibial=JJ=all
 transubstantiation=noun_U=all
 transudation=noun_UN=all
@@ -102827,6 +102973,7 @@ underfolded=JJ=all
 underfoot=JJ=all
 underfoot=RB=all
 underfrequency=NN=all
+underfund=verb=all
 underfunding=noun=all
 underfur=noun_U=all
 undergarment=noun=all
@@ -103075,6 +103222,7 @@ undistractedness=NN:U=all
 undistressed=JJ=all
 undistributed=JJ=all
 undisturbed=JJ=all
+undisturbedly=RB=all
 undisturbedness=NN:U=all
 undivided=JJ=all
 undo [undoes;undid;undone;undoing]=verb=all
@@ -103173,6 +103321,7 @@ unendurable=JJ=all
 unendurableness=NN:U=all
 unendurably=RB=all
 unenforceable=JJ=all
+unenforceably=RB=all
 unenforced=JJ=all
 unenfranchised=JJ=all
 unengaged=JJ=all
@@ -103997,6 +104146,7 @@ unmovable=JJ=all
 unmovableness=NN:U=all
 unmoved=JJ=all
 unmoving=JJ=all
+unmovingly=RB=all
 unmovingness=NN:U=all
 unmown=JJ=all
 unmusical=JJ=all
@@ -104055,6 +104205,7 @@ unobviousness=NN:U=all
 unoccupied=JJ=all
 unodorous=JJ=all
 unoffended=JJ=all
+unoffendedly=RB=all
 unoffending=JJ=all
 unoffensive=JJ=all
 unoffensively=RB=all
@@ -104070,6 +104221,7 @@ unoppressiveness=NN:U=all
 unoptimized|unoptimised=JJ=us,ca,gb|gb,au,nz,za
 unordained=JJ=all
 unordered=JJ=all
+unordinarily=RB=all
 unorganized|unorganised=JJ=us,ca,gb|gb,au,nz,za
 unoriginal=JJ=all
 unoriginality=NN:UN=all
@@ -104596,6 +104748,7 @@ unseizable=JJ=all
 unselect=verb=all
 unselected=JJ=all
 unselective=JJ=all
+unselectively=RB=all
 unself-centered|unself-centred=JJ=us|au,ca,gb,nz,za
 unselfconscious=JJ=all
 unselfconsciously=RB=all
@@ -104835,6 +104988,7 @@ unsureness=NN:U=all
 unsurfaced=JJ=all
 unsurmountable=JJ=all
 unsurpassable=JJ=all
+unsurpassably=RB=all
 unsurpassed=JJ=all
 unsurprised=JJ=all
 unsurprising=JJ=all
@@ -104962,6 +105116,7 @@ untranslatable=JJ=all
 untranslated=JJ=all
 untraversed=JJ=all
 untreatable=JJ=all
+untreatably=RB=all
 untreated=JJ=all
 untried=JJ=all
 untrimmed=JJ=all
@@ -105189,6 +105344,8 @@ upholstery=noun_U=all
 upkeep=noun_U=all
 upland=noun=all
 upland=upland/JJ,uplander/JJR=all
+uplevel [-ll-]|uplevel=verb=all|us
+uplevel=RB=all
 uplift=noun_U=all
 uplift=verb=all
 uplifted=JJ=all
@@ -106134,6 +106291,7 @@ victualler=noun=all
 victualling=victualling/NN:UN,victualling/NNS=all
 vicuña=noun_UN=all
 vid=noun=all
+vide=FW=all # Latin
 videlicet=RB=all
 video=JJ=all
 video=noun_UN=all
@@ -108338,6 +108496,7 @@ world-beating=JJ=all
 world-class=JJ=all
 world-renowned=JJ=all
 world-shaking=JJ=all
+world-wide=RB=all
 world=JJ=all
 world=noun_UN=all
 worldliness=NN:U=all
@@ -109134,3 +109293,7 @@ zálesíite=NN:U=all
 Łódź=NNP=all
 Şahin=NNP=all
 Štokavian=NNP=all
+β-carotene=noun=all
+β-glucanase=noun=all
+β-lactam=noun=all
+β-lactamase=noun=all
