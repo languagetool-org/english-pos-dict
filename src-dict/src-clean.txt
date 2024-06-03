@@ -45,6 +45,8 @@
 #programer=noun=us # unusual
 #programing=noun_U=us #unusual
 #ptyalize|ptyalise=verb=us,ca,gb|gb,au,nz,za # unusual obsolete
+#ree=noun=all # unusual
+#scotia=noun=all # unusual
 #shew=shew/VB,shewed/VBD,shewing/VBG,shewn/VBN,shew/VBP,shews/VBZ=au,ca,us # unusual, archaic
 #somebody'll=contraction=all
 #someone'll=contraction=all
@@ -332,6 +334,7 @@ AMPQ=NNP=all
 AMS=NNP=all
 AMU=NNP=all
 AMZN=NNP=all
+ANC=NNP=all
 ANG=NNP=all
 ANOVA=NN:U=all
 ANS=NNP=all
@@ -3219,6 +3222,7 @@ Bernadette=NNP=all
 Bernadine=NNP=all
 Bernadotte=NNP=all
 Bernalillo=NNP=all
+Bernanke=NNP=all
 Bernard=NNP=all
 Bernardino=NNP=all
 Bernardo=NNP=all
@@ -4400,6 +4404,7 @@ CDMA=NN:U=all
 CDMX=NNP=all
 CDN=noun=all
 CDO=noun_UN=all
+CDP=NNP=all
 CDU=NNP=all
 CEA=NNP=all
 CED=NNP=all
@@ -6664,6 +6669,7 @@ DPW=NNP=all
 DPhil=NNP=all
 DRA=NNP=all
 DRAM=DRAM/NNP,DRAMs/NNPS=all
+DRC=NNP=all
 DS=NNP=all
 DSAT=NN:U=all
 DSC=NNP=all
@@ -8376,6 +8382,7 @@ Estienne=NNP=all
 Estonia=NNP=all
 Estonian=Estonian/NN:U,Estonian/NNP,Estonians/NNPS=all
 Estonian=JJ=all
+Estrada=NNP=all
 Estrella=NNP=all
 Estremadura=NNP=all
 Estévez=NNP=all
@@ -9379,6 +9386,7 @@ Fugger=NNP=all
 Fuji=NNP=all
 Fujian=NNP=all
 Fujiko=NNP=all
+Fujimori=NNP=gb
 Fujio=NNP=all
 Fujitsu=NNP=all
 Fujiwara=NNP=all
@@ -9485,6 +9493,7 @@ GTS=NNP=all
 GTX=NNP=all
 GUI=GUI/NN,GUI/NNP,GUIs/NNS=all
 GUID=noun=all
+GUL=NNP=all
 GVSU=NNP=all
 GW=NNP=all
 Ga=Ga/NN:U,Ga/NNP=all
@@ -11708,6 +11717,7 @@ Horwood=NNP=all
 Hos=NNP=all
 Hose=NNP=all
 Hosea=NNP=all
+Hosni=NNP=all
 Hosoda=NNP=all
 Hospitalet=NNP=all
 Hossain=NNP=all
@@ -12847,6 +12857,7 @@ Jhang=NNP=all
 Jhansi=NNP=all
 Jharkhand=NNP=all
 Jhelum=NNP=all
+Ji=NNP=all
 Jianfeng=NNP=all
 Jiang=NNP=all
 Jiangling=NNP=all
@@ -14146,6 +14157,7 @@ LIDAR=NNP=all
 LIFO=NNP=all
 LISP=NNP=all
 LLB=NNP=all
+LLC=noun=all
 LLD=NNP=all
 LLVM=NN:U=all
 LMAO=UH=all
@@ -15439,6 +15451,7 @@ MNA=NNP=all
 MNC=MNC/NN,MNC/NNP,MNCs/NNS=all
 MNE=NNP=all
 MNS=NNP=all
+MOH=NNP=all
 MOI=NNP=all
 MP3=noun=all
 MP4=noun=all
@@ -16619,6 +16632,7 @@ McSwain=NNP=all
 McTell=NNP=all
 McTiernan=NNP=all
 McVay=NNP=all
+McVeigh=NNP=all
 McVicker=NNP=all
 McWherter=NNP=all
 McWhirter=NNP=all
@@ -16671,6 +16685,7 @@ Medusa=NNP=all
 Medvedev=NNP=all
 Medway=NNP=all
 Medwin=NNP=all
+Mee=NNP=all
 Meeker=NNP=all
 Meeks=NNP=all
 Meerut=NNP=all
@@ -17777,6 +17792,7 @@ NM=NNP=all
 NMC=NNP=all
 NNE=NNP=all
 NNW=NNP=all
+NPC=NNP=all
 NPHC=NNP=all
 NPM=NNP=all
 NPN=JJ=all
@@ -18603,6 +18619,7 @@ Obadiah=NNP=all
 Obama=NNP=all
 Obamacare=NNP=all
 Oban=NNP=all
+Obasanjo=NNP=all
 Obelix=NNP=all
 Oberammergau=NNP=all
 Oberg=NNP=all
@@ -19117,6 +19134,7 @@ PUBG=NNP=all
 PVA=NNP=all
 PVC=NNP=all
 PVP=NNP=all
+PVS=NNP=all
 PW=NNP=all
 PWA=PWA/NN,PWA/NNP,PWAs/NNS=all
 PWF=NNP=all
@@ -20224,6 +20242,7 @@ Procrustean=JJ=all
 Procrustes=NNP=all
 Procter=NNP=all
 Procyon=NNP=all
+Prodi=NNP=all
 ProductHunt=NNP=all
 Prog=NNP=all
 Progreso=NNP=all
@@ -20561,6 +20580,7 @@ RNA=RNA/NN:U,RNA/NNP=all
 RNC=NNP=all
 RNN=RNN/NN,RNN/NNP,RNNs/NNS=all
 RNZ=NNP=all
+ROC=NNP=all
 ROI=ROI/NN,ROI/NN:U,ROIs/NNS=all
 ROK=NNP=all
 ROM=ROM/NN,ROM/NNP,ROMs/NNS=all
@@ -20999,6 +21019,7 @@ Ribeiro=NNP=all
 Ribera=NNP=all
 Rica=NNP=all
 Ricamora=NNP=all
+Rican=JJ=all # Porto Rican
 Ricardo=NNP=all
 Riccardo=NNP=all
 Riccio=NNP=all
@@ -21378,6 +21399,7 @@ Roulers=NNP=all
 Roumania=NNP=all
 Roundcube=NNP=all
 Roundhead=Roundhead/NNP,Roundheads/NNPS=all
+Roundup=NNP=all
 Rourke=NNP=all
 Rousseau=NNP=all
 Roussel=NNP=all
@@ -21558,6 +21580,7 @@ SAM=NNP=all
 SAML=NNP=all
 SAO=NNP=all
 SAP=NNP=all
+SAR=NNP=all
 SARS-CoV=NN:U=all
 SARS=NN:U=all
 SAS=NNP=all
@@ -21674,6 +21697,7 @@ SXSWi=NNP=all
 Sa=abbreviation=gb
 SaaS=NN:U=all
 Saadi=NNP=all
+Saakashvili=NNP=all
 Saalbach-Hinterglemm=NNP=all
 Saalberg=NNP=all
 Saami=NNP=all
@@ -24589,6 +24613,7 @@ Toronto=NNP=all
 Torquay=NNP=all
 Torquemada=NNP=all
 Torrance=NNP=all
+Torre=NNP=all
 Torrence=NNP=all
 Torrens=NNP=all
 Torreon=NNP=all
@@ -24950,6 +24975,7 @@ UAT=NN=all
 UAV=noun=all
 UAW=NNP=all
 UBA=NNP=all
+UBS=NNP=all
 UCAR=NNP=all
 UCAS=NNP=all
 UCASD=NNP=all
@@ -26474,6 +26500,7 @@ WordPress=NNP=all
 Wordle=NNP=all
 Wordsworth=NNP=all
 Worksop=NNP=all
+WorldCom=NNP=all
 Worldpay=NNP=all
 Worrall=NNP=all
 Worsley=NNP=all
@@ -26796,6 +26823,7 @@ Yurimaguas=NNP=all
 Yuriy=NNP=all
 Yury=NNP=all
 Yusef=NNP=all
+Yushchenko=NNP=all
 Yusuf=NNP=all
 Yuyun=NNP=all
 Yuzuki=NNP=all
@@ -40085,6 +40113,7 @@ column=noun=all
 columnar=JJ=all
 columned=JJ=all
 columnist=noun=all
+com=abbreviation=all
 coma=coma/NN,coma/NN:U,comae/NNS,comas/NNS=all
 comaker=noun=all
 comanage=verb=all
@@ -43948,6 +43977,7 @@ data=NN:UN=all
 database=noun=all
 datable=JJ=all
 datacenter|datacentre=noun=us|au,ca,gb,nz,za
+datafile=noun=all
 datary=noun=all
 dataset=noun=all
 datasphere=noun_UN=all
@@ -78083,6 +78113,7 @@ payslip=noun=all
 paywall=noun=all
 paywall=verb=all
 paywalled=JJ=all
+pct=abbreviation=all
 pea=JJ=all
 pea=pea/NN,peas/NNS,pease/NNS=all
 peace=noun_U=all
@@ -84751,6 +84782,7 @@ ragtime=noun_U=all
 ragweed=noun_U=all
 ragwort=noun_UN=all
 ragù=noun_UN=all
+rah=UH=all
 raid=noun=all
 raid=verb=all
 raider=noun=all
@@ -88082,6 +88114,7 @@ robust=robust/JJ,robuster/JJR,robustest/JJS=all
 robustiousness=NN:U=all
 robustly=RB=all
 robustness=NN:U=all
+roc=noun=all # unusual?
 rock=JJ=all
 rock=noun_UN=all
 rock=verb=all
@@ -88424,6 +88457,7 @@ roundtrip=JJ=all
 roundtrip=RB=all
 roundtrip=noun=all
 roundtripping=NN:U=all
+roundup=noun=all
 roundworm=noun=all
 rouse=verb=all
 rouser=noun=all
@@ -90606,19 +90640,27 @@ semi=noun=all
 semianalytic=JJ=all
 semianalytical=JJ=all
 semianalytically=RB=all
+semiannual=JJ=all
 semiaquatic=JJ=all
 semiarid=JJ=all
+semiautomatic=JJ=all
+semiautomatic=noun=all
 semiautomatically=RB=all
 semiautonomous=JJ=all
+semiautonomy=NN:U=all
 semibreve=noun=all
+semicentennial=JJ=all
+semicentennial=noun=all
 semichemical=JJ=all
 semicircle=noun=all
 semicircular=JJ=all
+semicivilized=JJ=all
 semiclassical=JJ=all
 semicolon=noun=all
 semicommercial=JJ=all
 semiconducting=JJ=all
 semiconductor=noun=all
+semiconscious=JJ=all
 semiconsciousness=NN:U=all
 semicontinuous=JJ=all
 semidarkness=NN:U=all
@@ -90626,6 +90668,7 @@ semidefiniteness=NN:U=all
 semidesert=noun=all
 semidiameter=noun=all
 semidiurnal=JJ=all
+semidivine=JJ=all
 semidocumentary=JJ=all
 semidocumentary=noun=all
 semifinal=noun=all
@@ -90635,10 +90678,17 @@ semiformal=JJ=all
 semigloss=JJ=all
 semigloss=noun=all
 semigroup=noun=all
+semiliquid=JJ=all
+semiliquid=noun=all
+semiliterate=JJ=all
+semiliterate=noun=all
 semilogarithmic=JJ=all
 semilunar=JJ=all
 semimetal=noun=all
 semimetallic=JJ=all
+semimonthly=JJ=all
+semimonthly=RB=all
+semimonthly=noun=all
 seminal=JJ=all
 seminally=RB=all
 seminar=noun=all
@@ -90648,6 +90698,7 @@ seminary=JJ=all
 seminary=noun=all
 seminude=JJ=all
 seminudity=noun_UN=all
+semiofficial=JJ=all
 semiologist=noun=all
 semiology=noun_UN=all
 semiosization|semiosisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -90655,26 +90706,39 @@ semiotic=JJ=all
 semiotician=noun=all
 semiotics=NN:U=all
 semiperimeter=noun=all
+semipermanent=JJ=all
+semipermeability=noun_UN=all
 semipermeable=JJ=all
+semipolitical=JJ=all
 semiprecious=JJ=all
 semiprivate=JJ=all
+semiprofessional=JJ=all
+semiprofessional=noun=all
 semipublic=JJ=all
 semiquaver=noun=all
 semiregular=JJ=all
+semireligious=JJ=all
+semiretired=JJ=all
 semirigorous=JJ=all
 semirigorously=RB=all
 semirigorousness=NN:U=all
 semis=noun=all
+semiskilled=JJ=all
+semisoft=JJ=all
+semisolid=JJ=all
+semisolid=NN=all
 semisubmersible=JJ=all
 semisubmersible=noun=all
 semisweet=JJ=all
 semisynthetic=JJ=all
 semitone=noun=all
+semitrailer=noun=all
 semitransparent=JJ=all
 semitropical=JJ=all
 semivowel=noun=all
 semiweekly=JJ=all
 semiweekly=noun=all
+semiyearly=RB=all # uncommon
 semolina=noun_U=all
 sempiternal=JJ=all
 sempiternally=RB=all
@@ -101430,6 +101494,7 @@ tunelessly=RB=all
 tunelessness=NN:U=all
 tuner=noun=all
 tunesmith=noun=all
+tung=noun=all # obsolete?, tung tree
 tungstate=noun_U=all
 tungsten=noun_U=all
 tunic=noun=all
