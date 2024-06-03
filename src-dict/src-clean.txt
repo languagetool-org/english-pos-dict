@@ -1,10 +1,13 @@
 
+!=punctuation=all
 "=''=all
 "=``=all
+#,=punctuation=all # FIXME?
 #=#=all
 #Americaness=NN:U=all #unusual
 #Archaeozoic=JJ=all #unusual
 #Las=NNP=all # Spanish names, musical note
+#Suu=NNP=all # ??
 #aggroup=verb=all # archaic
 #an't=contraction=all # misspelling?
 #anotherArtificialTestWordForLanguageTool=UNTAGGED=all
@@ -13,6 +16,7 @@
 #ceteris=RB=all #ceteris paribus
 #crystalize=verb= #unusual
 #diagram=verb=all # unusual diagramed
+#editress=noun=all #dated
 #ess=noun=all # unusual?
 #fiord=noun=all #unusual
 #forebear [forebears;forebore;foreborne;forebearing]=verb=all # obsolete
@@ -41,9 +45,17 @@
 #shew=shew/VB,shewed/VBD,shewing/VBG,shewn/VBN,shew/VBP,shews/VBZ=au,ca,us # unusual, archaic
 #somebody'll=contraction=all
 #someone'll=contraction=all
+#wen=noun=us # unusual?
 $=$=all
 &=CC=all
+'=punctuation=all
+'gainst=contraction=all
+'mongst=contraction=all
+'neath=contraction=all
+'s=POS=all
 'twixt=IN=all # unusual
+(=punctuation=gb
+)=punctuation=gb
 0-year-old=noun=all
 1-month-old=noun=all
 1-year-old=noun=all
@@ -274,6 +286,7 @@ AFD=NNP=all
 AFDA=NNP=all
 AFL=NNP=all
 AFM=NNP=all
+AFP=NNP=all
 AFS=NNP=all
 AFT=NNP=all
 AG=noun=all
@@ -284,6 +297,7 @@ AGS=NNP=all
 AHA=NNP=all
 AHE=NNP=all
 AHIMA=NNP=all
+AHL=NNP=all
 AHQ=NNP=all
 AI-based=JJ=all
 AI=AI/NNP,AIs/NNPS=all
@@ -330,6 +344,7 @@ AOU=NNP=all
 AP=AP/NN,AP/NN:U,AP/NNP,APs/NNS=all
 APAC=NNP=all
 APC=NNP=all
+APEC=NNP=all
 APFA=NNP=all
 APFC=NNP=all
 APFS=NNP=all
@@ -434,6 +449,7 @@ Abbottabad=NNP=all
 Abby=NNP=all
 Abdallah=NNP=all
 Abdel-Rahman=NNP=all
+Abdel=NNP=all
 Abdelaziz=NNP=all
 Abdelhakim=NNP=all
 Abdelhalim=NNP=all
@@ -786,10 +802,12 @@ Ahaz=NNP=all
 Ahaziah=NNP=all
 Ahern=NNP=all
 Ahithophel=NNP=all
+Ahl=NNP=all
 Ahlen=NNP=all
 Ahmad=NNP=all
 Ahmadabad=NNP=all
 Ahmadi=NNP=all
+Ahmadinejad=NNP=all
 Ahmaud=NNP=all
 Ahmed=NNP=all
 Ahmedabad=NNP=all
@@ -1530,6 +1548,7 @@ Annalisa=NNP=all
 Annalise=NNP=all
 Annam=NNP=all
 Annamaria=NNP=all
+Annan=NNP=all
 Annandale=NNP=all
 Annapolis=NNP=all
 Annapurna=NNP=all
@@ -2677,6 +2696,7 @@ Barabbas=NNP=all
 Baraboo=NNP=all
 Barack=NNP=all
 Barajas=NNP=all
+Barak=NNP=all
 Barbadian=Barbadian/NNP,Barbadians/NNPS=all
 Barbadian=JJ=all
 Barbados=NNP=all
@@ -4107,6 +4127,7 @@ Brythonic=NNP=all
 Brzezinski=NNP=all
 Brønsted=NNP=all
 Brāhmaṇa=NNP=all
+Bt=abbreviation=all
 Btu=NNP=all
 Bubb=NNP=all
 Bubba=Bubba/NNP,Bubbas/NNPS=all
@@ -4152,6 +4173,7 @@ Bueller=NNP=all
 Buena=NNP=all
 Buenaventura=NNP=all
 Buenavista=NNP=all
+Buenos=NNP=all # part of Buenos Aires
 Buffalo=NNP=all
 Buffon=NNP=all
 Buffy=NNP=all
@@ -4454,6 +4476,7 @@ COSPAR=NNP=all
 COVID=NN:U=all
 CP=NNP=all
 CPA=NNP=all
+CPC=NNP=all
 CPD=CPD/NN:UN,CPD/NNP=all
 CPI=NNP=all
 CPM=noun=all
@@ -5318,6 +5341,7 @@ Cheboygan=NNP=all
 Chechen=Chechen/NN:U,Chechen/NNP,Chechens/NNPS=all
 Chechen=JJ=all
 Checheno-Ingush=JJ=all
+Chechnya=NNP=all
 Cheddar=Cheddar/NNP,Cheddars/NNPS=all
 Chee=NNP=all
 Cheektowaga=NNP=all
@@ -6631,6 +6655,7 @@ DPA=NNP=all
 DPC=NNP=all
 DPH=NNP=all
 DPN=NNP=all
+DPRK=NNP=all
 DPS=NNP=all
 DPW=NNP=all
 DPhil=NNP=all
@@ -7490,6 +7515,7 @@ Drysdale=NNP=all
 Drägerwerk=NNP=all
 Drôme=NNP=all
 Ds=symbol=all
+Du=NNP=all # part of multiwords?
 DuBois=NNP=all
 DuBose=NNP=all
 DuMont=NNP=all
@@ -7665,6 +7691,7 @@ EBITDA=NN:U=all
 EBSCO=NNP=all
 EBSCOhost=NNP=all
 ECA=NNP=all
+ECB=NNP=all
 ECC=NNP=all
 ECDC=NNP=all
 ECG=NNP=all
@@ -7913,6 +7940,7 @@ Ehrenreich=NNP=all
 Ehrlich=NNP=all
 Ehrlinger=NNP=all
 Ehrman=NNP=all
+Ehud=NNP=all
 Eichengrün=NNP=all
 Eichmann=NNP=all
 Eifel=NNP=all
@@ -8489,6 +8517,7 @@ Evernote=NNP=all
 Evers=NNP=all
 Everson=NNP=all
 Evert=NNP=all
+Everton=NNP=all
 Everyman=NNP=all
 Evesham=NNP=all
 Evette=NNP=all
@@ -9928,6 +9957,7 @@ Giménez=NNP=all
 Gina=NNP=all
 Ginette=NNP=all
 Ginger=NNP=all
+Gingrich=NNP=au,ca,us
 Ginnie=NNP=all
 Ginny=NNP=all
 Gino=NNP=all
@@ -10308,6 +10338,7 @@ Greenock=NNP=all
 Greenpeace=NNP=all
 Greensboro=NNP=all
 Greensburg=NNP=all
+Greenspan=NNP=all
 Greenville=NNP=all
 Greenwald=NNP=all
 Greenway=NNP=all
@@ -10599,6 +10630,7 @@ HIPAA-certified=JJ=all
 HIPAA-compliant=JJ=all
 HIPAA=NN=all
 HIV=HIV/NN:U,HIV/NNP=all
+HK=abbreviation=all
 HLS=NNP=all
 HLSS=NNP=all
 HMH=NNP=all
@@ -11722,6 +11754,7 @@ Hsining=NNP=all
 Hsinking=NNP=all
 Hsu=NNP=all
 Hts=NNP=all
+Hu=NNP=all
 Huambo=NNP=all
 Huancavelica=NNP=all
 Huancayo=NNP=all
@@ -11953,6 +11986,7 @@ IJssel=NNP=all
 IJsselmeer=NNP=all
 IJsselstein=NNP=all
 IKEA=NNP=all
+IL=abbreviation=all
 ILO=NNP=all
 ILP=NNP=all
 ILS=NNP=all
@@ -11970,6 +12004,7 @@ INDEF=NNP=all
 INH=NNP=all
 INRI=NNP=all
 INSP=NNP=all
+IOC=NNP=all
 IOF=NNP=all
 ION=NNP=all
 IOU=IOU/NN,IOU/NNP,IOUs/NNS=all
@@ -12209,6 +12244,7 @@ Intel=NNP=all
 IntelliJ=NNP=all
 Intelsat=NNP=all
 InterContinental=NNP=all
+Interfax=NNP=all
 Interlagos=NNP=all
 Interlaken=NNP=all
 Interlingua=NNP=all
@@ -13761,6 +13797,7 @@ Klymenê=NNP=all
 Knapp=NNP=all
 Knesset=Knesset/NNP,Knessets/NNPS=all
 Knickerbocker=Knickerbocker/NNP,Knickerbockers/NNPS=all
+Knicks=NNP=all
 Knighton=NNP=all
 Knobloch=NNP=all
 Knokke-Heist=NNP=all
@@ -13795,6 +13832,7 @@ Koestler=NNP=all
 Kofi=NNP=all
 Kofu=NNP=all
 Kogan=NNP=all
+Koh=NNP=all
 Koheleth=NNP=all
 Kohima=NNP=all
 Kohinoor=NNP=all
@@ -14125,6 +14163,7 @@ LT=NNP=all
 LTAC=NNP=all
 LTC=NNP=all
 LTS=NNP=all
+LTTE=NNP=all
 LTV=noun=all
 LULAC=NNP=all
 LX=NNP=all
@@ -15197,6 +15236,7 @@ Lumiere=NNP=all
 Luminal=NNP=all
 Lumley=NNP=all
 Lumpkin=NNP=all
+Lumpur=NNP=all
 Lumumba=NNP=all
 Luna=NNP=all
 Lund-MacKay=NNP=all
@@ -15628,6 +15668,7 @@ Mahagonny=NNP=all
 Mahalanobis=NNP=all
 Mahan=NNP=all
 Maharashtra=NNP=all
+Mahathir=NNP=all
 Mahayana=Mahayana/NNP,Mahayanas/NNPS=all
 Mahayanist=Mahayanist/NNP,Mahayanists/NNPS=all
 Mahdi=JJ=all
@@ -16623,6 +16664,7 @@ MedlinePlus=NNP=all
 Medrano=NNP=all
 Medtronic=NNP=all
 Medusa=NNP=all
+Medvedev=NNP=all
 Medway=NNP=all
 Medwin=NNP=all
 Meeker=NNP=all
@@ -16995,6 +17037,7 @@ Milne=NNP=all
 Milner=NNP=all
 Milo=NNP=all
 Milos=NNP=all
+Milosevic=NNP=all
 Miloš=NNP=all
 Milpitas=NNP=all
 Milquetoast=Milquetoast/NNP,Milquetoasts/NNPS=all
@@ -17573,6 +17616,7 @@ Muscovite=Muscovite/NNP,Muscovites/NNPS=all
 Muscovy=NNP=all
 Muse=NNP=all
 Musgrove=NNP=all
+Musharraf=NNP=all
 Musial=NNP=all
 Musil=NNP=all
 Muskegon=NNP=all
@@ -17711,6 +17755,7 @@ NHA=NNP=all
 NHC=NNP=all
 NHD=NNP=all
 NHK=NNP=all
+NHL=NNP=all
 NHS=NNP=all
 NI=NNP=all
 NIA=NNP=all
@@ -17741,6 +17786,7 @@ NSAID=NSAID/NNP,NSAIDs/NNPS=all
 NSC=NNP=all
 NSF=NNP=all
 NSW=NNP=all
+NT=abbreviation=all
 NTI=NNP=all
 NTP=noun=all
 NTS=NNP=all
@@ -17769,6 +17815,7 @@ Nabokov=NNP=all
 Nabonidus=NNP=all
 Nada=NNP=all
 Nadab=NNP=all
+Nadal=NNP=all
 Nadeau=NNP=all
 Nadeem=NNP=all
 Nadella=NNP=all
@@ -18205,6 +18252,7 @@ Nike=NNP=all
 Nikhil=NNP=all
 Niki=NNP=all
 Nikita=NNP=all
+Nikkei=NNP=all
 Nikki=NNP=all
 Nikko=NNP=all
 Niklas=NNP=all
@@ -18379,6 +18427,7 @@ Norwegian=Norwegian/NN:U,Norwegian/NNP,Norwegians/NNPS=all
 Norwich=NNP=all
 Norwood=NNP=all
 Nostradamus=NNP=all
+Notre=NNP=all # in multiwords
 Nottage=NNP=all
 Nottingham=NNP=all
 Nottinghamshire=NNP=all
@@ -19021,7 +19070,9 @@ PID=PID/NN,PID/NNP,PIDs/NNS=all
 PIE=NNP=all
 PIO=NNP=all
 PKG=PKG/NNP,PKGs/NNPS=all
+PKK=NNP=all
 PLC=PLC/NN,PLC/NNP,PLCs/NNPS,PLCs/NNS=all
+PLO=NNP=all
 PLOA=NNP=all
 PLTW=NNP=all
 PM=PM/NN,PM/NNP,PMs/NNPS,PMs/NNS=all
@@ -19135,6 +19186,7 @@ Palestrina=NNP=all
 Paley=NNP=all
 Palgrave=NNP=all
 Pali=Pali/NN:U,Pali/NNP=all
+Palin=NNP=all
 Palisa=NNP=all
 Palisades=NNP=all
 Palladian=JJ=all
@@ -20153,6 +20205,7 @@ Pritchard=NNP=all
 Pritchett=NNP=all
 Pritzker=NNP=all
 Prius=NNP=all
+Prix=NNP=all # part of multiwords?
 Priya=NNP=all
 Priyanka=NNP=all
 Priština=NNP=all
@@ -20356,6 +20409,7 @@ QM=NNP=all
 QNP=NNP=all
 QWERTY=JJ=all
 Qaddafi=NNP=all
+Qaeda=NNP=all # in al-Qaeda?
 Qassem=NNP=all
 Qatar=NNP=all
 Qatari=Qatari/NNP,Qataris/NNPS=all
@@ -20615,6 +20669,7 @@ Rama=NNP=all
 Ramachandra=NNP=all
 Ramadan=Ramadan/NNP,Ramadans/NNPS=all
 Ramakrishna=NNP=all
+Ramallah=NNP=all
 Ramamurthy=NNP=all
 Ramanujan=NNP=all
 Ramaphosa=NNP=all
@@ -21106,11 +21161,13 @@ Rocky=NNP=all
 Rod=NNP=all
 Rodd=NNP=all
 Roddenberry=NNP=all
+Roddick=NNP=all
 Rodentia=NNP=all
 Roderick=NNP=all
 Roderigo=NNP=all
 Rodger=NNP=all
 Rodgers=NNP=all
+Rodham=NNP=all
 Rodin=NNP=all
 Rodman=NNP=all
 Rodney=NNP=all
@@ -21491,9 +21548,11 @@ SAA=NNP=all
 SABIS=NNP=all
 SAD=noun_UN=all
 SAE=NNP=all
+SAH=NNP=all
 SALT=NNP=all
 SAM=NNP=all
 SAML=NNP=all
+SAO=NNP=all
 SAP=NNP=all
 SARS-CoV=NN:U=all
 SARS=NN:U=all
@@ -21608,6 +21667,7 @@ SW=NNP=all
 SWAK=NNP=all
 SWIFT=NNP=all
 SXSWi=NNP=all
+Sa=abbreviation=gb
 SaaS=NN:U=all
 Saadi=NNP=all
 Saalbach-Hinterglemm=NNP=all
@@ -21809,6 +21869,7 @@ Samothrace=NNP=all
 Samoyed=Samoyed/NNP,Samoyeds/NNPS=all
 Samoyedic=JJ=all
 Samoyedic=NNP=all
+Sampras=NNP=all
 Sampson=NNP=all
 Samson=NNP=all
 Samsonite=NNP=all
@@ -21922,6 +21983,7 @@ Sardis=NNP=all
 Sardou=NNP=all
 Sargodha=NNP=all
 Sark=NNP=all
+Sarkozy=NNP=all
 Sarmatia=JJ=all
 Sarmatia=NNP=all
 Sarmatian=JJ=all
@@ -22515,6 +22577,7 @@ Sheng=NNP=all
 Shensi=NNP=all
 Shenstone=NNP=all
 Shenyang=NNP=all
+Shenzhen=NNP=all
 Sheol=NNP=all
 Shepard=NNP=all
 Shepherd=NNP=all
@@ -22757,6 +22820,7 @@ Sinhalese=Sinhalese/NN:U,Sinhalese/NNP=all
 Sinicization|Sinicisation=noun_UN=us,ca,gb|gb,au,nz,za
 Sining=NNP=all
 Sinkiang=NNP=all
+Sinn=NNP=all
 Sinnott-Armstrong=NNP=all
 Sino-Japanese=JJ=all
 Sino-Tibetan=JJ=all
@@ -23003,6 +23067,7 @@ Sonoran=Sonoran/NNP,Sonorans/NNPS=all
 Sonos=NNP=all
 Sonoyta=NNP=all
 Sontag=NNP=all
+Sony=NNP=all
 Sonya=NNP=all
 Soochow=NNP=all
 Soong=NNP=all
@@ -24946,6 +25011,7 @@ USAID=NNP=all
 USASF=NNP=all
 USAian=JJ=all
 USAian=NNP=all
+USC=NNP=all
 USCIS=NNP=all
 USDA=NNP=all
 USDT=NNP=all
@@ -25705,6 +25771,7 @@ WSCR=NNP=all
 WSFS=NNP=all
 WSL=NNP=all
 WSW=NNP=all
+WTA=NNP=all
 WTO=NNP=all
 WVPX-TV=NNP=all
 WW=NNP=all
@@ -26005,6 +26072,7 @@ Weltschmerz=Weltschmerz/NNP,Weltschmerzes/NNPS=all
 Welty=NNP=all
 Wembley=NNP=all
 Wemyss=NNP=all
+Wen=NNP=all
 Wenatchee=NNP=all
 Wenceslaus=NNP=all
 Wend=Wend/NNP,Wends/NNPS=all
@@ -26591,6 +26659,7 @@ Yaseen=NNP=all
 Yasmin=NNP=all
 Yasmina=NNP=all
 Yasmine=NNP=all
+Yasser=NNP=all
 Yassine=NNP=all
 Yasumoto=NNP=all
 Yat-sen=NNP=all
@@ -30271,6 +30340,7 @@ apologetically=RB=all
 apologetics=NN:U=all
 apologia=apologia/NN,apologiae/NNS,apologias/NNS=all
 apologist=noun=all
+apologizer|apologiser=noun=us,ca,gb|gb,au,nz,za
 apologize|apologise=verb=us,ca,gb|gb,au,nz,za
 apologue=noun=all
 apology=noun_UN=all
@@ -47629,6 +47699,7 @@ doziness=NN:U=all
 dozing=noun_UN=all
 dozy=dozy/JJ,dozier/JJR,doziest/JJS=all
 dpi=abbreviation=all
+dr=abbreviation=all
 drab=drab/JJ,drabber/JJR,drabbest/JJS=all
 drab=noun=all
 drab=verb=all
@@ -48541,6 +48612,7 @@ ecumenism=noun_U=all
 ecumenist=noun=all
 eczema=noun_U=all
 eczematous=JJ=all
+ed=abbreviation=all
 edacious=JJ=all
 edacity=noun=all
 edaphic=JJ=all
@@ -48577,10 +48649,12 @@ edifying=JJ=all
 edifyingness=NN:U=all
 edit=noun=all
 edit=verb=all
+editability=NN:UN=all
 editable=JJ=all
 edited=JJ=all
 editing=NN:UN=all
 edition=noun=all
+editor-at-large [pl. editors-at-large]=noun=all
 editor-in-chief=editor-in-chief/NN,editors-in-chief/NNS=all
 editor=noun=all
 editorial=JJ=all
@@ -48591,6 +48665,7 @@ editorializer|editorialiser=noun=us,ca,gb|gb,au,nz,za
 editorialize|editorialise=verb=us,ca,gb|gb,au,nz,za
 editorially=RB=all
 editorship=noun_U=all
+eds=abbreviation=all
 edtech=NN:U=all
 educ=NN=all
 educability=noun_U=all
@@ -51617,6 +51692,7 @@ factitious=JJ=all
 factitiously=RB=all
 factitiousness=NN:U=all
 factitive=JJ=all
+facto=FW=all # de facto
 factoid=noun=all
 factor=noun=all
 factor=verb=all
@@ -57626,6 +57702,7 @@ halfness=NN:U=all
 halfpence=noun=all
 halfpenny=halfpenny/NN,halfpence/NNS,halfpennies/NNS=all
 halfpennyworth=noun=all
+halftime=noun_U=au,ca,us
 halftone=JJ=all
 halftone=noun=all
 halfway=JJ=all
@@ -57751,6 +57828,7 @@ handcuff=noun=all
 handcuff=verb=all
 handed=JJ=all
 handedness=NN:U=all
+hander=noun=gb,nz,za
 handful=handful/NN,handfuls/NNS,handsful/NNS=all
 handgrip=noun=all
 handgun=noun=all
@@ -57933,6 +58011,8 @@ hardheartedness=NN:U=all
 hardihood=noun_U=all
 hardily=RB=all
 hardiness=NN:U=all
+hardline=hardline/JJ,hardliner/JJR=all
+hardline=noun=all
 hardliner=noun=all
 hardly=RB=all
 hardness=NN:U=all
@@ -64691,6 +64771,7 @@ jolter=noun=all
 joltiness=NN:U=all
 jolting=JJ=all
 jolty=jolty/JJ,joltier/JJR,joltiest/JJS=all
+jong=noun=all
 jongleur=noun=all
 jonquil=noun=all
 jorum=noun_UN=all
@@ -64902,6 +64983,7 @@ juvenility=noun_UN=all
 juxtapose=verb=all
 juxtaposition=noun_UN=all
 jökulhlaup=noun=all
+k=abbreviation=all
 kHz=kHz/NN,kHz/NNS=all
 kJ=kJ/NN,kJ/NNS=all
 kV=kV/NN,kV/NNS=all
@@ -65554,10 +65636,9 @@ laboristic|labouristic=JJ=us|gb,ca,au,nz,za
 laborist|labourist=noun=us|gb,ca,au,nz,za
 laborite|labourite=noun=us|gb,ca,au,nz,za
 laborless|labourless=JJ=us|gb,ca,au,nz,za
+laborsaving|laboursaving=JJ=us|gb,ca,au,nz,za
 labor|labour=noun_UN=us|gb,ca,au,nz,za
 labor|labour=verb=us|gb,ca,au,nz,za
-laborsaving|laboursaving=JJ=us|gb,ca,au,nz,za
-labor-saving|labour-saving=JJ=us|gb,ca,au,nz,za
 labradorite=noun=all
 labret=noun=all
 labriform=JJ=all
@@ -65680,6 +65761,7 @@ laggy=JJ=all
 lagomorph=noun=all
 lagoon=noun=all
 lagoonal=JJ=all
+lah=noun=gb
 laic=JJ=all
 laic=noun=all
 laical=noun=all
@@ -66913,6 +66995,7 @@ liner=noun=all
 linerboard=noun=all
 linerless=JJ=all
 linesman=linesman/NN,linesmen/NNS=all
+lineup=noun=au,ca,us
 ling=ling/NN:UN,ling/NNS,lings/NNS=all
 lingam=noun=all
 linger=verb=all
@@ -68136,6 +68219,7 @@ magnum=noun=all
 magpie=noun=all
 magus=magus/NN,magi/NNS=all
 mah-jongg=NN:U=all
+mah=abbreviation=all
 maharaja=noun=all
 maharajah=noun=all
 maharanee=noun=all
@@ -68929,6 +69013,7 @@ maternity=noun_U=all
 matey=matey/JJ,matier/JJR,matiest/JJS=all
 matey=noun=all
 mateyness=NN:U=all
+math=NN:U=ca,us # informal
 mathematic=noun=all
 mathematical=JJ=all
 mathematically=RB=all
@@ -68938,6 +69023,7 @@ mathematicize|mathematicise=verb=us,ca,gb|gb,au,nz,za
 mathematics=NN:U=all
 mathematization|mathematisation=noun_UN=us,ca,gb|gb,au,nz,za
 mathematize|mathematise=verb=us,ca,gb|gb,au,nz,za
+maths=NN:U=gb,nz,za,au # informal
 matinee=noun=all
 mating=noun_U=all
 matinée=noun=all
@@ -71853,6 +71939,7 @@ multi-lane=JJ=all
 multi-language=JJ=all
 multi-platform=JJ=all
 multi-port=JJ=all
+multi-specialty|multi-speciality=noun=ca,us|au,gb,nz,za
 multi-word=JJ=all
 multi-year=JJ=all
 multi=JJ=all
@@ -80923,6 +81010,8 @@ postpositive=noun=all
 postprandial=JJ=all
 postprivatization|postprivatisation=noun_UN=us,ca,gb|gb,au,nz,za
 postscript=noun=all
+postseason=JJ=au,ca,us
+postseason=noun=au,ca,us
 postsecondary=JJ=all
 postsynaptic=JJ=all
 postulant=noun=all
@@ -83368,6 +83457,7 @@ puller=noun=all
 pullet=noun=all
 pulley=noun=all
 pulling=NN:UN=all
+pullout=noun=all
 pullover=noun=all
 pullulate=verb=all
 pullulation=noun_UN=all
@@ -87579,6 +87669,7 @@ ring=noun=all
 ringed=JJ=all
 ringer=noun=all
 ringette=NN:U=all
+ringgit=noun=all
 ringing=noun_UN=all
 ringingly=RB=all
 ringingness=NN:U=all
@@ -88320,6 +88411,7 @@ runniness=NN:U=all
 running=JJ=all
 running=noun_U=all
 runny=runny/JJ,runnier/JJR,runniest/JJS=all
+runoff=noun=au,ca,us
 runt=noun=all
 runtime=JJ=all
 runtime=noun=all
@@ -89275,6 +89367,8 @@ schlep=verb=all
 schlock=noun_U=all
 schmaltzy=schmaltzy/JJ,schmaltzier/JJR,schmaltziest/JJS=all
 schmooze=verb=all
+schmoozer=noun=all # informal, mostly US
+schmuck=noun=all # informal, mostly US
 schnapps=schnapps/NN:U,schnapps/NNS,schnappses/NNS=all
 schnauzer=noun=all
 schnitzel=noun_UN=all
@@ -90342,6 +90436,8 @@ sempiternity=noun_UN=all
 sempre=RB=all
 sempstress=noun=all
 semé=JJ=all
+sen=abbreviation=all
+sen=noun=all
 senary=JJ=all
 senary=noun=all
 senate=noun_U=all
@@ -90912,6 +91008,7 @@ sharer=noun=all
 shareware=noun_U=all
 sharia=noun_U=all
 shariah=noun_U=all # less common
+sharif=noun=none
 sharing=JJ=all
 sharing=noun_UN=all
 shark=noun=all
@@ -91194,6 +91291,7 @@ shoot=UH=all
 shoot=noun=all
 shooter=noun=all
 shooting=noun_UN=all
+shootout=noun=au,ca,us
 shop=noun_UN=all
 shop=verb=all
 shopaholic=noun=all
@@ -93558,6 +93656,7 @@ specialized|specialised=JJ=us,ca,gb|gb,au,nz,za
 specialize|specialise=verb=us,ca,gb|gb,au,nz,za
 specially=RB=all
 specialness=NN:U=all
+specialty|speciality=noun=ca,us|au,gb,nz,za
 speciation=noun_UN=all
 speciational=JJ=all
 specie=NN:U=all
@@ -94312,6 +94411,7 @@ squish=verb=all
 squishiness=NN:U=all
 squishy=squishy/JJ,squishier/JJR,squishiest/JJS=all
 src=NN:U=all
+ss=symbol=all
 stab=noun=all
 stab=verb=all
 stabbed=JJ=all
@@ -94471,6 +94571,7 @@ standee=noun=all
 stander=noun=all
 standing=JJ=all
 standing=noun_U=all
+standoff=noun=au,ca,us
 standoffish=JJ=all
 standoffishness=NN:U=all
 standout=JJ=all
@@ -97928,6 +98029,7 @@ teetotalism=noun_U=all
 teetotum=noun=all
 tegument=noun=all
 tektite=noun=all
+tel=abbreviation=all
 telco=noun=all
 telecast [telecasts;telecast,telecasted;telecast,telecasted;telecasting]=verb=all
 telecast=noun=all
