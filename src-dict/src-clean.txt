@@ -50,6 +50,7 @@
 #shew=shew/VB,shewed/VBD,shewing/VBG,shewn/VBN,shew/VBP,shews/VBZ=au,ca,us # unusual, archaic
 #somebody'll=contraction=all
 #someone'll=contraction=all
+#stade=noun=all # unusual
 #wen=noun=us # unusual?
 $=$=all
 &=CC=all
@@ -311,6 +312,7 @@ AICPA=NNP=all
 AID=NNP=all
 AIDS=AIDS/NNP,AIDSes/NNPS=all
 AIESEC=NNP=all
+AIG=NNP=all
 AIWS=NNP=all
 AIX=NNP=all
 AKC=NNP=all
@@ -2779,6 +2781,7 @@ Barrie=NNP=all
 Barrington=NNP=all
 Barron=NNP=all
 Barros=NNP=all
+Barroso=NNP=all
 Barrow-in-Furness=NNP=all
 Barrow=NNP=all
 Barry=NNP=all
@@ -5400,6 +5403,7 @@ Cherkasy=NNP=all
 Chernihiv=NNP=all
 Chernivtsi=NNP=all
 Chernobyl=NNP=all
+Chernomyrdin=NNP=all
 Chernyshevsky=NNP=all
 Cherokee=Cherokee/NN:U,Cherokee/NNP,Cherokees/NNPS=all
 Cherry=NNP=all
@@ -6475,6 +6479,7 @@ Cundinamarca=NNP=all
 Cuneo=NNP=all
 Cuniculus=NNP=all
 Cunningham=NNP=all
+Cuomo=NNP=all
 Cupertino=NNP=all
 Cupid=NNP=all
 Curaçao=NNP=all
@@ -7788,6 +7793,7 @@ Earley=NNP=all
 Earlham=NNP=all
 Earlwood=NNP=all
 Early=NNP=all
+Earnhardt=NNP=all
 Earnshaw=NNP=all
 Earp=NNP=all
 Earth=NNP=all
@@ -10130,6 +10136,7 @@ Goidelic=JJ=all
 Goidelic=NNP=all
 Goiás=NNP=all
 Goiânia=NNP=all
+Golan=NNP=all
 Golang=NNP=all
 Golconda=Golconda/NNP,Golcondas/NNPS=all
 Gold=NNP=all
@@ -11584,6 +11591,7 @@ Hokusai=NNP=all
 Holarctic=JJ=all
 Holbein=NNP=all
 Holbrook=NNP=all
+Holbrooke=NNP=all
 Holcomb=NNP=all
 Holcombe=NNP=all
 Holden=NNP=all
@@ -13205,6 +13213,7 @@ Kabylia=NNP=all
 Kabylie=NNP=all
 Kacey=NNP=all
 Kacper=NNP=all
+Kaczynski=NNP=all
 Kaczyński=NNP=all
 Kadar=NNP=all
 Kaddish=Kaddish/NNP,Kaddishes/NNPS=all
@@ -14117,6 +14126,7 @@ Kāmoke=NNP=all
 Kęstutis=NNP=all
 Kırklareli=NNP=all
 Kŭrdzhali=NNP=all
+L'Oréal=NNP=all
 L-shaped=JJ=all
 L=abbreviation=all
 LA=NNP=all
@@ -15380,6 +15390,7 @@ Löw=NNP=all
 Lübeck=NNP=all
 Lünen=NNP=all
 Lōmāfānu=NNP=all
+L’Oréal=NNP=all
 M&M=M&M/NNP,M&Ms/NNPS=all
 M&T=NNP=all
 MA=NNP=all
@@ -15437,6 +15448,7 @@ MIP=NNP=all
 MIPS=MIPS/NNP,MIPSes/NNPS=all
 MIRV=NNP=all
 MIS=NNP=all
+MIT=NNP=all
 MJ=NNP=all
 MKS=NNP=all
 MLB=NNP=all
@@ -19670,6 +19682,7 @@ Petit=NNP=all
 Petoskey=NNP=all
 Petr=NNP=all
 Petra=NNP=all
+Petraeus=NNP=all
 Petrarch=NNP=all
 Petrarchan=JJ=all
 Petrarchan=NNP=all
@@ -20223,6 +20236,7 @@ Pripyat=NNP=all
 Priscian=NNP=all
 Priscilla=NNP=all
 Prishtina=NNP=all
+Pristina=NNP=all
 Pritchard=NNP=all
 Pritchett=NNP=all
 Pritzker=NNP=all
@@ -22531,6 +22545,7 @@ Shaolin=Shaolin/NNP,Shaolins/NNPS=all
 Shapiro=NNP=all
 Shapley=NNP=all
 Shaquille=NNP=all
+Sharapova=NNP=all
 SharePoint=NNP=all
 Shareef=NNP=all
 Shareeka=NNP=all
@@ -25508,6 +25523,7 @@ Viber=NNP=all
 Viborg=NNP=all
 Vic=NNP=all
 Vice=NNP=all
+Vicente=NNP=all
 Vicenza=NNP=all
 Vichy=Vichy/NNP,Vichies/NNPS=all
 Vick=NNP=all
@@ -26875,6 +26891,7 @@ Zante=NNP=all
 Zanuck=NNP=all
 Zanzibar=NNP=all
 Zapata=NNP=all
+Zapatero=NNP=all
 Zapier=NNP=all
 Zapopan=NNP=all
 Zaporizhia=NNP=all
@@ -28673,6 +28690,7 @@ aitch=noun=all
 aitchbone=noun=all
 ajar=JJ=all
 ajar=RB=all
+aka=abbreviation=all
 akaganéite=NN:U=all
 akee=noun=all
 akimbo=JJ=all
@@ -29487,8 +29505,8 @@ analogize|analogise=verb=us,ca,gb|gb,au,nz,za
 analogous=JJ=all
 analogously=RB=all
 analogousness=NN:U=all
-analogue=JJ=all
-analogue=noun=all
+analogue|analog=JJ=gb,za,nz|au,ca,us
+analogue|analog=noun=gb,za,nz|au,ca,us
 analogy=noun_UN=all
 analphabetic=JJ=all
 analphabetic=noun=all
@@ -35888,6 +35906,7 @@ buildable=JJ=all
 builder=noun=all
 building=JJ=all
 building=noun_UN=all
+buildup=noun=all
 built-in=JJ=all
 built-in=NN=all
 bukovskýite=NN:U=all
@@ -51480,6 +51499,7 @@ expressively=RB=all
 expressiveness=NN:U=all
 expressivity=noun_UN=all
 expressly=RB=all
+expressway=noun=au,ca,us,nz
 expropriate=verb=all
 expropriation=noun_UN=all
 expropriator=noun=all
@@ -54561,6 +54581,7 @@ freethinker=noun=all
 freethinking=JJ=all
 freethinking=noun_U=all
 freeware=noun_U=all
+freeway=noun=au,ca,us,za
 freewheel=noun=all
 freewheel=verb=all
 freewheeling=JJ=all
@@ -65385,6 +65406,7 @@ kicker=noun=all
 kickflip [-pp-]=verb=all
 kickflip=noun=all
 kicking=NN:UN=all
+kickoff=noun_UN=au,ca,us
 kickshaw=noun=all
 kicksorter=noun=all
 kickstand=noun=all
@@ -66901,10 +66923,10 @@ libration=noun_UN=all
 librettist=noun=all
 libretto=libretto/NN,libretti/NNS,librettos/NNS=all
 licensable=JJ=all
-license=noun_UN=all
 license=verb=all
 licensee=noun=all
 licenser=noun=all
+license|licence=noun_UN=us|au,ca,gb,nz,za
 licensor=noun=all
 licentiate=noun=all
 licentious=JJ=all
@@ -74379,7 +74401,9 @@ norming=noun=all
 normlessness=NN:U=all
 normoactive=JJ=all
 norteño=noun=all
+north-east=RB=gb,nz,za
 north-facing=JJ=all
+north-west=RB=gb,nz,za
 north=RB=all
 north=north/JJ,norther/JJR=all
 north=noun_U=all
@@ -75168,6 +75192,7 @@ off-roader=noun=all
 off-roading=NN:U=all
 off-screen=JJ=all
 off-screen=RB=all
+off-season=RB=all
 off-season=noun=all
 off-the-shelf=JJ=all
 off-the-wall=JJ=all
@@ -75235,6 +75260,7 @@ offpeak=JJ=all
 offprint=noun=all
 offscreen=JJ=all
 offscreen=RB=all
+offseason=noun=all
 offset [offsets;offset;offset;offsetting]=verb=all
 offset=noun_U=all
 offsetting=JJ=all
@@ -82348,6 +82374,7 @@ presurgical=JJ=all
 presymptomatic=JJ=all
 presynaptic=JJ=all
 pretape=verb=all
+pretax=JJ=all
 preteen=noun=all
 preteenager=noun=all
 pretell [pretells;pretold;pretold;pretelling]=verb=all
@@ -84238,6 +84265,7 @@ quarterback=noun=all
 quarterback=verb=all
 quarterdeck=noun=all
 quartered=JJ=all
+quarterfinal=noun=all
 quartering=noun_UN=all
 quarterly=JJ=all
 quarterly=RB=all
@@ -91903,6 +91931,7 @@ sideswipe=noun=all
 sideswipe=verb=all
 sidetrack=noun=all
 sidetrack=verb=all
+sidewalk=noun=all # mostly US
 sidewall=noun=all
 sideward=JJ=all
 sideward=RB=all
@@ -93759,8 +93788,10 @@ soutache=noun=all
 soutane=noun=all
 souter=noun=all
 souterrain=noun=all
+south-east=RB=gb,nz,za
 south-facing=JJ=all
 south-following=JJ=all
+south-west=RB=gb,nz,za
 south=RB=all
 south=noun_U=all
 south=south/JJ,souther/JJR=all
@@ -94066,6 +94097,7 @@ speedway=noun_UN=all
 speedwell=noun_U=all
 speedy=speedy/JJ,speedier/JJR,speediest/JJS=all
 speiss=noun=all
+speleological=JJ=all
 speleologist=noun=all
 speleology=noun_U=all
 spell [-ll-]|spell=verb=all|us
@@ -102450,6 +102482,7 @@ uncollectable=JJ=all
 uncollected=JJ=all
 uncollectible=JJ=all
 uncollectible=noun=all
+uncolonized|uncolonised=JJ=us,ca,gb|gb,au,nz,za
 uncolorable|uncolourable=JJ=us|gb,ca,au,nz,za
 uncoloredly|uncolouredly=RB=us|gb,ca,au,nz,za
 uncoloredness|uncolouredness=NN:U=us|gb,ca,au,nz,za
@@ -107656,6 +107689,7 @@ whitewash=verb=all
 whitewashed=JJ=all
 whitewasher=noun=all
 whitewashing=noun_UN=all
+whitewater=noun_U=all
 whitewood=noun=all
 whitey=noun=all
 whitey=whitey/JJ,whitier/JJR,whitiest/JJS=all
