@@ -257,6 +257,7 @@ ABI=NNP=all
 ABM=ABM/NNP,ABMs/NNPS=all
 ABSA=NNP=all
 AC=NNP=all
+ACK=noun=all
 ACL=ACL/NN,ACL/NNP,ACLs/NNS=all
 ACLU=NNP=all
 ACM=ACM/NN:UN,ACM/NNP,ACMs/NNS=all
@@ -337,6 +338,7 @@ AMS=NNP=all
 AMU=NNP=all
 AMZN=NNP=all
 ANC=NNP=all
+AND=noun=all
 ANG=NNP=all
 ANOVA=NN:U=all
 ANS=NNP=all
@@ -2413,6 +2415,7 @@ BAU=NNP=all
 BB=NNP=all
 BBA=NNP=all
 BBC=NNP=all
+BBM=verb=all
 BBQ=noun=all
 BBQ=verb=all
 BBS=BBS/NNP,BBSes/NNPS=all
@@ -2432,6 +2435,7 @@ BES=NNP=all
 BEV=noun=all
 BEW=NNP=all
 BEd=NNP=all
+BF=noun=all
 BFA=NNP=all
 BFF=noun=all
 BFS=NNP=all
@@ -2459,6 +2463,7 @@ BMS=NNP=all
 BMT=NNP=all
 BMV=NNP=all
 BMW=BMW/NNP,BMWs/NNPS=all
+BMX=NNP=all
 BMus=NNP=all
 BNS=NNP=all
 BO=NNP=all
@@ -4385,6 +4390,7 @@ CB=NNP=all
 CBC=NNP=all
 CBD=CBD/NN:UN,CBD/NNP,CBDs/NNS=all
 CBE=NNP=all
+CBF=noun=all
 CBP=NNP=all
 CBS=NNP=all
 CBSC=NNP=all
@@ -4435,6 +4441,8 @@ CFI=NNP=all
 CFIUS=NNP=all
 CFO=noun=all
 CFPB=NNP=all
+CGI=NN:U=all
+CGI=NNP=all
 CGIAR=NNP=all
 CGM=NNP=all
 CGMA=NNP=all
@@ -4460,11 +4468,13 @@ CK=CK/NN,CK/NNP,CKs/NNS=all
 CKEditor=NNP=all
 CLI=NNP=all
 CLIL=NN:U=all
+CLS=NNP=all
 CLSA=NNP=all
 CLU=NNP=all
 CLV=NN:U=all
 CMA=NNP=all
 CMG=NNP=all
+CMI=NNP=all
 CMO=noun=all
 CMOS=NN:UN=all
 CMS=noun=all
@@ -4501,6 +4511,8 @@ CPU=CPU/NN,CPU/NNP,CPUs/NNS=all
 CQ=NNP=all
 CQC=NNP=all
 CR=NNP=all
+CRISPR=noun=all
+CRISPR=verb=all
 CRO=NNP=all
 CRT=CRT/NNP,CRTs/NNPS=all
 CSA=NNP=all
@@ -5779,6 +5791,7 @@ Clemente=NNP=all
 Clementina=NNP=all
 Clementine=NNP=all
 Clements=NNP=all
+Clemson=NNP=all
 Cleo=NNP=all
 Cleobulus=NNP=all
 Cleon=NNP=all
@@ -6626,6 +6639,7 @@ DEI=NNP=all
 DES=NNP=all
 DFA=NNP=all
 DFC=NNP=all
+DFL=noun=all
 DFV=NNP=all
 DGP=NNP=all
 DH=NNP=all
@@ -22361,6 +22375,7 @@ Segal=NNP=all
 Segovia=NNP=all
 Seguin=NNP=all
 Segura=NNP=all
+Segway=noun=all
 Seidel=NNP=all
 Seifert=NNP=all
 Seine=NNP=all
@@ -31839,6 +31854,7 @@ autochthonous=JJ=all
 autochthonousness=NN:U=all
 autoclave=noun=all
 autoclave=verb=all
+autoclose=verb=all
 autocomplete=NN:UN=all
 autocomplete=verb=all
 autocompletion=NN:UN=all
@@ -31869,6 +31885,7 @@ autofit [-tt-]=verb=all
 autofluorescence=NN:U=all
 autofocus [-ss-,-s-]=verb=all
 autofocus=autofocus/NN,autofocus/NN:U,autofocuses/NNS=all
+autoformat [-tt-]=verb=all
 autogamy=autogamy/NN,autogamy/NN:U,autogamies/NNS=all
 autogenerate=verb=all
 autogenesis=autogenesis/NN,autogeneses/NNS=all
@@ -32251,6 +32268,7 @@ backhandedly=RB=all
 backhandedness=NN:U=all
 backhander=noun=all
 backhaul=NN=all
+backhaul=verb=all
 backhoe=noun=all
 backing=noun_UN=all
 backlash=backlash/NN,backlash/NN:U,backlashes/NNS=all
@@ -34009,6 +34027,7 @@ biophysics=NN:U=all
 biopic=noun=all
 bioplasm=noun=all
 biopolymer=noun=all
+bioprint=verb=all
 bioprinter=noun=all
 bioprinting=NN:U=all
 bioproduct=noun=all
@@ -34126,6 +34145,7 @@ birth=noun_UN=all
 birth=verb=all
 birthdate=noun=all
 birthday=noun=all
+birther=noun=all # us, slang
 birthing=JJ=all
 birthing=noun_UN=all
 birthmark=noun=all
@@ -34920,6 +34940,7 @@ boobird=noun=all
 booby-trap [-pp-]=verb=all
 booby=noun=all
 boodle=noun=all
+boogaloo=noun_UN=all
 boogeyman=boogeyman/NN,boogeymen/NNS=all
 boogie [boogies;boogied;boogied;boogieing,boogying]=verb=all
 boogie-woogie=NN:UN=all
@@ -36347,6 +36368,8 @@ by=IN=all
 by=RP=all
 by=by/JJ,bier/JJR=all
 by=by/NN,byes/NNS,bys/NNS=all
+bycatch=noun_UN=all
+bycatch=verb=all
 bye=JJ=all
 bye=noun=all
 bygone=JJ=all
@@ -38312,6 +38335,8 @@ chelate=JJ=all
 chelate=noun_U=all
 chelate=verb=all
 chelicera=chelicera/NN,chelicerae/NNS=all
+chem=JJ=all #informal
+chem=noun=all #informal
 chemical=JJ=all
 chemical=noun=all
 chemicalization|chemicalisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -38682,6 +38707,7 @@ chordal=JJ=all
 chordate=JJ=all
 chordate=noun=all
 chordophone=noun=all
+chordophonic=JJ=all
 chore=noun=all
 chorea=noun_U=all
 choreograph=verb=all
@@ -38772,6 +38798,7 @@ chronometrical=JJ=all
 chronometrically=RB=all
 chronometry=noun_U=all
 chronoscope=noun=all
+chronotype=noun=all
 chrysalid=JJ=all
 chrysalid=chrysalid/NN,chrysalides/NNS,chrysalids/NNS=all
 chrysalis=chrysalis/NN,chrysalides/NNS,chrysalises/NNS=all
@@ -39330,6 +39357,7 @@ clientship=noun=all
 cliff-hanging=JJ=all
 cliff=noun=all
 cliffhanger=noun=all
+cliffhanging=JJ=all
 cliffside=noun=all
 clifftop=noun=all
 climacteric=JJ=all
@@ -39602,6 +39630,7 @@ co-star [-rr-]=verb=all
 co-star=noun=all
 co-write [co-writes;co-wrote;co-written;co-writing]=verb=all
 co-writer=noun=all
+co=abbreviation=all
 coacervate=NN=all
 coacervation=noun_UN=all
 coach=coach/JJ,coacher/JJR=all
@@ -41890,6 +41919,7 @@ copyholder=noun=all
 copying=NN:UN=all
 copyist=noun=all
 copyleft=noun=all
+copypasta=noun_UN=all
 copyread [copyreads;copyread;copyread;copyreading]=verb=all
 copyreader=noun=all
 copyright=copyright/JJ,copyrighter/JJR=all
@@ -42074,6 +42104,7 @@ correspondent=JJ=all
 correspondent=noun=all
 corresponding=JJ=all
 correspondingly=RB=all
+corrido=noun=all
 corridor=noun=all
 corrie=noun=all
 corrigendum=corrigendum/NN,corrigenda/NNS=all
@@ -42265,6 +42296,7 @@ countdown=noun=all
 countenance=noun_UN=all
 countenance=verb=all
 countenancer=noun=all
+counter [counterbids;counterbid;counterbid;counterbidding]=verb=all
 counter-colored|counter-coloured=JJ=us|gb,ca,au,nz,za
 counter-strike=noun=all
 counter-stroke=noun=all
@@ -42314,6 +42346,7 @@ counterfeit=verb=all
 counterfeiter=noun=all
 counterfeitness=NN:U=all
 counterfire=noun=all
+counterfire=verb=all
 counterflow=noun=all
 counterfoil=noun=all
 counterforce=noun=all
@@ -42337,11 +42370,13 @@ countermine=noun=all
 countermine=verb=all
 countermobilization|countermobilisation=noun_UN=us,ca,gb|gb,au,nz,za
 countermove=noun=all
+countermove=verb=all
 countermovement=noun=all
 countermyth=noun=all
 counteroffensive=noun=all
 counteroffer=noun=all
 counteroffer=verb=all
+counterorder=verb=all
 counterpane=noun=all
 counterpart=noun=all
 counterparty=noun=all
@@ -42349,6 +42384,7 @@ counterpetition=noun=all
 counterpicket=verb=all
 counterplan=noun=all
 counterplay=noun=all
+counterplay=verb=all
 counterplayer=noun=all
 counterplea=noun=all
 counterplot [-tt-]=verb=all
@@ -42360,13 +42396,17 @@ counterpoise=verb=all
 counterpose=verb=all
 counterpower=noun=all
 counterpressure=noun=all
+counterpressure=verb=all
 counterproductive=JJ=all
 counterprogramming=noun_UN=all
 counterproject=noun=all
 counterproposal=noun=all
 counterprotest=noun=all
 counterpunch=noun=all
+counterpunch=verb=all
 counterpuncher=noun=all
+counterraid=verb=all
+counterrally=verb=all
 counterreaction=noun_UN=all
 counterreform=noun=all
 counterreformer=noun=all
@@ -42386,8 +42426,11 @@ counterspy=noun=all
 counterstain=verb=all
 counterstate=verb=all
 counterstatement=noun=all
+counterstep [-pp-]=verb=all
+counterstep=noun=all
 counterstrategy=noun=all
 counterstream=noun=all
+counterstrike [counterstrikes;counterstruck;counterstruck;counterstriking]=verb=all
 counterstrike=noun=all
 counterstroke=noun=all
 counterstyle=noun=all
@@ -42403,6 +42446,7 @@ counterterrorist=noun=all
 counterthreat=noun=all
 counterthrust=noun=all
 countertrade=noun=all
+countertrade=verb=all
 countertrend=noun=all
 countervail=verb=all
 countervailing=JJ=all
@@ -42798,7 +42842,7 @@ creedalism=noun_UN=all
 creedlessness=NN:U=all
 creek=noun=all
 creel=noun=all
-creep [creeps;crept;crept;creeping]=verb=all
+creep [creeps;crept,creeped;crept,creeped;creeping]=verb=all
 creep=noun=all
 creeper=noun=all
 creepily=RB=all
@@ -44233,6 +44277,7 @@ deaminated=JJ=all
 deamination=noun=all
 deaminization|deaminisation=noun_UN=us,ca,gb|gb,au,nz,za
 deaminize|deaminise=verb=us,ca,gb|gb,au,nz,za
+deamplify=verb=all
 dean=noun=all
 deanery=noun=all
 deanonymization|deanonymisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -44550,6 +44595,7 @@ decompress=verb=all
 decompressing=NN:UN=all
 decompression=noun_U=all
 decompressive=JJ=all
+decondition=verb=all
 decongest=verb=all
 decongestant=JJ=all
 decongestant=noun=all
@@ -44587,6 +44633,7 @@ decortication=noun_UN=all
 decorum=noun_U=all
 decoupage=noun=all
 decoupage=verb=all
+decouple=verb=all
 decoupling=NN=all
 decoy=noun=all
 decoy=verb=all
@@ -44852,6 +44899,7 @@ degenerately=RB=all
 degenerateness=NN:U=all
 degeneration=noun_U=all
 degenerative=JJ=all
+deglaciate=verb=all
 deglaciation=noun_UN=all
 deglamorization|deglamorisation=noun_UN=us,ca,gb|gb,au,nz,za
 deglamorize|deglamorise=verb=us,ca,gb|gb,au,nz,za
@@ -45076,6 +45124,9 @@ demented=JJ=all
 dementedly=RB=all
 dementedness=NN:U=all
 dementia=noun_U=all
+demerge=verb=all
+demerger=noun=all
+demerger=verb=all
 demerit=noun=all
 demesne=noun_UN=all
 demigod=noun=all
@@ -45164,7 +45215,9 @@ demos=noun=all
 demote=verb=all
 demotic=JJ=all
 demotion=noun_UN=all
+demotivate=verb=all
 demotivation=NN:U=all
+demount=verb=all
 demountable=JJ=all
 demulcent=JJ=all
 demulcent=noun=all
@@ -45179,6 +45232,7 @@ demurral=noun=all
 demurrer=noun=all
 demutualization|demutualisation=noun_UN=us,ca,gb|gb,au,nz,za
 demutualize|demutualise=verb=us,ca,gb|gb,au,nz,za
+demyelinate=verb=all
 demyelination=noun_U=all
 demystification=noun_U=all
 demystify=verb=all
@@ -45412,6 +45466,7 @@ deputization|deputisation=noun_UN=us,ca,gb|gb,au,nz,za
 deputize|deputise=verb=us,ca,gb|gb,au,nz,za
 deputy=JJ=all
 deputy=noun=all
+dequeue [dequeues;dequeued;dequeued;dequeueing,dequeuing]=verb=all
 der=abbreviation=all
 deracialize|deracialise=verb=us,ca,gb|gb,au,nz,za
 deracinate=verb=all
@@ -46061,6 +46116,7 @@ diazotize|diazotise=verb=us,ca,gb|gb,au,nz,za
 dibasic=JJ=all
 dibble=noun=all
 dibble=verb=all
+dibs=NN:U=all #informal
 dice=noun=all
 dice=verb=all
 dicer=noun=all
@@ -46252,6 +46308,7 @@ dihybrid=noun=all
 dihydric=JJ=all
 dihydrotestosterone=noun_UN=all
 dike=noun=all
+dike=verb=us
 diktat=noun=all
 dilapidate=verb=all
 dilapidated=JJ=all
@@ -47010,6 +47067,7 @@ disposedness=NN:U=all
 disposer=noun=all
 disposing=noun_UN=all
 disposition=noun_UN=all
+disposition=verb=all
 dispositional=JJ=all
 dispositioned=JJ=all
 dispositive=JJ=all
@@ -47331,6 +47389,7 @@ diverticulum=diverticulum/NN,diverticula/NNS=all
 divertimento=noun=all
 diverting=JJ=all
 divertissement=noun=all
+divertor=noun=all
 divest=verb=all
 divestiture=divestiture/NN,divestiture/NN:U,divestitures/NNS=all
 divestment=noun_U=all
@@ -49695,7 +49754,7 @@ enclosure=noun_UN=all
 encode=verb=all
 encoder=noun=all
 encoding=noun_UN=all
-encomienda=NN=all
+encomienda=noun_UN=all
 encomium=encomium/NN,encomia/NNS,encomiums/NNS=all
 encompass=verb=all
 encompassing=JJ=all
@@ -54712,6 +54771,7 @@ freight=verb=all
 freightage=noun=all
 freighter=noun=all
 frenchification=noun_UN=all
+frenchify=verb=all
 frenemy=noun=all
 frenetic=JJ=all
 frenetically=RB=all
@@ -76672,6 +76732,7 @@ overblown=JJ=all
 overboard=RB=all
 overbold=JJ=all
 overbook=verb=all
+overbreed [overbreeds;overbred;overbred;overbreeding]=verb=all
 overbrutalization|overbrutalisation=noun_UN=us,ca,gb|gb,au,nz,za
 overbuild [overbuilds;overbuilt;overbuilt;overbuilding]=verb=all
 overburden=noun=all
@@ -76818,6 +76879,7 @@ overfond=JJ=all
 overfondness=NN:U=all
 overforwardness=NN:U=all
 overfrequency=NN=all
+overfry=verb=all
 overfull=JJ=all
 overfund=verb=all
 overgarment=noun=all
@@ -77038,6 +77100,8 @@ oversized=JJ=all
 oversizing=NN:U=all
 overskirt=noun=all
 oversleep [oversleeps;overslept;overslept;oversleeping]=verb=all
+overslide=verb=all
+overslip [-pp-]=verb=all
 oversolicitous=JJ=all
 oversoul=noun=all
 overspecialization|overspecialisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -77050,6 +77114,7 @@ overspill [overspills;overspilled,overspilt;overspilled,overspilt;overspilling]=
 overspill=noun=all
 overspread [overspreads;overspread;overspread;overspreading]=verb=all
 oversqueamishness=NN:U=all
+overstaff=verb=all
 overstate=verb=all
 overstated=JJ=all
 overstatement=noun_UN=all
@@ -77071,6 +77136,8 @@ overstretch=noun=all
 overstretch=verb=all
 overstretched=JJ=all
 overstrict=JJ=all
+overstrike [overstrikes;overstruck;overstricken,overstruck;overstriking]=verb=all
+overstrike=noun=all
 overstrung=JJ=all
 overstuff=verb=all
 overstuffed=JJ=all
@@ -79657,6 +79724,7 @@ photo=noun=all
 photo=verb=all
 photoabsorption=NN:U=all
 photoactivatable=JJ=all
+photoactivate=verb=all
 photoactive=JJ=all
 photoactivity=noun_UN=all
 photoanode=noun=all
@@ -81532,6 +81600,7 @@ postpartum=JJ=all
 postpone=verb=all
 postponement=noun_UN=all
 postponer=noun=all
+postpose=verb=all
 postposition=noun_UN=all
 postpositional=JJ=all
 postpositive=JJ=all
@@ -82380,6 +82449,7 @@ prenatally=RB=all
 prenegotiate=verb=all
 prenegotiation=noun_UN=all
 prenotification=noun_UN=all
+prenotify=verb=all
 prentice=noun=all
 prentice=verb=all
 prenuptial=JJ=all
@@ -82472,6 +82542,8 @@ prequalify=verb=all
 prequel=noun=all
 prerandomization|prerandomisation=noun_UN=us,ca,gb|gb,au,nz,za
 prerandomize|prerandomise=verb=us,ca,gb|gb,au,nz,za
+preread=noun=all
+preread=verb=all
 prerealization|prerealisation=noun_UN=us,ca,gb|gb,au,nz,za
 prerecord=verb=all
 prerecorded=JJ=all
@@ -82725,11 +82797,14 @@ previse=verb=all
 prevision=noun_UN=all
 previsualize|previsualise=verb=us,ca,gb|gb,au,nz,za
 prewar=JJ=all
+prewash=noun=all
+prewash=verb=all
 prewired=JJ=all
 prewireless=JJ=all
 prework=JJ=all
 prework=noun_UN=all
 preworkout=RB=all
+prewrap [-pp-]=verb=all
 prewriting=noun=all
 prey=noun_U=all
 prey=verb=all
@@ -85641,6 +85716,7 @@ reattainment=NN=all
 reattempt=noun=all
 reattempt=verb=all
 reattend=verb=all
+reauthenticate=verb=all
 reauthentication=NN:UN=all
 reauthorization|reauthorisation=noun_UN=us,ca,gb|gb,au,nz,za
 reauthorize|reauthorise=verb=us,ca,gb|gb,au,nz,za
@@ -85764,6 +85840,7 @@ receptiveness=NN:U=all
 receptivity=noun_U=all
 receptor=noun=all
 recertification=noun_UN=all
+recertify=verb=all
 recess=noun_UN=all
 recess=verb=all
 recessed=JJ=all
@@ -85877,6 +85954,7 @@ recommitment=noun=all
 recompense=noun_UN=all
 recompense=verb=all
 recompilation=noun_UN=all
+recompile=verb=all
 recompose=verb=all
 recomposition=noun_UN=all
 recompound=verb=all
@@ -86127,6 +86205,7 @@ rediscover=verb=all
 rediscovery=noun_U=all
 redispatch=verb=all
 redissolve=verb=all
+redistill=verb=all
 redistillation=noun_UN=all
 redistilling=redistilling/NN,redistilling/NNS=all
 redistributable=JJ=all
@@ -87291,6 +87370,8 @@ resale=noun=all
 resample=verb=all
 resave=verb=all
 rescale=verb=all
+rescan [-nn-]=verb=all
+rescan=noun=all
 reschedule=verb=all
 rescind=verb=all
 rescinding=NN:UN=all
@@ -96676,6 +96757,8 @@ subrogation=noun_UN=all
 subround=JJ=all
 subroutine=noun=all
 subrule=noun=all
+subsample=noun=all
+subsample=verb=all
 subscale=noun=all
 subscapular=JJ=all
 subscapular=noun=all
@@ -96781,6 +96864,7 @@ subsumption=noun_UN=all
 subsurface=JJ=all
 subsurface=noun_U=all
 subsystem=noun=all
+subtag=noun=all
 subtangent=noun=all
 subtask=noun=all
 subteam=noun=all
@@ -96822,6 +96906,7 @@ subtrochanteric=JJ=all
 subtropic=JJ=all
 subtropic=noun=all
 subtropical=JJ=all
+subtweet=noun=all
 subtype=noun=all
 subunit=noun=all
 suburb=noun=all
@@ -97290,6 +97375,7 @@ supernumerary=noun=all
 superorder=noun=all
 superordinate=JJ=all
 superordinate=noun=all
+superordinate=verb=all
 superorganic=JJ=all
 superorganization|superorganisation=noun_UN=us,ca,gb|gb,au,nz,za
 superoxide=noun_U=all
@@ -103101,7 +103187,7 @@ underbodice=NN=all
 underbody=noun=all
 underbred=JJ=all
 underbrush=noun_U=all
-underburn=verb=all
+underburn [underburns;underburned,underburnt;underburned,underburnt;underburning]=verb=all
 undercapitalization|undercapitalisation=noun_UN=us,ca,gb|gb,au,nz,za
 undercapitalized|undercapitalised=JJ=us,ca,gb|gb,au,nz,za
 undercapitalize|undercapitalise=verb=us,ca,gb|gb,au,nz,za
@@ -103135,6 +103221,7 @@ underdeliver=verb=all
 underdeveloped=JJ=all
 underdevelopment=noun_U=all
 underdiagnose=verb=all
+underdiscussed=JJ=all
 underdog=noun=all
 underdone=JJ=all
 underdose=noun=all
@@ -103152,6 +103239,7 @@ underestimate=verb=all
 underestimation=noun_UN=all
 underexpose=verb=all
 underexposure=noun=all
+underexpress=verb=all
 underfed=JJ=all
 underfeed [underfeeds;underfed;underfed;underfeeding]=verb=all
 underfloor=JJ=all
@@ -103177,6 +103265,7 @@ undergraduate=noun=all
 underground=JJ=all
 underground=RB=all
 underground=noun_U=all
+underground=verb=all
 undergrown=JJ=all
 undergrowth=noun_U=all
 underhand=JJ=all
@@ -103187,6 +103276,7 @@ underhandedness=NN:U=all
 underheat=verb=all
 underhill=NN=all
 underhung=JJ=all
+underinflate=verb=all
 underinflated=JJ=all
 underinsurance=NN=all
 underinsured=RB=all
@@ -103209,11 +103299,16 @@ underling=noun=all
 underlining=noun_UN=all
 underlip=noun=all
 underlying=JJ=all
+underman [-nn-]=verb=all
+underman [pl. undermen]=noun=all
+undermanned=JJ=all
 undermentioned=JJ=all
 undermine=verb=all
 underminer=noun=all
 undermining=JJ=all
 undermining=noun_UN=all
+undermodified=JJ=all
+undermodify=verb=all
 undermost=JJ=all
 undermost=RB=all
 undermount=NN=all
@@ -103242,6 +103337,7 @@ underplay=verb=all
 underplot=noun=all
 underpopulated=JJ=all
 underpopulation=NN=all
+underpower=verb=all
 underpowered=JJ=all
 underpraise=verb=all
 underpredict=verb=all
@@ -103260,7 +103356,13 @@ underrate=verb=all
 underrating=NN:UN=all
 underreport=verb=all
 underrepresented=JJ=all
+underresource=verb=all
+underresourced=JJ=all
 underring=NN=all
+underrun [underruns;underran;underrun;underrunning]=verb=all
+undersalt=verb=all
+undersample=verb=all
+undersaturate=verb=all
 undersaturated=JJ=all
 undersaturation=NN:UN=all
 underscore=noun=all
@@ -103309,11 +103411,13 @@ understudy=noun=all
 understudy=verb=all
 undersupply=noun=all
 undersupply=verb=all
+undersupported=JJ=all
 undersurface=JJ=all
 undersurface=noun=all
 undertake [undertakes;undertook;undertaken;undertaking]=verb=all
 undertaker=noun=all
 undertaking=noun_UN=all
+undertax=verb=all
 undertaxed=JJ=all
 undertenant=noun=all
 underthrow [underthrows;underthrew;underthrown;underthrowing]=verb=all
@@ -103322,6 +103426,8 @@ undertint=noun=all
 undertone=noun=all
 undertow=noun=all
 undertrick=noun=all
+underuse=verb=all
+underused=JJ=all
 underutilization|underutilisation=noun_UN=us,ca,gb|gb,au,nz,za
 underutilize|underutilise=verb=us,ca,gb|gb,au,nz,za
 undervaluation=noun_U=all
@@ -103329,6 +103435,7 @@ undervalue=noun=all
 undervalue=verb=all
 undervalued=JJ=all
 undervest=noun=all
+undervote=verb=all
 underwaist=noun=all
 underwater=JJ=all
 underwater=RB=all
@@ -103336,6 +103443,7 @@ underway=JJ=all
 underwear=noun_U=all
 underweight=JJ=all
 underweight=noun_U=all
+underweight=verb=all
 underwhelm=verb=all
 underwing=JJ=all
 underwing=noun=all
@@ -103809,6 +103917,7 @@ ungrayed|ungreyed=JJ=us|au,ca,gb,nz,za
 ungreased=JJ=all
 unground=JJ=all
 ungrounded=JJ=all
+ungroup=verb=all
 ungrouped=JJ=all
 ungrudging=JJ=all
 ungual=JJ=all
@@ -103886,6 +103995,8 @@ unhonored|unhonoured=JJ=us|gb,ca,au,nz,za
 unhook=verb=all
 unhoped=JJ=all
 unhorse=verb=all
+unhouse=verb=all
+unhoused=JJ=all
 unhumanness=NN:U=all
 unhumbleness=NN:U=all
 unhumored|unhumoured=JJ=us|gb,ca,au,nz,za
@@ -104343,6 +104454,7 @@ unmoving=JJ=all
 unmovingly=RB=all
 unmovingness=NN:U=all
 unmown=JJ=all
+unmuffle=verb=all
 unmusical=JJ=all
 unmusically=RB=all
 unmusicalness=NN:U=all
@@ -104520,6 +104632,7 @@ unpopped=JJ=all
 unpopular=JJ=all
 unpopularity=noun_U=all
 unpopularly=RB=all
+unpopulate=verb=all
 unpopulated=JJ=all
 unpopulousness=NN:U=all
 unportable=JJ=all
@@ -106104,6 +106217,8 @@ vaunting=JJ=all
 vaunting=noun_UN=all
 vavasory=noun=all
 vavasor|vavasour=noun=us|gb,ca,au,nz,za
+vax [-xx-,-x-]=verb=all # slang
+vax [pl. vaxes,vaxxes]=noun=all # slang
 veal=noun_U=all
 vector=noun=all
 vector=verb=all
