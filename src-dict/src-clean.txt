@@ -1501,11 +1501,13 @@ Anglistics=NNP=all
 Anglo-American=JJ=all
 Anglo-American=NNP=all
 Anglo-French=NN=all
+Anglo-Israelism=noun_UN=all
 Anglo-Latin=NNP=all
 Anglo-Norman=Anglo-Norman/NNP,Anglo-Normans/NNPS=all
 Anglo-Norman=JJ=all
 Anglo-Saxon=JJ=all
 Anglo-Saxon=NNP=all
+Anglo-Saxonism=noun_UN=all
 Anglo=Anglo/NNP,Anglos/NNPS=all
 Anglomania=Anglomania/NNP,Anglomanias/NNPS=all
 Anglomaniac=NNP=all
@@ -1793,7 +1795,7 @@ Arby=NNP=all
 Arcadia=Arcadia/NNP,Arcadias/NNPS=all
 Arcadian=Arcadian/NNP,Arcadians/NNPS=all
 Arcadian=JJ=all
-Arcadianism=NNP=all
+Arcadianism=noun_UN=all
 Arcady=NNP=all
 Arcata=NNP=all
 ArcelorMittal=NNP=all
@@ -2307,7 +2309,7 @@ Aventine=NNP=all
 Aventura=NNP=all
 Avernus=NNP=all
 Averroes=NNP=all
-Averroism=NNP=all
+Averroism=noun_UN=all
 Avertin=NNP=all
 Avery=NNP=all
 Aves=NNPS=all
@@ -2899,6 +2901,7 @@ Bayer=NNP=all
 Bayern=NNP=all
 Bayes=NNP=all
 Bayesian=JJ=all
+Bayesianism=noun_UN=all
 Bayle=NNP=all
 Bayley=NNP=all
 Baylor=NNP=all
@@ -3007,7 +3010,7 @@ Behan=NNP=all
 Behance=NNP=all
 Behar=NNP=all
 Behistun=NNP=all
-Behmenism=NNP=all
+Behmenism=noun_UN=all
 Behmenist=NNP=all
 Behrens=NNP=all
 Behring=NNP=all
@@ -3570,7 +3573,7 @@ Bogart=NNP=all
 Bogdan=NNP=all
 Bogdanović=NNP=all
 Boggs=NNP=all
-Bogomilism=Bogomilism/NN:U,Bogomilism/NNP=all
+Bogomilism=noun_UN=all
 Bogor=NNP=all
 Bogota=NNP=all
 Bogotá=NNP=all
@@ -4149,7 +4152,7 @@ Buchan=NNP=all
 Buchanan=NNP=all
 Bucharest=NNP=all
 Buchenwald=NNP=all
-Buchmanism=NNP=all
+Buchmanism=noun_UN=all
 Buchner=NNP=all
 Buchwald=NNP=all
 Buck=NNP=all
@@ -4346,7 +4349,7 @@ Byung-soo=NNP=all
 Byz=NNP=all
 Byzantine=Byzantine/NNP,Byzantines/NNPS=all
 Byzantine=JJ=all
-Byzantinism=NNP=all
+Byzantinism=noun_UN=all
 Byzantium=Byzantium/NN:U,Byzantium/NNP=all
 Bádiu=NNP=all
 Bárbara=NNP=all
@@ -5041,6 +5044,7 @@ Cathar=Cathar/NNP,Cathars/NNPS=all
 Catharina=NNP=all
 Catharine=NNP=all
 Catharism=Catharism/NNP,Catharisms/NNPS=all
+Catharist=JJ=all
 Catharistic=JJ=all
 Cathay=NNP=all
 Cather=NNP=all
@@ -5138,7 +5142,7 @@ Celtiberian=JJ=all
 Celtiberian=NNP=all
 Celtic=Celtic/NNP,Celtics/NNPS=all
 Celtic=JJ=all
-Celticism=NNP=all
+Celticism=noun_UN=all
 Celticist=Celticist/NNP,Celticists/NNPS=all
 Cemex=NNP=all
 Cengage=NNP=all
@@ -5580,7 +5584,7 @@ Christian=JJ=all
 Christiana=NNP=all
 Christiane=NNP=all
 Christiania=Christiania/NNP,Christianias/NNPS=all
-Christianism=NNP=all
+Christianism=noun_UN=all
 Christianist=Christianist/NNP,Christianists/NNPS=all
 Christianity=Christianity/NNP,Christianities/NNPS=all
 Christianization|Christianisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -5651,7 +5655,7 @@ Cibber=NNP=all
 Cicely=NNP=all
 Cicero=NNP=all
 Ciceronian=JJ=all
-Ciceronianism=NNP=all
+Ciceronianism=noun_UN=all
 Cid=NNP=all
 Cienfuegos=NNP=all
 Ciliata=NNP=all
@@ -8468,6 +8472,7 @@ Eurobarometer=NNP=all
 Eurobond=Eurobond/NNP,Eurobonds/NNPS=all
 Eurocentric=JJ=all
 Eurocentrism=Eurocentrism/NN:U,Eurocentrism/NNP,Eurocentrisms/NNPS=all
+Eurocentrist=noun=all
 Euroclydon=NNP=all
 Eurocurrency=Eurocurrency/NNP,Eurocurrencies/NNPS=all
 Eurodollar=Eurodollar/NNP,Eurodollars/NNPS=all
@@ -8488,6 +8493,7 @@ Europocentrism=Europocentrism/NNP,Europocentrisms/NNPS=all
 Europol=NNP=all
 Europoort=NNP=all
 Eurorail=NNP=all
+Euroscepticism=noun_UN=all
 Euroskepticism|Euroscepticism=NN:UN=ca,us|au,gb,nz,za
 Eurostar=NNP=all
 Eurostat=NNP=all
@@ -9053,7 +9059,7 @@ Flemming=NNP=all
 Flensburg=NNP=all
 Fletch=NNP=all
 Fletcher=NNP=all
-Fletcherism=NNP=all
+Fletcherism=noun_UN=all
 Fleur=NNP=all
 Fleury=NNP=all
 Flevoland=NNP=all
@@ -9131,6 +9137,7 @@ Foraker=NNP=all
 Forbes=NNP=all
 Ford=NNP=all
 Fordham=NNP=all
+Fordism=noun_UN=all
 Fordyce=NNP=all
 Forest=NNP=all
 Forester=Forester/NNP,Foresters/NNPS=all
@@ -11264,7 +11271,7 @@ Hera=NNP=all
 Heraclea=NNP=all
 Heracles=NNP=all
 Heraclid=NNP=all
-Heracliteanism=NNP=all
+Heracliteanism=noun_UN=all
 Heraclitus=NNP=all
 Herakleion=NNP=all
 Herakles=NNP=all
@@ -11834,7 +11841,7 @@ Humberto=NNP=all
 Humble=NNP=all
 Humboldt=NNP=all
 Hume=NNP=all
-Humism=NNP=all
+Humism=noun_UN=all
 Hummel=NNP=all
 Humperdinck=NNP=all
 Humphrey=NNP=all
@@ -12670,6 +12677,7 @@ Japan=NNP=all
 Japanese=JJ=all
 Japanese=Japanese/NN:U,Japanese/NNP,Japanese/NNPS,Japaneses/NNPS=all
 Japanization|Japanisation=noun_UN=us,ca,gb|gb,au,nz,za
+Japanologist=noun=all
 Japheth=NNP=all
 Japhetic=JJ=all
 Jaqueline=NNP=all
@@ -13516,7 +13524,7 @@ Kelso=NNP=all
 Kelson=NNP=all
 Kelton=NNP=all
 Kelvin=NNP=all
-Kemalism=NNP=all
+Kemalism=noun_UN=all
 Kemble=NNP=all
 Kemerovo=NNP=all
 Kemmerich=NNP=all
@@ -14456,7 +14464,7 @@ Lauda=NNP=all
 Lauder=NNP=all
 Lauderdale=NNP=all
 Lauderhill=NNP=all
-Laudianism=NNP=all
+Laudianism=noun_UN=all
 Laue=NNP=all
 Laufer=NNP=all
 Laughton=NNP=all
@@ -14946,7 +14954,7 @@ Lisle=NNP=all
 Liss=NNP=all
 Lissette=NNP=all
 Lister=NNP=all
-Listerism=NNP=all
+Listerism=noun_UN=all
 Liston=NNP=all
 Liszt=NNP=all
 Litany=NNP=all
@@ -15209,10 +15217,10 @@ Lucretius=NNP=all
 Lucullus=NNP=all
 Lucy=NNP=all
 Lucía=NNP=all
-Luddism=NNP=all
+Luddism=noun_UN=all
 Luddite=JJ=all
 Luddite=Luddite/NNP,Luddites/NNPS=all
-Ludditism=NNP=all
+Ludditism=noun_UN=all
 Ludendorff=NNP=all
 Ludhiana=NNP=all
 Ludington=NNP=all
@@ -15295,7 +15303,7 @@ Luther=NNP=all
 Lutheran=JJ=all
 Lutheran=Lutheran/NNP,Lutherans/NNPS=all
 Lutheranism=Lutheranism/NNP,Lutheranisms/NNPS=all
-Lutherism=NNP=all
+Lutherism=noun_UN=all
 Luthuli=NNP=all
 Luton=Luton/NNP,Luton/NNPS=all
 Lutsk=NNP=all
@@ -16423,6 +16431,8 @@ McCarroll=NNP=all
 McCarry=NNP=all
 McCarthy=NNP=all
 McCarthyism=McCarthyism/NNP,McCarthyisms/NNPS=all
+McCarthyist=JJ=all
+McCarthyist=noun=all
 McCarthyite=McCarthyite/NNP,McCarthyites/NNPS=all
 McCartney=NNP=all
 McCarty=NNP=all
@@ -16777,7 +16787,7 @@ Mendel=NNP=all
 Mendeleev=NNP=all
 Mendelian=JJ=all
 Mendelian=Mendelian/NNP,Mendelians/NNPS=all
-Mendelianism=NNP=all
+Mendelianism=noun_UN=all
 Mendelism=Mendelism/NNP,Mendelisms/NNPS=all
 Mendelsohn=NNP=all
 Mendelssohn=NNP=all
@@ -17251,9 +17261,9 @@ Mohawks=NNPS=all
 Mohenjo-daro=NNP=all
 Mohican=Mohican/NNP,Mohicans/NNPS=all
 Mohicans=NNPS=all
-Mohism=NNP=all
+Mohism=noun_UN=all
 Mohist=JJ=all
-Mohist=NNP=all
+Mohist=noun=all
 Mohit=NNP=all
 Moho=NNP=all
 Mohock=Mohock/NNP,Mohocks/NNPS=all
@@ -17275,7 +17285,7 @@ Moldovan=noun=all
 Moliere=NNP=all
 Molina=NNP=all
 Moline=NNP=all
-Molinism=NNP=all
+Molinism=noun_UN=all
 Molinist=NNP=all
 Moll=NNP=all
 Mollie=NNP=all
@@ -17332,7 +17342,7 @@ Monmouthshire=NNP=all
 Monnet=NNP=all
 Monoceros=NNP=all
 Monongahela=NNP=all
-Monophysism=NNP=all
+Monophysism=noun_UN=all
 Monophysite=JJ=all
 Monophysite=Monophysite/NNP,Monophysites/NNPS=all
 Monophysitic=JJ=all
@@ -17425,6 +17435,7 @@ Morava=NNP=all
 Moravia=NNP=all
 Moravian=JJ=all
 Moravian=Moravian/NNP,Moravians/NNPS=all
+Moravianism=noun_UN=all
 Morawiecki=NNP=all
 Morbihan=NNP=all
 Mordecai=NNP=all
@@ -17507,7 +17518,7 @@ Moskowitz=NNP=all
 Moskva=NNP=all
 Moslem=JJ=all
 Moslem=Moslem/NNP,Moslems/NNPS=all
-Moslemism=NNP=all
+Moslemism=noun_UN=all
 Moslemize|Moslemise=verb=us,ca,gb|gb,au,nz,za
 Mosley=NNP=all
 Mosotho=NNP=all
@@ -18262,7 +18273,7 @@ Niersteiner=Niersteiner/NNP,Niersteiners/NNPS=all
 Nietzsche=NNP=all
 Nietzschean=JJ=all
 Nietzschean=Nietzschean/NNP,Nietzscheans/NNPS=all
-Nietzscheism=NNP=all
+Nietzscheism=noun_UN=all
 Nieuwegein=NNP=all
 Niflheim=NNP=all
 Nigam=NNP=all
@@ -18690,7 +18701,7 @@ Odets=NNP=all
 Odette=NNP=all
 Odin=NNP=all
 Odinic=JJ=all
-Odinism=NNP=all
+Odinism=noun_UN=all
 Odisha=NNP=all
 Odnoklassniki=NNP=all
 Odoacer=NNP=all
@@ -19040,7 +19051,7 @@ Ovis=NNP=all
 Owain=NNP=all
 Owasso=NNP=all
 Owen=Owen/NNP,Owens/NNPS=all
-Owenism=NNP=all
+Owenism=noun_UN=all
 Owenite=NNP=all
 Owens=NNP=all
 Owosso=NNP=all
@@ -19249,8 +19260,8 @@ Pamphylia=NNP=all
 Pamplona=NNP=all
 Pan-African=JJ=all
 Pan-African=NNP=all
-Pan-Africanism=NNP=all
-Pan-Slavism=NNP=all
+Pan-Africanism=noun_UN=all
+Pan-Slavism=noun_UN=all
 Pan=NNP=all
 Panagiotis=NNP=all
 Panama=Panama/NNP,Panamas/NNPS=all
@@ -19340,7 +19351,7 @@ Parkerize|Parkerise=verb=us,ca,gb|gb,au,nz,za
 Parkersburg=NNP=all
 Parkes=NNP=all
 Parkinson=NNP=all
-Parkinsonism=NNP=all
+Parkinsonism=noun_UN=all
 Parks=NNP=all
 Parkville=NNP=all
 Parl=NNP=all
@@ -19527,7 +19538,7 @@ Pelion=NNP=all
 Pell=NNP=all
 Pella=NNP=all
 Pelletier=NNP=all
-Pelmanism=NNP=all
+Pelmanism=noun_UN=all
 Peloponnese=NNP=all
 Peloponnesian=JJ=all
 Peloponnesian=Peloponnesian/NNP,Peloponnesians/NNPS=all
@@ -20189,7 +20200,7 @@ Prattville=NNP=all
 Pravda=NNP=all
 Praveen=NNP=all
 Praxiteles=NNP=all
-Pre-Raphaelitism=NNP=all
+Pre-Raphaelitism=noun_UN=all
 Preakness=NNP=all
 Preble=NNP=all
 Precambrian=JJ=all
@@ -20626,7 +20637,7 @@ RabbitMQ=NNP=all
 Rabelais=NNP=all
 Rabelaisian=JJ=all
 Rabelaisian=NNP=all
-Rabelaisianism=NNP=all
+Rabelaisianism=noun_UN=all
 Rabia=NNP=all
 Rabin=NNP=all
 Rabinovitz=NNP=all
@@ -20637,7 +20648,7 @@ Rachel=NNP=all
 Rachelle=NNP=all
 Rachmaninoff=NNP=all
 Rachmaninov=NNP=all
-Rachmanism=NNP=all
+Rachmanism=noun_UN=all
 Racine=NNP=all
 Rackham=NNP=all
 Radbourne=NNP=all
@@ -21755,7 +21766,7 @@ Sadat=NNP=all
 Saddam=NNP=all
 Sadducean=JJ=all
 Sadducee=NNP=all
-Sadduceeism=NNP=all
+Sadduceeism=noun_UN=all
 Sade=NNP=all
 Sadie=NNP=all
 Sadiq=NNP=all
@@ -21799,7 +21810,7 @@ Saint-Nicolas=NNP=all
 Saint-Quentin=NNP=all
 Saint-Saëns=NNP=all
 Saint-Simon=NNP=all
-Saint-Simonianism=NNP=all
+Saint-Simonianism=noun_UN=all
 Saint-Tropez=NNP=all
 Saint-Étienne=NNP=all
 Saipan=NNP=all
@@ -21884,7 +21895,7 @@ Samarang=NNP=all
 Samaria=NNP=all
 Samaritan=JJ=all
 Samaritan=Samaritan/NNP,Samaritans/NNPS=all
-Samaritanism=NNP=all
+Samaritanism=noun_UN=all
 Samarkand=NNP=all
 Samarra=NNP=all
 Sambadrome=NNP=all
@@ -22684,7 +22695,7 @@ Shirazi=Shirazi/NNP,Shirazis/NNPS=all
 Shirin=NNP=all
 Shirley=NNP=all
 Shiva=NNP=all
-Shivaism=NNP=all
+Shivaism=noun_UN=all
 Shivam=NNP=all
 Shively=NNP=all
 Shizuoka=NNP=all
@@ -25394,7 +25405,7 @@ Vassilis=NNP=all
 Vasundhara=NNP=all
 Vat=NNP=all
 Vatican=NNP=all
-Vaticanism=NNP=all
+Vaticanism=noun_UN=all
 Vauban=NNP=all
 Vaucluse=NNP=all
 Vaud=NNP=all
@@ -26079,7 +26090,7 @@ Weirton=NNP=all
 Weiser=NNP=all
 Weisman=NNP=all
 Weismann=NNP=all
-Weismannism=NNP=all
+Weismannism=noun_UN=all
 Weiss=NNP=all
 Weisshorn=NNP=all
 Weissman=NNP=all
@@ -26359,7 +26370,8 @@ Wilmot=NNP=all
 Wilmott=NNP=all
 Wilson=NNP=all
 Wilsonian=JJ=all
-Wilsonism=NNP=all
+Wilsonianism=noun_UN=all
+Wilsonism=noun_UN=all
 Wilsonville=NNP=all
 Wilton=Wilton/NNP,Wiltons/NNPS=all
 Wiltshire=Wiltshire/NNP,Wiltshires/NNPS=all
@@ -26556,7 +26568,8 @@ Wyck=NNP=all
 Wyckoff=NNP=all
 Wycliffe=NNP=all
 Wycliffian=JJ=all
-Wycliffism=NNP=all
+Wycliffism=noun_UN=all
+Wycliffist=noun=all
 Wycombe=NNP=all
 Wye=NNP=all
 Wyeth=NNP=all
@@ -26971,7 +26984,7 @@ Zihuatanejo=NNP=all
 Zika=NNP=all
 Zikri=JJ=all
 Zikri=NNP=all
-Zikrism=NNP=all
+Zikrism=noun_UN=all
 Zillertal=NNP=all
 Zilpah=NNP=all
 Zimbabwe=NNP=all
@@ -27068,7 +27081,7 @@ aardvark=noun=all
 aardwolf=aardwolf/NN,aardwolves/NNS=all
 ab=noun=all
 abaca=noun_UN=all
-abacist=NN=all
+abacist=noun=all
 aback=JJ=all
 aback=RB=all
 abacus=abacus/NN,abaci/NNS,abacuses/NNS=all
@@ -27296,7 +27309,7 @@ absentminded=JJ=all
 absentmindedness=NN:U=all
 absentness=NN:U=all
 absinthe=noun_U=all
-absinthism=NN:UN=all
+absinthism=noun_UN=all
 absolute=absolute/JJ,absoluter/JJR,absolutest/JJS=all
 absolute=noun=all
 absolutely=RB=all
@@ -27333,6 +27346,7 @@ abstemious=JJ=all
 abstemiously=RB=all
 abstemiousness=NN:U=all
 abstention=noun_UN=all
+abstentionism=noun_UN=all
 abstergent=JJ=all
 abstergent=noun=all
 abstersiveness=NN:U=all
@@ -27479,6 +27493,7 @@ accommodate=verb=all
 accommodating=JJ=all
 accommodatingly=RB=all
 accommodation=noun_UN=all
+accommodationism=noun_UN=all
 accommodationist=noun=all
 accommodative=JJ=all
 accommodativeness=NN:U=all
@@ -28548,6 +28563,7 @@ agricultural=JJ=all
 agriculturalist=noun=all
 agriculturally=RB=all
 agriculture=noun_U=all
+agriculturism=noun_UN=all
 agriculturist=noun=all
 agrimony=noun=all
 agriscience=noun_UN=all
@@ -29330,6 +29346,9 @@ amidship=noun=all
 amidships=RB=all
 amidst=IN=all
 amigo=noun=all
+amillennialism=noun_UN=all
+amillennialist=JJ=all
+amillennialist=noun=all
 amine=noun_U=all
 amino=JJ=all
 amino=NN:U=all
@@ -29552,6 +29571,12 @@ anarcho-capitalism=JJ=all
 anarcho-capitalist=JJ=all
 anarcho-capitalist=noun=all
 anarcho-capitalistic=JJ=all
+anarcho-communist=JJ=all
+anarcho-communist=noun=all
+anarcho-primitivism=noun_UN=all
+anarcho-syndicalism=noun_UN=all
+anarcho-syndicalist=JJ=all
+anarcho-syndicalist=noun=all
 anarchy=noun_U=all
 anarthrousness=NN:U=all
 anastigmatic=JJ=all
@@ -29613,6 +29638,7 @@ androgynous=JJ=all
 androgyny=noun_U=all
 android=JJ=all
 android=noun=all
+andrologist=noun=all
 andrology=NN:UN=all
 androsterone=noun_U=all
 anecdotal=JJ=all
@@ -29717,6 +29743,7 @@ animalism=noun_UN=all
 animalist=noun=all
 animalistic=JJ=all
 animalistically=RB=all
+animalitarianism=noun_UN=all
 animality=noun_UN=all
 animalization|animalisation=noun_UN=us,ca,gb|gb,au,nz,za
 animalize|animalise=verb=us,ca,gb|gb,au,nz,za
@@ -29775,7 +29802,7 @@ annexation=noun_UN=all
 annexationist=noun=all
 annihilate=verb=all
 annihilation=noun_U=all
-annihilationism=NN:UN=all
+annihilationism=noun_UN=all
 annihilator=noun=all
 anniversary=JJ=all
 anniversary=noun=all
@@ -29825,7 +29852,7 @@ anoint=verb=all
 anointer=noun=all
 anointing=noun_UN=all
 anointment=noun_U=all
-anomalist=NN=all
+anomalist=noun=all
 anomalistic=JJ=all
 anomalistically=RB=all
 anomalous=JJ=all
@@ -29965,10 +29992,11 @@ anthroposophy=noun_U=all
 anthurium=noun=all
 anti-American=JJ=all
 anti-American=NNP=all
-anti-Americanism=NN:UN=all
+anti-Americanism=noun_UN=all
 anti-British=JJ=all
 anti-British=NNP=all
 anti-Christian=JJ=all
+anti-Christianism=noun_UN=all
 anti-European=JJ=all
 anti-European=NNP=all
 anti-Germanization|anti-Germanisation=JJ=us,ca,gb|gb,au,nz,za
@@ -29976,7 +30004,8 @@ anti-Israel=JJ=all
 anti-Mexican=JJ=all
 anti-Mexican=NNP=all
 anti-Semitic=JJ=all
-anti-Semitism=NNP=all
+anti-Semitism=noun_UN=all
+anti-Sovietism=noun_UN=all
 anti-Trump=JJ=all
 anti-aging|anti-ageing=JJ=us,ca,au|au,gb,nz,za
 anti-arrhythmic=JJ=all
@@ -29996,7 +30025,7 @@ anti-government=JJ=all
 anti-immigrant=JJ=all
 anti-immigration=JJ=all
 anti-imperial=JJ=all
-anti-imperialism=NN:UN=all
+anti-imperialism=noun_UN=all
 anti-imperialist=JJ=all
 anti-imperialist=noun=all
 anti-infective=JJ=all
@@ -30014,7 +30043,7 @@ anti-pesticide=JJ=all
 anti-piracy=JJ=all
 anti-police=JJ=all
 anti-political=JJ=all
-anti-racism=NN:UN=all
+anti-racism=noun_UN=all
 anti-racist=JJ=all
 anti-racist=noun=all
 anti-reflective=JJ=all
@@ -30093,7 +30122,7 @@ antidemocratic=JJ=all
 antidepressant=JJ=all
 antidepressant=noun=all
 antiderivative=noun=all
-antidisestablishmentarianism=NN:UN=all
+antidisestablishmentarianism=noun_UN=all
 antidiuretic=JJ=all
 antidiuretic=noun=all
 antidote=noun=all
@@ -30695,6 +30724,7 @@ arbutus=noun=all
 arc [arcs;arced,arcked;arced,arcked;arcing,arcking]=verb=all
 arc=noun=all
 arcade=noun=all
+arcadianism=noun_UN=all
 arcading=noun=all
 arcana=noun=all
 arcane=JJ=all
@@ -30897,7 +30927,7 @@ armpit=noun=all
 armrest=noun=all
 army=noun=all
 aroma=noun=all
-aromanticism=NN:U=all
+aromanticism=noun_UN=all
 aromatherapist=noun=all
 aromatherapy=noun_U=all
 aromatic=JJ=all
@@ -32899,6 +32929,7 @@ bathysphere=noun=all
 batik=noun_UN=all
 batiste=noun_U=all
 batman=batman/NN,batmen/NNS=all
+batologist=noun=all
 baton=noun=all
 batrachian=JJ=all
 batrachian=noun=all
@@ -33814,7 +33845,7 @@ binocular=noun=all
 binocularly=RB=all
 binomial=JJ=all
 binomial=noun=all
-binomialism=NN:UN=all
+binomialism=noun_UN=all
 binomially=RB=all
 binominal=JJ=all
 binominal=NN=all
@@ -34021,7 +34052,7 @@ biotechnical=JJ=all
 biotechnological=JJ=all
 biotechnologist=noun=all
 biotechnology=noun_U=all
-bioterrorism=NN:UN=all
+bioterrorism=noun_UN=all
 biotic=JJ=all
 biotic=noun=all
 biotin=noun_U=all
@@ -35794,7 +35825,7 @@ brut=brut/JJ,bruter/JJR=all
 brutal=JJ=all
 brutalism=noun_UN=all
 brutalist=noun=all
-brutalitarianism=NN:UN=all
+brutalitarianism=noun_UN=all
 brutality=noun_UN=all
 brutalization|brutalisation=noun_UN=us,ca,gb|gb,au,nz,za
 brutalize|brutalise=verb=us,ca,gb|gb,au,nz,za
@@ -37893,6 +37924,7 @@ cervicogenic=JJ=all
 cervix=cervix/NN,cervices/NNS,cervixes/NNS=all
 cespitose=JJ=all
 cessation=noun_UN=all
+cessationist=noun=all
 cession=noun_UN=all
 cesspit=noun=all
 cesspool=noun=all
@@ -39832,7 +39864,7 @@ cognition=noun_U=all
 cognitional=JJ=all
 cognitive=JJ=all
 cognitively=RB=all
-cognitivism=NN:UN=all
+cognitivism=noun_UN=all
 cognizableness|cognisableness=NN:U=us,ca,gb|gb,au,nz,za
 cognizable|cognisable=JJ=us,ca,gb|gb,au,nz,za
 cognizably|cognisably=RB=us,ca,gb|gb,au,nz,za
@@ -40272,6 +40304,8 @@ commender=noun=all
 commensal=JJ=all
 commensal=noun=all
 commensalism=noun_UN=all
+commensalist=JJ=all
+commensalist=noun=all
 commensality=noun_UN=all
 commensurability=noun_UN=all
 commensurable=JJ=all
@@ -40635,6 +40669,7 @@ computability=noun_UN=all
 computable=JJ=all
 computation=noun_UN=all
 computational=JJ=all
+computationalism=noun_UN=all
 computationally=RB=all
 compute=verb=all
 computer=noun=all
@@ -41119,7 +41154,9 @@ connected=JJ=all
 connectedness=NN:U=all
 connecting=JJ=all
 connection=noun_UN=all
-connectionism=NN:UN=all
+connectionism=noun_UN=all
+connectionist=JJ=all
+connectionist=noun=all
 connectionless=JJ=all
 connective=JJ=all
 connective=noun=all
@@ -41191,7 +41228,9 @@ consequence=noun_UN=all
 consequent=JJ=all
 consequent=noun=all
 consequential=JJ=all
-consequentialism=NN:UN=all
+consequentialism=noun_UN=all
+consequentialist=JJ=all
+consequentialist=noun=all
 consequentiality=noun_UN=all
 consequentially=RB=all
 consequentialness=NN:U=all
@@ -41318,7 +41357,7 @@ constructability=noun_UN=all
 constructible=JJ=all
 construction=noun_UN=all
 constructional=JJ=all
-constructionism=NN:UN=all
+constructionism=noun_UN=all
 constructionist=noun=all
 constructive=JJ=all
 constructively=RB=all
@@ -41450,7 +41489,7 @@ context-sensitive=JJ=all
 context=noun_UN=all
 contextless=JJ=all
 contextual=JJ=all
-contextualism=NN:UN=all
+contextualism=noun_UN=all
 contextualist=JJ=all
 contextualist=noun=all
 contextualistic=JJ=all
@@ -41667,6 +41706,7 @@ converse=noun=all
 converse=verb=all
 conversely=RB=all
 conversion=noun_UN=all
+conversionism=noun_UN=all
 convert=noun=all
 convert=verb=all
 converted=JJ=all
@@ -42743,6 +42783,7 @@ credulously=RB=all
 credulousness=NN:U=all
 creed=noun=all
 creedal=JJ=all
+creedalism=noun_UN=all
 creedlessness=NN:U=all
 creek=noun=all
 creel=noun=all
@@ -43173,12 +43214,14 @@ cryobiology=noun_UN=all
 cryogen=noun=all
 cryogenic=JJ=all
 cryogenic=noun=all
+cryogenicist=noun=all
 cryogenics=NN:U=all
 cryohydrate=NN=all
 cryolite=cryolite/NN,cryolite/NN:U,cryolites/NNS=all
 cryometer=noun=all
 cryonic=noun=all
 cryonically=RB=all
+cryonicist=noun=all
 cryonics=NN:U=all
 cryospheric=JJ=all
 cryostat=noun=all
@@ -43665,6 +43708,7 @@ cyberspace=noun_U=all
 cyberstalker=noun=all
 cyberstalking=NN:U=all
 cyberterrorism=NN:U=all
+cyberterrorist=noun=all
 cyberwar=noun_UN=all
 cyborg=noun=all
 cycad=noun=all
@@ -44453,7 +44497,7 @@ declinatory=JJ=all
 decline=noun_UN=all
 decline=verb=all
 decliner=noun=all
-declinism=NN:UN=all
+declinism=noun_UN=all
 declinometer=noun=all
 declivitous=JJ=all
 declivity=noun=all
@@ -45153,6 +45197,7 @@ dengue=noun_U=all
 deniability=noun_UN=all
 deniable=JJ=all
 denial=noun_UN=all
+denialism=noun_UN=all
 denier=noun=all
 denigrate=verb=all
 denigration=noun_U=all
@@ -46699,7 +46744,7 @@ disentangler=NN=all
 disequilibrium=disequilibrium/NN:U,disequilibria/NNS,disequilibriums/NNS=all
 disestablish=verb=all
 disestablishment=noun_U=all
-disestablishmentarianism=NN:UN=all
+disestablishmentarianism=noun_UN=all
 disesteem=noun=all
 disesteem=verb=all
 disfavorer|disfavourer=noun=us|gb,ca,au,nz,za
@@ -48469,6 +48514,7 @@ dyslexic=JJ=all
 dyslexic=noun=all
 dysmenorrhea=noun=all
 dysmorphic=JJ=all
+dysmorphism=noun_UN=all
 dyspepsia=noun_U=all
 dyspeptic=JJ=all
 dyspeptic=noun=all
@@ -48703,13 +48749,14 @@ eclogite=noun=all
 eclogue=noun=all
 eclosion=noun=all
 eco-friendly=JJ=all
+eco-socialism=noun_UN=all
 eco-socialist=JJ=all
 eco-socialist=noun=all
 eco=JJ=all
 ecoactivism=NN:U=all
 ecoactivist=noun=all
 ecocide=noun_U=all
-ecofeminism=NN:UN=all
+ecofeminism=noun_UN=all
 ecofeminist=ecofeminist/NN,ecofeminists/NN=all
 ecological=JJ=all
 ecologically=RB=all
@@ -50552,8 +50599,8 @@ esoteric=JJ=all
 esoterica=esoterica/NN,esoterica/NNS=all
 esoterically=RB=all
 esotericism=noun_UN=all
-esotericist=NN=all
-esoterist=NN=all
+esotericist=noun=all
+esoterist=noun=all
 esp=NN=all
 esp=RB=all
 espadrille=noun=all
@@ -50695,6 +50742,7 @@ ethnologically=RB=all
 ethnologist=noun=all
 ethnology=noun_U=all
 ethnomusicology=noun_UN=all
+ethnonationalism=noun_UN=all
 ethnonym=noun=all
 ethological=JJ=all
 ethologist=noun=all
@@ -50732,6 +50780,7 @@ eudaemonism=noun_UN=all
 eudaemonist=noun=all
 eudaemonistic=JJ=all
 eudaimonism=noun_UN=all
+eudaimonist=noun=all
 eudiometer=noun=all
 eudiometric=JJ=all
 eudiometrically=RB=all
@@ -51421,7 +51470,7 @@ experience=experience/NN,experience/NN:U,experiences/NNS=all
 experience=verb=all
 experienced=JJ=all
 experiential=JJ=all
-experientialism=NN:UN=all
+experientialism=noun_UN=all
 experientially=RB=all
 experiment=noun_UN=all
 experiment=verb=all
@@ -51613,6 +51662,8 @@ exteroceptor=noun=all
 extinct=JJ=all
 extinct=verb=all
 extinction=noun_UN=all
+extinctionist=JJ=all
+extinctionist=noun=all
 extinctive=JJ=all
 extinguish=verb=all
 extinguishable=JJ=all
@@ -52778,6 +52829,7 @@ fickleness=NN:U=all
 fictile=JJ=all
 fiction=noun_UN=all
 fictional=JJ=all
+fictionalism=noun_UN=all
 fictionalization|fictionalisation=noun_UN=us,ca,gb|gb,au,nz,za
 fictionalize|fictionalise=verb=us,ca,gb|gb,au,nz,za
 fictionally=RB=all
@@ -54567,7 +54619,7 @@ free-form=JJ=all
 free-living=JJ=all
 free-range=JJ=all
 free-soiler=noun=all
-free-soilism=NN:UN=all
+free-soilism=noun_UN=all
 free-working=JJ=all
 free=free/JJ,freer/JJR,freest/JJS=all
 free=noun=all
@@ -54580,6 +54632,7 @@ freebooter=noun=all
 freeborn=JJ=all
 freedman=freedman/NN,freedmen/NNS=all
 freedom=noun_UN=all
+freeganism=noun_UN=all
 freehand=JJ=all
 freehand=RB=all
 freehanded=JJ=all
@@ -58824,6 +58877,7 @@ helideck=noun=all
 heliocentric=JJ=all
 heliocentrically=RB=all
 heliocentricity=heliocentricity/NN,heliocentricity/NN:U,heliocentricities/NNS=all
+heliocentrism=noun_UN=all
 heliograph=noun=all
 heliograph=verb=all
 heliography=noun_U=all
@@ -59021,7 +59075,7 @@ herbaceousness=NN:U=all
 herbage=noun_U=all
 herbal=JJ=all
 herbal=noun=all
-herbalism=NN:UN=all
+herbalism=noun_UN=all
 herbalist=noun=all
 herbarium=noun=all
 herbicidal=JJ=all
@@ -59496,7 +59550,7 @@ histrionic=JJ=all
 histrionic=NN=all
 histrionically=RB=all
 histrionics=NN:U=all
-histrionism=NN:UN=all
+histrionism=noun_UN=all
 hit [hits;hit;hit;hitting]=verb=all
 hit-and-run [hit-and-runs;hit-and-ran;hit-and-ran;hit-and-runing]=verb=all
 hit-and-run=JJ=all
@@ -60633,8 +60687,9 @@ hygrophilous=JJ=all
 hygroscope=noun=all
 hygroscopic=JJ=all
 hygroscopically=RB=all
-hygroscopy=NN:U=all
-hylomorphism=NN:UN=all
+hygroscopy=noun_UN=all
+hylemorphism=noun_UN=all
+hylomorphism=noun_UN=all
 hylozoism=noun_UN=all
 hymen=noun=all
 hymenal=JJ=all
@@ -60694,6 +60749,7 @@ hypercorrect=JJ=all
 hypercorrection=noun_UN=all
 hypercorrectly=RB=all
 hypercorrectness=NN:U=all
+hypercortisolism=noun_UN=all
 hypercritical=JJ=all
 hypercritically=RB=all
 hypercriticize|hypercriticise=verb=us,ca,gb|gb,au,nz,za
@@ -63084,7 +63140,7 @@ innards=innards/NN,innards/NNS=all
 innate=JJ=all
 innately=RB=all
 innateness=NN:U=all
-innatism=NN:U=all
+innatism=noun_UN=all
 inner-city=JJ=all
 inner-directed=JJ=all
 inner=JJ=all
@@ -63552,7 +63608,7 @@ inter-agency=JJ=all
 interact=verb=all
 interaction=noun_UN=all
 interactional=JJ=all
-interactionism=NN:UN=all
+interactionism=noun_UN=all
 interactionist=JJ=all
 interactionist=noun=all
 interactive=JJ=all
@@ -64911,6 +64967,7 @@ jigsaw [jigsaws;jigsawed;jigsawed,jigsawn;jigsawing]=verb=all
 jigsaw=noun=all
 jihad=noun=all
 jihadi=noun=all
+jihadism=noun_UN=all
 jihadist=noun=all
 jilt=noun=all
 jilt=verb=all
@@ -65651,7 +65708,7 @@ kissable=JJ=all
 kissableness=NN:U=all
 kisser=noun=all
 kissing=NN:UN=all
-kist=NN=all
+kist=noun=all
 kit=noun_UN=all
 kit=verb=all
 kitbag=noun=all
@@ -67804,6 +67861,8 @@ longshore=JJ=all
 longsightedness=NN:U=all
 longsomeness=NN:U=all
 longstanding=JJ=all
+longtermism=noun_UN=all
+longtermist=noun=all
 longtime=JJ=all
 longueur=noun=all
 longways=JJ=all
@@ -68449,7 +68508,7 @@ maglev=noun=all
 magma=magma/NN:U,magmas/NNS,magmata/NNS=all
 magmatic=JJ=all
 magmatically=RB=all
-magmatism=NN:UN=all
+magmatism=noun_UN=all
 magnanimity=noun_U=all
 magnanimous=JJ=all
 magnanimously=RB=all
@@ -68915,6 +68974,7 @@ mantrap=noun=all
 mantua=noun=all
 manual=JJ=all
 manual=noun=all
+manualism=noun_UN=all
 manually=RB=all
 manubrium=noun=all
 manufactory=noun=all
@@ -68999,6 +69059,8 @@ margin=verb=all
 marginal=JJ=all
 marginal=noun=all
 marginalia=NN=all
+marginalism=noun_UN=all
+marginalist=noun=all
 marginality=noun_UN=all
 marginalization|marginalisation=noun_UN=us,ca,gb|gb,au,nz,za
 marginalize|marginalise=verb=us,ca,gb|gb,au,nz,za
@@ -69025,6 +69087,7 @@ marine=noun=all
 mariner=noun=all
 marinize|marinise=verb=us,ca,gb|gb,au,nz,za
 marionette=noun=all
+marionettist=noun=all
 marital=JJ=all
 maritally=RB=all
 maritime=JJ=all
@@ -69387,6 +69450,7 @@ maxillofacial=JJ=all
 maxim=noun=all
 maximal=JJ=all
 maximal=noun=all
+maximalism=noun_UN=all
 maximalist=noun=all
 maximally=RB=all
 maximist=noun=all
@@ -71337,6 +71401,7 @@ mod=JJ=all
 mod=noun=all
 modal=JJ=all
 modal=noun=all
+modalism=noun_UN=all
 modality=noun_UN=all
 modalize|modalise=verb=us,ca,gb|gb,au,nz,za
 modally=RB=all
@@ -71741,7 +71806,7 @@ monthly=noun=all
 monticule=noun=all
 monument=noun=all
 monumental=JJ=all
-monumentalism=NN:UN=all
+monumentalism=noun_UN=all
 monumentality=noun_UN=all
 monumentalize|monumentalise=verb=us,ca,gb|gb,au,nz,za
 monumentally=RB=all
@@ -73011,6 +73076,7 @@ nasty=nasty/JJ,nastier/JJR,nastiest/JJS=all
 nasty=noun=all
 nasuteness=NN:U=all
 natal=JJ=all
+natalism=noun_UN=all
 natality=noun_UN=all
 natant=JJ=all
 natation=noun_UN=all
@@ -73180,6 +73246,7 @@ necklace=verb=all
 neckless=JJ=all
 neckline=noun=all
 neckwear=NN:U=all
+necro-cannibalism=noun_UN=all
 necrolatry=noun_U=all
 necrological=JJ=all
 necrologist=noun=all
@@ -73300,9 +73367,11 @@ nematocyst=noun=all
 nematode=noun=all
 nemesis=nemesis/NN,nemeses/NNS=all
 neo-Attic=JJ=all
+neo-Darwinism=noun_UN=all
 neo-Gothic=JJ=all
 neo-Nazi=JJ=all
 neo-Nazi=noun=all
+neo-absolutism=noun_UN=all
 neo-imperial=JJ=all
 neo-imperialism=NN:U=all
 neo-imperialist=JJ=all
@@ -73335,10 +73404,12 @@ neoconservatism=noun_UN=all
 neoconservative=noun=all
 neocortex=neocortex/NN,neocortexes/NNS,neocortices/NNS=all
 neodymium=noun_U=all
+neoevangelicalism=noun_UN=all
 neogrammarian=noun=all
 neoliberal=JJ=all
 neoliberal=noun=all
 neoliberalism=noun_UN=all
+neolibertarianism=noun_UN=all
 neolith=noun=all
 neological=JJ=all
 neologism=noun_UN=all
@@ -74029,6 +74100,7 @@ non-rhotic=JJ=all
 non-sensitive=JJ=all
 non-steroidal=JJ=all
 non-terminating=JJ=all
+non-trinitarianism=noun_UN=all
 non-utilization|non-utilisation=noun_UN=us,ca,gb|gb,au,nz,za
 non-vascular=JJ=all
 non-vocalization|non-vocalisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -74423,6 +74495,7 @@ nontoxic|non-toxic=JJ=au,ca,us|gb,nz,za
 nontraditional=JJ=all
 nontransferable|non-transferable=JJ=au,ca,us|gb,nz,za
 nontraumatic=JJ=all
+nontrinitarianism=noun_UN=all
 nontypical|non-typical=JJ=au,ca,us|gb,nz,za
 nonuniform|non-uniform=JJ=au,ca,us|gb,nz,za
 nonunion=JJ=all
@@ -75113,7 +75186,7 @@ ocarina=noun=all
 occasion=noun_UN=all
 occasion=verb=all
 occasional=JJ=all
-occasionalism=NN:UN=all
+occasionalism=noun_UN=all
 occasionally=RB=all
 occasionalness=NN:U=all
 occidental=noun=all
@@ -75182,6 +75255,7 @@ octantal=JJ=all
 octarchy=noun=all
 octastyle=JJ=all
 octastyle=noun=all
+octatonicism=noun_UN=all
 octavalent=JJ=all
 octave=noun=all
 octavo=noun=all
@@ -76973,6 +77047,7 @@ overtly=RB=all
 overtness=NN:U=all
 overtone=noun=all
 overtop [-pp-]=verb=all
+overtourism=noun_UN=all
 overtrain=verb=all
 overtreatment=noun=all
 overtrick=noun=all
@@ -77277,6 +77352,7 @@ paled=JJ=all
 paleface=noun=all
 palely=RB=all
 paleness=NN:U=all
+paleolibertarianism=noun_UN=all
 palette=noun=all
 palfrey=noun=all
 palimpsest=JJ=all
@@ -77358,6 +77434,7 @@ pamphleteer=verb=all
 pan-Arab=JJ=all
 pan-Arabist=JJ=all
 pan-Arabist=pan-Arabist/NNP,pan-Arabists/NNPS=all
+pan-Germanism=noun_UN=all
 pan-Indian=JJ=all
 pan-fried=JJ=all
 pan-fry=verb=all
@@ -77424,7 +77501,7 @@ panini=panini/NN,panini/NNS,paninis/NNS=all
 panino=panino/NN,panini/NNS=all
 panir=NN:U=all
 panjandrum=noun=all
-panlogism=NN:UN=all
+panlogism=noun_UN=all
 panne=NN=all
 pannier=noun=all
 pannikin=noun=all
@@ -77786,7 +77863,7 @@ parley=noun=all
 parley=verb=all
 parliament=noun_UN=all
 parliamentarian=noun=all
-parliamentarianism=NN:UN=all
+parliamentarianism=noun_UN=all
 parliamentariness=NN:U=all
 parliamentarization|parliamentarisation=noun_UN=us,ca,gb|gb,au,nz,za
 parliamentary=JJ=all
@@ -78866,7 +78943,7 @@ peripartum=JJ=all
 peripartum=RB=all
 peripatetic=noun=all
 peripatetically=RB=all
-peripateticism=NN:UN=all
+peripateticism=noun_UN=all
 peripeteia=noun=all
 peripheral=JJ=all
 peripheral=noun=all
@@ -79046,6 +79123,7 @@ personnel=personnel/NN:U,personnel/NNS=all
 perspectival=JJ=all
 perspective=noun_UN=all
 perspectively=RB=all
+perspectivism=noun_UN=all
 perspex=noun_U=all
 perspicacious=JJ=all
 perspicaciously=RB=all
@@ -80383,6 +80461,7 @@ platform=noun=all
 platform=verb=all
 platformer=noun=all
 platforming=NN:U=all
+platformism=noun_UN=all
 plating=noun_U=all
 platinization|platinisation=noun_UN=us,ca,gb|gb,au,nz,za
 platinize|platinise=verb=us,ca,gb|gb,au,nz,za
@@ -81327,6 +81406,7 @@ postbox=noun=all
 postcard=noun=all
 postcode=noun=all
 postcolonial=JJ=all
+postcolonialism=noun_UN=all
 postdate=verb=all
 postdoc=noun=all
 postdoctoral=JJ=all
@@ -82381,7 +82461,7 @@ prescription=noun_UN=all
 prescriptive=JJ=all
 prescriptively=RB=all
 prescriptiveness=NN:U=all
-prescriptivism=NN:UN=all
+prescriptivism=noun_UN=all
 prescriptivist=noun=all
 preseason=noun=all
 preselect=verb=all
@@ -82933,7 +83013,7 @@ profaneness=NN:U=all
 profaner=noun=all
 profanity=noun_UN=all
 profeminist=JJ=all
-profeminist=NN=all
+profeminist=noun=all
 profess=verb=all
 professed=JJ=all
 professedly=RB=all
@@ -83142,6 +83222,9 @@ promulgated=JJ=all
 promulgation=noun_U=all
 promulgator=noun=all
 promycelium=noun=all
+pronatalism=noun_UN=all
+pronatalist=JJ=all
+pronatalist=noun=all
 pronate=verb=all
 pronation=noun=all
 pronator=pronator/NN,pronatores/NNS,pronators/NNS=all
@@ -83738,7 +83821,7 @@ psychotherapeutic=JJ=all
 psychotherapeutic=noun=all
 psychotherapeutical=JJ=all
 psychotherapeutics=NN:U=all
-psychotherapeutist=NN=all
+psychotherapeutist=noun=all
 psychotherapist=noun=all
 psychotherapy=noun_U=all
 psychotic=JJ=all
@@ -84299,6 +84382,7 @@ quadrumanous=JJ=all
 quadruped=JJ=all
 quadruped=noun=all
 quadrupedal=JJ=all
+quadrupedalism=noun_UN=all
 quadruple=JJ=all
 quadruple=noun=all
 quadruple=verb=all
@@ -85347,7 +85431,7 @@ reactant=noun=all
 reaction=noun_UN=all
 reactionary=JJ=all
 reactionary=noun=all
-reactionism=NN:UN=all
+reactionism=noun_UN=all
 reactivate=verb=all
 reactivation=noun_U=all
 reactive=JJ=all
@@ -85905,6 +85989,8 @@ red-letter=JJ=all
 red-light=JJ=all
 red-tabbed=JJ=all
 red-tailed=JJ=all
+red-tapeism=noun_UN=all
+red-tapism=noun_UN=all
 red=noun_UN=all
 red=red/JJ,redder/JJR,reddest/JJS=all
 redact=verb=all
@@ -87377,7 +87463,7 @@ restock=verb=all
 restorable=JJ=all
 restorableness=NN:U=all
 restoration=noun_UN=all
-restorationism=NN:UN=all
+restorationism=noun_UN=all
 restorationist=noun=all
 restorative=JJ=all
 restorative=noun_UN=all
@@ -87566,7 +87652,7 @@ retreat=verb=all
 retreated=NN=all
 retreating=JJ=all
 retreatingness=NN:U=all
-retreatism=NN:U=all
+retreatism=noun_UN=all
 retreatist=JJ=all
 retreatist=noun=all
 retrench=verb=all
@@ -89095,6 +89181,7 @@ salaciousness=NN:U=all
 salacity=noun_U=all
 salad=noun_U=all
 salade=noun=all
+salafist=noun=all
 salamander=noun=all
 salami=noun_U=all
 salaried=JJ=all
@@ -90595,7 +90682,7 @@ self-contradictory=JJ=all
 self-control=NN:U=all
 self-correcting=JJ=all
 self-created=JJ=all
-self-criticism=NN:UN=all
+self-criticism=noun_UN=all
 self-cultivation=NN:UN=all
 self-dealing=NN:U=all
 self-deceit=NN:UN=all
@@ -91884,6 +91971,7 @@ showiness=NN:U=all
 showing=noun_UN=all
 showjumping=NN:U=all
 showman=showman/NN,showmen/NNS=all
+showmanism=noun_UN=all
 showmanship=noun_U=all
 showroom=noun=all
 showrunner=noun=all
@@ -92286,7 +92374,7 @@ sincerity=noun_U=all
 sinciput=noun=all
 sine=noun=all
 sinecure=noun=all
-sinecurism=NN:UN=all
+sinecurism=noun_UN=all
 sinecurist=noun=all
 sinew=noun=all
 sinewiness=NN:U=all
@@ -92421,6 +92509,8 @@ situation=noun=all
 situational=JJ=all
 situationally=RB=all
 situationism=noun_UN=all
+situationist=JJ=all
+situationist=noun=all
 sitzmark=noun=all
 six-lane=JJ=all
 six-liter|six-litre=noun=us|au,ca,gb,nz,za
@@ -93458,6 +93548,7 @@ sociobiological=JJ=all
 sociobiologically=RB=all
 sociobiologist=noun=all
 sociobiology=noun_UN=all
+sociocentrism=noun_UN=all
 sociocultural=JJ=all
 socioculturally=RB=all
 sociodemographic=JJ=all
@@ -96362,7 +96453,7 @@ subjunctive=noun_UN=all
 subjunctively=RB=all
 subkey=noun=all
 subkingdom=noun=all
-sublapsarianism=NN:UN=all
+sublapsarianism=noun_UN=all
 sublayer=noun=all
 sublease=noun=all
 sublease=verb=all
@@ -96463,7 +96554,7 @@ subordinately=RB=all
 subordinateness=NN:U=all
 subordinating=JJ=all
 subordination=noun_U=all
-subordinationism=NN:UN=all
+subordinationism=noun_UN=all
 subordinationist=noun=all
 subordinative=JJ=all
 subordinator=JJ=all
@@ -97144,6 +97235,9 @@ supersensual=JJ=all
 supersensuousness=NN:U=all
 superserviceableness=NN:U=all
 supersession=noun_U=all
+supersessionism=noun_UN=all
+supersessionist=JJ=all
+supersessionist=noun=all
 superset=noun=all
 supersize=JJ=all
 supersize=verb=all
@@ -100715,6 +100809,7 @@ transcriptomics=NN:U=all
 transcultural=JJ=all
 transcurrent=JJ=all
 transcutaneous=JJ=all
+transdenominationalism=noun_UN=all
 transdermal=JJ=all
 transdermally=RB=all
 transdisciplinary=JJ=all
@@ -100759,6 +100854,7 @@ transfuse=verb=all
 transfusion=noun_UN=all
 transgender=JJ=all
 transgendered=JJ=all
+transgenderism=noun_UN=all
 transgenic=JJ=all
 transgress=verb=all
 transgression=noun_UN=all
@@ -101370,7 +101466,7 @@ trochophore=noun=all
 trod=NN=all
 troglodyte=noun=all
 troglodytic=JJ=all
-troglodytism=NN:UN=all
+troglodytism=noun_UN=all
 trogon=noun=all
 troika=noun=all
 troll=noun=all
@@ -102155,7 +102251,7 @@ umpteen=DT=all
 umpteen=JJ=all
 umpteenth=JJ=all
 un-American=JJ=all
-un-Americanism=NNP=all
+un-Americanism=noun_UN=all
 un-Irish=JJ=all
 unabashed=JJ=all
 unabashedly=RB=all
@@ -103135,7 +103231,7 @@ undervalue=noun=all
 undervalue=verb=all
 undervalued=JJ=all
 undervest=noun=all
-underwaist=NN=all
+underwaist=noun=all
 underwater=JJ=all
 underwater=RB=all
 underway=JJ=all
@@ -105631,6 +105727,7 @@ vaccinator=noun=all
 vaccine=noun_UN=all
 vaccinia=noun=all
 vaccinization|vaccinisation=noun_UN=us,ca,gb|gb,au,nz,za
+vaccinologist=noun=all
 vacillate=verb=all
 vacillating=JJ=all
 vacillation=noun_UN=all
