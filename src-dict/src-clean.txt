@@ -30456,6 +30456,7 @@ apostasy=apostasy/NN,apostasy/NN:U,apostasies/NNS=all
 apostate=JJ=all
 apostate=noun=all
 apostatize|apostatise=verb=us,ca,gb|gb,au,nz,za
+apostille=verb=all
 apostle=noun=all
 apostleship=noun_U=all
 apostolate=noun=all
@@ -31855,6 +31856,7 @@ autocratic=JJ=all
 autocratically=RB=all
 autocross=noun=all
 autocue=noun=all
+autodetect=verb=all
 autodetection=NN:UN=all
 autodidact=noun=all
 autodidactic=JJ=all
@@ -31868,6 +31870,7 @@ autofluorescence=NN:U=all
 autofocus [-ss-,-s-]=verb=all
 autofocus=autofocus/NN,autofocus/NN:U,autofocuses/NNS=all
 autogamy=autogamy/NN,autogamy/NN:U,autogamies/NNS=all
+autogenerate=verb=all
 autogenesis=autogenesis/NN,autogeneses/NNS=all
 autogenous=JJ=all
 autogiro=noun=all
@@ -31927,6 +31930,7 @@ autopilot=autopilot/NN,autopilot/NN:UN,autopilots/NNS=all
 autoplasty=noun_UN=all
 autoplay=NN:U=all
 autoplay=verb=all
+autopopulate=verb=all
 autopsy=noun_UN=all
 autopsy=verb=all
 autoradiograph=JJ=all
@@ -33001,6 +33005,7 @@ bdellium=noun_U=all
 be=be/VB,was/VBD,wast/VBD,were/VBD,being/VBG,been/VBN,'m/VBP,'re/VBP,am/VBP,are/VBP,'s/VBZ,is/VBZ=all
 beach=noun=all
 beach=verb=all
+beachcomb=verb=all
 beachcomber=noun=all
 beached=JJ=all
 beachhead=noun=all
@@ -42271,6 +42276,7 @@ counteract=verb=all
 counteraction=noun=all
 counteractive=JJ=all
 counteragent=noun=all
+counterargue=verb=all
 counterargument=noun=all
 counterassault=noun=all
 counterattack=noun=all
@@ -42283,6 +42289,7 @@ counterblow=noun=all
 countercampaign=noun=all
 counterchange=verb=all
 counterchanged=JJ=all
+countercharge=verb=all
 countercheck=verb=all
 counterclaim=noun=all
 counterclaim=verb=all
@@ -42339,6 +42346,7 @@ counterpane=noun=all
 counterpart=noun=all
 counterparty=noun=all
 counterpetition=noun=all
+counterpicket=verb=all
 counterplan=noun=all
 counterplay=noun=all
 counterplayer=noun=all
@@ -42375,6 +42383,8 @@ countersink=noun=all
 countersniper=noun=all
 counterspell=noun=all
 counterspy=noun=all
+counterstain=verb=all
+counterstate=verb=all
 counterstatement=noun=all
 counterstrategy=noun=all
 counterstream=noun=all
@@ -42382,6 +42392,7 @@ counterstrike=noun=all
 counterstroke=noun=all
 counterstyle=noun=all
 countersubject=noun=all
+countersue=verb=all
 countersuit=noun=all
 countertendency=noun=all
 countertenor=JJ=all
@@ -44631,6 +44642,7 @@ deductible=noun=all
 deduction=noun_UN=all
 deductive=JJ=all
 deductively=RB=all
+deduplicate=verb=all
 deed=noun=all
 deed=verb=all
 deejay=noun=all
@@ -44705,6 +44717,7 @@ defendant=JJ=all
 defendant=noun=all
 defender=noun=all
 defending=JJ=all
+defenestrate=verb=all
 defenestration=noun_UN=all
 defensed|defenced=JJ=us|au,ca,gb,nz,za
 defenselessly|defencelessly=JJ=us|au,ca,gb,nz,za
@@ -44890,6 +44903,7 @@ deindustrialization|deindustrialisation=noun_UN=us,ca,gb|gb,au,nz,za
 deindustrialize|deindustrialise=verb=us,ca,gb|gb,au,nz,za
 deinstitutionalization|deinstitutionalisation=noun_UN=us,ca,gb|gb,au,nz,za
 deinstitutionalize|deinstitutionalise=verb=us,ca,gb|gb,au,nz,za
+deinterlace=verb=all
 deionization|deionisation=noun_UN=us,ca,gb|gb,au,nz,za
 deionizer|deioniser=noun=us,ca,gb|gb,au,nz,za
 deionize|deionise=verb=us,ca,gb|gb,au,nz,za
@@ -44923,6 +44937,7 @@ dekaweber=noun=us
 dekko=noun=all
 del=noun=all
 delabialization|delabialisation=noun_UN=us,ca,gb|gb,au,nz,za
+delaminate=verb=all
 delamination=noun=all
 delay=noun_UN=all
 delay=verb=all
@@ -45260,6 +45275,7 @@ denude=verb=all
 denumerability=noun_UN=all
 denumerable=JJ=all
 denumerably=RB=all
+denunciate=verb=all
 denunciation=noun_UN=all
 denunciative=JJ=all
 denunciatory=JJ=all
@@ -45587,6 +45603,7 @@ desolate=verb=all
 desolately=RB=all
 desolateness=NN:U=all
 desolation=noun_U=all
+desorb=verb=all
 desorption=noun_UN=all
 despair=noun_U=all
 despair=verb=all
@@ -45877,6 +45894,7 @@ dewdrop=noun=all
 dewily=RB=all
 dewiness=NN:U=all
 dewlap=noun=all
+deworm=verb=all
 dewy=dewy/JJ,dewier/JJR,dewiest/JJS=all
 dexamethasone=dexamethasone/NN,dexamethasone/NN:UN,dexamethasones/NNS=all
 dexter=JJ=all
@@ -46837,6 +46855,7 @@ disingenuousness=NN:U=all
 disinherit=verb=all
 disinheritance=noun_U=all
 disinherited=JJ=all
+disinhibit=verb=all
 disinhibition=noun_UN=all
 disintegrate=verb=all
 disintegration=noun_U=all
@@ -47609,6 +47628,7 @@ doom=noun_UN=all
 doom=verb=all
 doomed=JJ=all
 dooms=RB=all
+doomscroll=verb=all
 doomsday=noun_U=all
 doomster=noun=all
 door=noun=all
@@ -47655,6 +47675,7 @@ dorp=noun=all
 dorsal=JJ=all
 dorsal=noun=all
 dorsally=RB=all
+dorsiflex=verb=all
 dorsiflexion=NN=all
 dorsiflexor=NN=all
 dorsiventral=JJ=all
@@ -47834,6 +47855,7 @@ downright=JJ=all
 downright=RB=all
 downrightness=NN:U=all
 downriver=RB=all
+downsample=verb=all
 downscale=JJ=all
 downshift=noun=all
 downshift=verb=all
@@ -49405,6 +49427,7 @@ ember=noun=all
 embezzle=verb=all
 embezzlement=noun_U=all
 embezzler=noun=all
+embiggen=verb=all
 embitter=verb=all
 embitterment=noun_U=all
 emblazon=verb=all
@@ -50117,6 +50140,7 @@ entryway=noun=all
 entrée=noun_UN=all
 entwine=verb=all
 enucleate=RB=all
+enucleate=verb=all
 enumerability=noun_UN=all
 enumerable=JJ=all
 enumerate=verb=all
@@ -51965,6 +51989,7 @@ fading=noun_UN=all
 fado=noun=all
 faerie=JJ=all
 faerie=noun=all
+faff=verb=all
 fag=noun_UN=all
 fag=verb=all
 fagging=noun_UN=all
@@ -57219,6 +57244,7 @@ greenish=JJ=all
 greenishness=NN:U=all
 greenkeeper=noun=all
 greenlet=noun=all
+greenlight=verb=all
 greenling=greenling/NN,greenling/NNS=all
 greenly=RB=all
 greenmail=noun_U=all
@@ -58371,6 +58397,7 @@ harrier=noun=all
 harrow=noun=all
 harrow=verb=all
 harrowing=JJ=all
+harrumph=verb=all
 harry=verb=all
 harsh=harsh/JJ,harsher/JJR,harshest/JJS=all
 harshen=verb=all
@@ -60121,6 +60148,7 @@ hostler=noun=all
 hostname=noun=all
 hot-blooded=JJ=all
 hot-rolled=JJ=all
+hot-wire=verb=all
 hot=RB=all
 hot=hot/JJ,hotter/JJR,hottest/JJS=all
 hot=verb=all
@@ -63858,6 +63886,7 @@ interoffice=JJ=all
 interoperability=noun_UN=all
 interoperable=JJ=all
 interoperably=RB=all
+interoperate=verb=all
 interoperation=NN:UN=all
 interoperative=JJ=all
 interoperative=noun=all
@@ -65743,6 +65772,7 @@ kleptomania=noun_U=all
 kleptomaniac=noun=all
 klipspringer=noun=all
 kloof=noun=all
+kludge=verb=all
 klutziness=NN:U=all
 klutzy=klutzy/JJ,klutzier/JJR,klutziest/JJS=all
 klystron=noun=all
@@ -70372,6 +70402,7 @@ microbiologically=RB=all
 microbiologist=noun=all
 microbiology=noun_U=all
 microbiota=NN:U=all
+microbitcoin=noun=all
 microblog=noun=all
 microblogging=NNP=all
 microbrewery=noun=all
@@ -70776,6 +70807,7 @@ milliard=CD=all
 milliard=noun=all
 millibar=noun=all
 millibecquerel=noun=all
+millibitcoin=noun=all
 millicandela=noun=all
 millicoulomb=noun=all
 millifarad=noun=all
@@ -71057,6 +71089,7 @@ misappropriate=verb=all
 misappropriated=JJ=all
 misappropriation=noun_UN=all
 misassumption=noun=all
+misattribute=verb=all
 misauthorization|misauthorisation=noun_UN=us,ca,gb|gb,au,nz,za
 misbegotten=JJ=all
 misbehave=verb=all
@@ -73582,6 +73615,7 @@ neurologically=RB=all
 neurologist=noun=all
 neurology=noun_U=all
 neuroma=noun=all
+neuromodulate=verb=all
 neuromuscular=JJ=all
 neuronal=JJ=all
 neuron|neurone=JJ=all|gb,nz,za
@@ -75369,6 +75403,7 @@ off=verb=all
 offal=noun_U=all
 offbeat=JJ=all
 offbeat=noun=all
+offboard=verb=all
 offcut=noun=all
 offend=verb=all
 offended=JJ=all
@@ -76629,6 +76664,7 @@ overbearingly=RB=all
 overbearingness=NN:U=all
 overbid [overbids;overbid;overbid,overbidden;overbidding]=verb=all
 overbid=noun=all
+overbill=verb=all
 overbite=noun=all
 overblouse=noun=all
 overblow [overblows;overblew;overblown;overblowing]=verb=all
@@ -76641,6 +76677,7 @@ overbuild [overbuilds;overbuilt;overbuilt;overbuilding]=verb=all
 overburden=noun=all
 overburden=verb=all
 overburdened=JJ=all
+overburn [overburns;overburned,overburnt;overburned,overburnt;overburning]=verb=all
 overbuy [overbuys;overbought;overbought;overbuying]=verb=all
 overcall=noun=all
 overcapacity=noun_U=all
@@ -76668,12 +76705,14 @@ overcoloration|overcolouration=noun_UN=us|gb,ca,au,nz,za
 overcome [overcomes;overcame;overcome;overcoming]=verb=all
 overcomer=noun=all
 overcommercialization|overcommercialisation=noun_UN=us,ca,gb|gb,au,nz,za
+overcommit [-tt-]=verb=all
 overcommitment=noun=all
 overcompensate=verb=all
 overcompensation=noun_U=all
 overcompetitiveness=NN:U=all
 overcomplicate=verb=all
 overcomplicated=JJ=all
+overcompress=verb=all
 overconfidence=noun_U=all
 overconfident=JJ=all
 overconfidently=RB=all
@@ -76686,6 +76725,7 @@ overcooked=JJ=all
 overcorrect=JJ=all
 overcorrect=verb=all
 overcorrection=noun_UN=all
+overcount=verb=all
 overcritical=JJ=all
 overcriticalness=NN:U=all
 overcrossing=NN=all
@@ -76703,6 +76743,7 @@ overdependence=noun=all
 overdependent=JJ=all
 overdevelop=verb=all
 overdevelopment=noun=all
+overdiagnose=verb=all
 overdiscount=verb=all
 overdo [overdoes;overdid;overdone;overdoing]=verb=all
 overdosage=noun=all
@@ -76745,10 +76786,12 @@ overexcitement=NN=all
 overexercise=verb=all
 overexert=verb=all
 overexertion=noun_U=all
+overexpand=verb=all
 overexpansion=noun=all
 overexploitation=noun_UN=all
 overexpose=verb=all
 overexposure=noun_U=all
+overexpress=verb=all
 overexpression=NN:U=all
 overextend=verb=all
 overextension=noun=all
@@ -76776,9 +76819,11 @@ overfondness=NN:U=all
 overforwardness=NN:U=all
 overfrequency=NN=all
 overfull=JJ=all
+overfund=verb=all
 overgarment=noun=all
 overgeneralization|overgeneralisation=noun_UN=us,ca,gb|gb,au,nz,za
 overgeneralize|overgeneralise=verb=us,ca,gb|gb,au,nz,za
+overgenerate=verb=all
 overgenerous=JJ=all
 overglamorize|overglamorise=verb=us,ca,gb|gb,au,nz,za
 overglaze=JJ=all
@@ -76863,6 +76908,8 @@ overman [-nn-]=verb=all
 overman [pl. overmen]=noun=all
 overmantel=noun=all
 overmaster=verb=all
+overmatch=verb=all
+overmedicate=verb=all
 overmedication=noun_UN=all
 overmodernization|overmodernisation=noun_UN=us,ca,gb|gb,au,nz,za
 overmuch=JJ=all
@@ -76880,9 +76927,11 @@ overnormalization|overnormalisation=noun_UN=us,ca,gb|gb,au,nz,za
 overnumerousness=NN:U=all
 overoptimism=noun_U=all
 overoptimistic=JJ=all
+overorder=verb=all
 overorganization|overorganisation=noun_UN=us,ca,gb|gb,au,nz,za
 overorganize|overorganise=verb=us,ca,gb|gb,au,nz,za
 overoxidization|overoxidisation=noun_UN=us,ca,gb|gb,au,nz,za
+overpackage=verb=all
 overpass=noun=all
 overpass=verb=all
 overpay [overpays;overpaid;overpaid;overpaying]=verb=all
@@ -76904,6 +76953,7 @@ overprecise=JJ=all
 overpreciseness=NN:U=all
 overpredict=verb=all
 overprediction=noun_UN=all
+overprescribe=verb=all
 overprescription=noun_UN=all
 overpressure=noun_UN=all
 overprice=verb=all
@@ -76911,14 +76961,18 @@ overprint=noun=all
 overprint=verb=all
 overprioritization|overprioritisation=noun_UN=us,ca,gb|gb,au,nz,za
 overprivileged=JJ=all
+overprocess=verb=all
 overproduce=verb=all
 overproduction=noun_U=all
 overpromise=verb=all
+overpromote=verb=all
 overproof=JJ=all
 overprotect=verb=all
 overprotection=noun_UN=all
 overprotective=JJ=all
 overprotectiveness=NN:U=all
+overpurchase=verb=all
+overpursue=verb=all
 overqualification=NN:UN=all
 overqualified=JJ=all
 overquietness=NN:U=all
@@ -76930,7 +76984,9 @@ overreacher=noun=all
 overreaching=JJ=all
 overreact=verb=all
 overreaction=noun_UN=all
+overrecover=verb=all
 overrefined=JJ=all
+overregulate=verb=all
 overregulation=noun_UN=all
 overreliance=noun=all
 overrepresented=JJ=all
@@ -76945,7 +77001,9 @@ overrule=verb=all
 overrun [overruns;overran;overrun;overrunning]=verb=all
 overrun=noun=all
 oversale=noun=all
+oversaturate=verb=all
 oversaturation=noun_UN=all
+oversauce=verb=all
 overschedule=verb=all
 overscrupulousness=NN:U=all
 oversea=JJ=all
@@ -76985,6 +77043,7 @@ oversoul=noun=all
 overspecialization|overspecialisation=noun_UN=us,ca,gb|gb,au,nz,za
 overspecialized|overspecialised=JJ=us,ca,gb|gb,au,nz,za
 overspecialize|overspecialise=verb=us,ca,gb|gb,au,nz,za
+overspeed=verb=all
 overspend [overspends;overspent;overspent;overspending]=verb=all
 overspend=noun=all
 overspill [overspills;overspilled,overspilt;overspilled,overspilt;overspilling]=verb=all
@@ -76997,6 +77056,7 @@ overstatement=noun_UN=all
 overstay=noun=all
 overstay=verb=all
 overstayed=JJ=all
+oversteer=verb=all
 overstep [-pp-]=verb=all
 overstiffness=NN:U=all
 overstimulate=verb=all
@@ -77073,6 +77133,7 @@ overvigorous=JJ=all
 overvigorously=RB=all
 overvigorousness=NN:U=all
 overvoltage=noun=all
+overvote=verb=all
 overwash=noun=all
 overwash=verb=all
 overwatch=verb=all
@@ -78210,6 +78271,7 @@ patriarch=patriarch/NN,patriarchs/NNS=all
 patriarchal=JJ=all
 patriarchate=noun=all
 patriarchy=noun_UN=all
+patriate=verb=ca
 patrician=JJ=all
 patrician=noun=all
 patriciate=noun=all
@@ -78829,6 +78891,7 @@ perfecter=noun=all
 perfectibility=noun_U=all
 perfectible=JJ=all
 perfection=noun_UN=all
+perfectionate=verb=all
 perfectionism=noun_U=all
 perfectionist=JJ=all
 perfectionist=noun=all
@@ -80516,6 +80579,7 @@ playpen=noun=all
 playroom=noun=all
 playschool=noun=all
 playsuit=noun=all
+playtest=verb=all
 plaything=noun=all
 playtime=noun_U=all
 playwright=noun=all
@@ -85390,6 +85454,7 @@ re-elect=verb=all
 re-emerge=verb=all
 re-emphasize|re-emphasise=verb=us,ca,gb|gb,au,nz,za
 re-enable=verb=all
+re-encode=verb=all
 re-energize|re-energise=verb=us,ca,gb|gb,au,nz,za
 re-engine=verb=all
 re-evaluate=verb=all
@@ -85562,6 +85627,7 @@ reassess=verb=all
 reassessment=noun_UN=all
 reassign=verb=all
 reassignment=noun=all
+reassume=verb=all
 reassumption=noun=all
 reassurance=noun_UN=all
 reassure=verb=all
@@ -85580,6 +85646,7 @@ reauthorization|reauthorisation=noun_UN=us,ca,gb|gb,au,nz,za
 reauthorize|reauthorise=verb=us,ca,gb|gb,au,nz,za
 reawaken=verb=all
 reawakening=noun_UN=all
+rebadge=verb=all
 rebalance=noun=all
 rebalance=verb=all
 rebaptize=verb=all
@@ -85642,6 +85709,7 @@ recalcitrant=noun=all
 recalculate=verb=all
 recalculation=noun_UN=all
 recalescence=noun=all
+recalibrate=verb=all
 recalibration=noun_UN=all
 recall=noun_UN=all
 recall=verb=all
@@ -85849,6 +85917,7 @@ reconsider=verb=all
 reconsideration=noun_U=all
 reconsign=verb=all
 reconsignment=noun=all
+reconsolidate=verb=all
 reconstitute=verb=all
 reconstituted=JJ=all
 reconstitution=noun_U=all
@@ -85865,6 +85934,7 @@ reconstructiveness=NN:U=all
 reconsultation=NN:UN=all
 recontamination=noun=all
 recontextualize|recontextualise=verb=us,ca,gb|gb,au,nz,za
+recontract=verb=all
 reconvene=verb=all
 reconversion=noun=all
 reconvert=verb=all
@@ -86170,6 +86240,7 @@ refactoring=noun=all
 refamiliarization|refamiliarisation=noun_UN=us,ca,gb|gb,au,nz,za
 refashion=verb=all
 refasten=verb=all
+refax=verb=all
 refection=noun_U=all
 refectory=noun=all
 refederalization|refederalisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -86188,6 +86259,7 @@ referentially=RB=all
 referral=noun_UN=all
 referrer=noun=all
 refertilization|refertilisation=noun_UN=us,ca,gb|gb,au,nz,za
+refetch=verb=all
 refile=verb=all
 refill=noun=all
 refill=verb=all
@@ -86402,6 +86474,7 @@ regnant=JJ=all
 regolith=regolith/NN,regolith/NN:U,regoliths/NNS=all
 regrade=noun=all
 regrade=verb=all
+regrease=verb=all
 regress=noun=all
 regress=verb=all
 regressing=JJ=all
@@ -86470,8 +86543,10 @@ rehouse=verb=all
 rehousing=noun_UN=all
 rehumanization|rehumanisation=noun_UN=us,ca,gb|gb,au,nz,za
 rehumanize|rehumanise=verb=us,ca,gb|gb,au,nz,za
+rehydrate=verb=all
 rehydration=noun_UN=all
 rehypnotize|rehypnotise=verb=us,ca,gb|gb,au,nz,za
+rehypothecate=verb=all
 reichsmark=noun=all
 reification=noun_UN=all
 reify=verb=all
@@ -86571,6 +86646,7 @@ rejudge=verb=all
 rejuvenate=verb=all
 rejuvenation=noun_U=all
 rejuvenator=noun=all
+rekeyboard=verb=all
 rekindle=verb=all
 reknit [reknits;reknit,reknitted;reknit,reknitted;reknitting]=verb=all
 relabel [-ll-]|relabel=verb=all|us
@@ -86637,6 +86713,7 @@ reliably=RB=all
 reliance=noun_U=all
 reliant=JJ=all
 reliantly=RB=all
+reliberate=verb=all
 relic=noun=all
 relict=noun=all
 relief=relief/NN:UN,reliefs/NNS,relieves/NNS=all
@@ -87202,6 +87279,7 @@ reread=noun=all
 rereading=noun_UN=all
 rerecord=verb=all
 reredos=noun=all
+reregulate=verb=all
 reregulation=noun_UN=all
 reroute=noun=all
 reroute=verb=all
@@ -87247,6 +87325,7 @@ resentful=JJ=all
 resentfully=RB=all
 resentfulness=NN:U=all
 resentment=noun_UN=all
+resequence=verb=all
 reserpine=noun_U=all
 reservable=JJ=all
 reservation=noun_UN=all
@@ -87302,6 +87381,7 @@ resilience=noun_U=all
 resiliency=noun_U=all
 resilient=JJ=all
 resiliently=RB=all
+resilver=verb=all
 resin=noun_UN=all
 resinate=verb=all
 resinated=JJ=all
@@ -87336,6 +87416,7 @@ resize=verb=all
 reskin [-nn-]=verb=all
 resocialization|resocialisation=noun_UN=us,ca,gb|gb,au,nz,za
 resocialize|resocialise=verb=us,ca,gb|gb,au,nz,za
+resolder=verb=all
 resole=verb=all
 resoluble=JJ=all
 resolute=noun=all
@@ -87359,6 +87440,7 @@ resonant=JJ=all
 resonantly=RB=all
 resonate=verb=all
 resonator=noun=all
+resorb=verb=all
 resorcinol=noun_U=all
 resorption=noun_U=all
 resort=noun_UN=all
@@ -87517,6 +87599,7 @@ resupply=noun=all
 resupply=verb=all
 resuppress=verb=all
 resurface=verb=all
+resurge=verb=all
 resurgence=noun=all
 resurgent=JJ=all
 resurrect=verb=all
@@ -87532,6 +87615,7 @@ resuspend=verb=all
 resuspension=NN=all
 resveratrol=noun_UN=all
 resymbolization|resymbolisation=noun_UN=us,ca,gb|gb,au,nz,za
+resync=verb=all
 resynchronization|resynchronisation=noun_UN=us,ca,gb|gb,au,nz,za
 resynchronize|resynchronise=verb=us,ca,gb|gb,au,nz,za
 resynthesize|resynthesise=verb=us,ca,gb|gb,au,nz,za
@@ -87747,7 +87831,9 @@ reutilization|reutilisation=noun_UN=us,ca,gb|gb,au,nz,za
 reutilize|reutilise=verb=us,ca,gb|gb,au,nz,za
 rev=noun=all
 rev=verb=all
+revaccinate=verb=all
 revaccination=noun=all
+revalidate=verb=all
 revalidation=noun_UN=all
 revalorization|revalorisation=noun_UN=us,ca,gb|gb,au,nz,za
 revalorize|revalorise=verb=us,ca,gb|gb,au,nz,za
@@ -91790,6 +91876,7 @@ shit=UH=all
 shit=noun_UN=all
 shitake=noun=all
 shitbag=noun=all
+shitcoin=noun=all
 shitface=noun=all
 shithead=noun=all
 shithole=noun=all
@@ -97523,6 +97610,7 @@ suspicious=JJ=all
 suspiciously=RB=all
 suspiciousness=NN:U=all
 suspiration=noun_UN=all
+suss=verb=gb,nz,za,au
 sustain=noun=all
 sustain=verb=all
 sustainability=noun_UN=all
@@ -103008,10 +103096,12 @@ underarm=noun=all
 underbelly=noun=all
 underbid [underbids;underbid;underbid;underbidding]=verb=all
 underbidder=noun=all
+underbill=verb=all
 underbodice=NN=all
 underbody=noun=all
 underbred=JJ=all
 underbrush=noun_U=all
+underburn=verb=all
 undercapitalization|undercapitalisation=noun_UN=us,ca,gb|gb,au,nz,za
 undercapitalized|undercapitalised=JJ=us,ca,gb|gb,au,nz,za
 undercapitalize|undercapitalise=verb=us,ca,gb|gb,au,nz,za
@@ -103022,6 +103112,7 @@ undercharge=verb=all
 underclass=JJ=all
 underclass=noun_U=all
 underclay=noun=all
+underclock=verb=all
 underclothes=NNS=all
 underclothing=noun_U=all
 undercoat=noun=all
@@ -103029,6 +103120,7 @@ undercoat=verb=all
 undercoated=JJ=all
 undercoating=noun_UN=all
 undercolored|undercoloured=JJ=us|gb,ca,au,nz,za
+undercommit [-tt-]=verb=all
 undercook=verb=all
 undercooked=JJ=all
 undercount=noun=all
@@ -103039,6 +103131,7 @@ undercroft=noun=all
 undercurrent=noun=all
 undercut [undercuts;undercut;undercut;undercutting]=verb=all
 undercut=noun_U=all
+underdeliver=verb=all
 underdeveloped=JJ=all
 underdevelopment=noun_U=all
 underdiagnose=verb=all
@@ -103069,10 +103162,12 @@ underfolded=JJ=all
 underfoot=JJ=all
 underfoot=RB=all
 underfrequency=NN=all
+underfunction=verb=all
 underfund=verb=all
 underfunding=noun=all
 underfur=noun_U=all
 undergarment=noun=all
+undergenerate=verb=all
 undergird [undergirds;undergirded,undergirt;undergirded,undergirt;undergirding]=verb=all
 underglaze=JJ=all
 underglaze=noun=all
@@ -103128,6 +103223,7 @@ underneath=noun=all
 undernourished=JJ=all
 undernourishment=noun_U=all
 undernutrition=noun_UN=all
+underorder=verb=all
 underorganization|underorganisation=noun_UN=us,ca,gb|gb,au,nz,za
 underpaint=verb=all
 underpainting=noun=all
@@ -103154,8 +103250,10 @@ underprice=verb=all
 underprioritization|underprioritisation=noun_UN=us,ca,gb|gb,au,nz,za
 underprivileged=JJ=all
 underproduction=noun_U=all
+underpromote=verb=all
 underproof=JJ=all
 underprop [-pp-]=verb=all
+underprovide=verb=all
 underqualified=JJ=all
 underquote=verb=all
 underrate=verb=all
@@ -105494,6 +105592,7 @@ uproariousness=NN:U=all
 uproot=verb=all
 uprootedness=NN:U=all
 uprooting=noun_UN=all
+upsample=verb=all
 upscale=JJ=all
 upscale=verb=all
 upsell [upsells;upsold;upsold;upselling]=verb=all
