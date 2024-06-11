@@ -61,7 +61,7 @@ sprawl=verb=all
 spray=verb=all
 ```
 
-The regular inflection of verbs is defined in [inflection.py](https://github.com/languagetool-org/english-pos-dict/blob/main/src-dict/inflection.py). In monosyllabic verbs, the regular inflection includes the duplication of the consonant (`hug`-> `hugged`). 
+The regular inflection of verbs is defined in [inflection.py](https://github.com/languagetool-org/english-pos-dict/blob/main/src-dict/inflection.py). In monosyllabic verbs, the regular inflection includes the duplication of the consonant (`hug`-> `hugged`, `spot`-> `spotted`). 
 
 In case a double consonant (or double and single consonant) is needed, use:
 ```
