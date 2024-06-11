@@ -38,9 +38,9 @@ The number of elements in the lemma separated by `|` must be equal to the number
 ### Nouns
 To make it easier to write nouns, we use the shorthands `noun`, `noun_U` and `noun_UN`. In these cases, there will be a regular plural form generated automatically.
 
-`bicycle=noun=all` is equivalent to `bicycle=bicycle/NN,bicycles/NNS=all`
-`bidding=noun_U=all` is equivalent to `bidding=bidding/NN:U,biddings/NNS=all`
-`bind=noun_UN=all` is equivalent to `bind=bind/NN:UN,bbinds/NNS=all`
+* `bicycle=noun=all` is equivalent to `bicycle=bicycle/NN,bicycles/NNS=all`
+* `bidding=noun_U=all` is equivalent to `bidding=bidding/NN:U,biddings/NNS=all`
+* `bind=noun_UN=all` is equivalent to `bind=bind/NN:UN,binds/NNS=all`
 
 Irregular plurals (one or more) can be written this way:
 ```
@@ -64,6 +64,12 @@ unfocus [-ss-,-s-]=verb=all
 Irregular verbs can be written, with [third_person,past,past_participle,ing_form]:
 ```
 sing [sings;sang;sung;singing]=verb=all
+```
+### Adjectives
+
+```
+happy-go-lucky=JJ=all
+happy=happy/JJ,happier/JJR,happiest/JJS=all
 ```
 
 ## Scripts
