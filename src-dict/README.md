@@ -2,7 +2,7 @@
 
 This project provides a unique [source file](https://github.com/languagetool-org/english-pos-dict/blob/main/src-dict/src-clean.txt) and a set of scripts to maintain an English dictionary.
 
-This text file aims to be easily readable and editable by hand. From this source file, we will generate the tagger dictionary and the spelling dictionaries (for different variants: US, GB, CA, AU, NZ, SZ) used in LanguageTool. 
+This text file aims to be easily readable and editable by hand. From this source file, we will generate the tagger dictionary and the spelling dictionaries (for different variants: US, GB, CA, AU, NZ, ZA) used in LanguageTool. 
 
 ## Required knowledge
 
