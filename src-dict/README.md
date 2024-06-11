@@ -33,11 +33,10 @@ unrealizable|unrealisable=JJ=us,ca,gb|gb,au,nz,za
 unrealized|unrealised=JJ=us,ca,gb|gb,au,nz,za
 unrealize|unrealise=verb=us,ca,gb|gb,au,nz,za
 ```
-The number of elements in the lemma separated by `|` must be equal to the number of groups in the variants.
-`unrealizable` will be used in variants `us,ca,gb` and `unrealisable` will be used in variants `gb,au,nz,za`.
+The number of elements in the lemma separated by `|` must be equal to the number of groups in the variants. In the first example `unrealizable` will be used in variants `us,ca,gb` and `unrealisable` will be used in variants `gb,au,nz,za`.
 
 ### Nouns
-To make it easier to write nouns, we use the shorthands `noun`, `noun_U` and `noun_UN`. In these cases, there will be a regular plural form generated automatically, or an irregular form written out.
+To make it easier to write nouns, we use the shorthands `noun`, `noun_U` and `noun_UN`. In these cases, there will be a regular plural form generated automatically.
 
 `bicycle=noun=all` is equivalent to `bicycle=bicycle/NN,bicycles/NNS=all`
 `bidding=noun_U=all` is equivalent to `bidding=bidding/NN:U,biddings/NNS=all`
