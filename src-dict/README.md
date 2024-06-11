@@ -65,6 +65,9 @@ unfocus [-ss-,-s-]=verb=all
 Irregular verbs can be written, with [third_person,past,past_participle,ing_form]:
 ```
 sing [sings;sang;sung;singing]=verb=all
-
 ```
+
+## Scripts
+* Script to make tests
+* Script to build the dictionaries
 
