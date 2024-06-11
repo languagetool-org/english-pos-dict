@@ -73,7 +73,7 @@ Verbs with variants:
 ```
 cancel [-ll-]|cancel=verb=all|us
 ```
-In this example, "cancelled" will be used in all variants, and "canceled" onlly in US variant. 
+In this example, "cancelled" will be used in all variants, and "canceled" only in US variant. 
 
 ### Adjectives
 
