@@ -68,6 +68,13 @@ Irregular verbs can be written, with [third_person;past;past_participle;ing_form
 sing [sings;sang;sung;singing]=verb=all
 hide [hides;hid;hid,hidden;hiding]=verb=all
 ```
+
+Verbs with variants:
+```
+cancel [-ll-]|cancel=verb=all|us
+```
+In this example, "cancelled" will be used in all variants, and "canceled" onlly in US variant. 
+
 ### Adjectives
 
 ```
