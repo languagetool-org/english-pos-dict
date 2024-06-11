@@ -64,6 +64,7 @@ unfocus [-ss-,-s-]=verb=all
 Irregular verbs can be written, with [third_person,past,past_participle,ing_form]:
 ```
 sing [sings;sang;sung;singing]=verb=all
+hide [hides;hid;hid,hidden;hiding]=verb=all
 ```
 ### Adjectives
 
