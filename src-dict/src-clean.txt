@@ -41,6 +41,7 @@
 #lor=UH=all # unusual
 #lor=lor/NN,lors/NNS=all # unusual
 #merchandize=verb=us # less common
+#misdemean=verb=all # archaic?
 #oecumenical=JJ=gb # archaic
 #programer=noun=us # unusual
 #programing=noun_U=us #unusual
@@ -4427,7 +4428,8 @@ CEFTA=NNP=all
 CELAC=NNP=all
 CELTA=NNP=all
 CEMS=NNP=all
-CEO=CEO/NN,CEO/NNP,CEOs/NNPS,CEOs/NNS=all
+CEO=NNP=all
+CEO=noun=all
 CER=NNP=all
 CERN=NNP=all
 CES=NNP=all
@@ -14202,6 +14204,7 @@ LOX=NNP=all
 LP=LP/NN,LP/NNP,LPs/NNS=all
 LPG=NNP=all
 LPGA=NNP=all
+LPN=noun=all
 LPS=NNP=all
 LR=NNP=all
 LSD=NNP=all
@@ -14216,6 +14219,7 @@ LTV=noun=all
 LULAC=NNP=all
 LX=NNP=all
 LXX=NNP=all
+LZMA=NNP=all
 La=NNP=all
 LaBelle=NNP=all
 LaCie=NNP=all
@@ -25784,6 +25788,7 @@ WAGA-TV=NNP=all
 WAN=NNP=all
 WASP=NNP=all
 WATS=NNP=all
+WAV=noun=all
 WBAL-TV=NNP=all
 WBAY-TV=NNP=all
 WBNS-TV=NNP=all
@@ -29660,6 +29665,9 @@ anecdotal=JJ=all
 anecdotalist=noun=all
 anecdotally=RB=all
 anecdote=anecdote/NN,anecdota/NNS,anecdotes/NNS=all
+anecdotic=JJ=all
+anecdotical=JJ=all
+anecdotically=RB=all
 anecdotist=noun=all
 anechoic=JJ=all
 anekāntavāda=NN:U=all
@@ -59400,7 +59408,7 @@ hibernization|hibernisation=noun_UN=us,ca,gb|gb,au,nz,za
 hibiscus=noun_U=all
 hiccough=noun=all
 hiccough=verb=all
-hiccup [hiccups;hiccuped,hiccupped;hiccuped,hiccupped;hiccuping,hiccupping]=verb=all
+hiccup [-pp-,-p-]=verb=all
 hiccup=noun_U=all
 hick=JJ=all
 hick=noun=all
@@ -71182,7 +71190,12 @@ miscibility=noun_U=all
 miscible=JJ=all
 misclassification=noun_UN=all
 misclassify=verb=all
+miscode=verb=all
+miscommunicate=verb=all
 miscommunication=noun_UN=all
+miscomprehend=verb=all
+miscomprehension=noun_UN=all
+miscomputation=noun_UN=all
 misconceive=verb=all
 misconceiver=noun=all
 misconception=noun_UN=all
@@ -71191,6 +71204,7 @@ misconduct=verb=all
 misconfiguration=misconfiguration/NN,misconfiguration/NN:UN,misconfigurations/NNS=all
 misconfigure=verb=all
 misconfigured=JJ=all
+misconnection=noun_UN=all
 misconstruction=noun_UN=all
 misconstrue=verb=all
 miscopy=verb=all
@@ -71210,6 +71224,7 @@ misdelivered=JJ=all
 misdelivery=NN=all
 misdemeanant=noun=all
 misdemeanor|misdemeanour=noun=us|gb,ca,au,nz,za
+misdescription=noun_UN=all
 misdiagnose=verb=all
 misdiagnosis=misdiagnosis/NN,misdiagnoses/NNS=all
 misdirect=verb=all
@@ -109576,7 +109591,7 @@ zálesíite=NN:U=all
 Ötzi=NNP=all
 Özlem=NNP=all
 Øresund=NNP=all
-Übermensch=Übermensch/NN,Übermenschen/NNS=all
+Übermensch [pl. Übermenschen]=noun=all
 åkermanite=NN:U=all
 ångström=noun=all
 échappé=JJ=all
@@ -109604,7 +109619,9 @@ zálesíite=NN:U=all
 Łódź=NNP=all
 Şahin=NNP=all
 Štokavian=NNP=all
+α-tubulin=noun=all
 β-carotene=noun=all
 β-glucanase=noun=all
 β-lactam=noun=all
 β-lactamase=noun=all
+β-tubulin=noun=all
