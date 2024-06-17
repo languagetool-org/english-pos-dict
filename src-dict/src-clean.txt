@@ -48171,6 +48171,8 @@ dripstone=noun_U=all
 drivability=noun_UN=all
 drivable=JJ=all
 drive [drives;drove;driven;driving]=verb=all
+outdrive [outdrives;outdrove;outdriven;outdriving]=verb=all
+kippah [pl. kippahs,kippot]=noun=gb
 drive-in=noun=all
 drive-through=JJ=all
 drive-through=noun=all
