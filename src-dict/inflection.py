@@ -112,7 +112,7 @@ def getFormTagLemma(forms_tags, lemma, variants):
   if "/" in forms_tags:
     for form_tag in forms_tags.split(","):
        form, tag = tuple(form_tag.split("/"))
-       inflected_forms.append(form+" "+lemma+" "+tag+" "+variants)
+       inflected_forms.append(form+"\t"+lemma+"\t"+tag+"\t"+variants)
     return inflected_forms
 
 def getFormsFromLine(line):
