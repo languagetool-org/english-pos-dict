@@ -3,13 +3,16 @@ import inflection
 tagger_file = open("./src-dict/output/tagger-dictionary.txt", "w")
 
 all_variants = ["us", "gb", "ca", "nz", "au", "za"]
-tags_to_avoid = ["untagged", "punctuation", "abbreviation", "symbol"]
+tags_to_avoid = ["untagged", "punctuation", "abbreviation", "symbol", "contraction"]
 spelling_dicts = {}
 for myvariant in all_variants:
   spelling_dicts[myvariant] = {}
 
 for file_path in ["./src-dict/src-clean.txt"]: #,"./src-dict/src-pending.txt"
   with open(file_path, "r") as file:
+    tagger_file.write("#\t#\t#\n")
+    tagger_file.write(",\t,\t,\n")
+    tagger_file.write(".\t.\t.\n")
     for line in file.readlines():
       form_lines = inflection.getFormsFromLine(line)
       if len(form_lines)>0:
