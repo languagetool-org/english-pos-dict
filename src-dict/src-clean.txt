@@ -52,6 +52,7 @@
 #somebody'll=contraction=all
 #someone'll=contraction=all
 #stade=noun=all # unusual
+#u [pl. us,u's]=noun=all
 #wen=noun=us # unusual?
 $=$=all
 &=CC=all
@@ -5607,6 +5608,8 @@ Brillouin=NNP=all
 Brindisi=NNP=all
 Brindle=NNP=all
 Brindley=NNP=all
+Brine=NNP=all
+Briney=NNP=all
 Bringhurst=NNP=all
 Brinkley=NNP=all
 Brisbane=NNP=all
@@ -13019,6 +13022,7 @@ Forth=NNP=all
 Fortin=NNP=all
 Fortinbras=NNP=all
 Fortinet=NNP=all
+Fortis=NNP=all
 Fortnite=NNP=all
 Fortran=NNP=all
 Fortuna=NNP=all
@@ -26037,17 +26041,17 @@ Pakistani=Pakistani/NNP,Pakistanis/NNPS=all
 Pakpattan=NNP=all
 Pal=NNP=all
 Palacios=NNP=all
-Palaeogene=JJ=all
-Palaeogene=Palaeogene/NN:U,Palaeogene/NNP=all
-Palaeozoic=JJ=all
-Palaeozoic=NNP=all
+Palaeocene|Paleocene=JJ=au,gb,nz,za|ca,us
+Palaeocene|Paleocene=NNP=au,gb,nz,za|ca,us
+Palaeogene|Paleogene=JJ=au,gb,nz,za|ca,us
+Palaeogene|Paleogene=NN:U=au,gb,nz,za|ca,us
+Palaeolithic|Paleolithic=JJ=au,gb,nz,za|ca,us
+Palaeolithic|Paleolithic=NNP=au,gb,nz,za|ca,us
+Palaeozoic|Paleozoic=JJ=au,gb,nz,za|ca,us
+Palaeozoic|Paleozoic=NNP=au,gb,nz,za|ca,us
 Palawan=NNP=all
 Palembang=NNP=all
 Palenque=NNP=all
-Paleocene=NNP=all
-Paleolithic=JJ=all
-Paleozoic=JJ=all
-Paleozoic=NNP=all
 Palermo=NNP=all
 Palestine=NNP=all
 Palestinian=Palestinian/NNP,Palestinians/NNPS=all
@@ -73991,6 +73995,7 @@ jauntily=RB=all
 jauntiness=NN:U=all
 jaunty=jaunty/JJ,jauntier/JJR,jauntiest/JJS=all
 jaunty=noun=all
+java=noun_U=all
 javelin=noun=all
 jaw-dropper=noun=all
 jaw-dropping=JJ=all
@@ -86528,7 +86533,18 @@ pal=noun=all
 pal=verb=all
 palace=noun_UN=all
 paladin=noun=all
-palaeography=NN=all
+palaeography|paleography=noun_UN=au,gb,nz,za|ca,us
+palaeomagnetically|paleomagnetically=RB=au,gb,nz,za|ca,us
+palaeomagnetic|paleomagnetic=JJ=au,gb,nz,za|ca,us
+palaeomagnetism|paleomagnetism=noun_UN=au,gb,nz,za|ca,us
+palaeontographical|paleontographical=JJ=au,gb,nz,za|ca,us
+palaeontographic|paleontographic=JJ=au,gb,nz,za|ca,us
+palaeontography|paleontography=noun=au,gb,nz,za|ca,us
+palaeontologically|paleontologically=RB=au,gb,nz,za|ca,us
+palaeontological|paleontological=JJ=au,gb,nz,za|ca,us
+palaeontologic|paleontologic=JJ=au,gb,nz,za|ca,us
+palaeontologist|paleontologist=noun=au,gb,nz,za|ca,us
+palaeontology|paleontology=noun_UN=au,gb,nz,za|ca,us
 palanquin=noun=all
 palatability=noun_UN=all
 palatable=JJ=all
@@ -111378,7 +111394,6 @@ tête-à-tête=JJ=all
 tête-à-tête=RB=all
 tête-à-tête=tête-à-tête/NN,tête-à-tête/NNS,tête-à-têtes/NNS=all
 tögrög=tögrög/NN,tögrög/NNS=all
-u [pl. us,u's]=noun=all
 u=abbreviation=all
 ubiquitarian=noun=all
 ubiquitarianism=NN:U=all
