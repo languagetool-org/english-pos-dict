@@ -35337,7 +35337,8 @@ Wojciech=NNP=all
 Wojtek=NNP=all
 Woking=NNP=all
 Wolcott=NNP=all
-Wolds=NNP=all
+Wold=NNP=all
+Wolds=NNPS=all
 Wolf=NNP=all
 Wolfcamp=NNP=all
 Wolfe=NNP=all
@@ -45298,6 +45299,9 @@ bushy=NN=all
 bushy=bushy/JJ,bushier/JJR,bushiest/JJS=all
 busied=JJ=all
 busily=RB=all
+business-critical=JJ=all
+business-to-business=JJ=all
+business=JJ=all
 business=noun_UN=all
 businesslike=JJ=all
 businessman=businessman/NN,businessmen/NNS=all
@@ -49593,6 +49597,8 @@ compensate=verb=all
 compensation=noun_UN=all
 compensator=noun=all
 compensatory=JJ=all
+compere=noun=all
+compere=verb=all
 compete=verb=all
 competence=noun_UN=all
 competency=noun_UN=all
@@ -54789,6 +54795,7 @@ desultory=JJ=all
 desynchronization|desynchronisation=noun_UN=us,ca,gb|gb,au,nz,za
 desynchronize|desynchronise=verb=us,ca,gb|gb,au,nz,za
 desynchronizing=NN:UN=all
+det=abbreviation=all
 detach=verb=all
 detachability=noun_UN=all
 detachable=JJ=all
@@ -61005,8 +61012,12 @@ fabulousness=NN:U=all
 fac=NN=all
 facade=noun=all
 face-centered|face-centred=JJ=us|au,ca,gb,nz,za
+face-lift=noun=all
 face-plant=verb=all
+face-saver=noun=all
 face-saving=JJ=all
+face-to-face=JJ=all
+face-to-face=RB=all
 face=noun=all
 face=verb=all
 faceable=JJ=all
@@ -67094,6 +67105,8 @@ half-liter|half-litre=noun=us|au,ca,gb,nz,za
 half-mast=NN:UN=all
 half-pint=JJ=all
 half-pint=noun=all
+half-serious=JJ=all
+half-seriously=RB=all
 half-timbered=JJ=all
 half-track=noun=all
 half-truth=noun_UN=all
@@ -80854,6 +80867,7 @@ monohybrid=noun=all
 monohydrate=noun_U=all
 monohydrated=JJ=all
 monohydric=JJ=all
+monoid=noun=all
 monolatry=noun=all
 monolayer=noun=all
 monolingual=JJ=all
@@ -83202,6 +83216,7 @@ non-baryonic=JJ=all
 non-binary=JJ=all
 non-biological=JJ=all
 non-biologically=RB=all
+non-business=NN:UN=all
 non-capturing=JJ=all
 non-charitable=JJ=all
 non-consecutive=JJ=all
@@ -89337,6 +89352,7 @@ piperonal=noun=all
 pipette=noun=all
 pipette=verb=all
 pipework=noun_U=all
+pipi=noun=all
 pipiness=NN:U=all
 piping=JJ=all
 piping=noun_U=all
@@ -89835,8 +89851,21 @@ plotlessness=NN:U=all
 plotted=JJ=all
 plotter=noun=all
 ploughboy=noun=all
+ploughmanship|plowmanship=NN:UN=ca,us|au,gb,nz,za
 plover=noun=all
 plowable=JJ=all
+plowboy|ploughboy=noun=ca,us|au,gb,nz,za
+plowed|ploughed=JJ=ca,us|au,gb,nz,za
+plower|plougher=noun=ca,us|au,gb,nz,za
+plowhead|ploughhead=noun=ca,us|au,gb,nz,za
+plowing|ploughing=noun_UN=ca,us|au,gb,nz,za
+plowland|ploughland=noun=ca,us|au,gb,nz,za
+plowman [pl. plowmen]|ploughman [pl. ploughmen]=noun=ca,us|au,gb,nz,za
+plowshare|ploughshare=noun=ca,us|au,gb,nz,za
+plowstaff|ploughstaff=NN=ca,us|au,gb,nz,za
+plowwright|ploughwright=noun=ca,us|au,gb,nz,za
+plow|plough=noun=ca,us|au,gb,nz,za
+plow|plough=verb=ca,us|au,gb,nz,za
 ploy=noun=all
 pls=RB=all # slang
 pluck=noun_UN=all
@@ -92049,6 +92078,7 @@ prizefighting=noun_U=all
 prizewinner=noun=all
 prizewinning=JJ=all
 pro-am=JJ=all
+pro-business=JJ=all
 pro-choice=JJ=all
 pro-competitive=JJ=all
 pro-government=JJ=all
