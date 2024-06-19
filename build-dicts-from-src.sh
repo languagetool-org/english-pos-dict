@@ -1,5 +1,8 @@
 #!/bin/bash
 
+python3 src-dict/check-syntax.py 
+python3 src-dict/build-all-dicts.py 
+
 lt_version=6.5-SNAPSHOT
 lt_tools=../languagetool/languagetool-standalone/target/LanguageTool-${lt_version}/LanguageTool-${lt_version}/languagetool.jar
 
