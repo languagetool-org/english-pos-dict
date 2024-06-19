@@ -8442,7 +8442,9 @@ Coleen=NNP=all
 Coleman=NNP=all
 Coleoptera=NNP=all
 Coleraine=NNP=all
+Coleridge-Taylor=NNP=all
 Coleridge=NNP=all
+Coleridgian=JJ=all
 Colet=NNP=all
 Colette=NNP=all
 Colfax=NNP=all
@@ -30395,6 +30397,7 @@ Shaffer=NNP=all
 Shafiq=NNP=all
 Shafter=NNP=all
 Shaftesbury=NNP=all
+Shah=NNP=all
 Shaheed=NNP=all
 Shaheen=NNP=all
 Shaheena=NNP=all
@@ -47581,10 +47584,10 @@ chigger=noun=all
 chignon=noun=all
 chihuahua=noun=all
 chilblain=noun=all
+child [pl. children]=noun=all
 child-centered|child-centred=JJ=us|au,ca,gb,nz,za
 child-free=JJ=all
 child-friendly=JJ=all
-child=child/NN,children/NNS=all
 childbearing=JJ=all
 childbearing=noun_U=all
 childbed=noun_UN=all
@@ -66419,6 +66422,21 @@ greaser=noun=all
 greasily=RB=all
 greasiness=NN:U=all
 greasy=greasy/JJ,greasier/JJR,greasiest/JJS=all
+great-aunt=noun=all
+great-grandaunt=NN=all
+great-grandchild [pl. great-grandchildren]=noun=all
+great-granddaughter=noun=all
+great-grandfather=noun=all
+great-grandmother=noun=all
+great-grandnephew=noun=all
+great-grandniece=noun=all
+great-grandparent=noun=all
+great-grandson=noun=all
+great-granduncle=noun=all
+great-hearted=JJ=all
+great-nephew=noun=all
+great-niece=noun=all
+great-uncle=noun=all
 great=great/JJ,greater/JJR,greatest/JJS=all
 great=noun=all
 greatcoat=noun=all
@@ -116099,6 +116117,7 @@ visibleness=NN:U=all
 visibly=RB=all
 vision=noun_UN=all
 vision=verb=all
+visionOS=NNP=all
 visionariness=NN:U=all
 visionary=JJ=all
 visionary=noun=all
