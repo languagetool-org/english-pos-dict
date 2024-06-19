@@ -10,13 +10,19 @@
 #Las=NNP=all # Spanish names, musical note
 #Suu=NNP=all # ??
 #aggroup=verb=all # archaic
+#airbus [pl. airbusses]=noun=all # unusual
 #an't=contraction=all # misspelling?
 #anotherArtificialTestWordForLanguageTool=UNTAGGED=all
 #araeometer=noun=all # archaic
 #audiospectrometer=noun=all
+#autobus [pl. autobusses]=noun=all # unusual
+#bus [-ss-]=verb=all # unusual
+#bus [pl. busses]=all # unusual
 #bye-election=noun=all # usual
 #cancelation=noun_UN=us # unusual
 #ceteris=RB=all #ceteris paribus
+#costar [-rr-]=verb=all # unusual?
+#costar=noun=all # unusual?
 #crystalize=verb= #unusual
 #diagram=verb=all # unusual diagramed
 #editress=noun=all #dated
@@ -41,8 +47,11 @@
 #lor=UH=all # unusual
 #lor=lor/NN,lors/NNS=all # unusual
 #merchandize=verb=us # less common
+#microbus [pl. microbusses]=noun=all # unusual
+#minibus [pl. minibusses]=noun=all # unusual
 #misdemean=verb=all # archaic?
 #oecumenical=JJ=gb # archaic
+#omnibus [pl. omnibusses]=noun=all # unusual
 #programer=noun=us # unusual
 #programing=noun_U=us #unusual
 #ptyalize|ptyalise=verb=us,ca,gb|gb,au,nz,za # unusual obsolete
@@ -52,6 +61,7 @@
 #somebody'll=contraction=all
 #someone'll=contraction=all
 #stade=noun=all # unusual
+#trolleybus [pl. trolleybusses]=noun=all # unusual
 #u [pl. us,u's]=noun=all
 #wen=noun=us # unusual?
 $=$=all
@@ -820,6 +830,7 @@ AJU=untagged=all
 AJV=untagged=all
 AJW=untagged=all
 AJY=untagged=all
+AK-47=NNp=all
 AK=untagged=all
 AKB=untagged=all
 AKC=NNP=all
@@ -5403,6 +5414,7 @@ Boyes=NNP=all
 Boyle=NNP=all
 Boyne=NNP=all
 Boynton=NNP=all
+Boyt=NNP=all
 Boz=NNP=all
 Bozcaada=NNP=all
 Bozeman=NNP=all
@@ -5612,6 +5624,7 @@ Brine=NNP=all
 Briney=NNP=all
 Bringhurst=NNP=all
 Brinkley=NNP=all
+Briny=NNP=all
 Brisbane=NNP=all
 Bristol=NNP=all
 Brit=Brit/NNP,Brits/NNPS=all
@@ -9646,6 +9659,7 @@ Daedalus=NNP=all
 Daegu=NNP=all
 Daenerys=NNP=all
 Daewoo=NNP=all
+Daffodil=NNP=all
 Dag=NNP=all
 Dagan=NNP=all
 Dagda=NNP=all
@@ -10927,6 +10941,7 @@ EMR=NNP=all
 EMT=noun=all
 EMU=untagged=all
 EN=untagged=all
+ENA=NNP=all
 ENAC=untagged=all
 ENAER=untagged=all
 ENAP=untagged=all
@@ -11282,7 +11297,9 @@ Ecclus=NNP=all
 Echinacea=NNP=all
 Echinodermata=NNP=all
 Echium=NNP=all
+Echo=NNP=all
 EchoStar=NNP=all
+Echos=NNPS=all
 Echosmith=NNP=all
 Eck=NNP=all
 Eckel=NNP=all
@@ -11594,6 +11611,7 @@ Empirin=NNP=all
 Emporia=NNP=all
 Empson=NNP=all
 Emsworth=NNP=all
+Ena=NNP=all
 Enceladus=NNP=all
 Encke=NNP=all
 End=NNP=all
@@ -12554,6 +12572,7 @@ Fabrizio=NNP=all
 FaceTime=NNP=all
 FaceTime=verb=all
 Facebook=NNP=all
+Fadil=NNP=all
 Faenza=NNP=all
 Faeroe=NNP=all
 Faeroese=JJ=all
@@ -14233,6 +14252,7 @@ Glickstein=NNP=all
 Glinka=NNP=all
 Gliwice=NNP=all
 GlobalLogic=NNP=all
+Globicephala=NNP=all
 Globish=NNP=all
 Glock=NNP=all
 Glomma=NNP=all
@@ -16784,6 +16804,7 @@ IRAS=untagged=all
 IRB=untagged=all
 IRBM=untagged=all
 IRC=untagged=all
+IRCAM=NNP=all
 IRCANTEC=untagged=all
 IRCB=untagged=all
 IRCC=NNP=all
@@ -17792,6 +17813,7 @@ Jerome=NNP=all
 Jerri=NNP=all
 Jerrie=NNP=all
 Jerrold=NNP=all
+Jerry=Jerry/NNP,Jerries/NNPS=all
 Jersey=Jersey/NNP,Jerseys/NNPS=all
 Jerseyan=JJ=all
 Jerseyan=Jerseyan/NNP,Jerseyans/NNPS=all
@@ -24243,6 +24265,7 @@ Nepalese=JJ=all
 Nepalese=NNP=all
 Nepali=JJ=all
 Nepali=Nepali/NN:U,Nepali/NNP,Nepalis/NNPS=all
+Nephi=NNP=all
 Nepos=NNP=all
 Neptune=NNP=all
 Neptunian=JJ=all
@@ -24262,11 +24285,13 @@ Nespresso=NNP=all
 Ness=NNP=all
 Nessie=NNP=all
 Nessus=NNP=all
+Nest=NNP=all
 Nestlé=NNP=all
 Nestor=Nestor/NNP,Nestors/NNPS=all
 Nestorian=Nestorian/NNP,Nestorians/NNPS=all
 Nestorianism=Nestorianism/NNP,Nestorianisms/NNPS=all
 Nestorius=NNP=all
+NetBIOS=NNP=all
 NetBSD=NNP=all
 Netanyahu=NNP=all
 Netatmo=NNP=all
@@ -24424,6 +24449,7 @@ Nigeria=NNP=all
 Nigerian=Nigerian/NNP,Nigerians/NNPS=all
 Nigerianization|Nigerianisation=noun_UN=us,ca,gb|gb,au,nz,za
 Nigerien=NNP=all
+Night=NNP=all
 Nightingale=NNP=all
 Nihon=NNP=all
 Niigata=NNP=all
@@ -28512,6 +28538,7 @@ Romanic=Romanic/NNP,Romanics/NNPS=all
 Romanism=Romanism/NNP,Romanisms/NNPS=all
 Romanist=Romanist/NNP,Romanists/NNPS=all
 Romanization|Romanisation=noun_UN=us,ca,gb|gb,au,nz,za
+Romanizer=noun=all
 Romanize|Romanise=verb=us,ca,gb|gb,au,nz,za
 Romano=Romano/NNP,Romanos/NNPS=all
 Romanov=NNP=all
@@ -30194,6 +30221,7 @@ Sedgwick=NNP=all
 Sedna=NNP=all
 Sedro-Woolley=NNP=all
 Seebeck=NNP=all
+Seed=NNP=all
 Seeger=NNP=all
 Seely=NNP=all
 Sefton=NNP=all
@@ -30373,6 +30401,7 @@ Shamash=NNP=all
 Shamika=NNP=all
 Shamshi-Adad=NNP=all
 Shamus=NNP=all
+Shan=NNP=all
 Shana=NNP=all
 Shanahan=NNP=all
 Shandong=NNP=all
@@ -30392,6 +30421,7 @@ Shanksville=NNP=all
 Shanley=NNP=all
 Shanna=NNP=all
 Shannon=NNP=all
+Shans=NNPS=all
 Shanxi=NNP=all
 Shaolin=JJ=all
 Shaolin=Shaolin/NNP,Shaolins/NNPS=all
@@ -30861,6 +30891,8 @@ Snapchat=NNP=all
 Sneed=NNP=all
 Sneezy=NNP=all
 Snell=NNP=all
+Snickers=NNP=all
+Snickers=NNPS=all
 Snider=NNP=all
 Snodgrass=NNP=all
 Snohomish=NNP=all
@@ -32272,6 +32304,7 @@ Tasman=NNP=all
 Tasmania=NNP=all
 Tasmanian=Tasmanian/NNP,Tasmanians/NNPS=all
 Tasso=NNP=all
+Tat=NNP=all
 Tata=NNP=all
 Tatar=JJ=all
 Tatar=Tatar/NN:U,Tatar/NNP,Tatars/NNPS=all
@@ -36143,6 +36176,7 @@ Záparo=NNP=all
 Zárate=NNP=all
 Zúñiga=NNP=all
 Zürich=NNP=all
+a-year=JJ=all
 a=a/DT,an/DT=all
 aardvark=noun=all
 aardwolf=aardwolf/NN,aardwolves/NNS=all
@@ -37708,7 +37742,7 @@ airborne=JJ=all
 airbrush=noun=all
 airbrush=verb=all
 airburst=noun=all
-airbus=airbus/NN,airbuses/NNS,airbusses/NNS=all
+airbus=noun=all
 aircraft=aircraft/NN,aircraft/NNS=all
 aircraftman=aircraftman/NN,aircraftmen/NNS=all
 aircrew=noun=all
@@ -38009,6 +38043,7 @@ all-nighter=noun=all
 all-out=JJ=all
 all-rounder=NN=all
 all-star=JJ=all
+all-year=JJ=all
 all=DT=all
 all=JJ=all
 all=all/PDT,all/PRP=all
@@ -40900,7 +40935,7 @@ autobiographic=JJ=all
 autobiographical=JJ=all
 autobiographically=RB=all
 autobiography=noun_UN=all
-autobus=autobus/NN,autobuses/NNS,autobusses/NNS=all
+autobus=noun=all
 autocatalysis=autocatalysis/NN,autocatalyses/NNS=all
 autocephalous=JJ=all
 autocephaly=noun_U=all
@@ -42860,6 +42895,7 @@ billhook=noun=all
 billiard=JJ=all
 billiard=noun=all
 billing=noun_UN=all
+billion-a-year=JJ=all
 billion=CD=all
 billion=JJ=all
 billion=noun=all
@@ -45277,8 +45313,8 @@ burst [bursts;burst,bursted;burst,bursted;bursting]=verb=all
 burst=noun=all
 burweed=noun=all
 bury=verb=all
-bus [buses,busses;bused,bussed;bused,bussed;busing,bussing]=verb=all
-bus=bus/NN,buses/NNS,busses/NNS=all
+bus=noun=all
+bus=verb=all
 busby=noun=all
 bush=bush/NN,bush/NN:U,bushes/NNS=all
 bush=verb=all
@@ -47969,9 +48005,11 @@ cincture=noun=all
 cinder=noun=all
 cinder=verb=all
 cindery=JJ=all
-cine=cine/NN,cine/NN:U,cines/NNS=all
+cine=noun=all
+cine=noun_U=all
 cineast=noun=all
 cineaste=noun=all
+cinema=noun=all
 cinema=noun_UN=all
 cinematheque=noun=all
 cinematic=JJ=all
@@ -48684,8 +48722,12 @@ co-ordinate=noun=all
 co-ordinate=verb=all
 co-pay [co-pays;co-paid;co-paid;co-paying]=verb=all
 co-payment=noun_UN=all
+co-sponsor=noun=all
+co-sponsor=verb=all
 co-star [-rr-]=verb=all
 co-star=noun=all
+co-worker=noun=all
+co-working=NN:U=all
 co-write [co-writes;co-wrote;co-written;co-writing]=verb=all
 co-writer=noun=all
 co=abbreviation=all
@@ -52028,6 +52070,7 @@ crippled=JJ=all
 crippler=noun=all
 crippling=JJ=all
 cripplingly=RB=all
+crise=noun=all # maybe unusual?
 crisis=crisis/NN:UN,crises/NNS=all
 crisp=crisp/JJ,crisper/JJR,crispest/JJS=all
 crisp=noun=all
@@ -55100,7 +55143,7 @@ dialectologist=noun=all
 dialectology=noun_UN=all
 dialogic=JJ=all
 dialogical=JJ=all
-dialogically=RB=none
+dialogically=RB=all
 dialogism=noun_UN=all
 dialogist=noun=all
 dialogistic=JJ=all
@@ -58173,6 +58216,7 @@ eight-lane=JJ=all
 eight-liter|eight-litre=noun=us|au,ca,gb,nz,za
 eight-month-old=noun=all
 eight-year-old=noun=all
+eight-year=JJ=all
 eight=CD=all
 eight=eight/JJ,eighter/JJR=all
 eight=noun=all
@@ -58272,6 +58316,7 @@ elect=verb=all
 electability=noun_UN=all
 electable=JJ=all
 elected=JJ=all
+election-year=JJ=all
 election=noun_UN=all
 electioneer=verb=all
 electioneering=noun_U=all
@@ -58855,6 +58900,7 @@ encyst=verb=all
 encystation=noun_UN=all
 encysted=JJ=all
 encystment=noun_U=all
+end-of-the-year=JJ=all
 end-stage=JJ=all
 end-to-end=JJ=all
 end-to-end=RB=all
@@ -60159,6 +60205,7 @@ exabit=noun=all
 exabyte=noun=all
 exacandela=noun=all
 exacerbate=verb=all
+exacerbatingly=RB=all
 exacerbation=noun_U=all
 exacoulomb=noun=all
 exact=exact/JJ,exacter/JJR,exactest/JJS=all
@@ -62043,6 +62090,7 @@ fifteenfold=JJ=all
 fifteenfold=RB=all
 fifteenth=JJ=all
 fifteenth=noun=all
+fifth-year=JJ=all
 fifth=JJ=all
 fifth=noun=all
 fifthly=RB=all
@@ -62059,6 +62107,7 @@ fifty-seven=CD=all
 fifty-six=CD=all
 fifty-three=CD=all
 fifty-two=CD=all
+fifty-year=JJ=all
 fifty=CD=all
 fifty=JJ=all
 fifty=noun=all
@@ -62310,6 +62359,7 @@ first-rate=JJ=all
 first-rate=RB=all
 first-string=JJ=all
 first-time=JJ=all
+first-year=JJ=all
 first=JJ=all
 first=RB=all
 first=noun_UN=all
@@ -62389,6 +62439,7 @@ five-month-old=noun=all
 five-seater=noun=all
 five-year-old=JJ=all
 five-year-old=noun=all
+five-year=JJ=all
 five=CD=all
 five=five/JJ,fiver/JJR=all
 five=noun=all
@@ -63527,6 +63578,7 @@ forty-seven=CD=all
 forty-six=CD=all
 forty-three=CD=all
 forty-two=CD=all
+forty-year=JJ=all
 forty=CD=all
 forty=JJ=all
 forty=noun=all
@@ -63590,6 +63642,7 @@ four-poster=noun=all
 four-seater=noun=all
 four-wheel=JJ=all
 four-year-old=noun=all
+four-year=JJ=all
 four=CD=all
 four=JJ=all
 four=noun_UN=all
@@ -63614,6 +63667,7 @@ fourteenfold=JJ=all
 fourteenfold=RB=all
 fourteenth=JJ=all
 fourteenth=noun=all
+fourth-year=JJ=all
 fourth=JJ=all
 fourth=noun=all
 fourthly=RB=all
@@ -64180,6 +64234,7 @@ full-term=JJ=all
 full-throated=JJ=all
 full-time=JJ=all
 full-time=RB=all
+full-year=JJ=all
 full=full/JJ,fuller/JJR,fullest/JJS=all
 full=noun=all
 full=verb=all
@@ -67116,6 +67171,7 @@ half-track=noun=all
 half-truth=noun_UN=all
 half-witted=JJ=all
 half-wittedness=NN:U=all
+half-year=JJ=all
 half=DT=all
 half=PDT=all
 half=half/NN,halves/NNS=all
@@ -71019,13 +71075,14 @@ improvidence=noun_U=all
 improvident=JJ=all
 improvidently=RB=all
 improving=JJ=all
+improvisation=noun_UN=all
 improvisational=JJ=all
 improvisationally=RB=all
 improvisator=noun=all
 improvisatory=JJ=all
 improvise=verb=all
+improvisedly=RB=all
 improviser=noun=all
-improvization|improvisation=noun_UN=us,ca,gb|gb,au,nz,za
 improvvisatore=NN=all
 imprudence=noun_U=all
 imprudent=JJ=all
@@ -77947,6 +78004,7 @@ man-eating=JJ=all
 man-hour=noun=all
 man-made=man-made/JJ,manmade/JJ=all
 man-of-war [pl. men-of-war]=noun=all
+man-year=noun=all
 man=man/NN:UN,men/NNS=all
 man=verb=all
 manacle=noun=all
@@ -78752,6 +78810,7 @@ mechlorethamine=NN:U=all
 meclizine=noun=all
 mecometer=noun=all
 meconium=noun=all
+med=noun=all # informal
 medal=noun=all
 medalist|medallist=noun=us|au,ca,gb,nz,za
 medallion=noun=all
@@ -79117,10 +79176,10 @@ mercerization|mercerisation=noun_UN=us,ca,gb|gb,au,nz,za
 mercerizer|merceriser=noun=us,ca,gb|gb,au,nz,za
 mercerize|mercerise=verb=us,ca,gb|gb,au,nz,za
 merch=NN:U=all
-merchandise=noun_U=all
-merchandise=verb=all
-merchandiser=noun=all
-merchandising=noun_U=all
+merchandiser|merchandizer=noun=all|us
+merchandise|merchandize=noun_U=all|us
+merchandise|merchandize=verb=all|us
+merchandising|merchandi<ing=noun_U=all|us
 merchant=JJ=all
 merchant=noun=all
 merchantability=noun_UN=all
@@ -79538,7 +79597,7 @@ microbrewery=noun=all
 microbudget=JJ=all
 microbudget=noun_UN=all
 microburst=noun=all
-microbus=microbus/NN,microbuses/NNS,microbusses/NNS=all
+microbus=noun=all
 microbusiness=noun=all
 microcalorimeter=noun=all
 microcandela=noun=all
@@ -79753,6 +79812,7 @@ mid-engined=JJ=all
 mid-market=JJ=all
 mid-market=noun=all
 mid-priced=JJ=all
+mid-year=JJ=all
 mid=IN=all
 mid=mid/JJ,middest/JJS=all
 mid=noun=all
@@ -80077,7 +80137,7 @@ miniaturist=noun=all
 miniaturization|miniaturisation=noun_UN=us,ca,gb|gb,au,nz,za
 miniaturize|miniaturise=verb=us,ca,gb|gb,au,nz,za
 minibar=noun=all
-minibus=minibus/NN,minibuses/NNS,minibusses/NNS=all
+minibus=noun=all
 minicab=noun=all
 minicam=noun=all
 minicomputer=noun=all
@@ -82990,6 +83050,7 @@ nincompoop=noun=all
 nine-liter|nine-litre=noun=us|au,ca,gb,nz,za
 nine-month-old=noun=all
 nine-year-old=noun=all
+nine-year=JJ=all
 nine=CD=all
 nine=nine/JJ,niner/JJR=all
 nine=noun=all
@@ -84408,6 +84469,7 @@ och=UH=all
 och=och/NN,ochs/NNS=all
 ochlocracy=noun=all
 ochlocrat=noun=all
+ochrea [pl. ochreae]=all
 ochreous=JJ=all
 ocker=noun=all
 octachord=noun=all
@@ -84755,9 +84817,10 @@ omissible=JJ=all
 omission=noun_UN=all
 omit [-tt-]=verb=all
 ommatidium=ommatidium/NN,ommatidia/NNS=all
+omni=noun=all # informal
 omniactive=JJ=all
 omnibus=JJ=all
-omnibus=omnibus/NN,omnibuses/NNS,omnibusses/NNS=all
+omnibus=noun=all
 omnichannel=JJ=all
 omnicompetence=noun=all
 omnicompetent=JJ=all
@@ -84840,6 +84903,7 @@ one-to-one=noun=all
 one-upmanship=one-upmanship/NN:U,one-upmanship/NN:UN,one-upmanships/NNS,oneupmanship/NNS=all
 one-way=JJ=all
 one-year-old=noun=all
+one-year=JJ=all
 one=CD=all
 one=JJ=all
 one=PRP=all
@@ -84952,6 +85016,8 @@ open-hearth=JJ=all
 open-minded=JJ=all
 open-mindedly=RB=all
 open-mindedness=NN:U=all
+open-source=JJ=all
+open-source=verb=all
 open=noun_U=all
 open=open/JJ,openest/JJS=all
 open=verb=all
@@ -87539,8 +87605,10 @@ paywall=noun=all
 paywall=verb=all
 paywalled=JJ=all
 pct=abbreviation=all
+pe=noun_U=all
 pea=JJ=all
 pea=pea/NN,peas/NNS,pease/NNS=all
+peace-loving=JJ=all
 peace=noun_U=all
 peaceable=JJ=all
 peaceableness=NN:U=all
@@ -88317,6 +88385,7 @@ persisting=JJ=all
 persnicketiness=NN:U=all
 persnickety=JJ=all
 person-centered|person-centred=JJ=us|au,ca,gb,nz,za
+person-year=noun=all
 person=person/NN,people/NNS,persons/NNS=all
 persona=persona/NN,personae/NNS,personas/NNS=all
 personable=JJ=all
@@ -97716,6 +97785,7 @@ romance=verb=all
 romancer=noun=all
 romancing=noun_UN=all
 romanization|romanisation=noun_UN=us,ca,gb|gb,au,nz,za
+romanizer=noun=all
 romanize|romanise=verb=us,ca,gb|gb,au,nz,za
 romantic=JJ=all
 romantic=noun=all
@@ -99680,6 +99750,7 @@ seclusiveness=NN:U=all
 second-guesser=NN=all
 second-rate=JJ=all
 second-string=JJ=all
+second-year=JJ=all
 second=noun_UN=all
 second=second/JJ,seconder/JJR=all
 second=verb=all
@@ -100154,7 +100225,29 @@ semi-automatically=RB=all
 semi-elliptical=JJ=all
 semi-free=JJ=all
 semi-independent=JJ=all
+semi-monthly=JJ=all
+semi-monthly=RB=all
+semi-official=JJ=all
+semi-officially=RB=all
+semi-permanent=JJ=all
+semi-permanently=RB=all
+semi-processed=JJ=all
+semi-professional=JJ=all
+semi-professional=noun=all
+semi-professionally=RB=all
+semi-retired=JJ=all
+semi-retirement=NN:U=all
+semi-rigid=JJ=all
+semi-serious=JJ=all
+semi-skilled=JJ=all
+semi-skimmed=JJ=all
+semi-solid=JJ=all
+semi-solid=noun=all
+semi-weekly=JJ=all
+semi-weekly=RB=all
 semi-well=JJ=all
+semi-yearly=JJ=all
+semi-yearly=RB=all
 semi=JJ=all
 semi=noun=all
 semianalytic=JJ=all
@@ -100588,6 +100681,7 @@ setup=setup/NN,setup/NN:U,setups/NNS=all
 seven-liter|seven-litre=noun=us|au,ca,gb,nz,za
 seven-month-old=noun=all
 seven-year-old=noun=all
+seven-year=JJ=all
 seven=CD=all
 seven=noun_UN=all
 seven=seven/JJ,sevener/JJR=all
@@ -100840,7 +100934,7 @@ sharer=noun=all
 shareware=noun_U=all
 sharia=noun_U=all
 shariah=noun_U=all # less common
-sharif=noun=none
+sharif=noun=all
 sharing=JJ=all
 sharing=noun_UN=all
 shark=noun=all
@@ -101790,6 +101884,7 @@ six-liter|six-litre=noun=us|au,ca,gb,nz,za
 six-month-old=noun=all
 six-pack=six-pack/NN,six-packs/NNS,sixpacks/NNS=all
 six-shooter=noun=all
+six-year=JJ=all
 six=CD=all
 six=noun=all
 six=six/JJ,sixer/JJR=all
@@ -101908,7 +102003,7 @@ skilled=JJ=all
 skilless=JJ=all
 skillessness=NN:U=all
 skillet=noun=all
-skilletfish=skilletfish/NN,skilletfish/NNS=none
+skilletfish=noun=all
 skim=noun=all
 skim=skim/JJ,skimmer/JJR=all
 skim=verb=all
@@ -108103,6 +108198,7 @@ ten-liter|ten-litre=noun=us|au,ca,gb,nz,za
 ten-month-old=noun=all
 ten-percenter=noun=all
 ten-year-old=noun=all
+ten-year=JJ=all
 ten=CD=all
 ten=noun_UN=all
 ten=ten/JJ,tenner/JJR=all
@@ -108779,7 +108875,19 @@ thiol=noun=all
 thiophene=noun=all
 thiosulfate=noun=all
 thiourea=noun=all
+third-class=JJ=all
+third-degree=JJ=all
 third-dimensional=JJ=all
+third-dimensionality=NN:UN=all
+third-generation=JJ=all
+third-grader=noun=all
+third-hand=JJ=all
+third-party=JJ=all
+third-person=JJ=all
+third-rate=JJ=all
+third-rater=NN=all
+third-world=JJ=all
+third-year=JJ=all
 third=JJ=all
 third=noun_UN=all
 thirdly=RB=all
@@ -108808,6 +108916,7 @@ thirty-seven=CD=all
 thirty-six=CD=all
 thirty-three=CD=all
 thirty-two=CD=all
+thirty-year=JJ=all
 thirty=CD=all
 thirty=JJ=all
 thirty=noun=all
@@ -108893,6 +109002,7 @@ three-liter|three-litre=noun=us|au,ca,gb,nz,za
 three-month-old=noun=all
 three-way=JJ=all
 three-year-old=noun=all
+three-year=JJ=all
 three=CD=all
 three=JJ=all
 three=noun=all
@@ -109083,6 +109193,7 @@ ticklish=JJ=all
 ticklishly=RB=all
 ticklishness=NN:U=all
 tickly=JJ=all
+ticky=noun=none # unusual
 tidal=JJ=all
 tidally=RB=all
 tiddler=noun=all
@@ -110752,7 +110863,7 @@ troll=noun=all
 troll=verb=all
 troller=noun=all
 trolley=noun=all
-trolleybus=trolleybus/NN,trolleybuses/NNS,trolleybusses/NNS=all
+trolleybus=noun=all
 trolling=noun_UN=all
 trollop=noun=all
 trombone=noun=all
@@ -111231,6 +111342,7 @@ twenty-three=CD=all
 twenty-twenty=JJ=all
 twenty-two=CD=all
 twenty-year-old=noun=all
+twenty-year=JJ=all
 twenty=CD=all
 twenty=JJ=all
 twenty=noun=all
@@ -111315,6 +111427,7 @@ two-step=verb=all
 two-timer=noun=all
 two-way=JJ=all
 two-year-old=noun=all
+two-year=JJ=all
 two=CD=all
 two=JJ=all
 two=noun=all
@@ -111522,6 +111635,9 @@ umbrella=JJ=all
 umbrella=noun=all
 umiak=noun=all
 umlaut=noun=all
+umlaut=verb=all
+umm=UH=all
+ummah=noun=all
 umpire=noun=all
 umpire=verb=all
 umpiring=NN:UN=all
@@ -114012,7 +114128,9 @@ unrespectable=JJ=all
 unrespected=JJ=all
 unrespectful=JJ=all
 unrespectfulness=NN:U=all
+unresponsible=JJ=all
 unresponsibleness=NN:U=all
+unresponsibly=RB=all
 unresponsive=JJ=all
 unresponsively=RB=all
 unresponsiveness=NN:U=all
@@ -114025,6 +114143,8 @@ unrestrainedly=RB=all
 unrestrainedness=NN:U=all
 unrestraint=noun=all
 unrestricted=JJ=all
+unrestrictedly=RB=all
+unrestrictive=JJ=all
 unreturnable=JJ=all
 unreturned=JJ=all
 unrevealed=JJ=all
@@ -118217,9 +118337,11 @@ yeah=noun=all
 year-end=JJ=all
 year-end=NN=all
 year-old=JJ=all
+year-on-year=JJ=all
 year-over-year=JJ=all
 year-over-year=RB=all
 year-round=JJ=all
+year-to-year=JJ=all
 year=noun=all
 yearbook=noun=all
 yearend=JJ=all

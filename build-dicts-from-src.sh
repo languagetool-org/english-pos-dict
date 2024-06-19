@@ -33,7 +33,6 @@ java -cp ../$lt_tools org.languagetool.tools.SynthDictionaryBuilder -i tagger-di
 cd -
 mv ${target_dir}/english_synth.dict_tags.txt ${target_dir}/english_tags.txt
 
-
 rm -rf tmp
 
 #create spelling binaries
