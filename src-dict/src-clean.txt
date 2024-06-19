@@ -830,7 +830,7 @@ AJU=untagged=all
 AJV=untagged=all
 AJW=untagged=all
 AJY=untagged=all
-AK-47=NNp=all
+AK-47=NNP=all
 AK=untagged=all
 AKB=untagged=all
 AKC=NNP=all
@@ -84469,7 +84469,7 @@ och=UH=all
 och=och/NN,ochs/NNS=all
 ochlocracy=noun=all
 ochlocrat=noun=all
-ochrea [pl. ochreae]=all
+ochrea [pl. ochreae]=noun=all
 ochreous=JJ=all
 ocker=noun=all
 octachord=noun=all
