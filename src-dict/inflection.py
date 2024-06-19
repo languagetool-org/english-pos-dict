@@ -28,7 +28,7 @@ def getDuplicateConsonant(extra):
 
 def getInflectedFormsAndTags(lemma, pos, extra=''):
   forms = ""
-  patternCVC = r"^[^aeiou]+[aeiou][^aeiouwyhx]$"
+  patternCVC = r"^[^aeiouàáèéìíòóùúïüöäë]+[aeiou][^aeiouwyhx]$"
   patternDuplicateConsonant = r"^\-([^aeiouywh])\1\-$"
   vowels = "aeiou";
   # inflection of regular verbs

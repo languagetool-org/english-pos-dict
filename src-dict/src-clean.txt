@@ -5066,6 +5066,7 @@ Bixby=NNP=all
 Biysk=NNP=all
 Bizerte=NNP=all
 Bizet=NNP=all
+Bière=NNP=all
 Bjork=NNP=all
 Bjorn=NNP=all
 Björn=NNP=all
@@ -7308,6 +7309,7 @@ Canuck=Canuck/NNP,Canucks/NNPS=all
 Canute=NNP=all
 Canva=NNP=all
 Cap-Haitien=NNP=all
+Cap-Haïtien=NNP=all
 Capablanca=NNP=all
 Capaldi=NNP=all
 Capek=NNP=all
@@ -10592,6 +10594,7 @@ Durkin=NNP=all
 Duroc=Duroc/NNP,Durocs/NNPS=all
 Durocher=NNP=all
 Durrell=NNP=all
+Durrës=NNP=all
 Dursley=NNP=all
 Durston=NNP=all
 Durward=NNP=all
@@ -19244,8 +19247,10 @@ Köppen=NNP=all
 Kühne=NNP=all
 Kāmoke=NNP=all
 Kęstutis=NNP=all
+Kılıçdaroğlu=NNP=all
 Kırklareli=NNP=all
 Kŭrdzhali=NNP=all
+Kṛṣṇa=NNP=all
 L'Oréal=NNP=all
 L-shaped=JJ=all
 L10=untagged=all
@@ -20595,6 +20600,7 @@ Lucas=NNP=all
 Lucasfilm=NNP=all
 Lucca=NNP=all
 Luce=NNP=all
+Lucerne=NNP=all
 Lucero=NNP=all
 Lucia=NNP=all
 Lucian=NNP=all
@@ -22758,6 +22764,7 @@ Meyerbeer=NNP=all
 Meyerhof=NNP=all
 Meyers=NNP=all
 Meyerson=NNP=all
+Meänkieli=NNP=all
 Mg=NNP=all
 MiG=NNP=all
 Mia=NNP=all
@@ -24514,6 +24521,7 @@ Niue=NNP=all
 Nivea=NNP=all
 Nivernais=NNP=all
 Nivose=NNP=all
+Nivôse=NNP=all
 Nixon=NNP=all
 Nixonesque=JJ=all
 Nixonian=JJ=all
@@ -26847,6 +26855,7 @@ Pluto=NNP=all
 Plutonian=JJ=all
 Plutus=NNP=all
 Pluviose=NNP=all
+Pluviôse=NNP=all
 Plymouth=NNP=all
 Plácido=NNP=all
 Pm=NNP=all
@@ -26862,6 +26871,7 @@ Podgorica=NNP=all
 Podolsk=NNP=all
 Poe=NNP=all
 Pohai=NNP=all
+Poincaré=NNP=all
 Poisson=NNP=all
 Poitiers=NNP=all
 Pokemon=NNP=all
@@ -27377,6 +27387,7 @@ QVT=untagged=all
 QWERTY=JJ=all
 Qaddafi=NNP=all
 Qaeda=NNP=all # in al-Qaeda?
+Qarabağ=NNP=all
 Qassem=NNP=all
 Qatar=NNP=all
 Qatari=Qatari/NNP,Qataris/NNPS=all
@@ -28859,7 +28870,9 @@ Rígsmál=NNP=all
 Rígsþula=NNP=all
 Ríos=NNP=all
 Rüdiger=NNP=all
+Rāhu=NNP=all
 Rădulescu=NNP=all
+S&P=NNP=all
 S&W=NNP=all
 S10=untagged=all
 S11=untagged=all
@@ -34230,6 +34243,7 @@ Ventose=NNP=all
 Ventris=NNP=all
 Ventura=NNP=all
 VentureBeat=NNP=all
+Ventôse=NNP=all
 Venus=Venus/NNP,Venuses/NNPS=all
 Venusberg=NNP=all
 Venuses=NNPS=all
@@ -34435,6 +34449,7 @@ Vito=NNP=all
 Vitoria=NNP=all
 Vitruvian=JJ=all
 Vitry-sur-Seine=NNP=all
+Vitré=NNP=all
 Vitus=NNP=all
 Vivaldi=NNP=all
 Vivek=NNP=all
@@ -35749,6 +35764,7 @@ Yannick=NNP=all
 Yanomamö=NNP=all
 Yanukovych=NNP=all
 Yaounde=NNP=all
+Yaoundé=NNP=all
 Yap=NNP=all
 Yarbrough=NNP=all
 Yard=NNP=all
@@ -37705,6 +37721,7 @@ ai=noun=all
 aid=noun_UN=all
 aid=verb=all
 aide-de-camp=aide-de-camp/NN,aides-de-camp/NNS=all
+aide-mémoire [pl. aide-mémoires,aides-mémoire]=noun=all
 aide-mémoire=noun=all
 aide=noun=all
 aided=JJ=all
@@ -45487,6 +45504,8 @@ byte=noun=all
 byway=noun=all
 byword=noun=all
 byzantine=JJ=all
+béarnaise=JJ=all
+béarnaise=noun=all
 béchamel=NN:U=all
 bêche-de-mer=bêche-de-mer/NN,bêches-de-mer/NNS=all
 bêtise=noun=all
@@ -45530,6 +45549,7 @@ cabécou=NN:U=all
 cacao=cacao/NN,cacao/NN:U,cacaos/NNS=all
 cacciatore=JJ=all
 cachalot=noun=all
+cachaça=noun_UN=all
 cache=noun=all
 cache=verb=all
 cachepot=noun=all
@@ -77597,6 +77617,7 @@ lysosome=noun=all
 lysozyme=noun_U=all
 lytic=JJ=all
 lytically=RB=all
+lèse-majesté=noun_UN=all
 löllingite=NN:U=all
 mCi=mCi/NN:U,mCi/NNP=all
 mRNA=mRNA/NN,mRNA/NNP,mRNAs/NNS=all
@@ -81509,6 +81530,7 @@ muggy=muggy/JJ,muggier/JJR,muggiest/JJS=all
 mugshot=noun=all
 mugwort=noun=all
 mujahedin=NN=all
+mujtahid [pl. mujtahid,mujtahidūn]=noun=all
 mukluk=noun=all
 mulatto=JJ=all
 mulatto=mulatto/NN,mulattoes/NNS,mulattos/NNS=all
@@ -92986,7 +93008,7 @@ pry=verb=all
 prying=noun_UN=all
 pryingly=RB=all
 pryingness=NN:U=all
-précis=précis/NN,précis/NNS=all
+précis [pl. précis]=noun=all
 précis=verb=all
 psalm=noun=all
 psalmbook=noun=all
@@ -109147,6 +109169,7 @@ thumbnail=noun=all
 thumbprint=noun=all
 thumbscrew=noun=all
 thumbsucker=noun=all
+thumbtack=noun=all
 thump=noun=all
 thump=verb=all
 thumping=JJ=all
