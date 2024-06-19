@@ -8,6 +8,8 @@
 #Americaness=NN:U=all #unusual
 #Archaeozoic=JJ=all #unusual
 #Las=NNP=all # Spanish names, musical note
+#Let=NNP=all
+#No=No/NNP,Ni/NNPS=all
 #Suu=NNP=all # ??
 #aggroup=verb=all # archaic
 #airbus [pl. airbusses]=noun=all # unusual
@@ -25462,6 +25464,7 @@ Oujda=NNP=all
 Oulu=NNP=all
 Ourense=NNP=all
 Ouse=NNP=all
+Outlook=NNP=all
 Overijssel=NNP=all
 Overland=NNP=all
 Overton=NNP=all
@@ -40710,7 +40713,7 @@ attobecquerel=noun=all
 attocandela=noun=all
 attocoulomb=noun=all
 attofarad=noun=all
-attogram=noun=all
+attogram|attogramme=noun=all|au,ca,gb,nz,za
 attogray=noun=all
 attohenry=noun=all
 attohertz=attohertz/NN,attohertz/NNS=all
@@ -46901,7 +46904,7 @@ centicoulomb=noun=all
 centifarad=noun=all
 centigrade=JJ=all
 centigrade=NN=all
-centigram=noun=all
+centigram|centigramme=noun=all|au,ca,gb,nz,za
 centigray=noun=all
 centihenry=noun=all
 centihertz=centihertz/NN,centihertz/NNS=all
@@ -48070,7 +48073,9 @@ circulatory=JJ=all
 circumambulate=verb=all
 circumboreal=JJ=all
 circumcenter|circumcentre=noun=us|au,ca,gb,nz,za
+circumcircle=noun=all
 circumcise=verb=all
+circumciser=noun=all
 circumcision=circumcision/NN,circumcision/NN:U,circumcisions/NNS=all
 circumduct=verb=all
 circumduction=NN:UN=all
@@ -53473,7 +53478,7 @@ decaff=noun_UN=all
 decaffeinate=verb=all
 decagon=noun=all
 decagonal=JJ=all
-decagram=noun=all
+decagram|decagramme=noun=all|au,ca,gb,nz,za
 decal=noun=all
 decalcification=noun_UN=all
 decalcifier=noun=all
@@ -53575,7 +53580,7 @@ deciduous=JJ=all
 deciduously=RB=all
 deciduousness=NN:U=all
 decifarad=noun=all
-decigram=noun=all
+decigram|decigramme=noun=all|au,ca,gb,nz,za
 decigray=noun=all
 decihenry=noun=all
 decihertz=decihertz/NN,decihertz/NNS=all
@@ -54560,6 +54565,7 @@ deprogram [-mm-]=verb=all
 deprogrammer=noun=all
 deproteinization|deproteinisation=noun_UN=us,ca,gb|gb,au,nz,za
 deproteinize|deproteinise=verb=us,ca,gb|gb,au,nz,za
+dept=NN=all # abbreviation
 depth=noun_UN=all
 depurative=JJ=all
 depurative=noun=all
@@ -55934,6 +55940,7 @@ disfigure=verb=all
 disfigurement=noun_UN=all
 disfranchise=verb=all
 disfranchisement=noun_U=all
+disfranchiser=noun=all
 disgorge=verb=all
 disgorgement=noun_U=all
 disgrace=noun_UN=all
@@ -55943,10 +55950,15 @@ disgracefully=RB=all
 disgracefulness=NN:U=all
 disgruntle=verb=all
 disgruntlement=noun_U=all
+disguisable=JJ=all
 disguise=noun_UN=all
 disguise=verb=all
 disguised=JJ=all
+disguisedly=RB=all
 disguisedness=NN:U=all
+disguiseless=JJ=all
+disguisement=noun=all
+disguiser=noun=all
 disguising=noun_UN=all
 disgust=noun_U=all
 disgust=verb=all
@@ -55954,10 +55966,12 @@ disgusted=JJ=all
 disgustedly=RB=all
 disgustedness=NN:U=all
 disgustful=JJ=all
+disgustfully=RB=all
 disgusting=JJ=all
 disgustingly=JJ=all
 disgustingly=RB=all
 disgustingness=NN:U=all
+dish-shaped=JJ=all
 dish=noun=all
 dish=verb=all
 dishabille=noun_U=all
@@ -60229,7 +60243,7 @@ exaggeratedness=NN:U=all
 exaggeration=noun_UN=all
 exaggerative=JJ=all
 exaggerator=noun=all
-exagram=noun=all
+exagram|exagramme=noun=all|au,ca,gb,nz,za
 exagray=noun=all
 exahenry=noun=all
 exahertz=exahertz/NN,exahertz/NNS=all
@@ -61782,7 +61796,7 @@ femtocandela=noun=all
 femtochemistry=NN:U=all
 femtocoulomb=noun=all
 femtofarad=noun=all
-femtogram=noun=all
+femtogram|femtogramme=noun=all|au,ca,gb,nz,za
 femtogray=noun=all
 femtohenry=noun=all
 femtohertz=femtohertz/NN,femtohertz/NNS=all
@@ -65334,7 +65348,7 @@ gigacandela=noun=all
 gigacoulomb=noun=all
 gigafactory=noun=all
 gigafarad=noun=all
-gigagram=noun=all
+gigagram|gigagramme=noun=all|au,ca,gb,nz,za
 gigagray=noun=all
 gigahenry=noun=all
 gigahertz=gigahertz/NN,gigahertz/NNS,gigahertzes/NNS=all
@@ -66150,7 +66164,6 @@ graininess=NN:U=all
 graining=noun=all
 grainy=grainy/JJ,grainier/JJR,grainiest/JJS=all
 gram-variable=JJ=all
-gram=noun=all
 gramicidin=gramicidin/NN,gramicidin/NN:U,gramicidins/NNS=all
 graminivorous=JJ=all
 grammalogue=noun=all
@@ -66163,9 +66176,9 @@ grammaticalize|grammaticalise=verb=us,ca,gb|gb,au,nz,za
 grammatically=RB=all
 grammaticalness=NN:U=all
 grammaticize|grammaticise=verb=us,ca,gb|gb,au,nz,za
-gramme=noun=gb,nz,za # unusual
 gramophone=noun=all
 grampus=noun=all
+gram|gramme=noun=all|au,ca,gb,nz,za # gramme is unusual
 gran=noun=all
 granadilla=noun=all
 granary=noun=all
@@ -67981,7 +67994,7 @@ hectocandela=noun=all
 hectocotylus=hectocotylus/NN,hectocotyli/NNS=all
 hectocoulomb=noun=all
 hectofarad=noun=all
-hectogram=noun=all
+hectogram|hectogramme=noun=all|au,ca,gb,nz,za
 hectograph=noun=all
 hectograph=verb=all
 hectogray=noun=all
@@ -68106,6 +68119,7 @@ heliport=noun=all
 helium=noun_U=all
 helix=helix/NN,helices/NNS,helixes/NNS=all
 hell-bent=JJ=all
+hell-raiser=noun=all
 hell=noun_U=all
 hellbender=noun=all
 hellebore=noun_U=all
@@ -68119,7 +68133,7 @@ hellish=RB=all
 hellishly=RB=all
 hellishness=NN:U=all
 hello=hello/NN,helloes/NNS,hellos/NNS=all
-hellraiser=hellraiser/NN,hellraisers/NN,hellraisers/NNS=all
+hellraiser=noun=all
 helluva=JJ=all
 helluva=RB=all
 helm=noun=all
@@ -74792,7 +74806,7 @@ kilocoulomb=noun=all
 kilocycle=noun=all
 kilofarad=noun=all
 kilogram-meter=noun=all
-kilogram=noun=all
+kilogram|kilogramme=noun=all|au,ca,gb,nz,za
 kilogray=noun=all
 kilohenry=noun=all
 kilohertz=kilohertz/NN,kilohertz/NNS,kilohertzes/NNS=all
@@ -74839,7 +74853,9 @@ kinda=JJ=all
 kinda=RB=all
 kindergarten=noun_UN=all
 kindergartener=noun=all
+kindergartner=noun=all
 kindhearted=JJ=all
+kindheartedly=RB=all
 kindheartedness=NN:U=all
 kindle=verb=all
 kindliness=NN:U=all
@@ -78920,7 +78936,7 @@ megadeath=noun=all
 megadose=noun=all
 megafarad=noun=all
 megafauna=megafauna/NN,megafauna/NNS,megafaunae/NNS,megafaunas/NNS=all
-megagram=noun=all
+megagram|megagramme=noun=all|au,ca,gb,nz,za
 megagray=noun=all
 megahenry=noun=all
 megahertz=megahertz/NN,megahertz/NNS,megahertzes/NNS=all
@@ -79667,7 +79683,7 @@ microgametocyte=noun=all
 microgeneration=NN:UN=all
 microglia=NN:U=all
 microglial=JJ=all
-microgram=noun=all
+microgram|microgramme=noun=all|au,ca,gb,nz,za
 micrograph=NN=all
 micrography=noun=all
 microgravity=noun_UN=all
@@ -80000,7 +80016,7 @@ millibitcoin=noun=all
 millicandela=noun=all
 millicoulomb=noun=all
 millifarad=noun=all
-milligram=noun=all
+milligram|milligramme=noun=all|au,ca,gb,nz,za
 milligray=noun=all
 millihenry=millihenry/NN,millihenries/NNS,millihenrys/NNS=all
 millihertz=millihertz/NN,millihertz/NNS=all
@@ -82179,7 +82195,7 @@ nanocomposite=nanocomposite/NN,nanocomposites/NN=all
 nanocoulomb=noun=all
 nanodot=noun=all
 nanofarad=noun=all
-nanogram=noun=all
+nanogram|nanogramme=noun=all|au,ca,gb,nz,za
 nanogray=noun=all
 nanohenry=noun=all
 nanohertz=nanohertz/NN,nanohertz/NNS=all
@@ -83142,13 +83158,13 @@ nix=JJ=all
 nix=UH=all
 nix=noun_U=all
 nix=verb=all
-no-brainer=NN=all
+no [pl. noes,nos]=noun=all
+no-brainer=noun=all
 no-fault=JJ=all
 no-good=JJ=all
 no-haggle=JJ=all
 no-show=NN:UN=all
 no=DT=all
-no=no/NN,noes/NNS,nos/NNS=all
 nob=noun=all
 nobble=verb=all
 nobelium=noun_U=all
@@ -88525,7 +88541,7 @@ petabyte=noun=all
 petacandela=noun=all
 petacoulomb=noun=all
 petafarad=noun=all
-petagram=noun=all
+petagram|petagramme=noun=all|au,ca,gb,nz,za
 petagray=noun=all
 petahenry=noun=all
 petahertz=petahertz/NN,petahertz/NNS=all
@@ -89136,7 +89152,7 @@ picocandela=noun=all
 picocoulomb=noun=all
 picocurie=NN=all
 picofarad=noun=all
-picogram=noun=all
+picogram|picogramme=noun=all|au,ca,gb,nz,za
 picogray=noun=all
 picohenry=noun=all
 picohertz=picohertz/NN,picohertz/NNS=all
@@ -90163,6 +90179,7 @@ pointy=pointy/JJ,pointier/JJR,pointiest/JJS=all
 poise=noun_U=all
 poise=verb=all
 poised=JJ=all
+poiser=noun=all
 poison=poison/JJ,poisoner/JJR=all
 poison=poison/NN,poison/NN:U,poisons/NNS=all
 poison=verb=all
@@ -90937,6 +90954,7 @@ practice=noun_UN=all
 practice=verb=all
 practician=noun=all
 practise=verb=au,ca,gb,nz,za
+practiser=noun=all
 practitioner=noun=all
 praenomen=noun=all
 praesidium=noun=all
@@ -90958,9 +90976,16 @@ pragmatize|pragmatise=verb=us,ca,gb|gb,au,nz,za
 prairie=prairie/NN,prairie/NN:U,prairies/NNS=all
 praise=noun_U=all
 praise=verb=all
+praiseful=JJ=all
+praisefully=RB=all
+praisefulness=NN:U=all
+praiseless=JJ=all
+praiser=noun=all
+praiseworthily=RB=all
 praiseworthiness=NN:U=all
 praiseworthy=praiseworthy/JJ,praiseworthier/JJR,praiseworthiest/JJS=all
 praising=noun_UN=all
+praisingly=RB=all
 praisworthiness=NN:U=all
 praline=noun=all
 pralltriller=noun=all
@@ -94837,8 +94862,12 @@ reapportioning=NN:UN=all
 reapportionment=noun_U=all
 reappraisal=noun=all
 reappraise=verb=all
+reappraisement=noun=all
+reappraiser=noun=all
 reapproximate=verb=all
 rear-facing=JJ=all
+rear-view=JJ=all
+rear-view=noun=all
 rear=noun=all
 rear=rear/JJ,rearer/JJR,rearrest/JJS=all
 rear=verb=all
@@ -106802,6 +106831,7 @@ surly=RB=all
 surly=surly/JJ,surlier/JJR,surliest/JJS=all
 surmise=noun=all
 surmise=verb=all
+surmiser=noun=all
 surmising=noun_UN=all
 surmount=verb=all
 surmountable=JJ=all
@@ -106821,6 +106851,8 @@ surplus=noun_UN=all
 surprise=noun_UN=all
 surprise=verb=all
 surprised=JJ=all
+surprisedly=RB=all
+surpriser=noun=all
 surprising=JJ=all
 surprising=noun_UN=all
 surprisingly=RB=all
@@ -108327,7 +108359,7 @@ teracandela=noun=all
 teracoulomb=noun=all
 terafarad=noun=all
 teraflop=noun=all
-teragram=noun=all
+teragram|teragramme=noun=all|au,ca,gb,nz,za
 teragray=noun=all
 terahenry=noun=all
 terahertz=terahertz/NN:U,terahertz/NNS=all
@@ -114910,6 +114942,7 @@ uppitiness=NN:U=all
 uppity=JJ=all
 uppityness=NN:U=all
 upraise=verb=all
+upraiser=noun=all
 uprate=verb=all
 uprear=verb=all
 upright=JJ=all
@@ -114919,6 +114952,7 @@ uprightly=RB=all
 uprightness=NN:U=all
 uprise [uprises;uprose;uprisen;uprising]=verb=all
 uprise=noun=all
+upriser=noun=all
 uprising=noun_UN=all
 upriver=RB=all
 upriver=noun=all
@@ -118432,7 +118466,7 @@ yoctobecquerel=noun=all
 yoctocandela=noun=all
 yoctocoulomb=noun=all
 yoctofarad=noun=all
-yoctogram=noun=all
+yoctogram|yoctogramme=noun=all|au,ca,gb,nz,za
 yoctogray=noun=all
 yoctohenry=noun=all
 yoctohertz=yoctohertz/NN,yoctohertz/NNS=all
@@ -118485,7 +118519,7 @@ yottabit=noun=all
 yottacandela=noun=all
 yottacoulomb=noun=all
 yottafarad=noun=all
-yottagram=noun=all
+yottagram|yottagramme=noun=all|au,ca,gb,nz,za
 yottagray=noun=all
 yottahenry=noun=all
 yottahertz=yottahertz/NN,yottahertz/NNS=all
@@ -118597,7 +118631,7 @@ zeptobecquerel=noun=all
 zeptocandela=noun=all
 zeptocoulomb=noun=all
 zeptofarad=noun=all
-zeptogram=noun=all
+zeptogram|zeptogramme=noun=all|au,ca,gb,nz,za
 zeptogray=noun=all
 zeptohenry=noun=all
 zeptohertz=zeptohertz/NN,zeptohertz/NNS=all
@@ -118641,7 +118675,7 @@ zettabyte=noun=all
 zettacandela=noun=all
 zettacoulomb=noun=all
 zettafarad=noun=all
-zettagram=noun=all
+zettagram|zettagramme=noun=all|au,ca,gb,nz,za
 zettagray=noun=all
 zettahenry=noun=all
 zettahertz=zettahertz/NN,zettahertz/NNS=all

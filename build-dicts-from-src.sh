@@ -46,7 +46,7 @@ do
 		freqlist=./spell-data/freq/en_us_wordlist.xml
 	fi
 	echo "${variant} ${freqlist}"
-	cp ./info-files/en_${variant}.info ${target_dir}/en_${variant}.info
-	java -cp $lt_tools org.languagetool.tools.SpellDictionaryBuilder -i ./src-dict/output/en_${variant}.txt -freq ${freqlist} -info ${target_dir}/en_${variant}.info -o ${target_dir}/en_${variant}.dict
+	cp ./info-files/en_${variant}.info ${target_dir}/hunspell/en_${variant}.info
+	java -cp $lt_tools org.languagetool.tools.SpellDictionaryBuilder -i ./src-dict/output/en_${variant}.txt -freq ${freqlist} -info ${target_dir}/hunspell/en_${variant}.info -o ${target_dir}/hunspell/en_${variant}.dict
 done
 
