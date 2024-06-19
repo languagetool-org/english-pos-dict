@@ -29,6 +29,7 @@
 #diagram=verb=all # unusual diagramed
 #editress=noun=all #dated
 #ess=noun=all # unusual?
+#farer=noun=all # archaic, unusual
 #fiord=noun=all #unusual
 #forebear [forebears;forebore;foreborne;forebearing]=verb=all # obsolete
 #froward=JJ=all # unusual, forward vs froward
@@ -61420,7 +61421,6 @@ farcy=noun=all
 fardel=noun=all
 fare=noun_UN=all
 fare=verb=all
-farer=noun=all
 farewell=farewell/NN,farewell/NN:U,farewells/NNS=all
 farewell=verb=all
 farfetch=verb=all
@@ -64497,6 +64497,8 @@ féerie=noun=all
 fête=noun=all
 fête=verb=all
 führer=noun=all
+g=abbreviation=all
+gRPC=NNP=all
 gab=noun_U=all
 gab=verb=all
 gabapentin=NN:U=all
@@ -113686,7 +113688,9 @@ unmerited=JJ=all
 unmeriting=JJ=all
 unmeritoriousness=NN:U=all
 unmesh=verb=all
+unmeshed=JJ=all
 unmet=JJ=all
+unmetabolized|unmetabolised=JJ=us,ca,gb|gb,au,nz,za
 unmetered=JJ=all
 unmethodical=JJ=all
 unmethodicalness=NN:U=all
