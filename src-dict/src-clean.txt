@@ -13107,6 +13107,8 @@ Eure=NNP=all
 Eureka=NNP=all
 Eurekaville=NNP=za # South Africa, placename?
 Euripides=NNP=all
+Euro-American=JJ=all
+Euro-American=noun=all
 Euro=Euro/NNP,Euros/NNPS=all
 Eurobarometer=NNP=all
 Eurobond=Eurobond/NNP,Eurobonds/NNPS=all
@@ -44824,6 +44826,7 @@ antiabortion=JJ=all
 antiaging|antiageing=JJ=us,ca,au|au,gb,nz,za
 antiaircraft=JJ=all
 antiaircraft=noun=all
+antialcohol=JJ=all
 antialiasing=antialiasing/NN,antialiasing/NN:UN,antialiasings/NNS=all
 antianginal=JJ=all
 antianxiety=JJ=all
@@ -44847,6 +44850,7 @@ anticapitalist=noun=all
 anticathode=noun=all
 anticentralization|anticentralisation=JJ=us,ca,gb|gb,au,nz,za
 antichoice=JJ=all
+anticholesterol=JJ=all
 anticholinergic=JJ=all
 anticholinergic=noun=all
 antichrist=noun=all
@@ -44904,6 +44908,7 @@ antiemetic=JJ=all
 antiemetic=noun=all
 antiepileptic=JJ=all
 antiepileptic=noun=all
+antiestablishment=JJ=all
 antifascist=JJ=all
 antifascist=noun=all
 antifederalist=noun=all
@@ -44921,6 +44926,7 @@ antigen=noun=all
 antigenic=JJ=all
 antigenicity=noun_U=all
 antiglobalization|antiglobalisation=JJ=us,ca,gb|gb,au,nz,za
+antigovernment=JJ=all
 antigravity=JJ=all
 antigravity=noun_UN=all
 antihermitian=JJ=all
@@ -44958,6 +44964,7 @@ antinarcotic=JJ=all
 antinarcotic=NN=all
 antinarcotics=JJ=all
 antinationalization|antinationalisation=JJ=us,ca,gb|gb,au,nz,za
+antinausea=JJ=all
 antineoplastic=noun=all
 antineutrino=noun=all
 antineutron=noun=all
@@ -44996,6 +45003,7 @@ antipodean=noun=all
 antipollution=noun_UN=all
 antipope=noun=all
 antipopularization|antipopularisation=JJ=us,ca,gb|gb,au,nz,za
+antipoverty=JJ=all
 antiproton=noun=all
 antipsychotic=noun=all
 antipyretic=JJ=all
@@ -45078,6 +45086,7 @@ antiviral=noun=all
 antivirus=JJ=all
 antivivisection=noun=all
 antivivisectionist=noun=all
+antiwar=JJ=all
 antler=noun=all
 antlered=JJ=all
 antonomasia=noun=all
@@ -46743,6 +46752,7 @@ autumn=JJ=all
 autumn=noun_UN=all
 autumnal=JJ=all
 autunite=noun=all
+aux=abbreviation=all
 auxanometer=noun=all
 auxiliary=JJ=all
 auxiliary=noun=all
@@ -51525,12 +51535,10 @@ canaster=NN=all
 cancan=noun=all
 cancel [-ll-]|cancel=verb=all|us
 cancel=noun=all
-cancelable=JJ=all
-canceler=noun=all
-cancellable=JJ=all
+cancellable|cancelable=JJ=all|us
 cancellate=JJ=all
 cancellation=noun_UN=all
-canceller=noun=all
+canceller|canceler=noun=all|us
 cancelling=NN:UN=all
 cancellous=JJ=all
 cancer=noun_U=all
@@ -52307,6 +52315,7 @@ catenate=verb=all
 catenation=noun=all
 catenoid=noun=all
 cater=verb=all
+catercorner=JJ=all
 caterer=noun=all
 catering=noun_UN=all
 caterpillar=JJ=all
@@ -52357,6 +52366,7 @@ cattiness=NN:U=all
 cattishness=NN:U=all
 cattle=cattle/NN,cattle/NNS=all
 cattleman=cattleman/NN,cattlemen/NNS=all
+catty-corner=JJ=all
 catty=NN=all
 catty=catty/JJ,cattier/JJR,cattiest/JJS=all
 catwalk=noun=all
@@ -62598,6 +62608,7 @@ double-dip [-pp-]=verb=all
 double-dip=noun=all
 double-dipper=noun=all
 double-dipping=NN:U=all
+double-hung=JJ=all
 double-jointed=JJ=all
 double-mindedness=NN:U=all
 double-space=noun=all
@@ -91926,6 +91937,7 @@ overmatch=verb=all
 overmedicate=verb=all
 overmedication=noun_UN=all
 overmodernization|overmodernisation=noun_UN=us,ca,gb|gb,au,nz,za
+overmodest=JJ=all
 overmuch=JJ=all
 overmuch=RB=all
 overmuch=noun=all
@@ -91933,6 +91945,7 @@ overmuchness=NN:U=all
 overnationalization|overnationalisation=noun_UN=us,ca,gb|gb,au,nz,za
 overness=NN:U=all
 overneutralization|overneutralisation=noun_UN=us,ca,gb|gb,au,nz,za
+overnice=JJ=all
 overnight=JJ=all
 overnight=RB=all
 overnight=noun=all
@@ -111582,6 +111595,7 @@ subastral=JJ=all
 subatomic=JJ=all
 subatomic=noun=all
 subaudition=noun_UN=all
+subaverage=JJ=all
 subaxillary=JJ=all
 subbasement=noun=all
 subbing=noun_UN=all
@@ -111671,6 +111685,7 @@ subfield=noun=all
 subfloor=noun=all
 subfolder=noun=all
 subfraction=NN=all
+subfreezing=JJ=all
 subfusc=JJ=all
 subfusc=noun=all
 subgelatinization|subgelatinisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -111779,6 +111794,7 @@ submicrometer|submicrometre=noun=all|au,ca,gb,nz,za
 submicroscopic=JJ=all
 subminiature=JJ=all
 subminiaturization|subminiaturisation=noun_UN=us,ca,gb|gb,au,nz,za
+subminimal=JJ=all
 submission=noun_UN=all
 submissive=JJ=all
 submissively=RB=all
@@ -112023,6 +112039,7 @@ subversiveness=NN:U=all
 subvert=verb=all
 subverter=noun=all
 subviral=JJ=all
+subvisible=JJ=all
 subvocal=JJ=all
 subvocalization|subvocalisation=noun_UN=us,ca,gb|gb,au,nz,za
 subvocalize|subvocalise=verb=us,ca,gb|gb,au,nz,za
@@ -112387,6 +112404,7 @@ superelevation=noun_UN=all
 supereminent=JJ=all
 supererogation=noun_U=all
 supererogatory=JJ=all
+superexpensive=JJ=all
 superfamily=noun=all
 superfan=noun=all
 superfast=JJ=all
@@ -112485,6 +112503,7 @@ superorganic=JJ=all
 superorganization|superorganisation=noun_UN=us,ca,gb|gb,au,nz,za
 superoxide=noun_U=all
 superpatriot=noun=all
+superpatriotic=JJ=all
 superphosphate=noun=all
 superphylum=NN=all
 superphysical=JJ=all
@@ -112523,6 +112542,7 @@ supersessionist=noun=all
 superset=noun=all
 supersize=JJ=all
 supersize=verb=all
+supersmart=JJ=all
 supersonic=JJ=all
 supersonic=noun=all
 supersonically=RB=all
@@ -112541,6 +112561,7 @@ superstitiousness=NN:U=all
 superstore=noun=all
 superstratum=superstratum/NN,superstrata/NNS,superstratums/NNS=all
 superstrength=noun=all
+superstrong=JJ=all
 superstructural=JJ=all
 superstructure=noun=all
 supersubtle=JJ=all
@@ -117346,6 +117367,7 @@ two-ply=JJ=all
 two-seater=noun=all
 two-step=noun=all
 two-step=verb=all
+two-time=verb=all
 two-timer=noun=all
 two-way=JJ=all
 two-year-old=noun=all
@@ -117359,6 +117381,7 @@ twopence=twopence/NN,twopence/NNS,twopences/NNS=all
 twopenny=JJ=all
 twopenny=noun=all
 twosome=noun=all
+twp=abbreviation=all
 tycoon=noun=all
 tyke=noun=all
 tylosis=tylosis/NN:U,tyloses/NNS=all
@@ -117465,6 +117488,7 @@ ullage=noun=all
 ulna=ulna/NN,ulnae/NNS,ulnas/NNS=all
 ulnar=JJ=all
 ulster=noun=all
+ult=abbreviation=all
 ulterior=JJ=all
 ultima=ultima/NN,ultimas/NNS,ultimata/NNS=all
 ultimacy=noun=all
@@ -117588,6 +117612,7 @@ unacceptable=JJ=all
 unacceptableness=NN:U=all
 unacceptably=RB=all
 unaccepted=JJ=all
+unacclimatized|unacclimatised=JJ=us,ca,gb|gb,au,nz,za
 unaccommodating=JJ=all
 unaccompanied=JJ=all
 unaccompanied=RB=all
@@ -117897,7 +117922,7 @@ uncalled-for=JJ=all
 uncalled=JJ=all
 uncalmness=NN:U=all
 uncancel [-ll-]|uncancel=verb=all|us
-uncancelled=JJ=all
+uncancelled|uncanceled=JJ=all|us
 uncandidness=NN:U=all
 uncannily=RB=all
 uncanniness=NN:U=all
@@ -118004,6 +118029,7 @@ unclassifiableness=NN:U=all
 unclassified=JJ=all
 uncle=noun=all
 unclean=unclean/JJ,uncleaner/JJR,uncleanest/JJS=all
+uncleaned=JJ=all
 uncleanliness=NN:U=all
 uncleanly=RB=all
 uncleanly=uncleanly/JJ,uncleanlier/JJR,uncleanliest/JJS=all
@@ -119510,6 +119536,7 @@ unmapped=JJ=all
 unmarked=JJ=all
 unmarkedness=NN:U=all
 unmarketable=JJ=all
+unmarred=JJ=all
 unmarriageable=JJ=all
 unmarried=JJ=all
 unmasculine=JJ=all
@@ -119719,6 +119746,7 @@ unpeeled=JJ=all
 unpeg [-gg-]=verb=all
 unperceivable=JJ=all
 unperceived=JJ=all
+unperceptive=JJ=all
 unperceptiveness=NN:U=all
 unperfected=JJ=all
 unperforated=JJ=all
@@ -120274,6 +120302,7 @@ unshorn=JJ=all
 unshowiness=NN:U=all
 unshrinkable=JJ=all
 unshrinking=JJ=all
+unsifted=JJ=all
 unsighted=JJ=all
 unsightliness=NN:U=all
 unsightly=unsightly/JJ,unsightlier/JJR,unsightliest/JJS=all
@@ -120570,6 +120599,7 @@ untransferable=JJ=all
 untransformed=JJ=all
 untranslatable=JJ=all
 untranslated=JJ=all
+untravelled|untraveled=JJ=all|us
 untraversed=JJ=all
 untreatable=JJ=all
 untreatably=RB=all
@@ -120577,6 +120607,7 @@ untreated=JJ=all
 untried=JJ=all
 untrimmed=JJ=all
 untrimmedness=NN:U=all
+untrod=JJ=all
 untrodden=JJ=all
 untroubled=JJ=all
 untroubledness=NN:U=all
@@ -120678,6 +120709,7 @@ unwavering=JJ=all
 unwaveringly=RB=all
 unweaned=JJ=all
 unwearable=JJ=all
+unwearied=JJ=all
 unweariedness=NN:U=all
 unwearying=JJ=all
 unweathered=JJ=all
@@ -123766,6 +123798,8 @@ wizard=noun=all
 wizard=verb=all
 wizardly=RB=all
 wizardry=noun_U=all
+wizen=JJ=all
+wizen=verb=all
 wizened=JJ=all
 woad=noun_U=all
 woah=UH=all

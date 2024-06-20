@@ -13630,6 +13630,8 @@ Eureka
 Eurekaville
 Euripides
 Euro
+Euro-American
+Euro-Americans
 Eurobarometer
 Eurobond
 Eurobonds
@@ -48240,6 +48242,7 @@ antiabortion
 antiageing
 antiaircraft
 antiaircrafts
+antialcohol
 antialiasing
 antialiasings
 antianginal
@@ -48265,6 +48268,7 @@ anticathode
 anticathodes
 anticentralisation
 antichoice
+anticholesterol
 anticholinergic
 anticholinergics
 antichrist
@@ -48343,6 +48347,7 @@ antiemetic
 antiemetics
 antiepileptic
 antiepileptics
+antiestablishment
 antifascist
 antifascists
 antifederalist
@@ -48363,6 +48368,7 @@ antigenicities
 antigenicity
 antigens
 antiglobalisation
+antigovernment
 antigravities
 antigravity
 antihermitian
@@ -48409,6 +48415,7 @@ antimycins
 antinarcotic
 antinarcotics
 antinationalisation
+antinausea
 antineoplastic
 antineoplastics
 antineutrino
@@ -48460,6 +48467,7 @@ antipollutions
 antipope
 antipopes
 antipopularisation
+antipoverty
 antiproton
 antiprotons
 antipsychotic
@@ -48564,6 +48572,7 @@ antivivisection
 antivivisectionist
 antivivisectionists
 antivivisections
+antiwar
 antler
 antlered
 antlers
@@ -51272,6 +51281,7 @@ autumnal
 autumns
 autunite
 autunites
+aux
 auxanometer
 auxanometers
 auxiliaries
@@ -59094,9 +59104,6 @@ canaster
 cancan
 cancans
 cancel
-cancelable
-canceler
-cancelers
 cancellable
 cancellate
 cancellation
@@ -60432,6 +60439,7 @@ catenations
 catenoid
 catenoids
 cater
+catercorner
 catered
 caterer
 caterers
@@ -60524,6 +60532,7 @@ cattle
 cattleman
 cattlemen
 catty
+catty-corner
 catwalk
 catwalks
 caucus
@@ -77829,6 +77838,7 @@ double-dipper
 double-dippers
 double-dipping
 double-dips
+double-hung
 double-jointed
 double-mindedness
 double-space
@@ -124513,6 +124523,7 @@ overmedications
 overmen
 overmodernisation
 overmodernisations
+overmodest
 overmuch
 overmuches
 overmuchness
@@ -124521,6 +124532,7 @@ overnationalisations
 overness
 overneutralisation
 overneutralisations
+overnice
 overnight
 overnighted
 overnighting
@@ -156964,6 +156976,7 @@ subatomic
 subatomics
 subaudition
 subauditions
+subaverage
 subaxillary
 subbasement
 subbasements
@@ -157122,6 +157135,7 @@ subfloors
 subfolder
 subfolders
 subfraction
+subfreezing
 subfusc
 subfuscs
 subgelatinisation
@@ -157297,6 +157311,7 @@ submicroscopic
 subminiature
 subminiaturisation
 subminiaturisations
+subminimal
 submission
 submissions
 submissive
@@ -157713,6 +157728,7 @@ subverters
 subverting
 subverts
 subviral
+subvisible
 subvocal
 subvocalisation
 subvocalisations
@@ -158297,6 +158313,7 @@ supereminent
 supererogation
 supererogations
 supererogatory
+superexpensive
 superfamilies
 superfamily
 superfan
@@ -158444,6 +158461,7 @@ superorganisations
 superoxide
 superoxides
 superpatriot
+superpatriotic
 superpatriots
 superphosphate
 superphosphates
@@ -158509,6 +158527,7 @@ supersize
 supersized
 supersizes
 supersizing
+supersmart
 supersonic
 supersonically
 supersonics
@@ -158537,6 +158556,7 @@ superstratum
 superstratums
 superstrength
 superstrengths
+superstrong
 superstructural
 superstructure
 superstructures
@@ -166047,8 +166067,12 @@ two-step
 two-steped
 two-steping
 two-steps
+two-time
+two-timed
 two-timer
 two-timers
+two-times
+two-timing
 two-way
 two-year
 two-year-old
@@ -166061,6 +166085,7 @@ twopenny
 twos
 twosome
 twosomes
+twp
 tycoon
 tycoons
 tying
@@ -166245,6 +166270,7 @@ ulnar
 ulnas
 ulster
 ulsters
+ult
 ulterior
 ultima
 ultimacies
@@ -166400,6 +166426,7 @@ unacceptable
 unacceptableness
 unacceptably
 unaccepted
+unacclimatised
 unaccommodating
 unaccompanied
 unaccomplished
@@ -166893,6 +166920,7 @@ unclassifiableness
 unclassified
 uncle
 unclean
+uncleaned
 uncleaner
 uncleanest
 uncleanlier
@@ -168934,6 +168962,7 @@ unmapped
 unmarked
 unmarkedness
 unmarketable
+unmarred
 unmarriageable
 unmarried
 unmasculine
@@ -169179,6 +169208,7 @@ unpegs
 unpeople
 unperceivable
 unperceived
+unperceptive
 unperceptiveness
 unperfected
 unperforated
@@ -169834,6 +169864,7 @@ unshorn
 unshowiness
 unshrinkable
 unshrinking
+unsifted
 unsighted
 unsightlier
 unsightliest
@@ -170175,6 +170206,7 @@ untransferable
 untransformed
 untranslatable
 untranslated
+untravelled
 untraversed
 untreatable
 untreatably
@@ -170182,6 +170214,7 @@ untreated
 untried
 untrimmed
 untrimmedness
+untrod
 untrodden
 untroubled
 untroubledness
@@ -170301,6 +170334,7 @@ unwavering
 unwaveringly
 unweaned
 unwearable
+unwearied
 unweariedness
 unwearying
 unweathered
@@ -175051,7 +175085,10 @@ wizardly
 wizardries
 wizardry
 wizards
+wizen
 wizened
+wizening
+wizens
 woad
 woads
 woah
