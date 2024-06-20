@@ -42,6 +42,7 @@
 #froward=JJ=all # unusual, forward vs froward
 #frowardly=RB=all # unusual, forward vs froward
 #frowardness=NN:U=all  # unusual, forward vs froward
+#fuze=verb=all # unusual
 #gawd=noun=all #archaic
 #gloze=verb=all # unusual
 #gynaecic=JJ=all # unusual
@@ -2356,8 +2357,8 @@ Amazon=NNP=all
 Amazon=noun=all
 Amazonas=NNP=all
 Amazonia=NNP=all
-Amazonian=Amazonian/NNP,Amazonians/NNPS=all
 Amazonian=JJ=all
+Amazonian=noun=all
 Ambala=NNP=all
 Amber=NNP=all
 Ambergate=NNP=za # South Africa, placename?
@@ -13157,6 +13158,9 @@ Eutopia=NNP=all
 Eva=NNP=all
 Evan=Evan/NNP,Evans/NNPS=all
 Evander=NNP=all
+Evangelical=JJ=all
+Evangelical=noun=all
+Evangelicalism=noun_U=all
 Evangelina=NNP=all
 Evangeline=NNP=all
 Evangelist=Evangelist/NNP,Evangelists/NNPS=all
@@ -41985,6 +41989,8 @@ abortiveness=NN:U=all
 aboulia=noun=all
 abound=verb=all
 abounding=JJ=all
+about-face=noun=all
+about-face=verb=all
 about=IN=all
 about=about/RB,about/RP=all
 above-average=JJ=all
@@ -43998,6 +44004,7 @@ amazement=noun_U=all
 amazing=JJ=all
 amazingly=RB=all
 amazingness=NN:U=all
+amazonian=JJ=all
 ambagiousness=NN:U=all
 ambassador=noun=all
 ambassadorial=JJ=all
@@ -45255,6 +45262,7 @@ apotropaic=JJ=all
 apotropaically=RB=all
 app-specific=JJ=all
 app=noun=all
+appal [-ll-]|appall=verb=au,gb,nz,za|ca,us
 appalling=JJ=all
 appalling=NN:UN=all
 appallingly=RB=all
@@ -46945,6 +46953,8 @@ baa=verb=all
 baaing=noun_UN=all
 baas=noun=all
 baba=noun=all
+babbitt=noun=all
+babbitt=verb=all
 babble=noun_U=all
 babble=verb=all
 babbler=noun=all
@@ -48079,6 +48089,7 @@ behold [beholds;beheld;beheld;beholding]=verb=all
 beholden=JJ=all
 beholdenness=NN:U=all
 beholder=noun=all
+behoove=verb=ca,us
 beige=JJ=all
 beige=noun_U=all
 being=noun_UN=all
@@ -49772,6 +49783,7 @@ boomset=noun=all
 boomtown=noun=all
 boon=JJ=all
 boon=noun=all
+boondoggle=verb=all
 boonies=NN=all
 boor=noun=all
 boorish=JJ=all
@@ -51040,6 +51052,7 @@ buskined=JJ=all
 busking=busking/NN,busking/NN:U,buskings/NNS=all
 busman=busman/NN,busmen/NNS=all
 buspirone=buspirone/NN,buspirone/NN:U=all
+buss=verb=au,ca,us # dialectal?
 bussing=noun_U=all
 bust [busts;bust,busted;bust,busted;busting]=verb=all
 bust=bust/JJ,buster/JJR=all
@@ -51389,6 +51402,8 @@ caliph=noun=all
 caliphate=noun=all
 calisthenics|callisthenics=NN:U=au,gb,nz,za|ca,us
 calisthenic|callisthenic=JJ=au,gb,nz,za|ca,us
+calk=noun=us
+calk=verb=us
 call-in=JJ=all
 call-up=NN=all
 call=noun_UN=all
@@ -53949,6 +53964,8 @@ clannishness=NN:U=all
 clansman=clansman/NN,clansmen/NNS=all
 clap=noun_UN=all
 clap=verb=all
+clapboard=noun=all
+clapboard=verb=all
 clapometer=noun=all
 clapper=noun=all
 clapperboard=noun=all
@@ -54486,6 +54503,8 @@ coater=noun=all
 coating=noun_UN=all
 coattail=JJ=all
 coattail=noun=all
+coauthor=noun=all
+coauthor=verb=all
 coax=noun=all
 coax=verb=all
 coaxer=noun=all
@@ -57909,6 +57928,8 @@ crossed=JJ=all
 crosser=noun=all
 crossfire=noun_UN=all
 crosshair=noun=all
+crosshatch=noun=all
+crosshatch=verb=all
 crosshead=noun=all
 crossing=JJ=all
 crossing=noun_UN=all
@@ -58772,6 +58793,9 @@ damageable=JJ=all
 damageableness=NN:U=all
 damaging=JJ=all
 damagingly=RB=all
+damascene=JJ=all
+damascene=noun=all
+damascene=verb=all
 damask=JJ=all
 damask=noun_U=all
 damask=verb=all
@@ -59505,6 +59529,7 @@ deemphasize|deemphasise=verb=us,ca,gb|gb,au,nz,za
 deemster=noun=all
 deep-freeze [deep-freezes;deep-froze;deep-frozen;deep-freezing]=verb=all
 deep-freeze=noun=all
+deep-fry=verb=all
 deep-rooted=JJ=all
 deep-sea=JJ=all
 deep-seated=JJ=all
@@ -59746,6 +59771,7 @@ dehydrogenization|dehydrogenisation=noun_UN=us,ca,gb|gb,au,nz,za
 dehydrogenize|dehydrogenise=verb=us,ca,gb|gb,au,nz,za
 dehypnotization|dehypnotisation=noun_UN=us,ca,gb|gb,au,nz,za
 dehypnotize|dehypnotise=verb=us,ca,gb|gb,au,nz,za
+deice=verb=all
 deicide=deicide/NN,deicide/NN:U,deicides/NNS=all
 deictic=JJ=all
 deictic=noun=all
@@ -60190,6 +60216,7 @@ depicting=NN:UN=all
 depiction=noun=all
 depilatory=JJ=all
 depilatory=noun_U=all
+deplane=verb=all
 deplatform=verb=all
 deplete=verb=all
 depletion=noun_U=all
@@ -60240,6 +60267,7 @@ depreciation=noun_U=all
 depreciative=JJ=all
 depreciator=noun=all
 depreciatory=JJ=all
+depredate=verb=all
 depredation=noun=all
 depredator=noun=all
 depredatory=JJ=all
@@ -60644,6 +60672,7 @@ detraction=noun_U=all
 detractive=JJ=all
 detractiveness=NN:U=all
 detractor=noun=all
+detrain=verb=all
 detribalization|detribalisation=noun_UN=us,ca,gb|gb,au,nz,za
 detribalize|detribalise=verb=us,ca,gb|gb,au,nz,za
 detriment=noun_U=all
@@ -60953,6 +60982,8 @@ dicing=noun_UN=all
 dick=noun_UN=all
 dick=verb=all
 dickens=noun=all
+dicker=noun=all
+dicker=verb=all
 dickey=noun=all
 dickhead=noun=all
 dicky=dicky/JJ,dickier/JJR,dickiest/JJS=all
@@ -62060,7 +62091,7 @@ distended=JJ=all
 distensibility=noun_UN=all
 distensible=JJ=all
 distension=noun=all
-distil [-ll-]=verb=all
+distil [-ll-]|distill=verb=au,gb,nz,za|ca,us
 distillable=JJ=all
 distillate=noun=all
 distillation=noun_UN=all
@@ -62343,6 +62374,8 @@ doer=noun=all
 doeskin=noun=all
 doesn't=contraction=all
 doff=verb=all
+dog-ear=noun=all
+dog-ear=verb=none
 dog-eared=JJ=all
 dog-faced=JJ=all
 dog-friendly=JJ=all
@@ -62611,6 +62644,7 @@ double-dipping=NN:U=all
 double-hung=JJ=all
 double-jointed=JJ=all
 double-mindedness=NN:U=all
+double-park=verb=all
 double-space=noun=all
 double-space=verb=all
 double-spaced=JJ=all
@@ -63802,6 +63836,7 @@ eelworm=noun=all
 eerie=eerie/JJ,eerier/JJR,eeriest/JJS=all
 eerily=RB=all
 eeriness=NN:U=all
+eff=verb=au,ca,us # slang
 efface=verb=all
 effaceable=JJ=all
 effacement=noun_U=all
@@ -64887,6 +64922,7 @@ enrollment|enrolment=noun_UN=us|au,ca,gb,nz,za
 enroll|enrol [-ll-]=verb=us|au,ca,gb,nz,za
 ensconce=verb=all
 ensemble=noun=all
+ensheathe=verb=all
 enshrine=verb=all
 enshrinement=noun_U=all
 enshroud=verb=all
@@ -64947,6 +64983,7 @@ entertainingly=RB=all
 entertainingness=NN:U=all
 entertainment=noun_U=all
 enthalpy=noun=all
+enthral [-ll-]|enthrall=verb=au,gb,nz,za|ca,us
 enthralling=JJ=all
 enthralling=enthralling/NN:UN,enthralling/NNS=all
 enthrone=verb=all
@@ -65569,6 +65606,7 @@ estimated=JJ=all
 estimation=noun_UN=all
 estimative=JJ=all
 estimator=noun=all
+estivate=verb=all
 estoppel=noun=all
 estradiol=noun=all
 estrange=verb=all
@@ -67786,6 +67824,7 @@ fie=noun=all
 fief=noun=all
 fiefdom=noun=all
 field-induced=JJ=all
+field-test=verb=all
 field=noun=all
 field=verb=all
 fielder=noun=all
@@ -68007,6 +68046,8 @@ finite=JJ=all
 finitely=RB=all
 finiteness=NN:U=all
 finitude=noun=all
+fink=noun=au,ca,us # slang
+fink=verb=au,ca,us # slang
 finless=JJ=all
 finned=JJ=all
 finny=finny/JJ,finnier/JJR,finniest/JJS=all
@@ -78394,8 +78435,7 @@ instep=noun=all
 instigate=verb=all
 instigation=noun_U=all
 instigator=noun=all
-instil [-ll-]=verb=au,gb,nz,za
-instill=verb=ca,us
+instil [-ll-]|instill=verb=au,gb,nz,za|ca,us
 instillation=noun_U=all
 instiller=noun=all
 instilling=instilling/NN:UN,instilling/NNS=all
@@ -84245,6 +84285,7 @@ masquer=noun=all
 masquerade=noun=all
 masquerade=verb=all
 masquerader=noun=all
+mass-produce=verb=all
 mass=JJ=all
 mass=noun_UN=all
 mass=verb=all
@@ -85429,6 +85470,7 @@ microeconomics=NN:U=all
 microelectronic=JJ=all
 microelectronic=noun=all
 microelectronics=NN:U=all
+microencapsulate=verb=all
 microenvironment=noun=all
 microevolution=noun_UN=all
 microevolutionary=JJ=all
@@ -86136,6 +86178,7 @@ misdiagnose=verb=all
 misdiagnosis=misdiagnosis/NN,misdiagnoses/NNS=all
 misdirect=verb=all
 misdirection=noun_U=all
+misdo [misdoes;misdid;misdone;misdoing]=verb=all
 misdoing=noun_UN=all
 miseducate=verb=all
 misemphasize|misemphasise=verb=us,ca,gb|gb,au,nz,za
@@ -86214,6 +86257,7 @@ misogyny=noun_U=all
 misology=noun_UN=all
 misoprostol=NN:U=all
 misorganization|misorganisation=noun_UN=us,ca,gb|gb,au,nz,za
+misorient=verb=all
 misperceive=verb=all
 misperception=noun_UN=all
 mispickel=noun=all
@@ -94741,6 +94785,7 @@ photoelectrically=RB=all
 photoelectricity=noun_U=all
 photoelectron=noun=all
 photoemission=noun=all
+photoengrave=verb=all
 photoengraver=noun=all
 photoengraving=noun_UN=all
 photofinishing=noun_U=all
@@ -101236,7 +101281,7 @@ rediscover=verb=all
 rediscovery=noun_U=all
 redispatch=verb=all
 redissolve=verb=all
-redistill=verb=all
+redistil [-ll-]|redistill=verb=au,gb,nz,za|ca,us
 redistillation=noun_UN=all
 redistilling=redistilling/NN,redistilling/NNS=all
 redistributable=JJ=all
@@ -105633,6 +105678,7 @@ secludedness=NN:U=all
 seclusion=noun_U=all
 seclusive=JJ=all
 seclusiveness=NN:U=all
+second-guess=verb=all
 second-guesser=NN=all
 second-rate=JJ=all
 second-string=JJ=all
@@ -107152,6 +107198,7 @@ short=verb=all
 shortage=noun_UN=all
 shortbread=noun_U=all
 shortcake=noun_U=all
+shortchange=verb=all
 shortcoming=noun=all
 shortcut [shortcuts;shortcut;shortcut;shortcutting]=verb=all
 shortcut=noun=all
@@ -117403,6 +117450,7 @@ typesetter=noun=all
 typesetting=JJ=all
 typesetting=noun_U=all
 typestyle=noun=all
+typewrite [typewrites;typewrote;typewritten;typewriting]=verb=all
 typewriter=noun=all
 typewriting=noun_U=all
 typewritten=JJ=all
@@ -117700,6 +117748,9 @@ unanticipated=JJ=all
 unanxiousness=NN:U=all
 unapologetic=JJ=all
 unapologetically=RB=all
+unappalled=JJ=all
+unappalling=JJ=all
+unappallingly=RB=all
 unapparent=JJ=all
 unapparentness=NN:U=all
 unappealable=JJ=all
@@ -120113,6 +120164,7 @@ unrewarded=JJ=all
 unrewarding=JJ=all
 unrhymed=JJ=all
 unrhythmic=JJ=all
+unriddle=verb=all
 unrig [-gg-]=verb=all
 unrighteous=JJ=all
 unrighteousness=NN:U=all
@@ -120324,6 +120376,7 @@ unsmilingly=RB=all
 unsmooth=JJ=all
 unsmoothness=NN:U=all
 unsnap [-pp-]=verb=all
+unsnarl=verb=all
 unsnobbishness=NN:U=all
 unsober=JJ=all
 unsoberly=RB=all
@@ -120801,6 +120854,7 @@ upbraiding=JJ=all
 upbraiding=noun_UN=all
 upbringing=noun_U=all
 upcast=noun=all
+upchuck=verb=all # informal
 upcoming=JJ=all
 upcountry=JJ=all
 upcountry=noun_U=all
@@ -120951,6 +121005,7 @@ upward=noun=all
 upwardly=RB=all
 upwardness=NN:U=all
 upwards=RB=all
+upwell=verb=all
 upwelling=JJ=all
 upwelling=noun=all
 upwind=JJ=all
@@ -121220,6 +121275,7 @@ valuable=JJ=all
 valuable=noun=all
 valuableness=NN:U=all
 valuably=RB=all
+valuate=verb=all
 valuation=noun_UN=all
 valuator=noun=all
 value=noun_UN=all
@@ -122457,6 +122513,8 @@ waltz [waltzes;waltzed;waltzed;waltzing]=verb=all
 waltz=noun=all
 waltzer=noun=all
 waltzing=noun_UN=all
+wamble=noun=all # dialectal
+wamble=verb=all # dialectal
 wambliness=NN:U=all
 wampum=noun_U=all
 wan=verb=all
@@ -123290,6 +123348,8 @@ whirly=whirlier/JJR,whirliest/JJS=all
 whirlybird=noun=all
 whirring=JJ=all
 whirring=noun_UN=all
+whish=noun=all # unusual
+whish=verb=all # unusual
 whisk=noun=all
 whisk=verb=all
 whisker=noun=all
@@ -123792,6 +123852,7 @@ wittiness=NN:U=all
 witting=JJ=all
 wittingly=RB=all
 witty=witty/JJ,wittier/JJR,wittiest/JJS=all
+wive=verb=au,ca,us
 wivern=noun=all
 wizard=JJ=all
 wizard=noun=all
