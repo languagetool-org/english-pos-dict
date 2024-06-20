@@ -13,11 +13,14 @@
 #Suu=NNP=all # ??
 #aggroup=verb=all # archaic
 #airbus [pl. airbusses]=noun=all # unusual
+#amain=RB=all # archaic
 #an't=contraction=all # misspelling?
 #anotherArtificialTestWordForLanguageTool=UNTAGGED=all
+#aport=RB=all # archaic
 #araeometer=noun=all # archaic
 #audiospectrometer=noun=all
 #autobus [pl. autobusses]=noun=all # unusual
+#belike=RB=all # archaic
 #bus [-ss-]=verb=all # unusual
 #bus [pl. busses]=all # unusual
 #bye-election=noun=all # usual
@@ -27,7 +30,11 @@
 #costar=noun=all # unusual?
 #crystalize=verb= #unusual
 #diagram=verb=all # unusual diagramed
+#dol=noun=us #unusual
+#dutch=noun=all # usually capitalized
 #editress=noun=all #dated
+#el=abbreviation=all
+#erst=RB=all # archaic
 #ess=noun=all # unusual?
 #farer=noun=all # archaic, unusual
 #fiord=noun=all #unusual
@@ -48,14 +55,31 @@
 #kinematographical=JJ=all # unusual
 #kinematographically=RB=all # unusual
 #kinematography=noun_UN=all # unusual
+#lat=abbreviation=all
+#lat=noun=all # informal
+#li=noun=none
+#lissomness=NN:U=all # rare
 #lor=UH=all # unusual
 #lor=lor/NN,lors/NNS=all # unusual
+#martian=JJ=all # capitalized
+#martian=noun=all # capitalized
+#meg=abbreviation=all
+#mem=noun=all # unusual
 #merchandize=verb=us # less common
 #microbus [pl. microbusses]=noun=all # unusual
+#mil=noun=all # unusual
 #minibus [pl. minibusses]=noun=all # unusual
 #misdemean=verb=all # archaic?
+#mol=noun=all # unusual
+#mot=noun=all # unusual
+#mun=abbreviation=all
+#nat=abbreviation=all
+#neb=noun=all
 #oecumenical=JJ=gb # archaic
+#om=NN=all
 #omnibus [pl. omnibusses]=noun=all # unusual
+#ord=abbreviation=all
+#pam=noun=all
 #programer=noun=us # unusual
 #programing=noun_U=us #unusual
 #ptyalize|ptyalise=verb=us,ca,gb|gb,au,nz,za # unusual obsolete
@@ -273,10 +297,13 @@ A&A=NNP=all
 A&D=NNP=all
 A&M=NNP=all
 A&P=NNP=all
+A-OK=JJ=all # informal
 A-Team=NNP=all
 A-bomb=NNP=all
 A-fib=noun_UN=all
+A-frame=noun=all
 A-line=JJ=all
+A-okay=all # informal
 A-shaped=JJ=all
 A10=untagged=all
 A11=untagged=all
@@ -11805,9 +11832,10 @@ EFR=untagged=all
 EFRA=untagged=all
 EFS=untagged=all
 EFSA=untagged=all
-EFT=untagged=all
+EFT=NNP=all
 EFTA=NNP=all
 EFTPOS=untagged=all
+EFTS=NNP=all
 EG=untagged=all
 EGA=untagged=all
 EGC=untagged=all
@@ -41939,6 +41967,7 @@ aboriginal=JJ=all
 aboriginal=noun=all
 aboriginally=RB=all
 aborigine=noun=all
+aborning=RB=au,ca,us
 abort=noun=all
 abort=verb=all
 aborticide=noun=all
@@ -42012,6 +42041,7 @@ absentee=noun=all
 absenteeism=noun_U=all
 absently=RB=all
 absentminded=JJ=all
+absentmindedly=RB=all
 absentmindedness=NN:U=all
 absentness=NN:U=all
 absinthe=noun_U=all
@@ -43951,6 +43981,7 @@ amateurishly=RB=all
 amateurishness=NN:U=all
 amateurism=noun_U=all
 amative=JJ=all
+amatively=RB=all
 amativeness=NN:U=all
 amatory=JJ=all
 amaurosis=amaurosis/NN,amauroses/NNS=all
@@ -44110,6 +44141,7 @@ amongst=IN=all
 amontillado=noun=all
 amoral=JJ=all
 amorality=noun_U=all
+amorally=RB=all
 amorous=JJ=all
 amorously=RB=all
 amorousness=NN:U=all
@@ -45068,6 +45100,7 @@ anyhow=RB=all
 anymore=RB=all
 anyone=NN:U=all
 anyone=PRP=all
+anyplace=RB=au,ca,us # informal
 anything=NN:U=all
 anytime=JJ=all
 anytime=RB=all
@@ -45805,6 +45838,7 @@ artificialness=NN:U=all
 artillerist=noun=all
 artillery=noun_U=all
 artilleryman=artilleryman/NN,artillerymen/NNS=all
+artily=RB=all
 artiness=NN:U=all
 artiodactyl=JJ=all
 artiodactyl=noun=all
@@ -48111,6 +48145,7 @@ below=IN=all
 below=JJ=all
 below=RB=all
 below=noun=all
+belowdecks=RB=all
 belt=noun=all
 belt=verb=all
 belted=JJ=all
@@ -48337,6 +48372,7 @@ bewitching=JJ=all
 bewitchingly=RB=all
 bewitchingness=NN:U=all
 bewitchment=noun_U=all
+bey=noun=all
 beyond=IN=all
 beyond=JJ=all
 beyond=noun=all
@@ -49488,8 +49524,8 @@ bobcat=bobcat/NN,bobcat/NNS,bobcats/NNS=all
 bobolink=noun=all
 bobs=JJ=all
 bobs=NN=all
-bobsleigh=noun=all
-bobsleigh=verb=all
+bobsleigh|bobsled=noun=all|au,ca,us
+bobsleigh|bobsled=verb=all|au,ca,us
 bobtail=JJ=all
 bobtail=noun=all
 bobtailed=JJ=all
@@ -51643,6 +51679,7 @@ canvass=verb=all
 canvasser=noun=all
 canvassing=NN:UN=all
 canyon=noun=all
+cap-a-pie=RB=all
 cap=noun=all
 cap=verb=all
 capability=noun_UN=all
@@ -53486,6 +53523,7 @@ chromatogram=noun=all
 chromatograph=noun=all
 chromatographer=noun=all
 chromatographic=JJ=all
+chromatographically=RB=all
 chromatography=noun_U=all
 chrome=JJ=all
 chrome=noun_U=all
@@ -53658,6 +53696,7 @@ cinematograph=noun=all
 cinematographer=noun=all
 cinematographic=JJ=all
 cinematography=noun_U=all
+cineplex=noun=us
 cineraria=noun=all
 cinerarium=cinerarium/NN,cineraria/NNS=all
 cinerary=JJ=all
@@ -54025,6 +54064,7 @@ clearer=noun=all
 clearheaded=JJ=all
 clearheadedness=NN:U=all
 clearing=noun_UN=all
+clearinghouse=noun=all
 clearly=RB=all
 clearness=NN:U=all
 clearnet=noun=all
@@ -56591,6 +56631,7 @@ coopering=noun_UN=all
 coopery=noun=all
 coordinate=noun=all
 coordinate=verb=all
+coordinately=RB=all
 coordinateness=NN:U=all
 coordinating=JJ=all
 coordination=noun_U=all
@@ -58016,6 +58057,7 @@ cryobiology=noun_UN=all
 cryogen=noun=all
 cryogenic=JJ=all
 cryogenic=noun=all
+cryogenically=RB=all
 cryogenicist=noun=all
 cryogenics=NN:U=all
 cryohydrate=NN=all
@@ -58667,6 +58709,7 @@ daffy=daffy/JJ,daffier/JJR,daffiest/JJS=all
 daft=daft/JJ,dafter/JJR,daftest/JJS=all
 daftly=RB=all
 daftness=NN:U=all
+dag=noun=all
 dagger=noun=all
 daggerboard=NN=all
 dago=dago/NN,dagoes/NNS,dagos/NNS=all
@@ -63812,6 +63855,7 @@ effusion=noun_UN=all
 effusive=JJ=all
 effusively=RB=all
 effusiveness=NN:U=all
+eft=noun=all
 egad=UH=all
 egad=noun=all
 egalitarian=JJ=all
@@ -65298,6 +65342,7 @@ erection=noun_UN=all
 erectly=RB=all
 erectness=NN:U=all
 erector=noun=all
+erelong=RB=au,ca,us # archaic
 eremite=noun=all
 eremitic=JJ=all
 erethism=noun_UN=all
@@ -65729,6 +65774,7 @@ evangelism=noun_U=all
 evangelist=noun=all
 evangelistary=noun=all
 evangelistic=JJ=all
+evangelistically=RB=all
 evangelization|evangelisation=noun_UN=us,ca,gb|gb,au,nz,za
 evangelizer|evangeliser=noun=us,ca,gb|gb,au,nz,za
 evangelize|evangelise=verb=us,ca,gb|gb,au,nz,za
@@ -65759,6 +65805,7 @@ even=noun=all
 even=verb=all
 evener=noun=all
 evenhanded=JJ=all
+evenhandedly=RB=all
 evenhandedness=NN:U=all
 evening=noun_UN=all
 eveningness=NN:U=all
@@ -65819,6 +65866,8 @@ evidentiary=JJ=all
 evidently=RB=all
 evidentness=NN:U=all
 evil-minded=JJ=all
+evil-mindedly=RB=all
+evil-mindedness=NN:U=all
 evil=evil/JJ,eviler/JJR,eviller/JJR,evilest/JJS,evillest/JJS=all
 evil=noun_UN=all
 evildoer=noun=all
@@ -66804,6 +66853,7 @@ faculty=noun_UN=all
 fad=noun=all
 faddiness=NN:U=all
 faddish=JJ=all
+faddishly=RB=all
 faddishness=NN:U=all
 faddist=noun=all
 faddy=faddy/JJ,faddier/JJR,faddiest/JJS=all
@@ -67225,6 +67275,8 @@ fauna=fauna/NN,faunae/NNS,faunas/NNS=all
 faunal=JJ=all
 fauteuil=noun=all
 fauvism=noun_U=all
+fauvist=JJ=all
+fauvist=noun=all
 faux-naïf=JJ=all
 faux=JJ=all
 faux=faux/NN,fauces/NNS=all
@@ -68531,6 +68583,7 @@ floristic=noun=all
 floruit=noun=all
 floss=noun_U=all
 floss=verb=all
+flossily=RB=all
 flossiness=NN:U=all
 flossy=flossy/JJ,flossier/JJR,flossiest/JJS=all
 flossy=noun=all
@@ -68564,6 +68617,7 @@ flowerbed=noun=all
 flowered=JJ=all
 flowerer=noun=all
 floweret=noun=all
+flowerily=RB=all
 floweriness=NN:U=all
 flowering=JJ=all
 flowering=noun_UN=all
@@ -68596,6 +68650,7 @@ fluentness=NN:U=all
 fluff=noun_U=all
 fluff=verb=all
 fluffernutter=noun=all
+fluffily=RB=all
 fluffiness=NN:U=all
 fluffy=fluffy/JJ,fluffier/JJR,fluffiest/JJS=all
 flugelhorn=noun=all
@@ -68664,6 +68719,7 @@ flute=noun_UN=all
 flute=verb=all
 fluted=JJ=all
 fluting=noun_U=all
+flutist=noun=all
 flutter=noun_UN=all
 flutter=verb=all
 flutterboard=noun=all
@@ -69064,6 +69120,7 @@ foretoken=verb=all
 foretop=noun=all
 forever=RB=all
 forever=noun_U=all
+forevermore=RB=au,ca,us
 foreverness=NN:U=all
 forewarn=verb=all
 forewarning=noun_UN=all
@@ -70901,6 +70958,7 @@ gerundive=noun=all
 gesso=gesso/NN:U,gessoes/NNS=all
 gestalt=noun=all
 gestaltist=noun=all
+gestapo=noun=all
 gestate=verb=all
 gestation=noun_U=all
 gestational=JJ=all
@@ -70914,6 +70972,7 @@ gesture=noun_UN=all
 gesture=verb=all
 gesundheit=UH=all
 get [gets;got;got,gotten;getting]=verb=all
+get-together=noun=all
 get=noun=all
 getaway=noun=all
 gettable=JJ=all
@@ -72795,6 +72854,7 @@ hairnet=noun=all
 hairpiece=noun=all
 hairpin=noun=all
 hairsbreadth=noun=all
+hairsplitter=noun=all
 hairsplitting=noun_U=all
 hairspray=noun=all
 hairspring=noun=all
@@ -73093,6 +73153,7 @@ haploid=JJ=all
 haploid=noun=all
 haplology=noun_UN=all
 haplotype=noun=all
+haply=RB=au,ca,us # archaic
 happen=verb=all
 happening=JJ=all
 happening=noun_UN=all
@@ -73837,6 +73898,8 @@ helve=noun=all
 hem=noun=all
 hem=verb=all
 hemacytometer=noun=all
+hematite|haematite=noun=ca,us|au,gb,nz,za
+hematitic|haematitic=ca,us|au,gb,nz,za
 hematological|haematological=JJ=us,ca|au,gb,nz,za
 hematologic|haematologic=JJ=us,ca|au,gb,nz,za
 hematologist|haematologist=noun=us,ca|au,gb,nz,za
@@ -74011,6 +74074,7 @@ hereinbefore=RB=all
 hereness=NN:U=all
 hereof=JJ=all
 hereof=RB=all
+hereon=RB=au,ca,us
 heresiarch=heresiarch/NN,heresiarchs/NNS=all
 heresy=noun_UN=all
 heretic=noun=all
@@ -76145,6 +76209,7 @@ iliotibial=JJ=all
 ilium=ilium/NN,ilia/NNS=all
 ilk=noun_U=all
 ill-advised=JJ=all
+ill-advisedly=RB=all
 ill-bred=JJ=all
 ill-fated=JJ=all
 ill-favoredly|ill-favouredly=RB=us|gb,ca,au,nz,za
@@ -76156,6 +76221,7 @@ ill-humoredness|ill-humouredness=NN:U=us|gb,ca,au,nz,za
 ill-humored|ill-humoured=JJ=us|gb,ca,au,nz,za
 ill-mannered=JJ=all
 ill-natured=JJ=all
+ill-naturedly=RB=all
 ill-naturedness=NN:U=all
 ill-starred=JJ=all
 ill-tempered=JJ=all
@@ -78145,6 +78211,7 @@ insatiable=JJ=all
 insatiableness=NN:U=all
 insatiably=RB=all
 insatiate=JJ=all
+insatiately=RB=us
 insatiateness=NN:U=all
 inscribe=verb=all
 inscriber=noun=all
@@ -80636,6 +80703,9 @@ kittenishly=RB=all
 kittenishness=NN:U=all
 kittiwake=noun=all
 kittle=kittle/JJ,kittler/JJR,kittlest/JJS=all
+kitty-corner=JJ=all
+kitty-corner=RB=all
+kitty-cornered=JJ=all
 kitty=noun=all
 kiwi=noun=all
 kiwifruit=noun=all
@@ -81381,6 +81451,7 @@ laureate=noun=all
 laureateship=noun_U=all
 laurel=noun=all
 laurustinus=noun=all
+lav=noun=all # slang
 lava=noun_U=all
 lavabo=lavabo/NN,lavaboes/NNS,lavabos/NNS=all
 lavage=noun_U=all
@@ -82075,6 +82146,7 @@ lightfastness=NN:U=all
 lightheadedly=RB=all
 lightheadedness=NN:U=all
 lighthearted=JJ=all
+lightheartedly=RB=all
 lightheartedness=NN:U=all
 lighthouse=noun=all
 lighting=noun_U=all
@@ -82349,8 +82421,8 @@ lisp=verb=all
 lisper=noun=all
 lisping=noun_UN=all
 lissome=JJ=all
+lissomely=RB=all
 lissomeness=NN:U=all
-lissomness=NN:U=all
 list=noun_UN=all
 list=verb=all
 listed=JJ=all
@@ -87595,6 +87667,7 @@ musquash=noun_U=all
 muss=noun_UN=all
 muss=verb=all
 mussel=noun=all
+mussily=RB=all
 mussiness=NN:U=all
 mussy=mussy/JJ,mussier/JJR,mussiest/JJS=all
 must've=contraction=all
@@ -88132,6 +88205,7 @@ nearly=nearlier/JJR,nearliest/JJS=all
 nearness=NN:U=all
 nearside=noun=all
 nearsighted=JJ=all
+nearsightedly=RB=all
 nearsightedness=NN:U=all
 neat-handedness=NN:U=all
 neat=NN=all
@@ -88327,9 +88401,12 @@ neoclassicist=noun=all
 neocolonial=JJ=all
 neocolonialism=noun_U=all
 neocolonialist=noun=all
+neocon=JJ=all
+neocon=noun=all
 neoconservatism=noun_UN=all
+neoconservative=JJ=all
 neoconservative=noun=all
-neocortex=neocortex/NN,neocortexes/NNS,neocortices/NNS=all
+neocortex [pl. neocortices,neocortexes]=noun=all
 neodymium=noun_U=all
 neoevangelicalism=noun_UN=all
 neogrammarian=noun=all
@@ -88598,6 +88675,7 @@ newfound=JJ=all
 newish=JJ=all
 newline=noun=all
 newly=RB=all
+newlywed=noun=all
 newness=NN:U=all
 news=NN:U=all
 newsagent=noun=all
@@ -89490,8 +89568,12 @@ normlessness=NN:U=all
 normoactive=JJ=all
 norteño=noun=all
 north-east=RB=gb,nz,za
+north-easterly=JJ=all
+north-easterly=RB=all
 north-facing=JJ=all
 north-west=RB=gb,nz,za
+north-westerly=JJ=all
+north-westerly=RB=all
 north=RB=all
 north=north/JJ,norther/JJR=all
 north=noun_U=all
@@ -89500,6 +89582,8 @@ northeast=RB=all
 northeast=northeast/JJ,northeaster/JJR=all
 northeast=noun_U=all
 northeaster=noun=all
+northeasterly=JJ=all
+northeasterly=RB=all
 northeastern=JJ=all
 norther=noun=all
 northerliness=NN:U=all
@@ -89523,6 +89607,8 @@ northwest=RB=all
 northwest=northwest/JJ,northwester/JJR=all
 northwest=noun_U=all
 northwester=noun=all
+northwesterly=JJ=all
+northwesterly=RB=all
 northwestern=JJ=all
 nortriptyline=nortriptyline/NN,nortriptyline/NN:U,nortriptylines/NNS=all
 nose=noun=all
@@ -90155,6 +90241,7 @@ occur [-rr-]=verb=all
 occurrence=noun_UN=all
 ocean=noun=all
 oceanarium=noun=all
+oceanfront=noun=all
 oceangoing=JJ=all
 oceanic=JJ=all
 oceanographer=noun=all
@@ -90294,6 +90381,7 @@ off-target=JJ=all
 off-target=RB=all
 off-the-shelf=JJ=all
 off-the-wall=JJ=all
+off-track=JJ=all
 off-white=noun_UN=all
 off=IN=all
 off=JJ=all
@@ -90373,6 +90461,7 @@ offspring=offspring/NN,offspring/NNS,offsprings/NNS=all
 offstage=JJ=all
 offstage=noun=all
 offtake=noun=all
+offtrack=JJ=all
 oft-times=RB=all # unusual
 oft=oft/JJ,ofter/JJR,oftest/JJS=all
 oft=oft/RB,ofter/RBR,oftest/RBS=all
@@ -90708,6 +90797,7 @@ opaqueness=NN:U=all
 opcode=noun=all
 open-air=JJ=all
 open-ended=JJ=all
+open-handedly=RB=all
 open-handedness=NN:U=all
 open-heart=JJ=all
 open-heartedness=NN:U=all
@@ -90724,6 +90814,8 @@ opencast=JJ=all
 opened=JJ=all
 opener=noun=all
 openhanded=JJ=all
+openhandedly=RB=all
+openhandedness=NN:U=all
 openheartedness=NN:U=all
 opening=JJ=all
 opening=noun_UN=all
@@ -91275,6 +91367,7 @@ otolith=noun=all
 otological=JJ=all
 otologist=noun=all
 otology=noun_UN=all
+otorhinolaryngologist=noun=all
 otoscope=noun=all
 otter=otter/NN:UN,otter/NNS,otters/NNS=all
 ottoman=noun=all
@@ -91296,6 +91389,8 @@ oust=verb=all
 ouster=noun=all
 ousting=NN:UN=all
 out-and-out=JJ=all
+out-of-bounds=JJ=all
+out-of-bounds=RB=all
 out-of-date=JJ=all
 out-of-door=JJ=all
 out-of-the-way=JJ=all
@@ -91739,7 +91834,11 @@ overgraze=verb=all
 overground=JJ=all
 overgrow [overgrows;overgrew;overgrown;overgrowing]=verb=all
 overgrowth=noun_U=all
+overhand=JJ=all
+overhand=RB=all
 overhand=noun=all
+overhanded=JJ=all
+overhanded=RB=all
 overhang [overhangs;overhung;overhung;overhanging]=verb=all
 overhang=noun=all
 overharvest=verb=all
@@ -92298,6 +92397,7 @@ pal=noun=all
 pal=verb=all
 palace=noun_UN=all
 paladin=noun=all
+palaeographer|paleographer=noun_UN=au,gb,nz,za|ca,us
 palaeography|paleography=noun_UN=au,gb,nz,za|ca,us
 palaeomagnetically|paleomagnetically=RB=au,gb,nz,za|ca,us
 palaeomagnetic|paleomagnetic=JJ=au,gb,nz,za|ca,us
@@ -95800,6 +95900,7 @@ pocketknife=pocketknife/NN,pocketknives/NNS=all
 pockmark=noun=all
 pockmark=verb=all
 pockmarked=JJ=all
+poco=RB=all
 pococurante=JJ=all
 pococurante=noun=all
 pod=noun=all
@@ -95882,6 +95983,7 @@ pokey=pokey/JJ,pokier/JJR,pokiest/JJS=all
 pokiness=NN:U=all
 poky=NN=all
 poky=poky/JJ,pokier/JJR,pokiest/JJS=all
+pol=noun=all
 polar=JJ=all
 polar=noun=all
 polarimeter=noun=all
@@ -96433,6 +96535,7 @@ postglacially=RB=all
 postgrad=noun=all
 postgraduate=JJ=all
 postgraduate=noun=all
+posthaste=RB=all
 posthole=noun=all
 posthumous=JJ=all
 posthumously=RB=all
@@ -97159,6 +97262,7 @@ predynastic=JJ=all
 preeclampsia=noun=all
 preeminence=noun_U=all
 preeminent=JJ=all
+preeminently=RB=all
 preemployment=JJ=all
 preemployment=noun=all
 preemptive=JJ=all
@@ -97591,7 +97695,7 @@ pretax=JJ=all
 preteen=noun=all
 preteenager=noun=all
 pretell [pretells;pretold;pretold;pretelling]=verb=all
-pretence=noun_UN=all
+pretence|pretense=noun_UN=all|ca,us
 pretend=JJ=all
 pretend=verb=all
 pretended=JJ=all
@@ -101112,6 +101216,7 @@ redo [redoes;redid;redone;redoing]=verb=all
 redo=noun=all
 redolence=noun_U=all
 redolent=JJ=all
+redolently=RB=all
 redouble=noun=all
 redouble=verb=all
 redoubt=noun=all
@@ -101818,6 +101923,7 @@ remonetization|remonetisation=noun_UN=us,ca,gb|gb,au,nz,za
 remonetize|remonetise=verb=us,ca,gb|gb,au,nz,za
 remonstrance=noun_UN=all
 remonstrant=noun=all
+remonstrantly=RB=all
 remonstrate=verb=all
 remonstration=noun_UN=all
 remonstrative=JJ=all
@@ -102809,6 +102915,7 @@ revaluation=noun_UN=all
 revalue=verb=all
 revamp=noun=all
 revamp=verb=all
+revanche=noun=all
 revanchism=noun_UN=all
 revanchist=noun=all
 revaporization|revaporisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -102991,6 +103098,7 @@ rezone=verb=all
 rhabdomancy=noun_U=all
 rhapsodic=JJ=all
 rhapsodic=NN=all
+rhapsodically=RB=all
 rhapsodist=noun=all
 rhapsodize|rhapsodise=verb=us,ca,gb|gb,au,nz,za
 rhapsody=noun=all
@@ -107871,6 +107979,7 @@ slant=noun=all
 slant=verb=all
 slanted=JJ=all
 slanting=JJ=all
+slantingly=RB=all
 slantways=RB=all
 slantwise=JJ=all
 slantwise=RB=all
@@ -109022,6 +109131,7 @@ sostenuto=noun=all
 sot=noun=all
 soteriology=noun_UN=all
 sottish=JJ=all
+sottishly=RB=all
 sottishness=NN:U=all
 sou'wester=noun=all
 sou=noun=all
@@ -109100,9 +109210,13 @@ soutane=noun=all
 souter=noun=all
 souterrain=noun=all
 south-east=RB=gb,nz,za
+south-easterly=JJ=all
+south-easterly=RB=all
 south-facing=JJ=all
 south-following=JJ=all
 south-west=RB=gb,nz,za
+south-westerly=JJ=all
+south-westerly=RB=all
 south=RB=all
 south=noun_U=all
 south=south/JJ,souther/JJR=all
@@ -109111,6 +109225,8 @@ southeast=RB=all
 southeast=noun_U=all
 southeast=southeast/JJ,southeaster/JJR=all
 southeaster=noun=all
+southeasterly=JJ=all
+southeasterly=RB=all
 southeastern=JJ=all
 souther=noun=all
 southerliness=NN:U=all
@@ -109136,6 +109252,8 @@ southwest=RB=all
 southwest=noun_U=all
 southwest=southwest/JJ,southwester/JJR=all
 southwester=noun=all
+southwesterly=JJ=all
+southwesterly=RB=all
 southwestern=JJ=all
 southwestern=NN=all
 souvenir=noun=all
@@ -111406,6 +111524,7 @@ subaqueous=JJ=all
 subarachnoid=JJ=all
 subarctic=JJ=all
 subarctic=noun=all
+subarea=noun=all
 subarray=noun=all
 subassembly=noun=all
 subastral=JJ=all
@@ -111413,6 +111532,7 @@ subatomic=JJ=all
 subatomic=noun=all
 subaudition=noun_UN=all
 subaxillary=JJ=all
+subbasement=noun=all
 subbing=noun_UN=all
 subcapsular=JJ=all
 subcase=NN=all
@@ -111439,6 +111559,7 @@ subclinical=JJ=all
 subcommander=NN=all
 subcommission=noun=all
 subcommittee=noun=all
+subcompact=noun=all
 subcomponent=noun=all
 subconjunctival=JJ=all
 subconjunctivally=RB=all
@@ -111669,6 +111790,7 @@ subprefectorial=JJ=all
 subprefecture=noun=all
 subprime=JJ=all
 subproblem=noun=all
+subprofessional=noun=all
 subprogram=noun=all
 subproject=noun=all
 subrace=noun=all
@@ -111696,6 +111818,7 @@ subsection=noun=all
 subsector=noun=all
 subsegment=noun=all
 subsellium=subsellium/NN,subsellia/NNS=all
+subsense=noun=all
 subsequence=noun=all
 subsequent=JJ=all
 subsequent=noun=all
@@ -111822,6 +111945,7 @@ subtraction=noun_UN=all
 subtractive=JJ=all
 subtractor=noun=all
 subtrahend=noun=all
+subtreasury=noun=all
 subtree=noun=all
 subtribe=noun=all
 subtrochanteric=JJ=all
@@ -111838,6 +111962,7 @@ suburbanite=noun=all
 suburbanization|suburbanisation=noun_UN=us,ca,gb|gb,au,nz,za
 suburbanize|suburbanise=verb=us,ca,gb|gb,au,nz,za
 suburbia=noun_U=all
+subvariety=noun=all
 subvention=noun=all
 subversion=noun_U=all
 subversive=JJ=all
@@ -112161,17 +112286,22 @@ super=UH=all
 super=noun=all
 superable=JJ=all
 superableness=NN:U=all
+superabsorbent=JJ=all
 superabundance=noun=all
 superabundant=JJ=all
+superachiever=noun=all
 superactivity=noun_UN=all
 superadministrator=noun=all
+superagency=noun=all
 superaltar=noun=all
 superannuate=verb=all
 superannuated=JJ=all
 superannuation=noun_U=all
 superb=superb/JJ,superber/JJR,superbest/JJS=all
+superblock=noun=all
 superbly=RB=all
 superbness=NN:U=all
+superbomb=noun=all
 superbug=noun=all
 supercalender=noun=all
 supercalender=verb=all
@@ -112268,6 +112398,7 @@ superlative=JJ=all
 superlative=noun=all
 superlatively=RB=all
 superlativeness=NN:U=all
+superliner=noun=all
 superlunary=JJ=all
 superman=superman/NN,supermen/NNS=all
 supermarket=noun=all
@@ -112275,6 +112406,7 @@ supermassive=JJ=all
 supermicron=JJ=all
 supermini=noun=all
 supermodel=noun=all
+supermom=noun=all # informal
 supermoon=noun=all
 supermundane=JJ=all
 supernal=JJ=all
@@ -112301,6 +112433,7 @@ superordinate=verb=all
 superorganic=JJ=all
 superorganization|superorganisation=noun_UN=us,ca,gb|gb,au,nz,za
 superoxide=noun_U=all
+superpatriot=noun=all
 superphosphate=noun=all
 superphylum=NN=all
 superphysical=JJ=all
@@ -112310,6 +112443,7 @@ superpose=verb=all
 superposition=noun_U=all
 superpower=noun=all
 superpowered=JJ=all
+superpremium=JJ=all
 supersaturate=verb=all
 supersaturated=JJ=all
 supersaturation=noun_U=all
@@ -112355,12 +112489,15 @@ superstitiously=RB=all
 superstitiousness=NN:U=all
 superstore=noun=all
 superstratum=superstratum/NN,superstrata/NNS,superstratums/NNS=all
+superstrength=noun=all
 superstructural=JJ=all
 superstructure=noun=all
 supersubtle=JJ=all
 supersymmetry=noun_U=all
+supersystem=noun=all
 supertanker=noun=all
 supertax=noun=all
+supertitle=noun=all
 supertonic=noun=all
 superuser=noun=all
 supervene=verb=all
@@ -113275,6 +113412,7 @@ talon=noun=all
 talonavicular=JJ=all
 taloned=JJ=all
 talus=talus/NN,tali/NNS,taluses/NNS=all
+tam=noun=all
 tamable=JJ=all
 tamale=noun_UN=all
 tamarack=noun=all
@@ -114439,6 +114577,7 @@ thereat=JJ=all
 thereat=RB=all
 thereby=JJ=all
 thereby=RB=all
+therefor=RB=au,ca,us
 therefore=CC=all
 therefore=RB=all
 therefrom=RB=all
@@ -114454,6 +114593,7 @@ thereunder=RB=all
 thereunto=RB=all
 thereupon=RB=all
 therewith=RB=all
+therewithal=RB=all
 therianthropic=JJ=all
 therm=noun=all
 thermal=JJ=all
@@ -114499,6 +114639,7 @@ thermoluminescence=noun=all
 thermolysis=thermolysis/NN,thermolyses/NNS=all
 thermometer=noun=all
 thermometric=JJ=all
+thermometrically=RB=all
 thermometry=noun_U=all
 thermonuclear=JJ=all
 thermophile=JJ=all
@@ -120892,6 +121033,11 @@ vacantness=NN:U=all
 vacate=verb=all
 vacation=noun_UN=all
 vacation=verb=all
+vacationer=noun=all
+vacationing=NN:UN=all
+vacationist=noun=all
+vacationland=noun=all
+vacationless=JJ=all
 vaccinate=verb=all
 vaccination=noun_UN=all
 vaccinator=noun=all
@@ -121316,6 +121462,7 @@ venturi=noun=all
 venturing=noun_UN=all
 venturis=venturis/NN,ventures/NNS=all
 venturous=JJ=all
+venturously=RB=all
 venturousness=NN:U=all
 venue=noun=all
 venule=noun=all
@@ -122132,6 +122279,7 @@ wail=noun=all
 wail=verb=all
 wailer=noun=all
 wailful=JJ=all
+wailfully=RB=all
 wailing=JJ=all
 wailing=noun_U=all
 wain=noun=all
@@ -122814,6 +122962,7 @@ welterweight=JJ=all
 welterweight=noun=all
 welting=noun_UN=all
 weltschmerz=noun=all
+wen=noun=all
 wench=noun=all
 wench=verb=all
 wend=verb=all
@@ -122917,6 +123066,7 @@ wheelless=JJ=all
 wheelwright=noun=all
 wheeze=noun=all
 wheeze=verb=all
+wheezily=RB=all
 wheeziness=NN:U=all
 wheezing=noun_UN=all
 wheezy=wheezy/JJ,wheezier/JJR,wheeziest/JJS=all
@@ -123145,6 +123295,7 @@ who've=contraction=all
 who=who/WP,whom/WP=all
 whoa=UH=all
 whoa=verb=all
+whodunit=noun=all
 whoever=WP=all
 whole=JJ=all
 whole=RP=all
@@ -123468,6 +123619,7 @@ wiretap [-pp-]=verb=all
 wiretap=noun=all
 wiretapper=noun=all
 wiretapping=noun_U=all
+wireworm=noun=all
 wiriness=NN:U=all
 wiring=JJ=all
 wiring=noun_U=all
@@ -123939,6 +124091,7 @@ wrongful=JJ=all
 wrongfully=RB=all
 wrongfulness=NN:U=all
 wrongheaded=JJ=all
+wrongheadedly=RB=all
 wrongheadedness=NN:U=all
 wrongly=RB=all
 wrongness=NN:U=all
@@ -124297,6 +124450,7 @@ z=abbreviation=all
 zabaglione=noun=all
 zaibatsu=NN=all
 zanies=JJ=all
+zanily=RB=all
 zaniness=NN:U=all
 zany=noun=all
 zany=zany/JJ,zanier/JJR,zaniest/JJS=all
@@ -124481,6 +124635,7 @@ zoospore=noun=all
 zootomy=noun=all
 zooxanthella=zooxanthella/NN,zooxanthellae/NNS=all
 zoster=noun_U=all
+zoysia=noun=all
 zucchetto=noun=all
 zucchini=zucchini/NN,zucchini/NNS,zucchinis/NNS=all
 zugzwang=noun=all
