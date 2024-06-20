@@ -1,7 +1,19 @@
 #!/bin/bash
 
+for file in ./src-dict/src-pending.txt ./src-dict/src-clean.txt
+do
+	export LC_ALL=C && sort -u $file -o $file
+done
+
 python3 src-dict/check-syntax.py 
-python3 src-dict/build-all-dicts.py 
+python3 src-dict/build-all-dicts.py
+
+export LC_ALL=C && sort -u -o ./src-dict/output/tagger-dictionary.txt ./src-dict/output/tagger-dictionary.txt
+for variant in AU CA GB NZ US ZA
+do
+	export LC_ALL=C && sort -u -o ./src-dict/output/en_${variant}.txt ./src-dict/output/en_${variant}.txt
+done
+
 
 lt_version=6.5-SNAPSHOT
 lt_tools=../languagetool/languagetool-standalone/target/LanguageTool-${lt_version}/LanguageTool-${lt_version}/languagetool.jar
@@ -53,3 +65,4 @@ do
 	java -cp $lt_tools org.languagetool.tools.SpellDictionaryBuilder -i ./src-dict/output/en_${variant}.txt -freq ${freqlist} -info ${target_dir}/hunspell/en_${variant}.info -o ${target_dir}/hunspell/en_${variant}.dict
 done
 
+mvn install

@@ -303,7 +303,7 @@ A-bomb=NNP=all
 A-fib=noun_UN=all
 A-frame=noun=all
 A-line=JJ=all
-A-okay=all # informal
+A-okay=JJ=all # informal
 A-shaped=JJ=all
 A10=untagged=all
 A11=untagged=all
@@ -2352,7 +2352,7 @@ Amato=NNP=all
 Amawotana=NNP=za # South Africa, placename?
 Amaya=NNP=all
 Amaziah=NNP=all
-Amazon=Amazon/NNP=all
+Amazon=NNP=all
 Amazon=noun=all
 Amazonas=NNP=all
 Amazonia=NNP=all
@@ -64437,7 +64437,7 @@ empathize|empathise=verb=us,ca,gb|gb,au,nz,za
 empathy=noun_U=all
 empennage=noun=all
 emperor=noun=all
-emphasis [pl. emphases]=all
+emphasis [pl. emphases]=noun=all
 emphasizer|emphasiser=noun=us,ca,gb|gb,au,nz,za
 emphasize|emphasise=verb=us,ca,gb|gb,au,nz,za
 emphatic=JJ=all
@@ -73905,7 +73905,7 @@ hem=noun=all
 hem=verb=all
 hemacytometer=noun=all
 hematite|haematite=noun=ca,us|au,gb,nz,za
-hematitic|haematitic=ca,us|au,gb,nz,za
+hematitic|haematitic=JJ=ca,us|au,gb,nz,za
 hematological|haematological=JJ=us,ca|au,gb,nz,za
 hematologic|haematologic=JJ=us,ca|au,gb,nz,za
 hematologist|haematologist=noun=us,ca|au,gb,nz,za
@@ -89968,7 +89968,6 @@ nymphomaniacal=JJ=all
 nystagmic=JJ=all
 nystagmus=noun=all
 nystatin=noun=all
-nz,za
 né=JJ=all
 née=JJ=all
 négligée=noun=all
@@ -93128,7 +93127,7 @@ passed=JJ=all
 passementerie=noun=all
 passenger=noun=all
 passer=noun=all
-passerby [pl. passersby]=all
+passerby [pl. passersby]=noun=all
 passerine=JJ=all
 passerine=noun=all
 passible=JJ=all
@@ -101323,7 +101322,7 @@ reeler=noun=all
 reeling=reeling/NN:UN,reeling/NNS=all
 reemerge=verb=all
 reemergence=noun_U=all
-reemphasis [pl. reemphases]=all
+reemphasis [pl. reemphases]=noun=all
 reemphasize|reemphasise=verb=us,ca,gb|gb,au,nz,za
 reemploy=verb=all
 reemployment=noun_U=all
@@ -116067,7 +116066,7 @@ tranche=noun=all
 tranquil=tranquil/JJ,tranquiler/JJR,tranquiller/JJR,tranquilest/JJS,tranquillest/JJS=all
 tranquilization|tranquilisation=noun_UN=us,ca,gb|gb,au,nz,za
 tranquilizer|tranquillizer|tranquilliser=noun=us|gb,ca|gb,au,nz,za
-tranquilize|tranquillize|tranquillise=verb=us|gb,ca|gb,au,
+tranquilize|tranquillize|tranquillise=verb=us|gb,ca|gb,au,nz,za
 tranquillity=noun_U=all
 tranquillization|tranquillisation=noun_UN=us,ca,gb|gb,au,nz,za
 tranquilly=RB=all
