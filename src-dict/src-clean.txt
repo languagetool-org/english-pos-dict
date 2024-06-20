@@ -22707,7 +22707,7 @@ Lilliana=NNP=all
 Lillie=NNP=all
 Lilliput=NNP=all
 Lilliputian=JJ=all
-Lilliputian=Lilliputian/NNP,Lilliputians/NNPS=all
+Lilliputian=noun=all
 Lilly=NNP=all
 Lillydale=NNP=za # South Africa, placename?
 Lilongwe=NNP=all
@@ -30192,6 +30192,7 @@ Passamaquoddy=NNP=all
 Passchendaele=NNP=all
 Passeriformes=NNP=all
 Passiflora=NNP=all
+Passover=Passover/NNP,Passovers/NNPS=all
 Pasternak=NNP=all
 Pasteur=NNP=all
 Pasto=NNP=all
@@ -30940,6 +30941,7 @@ Polanski=NNP=all
 Polaris=NNP=all
 Polaroid=JJ=all
 Polaroid=Polaroid/NNP,Polaroids/NNPS=all
+Pole=noun=all
 Polish=JJ=all
 Polish=Polish/NN:U,Polish/NNP=all
 Politian=NNP=all
@@ -44753,6 +44755,7 @@ anti-American=NNP=all
 anti-Americanism=noun_UN=all
 anti-British=JJ=all
 anti-British=NNP=all
+anti-Catholic=JJ=all
 anti-Christian=JJ=all
 anti-Christianism=noun_UN=all
 anti-European=JJ=all
@@ -44819,6 +44822,8 @@ anti=JJ=all
 anti=noun=all
 antiabortion=JJ=all
 antiaging|antiageing=JJ=us,ca,au|au,gb,nz,za
+antiaircraft=JJ=all
+antiaircraft=noun=all
 antialiasing=antialiasing/NN,antialiasing/NN:UN,antialiasings/NNS=all
 antianginal=JJ=all
 antianxiety=JJ=all
@@ -63609,7 +63614,7 @@ echinoid=JJ=all
 echinoid=noun=all
 echinus=noun=all
 echo [echoes,echos;echoed;echoed;echoing]=verb=all
-echo=echo/NN:UN,echoes/NNS,echos/NNS=all
+echo [pl. echoes,echos]=noun=all
 echocardiogram=noun=all
 echocardiography=noun_U=all
 echoer=noun=all
@@ -64432,7 +64437,7 @@ empathize|empathise=verb=us,ca,gb|gb,au,nz,za
 empathy=noun_U=all
 empennage=noun=all
 emperor=noun=all
-emphasis=emphasis/NN:UN,emphases/NNS=all
+emphasis [pl. emphases]=all
 emphasizer|emphasiser=noun=us,ca,gb|gb,au,nz,za
 emphasize|emphasise=verb=us,ca,gb|gb,au,nz,za
 emphatic=JJ=all
@@ -71651,6 +71656,7 @@ gonorrheal|gonorrhoeal=JJ=ca,us|au,gb,nz,za
 gonorrhea|gonorrhoea=noun_U=ca,us|au,gb,nz,za
 gonorrheic|gonorrhoeic=JJ=ca,us|au,gb,nz,za
 goo=noun_U=all
+good-bye=noun_UN=all
 good-for-nothing=JJ=all
 good-for-nothing=noun=all
 good-hearted=JJ=all
@@ -81032,6 +81038,7 @@ ladle=noun=all
 ladle=verb=all
 ladler=noun=all
 ladling=ladling/NN:UN,ladling/NNS=all
+lady-in-waiting [pl. ladies-in-waiting]=noun=all
 lady-killer=JJ=all
 lady-killer=lady-killer/NN,lady-killers/NNS,ladykiller/NNS=all
 lady=noun=all
@@ -91368,6 +91375,7 @@ otological=JJ=all
 otologist=noun=all
 otology=noun_UN=all
 otorhinolaryngologist=noun=all
+otorhinolaryngology=noun_UN=all
 otoscope=noun=all
 otter=otter/NN:UN,otter/NNS,otters/NNS=all
 ottoman=noun=all
@@ -91741,6 +91749,7 @@ overdecorate=verb=all
 overdeliver=verb=all
 overdependence=noun=all
 overdependent=JJ=all
+overdetermined=JJ=all
 overdevelop=verb=all
 overdevelopment=noun=all
 overdiagnose=verb=all
@@ -91767,6 +91776,7 @@ overeagerness=NN:U=all
 overearnestness=NN:U=all
 overeat [overeats;overate;overeaten;overeating]=verb=all
 overeater=noun=all
+overeducated=JJ=all
 overeffusiveness=NN:U=all
 overemotional=JJ=all
 overemphasis=overemphasis/NN:U,overemphases/NNS=all
@@ -92256,6 +92266,7 @@ oxytocin=noun=all
 oyster=noun=all
 oystercatcher=noun=all
 oystering=noun=all
+oysterman [pl. oystermen]=noun=all
 ozone=noun_U=all
 ozonic=JJ=all
 ozonization|ozonisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -93117,6 +93128,7 @@ passed=JJ=all
 passementerie=noun=all
 passenger=noun=all
 passer=noun=all
+passerby [pl. passersby]=all
 passerine=JJ=all
 passerine=noun=all
 passible=JJ=all
@@ -93319,6 +93331,7 @@ patrol [-ll-]=verb=all
 patrol=noun_UN=all
 patroller=noun=all
 patrolling=NN:UN=all
+patrolman [pl. patrolmen]=noun=all
 patrology=NN:UN=all
 patron=noun=all
 patronage=noun_U=all
@@ -93379,6 +93392,7 @@ pawnshop=noun=all
 pawpaw=noun=all
 pax=pax/NN,paces/NNS,paxes/NNS=all
 pay [pays;paid,payed;paid,payed;paying]=verb=all
+pay-per-view=NN=all
 pay=noun_U=all
 pay=pay/JJ,payer/JJR=all
 payable=JJ=all
@@ -95307,6 +95321,7 @@ pitchfork=noun=all
 pitchfork=verb=all
 pitchiness=NN:U=all
 pitching=noun_UN=all
+pitchman [pl. pitchmen]=noun=all
 pitchstone=noun=all
 pitchy=pitchy/JJ,pitchier/JJR,pitchiest/JJS=all
 piteous=JJ=all
@@ -97265,6 +97280,8 @@ preeminent=JJ=all
 preeminently=RB=all
 preemployment=JJ=all
 preemployment=noun=all
+preempt=verb=all
+preemption=noun_U=all
 preemptive=JJ=all
 preemptively=RB=all
 preen=verb=all
@@ -97274,6 +97291,7 @@ preengagement=noun=all
 preenrollment|preenrolment=noun_UN=us|au,ca,gb,nz,za
 preequalization|preequalisation=noun_UN=us,ca,gb|gb,au,nz,za
 preestablish=verb=us
+preexist=verb=all
 preexistence=noun_U=all
 preexistent=JJ=all
 pref=NN=all
@@ -97795,6 +97813,7 @@ prey=noun_U=all
 prey=verb=all
 preying=NN:UN=all
 priapic=JJ=all
+price-fixing=NN:U=all
 price=noun_UN=all
 price=verb=all
 priceless=JJ=all
@@ -100950,8 +100969,12 @@ recomposition=noun_UN=all
 recompound=verb=all
 recompress=verb=all
 recompression=noun=all
+recomputation=noun_UN=all
 recompute=verb=all
+reconceive=verb=all
+reconcentrate=verb=all
 reconcentration=noun_UN=all
+reconception=noun=all
 reconceptualization|reconceptualisation=noun_UN=us,ca,gb|gb,au,nz,za
 reconceptualize|reconceptualise=verb=us,ca,gb|gb,au,nz,za
 reconcilability=noun_UN=all
@@ -100962,6 +100985,8 @@ reconcilement=noun=all
 reconciler=noun=all
 reconciliation=noun_UN=all
 reconciliatory=JJ=all
+recondensation=noun_UN=all
+recondense=verb=all
 recondite=JJ=all
 reconditeness=NN:U=all
 recondition=verb=all
@@ -100974,9 +100999,8 @@ reconfirmation=noun_UN=all
 reconnaissance=noun_UN=all
 reconnect=verb=all
 reconnection=noun_UN=all
-reconnoiterer=noun=all
-reconnoitre=verb=all
-reconnoitrer=noun=all
+reconnoiterer|reconnoitrer=noun=us|au,ca,gb,nz,za
+reconnoiter|reconnoitre=verb=us|au,ca,gb,nz,za
 reconquer=verb=all
 reconquest=noun_U=all
 reconsecrate=verb=all
@@ -101000,6 +101024,8 @@ reconstructionist=noun=all
 reconstructive=JJ=all
 reconstructiveness=NN:U=all
 reconsultation=NN:UN=all
+recontact=verb=all
+recontaminate=verb=all
 recontamination=noun=all
 recontextualize|recontextualise=verb=us,ca,gb|gb,au,nz,za
 recontract=verb=all
@@ -101108,6 +101134,7 @@ recusance=noun=all
 recusancy=noun_U=all
 recusant=JJ=all
 recusant=noun=all
+recut [recuts;recut;recut;recutting]=verb=all
 recyclable=JJ=all
 recyclable=noun=all
 recyclate=noun_UN=all
@@ -101191,6 +101218,8 @@ redintegration=noun_UN=all
 redirect=noun=all
 redirect=verb=all
 redirection=noun_UN=all
+rediscount=noun=all
+rediscount=verb=all
 rediscover=verb=all
 rediscovery=noun_U=all
 redispatch=verb=all
@@ -101205,6 +101234,7 @@ redistributional=JJ=all
 redistributionist=noun=all
 redistributive=JJ=all
 redistributor=noun=all
+redistrict=verb=all
 redivide=verb=all
 redivivus=JJ=all
 redline=noun=all
@@ -101264,13 +101294,17 @@ reduplicative=JJ=all
 redware=noun=all
 redwing=noun=all
 redwood=noun=all
+reecho [pl. reechoes,reechos]=noun=all
+reecho [reechoes,reechos;reechoed;reechoed;reechoing]=verb=all
 reed=noun_UN=all
 reed=verb=all
 reedbird=noun=all
 reedbuck=reedbuck/NN,reedbuck/NNS,reedbucks/NNS=all
 reediness=NN:U=all
 reeding=noun_UN=all
+reedit=verb=all
 reeducate=verb=all
+reeducation=noun_U=all
 reedy=reedy/JJ,reedier/JJR,reediest/JJS=all
 reef=reef/NN,reefs/NNS,reeves/NNS=all
 reef=verb=all
@@ -101287,19 +101321,31 @@ reelect=verb=all
 reelection=noun_UN=all
 reeler=noun=all
 reeling=reeling/NN:UN,reeling/NNS=all
+reemerge=verb=all
+reemergence=noun_U=all
+reemphasis [pl. reemphases]=all
 reemphasize|reemphasise=verb=us,ca,gb|gb,au,nz,za
+reemploy=verb=all
+reemployment=noun_U=all
+reenact=verb=all
 reenactor=noun=all
 reenergize|reenergise=verb=us,ca,gb|gb,au,nz,za
 reengineer=verb=all
 reengineering=NN:U=all
+reenlist=verb=all
+reenlistment=noun_U=all
+reenter=verb=all
 reentrance=noun=all
 reentrant=JJ=all
 reentrant=noun=all
 reentry=noun=all
+reestablish=verb=all
+reestablishment=noun_U=all
 reevaluate=verb=all
 reevaluation=noun=all
 reeve [reeves;reeved,rove;reeved,rove;reeving]=verb=all
 reeve=noun=all
+reexamine=verb=all
 reexport=noun=all
 reexport=verb=all
 ref=noun=all
@@ -101330,6 +101376,7 @@ referral=noun_UN=all
 referrer=noun=all
 refertilization|refertilisation=noun_UN=us,ca,gb|gb,au,nz,za
 refetch=verb=all
+refight=verb=all
 refile=verb=all
 refill=noun=all
 refill=verb=all
@@ -101350,6 +101397,7 @@ refire=verb=all
 refit [refits;refit,refitted;refit,refitted;refitting]=verb=all
 refit=noun=all
 refitting=noun_UN=all
+refix=verb=all
 reflate=verb=all
 reflation=noun_UN=all
 reflect=verb=all
@@ -101407,6 +101455,7 @@ reformist=noun=all
 reformulate=verb=all
 reformulation=noun_UN=all
 refortify=verb=all
+refound=verb=all
 refract=verb=all
 refractedness=NN:U=all
 refraction=noun_U=all
@@ -101493,6 +101542,7 @@ regather=verb=all
 regatta=noun=all
 regelation=noun_UN=all
 regency=noun_UN=all
+regeneracy=noun_U=all
 regenerate=verb=all
 regenerated=JJ=all
 regenerateness=NN:U=all
@@ -101509,6 +101559,7 @@ regicidal=JJ=all
 regicide=noun_UN=all
 regift=noun=all
 regift=verb=all
+regild=verb=all
 regime=noun=all
 regimen=noun=all
 regiment=noun=all
@@ -101539,6 +101590,7 @@ registrant=noun=all
 registrar=noun=all
 registration=noun_UN=all
 registry=noun=all
+regive [regives;regave;regiven;regiving]=verb=all
 regnal=JJ=all
 regnant=JJ=all
 regolith=regolith/NN,regolith/NN:U,regoliths/NNS=all
