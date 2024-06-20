@@ -713,6 +713,8 @@ AFW=untagged=all
 AFX=untagged=all
 AFZ=untagged=all
 AG=noun=all
+AGA=NNP=all
+AGA=noun=all
 AGB=untagged=all
 AGC=NNP=all
 AGCA=NNP=all
@@ -4411,6 +4413,7 @@ Balaton=NNP=all
 Balbo=NNP=all
 Balch=NNP=all
 Balder=NNP=all
+Baldr=NNP=all
 Baldwin=Baldwin/NNP,Baldwins/NNPS=all
 Baldy=NNP=za # South Africa, placename?
 Bale=NNP=all
@@ -5449,6 +5452,7 @@ Blinkpan=NNP=za # South Africa, placename?
 Blinkpunt=NNP=za # South Africa, placename?
 Blinkwater=NNP=za # South Africa, placename?
 Bliss=NNP=all
+Blitz=NNP=all
 Bloch=NNP=all
 Bloekombos=NNP=za # South Africa, placename?
 Bloemanda=NNP=za # South Africa, placename?
@@ -5834,6 +5838,7 @@ Bowlby=NNP=all
 Bowles=NNP=all
 Bowman=NNP=all
 Boxy=NNP=za # South Africa, placename?
+Boy=NNP=all
 Boyce=NNP=all
 Boyd=NNP=all
 Boydell=NNP=all
@@ -6965,6 +6970,7 @@ CGPB=untagged=all
 CGPF=untagged=all
 CGPME=untagged=all
 CGR=untagged=all
+CGS=NN=all
 CGS=untagged=all
 CGSI=NNP=all
 CGT=untagged=all
@@ -23297,6 +23303,7 @@ Lycian=Lycian/NNP,Lycians/NNPS=all
 Lycopodium=NNP=all
 Lycra=Lycra/NNP,Lycras/NNPS=all
 Lycurgus=NNP=all
+Lycus=NNP=all
 Lydenburg=NNP=za # South Africa, placename?
 Lydgate=NNP=all
 Lydia=NNP=all
@@ -24347,6 +24354,7 @@ Malaya=NNP=all
 Malayalam=Malayalam/NN:U,Malayalam/NNP=all
 Malayan=Malayan/NNP,Malayans/NNPS=all
 Malaysia=NNP=all
+Malaysian=JJ=all
 Malaysian=Malaysian/NNP,Malaysians/NNPS=all
 Malchus=NNP=all
 Malcolm=NNP=all
@@ -29301,6 +29309,7 @@ Otero=NNP=all
 Othame=NNP=za # South Africa, placename?
 Othandweni=NNP=za # South Africa, placename?
 Othello=NNP=all
+Other=NNP=all
 Othón=NNP=all
 Otis=NNP=all
 Otoe=NNP=all
@@ -29457,7 +29466,7 @@ PCG=untagged=all
 PCGR=untagged=all
 PCHA=NNP=all
 PCI-compliant=JJ=all
-PCI=untagged=all
+PCI=noun=all
 PCIE=untagged=all
 PCIe=NNP=all
 PCL=untagged=all
@@ -35538,6 +35547,7 @@ Skåne=NNP=all
 Skåneland=NNP=all
 Skírnismál=NNP=all
 Slabberts=NNP=za # South Africa, placename?
+Slack=NNP=all
 Slackware=NNP=all
 Slade=NNP=all
 Slagboom=NNP=za # South Africa, placename?
@@ -45648,6 +45658,7 @@ argumentatively=RB=all
 argumentativeness=NN:U=all
 argumentum=argumentum/NN,argumenta/NNS=all
 argy-bargy=NN=all
+argyle|argyll=noun=all|gb
 aria=noun=all
 arid=arid/JJ,arider/JJR,aridest/JJS=all
 aridity=noun_U=all
@@ -45713,7 +45724,7 @@ armorial=noun=all
 armoried|armouried=JJ=us|gb,ca,au,nz,za
 armorless|armourless=JJ=us|gb,ca,au,nz,za
 armory|armoury=noun_UN=us|gb,ca,au,nz,za
-armor|armour=noun=us|gb,ca,au,nz,za
+armor|armour=noun_UN=us|gb,ca,au,nz,za
 armor|armour=verb=us|gb,ca,au,nz,za
 armpit=noun=all
 armrest=noun=all
@@ -48117,12 +48128,14 @@ believableness=NN:U=all
 believably=RB=all
 believe=verb=all
 believer=noun=all
+believingly=RB=all
 belittle=verb=all
 belittlement=noun_U=all
 belittler=noun=all
 bell-bottom=JJ=all
 bell-bottoms=NNS=all
 bell-ringer=noun=all
+bell-shaped=JJ=all
 bell=noun=all
 bell=verb=all
 belladonna=noun_U=all
@@ -48151,6 +48164,8 @@ bellow=verb=all
 bellowing=NN:UN=all
 bellows=NN=all
 bellwether=noun=all
+belly-land=verb=all
+belly-landing=noun_UN=all
 belly=noun=all
 belly=verb=all
 bellyache=noun=all
@@ -51964,6 +51979,7 @@ caressive=JJ=all
 caret=noun=all
 caretaker=noun=all
 careworn=JJ=all
+carful=noun=none # possible confusion: careful
 cargo=cargo/NN:UN,cargoes/NNS,cargos/NNS=all
 caribou=caribou/NN,caribou/NNS,caribous/NNS=all
 caricature=noun_UN=all
@@ -60887,6 +60903,7 @@ dialogite=noun=all
 dialogize|dialogise=verb=us,ca,gb|gb,au,nz,za
 dialogue=verb=all
 dialoguer=noun=all # unusual
+dialogue|dialog=noun=all|ca,us
 dialogue|dialog=noun_UN=all|ca,us
 dialysis=dialysis/NN:UN,dialyses/NNS=all
 dialytic=JJ=all
@@ -65622,6 +65639,7 @@ estrous|oestrous=JJ=ca,us|au,gb,nz,za
 estuarial=JJ=all
 estuarine=JJ=all
 estuary=noun=all
+esu=NN=all
 eta=noun=all
 etalon=noun=all
 etc=RB=all
@@ -77098,6 +77116,7 @@ incendiary=noun=all
 incense=noun_U=all
 incense=verb=all
 incensory=noun=all
+incent=verb=us
 incenter|incentre=noun=us|au,ca,gb,nz,za
 incentive=JJ=all
 incentive=noun_UN=all
@@ -80266,6 +80285,7 @@ junkie=noun=all
 junkman=junkman/NN,junkmen/NNS=all
 junky=junky/JJ,junkier/JJR,junkiest/JJS=all
 junky=noun=all
+junkyard=noun=all
 junta=noun=all
 jural=JJ=all
 jurat=noun=all
@@ -81404,6 +81424,8 @@ lasting=NN:UN=all
 lastingly=RB=all
 lastingness=NN:U=all
 lastly=RB=all
+lat=lat/JJ,latter/JJR=au,ca,us
+lat=noun=au,ca,us
 latch=noun=all
 latch=verb=all
 latched=JJ=all
@@ -83829,9 +83851,14 @@ man-eating=JJ=all
 man-hour=noun=all
 man-made=man-made/JJ,manmade/JJ=all
 man-of-war [pl. men-of-war]=noun=all
+man-powered=JJ=all
+man-size=JJ=all
+man-sized=JJ=all
 man-year=noun=all
 man=man/NN:UN,men/NNS=all
 man=verb=all
+mana=NN:U=all
+mana=noun=all
 manacle=noun=all
 manacle=verb=all
 manage=NN:U=all
@@ -83985,6 +84012,7 @@ manor=noun=all
 manorial=JJ=all
 manorialism=noun_UN=all
 manpower=noun_U=all
+manpowered=JJ=all
 manqué=JJ=all
 mans=noun=all
 mansard=JJ=all
@@ -115695,9 +115723,15 @@ tootsy=noun=all
 top-down=JJ=all
 top-grossing=JJ=all
 top-heavy=JJ=all
+top-level=JJ=all
+top-level=noun_UN=all
 top-line=JJ=all
 top-line=noun=all
 top-notch=JJ=all
+top-notcher=noun=all # dated?
+top-quality=JJ=all
+top-ranking=JJ=all
+top-secret=JJ=all
 top-selling=JJ=all
 top-tier=JJ=all
 top-up=NN=all
@@ -117027,6 +117061,7 @@ trying=JJ=all
 trying=noun_UN=all
 tryingly=RB=all
 tryingness=NN:U=all
+tryout=noun=all
 trypanosome=noun=all
 trypanosomiasis=trypanosomiasis/NN:U,trypanosomiases/NNS=all
 trypsin=noun_U=all
@@ -123030,24 +123065,42 @@ welfarism=noun_UN=all
 welkin=noun_U=all
 well-adjusted=JJ=all
 well-advised=JJ=all
+well-aimed=JJ=all
 well-analyzed|well-analysed=JJ=ca,us|au,gb,nz,za
 well-appointed=JJ=all
 well-armored|well-armoured=JJ=us|gb,ca,au,nz,za
 well-balanced=JJ=all
+well-behaved=JJ=all
+well-behavedly=RB=all
 well-being=NN:U=all
+well-beloved=JJ=all
+well-born=JJ=all
 well-bred=JJ=all
+well-built=JJ=all
 well-centered|well-centred=JJ=us|au,ca,gb,nz,za
+well-chosen=JJ=all
 well-colored|well-coloured=JJ=us|gb,ca,au,nz,za
+well-connected=JJ=all
 well-decked=JJ=all
 well-defined=JJ=all
+well-deserved=JJ=all
 well-deserving=JJ=all
 well-deserving=NN:U=all
+well-designed=JJ=all
+well-developed=JJ=all
+well-disciplined=JJ=all
 well-disposed=JJ=all
 well-done=JJ=all
 well-drafted=JJ=all
+well-dressed=JJ=all
+well-earned=JJ=all
+well-educated=JJ=all
 well-endowed=JJ=all
+well-equipped=JJ=all
+well-established=JJ=all
 well-favoredness|well-favouredness=NN:U=us|gb,ca,au,nz,za
 well-favored|well-favoured=JJ=us|gb,ca,au,nz,za
+well-fed=JJ=all
 well-fitted=JJ=all
 well-fixed=JJ=all
 well-flavored|well-flavoured=JJ=us|gb,ca,au,nz,za
@@ -123057,27 +123110,51 @@ well-founded=JJ=all
 well-foundedness=NN:U=all
 well-groomed=JJ=all
 well-grounded=JJ=all
+well-hained=JJ=all
 well-heeled=JJ=all
 well-humored|well-humoured=JJ=us|gb,ca,au,nz,za # unusual
+well-informed=JJ=all
 well-intentioned=JJ=all
+well-kept=JJ=all
 well-known=JJ=all
+well-loved=JJ=all
+well-made=JJ=all
+well-mannered=JJ=all
+well-marked=JJ=all
+well-matched=JJ=all
 well-meaning=JJ=all
+well-meaningly=RB=all
+well-meant=JJ=all
 well-nigh=RB=all
 well-off=JJ=all
 well-ordered=JJ=all
+well-organized|well-organised=JJ=us,ca,gb|gb,au,nz,za
 well-packed=JJ=all
+well-paid=JJ=all
 well-placed=JJ=all
 well-planned=JJ=all
+well-prepared=JJ=all
+well-preserved=JJ=all
+well-publicized=JJ=all
 well-read=JJ=all
+well-received=JJ=all
 well-researched=JJ=all
 well-rounded=JJ=all
 well-spoken=JJ=all
 well-stocked=JJ=all
+well-structured=JJ=all
+well-supported=JJ=all
+well-thought-of=JJ=all
+well-thought-out=JJ=all
 well-timed=JJ=all
 well-to-do=JJ=all
+well-trained=JJ=all
+well-tried=JJ=all
 well-turned=JJ=all
+well-used=JJ=all
 well-wish=noun=all
 well-wisher=noun=all
+well-worn=JJ=all
 well=UH=all
 well=noun=all
 well=verb=all
@@ -123272,6 +123349,7 @@ wheyishness=NN:U=all
 which've=contraction=all
 which=which/WDT,which/WP=all
 whichever=WDT=all
+whichsoever=PRP=all
 whicker=verb=all
 whiff=noun=all
 whiff=verb=all
@@ -123519,6 +123597,7 @@ wicketkeeper=noun=all
 wicking=noun=all
 wickiup=noun=all
 widdershins=RB=all
+wide-angle=JJ=all
 wide-awake=JJ=all
 wide-eyed=JJ=all
 wide-leafed=JJ=all
@@ -124797,6 +124876,8 @@ zymosimeter=noun=all
 zymotic=JJ=all
 zymurgy=noun_U=all
 zálesíite=NN:U=all
+µJ=symbol=all
+µPa=symbol=all
 µm=NN=all
 Àlex=NNP=all
 Àngel=NNP=all
