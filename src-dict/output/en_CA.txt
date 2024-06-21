@@ -4347,6 +4347,8 @@ melanizes
 melanizing
 melodize
 melodized
+melodizer
+melodizers
 melodizes
 melodizing
 melodramatization

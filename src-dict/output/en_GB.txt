@@ -7855,10 +7855,14 @@ melanizes
 melanizing
 melodise
 melodised
+melodiser
+melodisers
 melodises
 melodising
 melodize
 melodized
+melodizer
+melodizers
 melodizes
 melodizing
 melodramatisation

@@ -4359,6 +4359,8 @@ melanises
 melanising
 melodise
 melodised
+melodiser
+melodisers
 melodises
 melodising
 melodramatisation

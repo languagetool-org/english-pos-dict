@@ -2509,6 +2509,7 @@ Anaxagoras=NNP=all
 Anaximander=NNP=all
 Anaximenes=NNP=all
 Anaïs=NNP=all
+Ancelotti=NNP=all
 Anchal=NNP=all
 Anchises=NNP=all
 Anchorage=NNP=all
@@ -5540,6 +5541,7 @@ Bloubergrise=NNP=za # South Africa, placename?
 Bloubergstrand=NNP=za # South Africa, placename?
 Bloubosrand=NNP=za # South Africa, placename?
 Blount=NNP=all
+Blu-ray=noun_UN=all
 Bludger=NNP=za # South Africa, placename?
 Bluebeard=Bluebeard/NNP,Bluebeards/NNPS=all
 Bluefield=NNP=all
@@ -7727,6 +7729,7 @@ Caitlyn=NNP=all
 Caitlín=NNP=all
 Caius=NNP=all
 Caixa=NNP=all
+CaixaForum=NNP=all
 Cajamarca=NNP=all
 Cajun=Cajun/NNP,Cajuns/NNPS=all
 Cajun=JJ=all
@@ -11605,6 +11608,7 @@ Dupage=NNP=all
 Dupleix=NNP=all
 Dupont=NNP=all
 Duquesne=NNP=all
+Duquette=NNP=all
 Dur=NNP=all
 Duracell=NNP=all
 Duralumin=NNP=all
@@ -18090,6 +18094,7 @@ Hudson=NNP=all
 Hue=NNP=all
 Huelva=NNP=all
 Huerta=NNP=all
+Huesca=NNP=all
 Huey=NNP=all
 Hueytown=NNP=all
 Huff=NNP=all
@@ -22070,6 +22075,7 @@ Labrador=Labrador/NNP,Labradors/NNPS=all
 Labram=NNP=za # South Africa, placename?
 Labuan=NNP=all
 Lacaille=NNP=all
+Lacan=NNP=all
 Laccadive=NNPS=all
 Lacedaemon=NNP=all
 Lacedaemonian=JJ=all
@@ -29180,6 +29186,7 @@ Olivedale=NNP=za # South Africa, placename?
 Oliveira=NNP=all
 Oliver=NNP=all
 Olives=NNP=all
+Olivetti=NNP=all
 Olivia=NNP=all
 Olivier=NNP=all
 Olivine=NNP=za # South Africa, placename?
@@ -34951,6 +34958,7 @@ Sehlakwane=NNP=za # South Africa, placename?
 Sehume=NNP=za # South Africa, placename?
 Seidel=NNP=all
 Seifert=NNP=all
+Seine-Maritime=NNP=all
 Seine=NNP=all
 Seinfeld=NNP=all
 Seisoville=NNP=za # South Africa, placename?
@@ -36121,6 +36129,7 @@ Springbokpan=NNP=za # South Africa, placename?
 Springbokpark=NNP=za # South Africa, placename?
 Springbuck=NNP=za # South Africa, placename?
 Springdale=NNP=all
+Springer-Verlag=NNP=all
 Springer=NNP=all
 Springfield=NNP=all
 Springfontein=NNP=za # South Africa, placename?
@@ -39105,6 +39114,7 @@ Udine=NNP=all
 Udo=NNP=all
 Uecomm=NNP=all
 Ufa=NNP=all
+Uffizi=NNP=all
 Uganda=NNP=all
 Ugandan=JJ=all
 Ugandan=Ugandan/NNP,Ugandans/NNPS=all
@@ -40854,6 +40864,7 @@ Whitsun=JJ=all
 Whitsun=NNP=all
 Whitsuntide=Whitsuntide/NNP,Whitsuntides/NNPS=all
 Whittaker=NNP=all
+Whittall=NNP=all
 Whittingham=NNP=all
 Whittington=NNP=all
 Whittle=NNP=all
@@ -45245,6 +45256,7 @@ antigravity=noun_UN=all
 antigrowth=JJ=all
 antiharassment=JJ=all
 antihermitian=JJ=all
+antihero [pl. antiheroes]=noun=all
 antihistamine=noun=all
 antihistaminic=JJ=all
 antihistaminic=noun=all
@@ -69100,6 +69112,7 @@ fixation=noun_UN=all
 fixative=JJ=all
 fixative=noun_U=all
 fixed-income=JJ=all
+fixed-wing=JJ=all
 fixed=JJ=all
 fixedly=RB=all
 fixedness=NN:U=all
@@ -70783,6 +70796,7 @@ frontline=JJ=all
 frontman=frontman/NN,frontmen/NNS=all
 fronton=noun=all
 frontotemporal=JJ=all
+frontrunning=NN:U=all
 frontward=JJ=all
 frontward=RB=all
 frontward=noun=all
@@ -70946,6 +70960,8 @@ full-featured=JJ=all
 full-fledged=JJ=all
 full-grown=JJ=all
 full-heartedly=RB=all
+full-length=JJ=all
+full-length=noun=all
 full-motion=JJ=all
 full-page=JJ=all
 full-rigged=JJ=all
@@ -75221,7 +75237,8 @@ hernial=JJ=all
 herniate=verb=all
 herniated=JJ=all
 herniation=noun_U=all
-hero=hero/NN,heroes/NNS,heros/NNS=all
+hero [pl. heroes]=noun=all
+hero [pl. heros]=noun=all
 heroic=JJ=all
 heroically=RB=all
 heroicalness=NN:U=all
@@ -76215,6 +76232,8 @@ horse=verb=all
 horseback=noun_U=all
 horsebox=noun=all
 horsecar=noun=all
+horsefeathers=NNS=all
+horsefeathers=UH=all
 horseflesh=horseflesh/NN:U,horseflesh/NNS=all
 horsefly=noun=all
 horsehair=noun_U=all
@@ -86136,12 +86155,27 @@ mega-merger=noun=all
 mega-millionaire=noun=all
 mega=JJ=all
 megaampere=noun=all
+megabacterium [pl. megabacteria]=noun=all
+megabar=noun=none
+megabasite=noun=all # obsolete
+megabats=noun=all
 megabecquerel=noun=all
+megabillion=noun=all
 megabit=noun=all
+megabitch=noun=all # derogatory
+megablockbuster=noun=all
+megabook=noun=all
 megabuck=megabuck/NN,megabuck/NNS,megabucks/NNS=all
+megabuilding=noun=all
+megabus=noun=all
 megabyte=noun=all
 megacandela=noun=all
+megacardia=NN:U=all
+megacarrier=noun=all
 megacenter|megacentre=noun=us|au,ca,gb,nz,za
+megacephalic=JJ=all
+megacephaly=NN:U=all
+megachurch=noun=all
 megacity=noun=all
 megacorporation=noun=all
 megacoulomb=noun=all
@@ -86153,8 +86187,13 @@ megafarad=noun=all
 megafauna=megafauna/NN,megafauna/NNS,megafaunae/NNS,megafaunas/NNS=all
 megagram|megagramme=noun=all|au,ca,gb,nz,za
 megagray=noun=all
+megagrowth=noun_U=all
+megahack=noun=all
+megaheavy=JJ=all
 megahenry=noun=all
 megahertz=megahertz/NN,megahertz/NNS,megahertzes/NNS=all
+megahit=noun=all
+megaindustry=noun=all
 megajoule=noun=all
 megakatal=noun=all
 megakelvin=noun=all
@@ -86162,6 +86201,7 @@ megaliter|megalitre=noun=us|au,ca,gb,nz,za
 megalith=noun=all
 megalithic=JJ=all
 megaloblastic=JJ=all
+megalocardia=NN:U=all
 megalomania=noun_U=all
 megalomaniac=JJ=all
 megalomaniac=noun=all
@@ -86171,18 +86211,31 @@ megalomanic=JJ=all
 megalopolis=noun=all
 megalumen=noun=all
 megalux=megalux/NN,megalux/NNS=all
+megamarket=noun=all
+megamerger=noun=all
 megameter|megametre=noun=all|au,ca,gb,nz,za
+megamillion=noun=all
+megamix=noun=all
 megamole=noun=all
+megamouth=noun=all
 meganewton=noun=all
 megaparsec=noun=all
 megapascal=noun=all
+megapenis=noun=all
 megaphone=noun=all
 megaphone=verb=all
+megaphonic=JJ=all
+megaphonically=RB=all
+megaphonist=noun=all
 megapixel=noun=all
+megapolis [pl. megapolises,megapoleis]=noun=all
+megaport=noun=all
+megaprofit=noun=all
 megaproject=noun=all
 megaradian=noun=all
 megasecond=NN=all
 megaseconds=NNS=all
+megaseller=noun=all
 megasiemens=megasiemens/NN,megasiemens/NNS=all
 megasievert=noun=all
 megaspore=noun=all
@@ -86196,6 +86249,7 @@ megathermal=JJ=all
 megaton=noun=all
 megatrend=noun=all
 megavitamin=noun=all
+megavolt-ampere=noun=all
 megavolt=noun=all
 megawatt=noun=all
 megawattage=noun=all
@@ -86261,16 +86315,19 @@ melodeon=noun=all
 melodic=JJ=all
 melodic=noun=all
 melodically=RB=all
+melodicism=NN:U=all
 melodics=NN:U=all
 melodion=noun=all
 melodious=JJ=all
 melodiously=RB=all
 melodiousness=NN:U=all
 melodist=noun=all
+melodizer|melodiser=noun=us,ca,gb|gb,au,nz,za
 melodize|melodise=verb=us,ca,gb|gb,au,nz,za
 melodrama=noun_UN=all
 melodramatic=JJ=all
 melodramatic=noun=all
+melodramatical=JJ=all
 melodramatically=RB=all
 melodramatist=noun=all
 melodramatization|melodramatisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -86294,8 +86351,12 @@ meltwater=noun_U=all
 melty=JJ=all
 member=noun=all
 membered=JJ=all
+memberless=JJ=all
 membership=noun_UN=all
+membranaceous=JJ=all
+membrane-forming=JJ=all
 membrane=noun_UN=all
+membraneless=JJ=all
 membranous=JJ=all
 meme=noun=all
 memento=memento/NN,mementoes/NNS,mementos/NNS=all
@@ -87023,6 +87084,7 @@ microtonally=RB=all
 microtone=noun=all
 microtransaction=noun=all
 microtubule=noun=all
+microturbine=noun=all
 microvascular=JJ=all
 microvillus=microvillus/NN,microvilli/NNS=all
 microvolt=noun=all
@@ -88839,6 +88901,7 @@ multi-point=JJ=all
 multi-port=JJ=all
 multi-pronged=JJ=all
 multi-protocol=JJ=all
+multi-purpose=JJ=all
 multi-role=JJ=all
 multi-scale=JJ=all
 multi-screen=JJ=all
@@ -91360,6 +91423,8 @@ nostril=noun=all
 nostrum=noun=all
 nosy=nosy/JJ,nosier/JJR,nosiest/JJS=all
 nosy=noun=all
+not-for-profit=JJ=all
+not-for-profit=noun=all
 not=n't/RB,not/RB=all
 notability=noun_UN=all
 notable=JJ=all
@@ -93375,6 +93440,7 @@ outstretch=verb=all
 outstretched=JJ=all
 outstrip [outstrips;outstripped,outstript;outstripped,outstript;outstripping]=verb=all
 outswing=NN=all
+outthink [outthinks;outthought;outthought;outthinking]=verb=all
 outvote=verb=all
 outward=JJ=all
 outwardly=RB=all
@@ -101095,6 +101161,7 @@ puncheon=noun=all
 puncher=noun=all
 punchiness=NN:U=all
 punchless=JJ=all
+punchline=noun=all
 punchy=punchy/JJ,punchier/JJR,punchiest/JJS=all
 punctate=JJ=all
 punctilio=noun_U=all
@@ -106233,6 +106300,7 @@ ruinously=RB=all
 ruinousness=NN:U=all
 rule=noun_UN=all
 rule=verb=all
+rulebook=noun=all
 rulemaker=noun=all
 ruler=noun=all
 rulership=noun=all
@@ -106489,6 +106557,7 @@ safe=safe/NN,safes/NNS,saves/NNS=all
 safeguard=noun=all
 safeguard=verb=all
 safeguarding=noun_UN=all
+safehouse=noun=all
 safekeeping=noun_U=all
 safelight=noun=all
 safely=RB=all
@@ -108327,6 +108396,8 @@ semi-automated=JJ=all
 semi-automatically=RB=all
 semi-detached=JJ=all
 semi-elliptical=JJ=all
+semi-final=noun=all
+semi-finalist=noun=all
 semi-formal=JJ=all
 semi-free=JJ=all
 semi-independent=JJ=all
@@ -109348,6 +109419,7 @@ shoelace=noun=all
 shoeless=JJ=all
 shoemaker=noun=all
 shoemaking=noun_U=all
+shoeshine=noun=all
 shoestring=JJ=all
 shoestring=noun=all
 shoetree=noun=all
@@ -119823,6 +119895,7 @@ tutti=JJ=all
 tutti=RB=all
 tutti=tutti/NN,tutties/NNS,tuttis/NNS=all
 tutu=noun=all
+tuxedo [pl. tuxedoes,tuxedos]=noun=all
 tuxedoed=JJ=all
 twaddle=noun_U=all
 twaddle=verb=all
@@ -124949,6 +125022,7 @@ vogue=noun=all
 vogue=vogue/JJ,voguer/JJR=all
 voguish=JJ=all
 voguishness=NN:U=all
+voice-activated=JJ=all
 voice-over=noun=all
 voice-over=verb=all
 voice=noun_UN=all
