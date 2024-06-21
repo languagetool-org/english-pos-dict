@@ -47,9 +47,12 @@
 #gloze=verb=all # unusual
 #gynaecic=JJ=all # unusual
 #gynecic=JJ=all # unusual
+#gyve=noun=all # literary
+#gyve=verb=all # literary
 #hoc=noun=all # unusual
 #ikon=noun=all # unusual
 #initio=RB=all # ab initio
+#intrust=verb=all # less common spelling of ENTRUST
 #kinema=noun=au,gb,nz,za # unusual
 #kinematographer=noun=all # unusual
 #kinematographic=JJ=all # unusual
@@ -79,12 +82,15 @@
 #oecumenical=JJ=gb # archaic
 #om=NN=all
 #omnibus [pl. omnibusses]=noun=all # unusual
+#ope=verb=us # archaic
 #ord=abbreviation=all
 #pam=noun=all
 #programer=noun=us # unusual
 #programing=noun_U=us #unusual
 #ptyalize|ptyalise=verb=us,ca,gb|gb,au,nz,za # unusual obsolete
+#re-uptake=noun_UN=all # unusual
 #ree=noun=all # unusual
+#renumerate=verb=all # unusual?
 #scotia=noun=all # unusual
 #shew=shew/VB,shewed/VBD,shewing/VBG,shewn/VBN,shew/VBP,shews/VBZ=au,ca,us # unusual, archaic
 #somebody'll=contraction=all
@@ -5181,6 +5187,7 @@ Bessie=NNP=all
 Best=NNP=all
 Bester=NNP=za # South Africa, placename?
 Besters=NNP=za # South Africa, placename?
+Beta=Beta/NNP,Betas/NNPS=all
 Betadine=NNP=all
 Betamax=Betamax/NNP,Betamaxes/NNPS=all
 Betancourt=NNP=all
@@ -10398,10 +10405,10 @@ Dacca=NNP=all
 Dachau=NNP=all
 Dacia=NNP=all
 Dacron=Dacron/NNP,Dacrons/NNPS=all
-Dada=Dada/NNP,Dadas/NNPS=all
 Dada=JJ=all
-Dadaism=Dadaism/NNP,Dadaisms/NNPS=all
-Dadaist=Dadaist/NNP,Dadaists/NNPS=all
+Dada=NN:U=all
+Dadaism=noun=all
+Dadaist=noun=all
 Dadaistic=JJ=all
 Dadamba=NNP=za # South Africa, placename?
 Dadaville=NNP=za # South Africa, placename?
@@ -13180,6 +13187,7 @@ Eve=NNP=all
 Eveleigh=NNP=za # South Africa, placename?
 Eveline=NNP=all
 Evelyn=NNP=all
+Even=NNP=all
 Evenki=NNP=all
 Eventide=NNP=za # South Africa, placename?
 Eventim=NNP=all
@@ -20245,6 +20253,7 @@ Kabakazi=NNP=za # South Africa, placename?
 Kabbalistic=JJ=all
 Kabega=NNP=za # South Africa, placename?
 Kabokweni=NNP=za # South Africa, placename?
+Kabuki=Kabuki/NNP,Kabukis/NNPS=all
 Kabul=NNP=all
 Kabyle=Kabyle/NN:U,Kabyle/NNP,Kabyles/NNPS=all
 Kabylia=NNP=all
@@ -22289,6 +22298,7 @@ Lawrenceburg=NNP=all
 Lawrenceville=NNP=all
 Lawson=Lawson/NNP,Lawsons/NNPS=all
 Lawton=NNP=all
+Lay=NNP=all
 Layamon=NNP=all
 Layard=NNP=all
 Layla=NNP=all
@@ -32271,6 +32281,7 @@ Rantoul=NNP=all
 Ranunculus=NNP=all
 Rao=NNP=all
 Raoul=NNP=all
+Rap=NNP=all
 Rapadi=NNP=za # South Africa, placename?
 Rapallo=NNP=all
 Raphael=NNP=all
@@ -40884,6 +40895,7 @@ Wirral=NNP=all
 Wis=NNP=all
 Wisconsin=NNP=all
 Wisd=NNP=all
+Wisdom=NNP=all
 Wise=NNP=all
 Wiseman=NNP=all
 Wish=NNP=all
@@ -41037,6 +41049,7 @@ WrestleMania=NNP=all
 Wrexham=NNP=all
 Wright=NNP=all
 Wrigley=NNP=all
+Writings=Writings/NNP,Writings/NNPS=all
 Wroclaw=NNP=all
 Wrocław=NNP=all
 Wu=NNP=all
@@ -42416,8 +42429,8 @@ acinus=acinus/NN,acini/NNS=all
 ack=abbreviation=all
 acknowledge=verb=all
 acknowledgeable=JJ=all
-acknowledgement=acknowledgement/NN,acknowledgement/NN:U,acknowledgements/NNS=all
-acknowledgment=acknowledgment/NN,acknowledgment/NN:U,acknowledgments/NNS=all
+acknowledgement=noun_U=all
+acknowledgment=noun_U=all
 acme=noun=all
 acne=noun_U=all
 acned=JJ=all
@@ -42973,7 +42986,7 @@ aeroelastic=JJ=all
 aeroelasticity=noun_U=all
 aeroembolism=noun_UN=all
 aerogel=noun=all
-aerogramme=noun=all
+aerogram|aerogramme=noun=all|au,ca,gb,nz,za
 aerolite=noun=all
 aerology=noun_UN=all
 aeromedical=JJ=all
@@ -54414,8 +54427,10 @@ clutter=verb=all
 cluttered=JJ=all
 clypeus=clypeus/NN,clypei/NNS,clypeuses/NNS=all
 cm=noun=all
+cnida [pl. cnidae]=noun=all
 cnidarian=JJ=all
 cnidarian=noun=all
+cnidoblast=noun=all
 co-author=noun=all
 co-author=verb=all
 co-create=verb=all
@@ -58373,6 +58388,7 @@ curd=noun_UN=all
 curdiness=NN:U=all
 curdle=verb=all
 curdling=NN:UN=all
+cure-all=noun=all
 cure=noun=all
 cure=verb=all
 curer=noun=all
@@ -58751,6 +58767,9 @@ dactyl=noun=all
 dactylic=JJ=all
 dactylic=noun=all
 dad=noun=all
+dadaism=noun=all
+dadaist=noun=all
+dadaistic=JJ=all
 daddy=noun=all
 dado=dado/NN,dadoes/NNS,dados/NNS=all
 daemon=noun=all
@@ -64316,7 +64335,8 @@ em=noun=all
 emaciate=verb=all
 emaciated=JJ=all
 emaciation=noun_U=all
-email=noun_UN=all
+email=NN:U=all
+email=noun=all
 email=verb=all
 emailer=noun=all
 emanate=verb=all
@@ -70541,6 +70561,8 @@ garpike=noun=all
 garret=noun=all
 garrison=noun=all
 garrison=verb=all
+garrote=noun=all
+garrote=verb=all
 garrotte=noun=all
 garrotte=verb=all
 garrotting=noun_UN=all
@@ -72373,6 +72395,7 @@ grogginess=NN:U=all
 groggy=groggy/JJ,groggier/JJR,groggiest/JJS=all
 grogram=noun=all
 groin=noun=all
+grok=verb=all # grokked, groked?
 grommet=noun=all
 gromwell=noun=all
 groom=noun=all
@@ -73156,6 +73179,8 @@ handmaiden=noun=all
 handoff=noun=all
 handout=noun=all
 handover=noun=all
+handpick=verb=all
+handpicked=JJ=all
 handprint=noun=all
 handrail=noun=all
 handrailing=noun=all
@@ -74401,6 +74426,7 @@ high-ceilinged=JJ=all
 high-colored|high-coloured=JJ=us|gb,ca,au,nz,za
 high-definition=JJ=all
 high-end=JJ=all
+high-five=verb=all
 high-flown=JJ=all
 high-functioning=JJ=all
 high-handed=JJ=all
@@ -74451,6 +74477,7 @@ highlight=verb=all
 highlighter=noun=all
 highly=RB=all
 highness=noun_UN=all
+hightail=verb=au,ca,us
 highway=noun=all
 highwayman=highwayman/NN,highwaymen/NNS=all
 hijab=noun=all
@@ -74684,6 +74711,7 @@ hoister=noun=all
 hoity-toitiness=NN:U=all
 hoity-toity=JJ=all
 hoity-toity=noun=all
+hoke=verb=au,ca,us # slang
 hokey=hokey/JJ,hokier/JJR,hokiest/JJS=all
 hokeyness=NN:U=all
 hokiness=NN:U=all
@@ -75546,8 +75574,10 @@ hustling=noun_UN=all
 hut=noun=all
 hutch=noun=all
 hutment=noun=all
+huzza=NN=all
 huzza=noun=all
 huzza=verb=all
+huzzah=NN=all
 huzzaing=noun_UN=all
 hyacinth=noun=all
 hyaline=JJ=all
@@ -76561,6 +76591,7 @@ immunology=noun_U=all
 immunomodulator=noun=all
 immunomodulatory=JJ=all
 immunophenotypically=RB=all
+immunosuppress=verb=all
 immunosuppressant=noun=all
 immunosuppression=noun=all
 immunosuppressive=JJ=all
@@ -77950,6 +77981,7 @@ influx=noun=all
 info=noun_U=all
 infographic=noun=all
 infography=NN:U=all
+infold=verb=all
 infolding=NN:UN=all
 infomercial=noun=all
 inform=verb=all
@@ -80556,6 +80588,7 @@ kibe=noun=all
 kibibit=noun=all
 kibibyte=noun=all
 kibitka=noun=all
+kibitz=verb=all
 kibitzer=noun=all
 kiblah=noun=all
 kibosh|kybosh=noun_U=all|gb
@@ -80952,6 +80985,8 @@ kurrajong=noun=all
 kurta=noun=all
 kurtosis=kurtosis/NN,kurtoses/NNS,kurtosises/NNS=all
 kvass=noun_U=all
+kvetch=noun=all
+kvetch=verb=all
 kwanza=noun=all
 kwashiorkor=noun_U=all
 kyanite=kyanite/NN,kyanite/NN:U,kyanites/NNS=all
@@ -83374,8 +83409,11 @@ lychee=noun=all
 lycopene=noun=all
 lycopodium=noun=all
 lye=noun_U=all
+lying-in [pl. lying-ins,lyings-in]=noun=all
+lying-in=JJ=all
 lying=JJ=all
 lying=noun_U=all
+lyingly=RB=all
 lymph=noun_U=all
 lymphadenopathy=noun=all
 lymphangitis=NN=all
@@ -86319,6 +86357,7 @@ miss=noun_UN=all
 miss=verb=all
 missal=noun=all
 missed=JJ=all
+missend=verb=all
 missense=JJ=all
 missense=noun=all
 misshape [misshapes;misshaped;misshaped,misshapen;misshaping]=verb=all
@@ -86393,6 +86432,8 @@ misvocalization|misvocalisation=noun_UN=us,ca,gb|gb,au,nz,za
 miswrite [miswrites;miswrote;miswritten;miswriting]=verb=all
 misère=noun=all
 mite=noun=all
+miter|mitre=noun=us|au,ca,gb,nz,za
+miter|mitre=verb=us|au,ca,gb,nz,za
 mithridate=noun=all
 mithridatic=JJ=all
 mithridatism=noun_UN=all
@@ -87079,6 +87120,8 @@ mosasaur=noun=all
 moschatel=noun=all
 moscovium=NN:U=all
 mosey=verb=all
+mosh=verb=all
+mosher=noun=all
 mosque=noun=all
 mosquito=mosquito/NN,mosquitoes/NNS,mosquitos/NNS=all
 moss=noun_U=all
@@ -87087,11 +87130,15 @@ mosstrooper=noun=all
 mossy=mossy/JJ,mossier/JJR,mossiest/JJS=all
 mossy=noun=all
 most-favored-nation|most-favoured-nation=NN=us|gb,ca,au,nz,za
+most-valuable=JJ=all
+most-visited=JJ=all
 most=noun_U=all
 mostly=RB=all
 mote=noun=all
 motel=noun=all
 motet=noun=all
+moth-eaten=JJ=all
+moth-resistant=JJ=all
 moth=noun=all
 mothball=noun=all
 mothball=verb=all
@@ -87130,6 +87177,8 @@ motivate=verb=all
 motivated=JJ=all
 motivation=noun_UN=all
 motivational=JJ=all
+motivationally=RB=all
+motivative=JJ=all
 motivator=noun=all
 motive=JJ=all
 motive=noun=all
@@ -88764,6 +88813,7 @@ newfangledness=NN:U=all
 newfound=JJ=all
 newish=JJ=all
 newline=noun=all
+newly-wed=noun=all
 newly=RB=all
 newlywed=noun=all
 newness=NN:U=all
@@ -89012,7 +89062,9 @@ no-brainer=noun=all
 no-fault=JJ=all
 no-good=JJ=all
 no-haggle=JJ=all
-no-show=NN:UN=all
+no-nonsense=JJ=all
+no-one=PRP=all
+no-show=noun_UN=all
 no=DT=all
 nob=noun=all
 nobble=verb=all
@@ -91608,6 +91660,7 @@ outpoint=verb=all
 outpost=noun=all
 outpouring=noun=all
 outproduce=verb=all
+outpull=verb=all
 output [outputs;output,outputted;output,outputted;outputting]=verb=all
 output=noun_UN=all
 outrage=noun_UN=all
@@ -95187,6 +95240,7 @@ pilgarlic=noun=all
 pilgrim=noun=all
 pilgrimage=pilgrimage/NN,pilgrimage/NN:U,pilgrimages/NNS=all
 pilgrimize|pilgrimise=verb=us,ca,gb|gb,au,nz,za
+pili=noun=all
 piliferous=JJ=all
 piliform=JJ=all
 piling=noun_UN=all
@@ -95219,6 +95273,7 @@ pilothouse=noun=all
 piloting=noun_UN=all
 pilotless=JJ=all
 pilous=JJ=all
+pilus [pl. pili]=noun=all
 pimento=noun_UN=all
 pimiento=noun=all
 pimp=noun=all
@@ -100613,55 +100668,168 @@ razzia=noun=all
 razzle-dazzle=NN:U=all
 razzmatazz=noun_U=all
 re-Germanization|re-Germanisation=noun_UN=us,ca,gb|gb,au,nz,za
+re-activate=verb=all
+re-adapt=verb=all
+re-add=verb=all
+re-afforestation=noun_UN=all
+re-allocate=verb=all
+re-attend=verb=all
+re-collection=NN:UN=none
+re-create=verb=all
+re-creation=NN:UN=all
+re-creator=noun=all
+re-deploy=verb=all
+re-deployment=noun_U=all
 re-echo [re-echoes;re-echoed;re-echoed;re-echoing]=verb=all
 re-echo=NN:UN=all
+re-edit=verb=all
+re-editable=JJ=all
+re-edition=noun=all
+re-educate=verb=all
+re-education=noun_U=all
 re-elect=verb=all
+re-electable=JJ=all
+re-election=noun_UN=all
+re-embark=verb=all
+re-embody=verb=all
 re-emerge=verb=all
+re-emergence=noun_U=all
+re-emission=noun=all
+re-emphasis [pl. re-emphases]=noun=all
 re-emphasize|re-emphasise=verb=us,ca,gb|gb,au,nz,za
+re-employ=verb=all
+re-employable=JJ=all
+re-employment=noun_U=all
+re-employment=noun_UN=all
 re-enable=verb=all
+re-enact=verb=all
+re-enactment=noun_UN=all
 re-encode=verb=all
 re-energize|re-energise=verb=us,ca,gb|gb,au,nz,za
+re-enforce=verb=all
+re-enforcement=noun_UN=all
+re-enforcer=noun=all
+re-engage=verb=all
+re-engagement=noun_UN=all
 re-engine=verb=all
+re-engineer=verb=all
+re-engineering=NN:U=all
+re-enlist=verb=all
+re-enlister=noun=all
+re-enlistment=noun_U=all
+re-enter=verb=all
+re-entrance=noun=all
+re-entrant=JJ=all
+re-entrant=noun=all
+re-entry=noun=all
+re-enumerate=verb=all
+re-enumeration=noun_UN=all
+re-equip=verb=all
+re-erect=verb=all
+re-establish=verb=all
+re-establishment=NN:UN=all
+re-estimate=verb=all
+re-estimation=noun=all
 re-evaluate=verb=all
 re-evaluation=NN:UN=all
+re-examinable=JJ=all
+re-examinate=verb=all
+re-examination=noun_UN=all
 re-examine=noun=all
 re-examine=verb=all
 re-execute=verb=all
 re-exist=verb=all
+re-experience=verb=all
+re-experiencing=NN:UN=all
+re-explain=verb=all
 re-export=noun=all
 re-export=verb=all
+re-exportable=JJ=all
+re-exportation=noun_UN=all
+re-exporter=noun=all
+re-express=verb=all
+re-fetch=verb=all
 re-form=verb=all
+re-formation=noun=all
+re-fund=verb=all # unusual
 re-import=noun=all
 re-import=verb=all
+re-install=verb=all
+re-introduction=noun_U=all
+re-open=verb=all
+re-post=noun=all
+re-post=verb=all
+re-radiate=verb=all
+re-radiation=noun_UN=all
 re-raise=verb=all
+re-read [re-reads;re-read;re-read;re-reading]=verb=all
+re-read=noun=all
+re-reading=noun_UN=all
+re-regulate=verb=all
+re-regulation=noun_UN=all
+re-release=noun_UN=all
+re-release=verb=all
 re-render=verb=all
+re-route=noun=all
+re-route=verb=all
+re-run [re-runs;re-ran;re-run;re-running]=verb=all
+re-run=noun=all
+re-send [re-sends;re-sent;re-sent;re-sending]=verb=all
+re-send=noun=all
+re-sentence=verb=all
 re-sign=verb=all
+re-site=verb=all
+re-sort=verb=all
 re-sync=verb=all
 re-upload=verb=all
+re-use=noun_UN=all
+re-use=verb=all
+re-write [re-writes;re-wrote;re-written;re-writing]=verb=all
+re-write=noun=all
 re=IN=all
 re=noun_U=all
 reCAPTCHA=NNP=all
+reMarkable=NNP=all
 reabsorb=verb=all
 reabsorption=noun_UN=all
+reaccelerate=verb=all
+reacceleration=noun=all
 reaccept=verb=all
+reacceptance=noun=all
+reaccession=noun=all
 reacclimatization|reacclimatisation=noun_UN=us,ca,gb|gb,au,nz,za
 reacclimatize|reacclimatise=verb=us,ca,gb|gb,au,nz,za
+reaccreditation=noun_UN=all
+reaccumulation=noun=all
+reaccusation=noun=none
+reach-me-down=JJ=all
+reach-me-down=noun=all
 reach=noun_UN=all
 reach=verb=all
 reachability=noun_UN=all
 reachable=JJ=all
 reacher=noun=all
 reaching=NN:UN=all
+reachless=JJ=all
+reacidification=noun_UN=all
+reacknowledgement=noun_U=all
+reacknowledgment=noun_U=all
 reacquaint=verb=all
+reacquaintance=noun_UN=all
 reacquire=verb=all
 reacquisition=noun_UN=all
 react=verb=all
 reactance=noun=all
 reactant=noun=all
 reaction=noun_UN=all
+reactionarism=noun_UN=all
+reactionarist=noun=all
 reactionary=JJ=all
 reactionary=noun=all
+reactionaryism=noun_UN=all
 reactionism=noun_UN=all
+reactionist=JJ=all
+reactionist=noun=all
 reactivate=verb=all
 reactivation=noun_U=all
 reactive=JJ=all
@@ -100670,6 +100838,7 @@ reactiveness=NN:U=all
 reactivity=noun_UN=all
 reactor=noun=all
 read [reads;read;read;reading]=verb=all
+read-aloud=noun=all
 read-only=JJ=all
 read=noun=all
 readability=noun_U=all
@@ -100677,6 +100846,9 @@ readable=JJ=all
 readableness=NN:U=all
 readably=RB=all
 readapt=verb=all
+readaptability=NN:UN=all
+readaptable=JJ=all
+readaptation=noun_UN=all
 readdress=verb=all
 reader=noun=all
 readership=noun=all
@@ -100853,11 +101025,12 @@ rebranding=rebranding/NN,rebranding/NN:U,rebrandings/NNS=all
 rebreathe=verb=all
 rebroadcast [rebroadcasts;rebroadcast,rebroadcasted;rebroadcast,rebroadcasted;rebroadcasting]=verb=all
 rebroadcast=noun=all
+rebroadcaster=noun=all
 rebuff=noun=all
 rebuff=verb=all
 rebuild [rebuilds;rebuilt;rebuilt;rebuilding]=verb=all
 rebuild=noun=all
-rebuilder=NN=all
+rebuilder=noun=all
 rebuilding=NN:UN=all
 rebuilt=JJ=all
 rebuke=noun=all
@@ -101388,6 +101561,8 @@ reedbuck=reedbuck/NN,reedbuck/NNS,reedbucks/NNS=all
 reediness=NN:U=all
 reeding=noun_UN=all
 reedit=verb=all
+reeditable=JJ=all
+reedition=noun=all
 reeducate=verb=all
 reeducation=noun_U=all
 reedy=reedy/JJ,reedier/JJR,reediest/JJS=all
@@ -101406,15 +101581,24 @@ reelect=verb=all
 reelection=noun_UN=all
 reeler=noun=all
 reeling=reeling/NN:UN,reeling/NNS=all
+reembody=verb=all
 reemerge=verb=all
 reemergence=noun_U=all
+reemission=noun=all
 reemphasis [pl. reemphases]=noun=all
 reemphasize|reemphasise=verb=us,ca,gb|gb,au,nz,za
 reemploy=verb=all
+reemployable=JJ=all
 reemployment=noun_U=all
+reemployment=noun_UN=all
 reenact=verb=all
+reenactment=noun_UN=all
 reenactor=noun=all
+reencode=verb=all
 reenergize|reenergise=verb=us,ca,gb|gb,au,nz,za
+reenforce=verb=all
+reengage=verb=all
+reengagement=noun_UN=all
 reengineer=verb=all
 reengineering=NN:U=all
 reenlist=verb=all
@@ -101424,15 +101608,28 @@ reentrance=noun=all
 reentrant=JJ=all
 reentrant=noun=all
 reentry=noun=all
+reequip=verb=all
+reerect=verb=all
 reestablish=verb=all
 reestablishment=noun_U=all
+reestimate=verb=all
+reestimation=noun=all
 reevaluate=verb=all
 reevaluation=noun=all
 reeve [reeves;reeved,rove;reeved,rove;reeving]=verb=all
 reeve=noun=all
+reexaminate=verb=all
+reexamination=noun_UN=all
 reexamine=verb=all
+reexperience=verb=all
+reexperiencing=NN:UN=all
+reexplain=verb=all
 reexport=noun=all
 reexport=verb=all
+reexportable=JJ=all
+reexportation=noun_UN=all
+reexporter=noun=all
+reexpress=verb=all
 ref=noun=all
 ref=verb=all
 reface=verb=all
@@ -102325,7 +102522,7 @@ repositioning=NN:UN=all
 repository=noun=all
 repossess=verb=all
 repossession=noun_UN=all
-repost=repost/NN,reposts/NN=all
+repost=noun=all
 repost=verb=all
 repot [-tt-]=verb=all
 repotting=noun_UN=all
@@ -102531,6 +102728,7 @@ resend=noun=all
 resensitization|resensitisation=noun_UN=us,ca,gb|gb,au,nz,za
 resensitize|resensitise=verb=us,ca,gb|gb,au,nz,za
 resent=verb=all
+resentence=verb=all
 resentful=JJ=all
 resentfully=RB=all
 resentfulness=NN:U=all
@@ -102620,6 +102818,7 @@ resistlessness=NN:U=all
 resistor=noun=all
 resit [resits;resat;resat;resitting]=verb=all
 resit=noun=all
+resite=verb=all
 resitting=noun_UN=all
 resize=noun=all
 resize=verb=all
@@ -103031,7 +103230,7 @@ reunify=verb=all
 reunion=noun_UN=all
 reunite=verb=all
 reupholster=verb=all
-reuptake=noun=all
+reuptake=noun_UN=all
 reusability=noun_UN=all
 reusable=JJ=all
 reusage=noun_UN=all
@@ -112381,12 +112580,14 @@ sunfish=sunfish/NN,sunfish/NNS,sunfishes/NNS=all
 sunflower=noun=all
 sunglass=noun=all
 sungrazer=noun=all
+suni=noun=all
 sunk=noun=all
 sunken=JJ=all
 sunlamp=noun=all
 sunless=JJ=all
 sunlessness=NN:U=all
 sunlight=noun_U=all
+sunlike=JJ=all
 sunlit=JJ=all
 sunnily=RB=all
 sunniness=NN:U=all
@@ -112395,6 +112596,7 @@ sunny=sunny/JJ,sunnier/JJR,sunniest/JJS=all
 sunproof=JJ=all
 sunrise=JJ=all
 sunrise=noun_UN=all
+sunrising=noun=all
 sunroof=noun=all
 sunscreen=noun_UN=all
 sunscreening=JJ=all
@@ -124120,6 +124322,7 @@ workhorse=noun=all
 workhouse=noun=all
 working=JJ=all
 working=noun_UN=all
+workingman [pl. workingmen]=noun=all
 worklessness=NN:U=all
 workload=noun=all
 workman=workman/NN,workmen/NNS=all
