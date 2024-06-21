@@ -2,7 +2,7 @@ import inflection
 
 tagger_file = open("./src-dict/output/tagger-dictionary.txt", "w")
 
-all_variants = ["us", "gb", "ca", "nz", "au", "za"]
+all_variants = ["us", "gb", "ca", "nz", "au", "za", "all"]
 tags_to_avoid = ["untagged", "punctuation", "abbreviation", "symbol", "contraction"]
 spelling_dicts = {}
 for myvariant in all_variants:
@@ -26,9 +26,9 @@ for file_path in ["./src-dict/src-clean.txt"]: #,"./src-dict/src-pending.txt"
             if tag not in tags_to_avoid:
               tagger_file.write(form + "\t" + lemma + "\t" + tag + "\n")
             for variant in variants.split(","):
-              if variant == "all":
-                for myvariant in all_variants:
-                  spelling_dicts[myvariant][form] = ""
+              #if variant == "all":
+              #  for myvariant in all_variants:
+              #    spelling_dicts[myvariant][form] = ""
               if variant in all_variants:
                 spelling_dicts[variant][form] = ""
       #else:

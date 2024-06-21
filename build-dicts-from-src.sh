@@ -9,7 +9,7 @@ python3 src-dict/check-syntax.py
 python3 src-dict/build-all-dicts.py
 
 export LC_ALL=C && sort -u -o ./src-dict/output/tagger-dictionary.txt ./src-dict/output/tagger-dictionary.txt
-for variant in AU CA GB NZ US ZA
+for variant in AU CA GB NZ US ZA ALL
 do
 	export LC_ALL=C && sort -u -o ./src-dict/output/en_${variant}.txt ./src-dict/output/en_${variant}.txt
 done
@@ -48,8 +48,6 @@ java -cp ../$lt_tools org.languagetool.tools.SynthDictionaryBuilder -i tagger-di
 cd -
 mv ${target_dir}/english_synth.dict_tags.txt ${target_dir}/english_tags.txt
 
-rm -rf tmp
-
 #create spelling binaries
 for variant in AU CA GB NZ US ZA
 do
@@ -61,8 +59,12 @@ do
 		freqlist=./spell-data/freq/en_us_wordlist.xml
 	fi
 	echo "${variant} ${freqlist}"
-	cp ./info-files/en_${variant}.info ${target_dir}/hunspell/en_${variant}.info
-	java -cp $lt_tools org.languagetool.tools.SpellDictionaryBuilder -i ./src-dict/output/en_${variant}.txt -freq ${freqlist} -info ${target_dir}/hunspell/en_${variant}.info -o ${target_dir}/hunspell/en_${variant}.dict
+	cp ./info-files/en_${variant}.info ${target_dir}/hunspell/en_${variant}.info 
+	cat ./src-dict/output/en_${variant}.txt ./src-dict/output/en_ALL.txt > ./tmp/en_${variant}.txt 
+	export LC_ALL=C && sort -u -o ./tmp/en_${variant}.txt ./tmp/en_${variant}.txt 
+	java -cp $lt_tools org.languagetool.tools.SpellDictionaryBuilder -i ./tmp/en_${variant}.txt  -freq ${freqlist} -info ${target_dir}/hunspell/en_${variant}.info -o ${target_dir}/hunspell/en_${variant}.dict
 done
+
+rm -rf tmp
 
 mvn install
