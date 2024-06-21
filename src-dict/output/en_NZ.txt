@@ -389,6 +389,7 @@ agonise
 agonised
 agonises
 agonising
+agonisingly
 albitise
 albitised
 albitises
@@ -5497,6 +5498,7 @@ paganises
 paganising
 palaeographer
 palaeographers
+palaeographically
 palaeographies
 palaeography
 palaeomagnetic
@@ -7656,6 +7658,7 @@ tantaliser
 tantalisers
 tantalises
 tantalising
+tantalisingly
 tartarisation
 tartarisations
 tartarise

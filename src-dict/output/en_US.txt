@@ -390,6 +390,7 @@ agonize
 agonized
 agonizes
 agonizing
+agonizingly
 airplane
 airplanes
 albitize
@@ -1741,6 +1742,7 @@ criticizes
 criticizing
 cross-fertilization
 cross-fertilizations
+cross-town
 crosstown
 crystallizable
 crystallization
@@ -2859,6 +2861,14 @@ essentialize
 essentialized
 essentializes
 essentializing
+esthetic
+esthetical
+esthetically
+esthetician
+estheticians
+estheticism
+estheticisms
+esthetics
 estrogen
 estrogenic
 estrogenically
@@ -3189,6 +3199,7 @@ fossilizing
 four-color
 four-liter
 four-liters
+fourth-class
 fractionalization
 fractionalizations
 fractionalize
@@ -4132,6 +4143,7 @@ keratinize
 keratinized
 keratinizes
 keratinizing
+kerplunk
 kickoff
 kickoffs
 kiloliter
@@ -5731,6 +5743,7 @@ palatalizes
 palatalizing
 paleographer
 paleographers
+paleographically
 paleographies
 paleography
 paleomagnetic
@@ -7994,6 +8007,7 @@ tantalizer
 tantalizers
 tantalizes
 tantalizing
+tantalizingly
 tartarization
 tartarizations
 tartarize

@@ -394,6 +394,7 @@ agonize
 agonized
 agonizes
 agonizing
+agonizingly
 airplane
 airplanes
 albitize
@@ -1673,6 +1674,7 @@ criticizes
 criticizing
 cross-fertilization
 cross-fertilizations
+cross-town
 crosstown
 crystallizable
 crystallization
@@ -5525,6 +5527,7 @@ palatalizes
 palatalizing
 paleographer
 paleographers
+paleographically
 paleographies
 paleography
 paleomagnetic
@@ -7668,6 +7671,7 @@ tantalizer
 tantalizers
 tantalizes
 tantalizing
+tantalizingly
 tartarization
 tartarizations
 tartarize

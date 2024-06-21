@@ -761,10 +761,12 @@ agonise
 agonised
 agonises
 agonising
+agonisingly
 agonize
 agonized
 agonizes
 agonizing
+agonizingly
 albitise
 albitised
 albitises
@@ -9811,6 +9813,7 @@ paganizes
 paganizing
 palaeographer
 palaeographers
+palaeographically
 palaeographies
 palaeography
 palaeomagnetic
@@ -13777,6 +13780,7 @@ tantaliser
 tantalisers
 tantalises
 tantalising
+tantalisingly
 tantalization
 tantalizations
 tantalize
@@ -13785,6 +13789,7 @@ tantalizer
 tantalizers
 tantalizes
 tantalizing
+tantalizingly
 tartarisation
 tartarisations
 tartarise
