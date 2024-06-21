@@ -1819,11 +1819,14 @@ Afrinos=NNP=za # South Africa, placename?
 Afro-American=JJ=all
 Afro-American=noun=all
 Afro-Asian=JJ=all
+Afro-Asian=noun=all
 Afro-Asiatic=JJ=all
 Afro-Asiatic=noun=all
 Afro-Caribbean=JJ=all
 Afro-Cuban=JJ=all
 Afro-Eurasia=NNP=all
+Afro-Indian=JJ=all
+Afro-Indian=NN=all
 Afro-pessimism=NN:U=all
 Afro=noun=all
 Afroasiatic=noun=all
@@ -1831,6 +1834,9 @@ Afrocentric=JJ=all
 Afrocentricity=NN:U=all
 Afrocentrism=noun_U=all
 Afrocentrist=noun=all
+Afrofuturism=NN:U=all
+Afrofuturist=noun=all
+Afrotropical=JJ=all
 Ag=NNP=all
 Agadir=NNP=all
 Agamemnon=NNP=all
@@ -51338,6 +51344,7 @@ bulldog=bulldog/JJ,bulldogger/JJR=all
 bulldog=noun=all
 bulldoze=verb=all
 bulldozer=noun=all
+bullet-headed=JJ=all
 bullet=noun=all
 bullet=verb=all
 bulletin=noun=all
@@ -88970,6 +88977,7 @@ mudder=noun=all
 muddied=JJ=all
 muddily=RB=all
 muddiness=NN:U=all
+muddle-headed=JJ=all
 muddle=noun=all
 muddle=verb=all
 muddled=JJ=all
@@ -121592,9 +121600,11 @@ underset=NN=all
 undersexed=JJ=all
 undersheriff=noun=all
 undershoot [undershoots;undershot;undershot;undershooting]=verb=all
+undershorts=NNS=au,ca,us # dated
 undershot=JJ=all
 undershrub=noun=all
 underside=noun=all
+undersign=verb=all
 undersigned=JJ=all
 undersigned=NN=all
 undersize=JJ=all
@@ -121616,8 +121626,11 @@ understandingness=NN:U=all
 understate=verb=all
 understatedness=NN:U=all
 understatement=noun_UN=all
+understock=noun=all
+understock=verb=all
 understory=noun=all
 understrapper=noun=all
+understrength=JJ=all
 understructure=NN=all
 understudy=noun=all
 understudy=verb=all
@@ -124403,6 +124416,7 @@ vampiric=JJ=all
 vampirism=noun_UN=all
 vampirize|vampirise=verb=us,ca,gb|gb,au,nz,za
 vampish=JJ=all
+vampishly=RB=all
 vampishness=NN:U=all
 van=noun=all
 van=verb=all
@@ -124892,6 +124906,7 @@ vexatiousness=NN:U=all
 vexed=JJ=all
 vexedness=NN:U=all
 vexillographer=noun=all
+vexillological=JJ=all
 vexillologist=noun=all
 vexillology=noun_UN=all
 vexing=JJ=all

@@ -1851,11 +1851,13 @@ Afro
 Afro-American
 Afro-Americans
 Afro-Asian
+Afro-Asians
 Afro-Asiatic
 Afro-Asiatics
 Afro-Caribbean
 Afro-Cuban
 Afro-Eurasia
+Afro-Indian
 Afro-pessimism
 Afroasiatic
 Afroasiatics
@@ -1865,7 +1867,11 @@ Afrocentrism
 Afrocentrisms
 Afrocentrist
 Afrocentrists
+Afrofuturism
+Afrofuturist
+Afrofuturists
 Afros
+Afrotropical
 Ag
 Agadir
 Agamemnon
@@ -51835,6 +51841,7 @@ bulldozes
 bulldozing
 bulled
 bullet
+bullet-headed
 bulleted
 bulletin
 bulletined
@@ -108929,6 +108936,7 @@ muddiest
 muddily
 muddiness
 muddle
+muddle-headed
 muddled
 muddledness
 muddlehead
@@ -157664,7 +157672,10 @@ undershrub
 undershrubs
 underside
 undersides
+undersign
 undersigned
+undersigning
+undersigns
 undersize
 undersized
 underskirt
@@ -157696,11 +157707,16 @@ understatement
 understatements
 understates
 understating
+understock
+understocked
+understocking
+understocks
 understood
 understories
 understory
 understrapper
 understrappers
+understrength
 understructure
 understudied
 understudies
@@ -161071,6 +161087,7 @@ vampiric
 vampirism
 vampirisms
 vampish
+vampishly
 vampishness
 vamps
 van
@@ -161747,6 +161764,7 @@ vexedness
 vexes
 vexillographer
 vexillographers
+vexillological
 vexillologies
 vexillologist
 vexillologists
