@@ -7895,6 +7895,8 @@ transistorize
 transistorized
 transistorizes
 transistorizing
+trashman
+trashmen
 traumatization
 traumatizations
 traumatize

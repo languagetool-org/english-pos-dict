@@ -62,6 +62,7 @@
 #hoc=noun=all # unusual
 #ikon=noun=all # unusual
 #initio=RB=all # ab initio
+#innit=contraction=all # informal, isn't it
 #intrust=verb=all # less common spelling of ENTRUST
 #kinema=noun=au,gb,nz,za # unusual
 #kinematographer=noun=all # unusual
@@ -17900,6 +17901,7 @@ Hollandia=NNP=all
 Hollands=NNP=all
 Hollenbach=NNP=all
 Holley=NNP=all
+Holliday=NNP=all
 Hollie=NNP=all
 Holling=NNP=all
 Hollingsworth=NNP=all
@@ -25735,6 +25737,7 @@ Mehlomnyama=NNP=za # South Africa, placename?
 Mehmed=NNP=all
 Mehmet=NNP=all
 Mehran=NNP=all
+Mehta=NNP=all
 Meier=NNP=all
 Meiji=NNP=all
 Meilhac=NNP=all
@@ -27124,6 +27127,7 @@ Muwaweni=NNP=za # South Africa, placename?
 Muzaffarabad=NNP=all
 Muzaffargarh=NNP=all
 Muzak=Muzak/NNP,Muzaks/NNPS=all
+Muzak=NNP=all
 Muzimuhle=NNP=za # South Africa, placename?
 Muzorewa=NNP=all
 Muñoz=NNP=all
@@ -58130,6 +58134,7 @@ counterstyle=noun=all
 countersubject=noun=all
 countersue=verb=all
 countersuit=noun=all
+countersurveillance=NN:U=all
 countertendency=noun=all
 countertenor=JJ=all
 countertenor=noun=all
@@ -63888,6 +63893,7 @@ dram=noun=all
 drama=noun_UN=all
 dramatic=JJ=all
 dramatic=noun=all
+dramatical=JJ=all
 dramatically=RB=all
 dramatics=NN:U=all
 dramatist=noun=all
@@ -67060,6 +67066,7 @@ ex-dividend=JJ=all
 ex-dividend=RB=all
 ex-officio=JJ=all
 ex-service=JJ=all
+ex-serviceman [pl. ex-servicemen]=noun=all
 ex=ex/NN,exes/NNS,ices/NNS=all
 exFAT=NNP=all
 exaampere=noun=all
@@ -77300,6 +77307,8 @@ hyperimmunization|hyperimmunisation=noun_UN=us,ca,gb|gb,au,nz,za
 hyperimmunize|hyperimmunise=verb=us,ca,gb|gb,au,nz,za
 hyperinflation=noun_UN=all
 hyperinflationary=JJ=all
+hyperinsulinemia=noun_UN=all
+hyperinsulinism=noun_UN=all
 hyperintellectual=JJ=all
 hyperintensive=JJ=all
 hyperirritability=noun_UN=all
@@ -81507,6 +81516,7 @@ jellybean=noun=all
 jellyfish=jellyfish/NN,jellyfish/NNS,jellyfishes/NNS=all
 jellylike=JJ=all
 jemmy=noun=all
+jemmy=verb=all
 jennet=noun=all
 jenny=noun=all
 jeopardize|jeopardise=verb=us,ca,gb|gb,au,nz,za
@@ -81600,7 +81610,8 @@ jingoism=noun_U=all
 jingoist=JJ=all
 jingoist=noun=all
 jingoistic=JJ=all
-jinks=NNS=all
+jink=noun=all
+jink=verb=all
 jinn=noun=all
 jinni=jinni/NN,jinn/NNS,jinnis/NNS=all
 jinricksha=noun=all
@@ -82387,6 +82398,7 @@ km=NN=all
 kn=NN=all
 knack=noun=all
 knacker=noun=all
+knacker=verb=gb # slang
 knackered=JJ=all
 knap=noun=all
 knap=verb=all
@@ -83274,6 +83286,7 @@ leapfrog [-gg-]=verb=all
 leapfrog=noun_U=all
 leaping=JJ=all
 learn [learns;learned,learnt;learned,learnt;learning]=verb=all
+learnability=noun_U=all
 learnable=JJ=all
 learned=JJ=all
 learnedly=RB=all
@@ -83930,6 +83943,7 @@ limekiln=noun=all
 limelight=noun_U=all
 limen=noun=all
 limerick=noun=all
+limescale=NN:U=all
 limestone=noun_U=all
 limewater=noun_U=all
 limey=limey/JJ,limier/JJR,limiest/JJS=all
@@ -84058,6 +84072,7 @@ linstock=noun=all
 lint=noun_U=all
 lintel=noun=all
 linter=noun=all
+linting=noun_UN=all
 linty=linty/JJ,lintier/JJR,lintiest/JJS=all
 linty=noun=all
 liny=liny/JJ,linier/JJR,liniest/JJS=all
@@ -84477,6 +84492,7 @@ loincloth=noun=all
 loiter=verb=all
 loiterer=noun=all
 loitering=noun_U=all
+lolcat=noun=all
 loll=verb=all
 loller=noun=all
 lolling=JJ=all
@@ -84989,6 +85005,7 @@ lurching=JJ=all
 lure=noun=all
 lure=verb=all
 lurex=noun=all
+lurgy=noun=gb # slang
 lurid=lurid/JJ,lurider/JJR,luridest/JJS=all
 luridly=RB=all
 luridness=NN:U=all
@@ -85312,6 +85329,7 @@ magniloquence=noun_U=all
 magniloquent=JJ=all
 magnitude=noun_U=all
 magnolia=noun=all
+magnon=noun=all
 magnum=noun=all
 magpie=noun=all
 magus=magus/NN,magi/NNS=all
@@ -86596,6 +86614,8 @@ megayacht=noun=all
 megilp=noun=all
 megohm=noun=all
 megrim=noun=all
+meh=JJ=all
+meh=UH=all
 meiosis=meiosis/NN:U,meioses/NNS=all
 meiotic=JJ=all
 meitnerium=noun_U=all
@@ -87319,6 +87339,7 @@ microgroove=noun=all
 microhabitat=noun=all
 microhenry=noun=all
 microhertz=microhertz/NN,microhertz/NNS=all
+microinjection=noun=all
 microjoule=noun=all
 microkatal=noun=all
 microkelvin=noun=all
@@ -87326,6 +87347,7 @@ microlensed=JJ=all
 microlight=noun=all
 microliter|microlitre=noun=us|au,ca,gb,nz,za
 microlith=noun=all
+microloan=noun=all
 microlumen=noun=all
 microlux=microlux/NN,microluces/NNS,microlux/NNS,microluxes/NNS=all
 micromachine=noun=all
@@ -88052,6 +88074,8 @@ mishandle=verb=all
 mishap=noun_UN=all
 mishappen=verb=all
 mishear [mishears;misheard;misheard;mishearing]=verb=all
+mishit [-tt-]=verb=all
+mishit=noun=all
 mishmash=noun_U=all
 misidentification=noun_UN=all
 misidentify=verb=all
@@ -88297,6 +88321,7 @@ mocktail=noun=all
 mockumentary=noun=all
 mod=JJ=all
 mod=noun=all
+mod=verb=all
 modal=JJ=all
 modal=noun=all
 modalism=noun_UN=all
@@ -89067,6 +89092,7 @@ mousy=mousy/JJ,mousier/JJR,mousiest/JJS=all
 mouth-to-mouth=JJ=all
 mouth=noun_UN=all
 mouth=verb=all
+mouthfeel=noun_UN=all
 mouthful=noun=all
 mouthiness=NN:U=all
 mouthing=noun_UN=all
@@ -89102,6 +89128,7 @@ mower=noun=all
 mowing=noun_UN=all
 mown=JJ=all
 mozzarella=noun_U=all
+mp=abbreviation=all
 mpg=NN=all
 mph=NN=all
 msec=NN=all
@@ -89193,6 +89220,8 @@ mugful=noun=all
 mugger=noun=all
 mugginess=NN:U=all
 mugging=noun_UN=all
+muggle=noun=all # dated, slang
+muggle=verb=all # slang
 muggy=muggy/JJ,muggier/JJR,muggiest/JJS=all
 mugshot=noun=all
 mugwort=noun=all
@@ -89522,7 +89551,7 @@ mummy=noun_UN=all
 mumps=NN:U=all
 munch=verb=all
 muncher=noun=all
-munchies=NN=all
+munchies=NNS=all #informal US
 munching=NN:UN=all
 mundane=mundane/JJ,mundaner/JJR,mundanest/JJS=all
 mundane=noun=all
@@ -90191,6 +90220,7 @@ nearest=IN=all
 nearly=RB=all
 nearly=nearlier/JJR,nearliest/JJS=all
 nearness=NN:U=all
+nearshore=noun=all
 nearside=noun=all
 nearsighted=JJ=all
 nearsightedly=RB=all
@@ -91297,6 +91327,7 @@ noncontinuous|non-continuous=JJ=au,ca,us|gb,nz,za
 noncontrolling=JJ=all
 noncontroversial=JJ=all
 nonconventional=JJ=all
+nonconventionally=RB=all
 noncooperation|non-cooperation=noun_U=au,ca,us|gb,nz,za
 noncooperative=JJ=all
 noncorporate=JJ=all
@@ -94687,7 +94718,7 @@ palatinate=noun=all
 palatine=noun=all
 palaver=noun_UN=all
 palaver=verb=all
-palazzo=noun=all
+palazzo [pl. palazzi]=noun=all # Italian
 pale=noun=all
 pale=pale/JJ,paler/JJR,palest/JJS=all
 pale=verb=all
@@ -94917,7 +94948,7 @@ paper=paper/NN,paper/NN:U,papers/NNS=all
 paper=verb=all
 paperback=JJ=all
 paperback=noun=all
-paperbark=NN=all
+paperbark=noun=all
 paperboard=noun_U=all
 paperboy=noun=all
 paperer=noun=all
@@ -95106,6 +95137,7 @@ parasail=verb=all
 parasailer=noun=all
 parasailing=noun=all
 parasang=noun=all
+parascending=NN:U=all
 parasite=noun=all
 parasitic=JJ=all
 parasitical=JJ=all
@@ -96793,6 +96825,7 @@ phase=noun=all
 phase=verb=all
 phaseout=noun=all
 phasic=JJ=all
+phat=JJ=all
 phatic=JJ=all
 pheasant=pheasant/NN:UN,pheasant/NNS,pheasants/NNS=all
 phellem=noun=all
@@ -98597,6 +98630,7 @@ pompous=JJ=all
 pompously=RB=all
 pompousness=NN:U=all
 ponce=noun=all
+ponce=verb=all
 ponceau=JJ=all
 ponceau=noun=all
 poncho=noun=all
@@ -101737,6 +101771,7 @@ push-up=noun=all
 push=noun_UN=all
 push=verb=all
 pushback=pushback/NN,pushback/NN:UN,pushbacks/NNS=all
+pushbike=noun=all # dated
 pushcart=noun=all
 pushchair=noun=all
 pushdown=noun=all
@@ -106653,6 +106688,7 @@ rubrician=noun=all
 ruby=noun=all
 ruby=ruby/JJ,rubier/JJR,rubiest/JJS=all
 ruche=NN=all
+ruched=JJ=all
 ruching=noun=all
 ruck=noun=all
 ruck=verb=all
@@ -109578,6 +109614,7 @@ sharpen=verb=all
 sharpened=JJ=all
 sharpener=noun=all
 sharper=noun=all
+sharpish=JJ=all # informal
 sharply=RB=all
 sharpness=NN:U=all
 sharpshooter=noun=all
@@ -109787,14 +109824,16 @@ shirtmaker=noun=all
 shirtsleeve=JJ=all
 shirtsleeve=noun=all
 shirty=shirty/JJ,shirtier/JJR,shirtiest/JJS=all
-shit [shits;shat,shit;shat,shit;shitting]=verb=all
+shit [shits;shat,shit;shat,shit;shitting]=verb=all # shitted (rare)
 shit-faced=JJ=all
+shit-faced=JJ=all # informal
 shit=UH=all
 shit=noun_UN=all
 shitake=noun=all
 shitbag=noun=all
 shitcoin=noun=all
 shitface=noun=all
+shitfaced=JJ=all # informal
 shithead=noun=all
 shithole=noun=all
 shitless=JJ=all
@@ -109863,6 +109902,7 @@ shootout=noun=au,ca,us
 shop=noun_UN=all
 shop=verb=all
 shopaholic=noun=all
+shopfitter=noun=all
 shopfitting=NN:U=all
 shopfront=noun=all
 shopkeeper=noun=all
@@ -109993,7 +110033,8 @@ showpiece=noun=all
 showroom=noun=all
 showrunner=noun=all
 showstopper=noun=all
-showtime=showtime/NN,showtime/NN:U,showtimes/NNS=all
+showstopping=NN:U=all
+showtime=noun=all
 showy=showy/JJ,showier/JJR,showiest/JJS=all
 shrapnel=noun_U=all
 shred=noun=all
@@ -110758,7 +110799,7 @@ skittishness=NN:U=all
 skittle=noun=all
 skittle=verb=all
 skive=verb=all
-skiver=NN=all
+skiver=noun=all
 skiving=noun_UN=all
 skivvy=noun=all
 skivvy=verb=all
@@ -110897,7 +110938,7 @@ slaving=NN:U=all
 slavish=JJ=all
 slavishly=RB=all
 slavishness=NN:U=all
-slay [slays;slew;slain;slaying]=verb=all
+slay [slays;slew,slayed;slain;slaying]=verb=all
 slay=slay/NN,slayes/NN=all
 slayer=noun=all
 slaying=noun_UN=all
@@ -111135,6 +111176,7 @@ slumberless=JJ=all
 slumberous=JJ=all
 slumberousness=NN:U=all
 slumbrous=JJ=all
+slumdog=noun=all
 slummer=noun=all
 slumming=noun_UN=all
 slummy=NN=all
@@ -111282,6 +111324,7 @@ smolt=noun=all
 smooch=noun=all
 smooch=verb=all
 smooching=NN:UN=all
+smoochy=smoochy/JJ,smoochier/JJR,smoochiest/JJS=all # slang
 smooth [smoothes,smooths;smoothed;smoothed;smoothing]=verb=all
 smooth=smooth/JJ,smoother/JJR,smoothest/JJS=all
 smoothed=JJ=all
@@ -112227,6 +112270,7 @@ spadiceous=JJ=all
 spadix=spadix/NN,spadices/NNS,spadixes/NNS=all
 spaghetti=noun_U=all
 spahi=noun=all
+spake=VBD=all # archaic, speak
 spallation=noun_UN=all
 spam=NN:U=all
 spam=verb=all
@@ -113125,7 +113169,9 @@ squish=verb=all
 squishiness=NN:U=all
 squishy=squishy/JJ,squishier/JJR,squishiest/JJS=all
 src=NN:U=all
+sriracha=noun=all
 ss=symbol=all
+ssh=NN=all
 stab=noun=all
 stab=verb=all
 stabbed=JJ=all
@@ -113408,6 +113454,7 @@ stateliness=NN:U=all
 stately=RB=all
 stately=stately/JJ,statelier/JJR,stateliest/JJS=all
 statement=noun_UN=all
+statement=verb=all
 stater=noun=all
 stateroom=noun=all
 stateside=JJ=all
@@ -113505,6 +113552,7 @@ steamily=RB=all
 steaminess=NN:U=all
 steaming=JJ=all
 steaming=noun_UN=all
+steampunk=noun_UN=all
 steamroller=noun=all
 steamroller=verb=all
 steamship=noun=all
@@ -114238,6 +114286,7 @@ stripe=noun=all
 stripe=verb=all
 striped=JJ=all
 striper=noun=all
+stripey=noun=all
 striping=noun_UN=all
 stripling=stripling/NN,stripling/NNS,striplings/NNS=all
 stripped-down=JJ=all
@@ -114289,6 +114338,7 @@ strop=verb=all
 strophanthin=noun_U=all
 strophe=noun=all
 strophic=JJ=all
+stroppily=RB=all
 stroppiness=NN:U=all
 stroppy=stroppy/JJ,stroppier/JJR,stroppiest/JJS=all
 struct=noun=all
@@ -115164,6 +115214,7 @@ summarizer|summariser=noun=us,ca,gb|gb,au,nz,za
 summarize|summarise=verb=us,ca,gb|gb,au,nz,za
 summary=JJ=all
 summary=noun=all
+summat=RB=gb # dialectal
 summate=verb=all
 summation=summation/NN,summation/NN:U,summations/NNS=all
 summational=JJ=all
@@ -118899,6 +118950,7 @@ totting=noun_UN=all
 toucan=noun=all
 touch-and-go=JJ=all
 touch-friendly=JJ=all
+touch-paper=noun=all
 touch-tone=JJ=all
 touch=UH=all
 touch=noun_UN=all
@@ -118917,6 +118969,7 @@ touchingness=NN:U=all
 touchless=JJ=all
 touchline=noun=all
 touchpad=noun=all
+touchpaper=noun=all
 touchpoint=noun=all
 touchscreen=noun=all
 touchstone=noun=all
@@ -119457,6 +119510,7 @@ trapshooting=noun_U=all
 trash=noun_U=all
 trash=verb=all
 trashiness=NN:U=all
+trashman [pl. trashmen]=noun=ca,us
 trashy=trashy/JJ,trashier/JJR,trashiest/JJS=all
 trattoria=noun=all
 trauma=trauma/NN,trauma/NN:U,traumas/NNS,traumata/NNS=all
@@ -119542,6 +119596,7 @@ treehouse=noun=all
 treeless=JJ=all
 treelessness=NN:U=all
 treelike=JJ=all
+treeline=noun=all
 treen=JJ=all
 treen=noun=all
 treenail=noun=all
@@ -122319,6 +122374,7 @@ unglued=JJ=all
 ungodliness=NN:U=all
 ungodly=ungodly/JJ,ungodlier/JJR,ungodliest/JJS=all
 ungotten=JJ=all
+ungovernability=NN:UN=all
 ungovernable=JJ=all
 ungovernableness=NN:U=all
 ungoverned=JJ=all
@@ -124775,8 +124831,8 @@ vedette=noun=all
 veer=noun=all
 veer=verb=all
 veering=noun_UN=all
-veg [veges,vegs;vegged;vegged;vegging]=verb=all
-veg=veg/NN,veges/NNS,vegs/NNS=all
+veg [pl. vegs,veges]=noun=all
+veg [vegges, veges,vegs;veged,vegged;veged,vegged;veging,vegging]=verb=all
 vegan=JJ=all
 vegan=noun=all
 veganaise=NN:U=all
@@ -125132,6 +125188,7 @@ vicegerent=noun=all
 vicennial=JJ=all
 viceregal=JJ=all
 viceroy=noun=all
+viceroyal=JJ=all
 viceroyalty=noun=all
 vichyssoise=noun_UN=all
 vicinal=JJ=all
@@ -125528,6 +125585,7 @@ voidableness=NN:U=all
 voided=JJ=all
 voiding=noun_UN=all
 voidness=NN:U=all
+voila=UH=all
 voile=UH=all
 voile=noun_U=all
 voilà=UH=all
@@ -125683,6 +125741,8 @@ vying=JJ=all
 w [pl. ws,w's]=noun=all
 w=abbreviation=all
 wabbit=noun=all
+wack=JJ=all
+wack=noun=all
 wacke=NN=all
 wacked-out=JJ=all
 wacked=JJ=all
@@ -125800,6 +125860,7 @@ walkabout=noun=all
 walkaway=noun=all
 walker=noun=all
 walkie-talkie=noun=all
+walkie=noun=all
 walking=JJ=all
 walking=noun_U=all
 walkout=noun=all
@@ -125943,6 +126004,7 @@ warning=noun_UN=all
 warningly=RB=all
 warp=noun=all
 warp=verb=all
+warpaint=noun_UN=all
 warpath=noun=all
 warped=JJ=all
 warping=noun_UN=all
@@ -126606,6 +126668,7 @@ what's-his-name=NN=all
 what=UH=all
 what=what/WDT,what/WP=all
 whataboutism=NN:U=all
+whatcha=contraction=all # colloquial
 whatever=whatever/WDT,whatever/WP=all
 whatness=NN:U=all
 whatnot=noun_U=all
@@ -126617,6 +126680,7 @@ wheat=noun_U=all
 wheatear=noun=all
 wheaten=JJ=all
 wheaten=noun=all
+wheatgerm=NN:U=all
 wheatgrass=NN=all
 wheatless=JJ=all
 wheatmeal=noun=all
@@ -127295,6 +127359,7 @@ witness=verb=all
 witnessed=JJ=all
 witted=JJ=all
 wittedness=NN:U=all
+witter=verb=all
 witticism=noun=all
 wittily=RB=all
 wittiness=NN:U=all
@@ -127623,6 +127688,7 @@ worthwhile=JJ=all
 worthwhileness=NN:U=all
 worthy=noun=all
 worthy=worthy/JJ,worthier/JJR,worthiest/JJS=all
+wotcha=UH=all
 would've=contraction=all
 would-be=JJ=all
 wouldn't've=contraction=all
@@ -128470,4 +128536,3 @@ zálesíite=NN:U=all
 ω=symbol=all
 ℓ=symbol=all
 ⅇ=symbol=all
-nonconventionally=RB=all

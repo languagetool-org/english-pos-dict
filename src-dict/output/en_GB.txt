@@ -7160,6 +7160,10 @@ kinaesthetics
 kippah
 kippahs
 kippot
+knacker
+knackered
+knackering
+knackers
 kyanisation
 kyanisations
 kyanise
@@ -7519,6 +7523,8 @@ logicizing
 lower-level
 lucerne
 lucernes
+lurgies
+lurgy
 lustre
 lustred
 lustreless
@@ -13531,6 +13537,7 @@ summarizer
 summarizers
 summarizes
 summarizing
+summat
 supercentre
 supercentres
 supercivilisation
