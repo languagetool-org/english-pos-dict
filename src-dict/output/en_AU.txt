@@ -2627,6 +2627,11 @@ enamourments
 enamours
 encephalisation
 encephalisations
+encyclopaedia
+encyclopaedias
+encyclopaedic
+encyclopaedist
+encyclopaedists
 endeavour
 endeavoured
 endeavourer
@@ -2646,6 +2651,8 @@ energising
 enolisable
 enolisation
 enolisations
+enquiries
+enquiry
 enrol
 enrolled
 enrolling
@@ -2875,6 +2882,8 @@ fantasises
 fantasising
 faradisation
 faradisations
+faucet
+faucets
 favour
 favourabilities
 favourability
@@ -2976,6 +2985,8 @@ fink
 finked
 finking
 finks
+firehouse
+firehouses
 fistulisation
 fistulisations
 five-litre
@@ -3463,6 +3474,8 @@ hoke
 hoked
 hokes
 hoking
+homemaker
+homemakers
 hominisation
 hominisations
 hominise
@@ -4569,6 +4582,8 @@ misenrolling
 misenrolment
 misenrolments
 misenrols
+misjudgement
+misjudgements
 misorganisation
 misorganisations
 misrecognise
@@ -4633,6 +4648,8 @@ moisturiser
 moisturisers
 moisturises
 moisturising
+mommies
+mommy
 monarchise
 monarchised
 monarchises
@@ -5530,6 +5547,8 @@ packetise
 packetised
 packetises
 packetising
+paedophile
+paedophiles
 paganisation
 paganisations
 paganise
@@ -5720,6 +5739,8 @@ pauperises
 pauperising
 paviour
 paviours
+paycheck
+paychecks
 peach-coloured
 pearlise
 pearlised
@@ -7171,6 +7192,8 @@ sexualise
 sexualised
 sexualises
 sexualising
+shakedown
+shakedowns
 shamanise
 shamanised
 shamanises
@@ -7319,6 +7342,7 @@ sombrely
 sombreness
 sombrer
 sombrest
+someway
 sonnetisation
 sonnetisations
 sovietisation
@@ -7426,6 +7450,8 @@ strategised
 strategises
 strategising
 straw-coloured
+streetcar
+streetcars
 structuralisation
 structuralisations
 structuralise

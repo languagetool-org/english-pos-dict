@@ -4798,6 +4798,11 @@ encephalisation
 encephalisations
 encephalization
 encephalizations
+encyclopaedia
+encyclopaedias
+encyclopaedic
+encyclopaedist
+encyclopaedists
 endeavour
 endeavoured
 endeavourer
@@ -4828,6 +4833,8 @@ enolisations
 enolizable
 enolization
 enolizations
+enquiries
+enquiry
 enrol
 enrolled
 enrolling
@@ -8233,6 +8240,8 @@ misenrolling
 misenrolment
 misenrolments
 misenrols
+misjudgement
+misjudgements
 misorganisation
 misorganisations
 misorganization
@@ -9799,6 +9808,8 @@ packetize
 packetized
 packetizes
 packetizing
+paedophile
+paedophiles
 paganisation
 paganisations
 paganise

@@ -1690,6 +1690,8 @@ cosmetizes
 cosmetizing
 cosmopolitanization
 cosmopolitanizations
+councilor
+councilors
 counsel
 counseled
 counseling
@@ -3020,6 +3022,8 @@ fantasizes
 fantasizing
 faradization
 faradizations
+faucet
+faucets
 favor
 favorabilities
 favorability
@@ -3117,6 +3121,8 @@ fink
 finked
 finking
 finks
+firehouse
+firehouses
 fistulization
 fistulizations
 five-liter
@@ -3626,6 +3632,8 @@ hoke
 hoked
 hokes
 hoking
+homemaker
+homemakers
 hominization
 hominizations
 hominize
@@ -4858,12 +4866,16 @@ molding
 moldings
 molds
 moldy
+mollusk
+mollusks
 molt
 molted
 molter
 molters
 molting
 molts
+mommies
+mommy
 monarchize
 monarchized
 monarchizes
@@ -5929,6 +5941,8 @@ pauperizes
 pauperizing
 pavior
 paviors
+paycheck
+paychecks
 peach-colored
 pearlize
 pearlized
@@ -5963,6 +5977,8 @@ pedestrianize
 pedestrianized
 pedestrianizes
 pedestrianizing
+pedophile
+pedophiles
 pelletization
 pelletizations
 pelletize
@@ -7428,6 +7444,8 @@ sexualize
 sexualized
 sexualizes
 sexualizing
+shakedown
+shakedowns
 shamanize
 shamanized
 shamanizes
@@ -7609,6 +7627,7 @@ somberer
 somberest
 somberly
 somberness
+someway
 sonnetization
 sonnetizations
 sovietization
@@ -7728,6 +7747,8 @@ strategized
 strategizes
 strategizing
 straw-colored
+streetcar
+streetcars
 structuralization
 structuralizations
 structuralize

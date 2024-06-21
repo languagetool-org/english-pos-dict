@@ -8164,6 +8164,11 @@ enamourments
 enamours
 encephalisation
 encephalisations
+encyclopaedia
+encyclopaedias
+encyclopaedic
+encyclopaedist
+encyclopaedists
 endeavour
 endeavoured
 endeavourer
@@ -8183,6 +8188,8 @@ energising
 enolisable
 enolisation
 enolisations
+enquiries
+enquiry
 enrol
 enrolled
 enrolling
@@ -10089,6 +10096,8 @@ misenrolling
 misenrolment
 misenrolments
 misenrols
+misjudgement
+misjudgements
 misorganisation
 misorganisations
 misrecognise
@@ -10153,6 +10162,8 @@ moisturiser
 moisturisers
 moisturises
 moisturising
+mommies
+mommy
 monarchise
 monarchised
 monarchises
@@ -11054,6 +11065,8 @@ packetise
 packetised
 packetises
 packetising
+paedophile
+paedophiles
 paganisation
 paganisations
 paganise
@@ -12701,6 +12714,8 @@ sexualise
 sexualised
 sexualises
 sexualising
+shakedown
+shakedowns
 shamanise
 shamanised
 shamanises
