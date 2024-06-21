@@ -69,7 +69,6 @@
 #lor=lor/NN,lors/NNS=all # unusual
 #martian=JJ=all # capitalized
 #martian=noun=all # capitalized
-#mediaeval=JJ=gb,nz,za # dated
 #meg=abbreviation=all
 #mem=noun=all # unusual
 #merchandize=verb=us # less common
@@ -86088,9 +86087,10 @@ medicine=noun_U=all
 medick=noun=all
 medico=noun=all
 medicolegal=JJ=all
-medieval=JJ=all
-medievalism=noun_UN=all
-medievalist=noun=all
+medievalism|mediaevalism=noun_UN=all|gb,nz,za
+medievalist|mediaevalist=noun=all|gb,nz,za
+medievally|mediaevally=RB=all|gb,nz,za
+medieval|mediaeval=JJ=all|gb,nz,za # mediaeval is dated
 mediocre=JJ=all
 mediocrity=noun_UN=all
 meditate=verb=all
