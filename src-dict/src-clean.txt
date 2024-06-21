@@ -49,6 +49,7 @@
 #gynecic=JJ=all # unusual
 #gyve=noun=all # literary
 #gyve=verb=all # literary
+#hight=JJ=all # obsolete
 #hoc=noun=all # unusual
 #ikon=noun=all # unusual
 #initio=RB=all # ab initio
@@ -112,6 +113,7 @@ $=$=all
 'twixt=IN=all # unusual
 (=punctuation=gb
 )=punctuation=gb
++=symbol=gb
 0-year-old=noun=all
 0th=JJ=all
 1-month-old=noun=all
@@ -7894,6 +7896,7 @@ Capablanca=NNP=all
 Capaldi=NNP=all
 Capek=NNP=all
 Capella=NNP=all
+Capello=NNP=all
 Capemail=NNP=za # South Africa, placename?
 Capernaum=NNP=all
 Capet=NNP=all
@@ -8991,6 +8994,7 @@ Cliff=NNP=all
 Cliffdale=NNP=za # South Africa, placename?
 Clifford=NNP=all
 Clifton=NNP=all
+Clijsters=NNP=all
 Cline=NNP=all
 Clinique=NNP=all
 Clint=NNP=all
@@ -16062,6 +16066,7 @@ Grecism=Grecism/NNP,Grecisms/NNPS=all
 Greco-Persian=NNP=all
 Greco-Roman=JJ=all
 Greco-Roman=NNP=all
+Greco-Turkish=JJ=all
 Greco=NNP=all
 Greece=NNP=all
 Greek=Greek/NNP,Greeks/NNPS=all
@@ -17146,6 +17151,7 @@ Heathcote=NNP=all
 Heather=Heather/NNP,Heathers/NNPS=all
 Heatherlands=NNP=za # South Africa, placename?
 Heatherley=NNP=za # South Africa, placename?
+Heathrow=NNP=all
 Heatley=NNP=all
 Heatlievale=NNP=za # South Africa, placename?
 Heatonville=NNP=za # South Africa, placename?
@@ -35934,6 +35940,7 @@ Spicer=NNP=all
 Spiegel=NNP=all
 Spiegelman=NNP=all
 Spiekermann=NNP=all
+Spielberg=NNP=all
 Spiers=NNP=all
 Spijkenisse=NNP=all
 Spinacia=NNP=all
@@ -35975,6 +35982,7 @@ Springer=NNP=all
 Springfield=NNP=all
 Springfontein=NNP=za # South Africa, placename?
 Springs=NNP=all
+Springsteen=NNP=all
 Springtown=NNP=za # South Africa, placename?
 Springvale=NNP=za # South Africa, placename?
 Springville=NNP=all
@@ -37136,6 +37144,8 @@ Tait=NNP=all
 Taiwan=NNP=all
 Taiwanese=Taiwanese/NNP,Taiwanese/NNPS=all
 Taiyuan=NNP=all
+Tajik=NNP=all
+Tajik=noun=all
 Tajikistan=NNP=all
 Tajo=NNP=all
 Takamatsu=NNP=all
@@ -39635,6 +39645,7 @@ Vevey=NNP=all
 Vevo=NNP=all
 Vhufuli=NNP=za # South Africa, placename?
 Vhulaudzi=NNP=za # South Africa, placename?
+Viacom=NNP=all
 Viagra=NNP=all
 Viasat=NNP=all
 Viber=NNP=all
@@ -48557,6 +48568,7 @@ bifurcation=noun=all
 big-endian=JJ=all
 big-headed=JJ=all
 big-name=JJ=all
+big-screen=JJ=all
 big=RB=all
 big=big/JJ,bigger/JJR,biggest/JJS=all
 bigamist=noun=all
@@ -49445,6 +49457,9 @@ blow [blows;blew,blowed;blowed,blown;blowing]=verb=all
 blow-by-blow=JJ=all
 blow-dry=verb=all
 blow-dryer=noun=all
+blow-out=noun=all
+blow-up=JJ=all
+blow-up=noun=all
 blow=noun=all
 blowback=noun=all
 blowdown=noun=all
@@ -51223,6 +51238,7 @@ béarnaise=noun=all
 béchamel=NN:U=all
 bêche-de-mer=bêche-de-mer/NN,bêches-de-mer/NNS=all
 bêtise=noun=all
+c=abbreviation=all
 cDNA=noun_UN=all
 cPanel=NNP=all
 ca=abbreviation=all
@@ -53321,6 +53337,7 @@ childminder=noun=all
 childness=NN:U=all
 childproof=JJ=all
 childproof=verb=all
+chili [pl. chilies,chilis]=noun=ca,us
 chiliad=noun=all
 chiliarch=chiliarch/NN,chiliarchs/NNS=all
 chiliastic=JJ=all
@@ -54670,6 +54687,7 @@ codification=noun=all
 codifier=noun=all
 codify=verb=all
 coding=noun_UN=all
+codirector=noun=all
 codiscover=verb=all
 codiscoverer=noun=all
 codling=codling/NN,codling/NNS=all
@@ -58756,6 +58774,7 @@ czarist=noun=all
 cépage=NN:U=all
 córdoba=NN=all
 d'Arenberg=NNP=all
+d=abbreviation=all
 dB=dB/NN,dB/NNS=all
 dBm=dBm/NN,dBm/NNS=all
 dab=noun=all
@@ -61609,6 +61628,7 @@ discordance=noun_U=all
 discordant=JJ=all
 discordantly=RB=all
 discotheque=noun=all
+discothèque=noun=all
 discount=discount/JJ,discounter/JJR=all
 discount=noun_UN=all
 discount=verb=all
@@ -63543,6 +63563,7 @@ e-meet [e-meets;e-met;e-met;e-meeting]=verb=all
 e-signature=noun=all
 e-sport=noun_UN=all
 e-zine=noun=all
+e=abbreviation=all
 eBay=NNP=all
 eV=NNP=all
 eVTOL=JJ=all
@@ -66850,6 +66871,7 @@ eyra=noun=all
 eyre=noun=all
 eyrie=aerie/JJ,eyrier/JJR,eyriest/JJS=au,gb,nz,za  # aery
 eyrie|aery=noun=au,gb,nz,za|au,ca,us
+f=abbreviation=all
 fMRI=NN:U=all
 fa=noun_U=all
 fab=JJ=all
@@ -67922,6 +67944,7 @@ fifty-year=JJ=all
 fifty=CD=all
 fifty=JJ=all
 fifty=noun=all
+fiftysomething=noun=all
 fig=noun=all
 fight [fights;fought;fought;fighting]=verb=all
 fight=noun_UN=all
@@ -68963,6 +68986,8 @@ foll=NN=all
 follicle=noun=all
 follicular=JJ=all
 follicularly=RB=all
+follow-on=noun=all
+follow-through=noun_U=all
 follow-up=noun=all
 follow=noun=all
 follow=verb=all
@@ -71352,6 +71377,7 @@ glass=JJ=all
 glass=glass/NN,glass/NN:U,glasses/NNS=all
 glass=verb=all
 glassblower=noun=all
+glassblowing=NN:U=all
 glassed=JJ=all
 glassful=noun=all
 glasshouse=noun=all
@@ -74428,41 +74454,96 @@ higgledy-piggledy=NN=all
 higgledy-piggledy=RB=all
 higgler=noun=all
 higgling=noun_UN=all
+high-altitude=JJ=all
+high-availability=JJ=all
+high-bandwidth=JJ=all
 high-born=JJ=all
 high-cal=JJ=all
+high-caliber=JJ=all
+high-capacity=JJ=all
 high-carbon=JJ=all
 high-ceilinged=JJ=all
+high-class=JJ=all
 high-colored|high-coloured=JJ=us|gb,ca,au,nz,za
+high-cost=JJ=all
 high-definition=JJ=all
+high-density=JJ=all
+high-dose=JJ=all
+high-efficiency=JJ=all
 high-end=JJ=all
+high-energy=JJ=all
+high-explosive=JJ=all
+high-fashion=JJ=all
+high-fat=JJ=all
+high-fidelity=JJ=all
 high-five=verb=all
 high-flown=JJ=all
+high-flying=JJ=all
+high-frequency=JJ=all
 high-functioning=JJ=all
+high-gloss=JJ=all
+high-grade=JJ=all
+high-growth=JJ=all
 high-handed=JJ=all
 high-handedly=RB=all
 high-handedness=NN:U=all
 high-hat [-tt-]=verb=all
 high-hat=JJ=all
+high-heeled=JJ=all
+high-impact=JJ=all
+high-income=JJ=all
+high-intensity=JJ=all
 high-level=JJ=all
+high-low=JJ=all
+high-low=noun_UN=all
 high-minded=JJ=all
 high-mindedness=NN:U=all
+high-octane=JJ=all
+high-pass=JJ=all
+high-pass=noun=all
+high-paying=JJ=all
+high-performance=JJ=all
+high-performing=JJ=all
+high-pitched=JJ=all
+high-power=JJ=all
+high-powered=JJ=all
 high-pressure=JJ=all
 high-pressure=verb=all
 high-priced=JJ=all
+high-priority=JJ=all
+high-profile=JJ=all
+high-protein=JJ=all
+high-quality=JJ=all
+high-ranking=JJ=all
 high-res=JJ=all
+high-resolution=JJ=all
 high-rise=JJ=all
 high-rise=noun=all
 high-riser=NN=all
 high-rising=JJ=all
+high-risk=JJ=all
+high-school=JJ=all
+high-scoring=JJ=all
+high-security=JJ=all
 high-sounding=JJ=all
+high-speed=JJ=all
 high-spirited=JJ=all
 high-spiritedness=NN:U=all
+high-stakes=JJ=all
+high-street=JJ=all
+high-strength=JJ=all
 high-strung=JJ=all
 high-tech=JJ=all
 high-tech=high-tech/NN:UN,high-techs/NNS=all
+high-technology=JJ=all
+high-temperature=JJ=all
 high-tension=JJ=all
 high-test=JJ=all
 high-toned=JJ=all
+high-traffic=JJ=all
+high-value=JJ=all
+high-voltage=JJ=all
+high-volume=JJ=all
 high-waisted=JJ=all
 high-yield=JJ=all
 high-yielding=JJ=all
@@ -74474,19 +74555,33 @@ highborn=JJ=all
 highbred=JJ=all
 highbrow=JJ=all
 highbrow=noun=all
+highchair=noun=all
+higher-level=JJ=all
+higher-order=JJ=all
+higher-quality=JJ=all
+higher-ranking=JJ=all
 highfalutin=JJ=all
 highfaluting=JJ=all
-highflier=noun=all
+highflier|highflyer=noun=all|all
 highflown=JJ=all
+highflying=JJ=all
 highland=highland/JJ,highlander/JJR=all
 highland=noun=all
 highlander=noun=all
+highlife=noun=all
 highlight=noun=all
 highlight=verb=all
 highlighter=noun=all
+highline=noun=all
 highly=RB=all
 highness=noun_UN=all
+highpass=JJ=all
+highpass=noun=all
+highpoint=noun=all
+highrise=noun=all
+highroad=noun=all
 hightail=verb=au,ca,us
+highwater=noun_U=all
 highway=noun=all
 highwayman=highwayman/NN,highwaymen/NNS=all
 hijab=noun=all
@@ -78792,6 +78887,7 @@ interdictory=JJ=all
 interdimensional=JJ=all
 interdisciplinary=JJ=all
 interest-bearing=JJ=all
+interest-free=JJ=all
 interest=noun_UN=all
 interest=verb=all
 interested=JJ=all
@@ -80862,11 +80958,14 @@ kneader=noun=all
 knee [knees;kneed;kneed;kneeing]=verb=all
 knee-deep=JJ=all
 knee-deep=RB=all
+knee-high=JJ=all
+knee-high=noun=us
 knee-jerk=JJ=all
 knee=noun=all
 kneecap [-pp-]=verb=all
 kneecap=noun=all
 kneecapping=noun_UN=all
+kneehigh=JJ=all
 kneehole=noun=all
 kneel [kneels;kneeled,knelt;kneeled,knelt;kneeling]=verb=all
 kneeling=NN:UN=all
@@ -81794,6 +81893,7 @@ leeward=JJ=all
 leeward=noun=all
 leeway=noun_U=all
 left-click=verb=all
+left-footed=JJ=all
 left-hand=JJ=all
 left-handed=JJ=all
 left-handed=RB=all
@@ -82246,6 +82346,7 @@ ligature=noun=all
 ligature=verb=all
 liger=noun=all
 light [lights;lighted,lit;lighted,lit;lighting]=verb=all
+light-blue=JJ=all
 light-colored|light-coloured=JJ=us|gb,ca,au,nz,za
 light-footedness=NN:U=all
 light-handedness=NN:U=all
@@ -83147,11 +83248,22 @@ lovingness=NN:U=all
 low-born=JJ=all
 low-budget=JJ=all
 low-carb=JJ=all
+low-class=JJ=all
+low-cost=JJ=all
+low-cut=JJ=all
+low-density=JJ=all
 low-down=JJ=all
 low-down=noun_UN=all
+low-emission=JJ=all
 low-end=JJ=all
+low-fat=JJ=all
 low-fi=JJ=all
 low-fi=NN:U=all
+low-frequency=JJ=all
+low-grade=JJ=all
+low-hanging=JJ=all
+low-income=JJ=all
+low-interest=JJ=all
 low-key=JJ=all
 low-key=RB=all
 low-keyed=JJ=all
@@ -83160,10 +83272,22 @@ low-life=JJ=all
 low-loss=JJ=all
 low-lying=JJ=all
 low-mindedness=NN:U=all
+low-noise=JJ=all
+low-pass=JJ=all
+low-pass=noun=all
+low-pitched=JJ=all
+low-pressure=JJ=all
+low-priced=JJ=all
+low-profile=JJ=all
 low-ranking=JJ=all
+low-rated=JJ=all
+low-resolution=JJ=all
 low-rise=JJ=all
+low-set=JJ=all
 low-spiritedness=NN:U=all
 low-tech=JJ=all
+low-voltage=JJ=all
+low-water=JJ=all
 low=RP=all
 low=low/JJ,lower/JJR,lowest/JJS=all
 low=noun=all
@@ -83174,7 +83298,11 @@ lowbrow=JJ=all
 lowbrow=noun=all
 lowdown=JJ=all
 lowdown=noun_UN=all
+lower-case=JJ=all
 lower-class=JJ=all
+lower-level=JJ=gb
+lower-middle-class=JJ=all
+lower-ranking=JJ=all
 lower=verb=all
 lowercase=JJ=all
 lowercase=noun_U=all
@@ -83195,6 +83323,8 @@ lowliness=NN:U=all
 lowly=RB=all
 lowly=lowly/JJ,lowlier/JJR,lowliest/JJS=all
 lowness=NN:U=all
+lowpass=JJ=all
+lowpass=noun=all
 lox=lox/NN:U,lox/NNS,loxes/NNS=all
 loxodrome=noun=all
 loxodromic=JJ=all
@@ -83475,6 +83605,7 @@ lytic=JJ=all
 lytically=RB=all
 lèse-majesté=noun_UN=all
 löllingite=NN:U=all
+m=abbreviation=all
 mCi=mCi/NN:U,mCi/NNP=all
 mRNA=mRNA/NN,mRNA/NNP,mRNAs/NNS=all
 mSATA=NNP=all
@@ -87411,7 +87542,9 @@ mugging=noun_UN=all
 muggy=muggy/JJ,muggier/JJR,muggiest/JJS=all
 mugshot=noun=all
 mugwort=noun=all
-mujahedin=NN=all
+mujahedeen=NNS=all
+mujahedin=NNS=all
+mujahideen=NNS=all
 mujtahid [pl. mujtahid,mujtahidūn]=noun=all
 mukluk=noun=all
 mulatto=JJ=all
@@ -90122,6 +90255,7 @@ négligée=noun=all
 névé=NN:U=all
 nāga=noun=all
 o'clock=RB=all
+o=abbreviation=all
 oaf=oaf/NN,oafs/NNS,oaves/NNS=all
 oafish=JJ=all
 oafishly=RB=all
@@ -92425,6 +92559,7 @@ ozonic=JJ=all
 ozonization|ozonisation=noun_UN=us,ca,gb|gb,au,nz,za
 ozonizer|ozoniser=noun=us,ca,gb|gb,au,nz,za
 ozonize|ozonise=verb=us,ca,gb|gb,au,nz,za
+p=abbreviation=all
 pH=pH/NN:U,pH/NNP,pHs/NNS=all
 pa=noun=all
 pabulum=noun_U=all
@@ -99639,6 +99774,7 @@ pâté=noun_UN=all
 père=NN=all
 pétanque=NN:U=all
 pétillant=JJ=all
+q=abbreviation=all
 qibla=noun=all
 qindarkë=NN=all
 qt=NN=all
@@ -100134,6 +100270,7 @@ quotidianness=NN:U=all
 quotient=noun=all
 r-colored|r-coloured=JJ=us|gb,ca,au,nz,za
 r-color|r-colour=noun=us|gb,ca,au,nz,za
+r=abbreviation=all
 rDNA=NN:U=all
 rRNA=NN:U=all
 rabbet=noun=all
@@ -105469,6 +105606,7 @@ schuss=noun=all
 schuss=verb=all
 schwa=noun=all
 sci-fi=NN:U=all
+sci=abbreviation=all
 sciatic=JJ=all
 sciatica=noun_U=all
 sciatically=NN=all
@@ -105568,6 +105706,7 @@ scot=noun=all
 scotch=JJ=all
 scotch=noun_UN=all
 scotch=verb=all
+scotia=noun=all
 scotopic=JJ=all
 scoundrel=noun=all
 scoundrelly=RB=all
@@ -108605,6 +108744,8 @@ slovenly=RB=all
 slovenly=slovenly/JJ,slovenlier/JJR,slovenliest/JJS=all
 slow-going=JJ=all
 slow-motion=JJ=all
+slow-moving=JJ=all
+slow-witted=JJ=all
 slow=slow/JJ,slower/JJR,slowest/JJS=all
 slow=verb=all
 slowcoach=noun=all
@@ -109600,6 +109741,7 @@ soutache=noun=all
 soutane=noun=all
 souter=noun=all
 souterrain=noun=all
+south-central=JJ=all
 south-east=RB=gb,nz,za
 south-easterly=JJ=all
 south-easterly=RB=all
@@ -111364,6 +111506,7 @@ stoop=noun=all
 stoop=verb=all
 stooped=JJ=all
 stooping=JJ=all
+stop-motion=noun_UN=all
 stop=noun=all
 stop=verb=all
 stopcock=noun=all
@@ -113641,6 +113784,7 @@ systole=noun=all
 systolic=JJ=all
 syzygy=noun=all
 séance=noun=all
+t=abbreviation=all
 tRNA=tRNA/NN,tRNA/NNP,tRNAs/NNS=all
 ta-da=UH=all
 ta-dah=UH=all
@@ -122120,6 +122264,7 @@ vicariate=noun=all
 vicarious=JJ=all
 vicariously=RB=all
 vicariousness=NN:U=all
+vice-president=noun=all
 vice=noun_UN=all
 vice=verb=all
 vicegerency=noun=all
@@ -124658,6 +124803,7 @@ x-ray=JJ=all
 x-ray=noun=all
 x-ray=verb=all
 x-raying=NN:UN=all
+x=abbreviation=all
 x=symbol=all
 xanthene=noun=all
 xanthine=noun_U=all
@@ -124806,7 +124952,9 @@ yeller=noun=all
 yelling=JJ=all
 yelling=noun_UN=all
 yellow-bellied=yellow-bellied/JJ,yellowbellied/JJ=all
+yellow-brown=JJ=all
 yellow-colored|yellow-coloured=JJ=us|gb,ca,au,nz,za
+yellow-green=JJ=all
 yellow=noun_UN=all
 yellow=verb=all
 yellow=yellow/JJ,yellower/JJR,yellowest/JJS=all
@@ -125060,6 +125208,7 @@ zeptovolt=noun=all
 zeptowatt=noun=all
 zeptoweber=noun=all
 zero [zeroes,zeros;zeroed;zeroed;zeroing]=verb=all
+zero-emission=JJ=all
 zero=CD=all
 zero=JJ=all
 zero=zero/NN,zero/NN:U,zeroes/NNS,zeros/NNS=all
