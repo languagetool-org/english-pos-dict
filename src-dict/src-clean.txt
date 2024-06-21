@@ -53919,6 +53919,7 @@ chemoreceptor=noun=all
 chemosensory=JJ=all
 chemosmosis=chemosmosis/NN,chemosmosis/NN:U,chemosmoses/NNS=all
 chemosphere=noun=all
+chemosurgery=noun_UN=all
 chemosynthesis=chemosynthesis/NN:U,chemosyntheses/NNS=all
 chemosynthetic=JJ=all
 chemosynthetically=RB=all
@@ -84084,6 +84085,10 @@ lionheartedness=NN:U=all
 lionization|lionisation=noun_UN=us,ca,gb|gb,au,nz,za
 lionizer|lioniser=noun=us,ca,gb|gb,au,nz,za
 lionize|lionise=verb=us,ca,gb|gb,au,nz,za
+lip-read=verb=all
+lip-reader=noun=all
+lip-reading=noun_UN=all
+lip-service=NN:U=all
 lip-smacking=JJ=all
 lip-smackingly=RB=all
 lip-sync=verb=all
@@ -84095,6 +84100,13 @@ lip=noun_UN=all
 lip=verb=all
 lipase=noun_U=all
 lipid=noun_U=all
+lipless=JJ=all
+liplike=JJ=all
+lipline=noun=all
+lipogram=noun=all
+lipogrammatic=JJ=all
+lipogrammatism=NN:UN=all
+lipogrammatist=noun=all
 lipography=NN=all
 lipoid=JJ=all
 lipoid=noun=all
@@ -84109,6 +84121,9 @@ lipped=JJ=all
 lippiness=NN:U=all
 lipping=noun=all
 lippy=lippy/JJ,lippier/JJR,lippiest/JJS=all
+lipread=verb=all
+lipreader=noun=all
+lipreading=noun_UN=all
 lipstick=noun_UN=all
 lipstick=verb=all
 lipsticked=JJ=all
@@ -84134,6 +84149,7 @@ liquidity=noun_U=all
 liquidization|liquidisation=noun_UN=us,ca,gb|gb,au,nz,za
 liquidizer|liquidiser=noun=us,ca,gb|gb,au,nz,za
 liquidize|liquidise=verb=us,ca,gb|gb,au,nz,za
+liquidly=RB=all
 liquidness=NN:U=all
 liquified=JJ=all
 liquify=verb=all
@@ -84166,12 +84182,15 @@ listing=noun_UN=all
 listless=JJ=all
 listlessly=RB=all
 listlessness=NN:U=all
+listserv=noun=all
+listserver=noun=all
 lit=lit/JJ,litter/JJR=all
 lit=noun=all
 litany=noun=all
 litchi=noun=all
 lite=JJ=all
 literacy=noun_U=all
+literal-minded=JJ=all
 literal=JJ=all
 literal=noun=all
 literalism=noun_UN=all
@@ -108735,9 +108754,11 @@ self-perception=NN:UN=all
 self-perpetuating=JJ=all
 self-pity=NN:U=all
 self-pitying=JJ=all
+self-plearue=NN:U=all
+self-pleasing=JJ=all
 self-policing=JJ=all
 self-pollination=NN:U=all
-self-portrait=NN=all
+self-portrait=noun=all
 self-possessed=JJ=all
 self-possession=NN:U=all
 self-powered=JJ=all
@@ -128238,6 +128259,7 @@ zeptowatt=noun=all
 zeptoweber=noun=all
 zero [zeroes,zeros;zeroed;zeroed;zeroing]=verb=all
 zero-emission=JJ=all
+zero-rate=verb=all
 zero-sum=JJ=all
 zero=CD=all
 zero=JJ=all
@@ -128293,6 +128315,9 @@ zigzag=zigzag/JJ,zigzagger/JJR=all
 zigzaggedness=NN:U=all
 zilch=noun_U=all
 zillion=zillion/NN,zillion/NNS,zillions/NNS=all
+zillionaire=noun=all # informal
+zillionth=JJ=all # informal
+zillionth=noun=all # informal
 zinc [zincs;zinced,zincked;zinced,zincked;zincing,zincking]=verb=all
 zinc=noun_U=all
 zine=noun=all
