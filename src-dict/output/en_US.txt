@@ -697,6 +697,13 @@ archaize
 archaized
 archaizes
 archaizing
+archeologic
+archeological
+archeologically
+archeologies
+archeologist
+archeologists
+archeology
 ardor
 ardors
 arithmetize
@@ -1734,6 +1741,7 @@ criticizes
 criticizing
 cross-fertilization
 cross-fertilizations
+crosstown
 crystallizable
 crystallization
 crystallizations
@@ -3480,6 +3488,8 @@ gynecomasty
 gynecomorphous
 gyrostabilizer
 gyrostabilizers
+haemal
+haemolytic
 half-colored
 half-liter
 half-liters
@@ -8127,6 +8137,7 @@ thermoanalyzers
 three-color
 three-liter
 three-liters
+thru
 thymectomize
 thymectomized
 thymectomizes
@@ -8437,6 +8448,7 @@ unskillfulness
 unsocialized
 unspecialized
 unstandardized
+unsterilized
 unsubsidized
 unsubstantialize
 unsubstantialized
@@ -8445,6 +8457,7 @@ unsubstantializing
 unsynchronized
 untrammeled
 untraveled
+unutilized
 unverbalized
 unvocalized
 unwillful
@@ -8738,6 +8751,7 @@ well-favoredness
 well-flavored
 well-humored
 well-organized
+well-traveled
 westernization
 westernizations
 westernize

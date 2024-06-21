@@ -1674,6 +1674,7 @@ criticises
 criticising
 cross-fertilisation
 cross-fertilisations
+crosstown
 crystallisable
 crystallisation
 crystallisations
@@ -3398,6 +3399,8 @@ hektolitre
 hektolitres
 hellenisation
 hellenisations
+hemal
+hemolytic
 heparinisation
 heparinisations
 heparinise
@@ -7843,6 +7846,7 @@ thermoanalysers
 three-colour
 three-litre
 three-litres
+thru
 thymectomise
 thymectomised
 thymectomises
@@ -7853,6 +7857,7 @@ tiroes
 tiros
 titbit
 titbits
+toey
 tokenisation
 tokenisations
 tokenise
@@ -8119,9 +8124,11 @@ unskilfulness
 unsocialised
 unspecialised
 unstandardised
+unsterilised
 unsubsidised
 unsynchronised
 untrammelled
+unutilised
 unverbalised
 unvocalised
 unwilful

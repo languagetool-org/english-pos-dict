@@ -1673,6 +1673,7 @@ criticizes
 criticizing
 cross-fertilization
 cross-fertilizations
+crosstown
 crystallizable
 crystallization
 crystallizations
@@ -3324,6 +3325,8 @@ gynecomorphous
 gyrostabilizer
 gyrostabilizers
 haem
+haemal
+haemolytic
 haems
 half-coloured
 half-litre
@@ -7812,6 +7815,7 @@ thermoanalyzers
 three-colour
 three-litre
 three-litres
+thru
 thymectomize
 thymectomized
 thymectomizes
@@ -8079,6 +8083,7 @@ unskilfulness
 unsocialized
 unspecialized
 unstandardized
+unsterilized
 unsubsidized
 unsubstantialize
 unsubstantialized
@@ -8086,6 +8091,7 @@ unsubstantializes
 unsubstantializing
 unsynchronized
 untrammelled
+unutilized
 unverbalized
 unvocalized
 unwilful

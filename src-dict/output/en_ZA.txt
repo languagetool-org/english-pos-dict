@@ -8928,6 +8928,8 @@ hektolitre
 hektolitres
 hellenisation
 hellenisations
+hemal
+hemolytic
 heparinisation
 heparinisations
 heparinise
@@ -13629,9 +13631,11 @@ unskilfulness
 unsocialised
 unspecialised
 unstandardised
+unsterilised
 unsubsidised
 unsynchronised
 untrammelled
+unutilised
 unverbalised
 unvocalised
 unwilful
