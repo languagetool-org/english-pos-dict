@@ -8662,6 +8662,7 @@ Chasidic=JJ=all
 Chaska=NNP=all
 Chassidic=JJ=all
 ChatGPT=NNP=all
+Chateaubriand=NNP=all
 Chatham=NNP=all
 Chatswood=NNP=all
 Chattahoochee=NNP=all
@@ -52431,6 +52432,7 @@ butterfingers=NN=all
 butterfish=butterfish/NN,butterfish/NNS=all
 butterfly=noun=all
 butterfly=verb=all
+butterflylike=JJ=all
 butterflylike=RB=all
 butteriness=NN:U=all
 butterless=JJ=all
@@ -54419,6 +54421,7 @@ charterer=noun=all
 chartist=noun=all
 chartreuse=JJ=all
 chartreuse=noun_U=all
+chartroom=noun=all
 chartulary=noun=all
 charwoman=charwoman/NN,charwomen/NNS=all
 chary=chary/JJ,charier/JJR,chariest/JJS=all
@@ -54445,6 +54448,8 @@ chasuble=noun=all
 chat=chat/NN,chat/NN:U,chats/NNS=all
 chat=verb=all
 chatbot=noun=all
+chateau [pl. chateaus,chateaux]=noun=all
+chateaubriand=noun=all
 chatelaine=noun=all
 chatline=noun=all
 chatroom=noun=all
@@ -54471,6 +54476,8 @@ chauvinistically=RB=all
 cheap=NN=all
 cheap=cheap/JJ,cheaper/JJR,cheapest/JJS=all
 cheapen=verb=all
+cheapish=JJ=all
+cheapishly=RB=all
 cheaply=RB=all
 cheapness=NN:U=all
 cheapo=noun=all
@@ -54481,6 +54488,8 @@ cheater=noun=all
 cheating=JJ=all
 cheating=NN:U=all
 cheatingly=RB=all
+check-in=noun_UN=all
+check-list=noun=all
 check-up=noun=all
 check=UH=all
 check=check/JJ,checker/JJR=all
@@ -54508,6 +54517,7 @@ checkmate=checkmate/NN,checkmate/NN:U,checkmates/NNS=all
 checkmate=verb=all
 checkout=checkout/NN,checkout/NN:U,checkouts/NNS=all
 checkpoint=noun=all
+checksum [-mm-]=verb=all
 checksum=noun=all
 checkup=noun=all
 cheddar=noun_U=all
@@ -54553,6 +54563,9 @@ cheeseburger=noun=all
 cheesecake=noun_UN=all
 cheesecloth=noun_U=all
 cheesed=JJ=all
+cheeselike=JJ=all
+cheesemaker=noun=all
+cheesemaking=NN:U=all
 cheesemonger=noun=all
 cheeseparing=JJ=all
 cheeseparing=noun_U=all
@@ -103092,9 +103105,9 @@ pretentious=JJ=all
 pretentiously=RB=all
 pretentiousness=NN:U=all
 preterhuman=JJ=all
-preterite=JJ=all
-preterite=noun=all
 preteriteness=NN:U=all
+preterite|preterit=JJ=all|us
+preterite|preterit=noun=all|us
 preteritness=NN:U=all
 preterm=noun=all
 preternatural=JJ=all
@@ -108278,6 +108291,7 @@ resin=noun_UN=all
 resinate=verb=all
 resinated=JJ=all
 resiniferous=JJ=all
+resinification=NN:UN=all
 resinize|resinise=verb=us,ca,gb|gb,au,nz,za
 resinoid=JJ=all
 resinoid=noun=all
@@ -108351,10 +108365,13 @@ resource=noun_UN=all
 resourceful=JJ=all
 resourcefully=RB=all
 resourcefulness=NN:U=all
+resourceless=JJ=all
 resourcelessness=NN:U=all
 resow [resows;resowed;resowed,resown;resowing]=verb=all
 respawn=noun=all
 respawn=verb=all
+respecification=NN:UN=all
+respecify=verb=all
 respect=noun_UN=all
 respect=verb=all
 respectability=noun_U=all
@@ -108480,11 +108497,18 @@ restructure=verb=all
 restructuring=noun_UN=all
 restudy=NN=all
 restudy=verb=all
+restuff=verb=all
 restyle=verb=all
 restyling=restyling/NN:UN,restyling/NNS=all
+resubjection=noun=all
+resublimation=NN:UN=all
+resublime=verb=all
+resublimed=JJ=all
 resubmission=noun=all
 resubmit [-tt-]=verb=all
 resubscribe=verb=all
+resubscription=NN:UN=all
+resubstantiation=NN:UN=all
 result=noun_UN=all
 result=verb=all
 resultant=JJ=all
@@ -108492,6 +108516,7 @@ resultant=noun=all
 resultantly=RB=all
 resulting=JJ=all
 resultingly=RB=all
+resultless=JJ=all
 resumable=JJ=all
 resume=noun=all
 resume=verb=all
@@ -108516,12 +108541,13 @@ resuscitation=noun_U=all
 resuscitative=JJ=all
 resuscitator=noun=all
 resuspend=verb=all
-resuspension=NN=all
+resuspension=noun=all
 resveratrol=noun_UN=all
 resymbolization|resymbolisation=noun_UN=us,ca,gb|gb,au,nz,za
 resync=verb=all
 resynchronization|resynchronisation=noun_UN=us,ca,gb|gb,au,nz,za
 resynchronize|resynchronise=verb=us,ca,gb|gb,au,nz,za
+resynthesis [pl. resyntheses]=noun=all
 resynthesize|resynthesise=verb=us,ca,gb|gb,au,nz,za
 ret=abbreviation=all
 ret=verb=all
@@ -118986,7 +119012,16 @@ supercontinent=noun=all
 supercritical=JJ=all
 supercritically=RB=all
 superdelegate=noun=all
+superdivision=noun=all
+superdoctor=noun=all
 superearthly=RB=all
+supereducated=JJ=all
+supereducation=NN:U=all
+supereffective=JJ=all
+supereffectively=RB=all
+supereffectiveness=NN:U=all
+superefficiency=noun_UN=all
+superefficient=JJ=all
 superego=noun_U=all
 superelastically=RB=all
 superelevation=noun_UN=all

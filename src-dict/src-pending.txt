@@ -1,3 +1,4 @@
+
 'strewth=UNTAGGED=gb
 'struth=UNTAGGED=gb
 -war=UNTAGGED=gb
@@ -10019,7 +10020,6 @@ Chastleton=UNTAGGED=gb
 ChatZilla=UNTAGGED=gb
 Chatav=NNP=none
 Chatburn=UNTAGGED=gb
-Chateaubriand=Chateaubriand/NNP,Chateaubriands/NNPS=au,ca,us
 Chatelain=UNTAGGED=gb
 Chatenet=UNTAGGED=gb
 Chateura=NNP=none
@@ -72813,14 +72813,8 @@ chartings=UNTAGGED=gb,nz,za
 chartism=NN:U=gb
 chartless=JJ=none
 chartlet=NN=none
-chartographer=NN=none
-chartographic=JJ=none
-chartographical=JJ=none
-chartographically=RB=none
-chartography=NN=us-large
 chartophylacium=NN=none
 chartophylax=NN=none
-chartroom=noun=gb,nz,za
 chartula=NN=none
 charva=UNTAGGED=gb
 charvas=UNTAGGED=gb
@@ -72854,8 +72848,6 @@ chasubled=JJ=none
 chatchka=noun=none
 chatchke=noun=none
 chateau-thierry=NN=none
-chateau=chateau/NN,chateaus/NNS,chateaux/NNS=au,ca,us
-chateaubriand=noun=gb,nz,za
 chatelain=noun=us-large
 chateura=NN=none
 chaton=NN=none
@@ -72905,7 +72897,6 @@ cheap-jack=JJ=none
 cheap-jack=NN=none
 cheapener=noun=none
 cheapie=noun=none
-cheapish=UNTAGGED=gb,nz,us-large,za
 cheapjack=JJ=gb
 cheapjack=noun=gb
 cheapy=noun=none
@@ -72916,9 +72907,6 @@ chebeck=NN=none
 chechako=noun=none
 chechia=noun=none
 chechoslovak=NN=none
-check-in=check-in/NN,check-in/NN:U,check-ins/NNS=gb,nz,za
-check-list=UNTAGGED=nz,za
-check-lists=UNTAGGED=nz,za
 check-out=NN=none
 checkback=NN=none
 checkoff=noun=au,ca,us
@@ -72926,8 +72914,6 @@ checkrail=NN=none
 checkrein=noun=us-large
 checkroom=noun=au,ca,us
 checkrow=verb=us-large
-checksummed=UNTAGGED=gb,nz,za
-checksumming=UNTAGGED=gb,nz,za
 checkweighman=NN=none
 checkwriter=NN=none
 checky=JJ=us-large
@@ -72948,10 +72934,6 @@ cheese-paring=UNTAGGED=gb
 cheese-skipper=UNTAGGED=gb
 cheeseflower=NN=none
 cheesehopper=noun=none
-cheeselike=JJ=none
-cheesemaker=UNTAGGED=gb
-cheesemakers=UNTAGGED=gb
-cheesemaking=NN:U=gb
 cheesemongering=UNTAGGED=all
 cheesepare=UNTAGGED=gb
 cheesepared=UNTAGGED=gb
@@ -72969,10 +72951,6 @@ chef-d’œuvre=UNTAGGED=all
 chefdom=noun=none
 cheffed=UNTAGGED=gb
 cheffing=UNTAGGED=gb
-chefs-d'oeuvre=UNTAGGED=gb
-chefs-d'œuvre=UNTAGGED=all
-chefs-d=UNTAGGED=gb
-chefs-d’œuvre=UNTAGGED=all
 chegoe=noun=none
 cheilanthes=NN=none
 cheilitis=NN:U=none
@@ -142035,8 +142013,6 @@ pretensive=JJ=none
 pretentative=JJ=none
 preterist=JJ=none
 preterist=noun=none
-preterit=JJ=us
-preterit=noun=us
 preterition=noun_UN=us-large
 preteritive=JJ=us-large
 preterlegal=JJ=none
@@ -148802,7 +148778,6 @@ resilement=NN=none
 resilin=noun=none
 resined=UNTAGGED=gb,nz,us-large,za
 resiner=noun=gb
-resinification=NN:UN=gb
 resining=UNTAGGED=gb,nz,za
 resinlike=UNTAGGED=gb,nz,za
 resipiscence=NN=gb
@@ -148827,14 +148802,8 @@ resorcinolphthalein=NN=none
 resorptive=JJ=gb,nz,za
 resorter=noun=none
 resourced=UNTAGGED=all
-resourceless=JJ=gb,nz,za
 resourcing=UNTAGGED=all
 resp=NN=au,ca,us
-respecification=NN:UN=none
-respecified=UNTAGGED=gb,nz,za
-respecifies=UNTAGGED=gb,nz,za
-respecify=UNTAGGED=gb,nz,za
-respecifying=UNTAGGED=gb,nz,za
 respirational=JJ=none
 respirometry=noun=none
 respondence=noun=us-large
@@ -148874,14 +148843,6 @@ restrictionist=noun=none
 restrike=UNTAGGED=gb,us-large
 restringent=noun=none
 restringer=NN=none
-restuff=UNTAGGED=us-large
-resubjection=NN:UN=none
-resublimation=NN:UN=none
-resublime=resublime/VB,resublimed/VBD,resublimed/VBN,resublime/VBP=none
-resublimed=JJ=none
-resubscription=NN:UN=none
-resubstantiation=NN:UN=none
-resultless=JJ=gb
 resumer=noun=none
 resummon=UNTAGGED=us-large
 resummonable=JJ=none
@@ -148898,8 +148859,6 @@ resurrective=JJ=none
 resurrector=noun=none
 resuscitable=JJ=none
 resuscitant=noun=none
-resuspensions=UNTAGGED=all
-resynthesis=resynthesis/NN,resyntheses/NNS=us-large
 retablo=UNTAGGED=gb,us-large
 retailment=noun=none
 retainability=noun_UN=us-large
@@ -163059,8 +163018,6 @@ superdistention=NN:UN=none
 superdistribution=NN:UN=none
 superdividend=NN=none
 superdivine=JJ=none
-superdivision=NN=none
-superdoctor=NN=none
 superdominant=noun=us-large
 superdomineering=JJ=none
 superdonation=NN=none
@@ -163073,12 +163030,6 @@ superdubiousness=NN=none
 superduplication=NN:UN=none
 superdural=JJ=none
 supereconomy=NN=none
-supereducated=JJ=none
-supereducation=NN:UN=none
-supereffective=JJ=none
-supereffectively=RB=none
-supereffectiveness=NN=none
-superefficiency=noun=none
 supereffluence=NN=none
 supereffluent=JJ=none
 superegoist=noun=none
