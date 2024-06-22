@@ -281,6 +281,8 @@ Vietnamizations
 Westernization
 Westernizations
 aborning
+abridgement
+abridgements
 absolutization
 absolutizations
 absolutize

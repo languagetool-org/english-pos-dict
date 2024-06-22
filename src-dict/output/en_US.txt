@@ -279,6 +279,8 @@ Vietnamizations
 Westernization
 Westernizations
 aborning
+abridgment
+abridgments
 absolutization
 absolutizations
 absolutize
@@ -8813,6 +8815,8 @@ wive
 wived
 wives
 wiving
+wolies
+woly
 womanization
 womanizations
 womanize
@@ -8823,6 +8827,9 @@ womanizes
 womanizing
 woolen
 woolens
+woolier
+wooliest
+wooly
 workweek
 workweeks
 worship

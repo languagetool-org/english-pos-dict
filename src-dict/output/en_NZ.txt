@@ -277,6 +277,8 @@ Vietnamisation
 Vietnamisations
 Westernisation
 Westernisations
+abridgement
+abridgements
 absolutisation
 absolutisations
 absolutise
@@ -325,6 +327,8 @@ actualise
 actualised
 actualises
 actualising
+adjudgement
+adjudgements
 adonise
 adonised
 adonises
@@ -2990,6 +2994,8 @@ focalise
 focalised
 focalises
 focalising
+forejudgement
+forejudgements
 formalisable
 formalisation
 formalisations
@@ -3799,6 +3805,8 @@ interiorise
 interiorised
 interiorises
 interiorising
+interjudgement
+interjudgements
 internalisation
 internalisations
 internalise
@@ -3901,6 +3909,11 @@ journalise
 journalised
 journalises
 journalising
+judgement
+judgemental
+judgementalism
+judgementally
+judgements
 judicialise
 judicialised
 judicialises
@@ -5148,6 +5161,7 @@ nonfraternisation
 nonfraternisations
 nonimmunisation
 nonimmunisations
+nonjudgemental
 nonnationalisation
 nonnationalisations
 nonorganisation
@@ -6125,6 +6139,8 @@ preinitialise
 preinitialised
 preinitialises
 preinitialising
+prejudgement
+prejudgements
 premiumise
 premiumised
 premiumises

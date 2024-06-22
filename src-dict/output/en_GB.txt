@@ -551,6 +551,9 @@ Westernisation
 Westernisations
 Westernization
 Westernizations
+abridgedly
+abridgement
+abridgements
 absolutisation
 absolutisations
 absolutise
@@ -647,6 +650,8 @@ actualize
 actualized
 actualizes
 actualizing
+adjudgement
+adjudgements
 adonise
 adonised
 adonises
@@ -5426,6 +5431,7 @@ fistulizations
 five-litre
 five-litres
 flame-coloured
+flatling
 flavour
 flavoured
 flavourer
@@ -5484,6 +5490,8 @@ focalize
 focalized
 focalizes
 focalizing
+forejudgement
+forejudgements
 formalisable
 formalisation
 formalisations
@@ -6913,6 +6921,8 @@ interiorize
 interiorized
 interiorizes
 interiorizing
+interjudgement
+interjudgements
 internalisation
 internalisations
 internalise
@@ -7110,6 +7120,11 @@ journalize
 journalized
 journalizes
 journalizing
+judgement
+judgemental
+judgementalism
+judgementally
+judgements
 judicialise
 judicialised
 judicialises
@@ -9159,6 +9174,7 @@ nonimmunisation
 nonimmunisations
 nonimmunization
 nonimmunizations
+nonjudgemental
 nonnationalisation
 nonnationalisations
 nonnationalization
@@ -10961,6 +10977,8 @@ preinitialize
 preinitialized
 preinitializes
 preinitializing
+prejudgement
+prejudgements
 premiumise
 premiumised
 premiumises
@@ -15121,6 +15139,7 @@ yarovisations
 yarovization
 yarovizations
 yellow-coloured
+yestreen
 yoctogramme
 yoctogrammes
 yoctolitre
