@@ -40913,8 +40913,6 @@ Popocatpetl=NNP=none
 Popov=NNP=none
 Poppas=NNP=none
 Poppe=NNP=none
-Popper=JJ=au,ca,us
-Popper=NNP=au,ca,us
 Popperian=UNTAGGED=gb
 Popperians=UNTAGGED=gb
 Poppins=UNTAGGED=au,ca,us
@@ -52040,9 +52038,6 @@ Utkinton=UNTAGGED=gb
 Utley=NNP=none
 Utnapishtim=NNP=none
 Uto-Aztecans=UNTAGGED=all
-Utopian=JJ=au,ca,us
-Utopian=Utopian/NNP,Utopians/NNPS=au,ca,us
-Utopianism=Utopianism/NNP,Utopianisms/NNPS=none
 Utraquism=NNP=none
 Utraquist=NNP=none
 Utricularia=NNP=none
@@ -85364,8 +85359,6 @@ electrorheological=UNTAGGED=gb
 electrorheologically=UNTAGGED=gb
 electros=UNTAGGED=gb
 electrosensitive=JJ=none
-electroshocked=UNTAGGED=gb,nz,za
-electroshocking=UNTAGGED=gb,nz,za
 electroslag=UNTAGGED=gb
 electrospinning=UNTAGGED=gb
 electrospray=UNTAGGED=gb
@@ -113974,7 +113967,6 @@ misestimate=UNTAGGED=gb,us-large
 misestimation=noun_UN=gb
 misevaluation=noun=none
 misevent=noun=none
-misexplained=JJ=gb
 misfaith=noun=none
 misfashion=NN=none
 misfashioned=JJ=none
@@ -118001,7 +117993,6 @@ noirisable=UNTAGGED=gb
 noiriser=UNTAGGED=gb
 noirisers=UNTAGGED=gb
 noirish=UNTAGGED=gb
-noise-cancelling=JJ=gb
 noise-maker=UNTAGGED=nz,za
 noise-makers=UNTAGGED=nz,za
 noisemaking=noun=none
@@ -138435,8 +138426,6 @@ pressoreceptor=NN=none
 pressrun=noun=none
 pressure-cook=UNTAGGED=gb,nz,za
 pressure-cooked=UNTAGGED=gb
-pressure-cooker=JJ=gb,nz,za
-pressure-cookers=UNTAGGED=gb
 pressure-cooking=UNTAGGED=gb,nz,za
 pressure-cooks=UNTAGGED=gb
 pressureless=JJ=none
@@ -143521,8 +143510,6 @@ radiotelegram=noun=us-large
 radiotelegraph=noun=au,ca,us
 radiotelegraph=verb=au,ca,us
 radiotelegraphically=UNTAGGED=gb
-radiotelegraphy=JJ=au,ca,us
-radiotelegraphy=noun_U=au,ca,us
 radiotelemetry=noun_U=gb
 radiotelemetryible=UNTAGGED=gb
 radiotelephone=noun=au,ca,us
@@ -146026,7 +146013,6 @@ rocephin=NN=none
 rochet=noun=us-large
 rock'n'roll=UNTAGGED=gb
 rock-and-roll=NN:U=none
-rock-bottom=JJ=gb,nz,za
 rock-bound=JJ=none
 rock-climber=UNTAGGED=gb,nz,za
 rock-climbers=UNTAGGED=gb,nz,za
@@ -165782,8 +165768,6 @@ two-piece=NN=none
 two-shot=NN:UN=none
 two-spot=NN=none
 two-strokes=UNTAGGED=gb,nz,za
-two-thirds=JJ=gb,nz,za
-two-thirds=NN=gb,nz,za
 two-thousander=UNTAGGED=all
 two-thousanders=UNTAGGED=all
 two-up=NN=none
@@ -171739,10 +171723,7 @@ unmarking=UNTAGGED=gb
 unmarks=UNTAGGED=gb
 unmarled=JJ=none
 unmarriable=UNTAGGED=gb
-unmarries=UNTAGGED=gb
 unmarring=JJ=none
-unmarry=UNTAGGED=gb
-unmarrying=JJ=gb
 unmarshaled=JJ=none
 unmarvellously=RB=none
 unmarvellousness=NN=none
@@ -177258,8 +177239,6 @@ verificatory=JJ=none
 verisimility=noun_UN=none
 verism=noun_UN=us-large
 verismo=noun=us-large
-verist=JJ=us-large
-verist=noun=us-large
 veritas=NN=none
 verite=noun=us-large
 verjuice=noun=us-large
@@ -180763,8 +180742,6 @@ writeup=noun=us-large
 writhen=JJ=us-large
 writher=noun=none
 wroclaw=NN=none
-wrong-foot=JJ=gb,nz,za
-wrong-foot=wrong-foot/VB,wrongfooted/VBD,wrongfooted/VBN=gb,nz,za
 wrong-headedness=NN=gb,nz,za
 wrong-headednesses=UNTAGGED=gb
 wrong-side-out=JJ=none

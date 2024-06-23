@@ -95,6 +95,7 @@
 #fuze=verb=all # unusual
 #gawd=noun=all #archaic
 #gey=RB=gb # rare
+#glace=JJ=au,ca,us; glacé
 #gloze=verb=all # unusual
 #graphicly=RB=all archaic
 #gratulatorily=RB=all archaic
@@ -31540,6 +31541,7 @@ Popeye=NNP=all
 Popeyes=NNP=all
 Popocatepetl=NNP=all
 Popocatépetl=NNP=all
+Popper=NNP=all
 Popsicle=Popsicle/NNP,Popsicles/NNPS=all
 Poquoson=NNP=all
 Porbeagle=NNP=za # South Africa, placename?
@@ -39704,6 +39706,7 @@ Utlwaneng=NNP=za # South Africa, placename?
 Uto-Aztecan=JJ=all
 Uto-Aztecan=NNP=all
 Utopia=Utopia/NNP,Utopias/NNPS=all
+Utopian=NNP=all
 Utrecht=NNP=all
 Utrillo=NNP=all
 Utsane=NNP=za # South Africa, placename?
@@ -67755,6 +67758,7 @@ electropositive=JJ=all
 electroscope=noun=all
 electroscopic=JJ=all
 electroshock=noun_U=all
+electroshock=verb=all
 electrostatic=JJ=all
 electrostatic=noun=all
 electrostatically=RB=all
@@ -92560,6 +92564,7 @@ miserliness=NN:U=all
 miserly=JJ=all
 miserly=RB=all
 misery=noun_UN=all
+misexplain=verb=all
 misfeasance=noun_U=all
 misfeature=NN=all
 misfile=verb=all
@@ -95779,7 +95784,8 @@ noil=noun=all
 noily=RB=all
 noir=JJ=all
 noir=noun=all
-noise-canceling=JJ=all
+noise-cancel [-ll-]|noise-cancel=verb=all|us
+noise-cancelling|noise-canceling=JJ=all|us
 noise=noun_UN=all
 noise=verb=all
 noiseless=JJ=all
@@ -106049,6 +106055,7 @@ pressman=pressman/NN,pressmen/NNS=all
 pressor=JJ=all
 pressor=noun=all
 pressroom=noun=all
+pressure-cooker=noun=all
 pressure=noun_UN=all
 pressure=verb=all
 pressurization|pressurisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -108817,6 +108824,7 @@ radiosonde=noun=all
 radiosterilization|radiosterilisation=noun_UN=us,ca,gb|gb,au,nz,za
 radiosurgery=NN:U=all
 radiotelegraphic=JJ=all
+radiotelegraphy=NN:U=all
 radiotelephonic=JJ=all
 radioteletype=NN:U=all
 radiotherapeutic=JJ=all
@@ -112684,6 +112692,8 @@ robustiousness=NN:U=all
 robustly=RB=all
 robustness=NN:U=all
 roc=noun=all # unusual?
+rock-bottom=NN:U=all
+rock-bottom=verb=all
 rock-faced=JJ=all
 rock=JJ=all
 rock=noun_UN=all
@@ -128392,6 +128402,7 @@ two-story=JJ=all
 two-stroke=JJ=all
 two-tailed=JJ=all
 two-term=JJ=all
+two-thirds=NN:U=all
 two-tier=JJ=all
 two-tiered=JJ=all
 two-time=verb=all
@@ -131226,6 +131237,7 @@ unmarketed=JJ=all
 unmarred=JJ=all
 unmarriageable=JJ=all
 unmarried=JJ=all
+unmarry=verb=all
 unmarshalled=JJ=all
 unmartial=JJ=all
 unmartyred=JJ=all
@@ -133946,9 +133958,11 @@ verification=noun_U=all
 verifier=noun=all
 verify=verb=all
 verily=RB=all
+verims=noun_U=all
 verisimilar=JJ=all
 verisimilarly=RB=all
 verisimilitude=noun_U=all
+verist=noun=all
 veristic=JJ=all
 veritable=JJ=all
 veritableness=NN:U=all
@@ -136892,6 +136906,7 @@ writhing=noun_UN=all
 writhingly=RB=all
 writing=noun_U=all
 written=JJ=all
+wrong-foot=verb=all
 wrong-footed=JJ=all
 wrong-headed=JJ=all
 wrong-headedly=RB=all

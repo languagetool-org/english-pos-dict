@@ -5138,6 +5138,10 @@ nodalize
 nodalized
 nodalizes
 nodalizing
+noise-cancel
+noise-canceled
+noise-canceling
+noise-cancels
 noisemaker
 noisemakers
 nomadization

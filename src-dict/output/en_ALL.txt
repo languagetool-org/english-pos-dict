@@ -28416,6 +28416,7 @@ Popeye
 Popeyes
 Popocatepetl
 Popocatépetl
+Popper
 Popsicle
 Popsicles
 Poquoson
@@ -29636,7 +29637,6 @@ Reba
 Rebeca
 Rebecca
 Rebekah
-Recent
 Rechabite
 Recife
 Reckitt
@@ -35684,6 +35684,7 @@ Uther
 Utica
 Uto-Aztecan
 Utopia
+Utopian
 Utopias
 Utrecht
 Utrillo
@@ -75664,6 +75665,8 @@ electroscope
 electroscopes
 electroscopic
 electroshock
+electroshocked
+electroshocking
 electroshocks
 electrostatic
 electrostatically
@@ -111872,6 +111875,10 @@ miserliness
 miserly
 misers
 misery
+misexplain
+misexplained
+misexplaining
+misexplains
 misfeasance
 misfeasances
 misfeature
@@ -116460,7 +116467,10 @@ noily
 noir
 noirs
 noise
-noise-canceling
+noise-cancel
+noise-cancelled
+noise-cancelling
+noise-cancels
 noised
 noiseless
 noiselessly
@@ -130767,6 +130777,8 @@ pressors
 pressroom
 pressrooms
 pressure
+pressure-cooker
+pressure-cookers
 pressured
 pressures
 pressuring
@@ -134753,6 +134765,7 @@ radiosonde
 radiosondes
 radiosurgery
 radiotelegraphic
+radiotelegraphy
 radiotelephonic
 radioteletype
 radiotherapeutic
@@ -141498,6 +141511,10 @@ robustly
 robustness
 roc
 rock
+rock-bottom
+rock-bottomed
+rock-bottoming
+rock-bottoms
 rock-faced
 rockabillies
 rockabilly
@@ -164050,6 +164067,7 @@ two-story
 two-stroke
 two-tailed
 two-term
+two-thirds
 two-tier
 two-tiered
 two-time
@@ -167485,6 +167503,9 @@ unmarketed
 unmarred
 unmarriageable
 unmarried
+unmarries
+unmarry
+unmarrying
 unmarshalled
 unmartial
 unmartyred
@@ -170723,11 +170744,15 @@ verifies
 verify
 verifying
 verily
+verims
+verimses
 verisimilar
 verisimilarly
 verisimilitude
 verisimilitudes
+verist
 veristic
+verists
 veritable
 veritableness
 veritably
@@ -174870,7 +174895,10 @@ writings
 writs
 written
 wrong
+wrong-foot
 wrong-footed
+wrong-footing
+wrong-foots
 wrong-headed
 wrong-headedly
 wrongdoer
