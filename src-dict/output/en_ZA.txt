@@ -4128,7 +4128,10 @@ Perdeberg
 Perdekop
 Perreira
 Perridgevale
+Persianise
 Persianised
+Persianises
+Persianising
 Persida
 Perslyf-moddervis
 Pescodia
@@ -4667,6 +4670,7 @@ Sandfontein
 Sandile
 Sandton
 Sandvlei
+Sanforised
 Sangcwaba
 Sangro
 Sangrove
@@ -5866,6 +5870,7 @@ accessorise
 accessorised
 accessorises
 accessorising
+acclimatisable
 acclimatisation
 acclimatisations
 acclimatise
@@ -5999,6 +6004,7 @@ alkalinise
 alkalinised
 alkalinises
 alkalinising
+alkalisable
 alkalisation
 alkalisations
 alkalise
@@ -6151,6 +6157,7 @@ anonymise
 anonymised
 anonymises
 anonymising
+antagonisable
 antagonisation
 antagonisations
 antagonise
@@ -6359,6 +6366,7 @@ attolitre
 attolitres
 attometre
 attometres
+authorisable
 authorisation
 authorisations
 authorise
@@ -6647,6 +6655,7 @@ carbolise
 carbolised
 carbolises
 carbolising
+carbonisable
 carbonisation
 carbonisations
 carbonise
@@ -6954,6 +6963,7 @@ colonialise
 colonialised
 colonialises
 colonialising
+colonisable
 colonisation
 colonisations
 colonise
@@ -8587,6 +8597,7 @@ fortunise
 fortunised
 fortunises
 fortunising
+fossilisable
 fossilisation
 fossilisations
 fossilise
@@ -8749,6 +8760,7 @@ gluttonising
 goitre
 goitres
 gold-coloured
+gonadectomised
 gonorrhoea
 gonorrhoeal
 gonorrhoeas
@@ -8950,6 +8962,7 @@ heparinise
 heparinised
 heparinises
 heparinising
+hepatectomised
 hepatisation
 hepatisations
 herborisation
@@ -9098,6 +9111,7 @@ hyperbolises
 hyperbolising
 hypercivilisation
 hypercivilisations
+hypercivilised
 hypercriticise
 hypercriticised
 hypercriticises
@@ -10588,6 +10602,7 @@ non-intervention
 non-interventions
 non-intoxicant
 non-intoxicating
+non-ionising
 non-ionizing
 non-irritating
 non-legal
@@ -10744,10 +10759,12 @@ nonsaleable
 nonsaleably
 nonsensitisation
 nonsensitisations
+nonspecialised
 nonsterilisation
 nonsterilisations
 nonstylisation
 nonstylisations
+nonsubsidised
 normalisable
 normalisation
 normalisations
@@ -10969,6 +10986,7 @@ overcentralises
 overcentralising
 overcivilisation
 overcivilisations
+overcivilised
 overcolouration
 overcolourations
 overcommercialisation
@@ -12295,6 +12313,7 @@ resinise
 resinised
 resinises
 resinising
+resizeable
 resocialisation
 resocialisations
 resocialise
@@ -13536,6 +13555,8 @@ tzars
 ultraminiaturisation
 ultraminiaturisations
 unacclimatised
+unalphabetised
+unamortised
 unanalysable
 unarmoured
 unauthorised
@@ -13554,12 +13575,14 @@ uncentred
 uncentreing
 uncentres
 uncentring
+uncharacterised
 uncivilised
 uncolonised
 uncolourable
 uncoloured
 uncolouredly
 uncolouredness
+uncommercialised
 uncrystallised
 undefenced
 undemocratisation
@@ -13589,10 +13612,12 @@ underutilises
 underutilising
 undiscoloured
 undishonoured
+unenergised
 unequalise
 unequalised
 unequalises
 unequalising
+uneulogised
 unfavourable
 unfavourableness
 unfavourably
@@ -13645,8 +13670,12 @@ unlabelled
 unlaboured
 unlabouring
 unliveable
+unlocalised
 unmechanised
 unmetabolised
+unmodernised
+unmotorised
+unmouldy
 unnaturalise
 unnaturalised
 unnaturalises
@@ -13655,6 +13684,7 @@ unneighbourliness
 unneighbourly
 unoptimised
 unorganised
+unoxidised
 unpasteurised
 unpolarisable
 unpressurised
@@ -13678,11 +13708,14 @@ unrecognised
 unregularised
 unreorganised
 unrevolutionised
+unromanticised
 unsaleability
 unsaleable
 unsaleably
+unsanitised
 unsavourily
 unsavoury
+unscrutinised
 unself-centred
 unskilful
 unskilfully
@@ -13691,12 +13724,14 @@ unsocialised
 unspecialised
 unstandardised
 unsterilised
+unstigmatised
 unsubsidised
 unsynchronised
 untrammelled
 unutilised
 unverbalised
 unvocalised
+unvulcanized
 unwilful
 unwilfully
 unwilfulness

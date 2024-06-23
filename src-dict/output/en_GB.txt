@@ -430,8 +430,14 @@ Pelagianize
 Pelagianized
 Pelagianizes
 Pelagianizing
+Persianise
 Persianised
+Persianises
+Persianising
+Persianize
 Persianized
+Persianizes
+Persianizing
 Platonisation
 Platonisations
 Platonise
@@ -497,6 +503,8 @@ Sabbatisation
 Sabbatisations
 Sabbatization
 Sabbatizations
+Sanfori<ed
+Sanforised
 Sinicisation
 Sinicisations
 Sinicization
@@ -582,6 +590,7 @@ accessorize
 accessorized
 accessorizes
 accessorizing
+acclimatisable
 acclimatisation
 acclimatisations
 acclimatise
@@ -590,6 +599,7 @@ acclimatiser
 acclimatisers
 acclimatises
 acclimatising
+acclimatizable
 acclimatization
 acclimatizations
 acclimatize
@@ -836,6 +846,7 @@ alkalinize
 alkalinized
 alkalinizes
 alkalinizing
+alkalisable
 alkalisation
 alkalisations
 alkalise
@@ -844,6 +855,7 @@ alkaliser
 alkalisers
 alkalises
 alkalising
+alkalizable
 alkalization
 alkalizations
 alkalize
@@ -1109,12 +1121,14 @@ anonymize
 anonymized
 anonymizes
 anonymizing
+antagonisable
 antagonisation
 antagonisations
 antagonise
 antagonised
 antagonises
 antagonising
+antagonizable
 antagonization
 antagonizations
 antagonize
@@ -1487,6 +1501,7 @@ attolitre
 attolitres
 attometre
 attometres
+authorisable
 authorisation
 authorisations
 authorise
@@ -1495,6 +1510,7 @@ authoriser
 authorisers
 authorises
 authorising
+authorizable
 authorization
 authorizations
 authorize
@@ -2015,12 +2031,14 @@ carbolize
 carbolized
 carbolizes
 carbolizing
+carbonisable
 carbonisation
 carbonisations
 carbonise
 carbonised
 carbonises
 carbonising
+carbonizable
 carbonization
 carbonizations
 carbonize
@@ -2568,6 +2586,7 @@ colonialize
 colonialized
 colonializes
 colonializing
+colonisable
 colonisation
 colonisations
 colonise
@@ -2576,6 +2595,7 @@ coloniser
 colonisers
 colonises
 colonising
+colonizable
 colonization
 colonizations
 colonize
@@ -5544,12 +5564,14 @@ fortunize
 fortunized
 fortunizes
 fortunizing
+fossilisable
 fossilisation
 fossilisations
 fossilise
 fossilised
 fossilises
 fossilising
+fossilizable
 fossilization
 fossilizations
 fossilize
@@ -5845,6 +5867,8 @@ gluttonizing
 goitre
 goitres
 gold-coloured
+gonadectomised
+gonadectomized
 gonorrhoea
 gonorrhoeal
 gonorrhoeas
@@ -6142,6 +6166,8 @@ heparinize
 heparinized
 heparinizes
 heparinizing
+hepatectomised
+hepatectomized
 hepatisation
 hepatisations
 hepatization
@@ -6403,8 +6429,10 @@ hyperbolizes
 hyperbolizing
 hypercivilisation
 hypercivilisations
+hypercivilised
 hypercivilization
 hypercivilizations
+hypercivilized
 hypercriticise
 hypercriticised
 hypercriticises
@@ -9023,6 +9051,7 @@ non-intervention
 non-interventions
 non-intoxicant
 non-intoxicating
+non-ionising
 non-ionizing
 non-irritating
 non-legal
@@ -9206,6 +9235,8 @@ nonsensitisation
 nonsensitisations
 nonsensitization
 nonsensitizations
+nonspecialised
+nonspecialized
 nonsterilisation
 nonsterilisations
 nonsterilization
@@ -9214,6 +9245,8 @@ nonstylisation
 nonstylisations
 nonstylization
 nonstylizations
+nonsubsidised
+nonsubsidized
 normalisable
 normalisation
 normalisations
@@ -9608,8 +9641,10 @@ overcentralizes
 overcentralizing
 overcivilisation
 overcivilisations
+overcivilised
 overcivilization
 overcivilizations
+overcivilized
 overcolouration
 overcolourations
 overcommercialisation
@@ -12087,6 +12122,7 @@ resinize
 resinized
 resinizes
 resinizing
+resizeable
 resocialisation
 resocialisations
 resocialise
@@ -14323,6 +14359,10 @@ ultraminiaturization
 ultraminiaturizations
 unacclimatised
 unacclimatized
+unalphabetised
+unalphabetized
+unamortised
+unamortized
 unanalysable
 unarmoured
 unauthorised
@@ -14352,6 +14392,8 @@ uncentred
 uncentreing
 uncentres
 uncentring
+uncharacterised
+uncharacterized
 uncivilised
 uncivilized
 uncolonised
@@ -14360,6 +14402,8 @@ uncolourable
 uncoloured
 uncolouredly
 uncolouredness
+uncommercialised
+uncommercialized
 uncrystallised
 uncrystallized
 undefenced
@@ -14412,6 +14456,8 @@ underutilizes
 underutilizing
 undiscoloured
 undishonoured
+unenergised
+unenergized
 unequalise
 unequalised
 unequalises
@@ -14420,6 +14466,8 @@ unequalize
 unequalized
 unequalizes
 unequalizing
+uneulogised
+uneulogized
 unfavourable
 unfavourableness
 unfavourably
@@ -14507,10 +14555,18 @@ unlabelled
 unlaboured
 unlabouring
 unliveable
+unlocalised
+unlocalized
 unmechanised
 unmechanized
+unmesmerized
 unmetabolised
 unmetabolized
+unmodernised
+unmodernized
+unmotorised
+unmotorized
+unmouldy
 unnaturalise
 unnaturalised
 unnaturalises
@@ -14525,6 +14581,8 @@ unoptimised
 unoptimized
 unorganised
 unorganized
+unoxidised
+unoxidized
 unpasteurised
 unpasteurized
 unpolarisable
@@ -14571,11 +14629,17 @@ unreorganised
 unreorganized
 unrevolutionised
 unrevolutionized
+unromanticised
+unromanticized
 unsaleability
 unsaleable
 unsaleably
+unsanitised
+unsanitized
 unsavourily
 unsavoury
+unscrutini<ed
+unscrutinised
 unself-centred
 unskilful
 unskilfully
@@ -14588,6 +14652,8 @@ unstandardised
 unstandardized
 unsterilised
 unsterilized
+unstigmatised
+unstigmatized
 unsubsidised
 unsubsidized
 unsubstantialize
@@ -14603,6 +14669,8 @@ unverbalised
 unverbalized
 unvocalised
 unvocalized
+unvulcanised
+unvulcanized
 unwilful
 unwilfully
 unwilfulness

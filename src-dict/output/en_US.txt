@@ -219,7 +219,10 @@ Pelagianize
 Pelagianized
 Pelagianizes
 Pelagianizing
+Persianize
 Persianized
+Persianizes
+Persianizing
 Platonization
 Platonizations
 Platonize
@@ -252,6 +255,7 @@ Russianizes
 Russianizing
 Sabbatization
 Sabbatizations
+Sanfori<ed
 Sinicization
 Sinicizations
 Sovietization
@@ -295,6 +299,7 @@ accessorize
 accessorized
 accessorizes
 accessorizing
+acclimatizable
 acclimatization
 acclimatizations
 acclimatize
@@ -427,6 +432,7 @@ alkalinize
 alkalinized
 alkalinizes
 alkalinizing
+alkalizable
 alkalization
 alkalizations
 alkalize
@@ -577,6 +583,7 @@ anonymize
 anonymized
 anonymizes
 anonymizing
+antagonizable
 antagonization
 antagonizations
 antagonize
@@ -795,6 +802,7 @@ attitudinizes
 attitudinizing
 attoliter
 attoliters
+authorizable
 authorization
 authorizations
 authorize
@@ -1130,6 +1138,7 @@ carbolize
 carbolized
 carbolizes
 carbolizing
+carbonizable
 carbonization
 carbonizations
 carbonize
@@ -1460,6 +1469,7 @@ colonialize
 colonialized
 colonializes
 colonializing
+colonizable
 colonization
 colonizations
 colonize
@@ -3198,6 +3208,7 @@ fortunize
 fortunized
 fortunizes
 fortunizing
+fossilizable
 fossilization
 fossilizations
 fossilize
@@ -3382,6 +3393,7 @@ gluttonizing
 goiter
 goiters
 gold-colored
+gonadectomized
 gonorrhea
 gonorrheal
 gonorrheas
@@ -3580,6 +3592,7 @@ heparinize
 heparinized
 heparinizes
 heparinizing
+hepatectomized
 hepatization
 hepatizations
 herborization
@@ -3737,6 +3750,7 @@ hyperbolizes
 hyperbolizing
 hypercivilization
 hypercivilizations
+hypercivilized
 hypercriticize
 hypercriticized
 hypercriticizes
@@ -5141,6 +5155,7 @@ nominalizes
 nominalizing
 non-industrialization
 non-industrializations
+non-ionizing
 non-oxidization
 non-oxidizations
 non-utilization
@@ -5381,12 +5396,14 @@ nonsocial
 nonspeaking
 nonspecialist
 nonspecialists
+nonspecialized
 nonstarter
 nonstarters
 nonsterilization
 nonsterilizations
 nonstylization
 nonstylizations
+nonsubsidized
 nonsuccess
 nonsuccesses
 nonsupport
@@ -5629,6 +5646,7 @@ overcentralizes
 overcentralizing
 overcivilization
 overcivilizations
+overcivilized
 overcoloration
 overcolorations
 overcommercialization
@@ -7000,6 +7018,7 @@ resinize
 resinized
 resinizes
 resinizing
+resizable
 resocialization
 resocializations
 resocialize
@@ -8340,6 +8359,8 @@ tyrannizing
 ultraminiaturization
 ultraminiaturizations
 unacclimatized
+unalphabetized
+unamortized
 unanalyzable
 unarmored
 unauthorized
@@ -8362,12 +8383,14 @@ uncenter
 uncentered
 uncentering
 uncenters
+uncharacterized
 uncivilized
 uncolonized
 uncolorable
 uncolored
 uncoloredly
 uncoloredness
+uncommercialized
 uncrystallized
 undefensed
 undemocratization
@@ -8398,11 +8421,13 @@ underutilizes
 underutilizing
 undiscolored
 undishonored
+unenergized
 unequaled
 unequalize
 unequalized
 unequalizes
 unequalizing
+uneulogized
 unfavorable
 unfavorableness
 unfavorably
@@ -8459,8 +8484,13 @@ unlikable
 unlikableness
 unlikably
 unlivable
+unlocalized
 unmechanized
+unmesmerized
 unmetabolized
+unmodernized
+unmoldy
+unmotorized
 unnaturalize
 unnaturalized
 unnaturalizes
@@ -8469,6 +8499,7 @@ unneighborliness
 unneighborly
 unoptimized
 unorganized
+unoxidized
 unpasteurized
 unpolarizable
 unpressurized
@@ -8497,11 +8528,14 @@ unregularized
 unreorganized
 unrevolutionized
 unrivaled
+unromanticized
 unsalability
 unsalable
 unsalably
+unsanitized
 unsavorily
 unsavory
+unscrutini<ed
 unself-centered
 unskillful
 unskillfully
@@ -8510,6 +8544,7 @@ unsocialized
 unspecialized
 unstandardized
 unsterilized
+unstigmatized
 unsubsidized
 unsubstantialize
 unsubstantialized
@@ -8521,6 +8556,7 @@ untraveled
 unutilized
 unverbalized
 unvocalized
+unvulcanised
 unwillful
 unwillfully
 unwillfulness
