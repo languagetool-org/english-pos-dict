@@ -4143,6 +4143,8 @@ kaolinize
 kaolinized
 kaolinizes
 kaolinizing
+karat
+karats
 kennel
 kenneled
 kenneling
@@ -7359,6 +7361,10 @@ securitizes
 securitizing
 segmentalization
 segmentalizations
+segmentalize
+segmentalized
+segmentalizes
+segmentalizing
 self-actualization
 self-actualizations
 self-aggrandizement
@@ -7554,6 +7560,9 @@ smoldered
 smoldering
 smolderings
 smolders
+snarkier
+snarkiest
+snarky
 snivel
 sniveled
 sniveler
@@ -8462,11 +8471,16 @@ unoptimized
 unorganized
 unpasteurized
 unpolarizable
+unpressurized
+unprioritized
 unprotestantize
 unprotestantized
 unprotestantizes
 unprotestantizing
 unpublicized
+unpulverized
+unrationalized
+unrationalizing
 unravel
 unraveled
 unraveling
@@ -8479,6 +8493,9 @@ unrealizing
 unrecognizable
 unrecognizably
 unrecognized
+unregularized
+unreorganized
+unrevolutionized
 unrivaled
 unsalability
 unsalable

@@ -10777,6 +10777,8 @@ Dniester
 Dnipro
 DoD
 Dobbs
+Doberman
+Dobermans
 Dobruja
 Dobrzynski
 Dobson
@@ -42783,6 +42785,7 @@ anti-racists
 anti-recession
 anti-reflective
 anti-reflux
+anti-religious
 anti-slavery
 anti-soviet
 anti-spam
@@ -54266,8 +54269,6 @@ caramel
 caramels
 carapace
 carapaces
-carat
-carats
 caravan
 caravaned
 caravaning
@@ -65342,6 +65343,8 @@ cyclists
 cyclo-cross
 cycloalkane
 cyclobenzaprine
+cyclogeneses
+cyclogenesis
 cyclogram
 cyclograms
 cyclohexane
@@ -65365,12 +65368,17 @@ cyclopedically
 cyclopentadiene
 cyclopentane
 cyclopentanes
+cyclopes
 cyclophosphamide
 cyclophosphamides
 cyclopropane
 cyclopropanes
+cyclops
+cyclopses
 cyclorama
 cycloramas
+cycloses
+cyclosis
 cyclostome
 cyclostomes
 cyclostyle
@@ -86772,6 +86780,10 @@ goos
 goosander
 goosanders
 goose
+goose-step
+goose-stepped
+goose-stepping
+goose-steps
 gooseberries
 gooseberry
 goosed
@@ -102138,6 +102150,7 @@ lavishness
 lavs
 law
 law-abiding
+law-abidingness
 lawbook
 lawbooks
 lawbreaker
@@ -102184,6 +102197,8 @@ laxity
 laxly
 laxness
 lay
+lay-by
+lay-bys
 lay-off
 lay-offs
 layabout
@@ -163930,6 +163945,7 @@ unprintableness
 unprintably
 unprinted
 unprivileged
+unprized
 unproblematic
 unproblematically
 unprocessed

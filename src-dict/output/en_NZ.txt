@@ -3924,6 +3924,8 @@ kaolinise
 kaolinised
 kaolinises
 kaolinising
+karat
+karats
 keratinisation
 keratinisations
 keratinise
@@ -7077,6 +7079,10 @@ securitises
 securitising
 segmentalisation
 segmentalisations
+segmentalise
+segmentalised
+segmentalises
+segmentalising
 self-actualisation
 self-actualisations
 self-aggrandisement
@@ -7237,6 +7243,9 @@ smoldered
 smoldering
 smolderings
 smolders
+snarkier
+snarkiest
+snarky
 sniveller
 snivellers
 snowplough
@@ -8094,11 +8103,16 @@ unoptimised
 unorganised
 unpasteurised
 unpolarisable
+unpressurised
+unprioritised
 unprotestantise
 unprotestantised
 unprotestantises
 unprotestantising
 unpublicised
+unpulverised
+unrationalised
+unrationalising
 unrealisable
 unrealise
 unrealised
@@ -8107,6 +8121,9 @@ unrealising
 unrecognisable
 unrecognisably
 unrecognised
+unregularised
+unreorganised
+unrevolutionised
 unsaleability
 unsaleable
 unsaleably

@@ -190,6 +190,7 @@
 #thereinto=RB=all # archaic
 #thereout=RB=all archaic
 #thitherto=RB=all # archaic
+#tho=JJ=all # dialectal
 #tho=RB=all # dialectal
 #throughly=RB=all # rare
 #throughly=RB=all archaic
@@ -11347,6 +11348,7 @@ Dnipro=NNP=all
 DoC=NNP=za # South Africa, placename?
 DoD=NNP=all
 Dobbs=NNP=all
+Doberman=noun=all
 Dobruja=NNP=all
 Dobrzynski=NNP=all
 Dobson=NNP=all
@@ -26076,9 +26078,10 @@ Metallica=NNP=all
 Metatheria=NNP=all
 Metchnikoff=NNP=all
 Methedrine=NNP=all
-Methodism=Methodism/NN:U,Methodism/NNP,Methodisms/NNPS=all
+Methodism=NNP=all
+Methodism=noun_U=all
 Methodist=JJ=all
-Methodist=Methodist/NNP,Methodists/NNPS=all
+Methodist=noun=all
 Methodius=NNP=all
 Methuen=NNP=all
 Methuselah=Methuselah/NNP,Methuselahs/NNPS=all
@@ -45644,6 +45647,7 @@ anti-racist=noun=all
 anti-recession=JJ=all
 anti-reflective=JJ=all
 anti-reflux=JJ=all
+anti-religious=JJ=all
 anti-slavery=JJ=all
 anti-soviet=JJ=all
 anti-spam=JJ=all
@@ -45909,7 +45913,6 @@ antiracist=JJ=all
 antiracist=noun=all
 antireflux=JJ=all
 antireligious=JJ=all
-antireligious=antireligious/NN,antireligious/NNS=all
 antiretroviral=JJ=all
 antiretrovirals=JJ=all
 antirheumatic=JJ=all
@@ -53207,7 +53210,6 @@ caramel=noun_UN=all
 caramelization|caramelisation=noun_UN=us,ca,gb|gb,au,nz,za
 caramelize|caramelise=verb=us,ca,gb|gb,au,nz,za
 carapace=noun=all
-carat=noun=all
 caravan [caravans;caravaned,caravanned;caravaned,caravanned;caravaning,caravanning]=verb=all
 caravan=noun=all
 caravanning=NN:U=all
@@ -60509,6 +60511,7 @@ cyclize|cyclise=verb=us,ca,gb|gb,au,nz,za
 cyclo-cross=NN=all
 cycloalkane=NN=all
 cyclobenzaprine=cyclobenzaprine/NN,cyclobenzaprine/NN:U=all
+cyclogenesis [pl. cyclogeneses]=noun=all
 cyclogram=noun=all
 cyclohexane=noun=all
 cycloid=JJ=all
@@ -60528,7 +60531,9 @@ cyclopentadiene=NN:U=all
 cyclopentane=noun=all
 cyclophosphamide=cyclophosphamide/NN,cyclophosphamide/NN:U,cyclophosphamides/NNS=all
 cyclopropane=noun=all
+cyclops [pl. cyclops,cyclopes,cyclopses]=noun=all
 cyclorama=noun=all
+cyclosis [pl. cycloses]=noun=all
 cyclostome=JJ=all
 cyclostome=noun=all
 cyclostyle=noun=all
@@ -74696,6 +74701,7 @@ gook=noun=all
 goon=noun=all
 goop=noun_U=all
 goosander=noun=all
+goose-step [-pp-]=verb=all
 goose=goose/NN,geese/NNS,gooses/NNS=all
 goose=verb=all
 gooseberry=noun=all
@@ -84047,6 +84053,7 @@ karakul=noun=all
 karambit=noun=all
 karaoke=karaoke/NN,karaoke/NN:UN,karaokes/NNS=all
 karate=noun_U=all
+karat|carat=noun=au,ca,nz,us,za|gb # variants??
 karma=noun_U=all
 karmic=JJ=all
 karmically=RB=all
@@ -85254,6 +85261,7 @@ lavisher=noun=all
 lavishly=RB=all
 lavishness=NN:U=all
 law-abiding=JJ=all
+law-abidingness=NN:U=all
 law=noun_UN=all
 lawbook=noun=all
 lawbreaker=JJ=all
@@ -85289,6 +85297,7 @@ laxity=noun_U=all
 laxly=RB=all
 laxness=NN:U=all
 lay [lays;laid;laid;laying]=verb=all
+lay-by [pl. lay-bys]=noun=all
 lay-off=noun=all
 lay=JJ=all
 lay=noun=all
@@ -111768,6 +111777,7 @@ segment=noun=all
 segment=verb=all
 segmental=JJ=all
 segmentalization|segmentalisation=noun_UN=us,ca,gb|gb,au,nz,za
+segmentalize|segmentalise=verb=us,ca,gb|gb,au,nz,za
 segmentally=RB=all
 segmentation=noun_U=all
 segmented=JJ=all
@@ -114821,6 +114831,7 @@ snark=noun_UN=all
 snark=verb=all
 snarkily=RB=all
 snarkiness=NN:U=all
+snarky=snarky/JJ,snarkier/JJR,snarkiest/JJS=au,ca,nz,us,za
 snarl=noun=all
 snarl=verb=all
 snarled=JJ=all
@@ -116326,6 +116337,7 @@ spool=verb=all
 spooler=noun=all
 spooling=noun_UN=all
 spoon-feed [spoon-feeds;spoon-fed;spoon-fed;spoon-feeding]=verb=all
+spoon-feeding=NN:U=all
 spoon=noun=all
 spoon=verb=all
 spoonbill=noun=all
@@ -127576,6 +127588,7 @@ unpresentably=RB=all
 unpreserved=JJ=all
 unpresidential=JJ=all
 unpressed=JJ=all
+unpressurized|unpressurised=JJ=us,ca,gb|gb,au,nz,za
 unpresumptuous=JJ=all
 unpresumptuously=RB=all
 unpresumptuousness=NN:U=all
@@ -127599,7 +127612,9 @@ unprintable=JJ=all
 unprintableness=NN:U=all
 unprintably=RB=all
 unprinted=JJ=all
+unprioritized|unprioritised=JJ=us,ca,gb|gb,au,nz,za
 unprivileged=JJ=all
+unprized=JJ=all
 unproblematic=JJ=all
 unproblematically=RB=all
 unprocessed=JJ=all
@@ -127665,6 +127680,7 @@ unpublicized|unpublicised=JJ=us,ca,gb|gb,au,nz,za
 unpublish=verb=all
 unpublishable=JJ=all
 unpublished=JJ=all
+unpulverized|unpulverised=JJ=us,ca,gb|gb,au,nz,za
 unpumpable=JJ=all
 unpunctual=JJ=all
 unpunctuality=noun_UN=all
@@ -127709,6 +127725,8 @@ unramified=JJ=all
 unranked=JJ=all
 unrated=JJ=all
 unratified=JJ=all
+unrationalized|unrationalised=JJ=us,ca,gb|gb,au,nz,za
+unrationalizing|unrationalising=JJ=us,ca,gb|gb,au,nz,za
 unravel [-ll-]|unravel=verb=all|us
 unreachable=JJ=all
 unreachableness=NN:U=all
@@ -127795,6 +127813,7 @@ unregister=verb=all
 unregistered=JJ=all
 unregretfully=RB=all
 unregretfulness=NN:U=all
+unregularized|unregularised=JJ=us,ca,gb|gb,au,nz,za
 unregulated=JJ=all
 unrehearsed=JJ=all
 unreinforced=JJ=all
@@ -127833,6 +127852,7 @@ unremunerative=JJ=all
 unremuneratively=RB=all
 unrenewed=JJ=all
 unrented=JJ=all
+unreorganized|unreorganised=JJ=us,ca,gb|gb,au,nz,za
 unrepaid=JJ=all
 unrepair=noun=all
 unrepairable=JJ=all
@@ -127923,6 +127943,7 @@ unreviewed=JJ=all
 unrevised=JJ=all
 unrevivable=JJ=all
 unrevoked=JJ=all
+unrevolutionized|unrevolutionised=JJ=us,ca,gb|gb,au,nz,za
 unrewarded=JJ=all
 unrewarding=JJ=all
 unrhetorically=RB=all

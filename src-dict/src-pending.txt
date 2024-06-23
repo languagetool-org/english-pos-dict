@@ -146418,7 +146418,6 @@ quasi-responsive=JJ=none
 quasi-responsively=RB=none
 quasi-restored=JJ=none
 quasi-retired=JJ=none
-quasi-revolutionized=JJ=none
 quasi-rewarding=JJ=none
 quasi-ridiculous=JJ=none
 quasi-ridiculously=RB=none
@@ -177792,8 +177791,6 @@ unpreservable=JJ=none
 unpresidentially=RB=none
 unpresiding=JJ=none
 unpressured=JJ=gb
-unpressurised=UNTAGGED=gb,nz,za
-unpressurized=UNTAGGED=us-large
 unpresumable=JJ=none
 unpresumably=RB=none
 unpresumed=JJ=none
@@ -177830,8 +177827,6 @@ unprimitivistic=JJ=none
 unprimly=RB=none
 unprimmed=JJ=none
 unprimness=NN=none
-unprioritised=UNTAGGED=gb
-unprioritized=UNTAGGED=gb
 unprismatic=JJ=none
 unprismatical=JJ=none
 unprismatically=RB=none
@@ -177840,7 +177835,6 @@ unprivate=JJ=none
 unprivately=RB=none
 unprivateness=NN=none
 unprizable=JJ=none
-unprized=JJ=none
 unprobated=JJ=none
 unprobational=JJ=none
 unprobationary=JJ=none
@@ -178003,8 +177997,6 @@ unpulped=JJ=none
 unpulsating=JJ=none
 unpulsative=JJ=none
 unpulverable=JJ=none
-unpulverised=JJ=none
-unpulverized=JJ=none
 unpulvinate=JJ=none
 unpulvinated=JJ=none
 unpummeled=JJ=none
@@ -178153,10 +178145,6 @@ unraspy=JJ=none
 unratable=JJ=none
 unrationable=JJ=none
 unrational=JJ=none
-unrationalised=JJ=none
-unrationalising=JJ=none
-unrationalized=JJ=none
-unrationalizing=JJ=none
 unrationally=RB=none
 unrationed=JJ=none
 unravaged=JJ=none
@@ -178315,9 +178303,7 @@ unregrettably=RB=none
 unregretted=JJ=none
 unregretting=JJ=none
 unregulable=JJ=none
-unregularised=JJ=none
 unregularity=NN:UN=none
-unregularized=JJ=none
 unregulative=JJ=none
 unregulatory=JJ=none
 unregurgitated=JJ=none
@@ -178411,8 +178397,6 @@ unrentable=JJ=gb
 unrenunciable=JJ=none
 unrenunciative=JJ=none
 unrenunciatory=JJ=none
-unreorganised=JJ=none
-unreorganized=JJ=none
 unrepassable=UNTAGGED=all
 unrepayable=JJ=none
 unrepealability=NN:UN=none
@@ -178611,7 +178595,6 @@ unrevokable=JJ=none
 unrevolted=JJ=none
 unrevolting=JJ=none
 unrevolutionary=JJ=none
-unrevolutionized=JJ=none
 unrevolved=JJ=none
 unrevolving=JJ=none
 unrewardable=JJ=none
