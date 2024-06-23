@@ -16010,6 +16010,7 @@ Hamish
 Hamite
 Hamites
 Hamitic
+Hamiticized
 Hamito-Semitic
 Hamlet
 Hamlin
@@ -39979,6 +39980,7 @@ advertences
 advertent
 advertently
 adverting
+advertisable
 advertise
 advertised
 advertisement
@@ -41770,8 +41772,10 @@ amberjacks
 ambers
 ambiance
 ambiances
+ambidexter
 ambidexterities
 ambidexterity
+ambidexters
 ambidextrous
 ambidextrously
 ambidextrousness
@@ -46679,6 +46683,7 @@ axiomatically
 axiomatics
 axioms
 axis
+axised
 axle
 axles
 axolotl
@@ -54935,6 +54940,7 @@ capsicum
 capsicums
 capsid
 capsids
+capsizable
 capsize
 capsized
 capsizes
@@ -56931,6 +56937,7 @@ chasteningly
 chastens
 chaster
 chastest
+chastisable
 chastise
 chastised
 chastisement
@@ -61153,6 +61160,7 @@ compressor
 compressors
 compressure
 compressures
+comprisable
 comprise
 comprised
 comprises
@@ -68657,6 +68665,7 @@ demine
 demined
 demines
 demining
+demisable
 demise
 demised
 demisemiquaver
@@ -86047,6 +86056,7 @@ gambles
 gambling
 gamboge
 gamboges
+gamboised
 gambol
 gambolled
 gambolling
@@ -134092,6 +134102,7 @@ quectoweber
 quectowebers
 queen
 queen-size
+queen-sized
 queendom
 queendoms
 queened

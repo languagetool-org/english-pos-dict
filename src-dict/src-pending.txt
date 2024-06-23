@@ -21925,7 +21925,6 @@ Hamilcar=UNTAGGED=au,ca,us
 Hamiltonianism=Hamiltonianism/NNP,Hamiltonianisms/NNPS=none
 Hamiltonsbawn=UNTAGGED=gb
 Haminoea=NNP=none
-Hamiticized=JJ=none
 Hamlani=NNP=none
 Hamlen=NNP=none
 Hamlets=UNTAGGED=gb
@@ -57023,7 +57022,6 @@ adversed=UNTAGGED=gb,nz,za
 adverses=UNTAGGED=nz
 adversing=UNTAGGED=gb,nz,za
 advertency=noun=gb
-advertisable=JJ=none
 advertizable=JJ=none
 advertizement=noun=none
 advertizer=NN=none
@@ -58575,8 +58573,6 @@ amberoid=noun=us-large
 amberous=JJ=none
 ambery=JJ=none
 ambery=noun=none
-ambidexter=JJ=us-large
-ambidexter=noun=us-large
 ambidextral=JJ=none
 ambients=UNTAGGED=gb,nz
 ambifix=UNTAGGED=gb
@@ -63328,7 +63324,6 @@ axinomancy=NN:U=us-large
 axiologist=noun=none
 axiomatical=JJ=none
 axion=noun=none
-axised=JJ=none
 axisymmetric=UNTAGGED=gb
 axisymmetry=noun=none
 axite=noun=none
@@ -64093,7 +64088,6 @@ baphometic=UNTAGGED=gb
 baptiser=UNTAGGED=au,gb,nz,za
 baptisers=UNTAGGED=au,gb,nz,za
 baptisia=noun=none
-baptizable=JJ=none
 baptizement=NN=none
 baptizer=noun=ca,us
 bapu=noun=none
@@ -70019,10 +70013,8 @@ capilliculturible=UNTAGGED=gb
 capilliculturisability=UNTAGGED=gb
 capilliculturisable=UNTAGGED=gb
 capillitium=noun=none
-capitalisable=JJ=none
 capitaliser=NN=gb,nz,za
 capitalisers=UNTAGGED=gb,nz,za
-capitalizable=JJ=none
 capitalizer=NN=gb,nz,za
 capitalizers=UNTAGGED=gb,nz,za
 capitan=noun=none
@@ -70105,7 +70097,6 @@ capsella=NN=none
 capsful=UNTAGGED=us-large
 capsicin=noun=none
 capsidae=NN=none
-capsizable=JJ=none
 capsizal=noun=none
 capsomer=noun=none
 capsomere=noun=none
@@ -70842,8 +70833,6 @@ catchweed=noun=none
 catchweights=UNTAGGED=gb
 catclaw=noun=none
 cate=noun=us-large
-catechisable=JJ=none
-catechizable=JJ=none
 catechu=noun=us-large
 catechumenal=JJ=none
 catechumenate=noun=none
@@ -71839,7 +71828,6 @@ chasseur=JJ=us-large
 chasseur=noun=us-large
 chastener=noun=us-large
 chastenment=noun=none
-chastisable=JJ=none
 chastize=chastize/VB,chastize/VBP=none
 chasubled=JJ=none
 chatchka=noun=none
@@ -75094,7 +75082,6 @@ compresences=UNTAGGED=all
 compresent=UNTAGGED=gb
 compression-ignition=JJ=none
 comprimario=noun=none
-comprisable=JJ=none
 comprisal=noun=none
 comprizable=JJ=us-large
 comprizal=NN=none
@@ -80649,7 +80636,6 @@ demipique=noun=none
 demirelief=noun=us-large
 demirep=noun=us-large
 demisability=NN:UN=none
-demisable=JJ=none
 demiscible=UNTAGGED=gb,nz,za
 demisexualities=UNTAGGED=gb
 demisexuality=UNTAGGED=gb
@@ -81614,7 +81600,6 @@ diazole=noun=us-large
 diazomethane=NN=us-large
 diazonium=noun=us-large
 diazotizability=NN:UN=none
-diazotizable=JJ=none
 diazotype=NN=none
 dib=UNTAGGED=us-large
 dibaryon=UNTAGGED=gb
@@ -87665,8 +87650,6 @@ etymologer=UNTAGGED=gb
 etymologers=UNTAGGED=gb
 etymologic=JJ=gb
 etymologicon=noun=none
-etymologisable=JJ=none
-etymologizable=JJ=none
 etymonic=UNTAGGED=gb
 euarctos=NN=none
 euascomycetes=NN=none
@@ -92187,7 +92170,6 @@ gambiration=UNTAGGED=gb
 gambist=noun=none
 gambo=noun=none
 gambogian=JJ=none
-gamboised=JJ=none
 gambusia=noun=none
 gamebag=NN=none
 gameboard=NN=none
@@ -102092,8 +102074,6 @@ immobilism=noun_UN=gb
 immobilizability=UNTAGGED=gb,nz,za
 immoderacy=noun=us-large
 immoralism=noun_UN=gb
-immortalisable=JJ=none
-immortalizable=JJ=none
 immotility=noun_UN=none
 immoveability=NN:UN=none
 immoveable=JJ=gb,nz,za
@@ -118940,7 +118920,6 @@ nonancestrally=RB=none
 nonanemic=JJ=none
 nonanesthetic=JJ=none
 nonanesthetic=NN=none
-nonanesthetized=JJ=none
 nonangelic=JJ=none
 nonangling=JJ=none
 nonanguished=JJ=none
@@ -119366,7 +119345,6 @@ noncapital=noun=none
 noncapitalist=noun=none
 noncapitalistic=JJ=none
 noncapitalistically=RB=none
-noncapitalized=JJ=none
 noncapitulation=NN:UN=none
 noncapricious=JJ=none
 noncapriciously=RB=none
@@ -119385,7 +119363,6 @@ noncardiovascular=JJ=none
 noncarnivorously=RB=none
 noncarnivorousness=NN=none
 noncarrier=noun=none
-noncartelized=JJ=none
 noncastigating=JJ=none
 noncastigation=NN:UN=none
 noncasuistic=JJ=none
@@ -119499,7 +119476,6 @@ nonciteable=JJ=none
 noncitizen=noun=us-large
 noncivilian=NN=none
 noncivilizable=JJ=none
-noncivilized=JJ=none
 nonclaimable=JJ=none
 nonclamorous=JJ=none
 nonclamorously=RB=none
@@ -124787,7 +124763,6 @@ nonundulating=JJ=none
 nonundulatory=JJ=none
 nonunification=NN:UN=none
 nonuniformity=noun_UN=none
-nonunionised=JJ=none
 nonunionism=noun_UN=us-large
 nonunionist=noun=none
 nonunique=JJ=none
@@ -130838,9 +130813,7 @@ patrologist=UNTAGGED=gb
 patrologists=UNTAGGED=gb
 patrolwoman=patrolwoman/NN,patrolwomen/NNS=au,ca,us
 patrondom=NN=none
-patronisable=JJ=none
 patronisings=UNTAGGED=nz
-patronizable=JJ=none
 patronless=JJ=none
 patronne=NN=none
 patronship=NN=none
@@ -143007,7 +142980,6 @@ quebracho=noun=gb
 quebrada=NN=none
 quectometer=noun=us
 quectometre=noun=gb
-queen-sized=JJ=none
 queencake=NN=none
 queenfish=queenfish/NN,queenfish/NNS=none
 queenhoodably=UNTAGGED=gb
@@ -150366,7 +150338,6 @@ seminasally=RB=none
 semination=noun=us-large
 seminationalism=NN:UN=none
 seminationalistic=JJ=none
-seminationalized=JJ=none
 seminervous=JJ=none
 seminervously=RB=none
 seminervousness=NN=none
@@ -156808,7 +156779,6 @@ subcircuits=UNTAGGED=gb
 subcircularity=JJ=none
 subcircularly=RB=none
 subcity=NN=none
-subcivilized=JJ=none
 subclan=noun=none
 subclausal=JJ=none
 subclavate=JJ=none
@@ -158648,7 +158618,6 @@ superchivalrousness=NN=none
 superchurch=noun=gb
 supercilium=NN=none
 supercivil=JJ=none
-supercivilized=JJ=none
 supercivilly=RB=none
 superclaim=NN=none
 superclassified=JJ=none
@@ -167261,8 +167230,6 @@ uncensorious=JJ=none
 uncensurable=JJ=none
 uncensuring=JJ=none
 uncentral=JJ=none
-uncentralised=JJ=none
-uncentralized=JJ=none
 uncentric=JJ=none
 uncentrical=JJ=none
 uncentripetal=JJ=none
@@ -167395,9 +167362,7 @@ uncited=JJ=none
 uncitied=JJ=none
 uncitizenlike=JJ=none
 uncivic=JJ=none
-uncivilisable=JJ=none
 uncivility=NN:UN=none
-uncivilizable=JJ=none
 unclaiming=JJ=none
 unclamorous=JJ=none
 unclamorously=RB=none
@@ -167471,8 +167436,6 @@ uncoded=JJ=gb
 uncogent=JJ=none
 uncogently=RB=none
 uncogged=JJ=none
-uncognisable=JJ=none
-uncognizable=JJ=none
 uncognizant=JJ=none
 uncognized=JJ=none
 uncognoscibility=NN:UN=none
@@ -167971,9 +167934,7 @@ uncrewed=UNTAGGED=all
 uncried=JJ=none
 uncriminal=JJ=none
 uncrippled=JJ=none
-uncriticisable=JJ=none
 uncriticisably=RB=none
-uncriticizable=JJ=none
 uncriticizably=RB=none
 uncriticized=JJ=none
 uncriticizing=JJ=none
@@ -167999,8 +167960,6 @@ uncrying=JJ=none
 uncrystaled=JJ=none
 uncrystalled=JJ=none
 uncrystalline=JJ=none
-uncrystallisable=JJ=none
-uncrystallizable=JJ=none
 unct=NN=none
 unctuosity=noun_UN=none
 uncubic=JJ=none
@@ -169562,8 +169521,6 @@ unevanescent=JJ=none
 unevanescently=RB=none
 unevangelic=JJ=none
 unevangelically=RB=none
-unevangelised=JJ=none
-unevangelized=JJ=none
 unevasive=JJ=none
 unevasively=RB=none
 unevasiveness=NN=none
@@ -169795,8 +169752,6 @@ unfallen=JJ=none
 unfalling=JJ=none
 unfallowed=JJ=none
 unfalsified=JJ=none
-unfamiliarised=JJ=none
-unfamiliarized=JJ=none
 unfanatical=JJ=none
 unfanciful=JJ=none
 unfancy=JJ=none
@@ -170102,9 +170057,7 @@ unforgetting=JJ=none
 unforgone=JJ=none
 unforked=UNTAGGED=gb
 unforlorn=JJ=none
-unformalised=JJ=none
 unformalistic=JJ=none
-unformalized=JJ=none
 unformative=JJ=none
 unformidable=JJ=none
 unformidableness=NN=none
@@ -170122,8 +170075,6 @@ unforward=JJ=none
 unforwarded=JJ=none
 unforwardly=RB=none
 unfossiliferous=JJ=none
-unfossilised=JJ=none
-unfossilized=JJ=none
 unfostered=JJ=none
 unfostering=JJ=none
 unfoul=JJ=none
@@ -170325,9 +170276,7 @@ ungelatinously=RB=none
 ungelatinousness=NN=none
 ungelded=JJ=none
 ungenerable=JJ=none
-ungeneralised=JJ=none
 ungeneralising=JJ=none
-ungeneralized=JJ=none
 ungeneralizing=JJ=none
 ungenerated=JJ=none
 ungenerating=JJ=none
@@ -170791,8 +170740,6 @@ unhyphenable=JJ=none
 unhyphened=JJ=none
 unhypnotic=JJ=none
 unhypnotically=RB=none
-unhypnotisable=JJ=none
-unhypnotizable=JJ=none
 unhypocritical=JJ=none
 unhypothecated=JJ=none
 unhypothetical=JJ=none
@@ -170889,8 +170836,6 @@ unimmersed=JJ=none
 unimmigrating=JJ=none
 unimminent=JJ=none
 unimmolated=JJ=none
-unimmunised=JJ=none
-unimmunized=JJ=none
 unimmured=JJ=none
 unimpacted=JJ=none
 unimpairable=JJ=none
@@ -171332,8 +171277,6 @@ unjeered=JJ=none
 unjeering=JJ=none
 unjelled=JJ=none
 unjellied=JJ=none
-unjeopardised=JJ=none
-unjeopardized=JJ=none
 unjesting=JJ=none
 unjestingly=RB=none
 unjeweled=JJ=none
@@ -171478,8 +171421,6 @@ unlectured=JJ=none
 unledged=JJ=none
 unleft=JJ=none
 unlegal=JJ=none
-unlegalised=JJ=none
-unlegalized=JJ=none
 unlegally=RB=none
 unlegalness=NN=none
 unlegible=JJ=none
@@ -171662,8 +171603,6 @@ unmagnanimous=JJ=none
 unmagnanimousness=NN=none
 unmagnetic=JJ=none
 unmagnetical=JJ=none
-unmagnetised=JJ=none
-unmagnetized=JJ=none
 unmagnifying=JJ=none
 unmaidenlike=JJ=none
 unmaidenliness=NN=none
@@ -171748,9 +171687,7 @@ unmatches=UNTAGGED=gb
 unmatchless=UNTAGGED=gb
 unmate=UNTAGGED=gb
 unmated=UNTAGGED=all
-unmaterialised=JJ=none
 unmaterialistic=JJ=none
-unmaterialized=JJ=none
 unmaterially=RB=none
 unmates=UNTAGGED=gb
 unmatrimonial=JJ=none
@@ -171897,8 +171834,6 @@ unminced=JJ=none
 unmincing=JJ=none
 unminding=JJ=none
 unmineable=UNTAGGED=gb
-unmineralised=JJ=none
-unmineralized=JJ=none
 unmingled=JJ=none
 unminimised=JJ=none
 unminimising=JJ=none
@@ -172122,10 +172057,8 @@ unnarrowly=RB=none
 unnasal=JJ=none
 unnasally=RB=none
 unnascent=JJ=none
-unnationalised=JJ=none
 unnationalistic=JJ=none
 unnationalistically=RB=none
-unnationalized=JJ=none
 unnationally=RB=none
 unnative=JJ=none
 unnaturalistic=JJ=none
@@ -172199,9 +172132,7 @@ unnominated=JJ=none
 unnominative=JJ=none
 unnoosed=JJ=none
 unnormal=JJ=none
-unnormalised=JJ=none
 unnormalising=JJ=none
-unnormalized=JJ=none
 unnormalizing=JJ=none
 unnormally=RB=none
 unnormalness=NN=none
@@ -172369,8 +172300,6 @@ unorderable=JJ=none
 unorderly=JJ=none
 unordinal=JJ=none
 unorganic=JJ=none
-unorganisable=JJ=none
-unorganizable=JJ=none
 unoriental=JJ=none
 unorientally=RB=none
 unoriented=JJ=none
@@ -172505,9 +172434,7 @@ unparticipated=JJ=none
 unparticipating=JJ=none
 unparticipative=JJ=none
 unparticular=JJ=none
-unparticularised=JJ=none
 unparticularising=JJ=none
-unparticularized=JJ=none
 unparticularizing=JJ=none
 unpartisan=JJ=none
 unpartitioned=JJ=none
@@ -172846,8 +172773,6 @@ unpolishable=JJ=none
 unpollarded=JJ=none
 unpollened=JJ=none
 unpolluting=JJ=none
-unpolymerised=JJ=none
-unpolymerized=JJ=none
 unpompous=JJ=none
 unponderable=JJ=none
 unpondered=JJ=none
@@ -174817,9 +174742,7 @@ unsquired=JJ=none
 unsquirming=JJ=none
 unsquirted=JJ=none
 unstabbed=JJ=none
-unstabilised=JJ=none
 unstabilising=JJ=none
-unstabilized=JJ=none
 unstabilizing=JJ=none
 unstabled=JJ=none
 unstacking=UNTAGGED=us-large
@@ -175106,10 +175029,6 @@ unsulphureous=JJ=none
 unsulphurized=JJ=none
 unsultry=JJ=none
 unsummable=JJ=none
-unsummarisable=JJ=none
-unsummarised=JJ=none
-unsummarizable=JJ=none
-unsummarized=JJ=none
 unsummonable=JJ=none
 unsumptuous=JJ=none
 unsumptuously=RB=none
@@ -175239,8 +175158,6 @@ unsyllogistical=JJ=none
 unsyllogistically=RB=none
 unsymbolic=JJ=none
 unsymbolical=JJ=none
-unsymbolised=JJ=none
-unsymbolized=JJ=none
 unsymmetric=JJ=none
 unsymmetrized=JJ=none
 unsympathised=JJ=none
@@ -175262,14 +175179,10 @@ unsynonymous=JJ=none
 unsynonymously=RB=none
 unsyntactic=JJ=none
 unsyntactical=JJ=none
-unsynthesised=JJ=none
-unsynthesized=JJ=none
 unsynthetic=JJ=none
 unsynthetically=RB=none
 unsyringed=JJ=none
-unsystematised=JJ=none
 unsystematising=JJ=none
-unsystematized=JJ=none
 unsystematizing=JJ=none
 untabernacled=JJ=none
 untabled=JJ=none
@@ -176130,7 +176043,6 @@ unwelded=JJ=none
 unwell-intentioned=JJ=none
 unwelted=JJ=none
 unwestern=JJ=none
-unwesternized=JJ=none
 unwet=JJ=none
 unwetted=JJ=none
 unwheedled=JJ=none

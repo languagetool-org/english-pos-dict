@@ -14,6 +14,7 @@
 #Suu=NNP=all # ??
 #ablins=RB=all
 #aboon=RB=all dialect
+#advertizable=JJ=all # misspelling advertisable
 #aforetime=RB=all # archaic
 #aggroup=verb=all # archaic
 #agone=RB=all # archaic
@@ -17132,6 +17133,7 @@ Hamish=NNP=all
 Hamite=Hamite/NNP,Hamites/NNPS=all
 Hamitic=JJ=all
 Hamitic=NNP=all
+Hamiticized=JJ=all
 Hamito-Semitic=JJ=all
 Hamito-Semitic=NNP=all
 Hamlet=NNP=all
@@ -43663,6 +43665,7 @@ advert=verb=all
 advertence=noun=all
 advertent=JJ=all
 advertently=RB=all
+advertisable=JJ=all
 advertise=verb=all
 advertisement=noun_UN=all
 advertiser=noun=all
@@ -44967,6 +44970,7 @@ amber=noun_U=all
 ambergris=noun_U=all
 amberjack=noun=all
 ambiance=noun=all
+ambidexter=noun=all
 ambidexterity=noun_U=all
 ambidextrous=JJ=all
 ambidextrously=RB=all
@@ -45453,7 +45457,6 @@ anesthetic|anaesthetic=noun=ca,us|au,gb,nz,za
 anesthetist|anaesthetist=noun=ca,us|au,gb,nz,za
 anesthetization|anaesthetization|anaesthetisation=noun_UN=us,ca|gb|gb,au,nz,za
 anesthetization|anesthetisation=noun_UN=us,ca,gb|gb,au,nz,za
-anesthetize=verb=us
 anesthetizer|anaesthetizer|anaesthetiser=noun=us,ca|gb|gb,au,nz,za
 anesthetize|anaesthetize|anaesthetise=verb=us,ca|gb|gb,au,nz,za
 anethole=noun=all
@@ -48574,6 +48577,7 @@ axiomatically=RB=all
 axiomatization|axiomatisation=noun_UN=us,ca,gb|gb,au,nz,za
 axiomatize|axiomatise=verb=us,ca,gb|gb,au,nz,za
 axis [pl. axes]=noun=all
+axised=JJ=all
 axle=noun=all
 axolotl=noun=all
 axon=noun=all
@@ -49139,6 +49143,7 @@ baptismally=RB=all
 baptist=noun=all
 baptistery=noun=all
 baptistry=noun=all
+baptizable|baptisable=JJ=us,ca,gb|gb,au,nz,za
 baptize|baptise=verb=us,ca,gb|gb,au,nz,za
 bar-coded=JJ=all
 bar=JJ=all
@@ -53875,6 +53880,7 @@ capitalist=JJ=all
 capitalist=noun=all
 capitalistic=JJ=all
 capitalistically=RB=all
+capitalizable|capitalisable=JJ=us,ca,gb|gb,au,nz,za
 capitalization|capitalisation=noun_UN=us,ca,gb|gb,au,nz,za
 capitalize|capitalise=verb=us,ca,gb|gb,au,nz,za
 capitally=RB=all
@@ -53922,6 +53928,7 @@ caprylic=JJ=all
 capsaicin=noun=all
 capsicum=noun=all
 capsid=noun_U=all
+capsizable=JJ=all
 capsize=verb=all
 capstan=noun=all
 capstone=noun=all
@@ -54493,6 +54500,7 @@ catechist=noun=all
 catechistic=JJ=all
 catechistical=JJ=all
 catechistically=RB=all
+catechizable|catechisable=JJ=us,ca,gb|gb,au,nz,za
 catechization|catechisation=noun_UN=us,ca,gb|gb,au,nz,za
 catechizer|catechiser=noun=us,ca,gb|gb,au,nz,za
 catechize|catechise=verb=us,ca,gb|gb,au,nz,za
@@ -55256,6 +55264,7 @@ chastened=JJ=all
 chasteness=NN:U=all
 chastening=NN:UN=all
 chasteningly=RB=all
+chastisable=JJ=all
 chastise=verb=all
 chastisement=noun_U=all
 chastiser=noun=all
@@ -58075,6 +58084,7 @@ compressive=JJ=all
 compressively=RB=all
 compressor=noun=all
 compressure=noun=all
+comprisable=JJ=all
 comprise=verb=all
 compromise=noun_UN=all
 compromise=verb=all
@@ -63054,6 +63064,7 @@ demine=verb=all
 demineralization|demineralisation=noun_UN=us,ca,gb|gb,au,nz,za
 demineralizer|demineraliser=noun=us,ca,gb|gb,au,nz,za
 demineralize|demineralise=verb=us,ca,gb|gb,au,nz,za
+demisable=JJ=all
 demise=demise/NN,demise/NN:U,demises/NNS=all
 demise=verb=all
 demisemiquaver=noun=all
@@ -64149,6 +64160,7 @@ diatribe=noun=all
 diazepam=diazepam/NN,diazepam/NN:U,diazepams/NNS=all
 diazo=JJ=all
 diazo=diazo/NN,diazoes/NNS,diazos/NNS=all
+diazotizable|diazotisable=JJ=us,ca,gb|gb,au,nz,za
 diazotization|diazotisation=noun_UN=us,ca,gb|gb,au,nz,za
 diazotize|diazotise=verb=us,ca,gb|gb,au,nz,za
 dibasic=JJ=all
@@ -69511,6 +69523,7 @@ etiquette=noun_U=all
 etymological=JJ=all
 etymologically=RB=all
 etymologist=noun=all
+etymologizable|etymologisable=JJ=us,ca,gb|gb,au,nz,za
 etymologize|etymologise=verb=us,ca,gb|gb,au,nz,za
 etymology=noun_UN=all
 etymon=noun=all
@@ -74760,6 +74773,7 @@ gamble=verb=all
 gambler=noun=all
 gambling=NN:U=all
 gamboge=noun_U=all
+gamboised=JJ=all
 gambol [-ll-]|gambol=verb=all|us
 gambol=noun=all
 gamboling|gambolling=noun_UN=us|au,ca,gb,nz,za
@@ -81685,6 +81699,7 @@ immorally=RB=all
 immortal=JJ=all
 immortal=noun=all
 immortality=noun_U=all
+immortalizable|immortalisable=JJ=us,ca,gb|gb,au,nz,za
 immortalization|immortalisation=noun_UN=us,ca,gb|gb,au,nz,za
 immortalizer|immortaliser=noun=us,ca,gb|gb,au,nz,za
 immortalize|immortalise=verb=us,ca,gb|gb,au,nz,za
@@ -96049,6 +96064,7 @@ nonanalyticity=noun_U=all
 nonanalyzable=JJ=ca,us
 nonanalyzed=JJ=ca,us
 nonanatomically=RB=all
+nonanesthetized|nonanaesthetized|nonanaesthetised=JJ=us,ca|gb|gb,au,nz,za
 nonapologetic=JJ=all
 nonappearance|non-appearance=noun=au,ca,us|gb,nz,za
 nonapplicable=JJ=all
@@ -96086,8 +96102,10 @@ noncaking=JJ=all
 noncaloric=JJ=all
 noncancerous|non-cancerous=JJ=au,ca,us|gb,nz,za
 noncandidate=noun=all
+noncapitalized|noncapitalised=JJ=us,ca,gb|gb,au,nz,za
 noncarbonated=JJ=all
 noncarnivorous=JJ=all
+noncartelized|noncartelised=JJ=us,ca,gb|gb,au,nz,za
 noncash=JJ=all
 noncatalytically=RB=all
 noncategorical=JJ=all
@@ -96109,6 +96127,7 @@ noncharismatic=JJ=all
 noncharitable=JJ=all
 nonchromatically=RB=all
 nonchronically=RB=all
+noncivilized|noncivilised=JJ=us,ca,gb|gb,au,nz,za
 nonclassical=JJ=all
 nonclassically=RB=all
 nonclerical|non-clerical=noun=au,ca,us|gb,nz,za
@@ -96764,6 +96783,7 @@ nonunified=JJ=all
 nonuniform|non-uniform=JJ=au,ca,us|gb,nz,za
 nonunion=JJ=all
 nonunionized=JJ=all
+nonunionized|nonunionised=JJ=us,ca,gb|gb,au,nz,za
 nonuniquely=RB=all
 nonuniqueness=NN:U=all
 nonuniversal=JJ=all
@@ -101211,6 +101231,7 @@ patronage=verb=all
 patronal=JJ=all
 patroness=NN:U=all
 patronisingly=RB=all
+patronizable|patronisable=JJ=us,ca,gb|gb,au,nz,za
 patronization|patronisation=noun_UN=us,ca,gb|gb,au,nz,za
 patronizer|patroniser=noun=us,ca,gb|gb,au,nz,za
 patronize|patronise=verb=us,ca,gb|gb,au,nz,za
@@ -108371,6 +108392,7 @@ quectovolt=noun=all
 quectowatt=noun=all
 quectoweber=noun=all
 queen-size=JJ=all
+queen-sized=JJ=all
 queen=noun=all
 queen=verb=all
 queendom=noun=all
@@ -115641,6 +115663,7 @@ seminarian=noun=all
 seminarist=noun=all
 seminary=JJ=all
 seminary=noun=all
+seminationalized|seminationalised=JJ=us,ca,gb|gb,au,nz,za
 seminatural=JJ=all
 seminiferous=JJ=all
 seminomadic=JJ=all
@@ -121763,6 +121786,7 @@ subchronic=JJ=all
 subchronically=RB=all
 subcircular=JJ=all
 subcivilization|subcivilisation=noun_UN=us,ca,gb|gb,au,nz,za
+subcivilized|subcivilised=JJ=us,ca,gb|gb,au,nz,za
 subclaim=noun=all
 subclass=noun=all
 subclass=verb=all
@@ -122681,6 +122705,7 @@ superciliously=RB=all
 superciliousness=NN:U=all
 supercity=noun=all
 supercivilization|supercivilisation=noun_UN=us,ca,gb|gb,au,nz,za
+supercivilized|supercivilised=JJ=us,ca,gb|gb,au,nz,za
 superclass=noun=all
 superclean=JJ=all
 supercollider=noun=all
@@ -129183,6 +129208,7 @@ uncensoriousness=NN:U=all
 uncensured=JJ=all
 uncenter=verb=us
 uncentered|uncentred=JJ=us|au,ca,gb,nz,za
+uncentralized|uncentralised=JJ=us,ca,gb|gb,au,nz,za
 uncentrally=RB=all
 uncentre [uncentres;uncentred;uncentred;uncentreing,uncentring]=verb=au,ca,gb,nz,za
 unceremonially=RB=all
@@ -129267,6 +129293,7 @@ uncircumspectly=RB=all
 uncircumstantially=RB=all
 uncitizenly=RB=all
 uncivil=JJ=all
+uncivilizable|uncivilisable=JJ=us,ca,gb|gb,au,nz,za
 uncivilizedness=NN:U=all
 uncivilized|uncivilised=JJ=us,ca,gb|gb,au,nz,za
 uncivilly=RB=all
@@ -129324,6 +129351,7 @@ uncoated=JJ=all
 uncobbled=JJ=all
 uncodified=JJ=all
 uncoerced=JJ=all
+uncognizable|uncognisable=JJ=us,ca,gb|gb,au,nz,za
 uncoil=verb=all
 uncoiled=JJ=all
 uncoincidentally=RB=all
@@ -129573,6 +129601,7 @@ uncredited=JJ=all
 uncriminally=RB=all
 uncritical=JJ=all
 uncritically=RB=all
+uncriticizable|uncriticisable=JJ=us,ca,gb|gb,au,nz,za
 uncriticizingly=RB=all
 uncropped=JJ=all
 uncross=verb=all
@@ -129584,6 +129613,7 @@ uncrumple=verb=all
 uncrumpled=JJ=all
 uncrumpling=JJ=all
 uncrushable=JJ=all
+uncrystallizable|uncrystallisable=JJ=us,ca,gb|gb,au,nz,za
 uncrystallized|uncrystallised=JJ=us,ca,gb|gb,au,nz,za
 unction=noun_UN=all
 unctuous=JJ=all
@@ -130297,6 +130327,7 @@ uneuphoniousness=NN:U=all
 unevadable=JJ=all
 unevaluated=JJ=all
 unevangelical=JJ=all
+unevangelized|unevangelised=JJ=us,ca,gb|gb,au,nz,za
 uneven=uneven/JJ,unevener/JJR,unevenest/JJS=all
 unevenly=RB=all
 unevenness=NN:U=all
@@ -130380,6 +130411,7 @@ unfaltering=JJ=all
 unfalteringly=RB=all
 unfamiliar=JJ=all
 unfamiliarity=noun_U=all
+unfamiliarized|unfamiliarised=JJ=us,ca,gb|gb,au,nz,za
 unfamiliarly=RB=all
 unfanatically=RB=all
 unfancied=JJ=all
@@ -130512,6 +130544,7 @@ unforgiving=JJ=all
 unforgivingly=RB=all
 unforgivingness=NN:U=all
 unforgotten=JJ=all
+unformalized|unformalised=JJ=us,ca,gb|gb,au,nz,za
 unformatted=JJ=all
 unformed=JJ=all
 unformulated=JJ=all
@@ -130522,6 +130555,7 @@ unfortunate=JJ=all
 unfortunate=noun=all
 unfortunately=RB=all
 unfortunateness=NN:U=all
+unfossilized|unfossilised=JJ=us,ca,gb|gb,au,nz,za
 unfought=JJ=all
 unfound=JJ=all
 unfounded=JJ=all
@@ -130574,6 +130608,7 @@ ungallant=JJ=all
 ungallantly=RB=all
 ungarrisoned=JJ=all
 ungated=JJ=all
+ungeneralized|ungeneralised=JJ=us,ca,gb|gb,au,nz,za
 ungenerous=JJ=all
 ungenerously=RB=all
 ungenerousness=NN:U=all
@@ -130766,6 +130801,7 @@ unhusked=JJ=all
 unhygienic=JJ=all
 unhygienically=RB=all
 unhyphenated=JJ=all
+unhypnotizable|unhypnotisable=JJ=us,ca,gb|gb,au,nz,za
 unhypocritically=RB=all
 unhysterically=RB=all
 uni=noun=all
@@ -130834,6 +130870,7 @@ unimaginative=JJ=all
 unimaginatively=RB=all
 unimaginativeness=NN:U=all
 unimagined=JJ=all
+unimmunized|unimmunised=JJ=us,ca,gb|gb,au,nz,za
 unimodal=JJ=all
 unimolecular=JJ=all
 unimpaired=JJ=all
@@ -131027,6 +131064,7 @@ unjaded=JJ=all
 unjaundiced=JJ=all
 unjealous=JJ=all
 unjealously=RB=all
+unjeopardized|unjeopardised=JJ=us,ca,gb|gb,au,nz,za
 unjointed=JJ=all
 unjokingly=RB=all
 unjolly=RB=all
@@ -131102,6 +131140,7 @@ unleased=JJ=all
 unleash=verb=all
 unleavened=JJ=all
 unled=JJ=all
+unlegalized|unlegalised=JJ=us,ca,gb|gb,au,nz,za
 unleisurely=RB=all
 unleniently=RB=all
 unless=IN=all
@@ -131193,6 +131232,7 @@ unluxuriously=RB=all
 unlyrically=RB=all
 unmagically=RB=all
 unmagnanimously=RB=all
+unmagnetized|unmagnetised=JJ=us,ca,gb|gb,au,nz,za
 unmagnified=JJ=all
 unmaidenly=RB=all
 unmaintainable=JJ=all
@@ -131260,6 +131300,7 @@ unmatched=JJ=all
 unmatching=JJ=all
 unmaterial=JJ=all
 unmaterialistically=RB=all
+unmaterialized|unmaterialised=JJ=us,ca,gb|gb,au,nz,za
 unmaternal=JJ=all
 unmaternally=RB=all
 unmathematical=JJ=all
@@ -131348,6 +131389,7 @@ unmindful=JJ=all
 unmindfully=RB=all
 unmindfulness=NN:U=all
 unmined=JJ=all
+unmineralized|unmineralised=JJ=us,ca,gb|gb,au,nz,za
 unministerial=JJ=all
 unministerially=RB=all
 unmiraculous=JJ=all
@@ -131425,6 +131467,7 @@ unnamable=JJ=all
 unnameable=JJ=all
 unnamed=JJ=all
 unnational=JJ=all
+unnationalized|unnationalised=JJ=us,ca,gb|gb,au,nz,za
 unnatural=JJ=all
 unnaturalize|unnaturalise=verb=us,ca,gb|gb,au,nz,za
 unnaturally=RB=all
@@ -131456,6 +131499,7 @@ unnilpentium=noun=all
 unnilquadium=noun=all
 unnimbleness=NN:U=all
 unnimbly=RB=all
+unnormalized|unnormalised=JJ=us,ca,gb|gb,au,nz,za
 unnoted=JJ=all
 unnoticeable=JJ=all
 unnoticeableness=NN:U=all
@@ -131515,6 +131559,7 @@ unordered=JJ=all
 unordinarily=RB=all
 unordinary=JJ=all
 unorganically=RB=all
+unorganizable|unorganisable=JJ=us,ca,gb|gb,au,nz,za
 unorganized|unorganised=JJ=us,ca,gb|gb,au,nz,za
 unoriginal=JJ=all
 unoriginality=NN:UN=all
@@ -131563,6 +131608,7 @@ unparented=JJ=all
 unparliamentary=JJ=all
 unparsed=JJ=all
 unparsimoniously=RB=all
+unparticularized|unparticularised=JJ=us,ca,gb|gb,au,nz,za
 unpartizan=JJ=all
 unpassable=JJ=all
 unpassionate=JJ=all
@@ -131699,6 +131745,7 @@ unpolitical=JJ=all
 unpolitically=RB=all
 unpolled=JJ=all
 unpolluted=JJ=all
+unpolymerized|unpolymerised=JJ=us,ca,gb|gb,au,nz,za
 unpompously=RB=all
 unpompousness=NN:U=all
 unpopped=JJ=all
@@ -132525,6 +132572,7 @@ unsprightly=RB=all
 unsprung=JJ=all
 unsqueamishly=RB=all
 unsqueamishness=NN:U=all
+unstabilized|unstabilised=JJ=us,ca,gb|gb,au,nz,za
 unstable=unstable/JJ,unstabler/JJR,unstablest/JJS=all
 unstableness=NN:U=all
 unstably=RB=all
@@ -132621,6 +132669,8 @@ unsuitableness=NN:U=all
 unsuitably=RB=all
 unsuited=JJ=all
 unsullied=JJ=all
+unsummarizable|unsummarisable=JJ=us,ca,gb|gb,au,nz,za
+unsummarized|unsummarised=JJ=us,ca,gb|gb,au,nz,za
 unsummoned=JJ=all
 unsung=JJ=all
 unsuperfluousness=NN:U=all
@@ -132671,6 +132721,7 @@ unswervingly=RB=all
 unswervingness=NN:U=all
 unswollen=JJ=all
 unsymbolically=RB=all
+unsymbolized|unsymbolised=JJ=us,ca,gb|gb,au,nz,za
 unsymmetrical=JJ=all
 unsymmetrically=RB=all
 unsympathetic=JJ=all
@@ -132678,9 +132729,11 @@ unsympathetically=RB=all
 unsympathizingly=RB=all
 unsynchronized|unsynchronised=JJ=us,ca,gb|gb,au,nz,za
 unsyntactically=RB=all
+unsynthesized|unsynthesised=JJ=us,ca,gb|gb,au,nz,za
 unsystematic=JJ=all
 unsystematical=JJ=all
 unsystematically=RB=all
+unsystematized|unsystematised=JJ=us,ca,gb|gb,au,nz,za
 untactful=JJ=all
 untactfully=RB=all
 untag [-gg-]=verb=all
@@ -132978,6 +133031,7 @@ unwell=JJ=all
 unwell=NN=all
 unwellness=NN:U=all
 unwept=JJ=all
+unwesternized|unwesternised=JJ=us,ca,gb|gb,au,nz,za
 unwholesome=JJ=all
 unwholesomely=RB=all
 unwholesomeness=NN:U=all
