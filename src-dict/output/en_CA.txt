@@ -1024,6 +1024,7 @@ calendarized
 calendarizes
 calendarizing
 calibre
+calibred
 calibres
 callisthenic
 callisthenics
@@ -1291,6 +1292,10 @@ child-centred
 chili
 chilies
 chilis
+chloridize
+chloridized
+chloridizes
+chloridizing
 chloritization
 chloritizations
 chorization
@@ -3465,6 +3470,7 @@ hierarchize
 hierarchized
 hierarchizes
 hierarchizing
+high-calibre
 high-coloured
 hightail
 hightailed
@@ -7519,6 +7525,7 @@ stylizes
 stylizing
 sub-armour
 sub-armours
+subcalibre
 subcategorization
 subcategorizations
 subcategorize

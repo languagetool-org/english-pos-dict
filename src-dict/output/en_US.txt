@@ -626,6 +626,7 @@ antidefense
 antifeudalization
 antiglobalization
 antilabor
+antilevelling
 antimechanization
 antimodernization
 antimonopolization
@@ -1051,6 +1052,7 @@ calendarized
 calendarizes
 calendarizing
 caliber
+calibered
 calibers
 calk
 calked
@@ -1340,6 +1342,10 @@ chisel
 chiseled
 chiseling
 chisels
+chloridize
+chloridized
+chloridizes
+chloridizing
 chloritization
 chloritizations
 chorization
@@ -3632,6 +3638,7 @@ hierarchize
 hierarchized
 hierarchizes
 hierarchizing
+high-caliber
 high-colored
 hightail
 hightailed
@@ -4318,6 +4325,7 @@ leveled
 leveler
 levelers
 leveling
+levelings
 levels
 lexicalization
 lexicalizations
@@ -7852,6 +7860,7 @@ stylizes
 stylizing
 sub-armor
 sub-armors
+subcaliber
 subcategorization
 subcategorizations
 subcategorize

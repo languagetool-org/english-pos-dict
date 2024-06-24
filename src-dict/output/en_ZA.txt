@@ -6579,6 +6579,7 @@ calendarised
 calendarises
 calendarising
 calibre
+calibred
 calibres
 calisthenic
 calisthenics
@@ -6836,6 +6837,10 @@ chequering
 chequers
 cheques
 child-centred
+chloridise
+chloridised
+chloridises
+chloridising
 chloritisation
 chloritisations
 chorisation
@@ -9001,6 +9006,7 @@ hierarchise
 hierarchised
 hierarchises
 hierarchising
+high-calibre
 high-coloured
 hispanicisation
 hispanicisations
@@ -13063,6 +13069,7 @@ stylises
 stylising
 sub-armour
 sub-armours
+subcalibre
 subcategorisation
 subcategorisations
 subcategorise

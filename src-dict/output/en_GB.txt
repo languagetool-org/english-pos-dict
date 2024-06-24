@@ -1882,6 +1882,7 @@ calendarized
 calendarizes
 calendarizing
 calibre
+calibred
 calibres
 calisthenic
 calisthenics
@@ -2347,6 +2348,14 @@ childmind
 childminded
 childminding
 childminds
+chloridise
+chloridised
+chloridises
+chloridising
+chloridize
+chloridized
+chloridizes
+chloridizing
 chloritisation
 chloritisations
 chloritization
@@ -6244,6 +6253,7 @@ hierarchize
 hierarchized
 hierarchizes
 hierarchizing
+high-calibre
 high-coloured
 hispanicisation
 hispanicisations
@@ -13481,6 +13491,7 @@ stylizes
 stylizing
 sub-armour
 sub-armours
+subcalibre
 subcategorisation
 subcategorisations
 subcategorise
