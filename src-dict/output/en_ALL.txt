@@ -38694,6 +38694,8 @@ abiogenetic
 abiogenetically
 abiogenic
 abiogenically
+abioses
+abiosis
 abiotic
 abiotically
 abiotrophic
@@ -39821,6 +39823,8 @@ actinomycetes
 actinomycetous
 actinomycin
 actinomycins
+actinomycoses
+actinomycosis
 actinomycotic
 actinopod
 actinopterygian
@@ -40038,6 +40042,8 @@ adenines
 adenocarcinoma
 adenocarcinomas
 adenocarcinomatous
+adenohypophyses
+adenohypophysis
 adenoid
 adenoidal
 adenoidectomies
@@ -40050,8 +40056,10 @@ adenomatous
 adenomyosis
 adenopathy
 adenophyllous
+adenoses
 adenosine
 adenosines
+adenosis
 adenoviral
 adenovirus
 adenoviruses
@@ -40111,6 +40119,8 @@ adipocytes
 adiponitrile
 adipose
 adiposeness
+adiposes
+adiposis
 adiposities
 adiposity
 adit
@@ -40657,6 +40667,8 @@ aeronautical
 aeronautically
 aeronautics
 aeronauts
+aeroneuroses
+aeroneurosis
 aerophilatelic
 aerophobia
 aerophobias
@@ -42512,6 +42524,8 @@ ameba
 amebae
 ameban
 amebas
+amebiases
+amebiasis
 amebic
 ameboid
 amebous
@@ -42671,6 +42685,8 @@ amoebaean
 amoebalike
 amoeban
 amoebas
+amoebiases
+amoebiasis
 amoebic
 amoeboid
 amoebous
@@ -42704,6 +42720,7 @@ amoxicillins
 amp
 amped
 ampelitic
+ampelopsis
 amperage
 amperages
 ampere
@@ -42714,6 +42731,8 @@ ampersands
 amphetamine
 amphetamines
 amphiarthrodial
+amphiarthroses
+amphiarthrosis
 amphibian
 amphibians
 amphibiotic
@@ -42850,7 +42869,10 @@ amylases
 amylic
 amyloid
 amyloidal
+amyloidoses
+amyloidosis
 amyloids
+amylolysis
 amylolytic
 amylopectin
 amylopectins
@@ -42880,6 +42902,8 @@ anachronous
 anachronously
 anaclastic
 anaclinal
+anaclises
+anaclisis
 anaclitic
 anacoluthically
 anacoluthon
@@ -42889,6 +42913,8 @@ anacondas
 anacoustic
 anacreontically
 anacrogynous
+anacruses
+anacrusis
 anacrustic
 anacrustically
 anacusic
@@ -42899,6 +42925,8 @@ anaerobe
 anaerobes
 anaerobic
 anaerobically
+anaerobioses
+anaerobiosis
 anaerobiotically
 anageneses
 anagenesis
@@ -43000,6 +43028,8 @@ anaphylaxes
 anaphylaxis
 anaplasia
 anaplasias
+anaplasmoses
+anaplasmosis
 anaplastic
 anapophysial
 anaptotic
@@ -43090,6 +43120,8 @@ anchoveta
 anchovetas
 anchovies
 anchovy
+anchyloses
+anchylosis
 anchylotic
 ancient
 ancienter
@@ -43101,6 +43133,8 @@ ancillaries
 ancillary
 anconal
 anconoid
+ancylostomiases
+ancylostomiasis
 and
 andante
 andantes
@@ -43122,6 +43156,8 @@ androecia
 androecial
 androecium
 androgen
+androgeneses
+androgenesis
 androgenetic
 androgenic
 androgens
@@ -43172,6 +43208,8 @@ anemometry
 anemone
 anemones
 anemophilous
+anemoses
+anemosis
 anemotropic
 anencephalic
 anepigraphic
@@ -43399,6 +43437,9 @@ ankylose
 ankylosed
 ankyloses
 ankylosing
+ankylosis
+ankylostomiases
+ankylostomiasis
 ankylotic
 anlace
 anlaces
@@ -43515,6 +43556,8 @@ anodic
 anodically
 anodyne
 anodynes
+anoeses
+anoesis
 anogenital
 anoint
 anointed
@@ -43726,6 +43769,8 @@ anthropocentric
 anthropocentrically
 anthropocentrism
 anthropocentrisms
+anthropogeneses
+anthropogenesis
 anthropogenetic
 anthropogenic
 anthropogeographic
@@ -44458,6 +44503,8 @@ antipatriarchal
 antipatriarchally
 antipatriotic
 antiperiodic
+antiperistalses
+antiperistalsis
 antiperistaltic
 antipersonnel
 antiperspirant
@@ -44477,6 +44524,8 @@ antiphonic
 antiphonically
 antiphons
 antiphospholipid
+antiphrases
+antiphrasis
 antiphrastic
 antiphrastical
 antiphrastically
@@ -44512,6 +44561,8 @@ antiprotons
 antipsychotic
 antipsychotics
 antipuritan
+antipyreses
+antipyresis
 antipyretic
 antipyretics
 antipyrotic
@@ -44743,6 +44794,8 @@ anucleate
 anudātta
 anuran
 anurans
+anureses
+anuresis
 anuretic
 anuria
 anurias
@@ -44846,6 +44899,8 @@ apheliotropically
 aphereses
 apheresis
 apheretic
+apheses
+aphesis
 aphetically
 aphid
 aphides
@@ -44896,6 +44951,8 @@ aplomb
 aplombs
 apneal
 apneic
+apneuses
+apneusis
 apneustic
 apnoeal
 apnoeic
@@ -44977,7 +45034,9 @@ apophyllite
 apophyllites
 apophysate
 apophyseal
+apophyses
 apophysial
+apophysis
 apoplectic
 apoplectically
 apoplectiform
@@ -45751,6 +45810,8 @@ arhythmical
 arhythmically
 aria
 arias
+ariboflavinoses
+ariboflavinosis
 arid
 arider
 aridest
@@ -45986,8 +46047,10 @@ arsenites
 arsenopyrite
 arsenopyrites
 arsenous
+arses
 arsine
 arsines
+arsis
 arson
 arsonist
 arsonists
@@ -46035,6 +46098,8 @@ arthritic
 arthritics
 arthritides
 arthritis
+arthrodeses
+arthrodesis
 arthrodial
 arthrogram
 arthrograms
@@ -46179,6 +46244,8 @@ ascertaining
 ascertainment
 ascertainments
 ascertains
+asceses
+ascesis
 ascetic
 ascetical
 ascetically
@@ -46256,6 +46323,8 @@ askance
 asked
 asker
 askers
+askeses
+askesis
 askew
 askewness
 asking
@@ -46753,6 +46822,8 @@ asymptotes
 asymptotic
 asymptotically
 asymptotics
+asynapses
+asynapsis
 async
 asynchronism
 asynchronisms
@@ -46812,9 +46883,13 @@ athenaea
 athenaeum
 athenaeums
 athermanous
+atherogeneses
+atherogenesis
 atheroma
 atheromas
 atheromatic
+atheromatoses
+atheromatosis
 atheromatous
 atheroscleroses
 atherosclerosis
@@ -46833,6 +46908,8 @@ athleticisms
 athletics
 athonite
 athrill
+athrocytoses
+athrocytosis
 athwart
 athwartships
 atilt
@@ -46846,6 +46923,8 @@ atlases
 atm
 atman
 atmans
+atmolyses
+atmolysis
 atmometer
 atmometers
 atmosphere
@@ -47719,6 +47798,8 @@ autunites
 aux
 auxanometer
 auxanometers
+auxeses
+auxesis
 auxetic
 auxiliaries
 auxiliary
@@ -47802,6 +47883,8 @@ averting
 averts
 aves
 avg
+avgas
+avgases
 avian
 avians
 aviaries
@@ -48062,6 +48145,10 @@ babel
 babelike
 babels
 babes
+babesiases
+babesiasis
+babesioses
+babesiosis
 babied
 babier
 babies
@@ -51224,6 +51311,8 @@ biocatalyst
 biocatalysts
 biocatalytic
 biocellate
+biocenoses
+biocenosis
 biocentric
 biocentrically
 biochemic
@@ -51238,6 +51327,8 @@ biocide
 biocides
 bioclimatic
 bioclimatological
+biocoenoses
+biocoenosis
 biocompatibilities
 biocompatibility
 biocompatible
@@ -51355,6 +51446,8 @@ biology
 bioluminescence
 bioluminescences
 bioluminescent
+biolyses
+biolysis
 biolytic
 biomagnetic
 biomagnification
@@ -52009,10 +52102,14 @@ blastodermic
 blastoderms
 blastoff
 blastoffs
+blastogeneses
+blastogenesis
 blastogenetic
 blastomere
 blastomeres
 blastomeric
+blastomycoses
+blastomycosis
 blastomycotic
 blastoporal
 blastoporic
@@ -54250,6 +54347,8 @@ briquet
 briquets
 briquette
 briquettes
+bris
+brises
 brisk
 brisked
 brisker
@@ -54260,6 +54359,7 @@ brisking
 briskly
 briskness
 brisks
+brisses
 bristle
 bristled
 bristleless
@@ -55465,6 +55565,8 @@ butterflylike
 butterier
 butteries
 butteriest
+butterine
+butterines
 butteriness
 buttering
 butterless
@@ -55804,6 +55906,8 @@ caducity
 caducous
 caecilian
 caecilians
+caenogeneses
+caenogenesis
 caenogenetic
 caesalpiniaceous
 caesarean
@@ -55958,6 +56062,8 @@ calcine
 calcined
 calcines
 calcining
+calcinoses
+calcinosis
 calciphobous
 calcite
 calcites
@@ -57514,6 +57620,8 @@ casuists
 cat
 cat-and-dog
 cat-friendly
+catabases
+catabasis
 catabatic
 catabolic
 catabolically
@@ -57526,6 +57634,8 @@ catachresis
 catachrestic
 catachrestical
 catachrestically
+cataclases
+cataclasis
 cataclinal
 cataclysm
 cataclysmal
@@ -57570,6 +57680,8 @@ catamaran
 catamarans
 catamenial
 catamnestic
+cataphoreses
+cataphoresis
 cataphoretic
 cataphracted
 cataphractic
@@ -57589,6 +57701,8 @@ catarrhal
 catarrhally
 catarrhine
 catarrhs
+catastases
+catastasis
 catastrophe
 catastrophes
 catastrophic
@@ -58059,6 +58173,8 @@ cenobites
 cenobitic
 cenobitical
 cenobitically
+cenogeneses
+cenogenesis
 cenogenetic
 cenotaph
 cenotaphic
@@ -58110,8 +58226,10 @@ centenary
 centennial
 centennially
 centennials
+centeses
 centesimal
 centesimally
+centesis
 centiampere
 centiamperes
 centibecquerel
@@ -58678,6 +58796,7 @@ chaotically
 chap
 chapbook
 chapbooks
+chape
 chapeau
 chapeaus
 chapeaux
@@ -58693,6 +58812,7 @@ chaperones
 chaperoning
 chaperonless
 chaperons
+chapes
 chapfallen
 chaplain
 chaplaincies
@@ -58728,6 +58848,7 @@ characterological
 characters
 charade
 charades
+charas
 charbroil
 charbroiled
 charbroiling
@@ -59119,6 +59240,8 @@ chemists
 chemo
 chemoautotroph
 chemoautotrophs
+chemokineses
+chemokinesis
 chemokinetic
 chemopreventive
 chemoprophylactic
@@ -59733,6 +59856,8 @@ cholerically
 cholericly
 cholericness
 cholers
+cholestases
+cholestasis
 cholesterol
 cholesterols
 cholestyramine
@@ -59904,6 +60029,8 @@ chromatographies
 chromatographs
 chromatography
 chromatoid
+chromatolyses
+chromatolysis
 chromatolytic
 chromatophoric
 chrome
@@ -63420,6 +63547,7 @@ computer-controlled
 computer-generated
 computer-related
 computerate
+computerese
 computerless
 computerlike
 computers
@@ -64196,6 +64324,8 @@ conifer
 coniferous
 conifers
 coning
+conioses
+coniosis
 conirostral
 conium
 coniums
@@ -66341,6 +66471,8 @@ counterforces
 counterguerilla
 counterguerillas
 counterhegemonic
+counterhypotheses
+counterhypothesis
 counterimage
 counterimages
 countering
@@ -68041,6 +68173,8 @@ cryptoanalytics
 cryptobiotic
 cryptoclastic
 cryptococcal
+cryptococcoses
+cryptococcosis
 cryptocrystalline
 cryptogam
 cryptogamic
@@ -68079,6 +68213,8 @@ cryptophytic
 cryptorchidism
 cryptorchidisms
 cryptos
+cryptosporidioses
+cryptosporidiosis
 cryptovolcanic
 cryptozoologies
 cryptozoology
@@ -68901,6 +69037,8 @@ cyclotomic
 cyclotrimethylenetrinitramine
 cyclotron
 cyclotrons
+cyeses
+cyesis
 cygnet
 cygnets
 cylinder
@@ -68962,6 +69100,8 @@ cystectomy
 cysteine
 cysteines
 cystic
+cysticercoses
+cysticercosis
 cystitides
 cystitis
 cystocele
@@ -69511,6 +69651,8 @@ dauntlessly
 dauntlessness
 daunts
 dauphin
+dauphine
+dauphines
 dauphins
 davenport
 davenports
@@ -71887,6 +72029,8 @@ dermatomic
 dermatophyte
 dermatophytes
 dermatophytic
+dermatophytoses
+dermatophytosis
 dermatoplastic
 dermatoses
 dermatosis
@@ -72831,15 +72975,20 @@ diaphyseal
 diaphyses
 diaphysial
 diaphysis
+diapophyses
 diapophysial
+diapophysis
 diapositive
 diapositives
+diapyesis
 diarchic
 diaries
 diarist
 diaristic
 diarists
 diarthrodial
+diarthroses
+diarthrosis
 diary
 diaspora
 diasporas
@@ -73014,6 +73163,8 @@ dieback
 diebacks
 diecious
 died
+diegeses
+diegesis
 diegetic
 diehard
 diehards
@@ -73039,6 +73190,7 @@ dieseled
 dieseling
 diesels
 dieses
+diesis
 diestock
 diestocks
 diestrous
@@ -73471,6 +73623,8 @@ dioramic
 diorite
 diorites
 dioritic
+diorthoses
+diorthosis
 diorthotic
 diosmectite
 diotic
@@ -77285,6 +77439,8 @@ dysfunctionalities
 dysfunctionality
 dysfunctionally
 dysfunctions
+dysgeneses
+dysgenesis
 dysgenic
 dysgenics
 dysgonic
@@ -77772,6 +77928,8 @@ ecotype
 ecotypes
 ecotypic
 ecotypically
+ecphoneses
+ecphonesis
 ecru
 ecrus
 ecstasies
@@ -77781,7 +77939,11 @@ ecstatically
 ectad
 ectal
 ectally
+ectases
+ectasis
 ectatic
+ecthlipses
+ecthlipsis
 ecthymatous
 ecto
 ectoblastic
@@ -77790,6 +77952,8 @@ ectoderm
 ectodermal
 ectodermic
 ectoderms
+ectogeneses
+ectogenesis
 ectogenetic
 ectogenous
 ectomeric
@@ -78248,6 +78412,8 @@ einkorns
 einsteinium
 einsteiniums
 eirenic
+eisegeses
+eisegesis
 eisegetic
 eisegetical
 eisteddfod
@@ -78440,6 +78606,8 @@ electrodepositions
 electrodes
 electrodiagnostic
 electrodiagnostically
+electrodialyses
+electrodialysis
 electrodynamic
 electrodynamically
 electrodynamics
@@ -78455,6 +78623,8 @@ electroencephalographies
 electroencephalographs
 electroencephalography
 electrofiltration
+electrogeneses
+electrogenesis
 electrographic
 electrohydraulic
 electrokinetic
@@ -78503,6 +78673,8 @@ electronica
 electronically
 electronics
 electrons
+electroosmoses
+electroosmosis
 electroosmotic
 electroosmotically
 electrophilic
@@ -79349,6 +79521,8 @@ encirclings
 encl
 enclave
 enclaves
+enclises
+enclisis
 enclitic
 enclitically
 enclitics
@@ -79603,6 +79777,8 @@ endoskeleton
 endoskeletons
 endosmometer
 endosmometers
+endosmoses
+endosmosis
 endosmotic
 endosmotically
 endosomal
@@ -80064,6 +80240,8 @@ enterings
 enteritides
 enteritis
 enteritises
+enterobiases
+enterobiasis
 enterococci
 enterococcus
 enterocolitis
@@ -80388,6 +80566,8 @@ eosinophils
 eosins
 epact
 epacts
+epanorthoses
+epanorthosis
 eparch
 eparchial
 eparchies
@@ -80520,6 +80700,8 @@ epigastrium
 epigastriums
 epigeal
 epigene
+epigeneses
+epigenesis
 epigenetic
 epigenetically
 epigenetics
@@ -80644,6 +80826,8 @@ epistyles
 epitaph
 epitaphless
 epitaphs
+epitases
+epitasis
 epitaxial
 epitaxially
 epitaxic
@@ -80659,6 +80843,8 @@ epitheliomuscular
 epithelium
 epitheliums
 epithermal
+epitheses
+epithesis
 epithet
 epithetic
 epithetical
@@ -80929,6 +81115,8 @@ erosionally
 erosions
 erosive
 erosiveness
+eroteses
+erotesis
 erotic
 erotica
 erotically
@@ -82494,6 +82682,8 @@ exordiums
 exoskeletal
 exoskeleton
 exoskeletons
+exosmoses
+exosmosis
 exosmotic
 exosphere
 exospheres
@@ -83958,6 +84148,8 @@ fascinator
 fascinators
 fascine
 fascines
+fascioliases
+fascioliasis
 fascism
 fascisms
 fascist
@@ -84754,7 +84946,6 @@ fettles
 fettling
 fettlings
 fettuccine
-fettuccines
 fetus
 fetuses
 feud
@@ -84840,8 +85031,10 @@ fibrin
 fibrinogen
 fibrinogenic
 fibrinogens
+fibrinolyses
 fibrinolysin
 fibrinolysins
+fibrinolysis
 fibrinolytic
 fibrinous
 fibrins
@@ -86574,6 +86767,8 @@ fluoroscopic
 fluoroscopically
 fluoroscopies
 fluoroscopy
+fluoroses
+fluorosis
 fluorous
 fluorspar
 fluorspars
@@ -86739,12 +86934,6 @@ foehns
 foeman
 foemen
 foes
-foetal
-foeticidal
-foetid
-foetidly
-foetidness
-foetiparous
 fog
 fogbound
 fogeydom
@@ -88442,6 +88631,10 @@ frontline
 frontman
 frontmen
 frontmost
+frontogeneses
+frontogenesis
+frontolyses
+frontolysis
 fronton
 frontons
 frontoparietal
@@ -89490,6 +89683,8 @@ gamma
 gammas
 gammon
 gammons
+gamogeneses
+gamogenesis
 gamogenetic
 gamogenetically
 gamopetalous
@@ -91168,6 +91363,8 @@ glints
 glioma
 gliomas
 gliomatous
+glioses
+gliosis
 glissade
 glissaded
 glissades
@@ -91457,6 +91654,8 @@ glycogeneses
 glycogenesis
 glycogenetic
 glycogenic
+glycogenolyses
+glycogenolysis
 glycogenolytic
 glycogens
 glycol
@@ -91746,6 +91945,8 @@ golliwogs
 golly
 gomasio
 gomasios
+gomphoses
+gomphosis
 gonad
 gonadal
 gonadial
@@ -92004,6 +92205,7 @@ government
 governmental
 governmentality
 governmentally
+governmentese
 governments
 governmentwide
 governor
@@ -92298,11 +92500,15 @@ granuloblastic
 granulocyte
 granulocytes
 granulocytic
+granulocytopoieses
+granulocytopoiesis
 granuloma
 granulomas
 granulomatous
 granulometry
 granulose
+granuloses
+granulosis
 grape
 grapefruit
 grapefruits
@@ -93613,6 +93819,8 @@ gynocentric
 gynodioecious
 gynoecium
 gynoeciums
+gynogeneses
+gynogenesis
 gynomonoecious
 gyp
 gypped
@@ -93790,6 +93998,8 @@ haematozoic
 haemic
 haemocytometer
 haemocytometers
+haemodialyses
+haemodialysis
 haemodynamic
 haemoglobinous
 haemoid
@@ -95723,6 +95933,8 @@ hemagglutinative
 hematic
 hematinic
 hematocryal
+hematogeneses
+hematogenesis
 hematogenous
 hematoid
 hematopoieses
@@ -95829,6 +96041,8 @@ hemorrhoidectomies
 hemorrhoidectomy
 hemorrhoids
 hemosiderotic
+hemostases
+hemostasis
 hemostatic
 hemostatics
 hemotoxic
@@ -96192,6 +96406,8 @@ heterogeneity
 heterogeneous
 heterogeneously
 heterogeneousness
+heterogeneses
+heterogenesis
 heterogenetic
 heterogenous
 heterogonously
@@ -96259,6 +96475,8 @@ heterotrophies
 heterotrophs
 heterotrophy
 heterotypic
+heterozygoses
+heterozygosis
 heterozygosities
 heterozygosity
 heterozygote
@@ -96399,6 +96617,8 @@ hiders
 hides
 hiding
 hidings
+hidroses
+hidrosis
 hidrotic
 hie
 hied
@@ -97411,6 +97631,8 @@ homothermic
 homothetic
 homotypic
 homotypical
+homozygoses
+homozygosis
 homozygote
 homozygotes
 homozygous
@@ -98604,6 +98826,8 @@ hydrogenating
 hydrogenation
 hydrogenations
 hydrogenic
+hydrogenolyses
+hydrogenolysis
 hydrogenous
 hydrogens
 hydrogeologic
@@ -98994,6 +99218,8 @@ hyperkalemic
 hyperkeratoses
 hyperkeratosis
 hyperkeratotic
+hyperkineses
+hyperkinesis
 hyperkinetic
 hyperlethal
 hyperlink
@@ -99196,6 +99422,8 @@ hypnoanalysis
 hypnoanalytic
 hypnobirth
 hypnobirthing
+hypnogeneses
+hypnogenesis
 hypnogenetic
 hypnoid
 hypnoidal
@@ -100232,6 +100460,8 @@ immunocompromised
 immunodeficiencies
 immunodeficiency
 immunodeficient
+immunodiagnoses
+immunodiagnosis
 immunofluorescence
 immunofluorescences
 immunogen
@@ -106879,6 +107109,8 @@ karyotypings
 kas
 kashrut
 kashruts
+katabases
+katabasis
 katabatic
 katabolic
 katakana
@@ -107065,6 +107297,8 @@ ketchups
 keto
 keto-friendly
 ketoacidosis
+ketogeneses
+ketogenesis
 ketogenetic
 ketogenic
 ketolytic
@@ -109596,6 +109830,8 @@ leucocratic
 leucocythaemic
 leucocythemic
 leucocytic
+leucocytoses
+leucocytosis
 leucoderma
 leucodermas
 leucoma
@@ -109607,10 +109843,16 @@ leucoplasts
 leucopoietic
 leucorrheal
 leucorrhoeal
+leucoses
+leucosis
 leucotic
 leucotomies
 leucotomy
+leukaemogeneses
+leukaemogenesis
 leukaemogenic
+leukemogeneses
+leukemogenesis
 leukemoid
 leukoblastic
 leukocyte
@@ -110456,6 +110698,8 @@ lipless
 liplike
 lipline
 liplines
+lipogeneses
+lipogenesis
 lipogram
 lipogrammatic
 lipogrammatism
@@ -112078,13 +112322,19 @@ lymphoblasts
 lymphocyte
 lymphocytes
 lymphocytic
+lymphocytoses
+lymphocytosis
 lymphocytotic
 lymphoid
 lymphoma
 lymphomas
 lymphomata
 lymphomatoid
+lymphomatoses
+lymphomatosis
 lymphomatous
+lymphopoieses
+lymphopoiesis
 lymphoproliferative
 lymphosarcoma
 lymphosarcomas
@@ -112250,6 +112500,8 @@ macrocosms
 macrocycle
 macrocycles
 macrocytic
+macrocytoses
+macrocytosis
 macrodont
 macroeconomic
 macroeconomics
@@ -114517,6 +114769,8 @@ megasieverts
 megaspore
 megaspores
 megasporic
+megasporogeneses
+megasporogenesis
 megastar
 megastars
 megasteradian
@@ -114590,6 +114844,8 @@ melanitic
 melanocyte
 melanocytes
 melanocytic
+melanogeneses
+melanogenesis
 melanoid
 melanoma
 melanomas
@@ -114946,6 +115202,8 @@ meringue
 meringues
 merino
 merinos
+merises
+merisis
 meristem
 meristematic
 meristematically
@@ -115125,6 +115383,8 @@ mestizoes
 mestizos
 met
 meta
+metabases
+metabasis
 metabiotic
 metabiotically
 metabolic
@@ -115620,6 +115880,9 @@ microcopying
 microcosm
 microcosmic
 microcosmical
+microcosmoi
+microcosmos
+microcosmoses
 microcosms
 microcoulomb
 microcoulombs
@@ -115648,6 +115911,8 @@ microeconomic
 microeconomics
 microelectronic
 microelectronics
+microelectrophoreses
+microelectrophoresis
 microelectrophoretic
 microencapsulate
 microencapsulated
@@ -115880,6 +116145,8 @@ microsporangium
 microspore
 microspores
 microsporic
+microsporogeneses
+microsporogenesis
 microstate
 microstates
 microsteradian
@@ -116893,6 +117160,8 @@ miseducate
 miseducated
 miseducates
 miseducating
+misemphases
+misemphasis
 misemploy
 misemployed
 misemploying
@@ -117761,6 +118030,8 @@ monies
 moniker
 monikers
 monilial
+moniliases
+moniliasis
 moniliform
 monism
 monisms
@@ -118354,6 +118625,8 @@ morphometrically
 morphonemic
 morphophonemic
 morphophonemics
+morphoses
+morphosis
 morphosyntactic
 morphotic
 morphotonemic
@@ -119743,6 +120016,8 @@ myalgias
 myalgic
 myall
 myalls
+myases
+myasis
 myasthenia
 myasthenias
 myasthenic
@@ -119843,8 +120118,10 @@ myopias
 myopic
 myopically
 myopics
+myoses
 myosin
 myosins
+myosis
 myositis
 myositises
 myosotis
@@ -119927,6 +120204,8 @@ mythology
 mythomania
 mythomanias
 mythopoeic
+mythopoeses
+mythopoesis
 mythos
 myths
 myxoedematous
@@ -119944,6 +120223,7 @@ mésalliance
 mésalliances
 métier
 métiers
+métis
 mézair
 mézairs
 mûmak
@@ -120214,6 +120494,8 @@ narcoleptics
 narcomaniacal
 narcoses
 narcosis
+narcosyntheses
+narcosynthesis
 narcotic
 narcotically
 narcotics
@@ -120567,6 +120849,8 @@ necktieless
 neckwear
 necro-cannibalism
 necro-cannibalisms
+necrobioses
+necrobiosis
 necrolatries
 necrolatry
 necrologic
@@ -120806,6 +121090,8 @@ neodymiums
 neoevangelicalism
 neoevangelicalisms
 neoformative
+neogeneses
+neogenesis
 neogrammarian
 neogrammarians
 neoliberal
@@ -122586,6 +122872,8 @@ noncrenate
 noncretaceous
 noncriminal
 noncrinoid
+noncrises
+noncrisis
 noncritically
 noncrucial
 noncruciform
@@ -126463,6 +126751,8 @@ onslaught
 onslaughts
 onstage
 onto
+ontogeneses
+ontogenesis
 ontogenetic
 ontogenetical
 ontogenetically
@@ -127165,6 +127455,8 @@ ornithopods
 ornithopter
 ornithopters
 ornithorhynchus
+ornithoses
+ornithosis
 orné
 orobanchaceous
 orodispersible
@@ -127366,11 +127658,15 @@ osteoblast
 osteoblastic
 osteoblasts
 osteochondral
+osteoclases
+osteoclasis
 osteoclast
 osteoclastic
 osteoclasts
 osteocyte
 osteocytes
+osteogeneses
+osteogenesis
 osteogenetic
 osteogenic
 osteoid
@@ -129690,6 +129986,8 @@ paduasoys
 paean
 paeans
 paederastic
+paedogeneses
+paedogenesis
 paedogenetic
 paedogenic
 paedophilic
@@ -130134,6 +130432,8 @@ panfuls
 pang
 panga
 pangas
+pangeneses
+pangenesis
 pangenetic
 pangless
 panglobal
@@ -130383,6 +130683,8 @@ parabases
 parabasis
 paraben
 parabens
+parabioses
+parabiosis
 parablastic
 parable
 parables
@@ -130444,6 +130746,8 @@ paraffin
 paraffinic
 paraffinoid
 paraffins
+parageneses
+paragenesis
 paragenetic
 parageusic
 paraglider
@@ -130471,6 +130775,10 @@ paraldehyde
 paraldehydes
 paralegal
 paralegals
+paraleipses
+paraleipsis
+paralepses
+paralepsis
 paralexic
 paralinguistic
 paralinguistics
@@ -130556,6 +130864,8 @@ paranoids
 paranormal
 paranormally
 paranormals
+parapareses
+paraparesis
 parapet
 parapeted
 parapetless
@@ -130575,6 +130885,8 @@ paraphrasing
 paraphrastic
 paraphrastically
 paraphysate
+paraphyses
+paraphysis
 paraplegia
 paraplegias
 paraplegic
@@ -130582,6 +130894,8 @@ paraplegics
 parapodia
 parapodial
 parapodium
+parapophyses
+parapophysis
 paraprofessional
 paraprofessionals
 parapsychological
@@ -130623,6 +130937,8 @@ parasitologies
 parasitologist
 parasitologists
 parasitology
+parasitoses
+parasitosis
 parasol
 parasols
 parasomnia
@@ -131778,6 +132094,8 @@ pedimented
 pediments
 pedipalpal
 pedodontic
+pedogeneses
+pedogenesis
 pedological
 pedologies
 pedologist
@@ -132505,6 +132823,8 @@ peridot
 peridotic
 peridotitic
 peridots
+periegeses
+periegesis
 perigeal
 perigean
 perigee
@@ -133224,6 +133544,8 @@ petrochemistries
 petrochemistry
 petrodollar
 petrodollars
+petrogeneses
+petrogenesis
 petrogenetic
 petroglyph
 petroglyphs
@@ -133497,6 +133819,8 @@ phenylketonurics
 phenyls
 phenytoin
 phenytoins
+phereses
+pheresis
 pheromonal
 pheromone
 pheromones
@@ -133722,6 +134046,8 @@ phosphori
 phosphoric
 phosphorite
 phosphorites
+phosphorolyses
+phosphorolysis
 phosphorous
 phosphorrösslerite
 phosphors
@@ -133880,6 +134206,8 @@ photomicrographs
 photomicrography
 photomontage
 photomontages
+photomorphogeneses
+photomorphogenesis
 photomultiplier
 photomultipliers
 photon
@@ -134002,6 +134330,8 @@ phrenology
 phthalate
 phthalates
 phthalic
+phthiriases
+phthiriasis
 phthisic
 phthisical
 phugoid
@@ -134036,6 +134366,8 @@ phyllotaxis
 phyllotaxy
 phylloxera
 phylloxeras
+phylogeneses
+phylogenesis
 phylogenetic
 phylogenetically
 phylogenetics
@@ -134043,6 +134375,7 @@ phylogenies
 phylogeny
 phylum
 phys
+physes
 physiatric
 physiatrical
 physiatrics
@@ -134103,11 +134436,14 @@ physiotherapists
 physiotherapy
 physique
 physiques
+physis
 physoclistous
 physostomous
 phytic
 phytobenthos
 phytocidal
+phytogeneses
+phytogenesis
 phytogenic
 phytogeographer
 phytogeographers
@@ -134134,6 +134470,8 @@ phytophilous
 phytoplankton
 phytoplanktons
 phytosanitary
+phytoses
+phytosis
 phytosociologic
 phytosociological
 phytosociologically
@@ -135561,6 +135899,8 @@ plethorically
 pleura
 pleurae
 pleural
+pleurapophyses
+pleurapophysis
 pleuras
 pleurisies
 pleurisy
@@ -135834,6 +136174,8 @@ pneumatologic
 pneumatological
 pneumatologies
 pneumatology
+pneumatolyses
+pneumatolysis
 pneumatometer
 pneumatometers
 pneumatophore
@@ -136157,6 +136499,8 @@ pollen
 pollened
 pollenless
 pollenlike
+pollenoses
+pollenosis
 pollens
 poller
 pollers
@@ -136324,6 +136668,8 @@ polyhedra
 polyhedral
 polyhedron
 polyhedrons
+polyhedroses
+polyhedrosis
 polyhistor
 polyhistoric
 polyhistors
@@ -136742,6 +137088,8 @@ pornography
 pornos
 porns
 porose
+poroses
+porosis
 porosities
 porosity
 porous
@@ -137037,6 +137385,7 @@ postconvalescent
 postconvention
 postconvulsive
 postcostal
+postcrisis
 postcritical
 postcruciate
 postcrural
@@ -140885,6 +141234,8 @@ protanomalous
 protanopia
 protanopias
 protanopic
+protases
+protasis
 protean
 proteans
 protease
@@ -141299,6 +141650,8 @@ pseudocubic
 pseudocubical
 pseudocultivated
 pseudocultural
+pseudocyeses
+pseudocyesis
 pseudodemocratic
 pseudodiphtheritic
 pseudodramatic
@@ -141584,6 +141937,8 @@ psychosurgeon
 psychosurgeons
 psychosurgeries
 psychosurgery
+psychosyntheses
+psychosynthesis
 psychotechnology
 psychotherapeutic
 psychotherapeutical
@@ -142370,6 +142725,8 @@ pylorus
 pyloruses
 pyoderma
 pyodermas
+pyogeneses
+pyogenesis
 pyogenic
 pyoid
 pyorrheal
@@ -143582,6 +143939,8 @@ radiolucencies
 radiolucency
 radiolucent
 radioluminescent
+radiolyses
+radiolysis
 radioman
 radiomen
 radiometer
@@ -153092,6 +153451,8 @@ schizo
 schizoaffective
 schizocarpic
 schizocarpous
+schizogeneses
+schizogenesis
 schizogenetic
 schizogenetically
 schizogenous
@@ -155526,6 +155887,8 @@ seriousness
 sermon
 sermonically
 sermons
+serodiagnoses
+serodiagnosis
 serologic
 serological
 serologically
@@ -159955,6 +160318,8 @@ solver
 solvers
 solves
 solving
+solvolyses
+solvolysis
 solvolytic
 soma
 somas
@@ -160992,6 +161357,8 @@ spermic
 spermicidal
 spermicide
 spermicides
+spermiogeneses
+spermiogenesis
 spermophytic
 spermous
 sperms
@@ -161279,6 +161646,8 @@ spirituel
 spirituelle
 spirituous
 spirituousness
+spirochetoses
+spirochetosis
 spirochetotic
 spirograph
 spirographs
@@ -161602,6 +161971,8 @@ sporophylls
 sporophyte
 sporophytes
 sporophytic
+sporotrichoses
+sporotrichosis
 sporotrichotic
 sporozoite
 sporozoites
@@ -162999,6 +163370,8 @@ sternway
 sternways
 steroid
 steroidal
+steroidogeneses
+steroidogenesis
 steroids
 sterol
 sterols
@@ -164100,6 +164473,10 @@ strongroom
 strongrooms
 strongyloidiases
 strongyloidiasis
+strongyloidoses
+strongyloidosis
+strongyloses
+strongylosis
 strontianite
 strontianites
 strontium
@@ -167551,6 +167928,8 @@ sycophantically
 sycophantish
 sycophantishly
 sycophants
+sycoses
+sycosis
 syenitic
 syllabaries
 syllabary
@@ -167570,6 +167949,8 @@ syllabub
 syllabubs
 syllabus
 syllabuses
+syllepses
+syllepsis
 syllogism
 syllogisms
 syllogist
@@ -167675,6 +168056,8 @@ synapsis
 synaptic
 synaptical
 synaptically
+synarthroses
+synarthrosis
 sync
 syncarpous
 synced
@@ -167682,6 +168065,8 @@ synch
 synched
 synches
 synching
+synchondroses
+synchondrosis
 synchro
 synchromesh
 synchromeshes
@@ -167731,6 +168116,8 @@ syncytium
 syncytiums
 syndactyl
 syndactyls
+syndesmoses
+syndesmosis
 syndesmotic
 syndetic
 syndetically
@@ -167764,6 +168151,8 @@ synecological
 synecologically
 synecologies
 synecology
+synereses
+syneresis
 synergetic
 synergetically
 synergic
@@ -167783,6 +168172,12 @@ syngamic
 syngamies
 syngamy
 syngeneic
+syngeneses
+syngenesis
+synizeses
+synizesis
+synkineses
+synkinesis
 synod
 synodal
 synodals
@@ -167809,6 +168204,8 @@ synopsises
 synoptic
 synoptical
 synoptics
+synostoses
+synostosis
 synostotic
 synostotically
 synovial
@@ -168026,6 +168423,8 @@ tadpole
 tadpoles
 tads
 taekwondo
+taeniases
+taeniasis
 taenidial
 taffeta
 taffetas
@@ -169375,6 +169774,8 @@ tenesmuses
 tenet
 tenets
 tenfold
+teniases
+teniasis
 tenner
 tenners
 tennessine
@@ -169942,6 +170343,8 @@ thanatologists
 thanatology
 thanatopsis
 thanatopsises
+thanatoses
+thanatosis
 thane
 thanes
 thank
@@ -170091,6 +170494,8 @@ theosophies
 theosophist
 theosophists
 theosophy
+therapeuses
+therapeusis
 therapeutic
 therapeutical
 therapeutically
@@ -171417,6 +171822,8 @@ tizz
 tizzes
 tizzies
 tizzy
+tmeses
+tmesis
 to
 to-and-fro
 to-and-fros
@@ -172247,6 +172654,8 @@ toxicologies
 toxicologist
 toxicologists
 toxicology
+toxicoses
+toxicosis
 toxics
 toxigenic
 toxin
@@ -173302,6 +173711,8 @@ trepidation
 trepidations
 trepidly
 treponemal
+treponematoses
+treponematosis
 trespass
 trespassed
 trespasser
@@ -173447,6 +173858,8 @@ trichomonads
 trichomoniases
 trichomoniasis
 trichopteran
+trichoses
+trichosis
 trichotillomania
 trichotomic
 trichotomies
@@ -173878,6 +174291,8 @@ trollop
 trollops
 trollopy
 trolls
+trombidiases
+trombidiasis
 trombone
 trombones
 trombonist
@@ -186288,6 +186703,7 @@ varicocele
 varicoceles
 varicose
 varicoses
+varicosis
 varicosities
 varicosity
 varied
@@ -187022,6 +187438,8 @@ vibratory
 vibratos
 vibrioid
 vibrionic
+vibrioses
+vibriosis
 vibrometer
 vibrometers
 vibronic
@@ -187378,6 +187796,8 @@ virologies
 virologist
 virologists
 virology
+viroses
+virosis
 virtual
 virtualities
 virtuality
@@ -187514,6 +187934,8 @@ vitascope
 vitascopes
 vitascopic
 vitelline
+vitellogeneses
+vitellogenesis
 vitiate
 vitiated
 vitiates
@@ -191176,10 +191598,14 @@ xenobiotics
 xenocryst
 xenocrystic
 xenocrysts
+xenodiagnoses
+xenodiagnosis
 xenodiagnostic
 xenogamies
 xenogamy
 xenogeneic
+xenogeneses
+xenogenesis
 xenogenetic
 xenogenic
 xenolith
@@ -191208,6 +191634,8 @@ xerophyte
 xerophytes
 xerophytic
 xerophytically
+xeroses
+xerosis
 xerotic
 xi
 xii
@@ -191440,6 +191868,8 @@ yep
 yeps
 yerba
 yerbas
+yersinioses
+yersiniosis
 yes
 yes-man
 yes-men
@@ -192105,10 +192535,16 @@ zwieback
 zwiebacks
 zydeco
 zydecos
+zygapophyses
+zygapophysis
 zygodactyl
+zygogeneses
+zygogenesis
 zygomorphic
 zygomorphous
 zygophyllaceous
+zygoses
+zygosis
 zygospore
 zygospores
 zygote
@@ -192121,11 +192557,14 @@ zymogeneses
 zymogenesis
 zymogenic
 zymogens
+zymolysis
 zymolytic
 zymometer
 zymometers
+zymoses
 zymosimeter
 zymosimeters
+zymosis
 zymotic
 zymurgies
 zymurgy
