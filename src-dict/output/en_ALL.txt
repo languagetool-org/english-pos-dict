@@ -45506,6 +45506,7 @@ asymptotes
 asymptotic
 asymptotically
 asymptotics
+async
 asynchronism
 asynchronisms
 asynchronous
@@ -57639,6 +57640,10 @@ chlorellas
 chlorenchyma
 chlorenchymas
 chloric
+chloridate
+chloridated
+chloridates
+chloridating
 chloride
 chlorides
 chlorimeter
@@ -75539,6 +75544,10 @@ electrifiers
 electrifies
 electrify
 electrifying
+electrize
+electrized
+electrizes
+electrizing
 electro
 electro-optic
 electro-optical
@@ -86695,14 +86704,12 @@ genera
 generable
 general
 general-purpose
-generalisably
 generalissimo
 generalissimos
 generalist
 generalists
 generalities
 generality
-generalizably
 generally
 generalness
 generals
@@ -100848,6 +100855,7 @@ irrepealable
 irrepealably
 irreplaceable
 irreplaceableness
+irreplevisable
 irrepressible
 irrepressibleness
 irrepressibly
@@ -116761,6 +116769,7 @@ noncaking
 noncaloric
 noncandidate
 noncandidates
+noncapsizable
 noncarbonated
 noncarnivorous
 noncash
@@ -116924,6 +116933,7 @@ nonelective
 nonelectively
 nonelectives
 nonelectrically
+nonelectrized
 noneligible
 nonelliptically
 nonemotionally
@@ -116952,6 +116962,7 @@ nonevaporation
 nonevaporations
 nonevaporative
 nonexchangeable
+nonexercisable
 nonexistent
 nonexpansively
 nonexpendable
@@ -117171,6 +117182,7 @@ nonqualitatively
 nonracial
 nonracially
 nonradiative
+nonraised
 nonrandomly
 nonrandomness
 nonrational
@@ -125691,6 +125703,10 @@ phlegm
 phlegmatic
 phlegmatical
 phlegmatically
+phlegmatize
+phlegmatized
+phlegmatizes
+phlegmatizing
 phlegms
 phloem
 phloems
@@ -131842,6 +131858,7 @@ prominence
 prominences
 prominent
 prominently
+promisable
 promiscuities
 promiscuity
 promiscuous
@@ -156545,6 +156562,7 @@ surliest
 surlily
 surliness
 surly
+surmisable
 surmise
 surmised
 surmisedly
@@ -164623,6 +164641,7 @@ unappetizingly
 unappetizingness
 unapplied
 unappositely
+unappraised
 unappreciably
 unappreciated
 unappreciation
@@ -164974,6 +164993,8 @@ uncapable
 uncapped
 uncapping
 uncaps
+uncapsizable
+uncapsized
 uncapturable
 uncaptured
 uncared-for
@@ -165047,6 +165068,7 @@ unchastened
 unchasteness
 unchaster
 unchastest
+unchastised
 unchastities
 unchastity
 uncheck
@@ -165561,6 +165583,7 @@ undelineated
 undeliverable
 undelivered
 undemanding
+undemised
 undemocratic
 undemocratically
 undemonstrable
@@ -166154,6 +166177,7 @@ undesired
 undesirous
 undesirously
 undespairingly
+undespised
 undespondently
 undestroyed
 undestructively
@@ -166172,6 +166196,7 @@ undeviating
 undeviatingly
 undeviously
 undeviousness
+undevised
 undevoutly
 undevoutness
 undexterously
@@ -166208,6 +166233,7 @@ undiscriminating
 undiscriminatingly
 undiscussable
 undiscussed
+undisfranchised
 undisguisable
 undisguised
 undismayed
@@ -166468,6 +166494,7 @@ unexceptionableness
 unexceptionably
 unexceptional
 unexceptionally
+unexcised
 unexcitable
 unexcited
 unexciting
@@ -166478,6 +166505,7 @@ unexcusably
 unexcused
 unexcusedly
 unexecuted
+unexercisable
 unexercised
 unexhaustedly
 unexorcisable
@@ -166688,6 +166716,7 @@ unfoundedly
 unfoundedness
 unfragrantly
 unframed
+unfranchised
 unfrankly
 unfrankness
 unfraternally
@@ -167070,7 +167099,9 @@ unimpressive
 unimpressively
 unimprovable
 unimproved
+unimprovised
 unimpulsively
+unincised
 unincorporated
 unindicted
 unindulgently
@@ -167746,6 +167777,7 @@ unnilquadium
 unnilquadiums
 unnimbleness
 unnimbly
+unnoised
 unnoted
 unnoticeable
 unnoticeableness
@@ -168036,6 +168068,8 @@ unpracticalness
 unpracticed
 unpractised
 unpragmatically
+unpraisable
+unpraised
 unprecedented
 unprecedentedly
 unpreciseness
@@ -168120,6 +168154,7 @@ unprogressive
 unprogressively
 unprogressiveness
 unprohibited
+unpromised
 unpromising
 unpromisingly
 unprompted
@@ -168209,6 +168244,7 @@ unquote
 unquoted
 unquotes
 unquoting
+unraisable
 unraised
 unramified
 unranked
@@ -168662,6 +168698,7 @@ unsees
 unsegmented
 unsegregated
 unseizable
+unseized
 unselect
 unselected
 unselecting
@@ -169036,6 +169073,7 @@ unsureness
 unsurer
 unsurest
 unsurfaced
+unsurmised
 unsurmountable
 unsurpassable
 unsurpassably
@@ -169228,6 +169266,7 @@ untraversed
 untreatable
 untreatably
 untreated
+untrellised
 untremblingly
 untried
 untrimmed

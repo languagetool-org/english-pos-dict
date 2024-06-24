@@ -62375,7 +62375,6 @@ asylum-seeker=noun=nz,za
 asymptotical=UNTAGGED=us-large
 asynapsis=asynapsis/NN,asynapses/NNS=none
 asynartete=noun=none
-async=UNTAGGED=gb
 asynchronicities=UNTAGGED=gb
 asynchronicity=UNTAGGED=gb
 asynchrony=noun_U=gb,nz,za
@@ -102491,7 +102490,6 @@ inclosure=noun_UN=gb
 includeable=UNTAGGED=gb
 incluse=NN=none
 incogitability=NN:UN=none
-incognizable=JJ=none
 incognizance=noun=gb
 incognoscible=JJ=none
 incoherenciser=UNTAGGED=gb
@@ -103200,7 +103198,6 @@ inosine=NN=gb
 inosines=UNTAGGED=gb
 inosite=noun=none
 inotropy=UNTAGGED=gb
-inoxidizable=JJ=none
 inpayment=noun=none
 inphase=JJ=none
 inpour=noun=us-large
@@ -104431,7 +104428,6 @@ irreplacably=RB=none
 irreplaceability=noun_UN=none
 irreplaceably=UNTAGGED=gb
 irrepleviable=JJ=none
-irreplevisable=JJ=none
 irrepressibility=noun_UN=us-large
 irreproachability=noun_UN=gb
 irreproachabilityible=UNTAGGED=gb
@@ -119349,7 +119345,6 @@ noncapitulation=NN:UN=none
 noncapricious=JJ=none
 noncapriciously=RB=none
 noncapriciousness=NN=none
-noncapsizable=JJ=none
 noncaptious=JJ=none
 noncaptiously=RB=none
 noncaptiousness=NN=none
@@ -119425,7 +119420,6 @@ nonchannelized=JJ=none
 nonchaotic=JJ=none
 noncharacter=noun=none
 noncharacteristic=JJ=none
-noncharacterized=JJ=none
 noncharitableness=NN=none
 noncharitably=RB=none
 nonchastisement=NN=none
@@ -119527,7 +119521,6 @@ noncognate=JJ=none
 noncognate=NN=none
 noncognition=NN:UN=none
 noncognitive=JJ=none
-noncognizable=JJ=none
 noncognizably=RB=none
 noncognizance=NN=none
 noncognizant=JJ=none
@@ -120021,8 +120014,6 @@ noncrustaceous=JJ=none
 noncryptic=JJ=none
 noncryptical=JJ=none
 noncryptically=RB=none
-noncrystallizable=JJ=none
-noncrystallized=JJ=none
 noncrystallizing=JJ=none
 nonculminating=JJ=none
 nonculmination=NN=none
@@ -120718,7 +120709,6 @@ nonelectiveness=NN=none
 nonelector=NN=none
 nonelectrification=NN:UN=none
 nonelectrified=JJ=none
-nonelectrized=JJ=none
 nonelectrolyte=noun=none
 nonelectrolytic=JJ=none
 nonelectronic=noun=none
@@ -121033,7 +121023,6 @@ nonexecutive=noun=none
 nonexemplary=JJ=none
 nonexemplification=NN:UN=none
 nonexemption=NN:UN=none
-nonexercisable=JJ=none
 nonexercise=NN=none
 nonexerciser=NN=none
 nonexertion=NN:UN=none
@@ -121442,7 +121431,6 @@ nonfutile=JJ=none
 nonfuturistic=JJ=none
 nong=noun=au
 nongalactic=JJ=none
-nongalvanized=JJ=none
 nonganglionic=JJ=none
 nongangrenous=JJ=none
 nongarrulity=NN:UN=none
@@ -121462,7 +121450,6 @@ nongenary=UNTAGGED=gb
 nongenealogic=JJ=none
 nongenealogical=JJ=none
 nongenealogically=RB=none
-nongeneralized=JJ=none
 nongenerating=JJ=none
 nongenerative=JJ=none
 nongeneric=JJ=none
@@ -121736,7 +121723,6 @@ nonimmigrant=noun=none
 nonimmigration=NN:UN=none
 nonimmune=JJ=none
 nonimmunity=NN:UN=none
-nonimmunized=JJ=none
 nonimpact=NN=none
 nonimpacted=JJ=none
 nonimpairment=NN=none
@@ -121912,7 +121898,6 @@ noninstinctual=JJ=none
 noninstinctually=RB=none
 noninstitution=NN:UN=none
 noninstitutional=JJ=none
-noninstitutionalized=JJ=none
 noninstitutionally=RB=none
 noninstructional=JJ=none
 noninstructionally=RB=none
@@ -121992,8 +121977,6 @@ noninvincible=JJ=none
 noninvincibleness=NN=none
 noninvincibly=RB=none
 noninvolvement=noun=none
-noniodized=JJ=none
-nonionized=JJ=none
 nonirate=JJ=none
 nonirately=RB=none
 nonirenic=JJ=none
@@ -122151,8 +122134,6 @@ nonlixiviated=JJ=none
 nonlixiviation=NN:UN=none
 nonlocal=JJ=none
 nonlocal=noun=none
-nonlocalizable=JJ=none
-nonlocalized=JJ=none
 nonlocation=NN:UN=none
 nonlogic=NN=none
 nonlogicality=NN:UN=none
@@ -122203,7 +122184,6 @@ nonlyricalness=NN=none
 nonlyricism=NN:UN=none
 nonmagnetical=JJ=none
 nonmagnetically=RB=none
-nonmagnetized=JJ=none
 nonmaintenance=NN=none
 nonmajor=noun=none
 nonmajority=NN=none
@@ -122528,7 +122508,6 @@ nonnihilism=NN:UN=none
 nonnihilist=NN=none
 nonnihilistic=JJ=none
 nonnitric=JJ=none
-nonnitrogenized=JJ=none
 nonnitrogenous=JJ=none
 nonnitrous=JJ=none
 nonnobility=NN:UN=none
@@ -122694,7 +122673,6 @@ nonowning=JJ=none
 nonoxidating=JJ=none
 nonoxidation=NN:UN=none
 nonoxidative=JJ=none
-nonoxidizable=JJ=none
 nonoxidizing=JJ=none
 nonoxygenated=JJ=none
 nonpacifiable=JJ=none
@@ -122798,7 +122776,6 @@ nonpejorative=JJ=none
 nonpelagic=JJ=none
 nonpeltast=NN=none
 nonpenal=JJ=none
-nonpenalized=JJ=none
 nonpendant=JJ=none
 nonpendency=NN=none
 nonpendent=JJ=none
@@ -123344,7 +123321,6 @@ nonradically=RB=none
 nonradicness=NN=none
 nonraisable=JJ=none
 nonraiseable=JJ=none
-nonraised=JJ=none
 nonranging=JJ=none
 nonrapport=NN=none
 nonratability=NN:UN=none
@@ -123364,7 +123340,6 @@ nonrationalistic=JJ=none
 nonrationalistical=JJ=none
 nonrationalistically=RB=none
 nonrationality=NN:UN=none
-nonrationalized=JJ=none
 nonrationally=RB=none
 nonreaction=NN:UN=none
 nonreactionary=JJ=none
@@ -123424,7 +123399,6 @@ nonrecitative=JJ=none
 nonreclaimable=JJ=none
 nonreclamation=NN:UN=none
 nonreclusive=JJ=none
-nonrecognized=JJ=none
 nonrecoil=NN=none
 nonrecoiling=JJ=none
 nonrecollection=NN:UN=none
@@ -123859,7 +123833,6 @@ nonscarcity=NN=none
 nonscented=JJ=none
 nonschematic=JJ=none
 nonschematically=RB=none
-nonschematized=JJ=none
 nonschismatic=JJ=none
 nonschismatical=JJ=none
 nonschizophrenic=JJ=none
@@ -123938,7 +123911,6 @@ nonsensibly=RB=none
 nonsensicality=noun_UN=gb
 nonsensitively=RB=none
 nonsensitivity=NN:UN=none
-nonsensitized=JJ=none
 nonsensitizing=JJ=none
 nonsensorial=JJ=none
 nonsensory=JJ=none
@@ -124181,7 +124153,6 @@ nonstably=RB=none
 nonstainable=JJ=none
 nonstainer=NN=none
 nonstampable=JJ=none
-nonstandardized=JJ=none
 nonstanzaic=JJ=none
 nonstaple=NN=none
 nonstarting=JJ=none
@@ -124243,7 +124214,6 @@ nonstudiousness=NN=none
 nonstudy=NN=none
 nonstultification=NN:UN=none
 nonstyle=noun=none
-nonstylized=JJ=none
 nonstyptic=JJ=none
 nonstyptical=JJ=none
 nonsubconscious=JJ=none
@@ -124446,7 +124416,6 @@ nonsyntactic=JJ=none
 nonsyntactical=JJ=none
 nonsyntactically=RB=none
 nonsynthesis=NN=none
-nonsynthesized=JJ=none
 nonsynthetic=JJ=none
 nonsynthetical=JJ=none
 nonsynthetically=RB=none
@@ -124486,7 +124455,6 @@ nontarred=JJ=none
 nontautological=JJ=none
 nontautologically=RB=none
 nontautomeric=JJ=none
-nontautomerizable=JJ=none
 nontax=noun=none
 nontaxability=NN:UN=none
 nontaxableness=NN=none
@@ -124801,7 +124769,6 @@ nonuterine=JJ=none
 nonutilitarian=JJ=none
 nonutilitarian=noun=none
 nonutility=noun_UN=none
-nonutilized=JJ=none
 nonutterance=NN=none
 nonvacancy=NN=none
 nonvacant=JJ=none
@@ -124877,7 +124844,6 @@ nonveracious=JJ=none
 nonveraciously=RB=none
 nonveraciousness=NN=none
 nonveracity=NN=none
-nonverbalized=JJ=none
 nonverbosity=NN:UN=none
 nonverifiable=JJ=none
 nonverification=NN:UN=none
@@ -124960,7 +124926,6 @@ nonvisional=JJ=none
 nonvisionary=JJ=none
 nonvisionary=NN=none
 nonvisiting=JJ=none
-nonvisualized=JJ=none
 nonvital=JJ=none
 nonvitality=NN:UN=none
 nonvitalized=JJ=none
@@ -124986,8 +124951,6 @@ nonvoid=NN=none
 nonvoidable=JJ=none
 nonvolant=JJ=none
 nonvolatility=NN:UN=none
-nonvolatilizable=JJ=none
-nonvolatilized=JJ=none
 nonvolatiness=NN=none
 nonvolition=NN:UN=none
 nonvolitional=JJ=none
@@ -124996,7 +124959,6 @@ nonvoluble=JJ=none
 nonvolubleness=NN=none
 nonvolubly=RB=none
 nonvoluntary=JJ=none
-nonvulcanized=JJ=none
 nonvulgarity=NN:UN=none
 nonvulval=JJ=none
 nonvulvar=JJ=none
@@ -131249,9 +131211,7 @@ pen-and-ink=NN=gb,nz,za
 pen-friend=NN=none
 pen-name=NN=gb,nz,za
 pen-names=UNTAGGED=gb,nz,za
-penalisable=JJ=none
 penality=noun_UN=gb
-penalizable=JJ=none
 penanced=UNTAGGED=gb,nz,za
 penanceless=JJ=none
 penancing=UNTAGGED=gb,nz,za
@@ -132496,7 +132456,6 @@ phlebotomus=NN=none
 phlegmagogue=noun=none
 phlegmaticalness=NN=none
 phlegmaticness=NN=none
-phlegmatized=JJ=none
 phlegmless=JJ=none
 phlegmy=phlegmy/JJ,phlegmier/JJR,phlegmiest/JJS=us-large
 phleum=NN=none
@@ -137108,7 +137067,6 @@ precodes=UNTAGGED=gb
 precoding=UNTAGGED=gb
 precogitation=NN:UN=none
 precognitively=UNTAGGED=gb
-precognizable=JJ=none
 precognizant=JJ=none
 precoiler=NN=none
 precoincidence=NN=none
@@ -139456,7 +139414,6 @@ promilitarist=NN=none
 promine=noun=none
 prominency=noun=gb
 prominority=JJ=none
-promisable=JJ=none
 promiseful=JJ=none
 promiseless=JJ=none
 promisor=noun=gb
@@ -150185,7 +150142,6 @@ semiexternalized=JJ=none
 semiexternally=RB=none
 semifiction=NN:UN=none
 semifictional=JJ=none
-semifictionalized=JJ=none
 semifigurative=JJ=none
 semifiguratively=RB=none
 semifigurativeness=NN=none
@@ -150195,7 +150151,6 @@ semifixed=JJ=none
 semifloating=JJ=none
 semifluidity=noun_UN=none
 semiformed=JJ=none
-semifossilized=JJ=none
 semifrontier=NN=none
 semifunctional=JJ=none
 semifunctionalism=NN:UN=none
@@ -150307,7 +150262,6 @@ semimetaphorical=JJ=none
 semimetaphorically=RB=none
 semimild=JJ=none
 semimineral=JJ=none
-semimineralized=JJ=none
 semiminess=NN=none
 semiministerial=JJ=none
 semimobile=JJ=none
@@ -159759,7 +159713,6 @@ suriphobia=UNTAGGED=gb
 surjective=UNTAGGED=gb
 surjectively=UNTAGGED=gb
 surmaster=noun=none
-surmisable=JJ=none
 surmisal=noun=none
 surmounter=noun=us-large
 surnamer=noun=none
@@ -160417,10 +160370,8 @@ syssarcosis=syssarcosis/NN,syssarcoses/NNS=none
 syst=UNTAGGED=us-large
 systematician=noun=none
 systematology=NN:UN=us-large
-systemisable=JJ=none
 systemiser=NN=gb
 systemisers=UNTAGGED=gb
-systemizable=JJ=none
 systemizer=noun=gb
 systemoid=JJ=none
 systyle=noun=none
@@ -161097,7 +161048,6 @@ tautologize=UNTAGGED=gb,us-large
 tautologized=UNTAGGED=gb
 tautologizes=UNTAGGED=gb
 tautologizing=UNTAGGED=gb
-tautomerizable=JJ=none
 tautonym=noun=us-large
 tautonymy=noun=none
 tautophonical=UNTAGGED=gb
@@ -166359,8 +166309,6 @@ unaisled=JJ=none
 unakite=noun=none
 unalacritous=JJ=none
 unalarmingly=RB=none
-unalcoholised=JJ=none
-unalcoholized=JJ=none
 unaldermanly=RB=none
 unalert=JJ=none
 unalerted=JJ=none
@@ -166451,9 +166399,7 @@ unanalogized=JJ=none
 unanarchic=JJ=none
 unanarchistic=JJ=none
 unanatomisable=JJ=none
-unanatomised=JJ=none
 unanatomizable=JJ=none
-unanatomized=JJ=none
 unanecdotal=JJ=none
 unanecdotally=RB=none
 unanemic=JJ=none
@@ -166482,12 +166428,8 @@ unannunciative=JJ=none
 unanointed=JJ=none
 unanswerability=noun_UN=none
 unanswering=JJ=none
-unantagonisable=JJ=none
-unantagonised=JJ=none
 unantagonising=JJ=none
 unantagonistic=JJ=none
-unantagonizable=JJ=none
-unantagonized=JJ=none
 unantagonizing=JJ=none
 unanthologized=JJ=none
 unanticipating=JJ=none
@@ -166497,8 +166439,6 @@ unantlered=JJ=none
 unanxious=JJ=none
 unaphasic=JJ=none
 unapologizing=NN=none
-unapostatized=JJ=none
-unapostrophized=JJ=none
 unappareled=JJ=none
 unapparelled=JJ=none
 unappealableness=NN=none
@@ -166526,7 +166466,6 @@ unapportioned=JJ=none
 unapposable=JJ=none
 unapposite=JJ=none
 unappositeness=NN=none
-unappraised=JJ=none
 unappreciable=JJ=none
 unappreciating=JJ=none
 unapprehendable=JJ=none
@@ -166536,7 +166475,6 @@ unapprehending=JJ=none
 unapprehensible=JJ=none
 unapprehensive=JJ=none
 unapprenticed=JJ=none
-unapprised=JJ=none
 unapproached=JJ=none
 unapproaching=JJ=none
 unappropriable=JJ=none
@@ -166768,8 +166706,6 @@ unbase=JJ=none
 unbased=JJ=none
 unbashful=JJ=none
 unbasketlike=JJ=none
-unbastardised=JJ=none
-unbastardized=JJ=none
 unbasted=JJ=none
 unbastinadoed=JJ=none
 unbatchable=UNTAGGED=all
@@ -167140,8 +167076,6 @@ uncapitulating=JJ=none
 uncapricious=JJ=none
 uncapriciously=RB=none
 uncapriciousness=NN=none
-uncapsizable=JJ=none
-uncapsized=JJ=none
 uncapsuled=JJ=none
 uncaptained=JJ=none
 uncaptioned=JJ=none
@@ -167151,10 +167085,7 @@ uncaptiousness=NN=none
 uncaptivated=JJ=none
 uncaptivating=JJ=none
 uncaptivative=JJ=none
-uncaramelised=JJ=none
-uncaramelized=JJ=none
 uncarbonated=JJ=none
-uncarbonized=JJ=none
 uncarboxylated=UNTAGGED=gb
 uncarbureted=JJ=none
 uncarburetted=JJ=none
@@ -167191,7 +167122,6 @@ uncasualness=NN=none
 uncatalyzed=UNTAGGED=us
 uncatastrophic=JJ=none
 uncatastrophically=RB=none
-uncatechized=JJ=none
 uncategorical=JJ=none
 uncategorically=RB=none
 uncategoricalness=NN=none
@@ -167209,7 +167139,6 @@ uncausatively=RB=none
 uncausativeness=NN=none
 uncaustic=JJ=none
 uncaustically=RB=none
-uncauterized=JJ=none
 uncautioned=JJ=none
 uncautious=JJ=none
 uncavalier=JJ=none
@@ -167277,7 +167206,6 @@ uncharred=JJ=none
 unchary=JJ=none
 unchased=JJ=none
 unchastisable=JJ=none
-unchastised=JJ=none
 unchastising=JJ=none
 unchattering=JJ=none
 unchauffeured=JJ=none
@@ -167344,8 +167272,6 @@ uncircled=JJ=none
 uncircuitous=JJ=none
 uncircuitousness=NN=none
 uncircular=JJ=none
-uncircularised=JJ=none
-uncircularized=JJ=none
 uncircularly=RB=none
 uncirculating=JJ=none
 uncirculative=JJ=none
@@ -167437,7 +167363,6 @@ uncogent=JJ=none
 uncogently=RB=none
 uncogged=JJ=none
 uncognizant=JJ=none
-uncognized=JJ=none
 uncognoscibility=NN:UN=none
 uncognoscible=JJ=none
 uncohesive=JJ=none
@@ -167936,7 +167861,6 @@ uncriminal=JJ=none
 uncrippled=JJ=none
 uncriticisably=RB=none
 uncriticizably=RB=none
-uncriticized=JJ=none
 uncriticizing=JJ=none
 uncrooked=JJ=none
 uncrookedly=RB=none
@@ -168200,7 +168124,6 @@ undelusiveness=NN=none
 undelusory=JJ=none
 undelved=JJ=none
 undemanded=JJ=none
-undemised=JJ=none
 undemolishable=JJ=none
 undemolished=JJ=none
 undemonstrableness=NN=none
@@ -168248,7 +168171,6 @@ undepressively=RB=none
 undepressiveness=NN=none
 undeprived=JJ=none
 undeputed=JJ=none
-undeputized=JJ=none
 under-investment=UNTAGGED=gb,nz,za
 under-rehearsed=UNTAGGED=gb,nz,za
 under-report=UNTAGGED=gb,nz,za
@@ -168741,7 +168663,6 @@ underverse=NN=none
 undervicar=NN=none
 underviewer=noun=none
 undervillain=NN=none
-undervitalized=JJ=none
 undervoice=noun=none
 undervoltage=UNTAGGED=all
 underwage=NN=none
@@ -168783,7 +168704,6 @@ undesisting=JJ=none
 undespaired=JJ=none
 undespairing=JJ=none
 undespatched=JJ=none
-undespised=JJ=none
 undespising=JJ=none
 undespoiled=JJ=none
 undespondent=JJ=none
@@ -168839,7 +168759,6 @@ undeviated=JJ=none
 undevilish=JJ=none
 undevious=JJ=none
 undevisable=JJ=none
-undevised=JJ=none
 undevoted=JJ=none
 undevotional=JJ=none
 undevoured=JJ=none
@@ -168968,7 +168887,6 @@ undisdaining=JJ=none
 undiseased=JJ=none
 undisestablished=JJ=none
 undisfigured=JJ=none
-undisfranchised=JJ=none
 undisgorged=JJ=none
 undisgraced=JJ=none
 undisguisedly=UNTAGGED=gb,us-large
@@ -168987,7 +168905,6 @@ undismantled=JJ=none
 undismayable=JJ=none
 undismissed=JJ=none
 undisordered=JJ=none
-undisorganized=JJ=none
 undisparaged=JJ=none
 undispassionate=JJ=none
 undispassionately=RB=none
@@ -169107,9 +169024,6 @@ undraftable=JJ=none
 undragoned=JJ=none
 undragooned=JJ=none
 undramatical=JJ=none
-undramatisable=JJ=none
-undramatizable=JJ=none
-undramatized=JJ=none
 undraperied=JJ=none
 undreaded=JJ=none
 undreading=JJ=none
@@ -169317,7 +169231,6 @@ unemotive=JJ=none
 unemotiveness=NN=none
 unempaneled=JJ=none
 unempanelled=JJ=none
-unemphasized=JJ=none
 unemphasizing=JJ=none
 unempirical=JJ=none
 unempoisoned=JJ=none
@@ -169438,8 +169351,6 @@ unepilogued=JJ=none
 unepistolary=JJ=none
 unepitaphed=JJ=none
 unepithelial=JJ=none
-unepitomised=JJ=none
-unepitomized=JJ=none
 unepochal=JJ=none
 unequability=NN:UN=none
 unequable=JJ=none
@@ -169568,7 +169479,6 @@ unexchangeability=NN:UN=none
 unexchangeable=JJ=none
 unexchangeabness=NN=none
 unexchanged=JJ=none
-unexcised=JJ=none
 unexcitability=NN:UN=gb
 unexcitablely=RB=none
 unexclaiming=JJ=none
@@ -169600,7 +169510,6 @@ unexempt=JJ=none
 unexemptable=JJ=none
 unexempted=JJ=none
 unexempting=JJ=none
-unexercisable=JJ=none
 unexerted=JJ=none
 unexhaled=JJ=none
 unexhausted=JJ=none
@@ -169627,7 +169536,6 @@ unexonerated=JJ=none
 unexonerative=JJ=none
 unexorbitant=JJ=none
 unexorbitantly=RB=none
-unexorcised=JJ=none
 unexotic=JJ=none
 unexotically=RB=none
 unexpandable=JJ=none
@@ -169849,10 +169757,8 @@ unferreted=JJ=none
 unferreting=JJ=none
 unferried=JJ=none
 unfertile=JJ=none
-unfertilisable=JJ=none
 unfertilising=JJ=none
 unfertility=NN:UN=none
-unfertilizable=JJ=none
 unfertilizing=JJ=none
 unfervent=JJ=none
 unfervently=RB=none
@@ -170098,7 +170004,6 @@ unframable=JJ=none
 unframableness=NN=none
 unframably=RB=none
 unframeable=JJ=none
-unfranchised=JJ=none
 unfrank=JJ=none
 unfraternal=JJ=none
 unfraternised=JJ=none
@@ -170236,7 +170141,6 @@ ungalled=JJ=none
 ungalleried=JJ=none
 ungalling=JJ=none
 ungalloping=JJ=none
-ungalvanized=JJ=none
 ungambled=JJ=none
 ungambling=JJ=none
 ungamboled=JJ=none
@@ -170270,7 +170174,6 @@ ungauntleted=JJ=none
 ungazetted=JJ=none
 ungazing=JJ=none
 ungeared=JJ=gb
-ungelatinized=JJ=none
 ungelatinous=JJ=none
 ungelatinously=RB=none
 ungelatinousness=NN=none
@@ -170418,7 +170321,6 @@ ungranulated=JJ=none
 ungraphable=JJ=none
 ungraphic=JJ=none
 ungraphical=JJ=none
-ungraphitized=JJ=none
 ungrappled=JJ=none
 ungrappling=JJ=none
 ungrasped=JJ=none
@@ -170667,7 +170569,6 @@ unhomiletic=JJ=none
 unhomiletical=JJ=none
 unhomiletically=RB=none
 unhomogeneous=JJ=none
-unhomogenized=JJ=none
 unhomologic=JJ=none
 unhomological=JJ=none
 unhomologically=RB=none
@@ -170695,7 +170596,6 @@ unhorrified=JJ=none
 unhortative=JJ=none
 unhortatively=RB=none
 unhosed=JJ=none
-unhospitalized=JJ=none
 unhostile=JJ=none
 unhostility=NN:UN=none
 unhot=JJ=none
@@ -170759,10 +170659,8 @@ uniconoclastic=JJ=none
 uniconoclastically=RB=none
 unicostate=JJ=none
 unicursal=JJ=none
-unidealised=JJ=none
 unidealistic=JJ=none
 unidealistically=RB=none
-unidealized=JJ=none
 unideated=JJ=none
 unideating=JJ=none
 unideational=JJ=none
@@ -170781,8 +170679,6 @@ unidle=JJ=none
 unidling=JJ=none
 unidly=RB=none
 unidolatrous=JJ=none
-unidolised=JJ=none
-unidolized=JJ=none
 unidyllic=JJ=none
 uniface=noun=gb
 unifacial=JJ=none
@@ -170888,7 +170784,6 @@ unimprinted=JJ=none
 unimprisonable=JJ=none
 unimprisoned=JJ=none
 unimpropriated=JJ=none
-unimprovised=JJ=none
 unimpugnable=JJ=none
 unimpugned=JJ=none
 unimpulsive=JJ=none
@@ -170907,7 +170802,6 @@ uninchoative=JJ=none
 unincidental=JJ=none
 unincidentally=RB=none
 unincinerated=JJ=none
-unincised=JJ=none
 unincisive=JJ=none
 unincisively=RB=none
 unincisiveness=NN=none
@@ -170940,7 +170834,6 @@ unindictable=JJ=none
 unindigenous=JJ=none
 unindigenously=RB=none
 unindignant=JJ=none
-unindividualized=JJ=none
 unindividuated=JJ=none
 unindoctrinated=JJ=none
 unindorsed=JJ=none
@@ -171108,7 +171001,6 @@ unintermissive=JJ=none
 unintermitted=JJ=none
 unintermittent=JJ=none
 unintermitting=JJ=none
-uninternalized=JJ=none
 uninternational=JJ=none
 uninterpleaded=JJ=none
 uninterpolated=JJ=none
@@ -171238,7 +171130,6 @@ unit-wise=JJ=none
 unitable=JJ=none
 unitage=JJ=none
 unitage=noun=none
-unitalicized=JJ=none
 unitarian=noun=none
 unitarianism=noun_UN=none
 unitaries=UNTAGGED=gb
@@ -171247,8 +171138,6 @@ unitarist=UNTAGGED=gb
 unitarists=UNTAGGED=gb
 unitarity=UNTAGGED=gb
 uniteable=JJ=none
-unitemised=UNTAGGED=gb,nz,za
-unitemized=JJ=none
 uniterated=JJ=none
 uniterative=JJ=none
 unitholder=noun=none
@@ -171295,7 +171184,6 @@ unjoking=JJ=none
 unjolted=JJ=none
 unjostled=JJ=none
 unjournalistic=JJ=none
-unjournalized=JJ=none
 unjovial=JJ=none
 unjovially=RB=none
 unjoyed=JJ=none
@@ -171460,8 +171348,6 @@ unlibellously=RB=none
 unlibelous=JJ=none
 unlibelously=RB=none
 unliberal=JJ=none
-unliberalised=JJ=none
-unliberalized=JJ=none
 unliberally=RB=none
 unlibidinous=JJ=none
 unlibidinously=RB=none
@@ -171486,8 +171372,6 @@ unlimed=JJ=none
 unlimned=JJ=none
 unlimp=JJ=none
 unlingering=JJ=none
-unlionised=JJ=none
-unlionized=JJ=none
 unlipped=JJ=none
 unliquefiable=JJ=none
 unliquefied=JJ=none
@@ -171518,8 +171402,6 @@ unloathsome=JJ=none
 unlobbied=JJ=none
 unlobbying=JJ=none
 unlocal=JJ=none
-unlocalisable=JJ=none
-unlocalizable=JJ=none
 unlocally=RB=none
 unlocative=JJ=none
 unlocomotive=JJ=none
@@ -171587,7 +171469,6 @@ unlying=JJ=none
 unlyric=JJ=none
 unlyrical=JJ=none
 unlyricalness=NN=none
-unmacadamized=JJ=none
 unmacerated=JJ=none
 unmachinable=JJ=none
 unmachinated=JJ=none
@@ -171734,14 +171615,10 @@ unmellifluent=JJ=none
 unmellifluently=RB=none
 unmellifluous=JJ=none
 unmellifluously=RB=none
-unmelodised=JJ=none
-unmelodized=JJ=none
 unmember=UNTAGGED=gb
 unmembered=UNTAGGED=gb
 unmembering=UNTAGGED=gb
 unmembers=UNTAGGED=gb
-unmemorialised=JJ=none
-unmemorialized=JJ=none
 unmemoried=JJ=gb
 unmemorized=UNTAGGED=us-large
 unmenaced=JJ=none
@@ -171759,7 +171636,6 @@ unmentholated=JJ=none
 unmentionability=UNTAGGED=gb
 unmentionably=UNTAGGED=gb
 unmercenarily=RB=none
-unmercerized=JJ=none
 unmerchandised=JJ=none
 unmerchantly=JJ=none
 unmerchantly=RB=none
@@ -171777,7 +171653,6 @@ unmeritingly=UNTAGGED=gb
 unmerrily=RB=none
 unmesmeric=JJ=none
 unmesmerically=RB=none
-unmesmerised=JJ=none
 unmetaled=JJ=none
 unmetalised=JJ=none
 unmetalized=JJ=none
@@ -171795,9 +171670,7 @@ unmeteorologic=JJ=none
 unmeteorological=JJ=none
 unmeteorologically=RB=none
 unmethodic=JJ=none
-unmethodised=JJ=none
 unmethodising=JJ=none
-unmethodized=JJ=none
 unmethodizing=JJ=none
 unmeticulous=JJ=none
 unmetred=JJ=none
@@ -171820,10 +171693,8 @@ unmigratory=JJ=none
 unmildewed=JJ=none
 unmilitant=JJ=none
 unmilitantly=RB=none
-unmilitarised=JJ=none
 unmilitaristic=JJ=none
 unmilitaristically=RB=none
-unmilitarized=JJ=none
 unmilked=JJ=none
 unmilted=JJ=none
 unmimeographed=JJ=none
@@ -171876,8 +171747,6 @@ unmoaning=JJ=none
 unmoated=JJ=none
 unmobbed=JJ=none
 unmobile=JJ=none
-unmobilised=JJ=none
-unmobilized=JJ=none
 unmocked=JJ=none
 unmocking=JJ=none
 unmodeled=JJ=none
@@ -171991,8 +171860,6 @@ unmunching=UNTAGGED=gb
 unmundane=JJ=none
 unmundanely=RB=none
 unmundified=JJ=none
-unmunicipalised=JJ=none
-unmunicipalized=JJ=none
 unmunificent=JJ=none
 unmunificently=RB=none
 unmunitioned=JJ=none
@@ -172020,8 +171887,6 @@ unmuttered=JJ=none
 unmuttering=JJ=none
 unmutteringly=RB=none
 unmutual=JJ=none
-unmutualised=JJ=none
-unmutualized=JJ=none
 unmutually=RB=none
 unmyopic=JJ=none
 unmysterious=JJ=none
@@ -172114,13 +171979,10 @@ unnilquintium=NN=none
 unnilseptium=noun=none
 unnimble=JJ=none
 unnipped=JJ=none
-unnitrogenised=JJ=none
-unnitrogenized=JJ=none
 unnitrogenous=JJ=none
 unnocturnal=JJ=none
 unnocturnally=RB=none
 unnodding=JJ=none
-unnoised=JJ=none
 unnoisily=RB=none
 unnoisy=JJ=none
 unnomadic=JJ=none
@@ -172339,10 +172201,7 @@ unoverwhelmed=JJ=none
 unowing=JJ=none
 unoxidated=JJ=none
 unoxidative=JJ=none
-unoxidisable=JJ=none
-unoxidizable=JJ=none
 unoxygenated=JJ=none
-unoxygenized=JJ=none
 unp=NN=none
 unpacifiable=JJ=none
 unpacific=JJ=none
@@ -172372,8 +172231,6 @@ unpalpitating=JJ=none
 unpalsied=JJ=none
 unpaltry=JJ=none
 unpampered=JJ=none
-unpanegyrised=JJ=none
-unpanegyrized=JJ=none
 unpaneled=JJ=none
 unpanelled=JJ=none
 unpanelling=unpanelling/NN,unpanelling/NNS=none
@@ -172406,8 +172263,6 @@ unparching=JJ=none
 unpardoning=JJ=none
 unpared=JJ=none
 unparentally=RB=none
-unparenthesised=JJ=none
-unparenthesized=JJ=none
 unparenthetic=JJ=none
 unparenthetical=JJ=none
 unparenthetically=RB=none
@@ -172457,9 +172312,6 @@ unpatrician=JJ=none
 unpatristic=JJ=none
 unpatristical=JJ=none
 unpatristically=RB=none
-unpatronisable=JJ=none
-unpatronizable=JJ=none
-unpatronized=JJ=none
 unpatted=JJ=none
 unpatternized=JJ=none
 unpavilioned=JJ=none
@@ -172490,7 +172342,6 @@ unpejoratively=RB=none
 unpelted=JJ=none
 unpen=UNTAGGED=us-large
 unpenal=JJ=none
-unpenalised=JJ=none
 unpenally=RB=none
 unpenanced=JJ=none
 unpenciled=JJ=none
@@ -172594,9 +172445,7 @@ unpersecutive=JJ=none
 unpersisting=JJ=none
 unpersonable=JJ=none
 unpersonal=JJ=none
-unpersonalised=JJ=none
 unpersonalising=JJ=none
-unpersonalized=JJ=none
 unpersonalizing=JJ=none
 unpersonally=RB=none
 unpersonified=JJ=none
@@ -172652,8 +172501,6 @@ unphlegmatical=JJ=none
 unphonetic=JJ=none
 unphonnetical=JJ=none
 unphonnetically=RB=none
-unphosphatised=JJ=none
-unphosphatized=JJ=none
 unphotogenic=JJ=none
 unphotographable=JJ=none
 unphotographed=JJ=none
@@ -172697,8 +172544,6 @@ unplacatory=JJ=none
 unplacid=JJ=none
 unplacidly=RB=none
 unplacidness=NN=none
-unplagiarised=JJ=none
-unplagiarized=JJ=none
 unplagued=JJ=none
 unplaned=JJ=none
 unplanished=JJ=none
@@ -172746,17 +172591,13 @@ unplundered=JJ=none
 unplunderous=JJ=none
 unplunderously=RB=none
 unplunged=JJ=none
-unpluralised=JJ=none
 unpluralistic=JJ=none
-unpluralized=JJ=none
 unplutocratic=JJ=none
 unplutocratical=JJ=none
 unpneumatic=JJ=none
 unpneumatically=RB=none
 unpoached=JJ=none
 unpodded=JJ=none
-unpoeticised=JJ=none
-unpoeticized=JJ=none
 unpoetized=JJ=none
 unpoignant=JJ=none
 unpoignantly=RB=none
@@ -172765,7 +172606,6 @@ unpoisonable=JJ=none
 unpoisoned=JJ=none
 unpoisonous=JJ=none
 unpoisonously=RB=none
-unpolarised=JJ=none
 unpoled=JJ=none
 unpolemic=JJ=none
 unpolemical=JJ=none
@@ -172782,8 +172622,6 @@ unponderousness=NN=none
 unpontifical=JJ=none
 unpontifically=RB=none
 unpooled=JJ=none
-unpopularised=JJ=none
-unpopularized=JJ=none
 unpopulous=JJ=none
 unpopulously=RB=none
 unporcelainized=JJ=none
@@ -172834,8 +172672,6 @@ unpracticability=NN:UN=none
 unpracticality=NN:UN=gb
 unpragmatic=JJ=none
 unpragmatical=JJ=none
-unpraisable=JJ=none
-unpraised=JJ=none
 unpraiseful=JJ=none
 unpraiseworthy=JJ=none
 unpraising=JJ=none
@@ -173030,7 +172866,6 @@ unprolonged=JJ=none
 unpromiscuous=JJ=none
 unpromiscuously=RB=none
 unpromiscuousness=NN=none
-unpromised=JJ=none
 unpromotable=JJ=none
 unpromoted=JJ=none
 unpromotional=JJ=none
@@ -173240,7 +173075,6 @@ unrailed=JJ=none
 unrailroaded=JJ=none
 unrailwayed=JJ=none
 unrainy=JJ=none
-unraisable=JJ=none
 unraiseable=JJ=none
 unraked=JJ=none
 unraking=JJ=none
@@ -173964,10 +173798,6 @@ unsating=JJ=none
 unsatiric=JJ=none
 unsatirical=JJ=none
 unsatiricalness=NN=none
-unsatirisable=JJ=none
-unsatirised=JJ=none
-unsatirizable=JJ=none
-unsatirized=JJ=none
 unsatisfiability=UNTAGGED=all
 unsatisfyingly=UNTAGGED=gb
 unsaturable=JJ=none
@@ -173993,8 +173823,6 @@ unscalding=JJ=none
 unscaleable=UNTAGGED=gb
 unscalloped=JJ=none
 unscamped=JJ=none
-unscandalised=JJ=none
-unscandalized=JJ=none
 unscandalous=JJ=none
 unscandalously=RB=none
 unscannable=JJ=none
@@ -174015,8 +173843,6 @@ unsceptered=JJ=none
 unsceptred=JJ=none
 unschematic=JJ=none
 unschematically=RB=none
-unschematised=JJ=none
-unschematized=JJ=none
 unschemed=JJ=none
 unscheming=JJ=none
 unschismatic=JJ=none
@@ -174065,7 +173891,6 @@ unscrupled=JJ=none
 unscrutable=JJ=none
 unscrutinising=JJ=none
 unscrutinisingly=RB=none
-unscrutinized=JJ=none
 unscrutinizing=JJ=none
 unsculptural=JJ=none
 unsculptured=JJ=none
@@ -174089,13 +173914,9 @@ unsecreted=JJ=none
 unsecreting=JJ=none
 unsecretive=JJ=none
 unsectional=JJ=none
-unsectionalised=JJ=none
-unsectionalized=JJ=none
 unsectionally=RB=none
 unsectioned=JJ=none
 unsecular=JJ=none
-unsecularised=JJ=none
-unsecularized=JJ=none
 unsecularly=RB=none
 unsecurely=RB=none
 unsecureness=NN=none
@@ -174131,7 +173952,6 @@ unseignioral=JJ=none
 unseignorial=JJ=none
 unseismal=JJ=none
 unseismic=JJ=none
-unseized=JJ=none
 unself-knowing=JJ=none
 unself-possessed=JJ=none
 unself-righteous=JJ=none
@@ -174153,9 +173973,7 @@ unsensing=JJ=none
 unsensitised=UNTAGGED=nz
 unsensory=JJ=none
 unsensual=JJ=none
-unsensualised=JJ=none
 unsensualistic=JJ=none
-unsensualized=JJ=none
 unsensuous=JJ=none
 unsensuously=RB=none
 unsentenced=JJ=none
@@ -174184,8 +174002,6 @@ unseraphically=RB=none
 unserenaded=JJ=none
 unserene=JJ=none
 unsereneness=NN=none
-unserialised=JJ=none
-unserialized=JJ=none
 unserrate=JJ=none
 unserrated=JJ=none
 unserried=JJ=none
@@ -174325,8 +174141,6 @@ unsighing=JJ=none
 unsight=JJ=none
 unsignable=JJ=none
 unsignaled=JJ=none
-unsignalised=JJ=none
-unsignalized=JJ=none
 unsignalled=JJ=none
 unsignatured=JJ=none
 unsigneted=JJ=none
@@ -174527,7 +174341,6 @@ unsobering=JJ=none
 unsocialising=JJ=none
 unsocialism=NN:UN=none
 unsocialistic=JJ=none
-unsocializable=JJ=none
 unsocializing=JJ=none
 unsociological=JJ=none
 unsociologically=RB=none
@@ -174670,10 +174483,8 @@ unspirally=RB=none
 unspired=JJ=none
 unspiring=JJ=none
 unspiriting=JJ=none
-unspiritualised=JJ=none
 unspiritualising=JJ=none
 unspirituality=NN:UN=gb
-unspiritualized=JJ=none
 unspiritualizing=JJ=none
 unspirituous=JJ=none
 unspited=JJ=none
@@ -175026,7 +174837,6 @@ unsulliable=JJ=none
 unsulphonated=JJ=none
 unsulphureness=NN=none
 unsulphureous=JJ=none
-unsulphurized=JJ=none
 unsultry=JJ=none
 unsummable=JJ=none
 unsummonable=JJ=none
@@ -175092,7 +174902,6 @@ unsurging=JJ=none
 unsurlily=RB=none
 unsurliness=NN=none
 unsurly=RB=none
-unsurmised=JJ=none
 unsurmising=JJ=none
 unsurmounted=JJ=none
 unsurnamed=JJ=none
@@ -175159,11 +174968,8 @@ unsyllogistically=RB=none
 unsymbolic=JJ=none
 unsymbolical=JJ=none
 unsymmetric=JJ=none
-unsymmetrized=JJ=none
-unsympathised=JJ=none
 unsympathising=JJ=nz
 unsympathisingly=RB=none
-unsympathized=JJ=none
 unsympathizing=JJ=none
 unsymphonious=JJ=none
 unsymphoniously=RB=none
@@ -175219,9 +175025,7 @@ untangentally=RB=none
 untangential=JJ=none
 untangentially=RB=none
 untangible=JJ=none
-untantalised=JJ=none
 untantalising=JJ=none
-untantalized=JJ=none
 untantalizing=JJ=none
 untaped=JJ=none
 untapered=JJ=none
@@ -175287,7 +175091,6 @@ untenacious=JJ=none
 untenaciously=RB=none
 untenaciousness=NN=none
 untenacity=NN=none
-untenderized=JJ=none
 untenebrous=JJ=none
 untense=JJ=none
 untensely=RB=none
@@ -175313,7 +175116,6 @@ unterrific=JJ=none
 unterrifically=RB=none
 unterrified=JJ=none
 unterrifying=JJ=none
-unterrorized=JJ=none
 unterse=JJ=none
 untersely=RB=none
 unterseness=NN=none
@@ -175557,7 +175359,6 @@ untreasurable=JJ=none
 untreasured=JJ=none
 untreed=JJ=none
 untrekked=JJ=none
-untrellised=JJ=none
 untrembling=JJ=none
 untremendous=JJ=none
 untremendously=RB=none
@@ -175671,8 +175472,6 @@ untypicality=NN:UN=none
 untyrannic=JJ=none
 untyrannical=JJ=none
 untyrannically=RB=none
-untyrannised=JJ=none
-untyrannized=JJ=none
 untyrantlike=JJ=none
 untyred=UNTAGGED=gb,nz,za
 unubiquitous=JJ=none
@@ -175688,7 +175487,6 @@ ununderstood=JJ=none
 ununifiable=JJ=none
 ununified=JJ=none
 ununiformed=JJ=none
-ununionized=JJ=none
 ununique=JJ=none
 ununiquely=RB=none
 ununiqueness=NN=none
@@ -175703,7 +175501,6 @@ unupsettable=JJ=none
 unurban=JJ=none
 unurbane=JJ=none
 unurbanely=RB=none
-unurbanized=JJ=none
 unurged=JJ=none
 unurgent=JJ=none
 unurgently=RB=none
@@ -175719,7 +175516,6 @@ unusuriousness=NN=none
 unusurped=JJ=none
 unusurping=JJ=none
 unutilitarian=JJ=none
-unutilizable=JJ=none
 unuxorious=JJ=none
 unuxoriously=RB=none
 unuxoriousness=NN=none
@@ -175850,7 +175646,6 @@ unvicariousness=NN=none
 unvicious=JJ=none
 unviciously=RB=none
 unviciousness=NN=none
-unvictimized=JJ=none
 unvictorious=JJ=none
 unvictualed=JJ=none
 unvictualled=JJ=none
@@ -175888,11 +175683,8 @@ unvisiting=JJ=none
 unvisored=JJ=none
 unvistaed=JJ=none
 unvisual=JJ=none
-unvisualised=JJ=none
-unvisualized=JJ=none
 unvisually=RB=none
 unvital=JJ=none
-unvitalized=JJ=none
 unvitalizing=JJ=none
 unvitally=RB=none
 unvitalness=NN=none
@@ -175929,8 +175721,6 @@ unvoid=JJ=none
 unvoidable=JJ=none
 unvoided=JJ=none
 unvolatile=JJ=none
-unvolatilised=JJ=none
-unvolatilized=JJ=none
 unvolcanic=JJ=none
 unvolcanically=RB=none
 unvolitional=JJ=none
