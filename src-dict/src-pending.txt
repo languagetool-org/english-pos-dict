@@ -11569,7 +11569,6 @@ Cookhill=UNTAGGED=gb
 Cookie=NNP=none
 Cookley=UNTAGGED=gb
 Cookshire-Eaton=UNTAGGED=gb
-Cookstown=UNTAGGED=gb,us-large,za
 CoolClimate=UNTAGGED=all
 CoolMax=UNTAGGED=gb
 Coolaney=UNTAGGED=gb
@@ -11589,14 +11588,11 @@ Cooranbong=UNTAGGED=au
 Coors=UNTAGGED=all
 Coosa=UNTAGGED=gb
 Cop=NNP=none
-Copacabana=UNTAGGED=au,ca,us
 Copcn=NNP=none
 Copdock=UNTAGGED=gb
 Cope=NNP=none
 Copehan=NNP=none
 Copeia=NNP=none
-Copenhagener=Copenhagener/NNP,Copenhageners/NNPS=none
-Copernicanism=Copernicanism/NNP,Copernicanisms/NNPS=none
 Copernicia=NNP=none
 Copford=UNTAGGED=gb
 Copgrove=UNTAGGED=gb
@@ -40799,7 +40795,6 @@ Priacanthidae=NNP=none
 Priacanthus=NNP=none
 Priapulida=UNTAGGED=all
 Pribilof=UNTAGGED=au,ca,us
-PricewaterhouseCoopers=UNTAGGED=all
 Pricilla=NNP=none
 Priddy=UNTAGGED=gb
 Priebe=NNP=none
@@ -60310,9 +60305,6 @@ arrayal=noun=none
 arrayer=noun=gb,nz,za
 arraylike=UNTAGGED=gb
 arrayment=noun=none
-arrector=UNTAGGED=all
-arrectores=UNTAGGED=all
-arrectors=UNTAGGED=all
 arrenotoky=NN=none
 arrestant=noun=none
 arrestation=noun_UN=none
@@ -60631,11 +60623,6 @@ asplenium=NN=gb,nz,za
 aspleniums=UNTAGGED=gb
 asrama=noun=none
 ass-headed=JJ=none
-ass-kiss=UNTAGGED=all
-ass-kissed=UNTAGGED=all
-ass-kissers=UNTAGGED=all
-ass-kisses=UNTAGGED=all
-ass-kissing=UNTAGGED=all
 assafetida=NN=none
 assailability=NN:UN=none
 assailer=noun=us-large
@@ -64157,7 +64144,6 @@ bird-watcher=NN=none
 birdcall=noun=none
 birdfarm=noun=none
 birdfeed=noun=none
-birdfeeders=UNTAGGED=all
 birdman=birdman/NN,birdmen/NNS=us-large
 birdnest=birdnest/VB,birdnesting/VBG,birdnest/VBP=none
 birdnesting=NN:UN=none
@@ -65216,7 +65202,6 @@ bootikin=noun=none
 bootjack=noun=us-large
 bootkit=UNTAGGED=gb
 bootkits=UNTAGGED=gb
-bootloaders=UNTAGGED=all
 bootmaker=noun=gb
 bootprint=UNTAGGED=gb
 bootprints=UNTAGGED=gb,nz,za
@@ -69272,7 +69257,6 @@ chanfron=noun=none
 change-of-pace=NN=none
 change-ringing=NN:UN=gb,nz,za
 change-up=NN=none
-changemakers=UNTAGGED=all
 changepocket=NN=none
 changeset=UNTAGGED=gb
 changesets=UNTAGGED=gb
@@ -71487,10 +71471,6 @@ co-respondents=UNTAGGED=gb,nz,za
 co-signer=NN=none
 co-site=UNTAGGED=gb,nz,za
 co-surety=NN=none
-co-transfer=UNTAGGED=all
-co-transferred=UNTAGGED=all
-co-transferring=UNTAGGED=all
-co-transfers=UNTAGGED=all
 co-trimoxazolally=UNTAGGED=gb
 co-trimoxazolation=UNTAGGED=gb
 co-trimoxazolations=UNTAGGED=gb
@@ -71814,10 +71794,6 @@ coelomic=UNTAGGED=gb
 coelophysis=NN=none
 coeloscope=NN=none
 coelostat=noun=us-large
-coelurosaur=UNTAGGED=all
-coelurosaurian=UNTAGGED=gb
-coelurosaurians=UNTAGGED=all
-coelurosaurs=UNTAGGED=all
 coemption=noun_UN=none
 coenacle=NN=none
 coenaculum=NN=none
@@ -74071,7 +74047,6 @@ craftless=JJ=none
 craftmanship=noun=none
 craftsmanlike=UNTAGGED=us-large
 craftsmaster=noun=none
-craftworkers=UNTAGGED=all
 crag-and-tail=NN=none
 craggedly=RB=none
 craig=noun=none
@@ -74986,7 +74961,6 @@ cupeller=noun=none
 cupelling=cupelling/NN,cupelling/NNS=gb
 cupflower=NN=none
 cuphead=noun=none
-cupholders=UNTAGGED=all
 cupman=cupman/NN,cupmen/NNS=none
 cupolaed=UNTAGGED=all
 cupolaing=UNTAGGED=gb,nz,za
@@ -76672,7 +76646,6 @@ daywearible=UNTAGGED=gb
 daywearisability=UNTAGGED=gb
 daywearisable=UNTAGGED=gb
 daywork=noun=gb
-dayworkers=UNTAGGED=all
 db=noun=au,ca,us
 dbl=NN=au,ca,us
 dbms=NN=none
@@ -79942,9 +79915,6 @@ dorsalis=NN=gb
 dorse=noun=none
 dorsel=noun=none
 dorser=noun=us-large
-dorsiflexional=UNTAGGED=all
-dorsiflexions=UNTAGGED=all
-dorsiflexors=UNTAGGED=all
 dorsigrade=JJ=none
 dorsolaterally=UNTAGGED=gb
 dorter=noun=none
@@ -80069,7 +80039,6 @@ dowily=RB=none
 dowiness=NN=none
 down-and-outs=UNTAGGED=gb,nz,za
 down-bow=NN=none
-down-easters=UNTAGGED=all
 down-market=JJ=none
 down-the-line=JJ=none
 down-the-line=RB=none
@@ -82183,10 +82152,6 @@ emmer=noun=us-large
 emmetrope=noun=none
 emmetropia=noun=us-large
 emodin=noun=none
-emolliate=UNTAGGED=gb
-emolliated=UNTAGGED=gb
-emolliates=UNTAGGED=gb
-emolliating=UNTAGGED=gb
 emollienceably=UNTAGGED=gb
 emolliencery=UNTAGGED=gb
 emolliencially=UNTAGGED=gb
@@ -82207,7 +82172,6 @@ empale=verb=us-large
 empalement=NN=none
 empaler=noun=none
 empanelment=noun=us-large
-empathetical=UNTAGGED=gb,nz,za
 empathist=UNTAGGED=gb
 empathists=UNTAGGED=gb
 emperorship=noun=none
@@ -82230,13 +82194,7 @@ emplacing=UNTAGGED=gb
 emplectite=NN=none
 emplecton=noun=none
 employe=noun=none
-empoison=UNTAGGED=gb,us-large
-empoisoned=UNTAGGED=gb
-empoisoner=UNTAGGED=gb
-empoisoning=UNTAGGED=gb
-empoisonings=UNTAGGED=gb
 empoisonment=noun=none
-empoisons=UNTAGGED=gb
 emporiaably=UNTAGGED=gb
 emporiaer=UNTAGGED=gb
 emporially=UNTAGGED=gb
@@ -82246,30 +82204,11 @@ empoverish=UNTAGGED=us-large
 empressement=noun=us-large
 emprise=noun=us-large
 emprize=noun=none
-empt=UNTAGGED=gb,nz,za
-empted=UNTAGGED=gb,nz,za
-empting=UNTAGGED=gb,nz,za
 emption=noun_UN=gb,nz,za
 emptive=UNTAGGED=gb,nz,za
 emptors=UNTAGGED=gb
 empts=UNTAGGED=gb,nz,za
 empty-bellied=JJ=none
-empty-handedly=UNTAGGED=gb
-empty-handednessably=UNTAGGED=gb
-empty-handednessally=UNTAGGED=gb
-empty-handednessation=UNTAGGED=gb
-empty-handednessible=UNTAGGED=gb
-empty-handednession=UNTAGGED=gb
-empty-handednessisability=UNTAGGED=gb
-empty-handednessisable=UNTAGGED=gb
-empty-headedness=NN=none
-empty-headednessably=UNTAGGED=gb
-empty-headednessally=UNTAGGED=gb
-empty-headednessation=UNTAGGED=gb
-empty-headednessible=UNTAGGED=gb
-empty-headednession=UNTAGGED=gb
-empty-headednessisability=UNTAGGED=gb
-empty-headednessisable=UNTAGGED=gb
 empurple=verb=us-large
 empusa=noun=none
 empyema=noun_U=us-large
@@ -84686,7 +84625,6 @@ eye-level=UNTAGGED=gb,nz,za
 eye-liner=UNTAGGED=gb,nz,za
 eye-liners=UNTAGGED=gb,nz,za
 eye-lotion=NN:UN=none
-eye-openers=UNTAGGED=all
 eye-popper=NN=none
 eye-shadow=UNTAGGED=nz,za
 eye-teeth=UNTAGGED=gb,nz,za
@@ -84893,7 +84831,6 @@ fah=noun=gb
 fahlband=noun=us-large
 faiade=NN=none
 faience=noun_U=au,ca,us
-failovers=UNTAGGED=all
 fainaant=JJ=none
 fainaant=NN=none
 fainaiguer=NN=none
@@ -85996,7 +85933,6 @@ firmiana=NN=none
 firn=noun=us-large
 firnification=NN:UN=none
 firring=noun=none
-first-aiders=UNTAGGED=all
 first-borns=UNTAGGED=nz,za
 first-come-first-serve=JJ=none
 first-day=UNTAGGED=gb,nz,za
@@ -86101,7 +86037,6 @@ fivespot=noun=none
 fivestones=NN:U=gb
 fixatif=fixatif/NN,fixatifs/NNS,fixatives/NNS=gb
 fixature=noun=none
-fixer-uppers=UNTAGGED=all
 fixigena=UNTAGGED=gb
 fixigenae=UNTAGGED=gb
 fixure=noun=none
@@ -87085,7 +87020,6 @@ forty-fivefold=UNTAGGED=gb,nz,za
 forty-fourfold=UNTAGGED=gb,nz,za
 forty-fourths=UNTAGGED=gb,nz,za
 forty-ninefold=UNTAGGED=gb,nz,za
-forty-niners=UNTAGGED=all
 forty-ninths=UNTAGGED=gb,nz,za
 forty-onefold=UNTAGGED=gb,nz,za
 forty-seconds=UNTAGGED=gb,nz,za
@@ -92629,7 +92563,6 @@ handservant=UNTAGGED=gb
 handservants=UNTAGGED=gb
 handsfree=UNTAGGED=gb
 handsfrees=UNTAGGED=gb
-handshakers=UNTAGGED=all
 handstaff=noun=none
 handstamp=NN=none
 handstamp=handstamp/VB,handstamp/VBP=none
@@ -93408,7 +93341,6 @@ helotium=NN=none
 helpfile=UNTAGGED=gb
 helpfiles=UNTAGGED=gb
 helsingfors=NN=none
-helter-skelters=UNTAGGED=all
 helter=UNTAGGED=gb,nz,za
 helters=UNTAGGED=gb
 helterskelteriness=NN=none
@@ -94107,7 +94039,6 @@ high-mindednesses=UNTAGGED=gb
 high-muck-a-muck=NN:UN=none
 high-principled=JJ=none
 high-proof=JJ=none
-high-risers=UNTAGGED=all
 high-sea=JJ=none
 high-spiritedly=RB=none
 high-stepped=JJ=none
@@ -94658,7 +94589,6 @@ homeward-bounders=UNTAGGED=gb
 homewardly=UNTAGGED=gb
 homeware=UNTAGGED=gb
 homewares=UNTAGGED=gb
-homeworkers=UNTAGGED=all
 homie=homie/JJ,homier/JJR,homiest/JJS=us
 homie=noun=us
 homiliaries=UNTAGGED=gb
@@ -98511,7 +98441,6 @@ interlinguistics=UNTAGGED=gb
 interloan=JJ=none
 interloan=NN=none
 interlocation=noun_UN=none
-interlockers=UNTAGGED=all
 interloculus=NN=none
 interlocutress=noun=us-large
 interlocutrice=noun=none
@@ -102356,7 +102285,6 @@ leadsman=leadsman/NN,leadsmen/NNS=us-large
 leadwork=noun=gb
 leady=leady/JJ,leadier/JJR,leadiest/JJS=none
 leaf-climber=NN=none
-leaf-cutters=UNTAGGED=all
 leaf-hopper=NN=none
 leaf-lard=NN:U=none
 leaf-like=UNTAGGED=gb
@@ -102367,7 +102295,6 @@ leafleter=noun=none
 leafminer=NN=none
 leafroller=NN=none
 leafworm=noun=none
-leaguers=UNTAGGED=all
 leakance=NN=none
 lealty=noun=none
 lean-burn=UNTAGGED=gb,nz,za
@@ -105046,7 +104973,6 @@ mamzer=noun=none
 man-about-town=NN=none
 man-child=NN=none
 man-day=NN:UN=none
-man-eaters=UNTAGGED=all
 man-o'-war=UNTAGGED=gb
 man-o=UNTAGGED=gb
 man-of-the-earth=NN=none
@@ -110136,8 +110062,6 @@ namby-pambyish=JJ=none
 namby-pambyism=NN:UN=none
 namby=UNTAGGED=gb,nz,za
 name-caller=NN=none
-name-calling=NN:UN=gb,nz,za
-name-droppers=UNTAGGED=all
 nameability=NN:UN=none
 namedrop [-pp-]=verb=none
 namedropper=noun=none
@@ -117380,8 +117304,6 @@ offsiders=UNTAGGED=gb
 offsite=UNTAGGED=au,ca,us
 offspringless=UNTAGGED=gb
 offt=UNTAGGED=gb
-offtaker=UNTAGGED=all
-offtakers=UNTAGGED=all
 offward=noun=none
 oflag=noun=none
 ofo=NN=none
@@ -118947,7 +118869,6 @@ overcausticity=NN=none
 overcensorious=JJ=none
 overcensoriously=RB=none
 overcensoriousness=NN=none
-overchargers=UNTAGGED=all
 overcharitableness=NN=none
 overcharity=NN:UN=none
 overcheap=JJ=none
@@ -125293,7 +125214,6 @@ polaron=noun=gb
 polarward=UNTAGGED=gb
 polderland=UNTAGGED=gb
 polderman=UNTAGGED=gb
-polders=UNTAGGED=all
 pole-axe=UNTAGGED=gb
 pole-axed=UNTAGGED=gb,nz,za
 pole-axes=UNTAGGED=gb,nz,za
@@ -127582,7 +127502,6 @@ preextinguishment=NN=none
 preextraction=NN:UN=none
 prefabricator=noun=gb
 prefacer=noun=gb,nz,za
-prefactors=UNTAGGED=all
 prefamiliar=JJ=none
 prefamiliarity=NN:UN=none
 prefamiliarly=RB=none
@@ -129285,11 +129204,6 @@ pronuncio=noun=none
 proo=noun=none
 prooemion=noun=none
 prooemium=noun=none
-proof-read=UNTAGGED=gb,nz,za
-proof-reader=UNTAGGED=gb,nz,za
-proof-readers=UNTAGGED=gb,nz,za
-proof-reading=UNTAGGED=gb,nz,za
-proof-reads=UNTAGGED=gb,nz,za
 proofroom=noun=none
 prootic=noun=gb
 propacifism=NN:UN=none
@@ -129376,7 +129290,6 @@ propria=UNTAGGED=gb
 proprietarily=UNTAGGED=us-large
 proprietrix=noun=none
 proprio=UNTAGGED=gb
-proprioceptively=UNTAGGED=gb,us-large
 proprionamide=NN:U=none
 proprios=UNTAGGED=gb
 proprivilege=JJ=none
@@ -133932,7 +133845,6 @@ regainment=noun=none
 regalecidae=NN=none
 regalist=noun=gb
 regarder=noun=none
-regardlessly=UNTAGGED=gb,us-large
 regear=UNTAGGED=us-large
 regelate=UNTAGGED=gb,us-large
 regentship=noun=none
@@ -134119,10 +134031,6 @@ relitigation=NN:UN=none
 relleno=noun=gb
 reloader=noun=gb
 relocatee=noun=none
-relock=UNTAGGED=gb,nz,za
-relocked=UNTAGGED=gb,nz,us-large,za
-relocking=UNTAGGED=gb,nz,za
-relocks=UNTAGGED=gb,nz,za
 relubrication=noun_UN=none
 reluct=UNTAGGED=gb,us-large
 reluctancy=noun=none
@@ -134142,7 +134050,6 @@ remastery=NN=none
 remastication=NN:UN=none
 remblai=NN=gb
 remediability=noun_UN=gb
-rememberable=UNTAGGED=all
 remigation=noun_UN=none
 remigrant=NN=none
 remigrate=verb=au,ca,us
@@ -134165,15 +134072,6 @@ remobilisable=UNTAGGED=gb,nz,za
 remobilizability=UNTAGGED=gb,nz,za
 remobilizable=UNTAGGED=gb,nz,za
 remodeler=noun=us-large
-remodification=noun_UN=us-large
-remodify=UNTAGGED=us-large
-remodulate=UNTAGGED=gb,nz,za
-remodulated=UNTAGGED=gb,nz,za
-remodulates=UNTAGGED=gb,nz,za
-remodulating=UNTAGGED=gb,nz,za
-remodulation=UNTAGGED=gb,nz,za
-remodulator=UNTAGGED=gb,nz,za
-remodulators=UNTAGGED=gb,nz,za
 remolade=noun=none
 remontoir=NN=none
 remontoire=NN=none
@@ -134253,7 +134151,6 @@ repechage=noun=us-large
 repellency=noun=us-large
 reperception=NN:UN=none
 repercussive=UNTAGGED=gb,us-large
-reperforators=UNTAGGED=all
 reperformance=NN=gb
 reperfusion=NN=gb
 repertorial=UNTAGGED=us-large
@@ -136250,7 +136147,6 @@ sailing-race=NN:UN=none
 sailing-ship=UNTAGGED=gb,nz,za
 sailing-ships=UNTAGGED=gb,nz,za
 sailing-vessel=UNTAGGED=nz,za
-sailmakers=UNTAGGED=all
 sailmaking=UNTAGGED=gb
 sailoring=noun=none
 sailplaner=noun=none
@@ -137812,7 +137708,6 @@ seconal=noun=none
 second-degree=UNTAGGED=gb,nz,za
 second-generation=NN:UN=none
 second-grader=noun=none
-second-guessers=UNTAGGED=all
 second-handedness=NN=none
 second-in-command=NN=none
 second-rateness=NN=none
@@ -141366,7 +141261,6 @@ skinking=JJ=none
 skinnerian=JJ=none
 skinnery=NN=none
 skinny-dipped=UNTAGGED=all
-skinny-dippers=UNTAGGED=all
 skioring=noun=none
 skipdent=NN=none
 skiplane=noun=us-large
@@ -142341,7 +142235,6 @@ sonoluminescenction=UNTAGGED=gb
 sonoluminescenctions=UNTAGGED=gb
 sonoluminescenctiveness=UNTAGGED=gb
 sonoluminescent=UNTAGGED=gb
-sonometers=UNTAGGED=gb
 sonovox=noun=none
 sonship=noun=gb
 sonsie=sonsie/JJ,sonsier/JJR,sonsiest/JJS=gb
@@ -142488,7 +142381,6 @@ souple=NN=none
 soupling=soupling/NN,soupling/NNS=none
 soupmeat=NN=none
 soupspoon=noun=us-large
-soupçons=UNTAGGED=gb,nz,us-large,za
 sourball=noun=us-large
 sourbread=NN=none
 sourceful=JJ=none
@@ -142771,7 +142663,6 @@ spectroheliogram=noun=none
 spectroheliography=noun=none
 spectrology=NN:UN=none
 spectropolariscope=NN=none
-spectroradiometers=UNTAGGED=gb
 specularity=noun_UN=none
 speculatist=noun=none
 speculatrix=noun=none
@@ -143427,7 +143318,6 @@ squatocracies=UNTAGGED=au
 squatocracy=UNTAGGED=au
 squatterdom=NN=none
 squattily=RB=none
-squattocracies=UNTAGGED=all
 squatty=squatty/JJ,squattier/JJR,squattiest/JJS=none
 squawbush=NN=none
 squawfish=squawfish/NN,squawfish/NNS=gb
@@ -149423,7 +149313,6 @@ tentering=UNTAGGED=gb
 tentful=noun=none
 tenthredinidae=NN=none
 tentie=tentie/JJ,tentier/JJR,tentiest/JJS=none
-tentmakers=UNTAGGED=all
 tentorium=noun=none
 tenty=tenty/JJ,tentier/JJR,tentiest/JJS=none
 tenue=noun=none
@@ -151105,7 +150994,6 @@ torch-bearers=UNTAGGED=gb,nz,za
 torchare=NN=none
 torchbearer=noun=au,ca,us
 torchere=noun=none
-torchers=UNTAGGED=all
 torchier=noun=us-large
 torchiere=noun=none
 torchlit=UNTAGGED=gb,us-large
@@ -152207,7 +152095,6 @@ tripisable=UNTAGGED=gb
 tripiser=UNTAGGED=gb
 tripisers=UNTAGGED=gb
 triple-crown=JJ=none
-triple-deckers=UNTAGGED=all
 triple-header=NN=none
 triple-nerved=JJ=none
 triple-spacing=NN:UN=none
@@ -154608,11 +154495,6 @@ underreader=NN=none
 underrealm=NN=none
 underreceiver=NN=none
 underreckoning=NN=none
-underrecover=UNTAGGED=all
-underrecovered=UNTAGGED=all
-underrecovering=UNTAGGED=all
-underrecovers=UNTAGGED=all
-underrecovery=UNTAGGED=all
 underregion=NN=none
 underregistration=NN:UN=none
 underrepresent=verb=us
@@ -160397,7 +160279,6 @@ waterweed=noun=gb
 waterwork=noun=none
 watery-eyed=JJ=none
 waterzooi=noun=none
-watt-hours=UNTAGGED=all
 wattape=noun=none
 watthour=noun=none
 wattlebird=noun=gb
@@ -161942,23 +161823,9 @@ wiseguy=noun=au,ca,us
 wiseling=wiseling/NN,wiseling/NNS=none
 wisenheimer=noun=us-large
 wisewoman=wisewoman/NN,wisewomen/NNS=none
-wish-list=NN:UN=nz,za
 wish-wash=NN:UN=none
 wished-for=JJ=none
-wishfulnessably=UNTAGGED=gb
-wishfulnessally=UNTAGGED=gb
-wishfulnessation=UNTAGGED=gb
-wishfulnessations=UNTAGGED=gb
-wishfulnessible=UNTAGGED=gb
-wishfulnession=UNTAGGED=gb
-wishfulnessisability=UNTAGGED=gb
-wishfulnessisable=UNTAGGED=gb
-wishfulnessiser=UNTAGGED=gb
-wishfulnessisers=UNTAGGED=gb
-wishfulnessiveness=UNTAGGED=gb
-wishfulnessory=UNTAGGED=gb
 wishing-well=UNTAGGED=nz,za
-wishlist=UNTAGGED=au,ca,us
 wishtonwish=noun=none
 wishy=UNTAGGED=gb,nz,za
 wisket=noun=none
@@ -162655,7 +162522,6 @@ yarborough=noun=none
 yard-of-ale=NN=none
 yardang=noun=none
 yarded=UNTAGGED=nz
-yarders=UNTAGGED=all
 yardgrass=NN=none
 yardie=NN=none
 yardland=noun=none
@@ -162697,7 +162563,6 @@ yeah-yeah=JJ=none
 yealing=yealing/NN,yealing/NNS=none
 yean=verb=us-large
 yeanling=yeanling/NN,yeanling/NNS=us-large
-year-ends=UNTAGGED=all
 year-rounder=UNTAGGED=gb
 year-rounders=UNTAGGED=gb
 yearful=UNTAGGED=gb

@@ -2030,7 +2030,6 @@ Akshay
 Aksum
 Akthar
 Aktiengesellschaft
-Al
 Al-Aqsa
 Al-Baladhuri
 Al-Farabi
@@ -9244,6 +9243,7 @@ Cook
 Cooke
 Cookeville
 Cooksley
+Cookstown
 Cooley
 Coolidge
 Coombs
@@ -9252,11 +9252,15 @@ Cooper
 Cooperstown
 Coorg
 Coos
+Copacabana
 Copaxone
 Copeland
 Copenhagen
+Copenhagener
+Copenhageners
 Copepoda
 Copernican
+Copernicanism
 Copernicans
 Copernicus
 Copiapó
@@ -28917,6 +28921,7 @@ Priam
 Priapus
 Price
 Priceline
+PricewaterhouseCoopers
 Prichard
 Pride
 Priest
@@ -46092,6 +46097,9 @@ arrear
 arrearage
 arrearages
 arrears
+arrector
+arrectores
+arrectors
 arrenotokous
 arrest
 arrestable
@@ -46534,7 +46542,12 @@ asprawl
 asps
 asquint
 ass
+ass-kiss
+ass-kissed
 ass-kisser
+ass-kissers
+ass-kisses
+ass-kissing
 assagai
 assagais
 assai
@@ -51843,6 +51856,7 @@ birded
 birder
 birders
 birdfeeder
+birdfeeders
 birdhouse
 birdhouses
 birdie
@@ -53433,6 +53447,7 @@ bootlickers
 bootlicking
 bootlicks
 bootloader
+bootloaders
 boots
 bootses
 bootstrap
@@ -58955,6 +58970,7 @@ changelings
 changelog
 changelogs
 changemaker
+changemakers
 changeover
 changeovers
 changer
@@ -61882,6 +61898,10 @@ co-star
 co-starred
 co-starring
 co-stars
+co-transfer
+co-transferred
+co-transferring
+co-transfers
 co-worker
 co-workers
 co-working
@@ -62282,6 +62302,10 @@ coelenterate
 coelenterates
 coeliac
 coelomate
+coelurosaur
+coelurosaurian
+coelurosaurians
+coelurosaurs
 coenobitic
 coenobitical
 coenocyte
@@ -66474,6 +66498,10 @@ cotinga
 cotingas
 cotoneaster
 cotoneasters
+cotransfer
+cotransferred
+cotransferring
+cotransfers
 cots
 cottage
 cottaged
@@ -67289,6 +67317,7 @@ craftswoman
 craftswomen
 craftwork
 craftworker
+craftworkers
 crafty
 crag
 cragged
@@ -68744,6 +68773,7 @@ cupels
 cupful
 cupfuls
 cupholder
+cupholders
 cupid
 cupidinous
 cupidinously
@@ -69995,6 +70025,7 @@ daystars
 daytime
 daytimes
 dayworker
+dayworkers
 daze
 dazed
 dazedly
@@ -76290,7 +76321,10 @@ dorsiflexed
 dorsiflexes
 dorsiflexing
 dorsiflexion
+dorsiflexional
+dorsiflexions
 dorsiflexor
+dorsiflexors
 dorsispinal
 dorsiventral
 dorsiventralities
@@ -76544,6 +76578,7 @@ down
 down-and-out
 down-at-heel
 down-easter
+down-easters
 down-tempo
 down-to-earth
 downbeat
@@ -79595,6 +79630,10 @@ emmets
 emo
 emoji
 emojis
+emolliate
+emolliated
+emolliates
+emolliating
 emollience
 emollient
 emollients
@@ -79633,6 +79672,7 @@ empanelling
 empanels
 empath
 empathetic
+empathetical
 empathetically
 empathic
 empathically
@@ -79683,6 +79723,10 @@ employing
 employment
 employments
 employs
+empoison
+empoisoned
+empoisoning
+empoisons
 emporia
 emporium
 emporiums
@@ -79706,7 +79750,9 @@ emptively
 emptor
 empty
 empty-handed
+empty-handedly
 empty-headed
+emptyhandedly
 emptying
 emptyings
 empyemic
@@ -83801,6 +83847,7 @@ eye-filling
 eye-minded
 eye-mindedness
 eye-opener
+eye-openers
 eye-opening
 eye-popping
 eye-spotted
@@ -83994,7 +84041,6 @@ factitiousness
 factitive
 factitively
 factly
-facto
 factoid
 factoids
 factor
@@ -84088,6 +84134,7 @@ failings
 faille
 failles
 failover
+failovers
 fails
 failsafe
 failure
@@ -86025,6 +86072,7 @@ firs
 first
 first-aid
 first-aider
+first-aiders
 first-born
 first-chop
 first-class
@@ -86209,6 +86257,7 @@ fixedly
 fixedness
 fixer
 fixer-upper
+fixer-uppers
 fixers
 fixes
 fixing
@@ -88186,6 +88235,7 @@ forty-four
 forty-fourth
 forty-nine
 forty-niner
+forty-niners
 forty-ninth
 forty-one
 forty-second
@@ -95006,6 +95056,7 @@ handsewn
 handsful
 handshake
 handshaker
+handshakers
 handshakes
 handshaking
 handshakings
@@ -96403,6 +96454,7 @@ helpmeet
 helpmeets
 helps
 helter-skelter
+helter-skelters
 helve
 helves
 hem
@@ -97231,6 +97283,7 @@ high-res
 high-resolution
 high-rise
 high-riser
+high-risers
 high-rises
 high-rising
 high-risk
@@ -97985,6 +98038,7 @@ homeward-bound
 homewards
 homework
 homeworker
+homeworkers
 homeworking
 homeworks
 homewrecker
@@ -104739,6 +104793,7 @@ interlocally
 interlock
 interlocked
 interlocker
+interlockers
 interlocking
 interlocks
 interlocular
@@ -109814,6 +109869,7 @@ leadwort
 leadworts
 leaf
 leaf-cutter
+leaf-cutters
 leafage
 leafages
 leafcutter
@@ -109841,6 +109897,7 @@ leafy
 league
 leagued
 leaguer
+leaguers
 leagues
 leaguing
 leak
@@ -113716,6 +113773,7 @@ mammy
 man
 man-at-arms
 man-eater
+man-eaters
 man-eating
 man-hour
 man-hours
@@ -113808,7 +113866,6 @@ manducates
 manducating
 manducatory
 mane
-maneaters
 maned
 maneless
 manes
@@ -121005,9 +121062,11 @@ namby-pambies
 namby-pambiness
 namby-pamby
 name
+name-calling
 name-drop
 name-dropped
 name-dropper
+name-droppers
 name-dropping
 name-drops
 nameable
@@ -127011,6 +127070,8 @@ offsprings
 offstage
 offstages
 offtake
+offtaker
+offtakers
 offtakes
 offtrack
 oft
@@ -129194,6 +129255,7 @@ overcerebral
 overcharge
 overcharged
 overcharger
+overchargers
 overcharges
 overcharging
 overcharitable
@@ -137262,6 +137324,7 @@ polarity
 polarographic
 polars
 polder
+polders
 pole
 pole-vaulter
 pole-vaulters
@@ -139816,6 +139879,7 @@ prefaced
 prefaces
 prefacing
 prefactor
+prefactors
 prefamous
 prefatorial
 prefatory
@@ -141807,6 +141871,11 @@ pronunciations
 pronunciative
 pronunciatory
 proof
+proof-read
+proof-reader
+proof-readers
+proof-reading
+proof-reads
 proofed
 proofer
 proofing
@@ -141994,6 +142063,7 @@ propriety
 proprioception
 proprioceptions
 proprioceptive
+proprioceptively
 proprioceptor
 proprioceptors
 props
@@ -147996,6 +148066,7 @@ regardfully
 regardfulness
 regarding
 regardless
+regardlessly
 regardlessness
 regards
 regasified
@@ -148697,6 +148768,10 @@ relocates
 relocating
 relocation
 relocations
+relock
+relocked
+relocking
+relocks
 relook
 relooked
 relooking
@@ -148794,6 +148869,7 @@ remelts
 remember
 rememberabilities
 rememberability
+rememberable
 remembered
 rememberer
 rememberers
@@ -148859,6 +148935,20 @@ remodel
 remodelled
 remodelling
 remodels
+remodification
+remodifications
+remodified
+remodifies
+remodify
+remodifying
+remodulate
+remodulated
+remodulates
+remodulating
+remodulation
+remodulations
+remodulator
+remodulators
 remold
 remolded
 remolding
@@ -149223,6 +149313,7 @@ repercussions
 repercussively
 repercussiveness
 reperforator
+reperforators
 repertoire
 repertoires
 repertories
@@ -153207,6 +153298,7 @@ sailing
 sailings
 sailless
 sailmaker
+sailmakers
 sailor
 sailorless
 sailorlike
@@ -155417,6 +155509,7 @@ second-class
 second-guess
 second-guessed
 second-guesser
+second-guessers
 second-guesses
 second-guessing
 second-hand
@@ -159443,6 +159536,7 @@ skinny-dip
 skinny-diped
 skinny-diping
 skinny-dipper
+skinny-dippers
 skinny-dips
 skins
 skint
@@ -161476,6 +161570,7 @@ sonographically
 sonographies
 sonography
 sonometer
+sonometers
 sonorant
 sonorants
 sonorities
@@ -161735,6 +161830,7 @@ souplike
 soups
 soupy
 soupçon
+soupçons
 sour
 source
 sourcebook
@@ -162226,6 +162322,7 @@ spectrophotometry
 spectropolarimeter
 spectropolarimeters
 spectroradiometer
+spectroradiometers
 spectroscope
 spectroscopes
 spectroscopic
@@ -163382,6 +163479,7 @@ squatters
 squattest
 squattiness
 squatting
+squattocracies
 squattocracy
 squaw
 squawk
@@ -170943,6 +171041,7 @@ tentings
 tentless
 tentlike
 tentmaker
+tentmakers
 tentorial
 tents
 tenuous
@@ -173422,6 +173521,7 @@ tor
 torch
 torched
 torcher
+torchers
 torches
 torching
 torchless
@@ -175234,6 +175334,7 @@ triple
 triple-deck
 triple-decked
 triple-decker
+triple-deckers
 tripled
 triplegia
 triplegias
@@ -179088,6 +179189,12 @@ undeprived
 undeputed
 under
 under-age
+under-recover
+under-recovered
+under-recoveries
+under-recovering
+under-recovers
+under-recovery
 under-represented
 under-secretaries
 under-secretary
@@ -179482,6 +179589,12 @@ underrate
 underrated
 underrates
 underrating
+underrecover
+underrecovered
+underrecoveries
+underrecovering
+underrecovers
+underrecovery
 underreport
 underreported
 underreporting
@@ -190225,6 +190338,7 @@ waterworn
 watery
 watt
 watt-hour
+watt-hours
 wattage
 wattages
 watter
@@ -191911,6 +192025,8 @@ wiser
 wises
 wisest
 wish
+wish-list
+wish-lists
 wishbone
 wishbones
 wished
@@ -191923,6 +192039,8 @@ wishfulness
 wishing
 wishings
 wishless
+wishlist
+wishlists
 wishy-washily
 wishy-washiness
 wishy-washy
@@ -192903,6 +193021,7 @@ yardarms
 yardbird
 yardbirds
 yarder
+yarders
 yardman
 yardmaster
 yardmasters
@@ -192953,6 +193072,7 @@ yeahs
 year
 year-around
 year-end
+year-ends
 year-long
 year-old
 year-on-year
