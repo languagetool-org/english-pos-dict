@@ -4129,6 +4129,13 @@ itemizer
 itemizers
 itemizes
 itemizing
+jacklight
+jacklighted
+jacklighter
+jacklighters
+jacklighting
+jacklights
+jacklit
 japanize
 japanized
 japanizes
