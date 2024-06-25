@@ -8216,6 +8216,7 @@ unitized
 unitizes
 unitizing
 universalizability
+universalizable
 universalization
 universalizations
 universalize

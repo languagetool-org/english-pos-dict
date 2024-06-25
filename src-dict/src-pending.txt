@@ -1557,7 +1557,6 @@ Aloysia=NNP=none
 Alper=NNP=none
 Alpers=NNP=none
 Alpetragius=NNP=none
-Alphacoronavirus=UNTAGGED=gb
 Alphaea=NNP=none
 Alphagan=UNTAGGED=gb
 Alphage=UNTAGGED=gb
@@ -5523,7 +5522,6 @@ Besthorpe=UNTAGGED=gb
 Bestwood=UNTAGGED=gb
 Beswick=UNTAGGED=gb
 Betacam=UNTAGGED=gb
-Betacoronavirus=UNTAGGED=all
 Betancur=NNP=none
 Betard-Montrachet=NNP=none
 Betaseron=UNTAGGED=gb
@@ -13607,7 +13605,6 @@ Delsarte=NNP=none
 Delsman=NNP=none
 Delson=UNTAGGED=gb
 DeltaRail=UNTAGGED=gb
-Deltacoronavirus=UNTAGGED=all
 Delting=UNTAGGED=gb
 Deltona=UNTAGGED=gb,us
 Deluc=NNP=none
@@ -19046,7 +19043,6 @@ Gamescom=NNP=none
 Gamin=NNP=none
 Gamla=UNTAGGED=gb
 Gamlingay=UNTAGGED=gb
-Gammacoronavirus=UNTAGGED=all
 Gammaproteobacteria=UNTAGGED=gb
 Gammexane=NNP=none
 Gamow=UNTAGGED=au,ca,us
@@ -44245,7 +44241,6 @@ Saran=UNTAGGED=all
 Saraswati=UNTAGGED=gb
 Saravanan=UNTAGGED=gb
 Sarazen=NNP=none
-Sarbecovirus=UNTAGGED=gb
 Sarchet=NNP=none
 Sarcobatus=NNP=none
 Sarcocephalus=NNP=none
@@ -50940,8 +50935,6 @@ Twechar=UNTAGGED=gb
 Twedy=NNP=none
 Tweed=UNTAGGED=all
 Tweedie=UNTAGGED=gb,za
-Tweedledee=UNTAGGED=all
-Tweedledum=UNTAGGED=all
 Tweedmouth=UNTAGGED=gb
 Tweedy=UNTAGGED=gb
 Twelve=NNP=none
@@ -57575,8 +57568,6 @@ alpha-keratin=UNTAGGED=all
 alpha-naphthol=NN:U=none
 alpha-naphthylthiourea=NN=none
 alphabetarian=noun=gb
-alphacoronavirus=UNTAGGED=gb
-alphacoronaviruses=UNTAGGED=gb
 alphafetoprotein=NN:U=gb
 alphasyllabaries=UNTAGGED=gb
 alphasyllabary=UNTAGGED=gb
@@ -58886,7 +58877,6 @@ anticonventionally=RB=none
 anticonvulsive=noun=none
 anticopy=JJ=none
 anticorona=NN=none
-anticoronavirus=UNTAGGED=all
 anticorrosively=RB=none
 anticorrosiveness=NN=none
 anticorruption=noun_UN=none
@@ -59933,8 +59923,6 @@ arborescence=noun=gb
 arborical=JJ=none
 arborio=noun=none
 arborolatry=NN=none
-arborvirus=UNTAGGED=gb
-arborviruses=UNTAGGED=gb
 arbtrn=NN=none
 arbuscle=noun=none
 arbute=noun=none
@@ -60118,8 +60106,6 @@ aren=UNTAGGED=au,ca,nz,us,za
 arenaria-melanocephala=NN=none
 arenaria=NN=none
 arenation=noun=none
-arenavirus=UNTAGGED=gb
-arenaviruses=UNTAGGED=gb
 arenga=NN=none
 arenite=noun=gb
 arenosity=NN:UN=none
@@ -60389,8 +60375,6 @@ arteriology=NN:UN=gb
 arteriologyible=UNTAGGED=gb
 arteriolosclerosis=NN:U=none
 arteriosum=UNTAGGED=all
-arterivirus=UNTAGGED=gb
-arteriviruses=UNTAGGED=gb
 artesonado=NN=none
 artesunate=UNTAGGED=gb
 artesunates=UNTAGGED=gb
@@ -60776,8 +60760,6 @@ astropogon=NN=none
 astrosphere=noun=us-large
 astrostatistics=UNTAGGED=gb
 astroturfing=UNTAGGED=gb
-astrovirus=UNTAGGED=gb
-astroviruses=UNTAGGED=gb
 astucity=NN:U=none
 asura=noun=none
 asvins=NN=none
@@ -61979,8 +61961,6 @@ bacula=UNTAGGED=gb
 baculite=noun=none
 baculitic=JJ=none
 baculoid=NN=none
-baculovirus=UNTAGGED=gb
-baculoviruses=UNTAGGED=gb
 baculum=noun=gb
 bad-egg=UNTAGGED=nz,za
 bad-i-sad-o-bistroz=NN=none
@@ -66172,8 +66152,6 @@ bromoforms=UNTAGGED=all
 bromoil=NN=none
 bromomethane=NN=none
 bromouracil=noun=none
-bromovirus=UNTAGGED=gb
-bromoviruses=UNTAGGED=gb
 bromus=NN=none
 bronc=noun=au,ca,nz,us,za
 bronchium=bronchium/NN,bronchia/NNS=none
@@ -67282,8 +67260,6 @@ calibraters=UNTAGGED=gb
 calicene=UNTAGGED=gb
 calicenes=UNTAGGED=gb
 caliche-topped=JJ=none
-calicivirus=UNTAGGED=all
-caliciviruses=UNTAGGED=all
 calicle=noun=us-large
 calicoback=noun=none
 calicular=JJ=none
@@ -68175,8 +68151,6 @@ carloading=UNTAGGED=gb,nz,za
 carloadings=NN=none
 carmagnole=noun=us-large
 carmot=UNTAGGED=gb
-carmovirus=UNTAGGED=gb
-carmoviruses=UNTAGGED=gb
 carn=noun=none
 carnalism=noun_UN=none
 carnaper=noun=none
@@ -73983,7 +73957,6 @@ coxalgia=noun=us-large
 coxalgy=noun=none
 coxcombry=noun=us-large
 coxitis=coxitis/NN,coxitides/NNS=none
-coxsackievirus=noun=none
 coxswained=UNTAGGED=gb,nz,za
 coxswaining=UNTAGGED=gb,nz,za
 coxswainless=UNTAGGED=gb
@@ -77391,8 +77364,6 @@ delphinidae=NN=none
 delphinin=NN=none
 delphinine=NN:U=none
 delt=noun=none
-deltacoronavirus=UNTAGGED=gb
-deltacoronaviruses=UNTAGGED=gb
 deltacron=UNTAGGED=all
 deltiologist=noun=gb
 deltiology=noun_UN=gb
@@ -85748,8 +85719,6 @@ filopodial=UNTAGGED=gb
 filopodium=filopodium/NN,filopodia/NNS=gb
 filoselle=noun=none
 filosus=JJ=none
-filovirus=UNTAGGED=gb
-filoviruses=UNTAGGED=gb
 fils=noun=us-large
 filt=NN=none
 filterableness=NN=none
@@ -86179,8 +86148,6 @@ flauta=noun=none
 flav=NN=none
 flavanol=noun=none
 flavanone=noun=none
-flavivirus=UNTAGGED=gb
-flaviviruses=UNTAGGED=gb
 flavobacterium=NN=none
 flavonol=noun=none
 flavopurpurin=NN=us-large
@@ -88059,8 +88026,6 @@ gamgeeible=UNTAGGED=gb
 gamgeisability=UNTAGGED=gb
 gamgeisable=UNTAGGED=gb
 gamma-aminobutyric=UNTAGGED=all
-gammacoronavirus=UNTAGGED=gb
-gammacoronaviruses=UNTAGGED=gb
 gammadion=noun=us-large
 gammation=noun_UN=none
 gammavoltaic=UNTAGGED=gb
@@ -93552,9 +93517,6 @@ henwife=UNTAGGED=gb
 henwives=UNTAGGED=gb
 henyard=NN=none
 heortology=NN:UN=none
-hepacivirus=UNTAGGED=gb
-hepaciviruses=UNTAGGED=gb
-hepadnavirus=NN=none
 hepar=noun=none
 heparinoid=JJ=none
 hepatatrophia=NN=none
@@ -102765,8 +102727,6 @@ levis=levis/NN,levis/NNS=none
 levisticum=NN=none
 levitator=noun=us-large
 levite=noun=none
-levivirus=UNTAGGED=gb
-leviviruses=UNTAGGED=gb
 levocetirizine=NN:U=gb
 levocetirizinible=UNTAGGED=gb
 levocetirizinisability=UNTAGGED=gb
@@ -104296,8 +104256,6 @@ lysogenic=UNTAGGED=all
 lysogeny=noun=none
 lysolecithin=noun=none
 lyssa=noun=us-large
-lyssavirus=UNTAGGED=gb
-lyssaviruses=UNTAGGED=gb
 lyssophobia=NN=none
 lythe=noun=none
 lythraceae=NN=none
@@ -109941,7 +109899,6 @@ myxomycota=NN=none
 myxophyceae=NN=none
 myxosporidia=NN=none
 myxosporidian=NN=none
-myxovirus=noun=none
 mzungu=noun=none
 mémoire=UNTAGGED=gb,nz,za
 mémoires=UNTAGGED=gb
@@ -116456,8 +116413,6 @@ norman=noun=none
 normandie=NN=none
 normocyte=NN=none
 normothermia=noun=none
-norovirus=UNTAGGED=all
-noroviruses=UNTAGGED=all
 noroxycodone=UNTAGGED=all
 north-East=UNTAGGED=nz,za
 north-Easterly=RB=nz,za
@@ -117601,12 +117556,10 @@ oncolitic=UNTAGGED=gb
 oncolytic=UNTAGGED=gb
 oncolytics=UNTAGGED=gb
 oncomings=UNTAGGED=gb,nz,za
-oncornavirus=noun=none
 oncosis=NN=none
 oncost=noun=none
 oncostman=oncostman/NN,oncostmen/NNS=none
 oncovin=NN=none
-oncovirus=noun=gb
 ondatra=noun=none
 onderstebo=UNTAGGED=za
 ondine=noun=none
@@ -118273,15 +118226,12 @@ orthology=UNTAGGED=gb
 orthomolecular=UNTAGGED=gb
 orthomorphism=UNTAGGED=gb
 orthomorphisms=UNTAGGED=gb
-orthomyxovirus=noun=gb
 orthonormal=UNTAGGED=all
 orthonormalities=UNTAGGED=gb
 orthonormality=UNTAGGED=gb
 orthopneas=UNTAGGED=all
 orthopneic=JJ=none
 orthopod=noun=gb
-orthopoxvirus=UNTAGGED=all
-orthopoxviruses=UNTAGGED=all
 orthoprax=UNTAGGED=gb
 orthopraxia=NN=none
 orthopraxis=orthopraxis/NN,orthopraxis/NN:U,orthopraxes/NNS=gb
@@ -120757,7 +120707,6 @@ papisher=noun=none
 papistlike=JJ=none
 papoose-root=NN=none
 papooseroot=NN=none
-papovavirus=noun=none
 pappa=NN=none
 pappardelle=UNTAGGED=all
 pappenheimer=NN=none
@@ -121270,7 +121219,6 @@ parvenuism=NN:UN=none
 parvise=noun=gb
 parvo=noun=gb
 parvolin=noun=none
-parvovirus=noun=gb
 parvulus=NN=none
 pasang=NN=none
 paschals=UNTAGGED=gb,nz,za
@@ -123798,7 +123746,6 @@ picoisable=UNTAGGED=gb
 picolin=noun=none
 picoline=noun=us-large
 picong=noun=none
-picornavirus=noun=gb
 picotee=noun=gb
 picotiveness=UNTAGGED=gb
 picrasma=NN=none
@@ -125488,7 +125435,6 @@ polynya=noun=gb
 polyodon=NN=none
 polyodontidae=NN=none
 polyoma=noun=none
-polyomavirus=noun=none
 polyonym=noun=none
 polyopia=UNTAGGED=gb
 polyose=NN=none
@@ -126380,8 +126326,6 @@ pottle=noun=nz,us-large
 potto=noun=us-large
 potty-chair=NN=none
 potus=NN=none
-potyvirus=UNTAGGED=gb
-potyviruses=UNTAGGED=gb
 potzer=noun=none
 pouch-shaped=JJ=none
 pouchful=noun=none
@@ -129675,7 +129619,6 @@ proverbialist=noun=none
 proverbialities=UNTAGGED=gb
 proverbiality=UNTAGGED=gb,us-large
 proviant=noun=none
-provirus=noun=gb
 provisionalities=UNTAGGED=gb
 provisionment=UNTAGGED=gb
 provisionments=UNTAGGED=gb
@@ -130249,8 +130192,6 @@ pseudovary=NN=none
 pseudoviperine=JJ=none
 pseudoviperous=JJ=none
 pseudoviperously=RB=none
-pseudovirus=UNTAGGED=all
-pseudoviruses=UNTAGGED=all
 pseudoviscous=JJ=none
 pseudowintera=NN=none
 pseudoword=UNTAGGED=gb
@@ -134128,7 +134069,6 @@ reobservation=NN:UN=none
 reocclusion=NN=none
 reorchestration=noun=none
 reordination=noun=none
-reovirus=noun=gb
 reoxidation=noun_UN=none
 repagination=NN=gb
 repairperson=noun=none
@@ -134542,9 +134482,6 @@ rewarewa=noun=none
 rewindable=UNTAGGED=all
 rewinder=noun=none
 rewon=rewon/NN,rewon/NNS=none
-rewordings=UNTAGGED=gb,nz,za
-reworkable=UNTAGGED=gb,nz,za
-rewritings=UNTAGGED=gb,nz,za
 rex=rex/NN,rexes/NNS,rices/NNS=none
 rexine=noun=none
 reynard=noun=none
@@ -134564,7 +134501,6 @@ rhabdomyoma=noun=none
 rhabdomyosarcoma=noun_U=none
 rhabdosome=UNTAGGED=gb
 rhabdosphere=noun=none
-rhabdovirus=noun=none
 rhabdus=noun=none
 rhachis=noun=us-large
 rhadamnathus=NN=none
@@ -134583,7 +134519,6 @@ rhaphide=noun=none
 rhaphis=rhaphis/NN,rhaphes/NNS=none
 rhapis=NN=none
 rhapsode=noun=gb
-rhapsodical=UNTAGGED=all
 rhapsodisings=UNTAGGED=gb
 rhapsodizings=UNTAGGED=gb
 rhb=NN=none
@@ -134603,7 +134538,6 @@ rheometry=NN=none
 rheopexy=NN:U=none
 rheoscope=NN=gb
 rheostatically=UNTAGGED=gb
-rheotaxis=rheotaxis/NN,rheotaxes/NNS=us-large
 rheotome=noun=none
 rheotron=NN=none
 rheotrope=noun=none
@@ -145875,7 +145809,6 @@ subvicar=noun=none
 subvicarship=NN=none
 subvillain=NN=none
 subvirile=JJ=none
-subvirus=noun=none
 subvital=UNTAGGED=gb
 subvitalised=JJ=none
 subvitalized=JJ=none
@@ -150724,7 +150657,6 @@ toft=noun=us-large
 tofutti=noun=none
 togate=JJ=none
 togated=NN=none
-togavirus=NN=none
 toggery=noun=us-large
 toggler=noun=none
 togue=noun=none
@@ -150808,8 +150740,6 @@ tombstoned=UNTAGGED=gb
 tombstoner=UNTAGGED=gb
 tombstoners=UNTAGGED=gb
 tombstoning=UNTAGGED=gb
-tombusvirus=UNTAGGED=gb
-tombusviruses=UNTAGGED=gb
 tomcod=noun=gb
 tomeful=UNTAGGED=gb
 tomelet=UNTAGGED=gb
@@ -153139,7 +153069,6 @@ ultrasuede=NN=none
 ultravacuum=ultravacuum/NN,ultravacua/NNS,ultravacuums/NNS=none
 ultraviolence=noun=none
 ultravirility=noun_UN=none
-ultravirus=noun=us-large
 ulu=noun=none
 ulva=noun=none
 ulvaceae=NN=none

@@ -14763,6 +14763,7 @@ unitized
 unitizes
 unitizing
 universalisability
+universalisable
 universalisation
 universalisations
 universalise
@@ -14770,6 +14771,7 @@ universalised
 universalises
 universalising
 universalizability
+universalizable
 universalization
 universalizations
 universalize

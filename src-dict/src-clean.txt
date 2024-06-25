@@ -440,6 +440,7 @@ $=$=all
 66-year-old=noun=all
 67-year-old=noun=all
 68-year-old=noun=all
+68er=noun=all
 69-year-old=noun=all
 6th=JJ=all
 7-month-old=noun=all
@@ -2480,6 +2481,7 @@ Alpena=NNP=all
 Alpert=NNP=all
 Alpes-Maritimes=NNP=all
 Alpha=Alpha/NNP,Alphas/NNPS=all
+Alphacoronavirus=NNP=all
 Alpharabius=NNP=all
 Alphard=NNP=all
 Alpharetta=NNP=all
@@ -5501,6 +5503,7 @@ Best=NNP=all
 Bester=NNP=za # South Africa, placename?
 Besters=NNP=za # South Africa, placename?
 Beta=Beta/NNP,Betas/NNPS=all
+Betacoronavirus=NNP=all
 Betadine=NNP=all
 Betamax=Betamax/NNP,Betamaxes/NNPS=all
 Betancourt=NNP=all
@@ -11225,6 +11228,7 @@ Delportshoop=NNP=za # South Africa, placename?
 Delropark=NNP=za # South Africa, placename?
 Delsartian=JJ=all
 Delta=NNP=all
+Deltacoronavirus=NNP=all
 Deluge=NNP=all
 Delville=NNP=za # South Africa, placename?
 Delwood=NNP=all
@@ -15706,6 +15710,7 @@ Gambleville=NNP=za # South Africa, placename?
 Gambrinus=NNP=all
 GameStop=NNP=all
 Gamka=NNP=za # South Africa, placename?
+Gammacoronavirus=NNP=all
 Gamoduana=NNP=za # South Africa, placename?
 Gamogolodike=NNP=za # South Africa, placename?
 Gamothiba=NNP=za # South Africa, placename?
@@ -35361,6 +35366,7 @@ Sarawak=NNP=all
 Sarawakian=JJ=all
 Sarawakian=noun=all
 Sarbanes-Oxley=NNP=all
+Sarbecovirus=NNP=all
 Sarcelles=NNP=all
 Sardanapalus=NNP=all
 Sardinia=NNP=all
@@ -39410,6 +39416,8 @@ Twazi=NNP=za # South Africa, placename?
 Twecu=NNP=za # South Africa, placename?
 Tweeddale=NNP=all
 Tweedemyn=NNP=za # South Africa, placename?
+Tweedledee=NNP=all
+Tweedledum=NNP=all
 Tweedsmuir=NNP=all
 Tweefontein=NNP=za # South Africa, placename?
 Tweeling=NNP=za # South Africa, placename?
@@ -45576,6 +45584,7 @@ alphabetically=RB=all
 alphabetization|alphabetisation=noun_UN=us,ca,gb|gb,au,nz,za
 alphabetizer|alphabetiser=noun=us,ca,gb|gb,au,nz,za
 alphabetize|alphabetise=verb=us,ca,gb|gb,au,nz,za
+alphacoronavirus=noun=all
 alphameric=JJ=all
 alphamerical=JJ=all
 alphamerically=RB=all
@@ -47181,6 +47190,7 @@ anticontagious=JJ=all
 anticonventional=JJ=all
 anticonvulsant=JJ=all
 anticonvulsant=noun=all
+anticoronavirus=JJ=all
 anticorporate=JJ=all
 anticorrosion=JJ=all
 anticorrosive=JJ=all
@@ -48291,6 +48301,7 @@ arborist=noun=all
 arborization|arborisation=noun_UN=us,ca,gb|gb,au,nz,za
 arborize|arborise=verb=us,ca,gb|gb,au,nz,za
 arborous=JJ=all
+arborvirus=noun=all
 arborvitae=noun=all
 arbor|arbour=noun=us|gb,ca,au,nz,za
 arbovirus=noun=all
@@ -48424,6 +48435,7 @@ areca=noun=all
 aren't=contraction=all
 arena=noun=all
 arenaceous=JJ=all
+arenavirus=noun=all
 arenicolous=JJ=all
 arenose=JJ=all
 areocentric=JJ=all
@@ -48667,6 +48679,7 @@ arteriosclerotic=noun=all
 arteriotomy=noun=all
 arteriovenous=JJ=all
 arteritis=arteritis/NN,arteritides/NNS,arteritises/NNS=all
+arterivirus=noun=all
 artery=noun=all
 artesian=JJ=all
 artful=JJ=all
@@ -49177,6 +49190,7 @@ astrophysical=JJ=all
 astrophysicist=noun=all
 astrophysics=NN:U=all
 astroturf=JJ=all
+astrovirus=noun=all
 astucious=JJ=all
 astuciously=RB=all
 astute=astute/JJ,astuter/JJR,astutest/JJS=all
@@ -50343,6 +50357,7 @@ bacteroid=noun=all
 bacteroidal=JJ=all
 baculiform=JJ=all
 baculine=JJ=all
+baculovirus=noun=all
 bad-tempered=JJ=all
 bad=bad/JJ,badder/JJR,worse/JJR,baddest/JJS,worst/JJS=all
 bad=noun_U=all
@@ -54383,6 +54398,7 @@ bromism=noun_UN=all
 bromization|bromisation=noun_UN=us,ca,gb|gb,au,nz,za
 bromize|bromise=verb=us,ca,gb|gb,au,nz,za
 bromoform=NN:U=all
+bromovirus=noun=all
 bronchial=JJ=all
 bronchially=RB=all
 bronchiectasis=bronchiectasis/NN:U,bronchiectases/NNS=all
@@ -55460,6 +55476,7 @@ calibrate=verb=all
 calibration=noun_UN=all
 calibrator=noun=all
 caliche=noun=all
+calicivirus=noun=all
 calico=JJ=all
 calico=calico/NN:U,calicoes/NNS,calicos/NNS=all
 calicoed=JJ=all
@@ -56186,6 +56203,7 @@ carminative=JJ=all
 carminative=noun=all
 carmine=JJ=all
 carmine=noun_U=all
+carmovirus=noun=all
 carnage=noun_U=all
 carnal=JJ=all
 carnality=noun_U=all
@@ -62887,6 +62905,7 @@ coxcombic=JJ=all
 coxcombical=JJ=all
 coxcombically=RB=all
 coxless=JJ=all
+coxsackievirus=noun=all
 coxswain=noun=all
 coy=coy/JJ,coyer/JJR,coyest/JJS=all
 coyish=JJ=all
@@ -65840,6 +65859,7 @@ delocalize|delocalise=verb=us,ca,gb|gb,au,nz,za
 delouse=verb=all
 delphinium=delphinium/NN,delphinia/NNS,delphiniums/NNS=all
 delta=noun=all
+deltacoronavirus=noun=all
 deltahedron=noun=all
 deltaic=JJ=all
 deltoid=JJ=all
@@ -75590,6 +75610,7 @@ filmstrip=noun=all
 filmy=filmy/JJ,filmier/JJR,filmiest/JJS=all
 filo=noun=all
 filose=JJ=all
+filovirus=noun=all
 filter-tipped=JJ=all
 filter=noun=all
 filter=verb=all
@@ -76131,6 +76152,7 @@ flautist=noun=all
 flavescent=JJ=all
 flavin=noun_U=all
 flavine=noun=all
+flavivirus=noun=all
 flavone=noun=all
 flavonoid=noun=all
 flavoprotein=noun=all
@@ -78566,6 +78588,7 @@ gamines=gamines/NN:U,gaminesses/NNS=all
 gaminess=NN:U=all
 gaming=noun_U=all
 gamma=noun=all
+gammacoronavirus=noun=all
 gammon=noun_U=all
 gamogenesis [pl. gamogeneses]=noun_U=all
 gamogenetic=JJ=all
@@ -83036,6 +83059,8 @@ henpecked=JJ=all
 heortological=JJ=all
 hep=hep/JJ,hepper/JJR,heppest/JJS=all
 hep=noun=all
+hepacivirus=noun=all
+hepadnavirus=NN=all
 heparin=noun_U=all
 heparinization|heparinisation=noun_UN=us,ca,gb|gb,au,nz,za
 heparinize|heparinise=verb=us,ca,gb|gb,au,nz,za
@@ -93091,6 +93116,7 @@ levitative=JJ=all
 leviter=RB=all
 levitically=RB=all
 levity=noun_U=all
+levivirus=noun=all
 levo=JJ=all
 levodopa=levodopa/NN,levodopa/NN:U,levodopas/NNS=all
 levogyrate=JJ=all
@@ -94849,6 +94875,7 @@ lysogenize|lysogenise=verb=us,ca,gb|gb,au,nz,za
 lysosomal=JJ=all
 lysosome=noun=all
 lysozyme=noun_U=all
+lyssavirus=noun=all
 lythraceous=JJ=all
 lytic=JJ=all
 lytically=RB=all
@@ -100358,6 +100385,7 @@ myxoedematous=JJ=all
 myxoid=JJ=all
 myxoma=noun_U=all
 myxomatosis=myxomatosis/NN:U,myxomatoses/NNS=all
+myxovirus=noun=all
 mzee=JJ=all
 mélange=noun=all
 ménage=noun=all
@@ -104691,6 +104719,7 @@ normocytic=JJ=all
 normoglycaemic=JJ=all
 normotensive=JJ=all
 normovolaemic=JJ=all
+norovirus=noun=all
 norteño=noun=all
 north-Westerly=RB=all
 north-american=JJ=all
@@ -106021,7 +106050,9 @@ oncometer=noun=all
 oncoming=JJ=all
 oncoming=NN=all
 oncoprotein=noun=all
+oncornavirus=noun=all
 oncotic=JJ=all
+oncovirus=noun=all
 ondansetron=NN:U=all
 ondometer=noun=all
 one-armed=JJ=all
@@ -106743,6 +106774,7 @@ orthographically=RB=all
 orthography=orthography/NN,orthography/NN:U,orthographies/NNS=all
 ortholog=noun=all
 orthomorphic=JJ=all
+orthomyxovirus=noun=all
 orthonormalization|orthonormalisation=noun_UN=us,ca,gb|gb,au,nz,za
 orthonormalize|orthonormalise=verb=us,ca,gb|gb,au,nz,za
 orthopedically|orthopaedically=RB=us|au,ca,gb,nz,za
@@ -106757,6 +106789,7 @@ orthophosphoric=JJ=all
 orthophyric=JJ=all
 orthopnea=NN=all
 orthopnoeic=JJ=all
+orthopoxvirus=noun=all
 orthopraxy=noun_U=all
 orthopsychiatry=noun_U=all
 orthopterous=JJ=all
@@ -108887,6 +108920,7 @@ papistly=RB=all
 papistry=noun_U=all
 paplike=JJ=all
 papoose=noun=all
+papovavirus=noun=all
 pappose=JJ=all
 pappus=noun=all
 pappy=JJ=all
@@ -109419,6 +109453,7 @@ parve=JJ=all
 parvenu=JJ=all
 parvenu=noun=all
 parvis=noun=all
+parvovirus=noun=all
 pascal=noun=all
 paschal=JJ=all
 paschal=NN=all
@@ -111748,6 +111783,7 @@ piconewton=noun=all
 picoohm=noun=all
 picopascal=noun=all
 picoradian=noun=all
+picornavirus=noun=all
 picosecond=noun=all
 picosiemens=picosiemens/NN,picosiemens/NNS=all
 picosievert=noun=all
@@ -113243,6 +113279,7 @@ polynuclear=JJ=all
 polyoestrous=JJ=all
 polyol=noun=all
 polyolefin=noun=all
+polyomavirus=noun=all
 polyonymous=JJ=all
 polyp=noun=all
 polypary=noun=all
@@ -114021,6 +114058,7 @@ potty-train=verb=all
 potty-trained=JJ=all
 potty=noun=all
 potty=potty/JJ,pottier/JJR,pottiest/JJS=all
+potyvirus=noun=all
 pouch=noun=all
 pouch=verb=all
 pouched=JJ=all
@@ -116681,6 +116719,7 @@ provincialization|provincialisation=noun_UN=us,ca,gb|gb,au,nz,za
 provincialize|provincialise=verb=us,ca,gb|gb,au,nz,za
 provincially=RB=all
 proviral=JJ=all
+provirus=noun=all
 provision=noun_UN=all
 provision=verb=all
 provisional=JJ=all
@@ -116919,6 +116958,7 @@ pseudostratified=JJ=all
 pseudosuicidal=JJ=all
 pseudotetragonal=JJ=all
 pseudovelar=JJ=all
+pseudovirus=noun=all
 pshaw=UH=all
 pshaw=noun=all
 psi=noun_UN=all
@@ -120816,6 +120856,7 @@ reorganize|reorganise=verb=us,ca,gb|gb,au,nz,za
 reorient=verb=all
 reorientate=verb=all
 reorientation=noun_U=all
+reovirus=noun=all
 reoxidize|reoxidise=verb=us,ca,gb|gb,au,nz,za
 rep=noun_UN=all
 repack=verb=all
@@ -121993,20 +122034,25 @@ rewirable=JJ=all
 rewire=noun=all
 rewire=verb=all
 reword=verb=all
-rewording=NN:UN=all
+rewording=noun_UN=all
 rework [reworks;reworked,rewrought;reworked,rewrought;reworking]=verb=all
 rework=noun_UN=all
+reworkability=NN:U=all
+reworkable=JJ=all
 reworking=noun_UN=all
 rewrap [-pp-]=verb=all
 rewritable=JJ=all
 rewrite [rewrites;rewrote;rewritten;rewriting]=verb=all
 rewrite=noun=all
 rewriter=noun=all
+rewriting=noun_UN=all
 rezone=verb=all
 rhabdomancy=noun_U=all
+rhabdovirus=noun=all
 rhamnaceous=JJ=all
 rhapsodic=JJ=all
 rhapsodic=NN=all
+rhapsodical=JJ=all
 rhapsodically=RB=all
 rhapsodist=noun=all
 rhapsodistic=JJ=all
@@ -122026,6 +122072,7 @@ rheoscopic=JJ=all
 rheostat=noun=all
 rheostatic=JJ=all
 rheotactic=JJ=all
+rheotaxis [pl. rheotaxes]=noun_UN=all
 rheotropic=JJ=all
 rheotropism=noun_UN=all
 rhesus=noun=all
@@ -133360,6 +133407,7 @@ subvertical=JJ=all
 subvertically=RB=all
 subvesicular=JJ=all
 subviral=JJ=all
+subvirus=noun=all
 subvisible=JJ=all
 subvitreous=JJ=all
 subvocal=JJ=all
@@ -137745,6 +137793,7 @@ tog=noun=all
 tog=verb=all
 toga=toga/NN,togae/NNS,togas/NNS=all
 togaed=JJ=all
+togavirus=NN=all
 together=JJ=all
 together=RB=all
 togetherness=NN:U=all
@@ -137815,6 +137864,7 @@ tomboy=noun=all
 tomboyish=JJ=all
 tomboyishness=NN:U=all
 tombstone=noun=all
+tombusvirus=noun=all
 tomcat=noun=all
 tome=noun=all
 tomentose=JJ=all
@@ -140409,6 +140459,7 @@ ultratropical=JJ=all
 ultraviolent=JJ=all
 ultraviolet=JJ=all
 ultraviolet=noun_U=all
+ultravirus=noun=all
 ultrawealthy=JJ=all
 ultrawide=JJ=all
 ululant=JJ=all
@@ -145471,6 +145522,7 @@ universalist=noun=all
 universalistic=JJ=all
 universality=noun_U=all
 universalizability|universalisability=NN:U=us,ca,gb|gb,au,nz,za
+universalizable|universalisable=JJ=us,ca,gb|gb,au,nz,za
 universalization|universalisation=noun_UN=us,ca,gb|gb,au,nz,za
 universalize|universalise=verb=us,ca,gb|gb,au,nz,za
 universally=RB=all

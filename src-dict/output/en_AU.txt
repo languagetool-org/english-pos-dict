@@ -8269,6 +8269,7 @@ unitised
 unitises
 unitising
 universalisability
+universalisable
 universalisation
 universalisations
 universalise
