@@ -9,11 +9,15 @@
 #Al=NNP=all
 #Americaness=NN:U=all #unusual
 #Archaeozoic=JJ=all #unusual
+#Brasil=NNP=all
+#Cameroun=NNP=all
 #Jacobitishly=RB=all archaic
 #Las=NNP=all # Spanish names, musical note
 #Let=NNP=all
+#Luxemburg=NNP=all
 #No=No/NNP,Ni/NNPS=all
 #Suu=NNP=all # ??
+#Tchad=NNP=all
 #ablins=RB=all
 #aboon=RB=all dialect
 #advertizable=JJ=all # misspelling advertisable
@@ -223,6 +227,7 @@
 #shily=RB=all archaic
 #sidedly=RB=all one-sidedly
 #simul=RB=all archaic
+#smelt=verb=all misspelling!
 #somebody'll=contraction=all
 #somedeal=RB=all dialect
 #someone'll=contraction=all
@@ -395,6 +400,7 @@ $=$=all
 39-year-old=noun=all
 3D=JJ=all
 3D=noun=all
+3M=NNP=all
 3rd=JJ=all
 4-month-old=noun=all
 4-year-old=noun=all
@@ -2504,7 +2510,9 @@ Alsatian=JJ=all
 Alsip=NNP=all
 Alsop=NNP=all
 Alston=NNP=all
+Alt=abbreviation=all
 Alta=NNP=all
+AltaVista=NNP=all
 Altaba=NNP=all
 Altadena=NNP=all
 Altai=NNP=all
@@ -6286,7 +6294,6 @@ Brantford=NNP=all
 Brantley=NNP=all
 Braque=NNP=all
 Brashear=NNP=all
-Brasil=NNP=all
 Brasilia=NNP=all
 Brasov=NNP=all
 Brasschaat=NNP=all
@@ -8142,7 +8149,6 @@ Cameron=NNP=all
 Cameroon=Cameroon/NNP,Cameroons/NNPS=all
 Cameroonian=Cameroonian/NNP,Cameroonians/NNPS=all
 Cameroons=NNP=all
-Cameroun=NNP=all
 Camila=NNP=all
 Camilla=NNP=all
 Camille=NNP=all
@@ -9891,8 +9897,8 @@ Cosgrave=NNP=all
 Cosgrove=NNP=all
 Cosmo=NNP=all
 Cosmotron=NNP=all
-Cossack=Cossack/NNP,Cossacks/NNPS=all
 Cossack=JJ=all
+Cossack=noun=all
 Costa=NNP=all
 Costansó=NNP=all
 Costas=NNP=all
@@ -14455,14 +14461,18 @@ Fatimid=Fatimid/NNP,Fatimids/NNPS=all
 Fatshan=NNP=all
 Fauci=NNP=all
 Faulkner=NNP=all
+Faulknerian=JJ=all
 Fauna=NNP=za # South Africa, placename?
 Faunapark=NNP=za # South Africa, placename?
 Faunasig=NNP=za # South Africa, placename?
 Faunus=NNP=all
 Faure=NNP=all
 Fauresmith=NNP=za # South Africa, placename?
+Fauré=NNP=all
 Faust=NNP=all
 Faustian=JJ=all
+Faustino=NNP=all
+Fausto=NNP=all
 Faustus=NNP=all
 Fauve=Fauve/NNP,Fauves/NNPS=all
 Fauve=JJ=all
@@ -21592,6 +21602,7 @@ Kinara=NNP=za # South Africa, placename?
 Kincaid=NNP=all
 Kincardine=NNP=all
 Kinchinjunga=NNP=all
+Kindle=Kindle/NNP,Kindles/NNPS=all
 King=NNP=all
 Kinghorn=NNP=all
 Kingklip=NNP=za # South Africa, placename?
@@ -24030,7 +24041,6 @@ Luwian=JJ=all
 Lux=NNP=all
 Luxembourg=NNP=all
 Luxembourger=Luxembourger/NNP,Luxembourgers/NNPS=all
-Luxemburg=NNP=all
 Luxemburger=Luxemburger/NNP,Luxemburgers/NNPS=all
 Luxmi=NNP=za # South Africa, placename?
 Luxolweni=NNP=za # South Africa, placename?
@@ -28439,7 +28449,10 @@ Nathanael=NNP=all
 Nathaniel=NNP=all
 Nathanson=NNP=all
 Natick=NNP=all
+Nation=Nation/NNP,Nations/NNPS=all
 National=NNP=all
+Nationalist=Nationalist/NNP,Nationalists/NNPS=all
+Nations=NNP=all # United Nations (singular)
 Nativity=NNP=all
 Nats=NNP=za # South Africa, placename?
 Naturena=NNP=za # South Africa, placename?
@@ -30049,6 +30062,7 @@ Orford=NNP=all
 Oribi=NNP=za # South Africa, placename?
 Oriel=NNP=all
 Orient=Orient/NNP,Orients/NNPS=all
+Orientalism=noun_UN=all
 Orientalist=Orientalist/NNP,Orientalists/NNPS=all
 Orientalization|Orientalisation=noun_UN=us,ca,gb|gb,au,nz,za
 Oriente=NNP=all
@@ -38337,7 +38351,6 @@ Taíno=NNP=all
 Tb=NNP=all
 Tbilisi=NNP=all
 Tc=NNP=all
-Tchad=NNP=all
 Tchaikovsky=NNP=all
 Tchibo=NNP=all
 Te=NNP=all
@@ -57537,8 +57550,10 @@ checkmark=verb=all
 checkmate=UH=all
 checkmate=checkmate/NN,checkmate/NN:U,checkmates/NNS=all
 checkmate=verb=all
+checkoff=noun=all
 checkout=checkout/NN,checkout/NN:U,checkouts/NNS=all
 checkpoint=noun=all
+checkroom=noun=all
 checksum [-mm-]=verb=all
 checksum=noun=all
 checkup=noun=all
@@ -57568,7 +57583,7 @@ cheering=JJ=all
 cheeringly=RB=all
 cheerio=UH=all
 cheerio=noun=all
-cheerlead [cheerleads;cheerled;cheerled;cheerleading]=verb=all
+cheerlead [cheerleads;cheerled,cheerleaded;cheerled,cheerleaded;cheerleading]=verb=all
 cheerleader=noun=all
 cheerleading=NN:U=all
 cheerless=JJ=all
@@ -59577,6 +59592,7 @@ cofactor=noun_U=all
 coffee-colored|coffee-coloured=JJ=us|gb,ca,au,nz,za
 coffee=noun_U=all
 coffeehouse=noun=all
+coffeemaker=noun=all
 coffer=noun=all
 cofferdam=noun=all
 coffered=JJ=all
@@ -62440,6 +62456,7 @@ cosplayer=noun=all
 cosplaying=NN:UN=all
 cosponsor=noun=all
 cosponsor=verb=all
+cossack=noun=none # preferred spelling: Cossack
 cosset=noun=all
 cosset=verb=all
 cost [costs;cost,costed;cost,costed;costing]=verb=all
@@ -72968,6 +72985,8 @@ eulogizer|eulogiser=noun=us,ca,gb|gb,au,nz,za
 eulogize|eulogise=verb=us,ca,gb|gb,au,nz,za
 eulogy=noun_UN=all
 eunuch=eunuch/NN,eunuchs/NNS=all
+eunuchism=noun_UN=all
+eunuchize|eunuchise=verb=us,ca,gb|gb,au,nz,za
 eunuchoid=JJ=all
 euonymus=noun=all
 eupeptic=JJ=all
@@ -78639,6 +78658,7 @@ gap=noun=all
 gap=verb=all
 gape=noun=all
 gape=verb=all
+gaper=noun=all
 gapeworm=noun=all
 gaping=JJ=all
 gaping=noun_UN=all
@@ -80072,7 +80092,7 @@ god=noun_UN=all
 godawful=JJ=all
 godchild=godchild/NN,godchildren/NNS=all
 goddammit=UH=all
-goddamn=RB=all
+goddamn=JJ=all
 goddamned=JJ=all
 goddamnedest=JJ=all
 goddess=noun=all
@@ -80305,6 +80325,7 @@ goth=noun=all
 gothic=JJ=all
 gothic=noun=all
 gothically=RB=all
+gotta=contraction=all # informal
 gouache=noun_U=all
 gouge=noun=all
 gouge=verb=all
@@ -84537,6 +84558,8 @@ hostname=noun=all
 hot-blooded=JJ=all
 hot-bloodedly=RB=all
 hot-dipped=JJ=all
+hot-dog [-gg-]=verb=all # slang
+hot-dog=noun=all
 hot-headed=JJ=all
 hot-rolled=JJ=all
 hot-short=JJ=all
@@ -90496,16 +90519,16 @@ jaggy=noun=all
 jagless=JJ=all
 jaguar=noun=all
 jaguarundi=noun=all
-jail=noun_UN=all
-jail=verb=all
 jailable=JJ=all
 jailbird=noun=all
 jailbreak [jailbreaks;jailbroke;jailbroken;jailbreaking]=verb=all
 jailbreak=noun=all
 jailbroken=JJ=all
 jailed=JJ=all
-jailer=noun=all
+jailer|gaoler=noun=all|gb,nz,za
 jailing=NN:UN=all
+jail|gaol=noun_UN=all|gb,nz,za
+jail|gaol=verb=all|gb,nz,za
 jalapeno=noun=all
 jalapeño=noun=all
 jalopy=noun=all
@@ -100947,6 +100970,7 @@ negotiate=verb=all
 negotiation=noun_UN=all
 negotiator=noun=all
 negritude=noun_U=all
+negro=JJ=all
 negus=noun_U=all
 neigh=noun=all
 neigh=verb=all
@@ -101958,6 +101982,7 @@ non-rotating=JJ=all
 non-sensitive=JJ=all
 non-specific=JJ=all
 non-steroidal=JJ=all
+non-stop=JJ=all
 non-stop=RB=all
 non-strategic=JJ=all
 non-techie=JJ=all
@@ -105665,6 +105690,7 @@ off-base=JJ=all
 off-center|off-centre=JJ=us|au,ca,gb,nz,za
 off-center|off-centre=RB=us|au,ca,gb,nz,za
 off-color|off-colour=JJ=us|gb,ca,au,nz,za
+off-duty=JJ=all
 off-duty=RB=all
 off-guard=JJ=all
 off-hand=RB=all
@@ -106011,6 +106037,7 @@ on-air=JJ=all
 on-air=RB=all
 on-dit=noun=all
 on-duty=JJ=all
+on-line=JJ=all
 on-line=RB=all
 on-off=JJ=all
 on-screen=JJ=all
@@ -106120,6 +106147,7 @@ one-storey=JJ=all
 one-tenth=NN:U=all
 one-third=NN:UN=all
 one-thousandth=NN:U=all
+one-time=JJ=all
 one-time=RB=all
 one-timer=noun=all
 one-to-many=JJ=all
@@ -119274,6 +119302,8 @@ rearrangeable=JJ=all
 rearrangement=noun_UN=all
 rearrest=noun=all
 rearrest=verb=all
+rearview=JJ=all
+rearview=noun=all
 rearward=JJ=all
 rearwardness=NN:U=all
 rearwards=RB=all
@@ -122538,6 +122568,7 @@ robo-advisor=noun=all
 robocop=noun=all
 robopet=noun=all
 roborant=JJ=all
+roborant=noun=all
 robot=noun=all
 robotaxi=noun=all
 robotic=JJ=all
@@ -125021,10 +125052,12 @@ seclusion=noun_U=all
 seclusive=JJ=all
 seclusively=RB=all
 seclusiveness=NN:U=all
+second-best=JJ=all
 second-best=RB=all
 second-class=JJ=all
 second-guess=verb=all
 second-guesser=noun=all
+second-hand=JJ=all
 second-hand=RB=all
 second-person=JJ=all
 second-rate=JJ=all
@@ -128624,15 +128657,14 @@ smeariness=NN:U=all
 smeary=smeary/JJ,smearier/JJR,smeariest/JJS=all
 smectite=noun=all
 smegma=noun=all
-smell [-ll-]|smell=verb=all|us
+smell [smells;smelled,smelt;smelled,smelt;smelling]=verb=all
 smell=noun_UN=all
 smellable=JJ=all
 smelliness=NN:U=all
 smelling=JJ=all
 smelling=noun_UN=all
 smelly=smelly/JJ,smellier/JJR,smelliest/JJS=all
-smelt=smelt/NN,smelt/NNS,smelts/NNS=all
-smelt=verb=all
+smelt=noun_UN=all
 smelter=noun=all
 smeltery=noun=all
 smelting=noun_UN=all
@@ -128949,6 +128981,9 @@ snow=verb=all
 snowball=noun=all
 snowball=verb=all
 snowberry=noun=all
+snowbird=noun=all
+snowblade=noun=all
+snowblade=verb=all
 snowblink=snowblink/NN,snowblink/NN:U,snowblinks/NNS=all
 snowblower=noun=all
 snowboard=noun=all
@@ -131402,6 +131437,7 @@ stenotypy=noun=all
 stent=noun=all
 stentorian=JJ=all
 stentoriously=RB=all
+step-by-step=JJ=all
 step-by-step=RB=all
 step-down=JJ=all
 step-up=JJ=all
@@ -138509,12 +138545,12 @@ trance=verb=all
 trancedly=RB=all
 trancelike=JJ=all
 tranche=noun=all
-tranquil=tranquil/JJ,tranquiler/JJR,tranquiller/JJR,tranquilest/JJS,tranquillest/JJS=all
-tranquilization|tranquilisation=noun_UN=us,ca,gb|gb,au,nz,za
-tranquilizer|tranquillizer|tranquilliser=noun=us|gb,ca|gb,au,nz,za
-tranquilize|tranquillize|tranquillise=verb=us|gb,ca|gb,au,nz,za
-tranquillity=noun_U=all
-tranquillization|tranquillisation=noun_UN=us,ca,gb|gb,au,nz,za
+tranquil=tranquil/JJ,tranquiler/JJR,tranquilest/JJS=gb,au,nz,za
+tranquil=tranquil/JJ,tranquiller/JJR,tranquillest/JJS=us,ca
+tranquility|tranquillity=noun_U=ca,us|gb,au,nz,za
+tranquilization|tranquillization|tranquillisation=noun_UN=us,ca|gb|gb,au,nz,za
+tranquilizer|tranquillizer|tranquilliser=noun=us,ca|gb|gb,au,nz,za
+tranquilize|tranquillize|tranquillise=verb=us,ca|gb|gb,au,nz,za
 tranquilly=RB=all
 tranquilness=NN:U=all
 trans-African=JJ=all
@@ -154061,6 +154097,7 @@ world-shattering=JJ=all
 world-view=noun=all
 world-weariness=NN:U=all
 world-weary=JJ=all
+world-wide=JJ=all
 world-wide=RB=all
 world=JJ=all
 world=noun_UN=all

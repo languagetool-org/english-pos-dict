@@ -2794,6 +2794,10 @@ eulogiser
 eulogisers
 eulogises
 eulogising
+eunuchise
+eunuchised
+eunuchises
+eunuchising
 euphemisation
 euphemisations
 euphemise
@@ -8021,8 +8025,9 @@ traditionalise
 traditionalised
 traditionalises
 traditionalising
-tranquilisation
-tranquilisations
+tranquil
+tranquiler
+tranquilest
 tranquillisation
 tranquillisations
 tranquillise
@@ -8031,6 +8036,8 @@ tranquilliser
 tranquillisers
 tranquillises
 tranquillising
+tranquillities
+tranquillity
 transcendentalisation
 transcendentalisations
 transcolour

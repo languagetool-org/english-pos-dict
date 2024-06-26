@@ -41,7 +41,6 @@
 3DO=UNTAGGED=all
 3G=UNTAGGED=all
 3GPP=UNTAGGED=gb,nz,za
-3M=NNP=none
 4-F=NNP=none
 4-H=JJ=none
 4-hitter=NN=none
@@ -1602,8 +1601,6 @@ Alstonfield=UNTAGGED=gb
 Alstonia=NNP=none
 Alstroemeriaceae=NNP=none
 Alsworth=NNP=none
-Alt=UNTAGGED=gb
-AltaVista=NNP=none
 Altaf=NNP=none
 Altamonte=UNTAGGED=gb
 Altamuskin=UNTAGGED=gb
@@ -17452,7 +17449,6 @@ Faucher=NNP=none
 Fauldhouse=UNTAGGED=gb
 Faulk=UNTAGGED=gb
 Faulkbourne=UNTAGGED=gb
-Faulknerian=UNTAGGED=au,ca,us
 Fauman=NNP=none
 Faun=NNP=none
 Faunia=NNP=none
@@ -17462,18 +17458,14 @@ Fauquier=UNTAGGED=gb
 Faur=NNP=none
 Faura=NNP=none
 Faurisson=UNTAGGED=gb
-Fauré=UNTAGGED=us-large
 Faus=NNP=none
 Fausta=NNP=none
 Faustena=NNP=none
 Faustianly=UNTAGGED=gb
 Faustina=NNP=none
 Faustine=NNP=none
-Faustino=UNTAGGED=au,ca,us
-Fausto=NNP=none
 Faustulus=NNP=none
 Fauver=NNP=none
-Fauvism=Fauvism/NNP,Fauvisms/NNPS=us-large
 Faux=NNP=none
 Favata=NNP=none
 Favell=UNTAGGED=gb
@@ -27245,7 +27237,6 @@ Kindersley=UNTAGGED=gb
 Kindertotenlieder=NNP=none
 Kindertransport=UNTAGGED=all
 Kindig=NNP=none
-Kindle=Kindle/NNP,Kindles/NNPS=none
 Kindu-Port-Empain=NNP=none
 Kinellar=UNTAGGED=gb
 Kinelski=NNP=none
@@ -35627,9 +35618,6 @@ Naticidae=NNP=none
 Natie=NNP=none
 Natiha=NNP=none
 Natika=NNP=none
-Nation=Nation/NNP,Nations/NNPS=au,ca,us
-Nationalist=Nationalist/NNP,Nationalists/NNPS=za
-Nations=NNP=none
 Nationwide=UNTAGGED=au,ca,us,za
 Natividad=NNP=none
 Natixis=NNP=none
@@ -37567,7 +37555,6 @@ Oriental=Oriental/NNP,Orientals/NNPS=au,ca,us
 Orientale=UNTAGGED=gb
 Orientalia=NNPS=none
 Orientalis=NNP=none
-Orientalism=Orientalism/NNP,Orientalisms/NNPS=au,ca,us
 Orientalistic=UNTAGGED=gb
 Orientalize=UNTAGGED=us-large
 Origenism=NNP=none
@@ -69450,10 +69437,8 @@ chechia=noun=none
 chechoslovak=NN=none
 check-out=NN=none
 checkback=NN=none
-checkoff=noun=au,ca,us
 checkrail=NN=none
 checkrein=noun=us-large
-checkroom=noun=au,ca,us
 checkrow=verb=us-large
 checkweighman=NN=none
 checkwriter=NN=none
@@ -69463,7 +69448,6 @@ chedite=noun=none
 cheechako=cheechako/NN,cheechakoes/NNS,cheechakos/NNS=none
 cheekful=noun=none
 cheeper=noun=us-large
-cheerleaded=UNTAGGED=all
 cheero=UH=none
 cheero=noun=none
 cheesa-stick=UNTAGGED=za
@@ -71820,7 +71804,6 @@ coffee-table=NN=gb,nz,za
 coffee-tables=UNTAGGED=gb,nz,za
 coffeeberry=NN=none
 coffeecake=noun=au,ca,us
-coffeemaker=noun=au,ca,us
 coffeepot=noun=au,ca,us
 coffeeweed=NN=none
 coffer-dam=UNTAGGED=gb,nz,za
@@ -73535,7 +73518,6 @@ cosmovision=UNTAGGED=gb
 cosmovisions=UNTAGGED=gb
 cosponsorship=noun=us-large
 coss=noun=us-large
-cossack=noun=us-large
 cossetted=UNTAGGED=au,ca,us
 cossetting=UNTAGGED=au,ca,us
 cossie=noun=au,gb
@@ -83952,8 +83934,6 @@ eumycota=NN=none
 eundem=UNTAGGED=gb
 eunectes=NN=none
 eunomy=NN=none
-eunuchism=noun_UN=none
-eunuchize=UNTAGGED=us-large
 eunuchoidism=NN:UN=us-large
 euoi=noun=none
 euouae=noun=none
@@ -88087,12 +88067,8 @@ gantlet=noun=au,ca,us
 gantline=noun=us-large
 gantlope=noun=none
 ganymede=noun=none
-gaol=noun_UN=gb,nz,za
-gaol=verb=gb,nz,za
 gaolbird=NN=none
 gaolbreak=NN=none
-gaoler=noun=gb,nz,za
-gaper=noun=gb,nz,za
 gapeseed=noun=none
 gaplessly=UNTAGGED=gb
 gapo=noun=none
@@ -90283,7 +90259,6 @@ gothicism=noun_UN=none
 gothicness=noun=none
 gothite=noun=none
 gotra=NN=none
-gotta=UNTAGGED=all
 gotterdammerung=NN=none
 gouda=NN=none
 goujon=noun=none
@@ -94934,7 +94909,6 @@ hostship=NN=none
 hot-air=UNTAGGED=gb,nz,za
 hot-bloodedness=NN=none
 hot-desking=UNTAGGED=za
-hot-dog [-gg-]=verb=none
 hot-gospeller=NN=none
 hot-headedly=UNTAGGED=za
 hot-headedness=UNTAGGED=za
@@ -110383,7 +110357,6 @@ negligées=UNTAGGED=gb,nz,za
 negociant=noun=none
 negotiatress=noun=none
 negotiatrix=noun=none
-negro=JJ=au,ca,us
 negroid=JJ=au,ca,us
 negroid=noun=au,ca,us
 negroism=noun_UN=none
@@ -133353,7 +133326,6 @@ rearmouse=rearmouse/NN,rearmice/NNS=none
 rearousal=noun=none
 rearouse=UNTAGGED=us-large
 rearticulation=NN:UN=none
-rearview=UNTAGGED=all
 reascension=noun=gb,nz,za
 reascent=noun=none
 reasonedly=RB=none
@@ -141730,12 +141702,6 @@ snow-on-the-mountain=NN=none
 snowbank=noun=au,ca,us
 snowbell=noun=none
 snowbelt=noun=us-large
-snowbird=noun=au,ca,us
-snowblade=UNTAGGED=gb
-snowblader=UNTAGGED=gb
-snowbladers=UNTAGGED=gb
-snowblades=UNTAGGED=gb
-snowblading=UNTAGGED=gb
 snowblindness=NN:U=none
 snowbrush=noun=none
 snowbush=noun=none
@@ -151285,7 +151251,6 @@ trannie=noun=nz
 tranny=noun=gb,nz,za
 tranq=noun=none
 tranquilising=JJ=none
-tranquility=noun_U=ca,us
 trans-Adriatic=JJ=none
 trans-Algerian=JJ=none
 trans-Alleghenian=JJ=none

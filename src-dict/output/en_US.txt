@@ -2943,6 +2943,10 @@ eulogizer
 eulogizers
 eulogizes
 eulogizing
+eunuchize
+eunuchized
+eunuchizes
+eunuchizing
 euphemization
 euphemizations
 euphemize
@@ -7640,10 +7644,6 @@ sloganize
 sloganized
 sloganizes
 sloganizing
-smell
-smelled
-smelling
-smells
 smolder
 smoldered
 smoldering
@@ -8328,6 +8328,9 @@ trammel
 trammeled
 trammeling
 trammels
+tranquil
+tranquilities
+tranquility
 tranquilization
 tranquilizations
 tranquilize
@@ -8336,8 +8339,8 @@ tranquilizer
 tranquilizers
 tranquilizes
 tranquilizing
-tranquillization
-tranquillizations
+tranquiller
+tranquillest
 transcendentalization
 transcendentalizations
 transcolor

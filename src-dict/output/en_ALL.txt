@@ -181,6 +181,7 @@ $
 39-year-olds
 3D
 3Ds
+3M
 3rd
 4-month-old
 4-month-olds
@@ -2367,7 +2368,9 @@ Alsatians
 Alsip
 Alsop
 Alston
+Alt
 Alta
+AltaVista
 Altaba
 Altadena
 Altai
@@ -5910,7 +5913,6 @@ Brantford
 Brantley
 Braque
 Brashear
-Brasil
 Brasilia
 Brasov
 Brasschaat
@@ -7710,7 +7712,6 @@ Cameroon
 Cameroonian
 Cameroonians
 Cameroons
-Cameroun
 Camila
 Camilla
 Camille
@@ -13547,10 +13548,14 @@ Fatimids
 Fatshan
 Fauci
 Faulkner
+Faulknerian
 Faunus
 Faure
+Fauré
 Faust
 Faustian
+Faustino
+Fausto
 Faustus
 Fauve
 Fauves
@@ -20100,6 +20105,8 @@ Kinabalu
 Kincaid
 Kincardine
 Kinchinjunga
+Kindle
+Kindles
 King
 Kinghorn
 Kingman
@@ -22108,7 +22115,6 @@ Lux
 Luxembourg
 Luxembourger
 Luxembourgers
-Luxemburg
 Luxemburger
 Luxemburgers
 Luxor
@@ -25767,7 +25773,11 @@ Nathanael
 Nathaniel
 Nathanson
 Natick
+Nation
 National
+Nationalist
+Nationalists
+Nations
 Nativity
 Naucalpan
 Naucratis
@@ -27049,6 +27059,8 @@ Orff
 Orford
 Oriel
 Orient
+Orientalism
+Orientalisms
 Orientalist
 Orientalists
 Oriente
@@ -34529,7 +34541,6 @@ Taíno
 Tb
 Tbilisi
 Tc
-Tchad
 Tchaikovsky
 Tchibo
 Te
@@ -59363,10 +59374,14 @@ checkmate
 checkmated
 checkmates
 checkmating
+checkoff
+checkoffs
 checkout
 checkouts
 checkpoint
 checkpoints
+checkroom
+checkrooms
 checks
 checksum
 checksummed
@@ -59413,6 +59428,7 @@ cheeringly
 cheerio
 cheerios
 cheerlead
+cheerleaded
 cheerleader
 cheerleaders
 cheerleading
@@ -62395,6 +62411,8 @@ cofactors
 coffee
 coffeehouse
 coffeehouses
+coffeemaker
+coffeemakers
 coffees
 coffer
 cofferdam
@@ -82100,6 +82118,8 @@ eulogium
 eulogiums
 eulogy
 eunuch
+eunuchism
+eunuchisms
 eunuchoid
 eunuchs
 euonymus
@@ -90240,6 +90260,8 @@ gap
 gap-toothed
 gape
 gaped
+gaper
+gapers
 gapes
 gapeworm
 gapeworms
@@ -92684,6 +92706,7 @@ gothic
 gothically
 gothics
 goths
+gotta
 gotten
 gouache
 gouaches
@@ -98676,6 +98699,10 @@ hot
 hot-blooded
 hot-bloodedly
 hot-dipped
+hot-dog
+hot-dogged
+hot-dogging
+hot-dogs
 hot-headed
 hot-rolled
 hot-short
@@ -121810,6 +121837,7 @@ negotiator
 negotiators
 negritude
 negritudes
+negro
 negs
 negus
 neguses
@@ -146379,6 +146407,8 @@ rearrested
 rearresting
 rearrests
 rears
+rearview
+rearviews
 rearward
 rearwardness
 rearwards
@@ -151983,6 +152013,7 @@ robocops
 robopet
 robopets
 roborant
+roborants
 robot
 robotaxi
 robotaxis
@@ -160493,17 +160524,15 @@ smegma
 smegmas
 smell
 smellable
+smelled
 smellier
 smelliest
 smelliness
 smelling
 smellings
-smellled
-smellling
 smells
 smelly
 smelt
-smelted
 smelter
 smelteries
 smelters
@@ -160989,6 +161018,12 @@ snowballing
 snowballs
 snowberries
 snowberry
+snowbird
+snowbirds
+snowblade
+snowbladed
+snowblades
+snowblading
 snowblink
 snowblinks
 snowblower
@@ -174240,13 +174275,6 @@ trances
 tranche
 tranches
 trancing
-tranquil
-tranquiler
-tranquilest
-tranquiller
-tranquillest
-tranquillities
-tranquillity
 tranquilly
 tranquilness
 trans
