@@ -44099,7 +44099,7 @@ adjutant=noun=all
 adjuvant=JJ=all
 adjuvant=noun=all
 adm=abbreviation=all
-adman=adman/NN,admen/NNS=all
+adman [pl. admen]=noun=all
 admass=noun_U=all
 admeasure=verb=all
 admeasurement=noun=all
@@ -44836,7 +44836,7 @@ agrestal=JJ=all
 agrestic=JJ=all
 agri-food=NN:U=all
 agribusiness=noun_UN=all
-agribusinessman=agribusinessman/NN,agribusinessmen/NNS=all
+agribusinessman [pl. agribusinessmen]=noun=all
 agrichemical=noun=all
 agricultural=JJ=all
 agriculturalist=noun=all
@@ -44955,7 +44955,7 @@ airbrush=verb=all
 airburst=noun=all
 airbus=noun=all
 aircraft=aircraft/NN,aircraft/NNS=all
-aircraftman=aircraftman/NN,aircraftmen/NNS=all
+aircraftman [pl. aircraftmen]=noun=all
 aircrew=noun=all
 airdrop [-pp-]=verb=all
 airdrop=noun=all
@@ -44988,7 +44988,7 @@ airlock=noun=all
 airmail=JJ=all
 airmail=noun_U=all
 airmail=verb=all
-airman=airman/NN,airmen/NNS=all
+airman [pl. airmen]=noun=all
 airmobile=JJ=all
 airpark=noun=all
 airplane|aeroplane=noun=ca,us|au,gb,nz,za
@@ -45012,7 +45012,7 @@ airtightly=RB=all
 airtightness=NN:U=all
 airtime=noun_U=all
 airway=noun=all
-airwoman=airwoman/NN,airwomen/NNS=all
+airwoman [pl. airwomen]=noun=all
 airworthiness=NN:U=all
 airworthy=airworthy/JJ,airworthier/JJR,airworthiest/JJS=all
 airy-fairy=JJ=all
@@ -45143,11 +45143,11 @@ alcove=noun=all
 aldehyde=noun_U=all
 aldehydic=JJ=all
 alder=alder/NN,alder/NNS,alders/NNS=all
-alderman=alderman/NN,aldermen/NNS=all
+alderman [pl. aldermen]=noun=all
 aldermanic=JJ=all
 aldermanly=RB=all
 alderperson=alderperson/NN,alderpeople/NN:U,alderpeople/NNS,alderpersons/NNS=all
-alderwoman=alderwoman/NN,alderwomen/NNS=all
+alderwoman [pl. alderwomen]=noun=all
 aldolization|aldolisation=noun_UN=us,ca,gb|gb,au,nz,za
 aldose=noun_U=all
 aldosterone=noun=all
@@ -45548,7 +45548,7 @@ almost=RB=all
 alms=alms/NN,alms/NNS=all
 almsgiving=noun=all
 almshouse=noun=all
-almsman=almsman/NN,almsmen/NNS=all
+almsman [pl. almsmen]=noun=all
 almucantar=noun=all
 alodial=JJ=all
 alodially=RB=all
@@ -45797,7 +45797,7 @@ ambry=noun=all
 ambulacral=JJ=all
 ambulacrum=ambulacrum/NN,ambulacra/NNS=all
 ambulance=noun=all
-ambulanceman=ambulanceman/NN,ambulancemen/NNS=all
+ambulanceman [pl. ambulancemen]=noun=all
 ambulant=JJ=all
 ambulant=noun=all
 ambulate=verb=all
@@ -46268,9 +46268,9 @@ anchorite=noun=all
 anchoritic=JJ=all
 anchorless=JJ=all
 anchorlike=JJ=all
-anchorman=anchorman/NN,anchormen/NNS=all
-anchorperson=anchorperson/NN,anchorpeople/NNS,anchorpersons/NNS=all
-anchorwoman=anchorwoman/NN,anchorwomen/NNS=all
+anchorman [pl. anchormen]=noun=all
+anchorperson [pl. anchorpersons,anchorpeople]=noun=all
+anchorwoman [pl. anchorwomen]=noun=all
 anchory=JJ=all
 anchoveta=noun=all
 anchovy=anchovy/NN,anchovies/NNS,anchovy/NNS=all
@@ -47786,7 +47786,7 @@ ape=noun=all
 ape=verb=all
 apeak=RB=all
 apelike=JJ=all
-apeman=apeman/NN,apemen/NNS=all
+apeman [pl. apemen]=noun=all
 aperient=JJ=all
 aperiodic=JJ=all
 aperiodically=RB=all
@@ -48738,7 +48738,7 @@ artificially=RB=all
 artificialness=NN:U=all
 artillerist=noun=all
 artillery=noun_U=all
-artilleryman=artilleryman/NN,artillerymen/NNS=all
+artilleryman [pl. artillerymen]=noun=all
 artily=RB=all
 artiness=NN:U=all
 artiodactyl=JJ=all
@@ -48958,8 +48958,8 @@ assemblage=noun_UN=all
 assemble=verb=all
 assembler=noun=all
 assembly=noun_UN=all
-assemblyman=assemblyman/NN,assemblymen/NNS=all
-assemblywoman=assemblywoman/NN,assemblywomen/NNS=all
+assemblyman [pl. assemblymen]=noun=all
+assemblywoman [pl. assemblywomen]=noun=all
 assent=assent/NN,assent/NN:U,assents/NNS=all
 assent=verb=all
 assenter=noun=all
@@ -50064,7 +50064,7 @@ aww=UH=all
 axe=noun=all
 axe=verb=all
 axel=noun=all
-axeman=axeman/NN,axemen/NNS=all
+axeman [pl. axemen]=noun=all
 axenic=JJ=all
 axial=JJ=all
 axially=RB=all
@@ -50322,7 +50322,7 @@ backwards=RB=all
 backwash=noun_U=all
 backwash=verb=all
 backwater=noun=all
-backwoodsman=backwoodsman/NN,backwoodsmen/NNS=all
+backwoodsman [pl. backwoodsmen]=noun=all
 backyard=noun=all
 baclava=baclava/NN,baclava/NN:U,baclavas/NNS=all
 baclofen=NN:U=all
@@ -50380,7 +50380,7 @@ badgerly=RB=all
 badinage=noun_U=all
 badland=noun=all
 badly=RB=all
-badman=badman/NN,badmen/NNS=all
+badman [pl. badmen]=noun=all
 badminton=noun_U=all
 badmouth=verb=all
 badness=NN:U=all
@@ -50409,7 +50409,7 @@ baggy=baggy/JJ,baggier/JJR,baggiest/JJS=all
 baggy=noun=all
 baggywrinkle=NN=all
 bagless=JJ=all
-bagman=bagman/NN,bagmen/NNS=all
+bagman [pl. bagmen]=noun=all
 bagnio=noun=all
 bagpipe=bagpipe/JJ,bagpiper/JJR=all
 bagpipe=noun=all
@@ -50433,7 +50433,7 @@ bailment=noun=all
 bailor=noun=all
 bailout=JJ=all
 bailout=noun=all
-bailsman=bailsman/NN,bailsmen/NNS=all
+bailsman [pl. bailsmen]=noun=all
 bairn=noun=all
 bairnly=RB=all
 bait=noun_U=all
@@ -50627,7 +50627,7 @@ bandolier=noun=all
 bandoliered=JJ=all
 bandsaw=noun=all
 bandsaw=verb=all
-bandsman=bandsman/NN,bandsmen/NNS=all
+bandsman [pl. bandsmen]=noun=all
 bandstand=noun=all
 bandura=noun=all
 bandwagon|bandwaggon=noun=all|au,gb,nz,za
@@ -50801,7 +50801,7 @@ bargaining=NN:UN=all
 barge=noun=all
 barge=verb=all
 bargeboard=noun=all
-bargeman=bargeman/NN,bargemen/NNS=all
+bargeman [pl. bargemen]=noun=all
 bargepole=noun=all
 barhop [-pp-]=verb=all
 bariatric=JJ=all
@@ -50824,7 +50824,7 @@ barley=UH=all
 barley=noun_U=all
 barleycorn=noun_UN=all
 barmaid=noun=all
-barman=barman/NN,barmen/NNS=all
+barman [pl. barmen]=noun=all
 barminess=NN:U=all
 barmy=barmy/JJ,barmier/JJR,barmiest/JJS=all
 barn=noun=all
@@ -50935,7 +50935,7 @@ baselessly=RB=all
 baselessness=NN:U=all
 baseline=noun=all
 basely=RB=all
-baseman=baseman/NN,basemen/NNS=all
+baseman [pl. basemen]=noun=all
 basement=noun=all
 basementless=JJ=all
 baseness=NN:U=all
@@ -51049,14 +51049,14 @@ bathysphere=noun=all
 batik=noun_UN=all
 batiste=noun_U=all
 batlike=JJ=all
-batman=batman/NN,batmen/NNS=all
+batman [pl. batmen]=noun=all
 batologist=noun=all
 baton=noun=all
 batrachian=JJ=all
 batrachian=noun=all
 bats=JJ=all
 batshit=JJ=all
-batsman=batsman/NN,batsmen/NNS=all
+batsman [pl. batsmen]=noun=all
 battailous=JJ=all
 battalion=noun=all
 batten=noun=all
@@ -51152,7 +51152,7 @@ beading=noun_U=all
 beadle=noun=all
 beadlike=JJ=all
 beadroll=noun=all
-beadsman=beadsman/NN,beadsmen/NNS=all
+beadsman [pl. beadsmen]=noun=all
 beady-eyed=JJ=all
 beady=beady/JJ,beadier/JJR,beadiest/JJS=all
 beagle=noun=all
@@ -51518,7 +51518,7 @@ belligerent=JJ=all
 belligerent=noun=all
 belligerently=RB=all
 belling=belling/NN:UN,belling/NNS=all
-bellman=bellman/NN,bellmen/NNS=all
+bellman [pl. bellmen]=noun=all
 bellow=noun=all
 bellow=verb=all
 bellowing=NN:UN=all
@@ -52176,7 +52176,7 @@ binge=noun=all
 bingeworthy=JJ=all
 bingo=UH=all
 bingo=noun_U=all
-binman=binman/NN,binmen/NNS=all
+binman [pl. binmen]=noun=all
 binnacle=noun=all
 binocular=JJ=all
 binocular=noun=all
@@ -53151,7 +53151,7 @@ blueprint=noun=all
 blueprint=verb=all
 bluer=NN=all
 blues=blues/NN:UN,blues/NNS=all
-bluesman=bluesman/NN,bluesmen/NNS=all
+bluesman [pl. bluesmen]=noun=all
 bluest=NN=all
 bluestocking=noun=all
 bluesy=bluesy/JJ,bluesier/JJR,bluesiest/JJS=all
@@ -53243,7 +53243,7 @@ boathouse=noun=all
 boating=noun_U=all
 boatless=JJ=all
 boatload=noun=all
-boatman=boatman/NN,boatmen/NNS=all
+boatman [pl. boatmen]=noun=all
 boatswain=noun=all
 boatyard=noun=all
 bob=bob/NN,bob/NNS,bobs/NNS=all
@@ -53303,7 +53303,7 @@ bog=verb=all
 bogbean=noun=all
 bogey [bogeys;bogeyed,bogied;bogeyed,bogied;bogeying]=verb=all
 bogey=noun=all
-bogeyman=bogeyman/NN,bogeymen/NNS=all
+bogeyman [pl. bogeymen]=noun=all
 bogginess=NN:U=all
 boggish=JJ=all
 boggle=verb=all
@@ -53408,8 +53408,8 @@ bondholding=JJ=all
 bonding=noun_U=all
 bondless=JJ=all
 bondservant=noun=all
-bondsman=bondsman/NN,bondsmen/NNS=all
-bondwoman=bondwoman/NN,bondwomen/NNS=all
+bondsman [pl. bondsmen]=noun=all
+bondwoman [pl. bondwomen]=noun=all
 bone-dry=JJ=all
 bone-idle=JJ=all
 bone-tired=JJ=all
@@ -53466,7 +53466,7 @@ booby=noun=all
 boobyish=JJ=all
 boodle=noun=all
 boogaloo=noun_UN=all
-boogeyman=boogeyman/NN,boogeymen/NNS=all
+boogeyman [pl. boogeymen]=noun=all
 boogie [boogies;boogied;boogied;boogieing,boogying]=verb=all
 boogie-woogie=NN:UN=all
 boogie=noun_UN=all
@@ -53497,7 +53497,7 @@ booklike=JJ=all
 bookmaker=noun=all
 bookmaking=JJ=all
 bookmaking=noun_U=all
-bookman=bookman/NN,bookmen/NNS=all
+bookman [pl. bookmen]=noun=all
 bookmark=noun=all
 bookmark=verb=all
 bookmarker=noun=all
@@ -53810,7 +53810,7 @@ bowlike=JJ=all
 bowline=noun=all
 bowling=NN:UN=all
 bowllike=JJ=all
-bowman=bowman/NN,bowmen/NNS=all
+bowman [pl. bowmen]=noun=all
 bowshot=noun=all
 bowsprit=noun=all
 bowstring=noun=all
@@ -53946,7 +53946,7 @@ braise=verb=all
 brake=noun=all
 brake=verb=all
 brakeless=JJ=all
-brakeman=brakeman/NN,brakemen/NNS=all
+brakeman [pl. brakemen]=noun=all
 brakesman=NN=all
 braless=JJ=all
 bralette=noun=all
@@ -55010,7 +55010,7 @@ bushbuck=bushbuck/NN,bushbuck/NNS,bushbucks/NNS=all
 bushed=JJ=all
 bushel [-ll-]|bushel=verb=all|us
 bushel=noun=all
-bushelman=bushelman/NN,bushelmen/NNS=all
+bushelman [pl. bushelmen]=noun=all
 bushfire=noun=all
 bushido=bushido/NN,bushido/NN:U,bushidos/NNS=all
 bushily=RB=all
@@ -55019,7 +55019,7 @@ bushing=noun_UN=all
 bushland=bushland/NN,bushland/NN:U,bushlands/NNS=all
 bushless=JJ=all
 bushlike=JJ=all
-bushman=bushman/NN,bushmen/NNS=all
+bushman [pl. bushmen]=noun=all
 bushmaster=noun=all
 bushranger=noun=all
 bushwhack=verb=all
@@ -55035,16 +55035,16 @@ business-to-business=JJ=all
 business=JJ=all
 business=noun_UN=all
 businesslike=JJ=all
-businessman=businessman/NN,businessmen/NNS=all
-businessperson=businessperson/NN,businesspeople/NNS,businesspersons/NNS=all
-businesswoman=businesswoman/NN,businesswomen/NNS=all
+businessman [pl. businessmen]=noun=all
+businessperson [pl. businesspersons,businesspeople]=noun=all
+businesswoman [pl. businesswomen]=noun=all
 busk=verb=all
 busked=JJ=all
 busker=noun=all
 buskin=noun=all
 buskined=JJ=all
 busking=busking/NN,busking/NN:U,buskings/NNS=all
-busman=busman/NN,busmen/NNS=all
+busman [pl. busmen]=noun=all
 buspirone=buspirone/NN,buspirone/NN:U=all
 buss=verb=au,ca,us # dialectal?
 bussing=noun_U=all
@@ -55244,7 +55244,7 @@ cableless=JJ=all
 cablelike=JJ=all
 cablevision=NN:U=all
 cabling=NN:UN=all
-cabman=cabman/NN,cabmen/NNS=all
+cabman [pl. cabmen]=noun=all
 caboched=JJ=all
 cabochon=noun=all
 caboodle=noun_U=all
@@ -55606,9 +55606,9 @@ camera-shy=JJ=all
 camera=camera/NN,camerae/NNS,cameras/NNS=all
 cameral=JJ=all
 cameralistic=JJ=all
-cameraman=cameraman/NN,cameramen/NNS=all
+cameraman [pl. cameramen]=noun=all
 cameraperson [pl. camerapersons,camerapeople]=noun=all
-camerawoman=camerawoman/NN,camerawomen/NNS=all
+camerawoman [pl. camerawomen]=noun=all
 camerawork=noun=all
 camerlengo=noun=all
 camiknickers=NNS=all
@@ -56200,7 +56200,7 @@ carline=noun=all
 carlish=JJ=all
 carload=noun=all
 carmaker=noun=all
-carman=carman/NN,carmen/NNS=all
+carman [pl. carmen]=noun=all
 carminative=JJ=all
 carminative=noun=all
 carmine=JJ=all
@@ -56681,7 +56681,7 @@ cattishly=RB=all
 cattishness=NN:U=all
 cattle=cattle/NN,cattle/NNS=all
 cattleless=JJ=all
-cattleman=cattleman/NN,cattlemen/NNS=all
+cattleman [pl. cattlemen]=noun=all
 catty-corner=JJ=all
 catty-cornered=JJ=all
 catty=NN=all
@@ -56753,7 +56753,7 @@ cavalierly=JJ=all
 cavalierly=RB=all
 cavalierness=NN:U=all
 cavalry=cavalry/NN,cavalry/NN:U,cavalries/NNS,cavalry/NNS=all
-cavalryman=cavalryman/NN,cavalrymen/NNS=all
+cavalryman [pl. cavalrymen]=noun=all
 cavatina=noun=all
 cave-in=noun=all
 cave=noun=all
@@ -56761,7 +56761,7 @@ cave=verb=all
 caveat=noun=all
 caveat=verb=all
 cavelike=JJ=all
-caveman=caveman/NN,cavemen/NNS=all
+caveman [pl. cavemen]=noun=all
 caver=noun=all
 cavern=noun=all
 cavernous=JJ=all
@@ -57190,7 +57190,7 @@ chairlift=noun=all
 chairman=chairman/NN:UN,chairmen/NNS=all
 chairmanship=noun_U=all
 chairperson=noun=all
-chairwoman=chairwoman/NN,chairwomen/NNS=all
+chairwoman [pl. chairwomen]=noun=all
 chaise=noun=all
 chakra=noun=all
 chalaza=noun=all
@@ -57433,7 +57433,7 @@ chartreuse=JJ=all
 chartreuse=noun_U=all
 chartroom=noun=all
 chartulary=noun=all
-charwoman=charwoman/NN,charwomen/NNS=all
+charwoman [pl. charwomen]=noun=all
 chary=chary/JJ,charier/JJR,chariest/JJS=all
 chase=noun=all
 chase=verb=all
@@ -57688,7 +57688,7 @@ cherubically=RB=all
 chervil=noun_U=all
 chess=noun_U=all
 chessboard=noun=all
-chessman=chessman/NN,chessmen/NNS=all
+chessman [pl. chessmen]=noun=all
 chest=noun=all
 chested=JJ=all
 chesterfield=noun=all
@@ -58257,12 +58257,12 @@ churchless=JJ=all
 churchlike=JJ=all
 churchliness=NN:U=all
 churchly=churchly/JJ,churchlier/JJR,churchliest/JJS=all
-churchman=churchman/NN,churchmen/NNS=all
+churchman [pl. churchmen]=noun=all
 churchmanly=RB=all
 churchward=RB=all
 churchwarden=noun=all
 churchwide=JJ=all
-churchwoman=churchwoman/NN,churchwomen/NNS=all
+churchwoman [pl. churchwomen]=noun=all
 churchy=churchy/JJ,churchier/JJR,churchiest/JJS=all
 churchyard=noun=all
 churl=noun=all
@@ -58670,7 +58670,7 @@ clanless=JJ=all
 clannish=JJ=all
 clannishly=RB=all
 clannishness=NN:U=all
-clansman=clansman/NN,clansmen/NNS=all
+clansman [pl. clansmen]=noun=all
 clap=noun_UN=all
 clap=verb=all
 clapboard=noun=all
@@ -58738,7 +58738,7 @@ classist=JJ=all
 classist=noun=all
 classless=JJ=all
 classlessness=NN:U=all
-classman=classman/NN,classmen/NNS=all
+classman [pl. classmen]=noun=all
 classmate=noun=all
 classroom=noun=all
 classwide=JJ=all
@@ -58872,8 +58872,8 @@ clerestoried=JJ=all
 clerestory=noun=all
 clergy=clergy/NN,clergies/NNS,clergy/NNS=all
 clergylike=JJ=all
-clergyman=clergyman/NN,clergymen/NNS=all
-clergywoman=clergywoman/NN,clergywomen/NNS=all
+clergyman [pl. clergymen]=noun=all
+clergywoman [pl. clergywomen]=noun=all
 cleric=noun=all
 clerical=JJ=all
 clerical=noun=all
@@ -59185,7 +59185,7 @@ clubfooted=JJ=all
 clubhouse=noun=all
 clubland=NN=all
 clublike=JJ=all
-clubman=clubman/NN,clubmen/NNS=all
+clubman [pl. clubmen]=noun=all
 clubroom=noun=all
 cluck=noun=all
 cluck=verb=all
@@ -59297,7 +59297,7 @@ coachable=JJ=all
 coacher=noun=all
 coaching=noun_UN=all
 coachload=noun=all
-coachman=coachman/NN,coachmen/NNS=all
+coachman [pl. coachmen]=noun=all
 coachwhip=noun=all
 coachwork=coachwork/NN,coachwork/NN:U,coachworks/NNS=all
 coactively=RB=all
@@ -59940,7 +59940,7 @@ colorize|colourise|colourize=verb=us|gb,au,nz,za|ca,gb
 colorlessly|colourlessly=RB=us|gb,ca,au,nz,za
 colorlessness|colourlessness=NN:U=us|gb,ca,au,nz,za
 colorless|colourless=JJ=us|gb,ca,au,nz,za
-colorman=colorman/NN,colormen/NNS=us
+colorman [pl. colormen]=noun=us
 colorpoint|colourpoint=JJ=us|gb,ca,au,nz,za
 colorpoint|colourpoint=noun=us|gb,ca,au,nz,za
 colorway|colourway=noun=us|gb,ca,au,nz,za
@@ -59954,7 +59954,7 @@ colossus=colossus/NN,colossi/NNS,colossuses/NNS=all
 colostomy=noun=all
 colostral=JJ=all
 colostrum=noun_U=all
-colourman=colourman/NN,colourmen/NNS=gb,ca,au,nz,za
+colourman [pl. colourmen]=noun=gb,ca,au,nz,za
 colposcopic=JJ=all
 colt=noun=all
 colter=noun=all
@@ -60199,8 +60199,8 @@ committal=noun=all
 committally=RB=all
 committed=JJ=all
 committee=noun=all
-committeeman=committeeman/NN,committeemen/NNS=all
-committeewoman=committeewoman/NN,committeewomen/NNS=all
+committeeman [pl. committeemen]=noun=all
+committeewoman [pl. committeewomen]=noun=all
 committer=noun=all
 commode=noun=all
 commodification=noun_UN=all
@@ -61112,9 +61112,9 @@ congregativeness=NN:U=all
 congress=congress/NN,congress/NN:U,congresses/NNS=all
 congressional=JJ=all
 congressionally=RB=all
-congressman=congressman/NN,congressmen/NNS=all
-congressperson=congressperson/NN,congresspeople/NNS,congresspersons/NNS=all
-congresswoman=congresswoman/NN,congresswomen/NNS=all
+congressman [pl. congressmen]=noun=all
+congressperson [pl. congresspersons,congresspeople]=noun=all
+congresswoman [pl. congresswomen]=noun=all
 congruence=noun_U=all
 congruency=noun=all
 congruent=JJ=all
@@ -61190,7 +61190,7 @@ conjuror=noun=all
 conk=noun=all
 conk=verb=all
 conker=noun=all
-conman=conman/NN,conmen/NNS=all
+conman [pl. conmen]=noun=all
 connate=JJ=all
 connately=RB=all
 connatural=JJ=all
@@ -62536,10 +62536,10 @@ coulé=noun=all
 council=noun=all
 councillorship=noun_UN=all
 councillor|councilor=noun=all|us,ca
-councilman=councilman/NN,councilmen/NNS=all
+councilman [pl. councilmen]=noun=all
 councilmanic=JJ=all
 councilperson=noun=all
-councilwoman=councilwoman/NN,councilwomen/NNS=all
+councilwoman [pl. councilwomen]=noun=all
 counsel [-ll-]|counsel=verb=all|us
 counsel=noun_UN=all
 counselable=JJ=all
@@ -62634,7 +62634,7 @@ counterintuitive=JJ=all
 counterintuitively=RB=all
 counterirritant=JJ=all
 counterirritant=noun=all
-counterman=counterman/NN,countermen/NNS=all
+counterman [pl. countermen]=noun=all
 countermand=noun=all
 countermand=verb=all
 countermandable=JJ=all
@@ -62757,11 +62757,11 @@ country-style=JJ=all
 country-wide=JJ=all
 country=JJ=all
 country=noun_UN=all
-countryman=countryman/NN,countrymen/NNS=all
+countryman [pl. countrymen]=noun=all
 countryside=noun_U=all
 countrywide=JJ=all
 countrywide=RB=all
-countrywoman=countrywoman/NN,countrywomen/NNS=all
+countrywoman [pl. countrywomen]=noun=all
 county=JJ=all
 county=noun=all
 countywide=JJ=all
@@ -62887,7 +62887,7 @@ cowl=noun=all
 cowled=JJ=all
 cowlike=JJ=all
 cowling=noun=all
-cowman=cowman/NN,cowmen/NNS=all
+cowman [pl. cowmen]=noun=all
 coworker=noun=all
 coworking=NN:U=all
 cowpox=noun_U=all
@@ -62969,7 +62969,7 @@ crackly=crackly/JJ,cracklier/JJR,crackliest/JJS=all
 cracknel=noun=all
 crackpot=JJ=all
 crackpot=noun=all
-cracksman=cracksman/NN,cracksmen/NNS=all
+cracksman [pl. cracksmen]=noun=all
 crackup=noun=all
 cradle=noun=all
 cradle=verb=all
@@ -62979,10 +62979,10 @@ craft=verb=all
 crafter=noun=all
 craftily=RB=all
 craftiness=NN:U=all
-craftsman=craftsman/NN,craftsmen/NNS=all
+craftsman [pl. craftsmen]=noun=all
 craftsmanship=noun_U=all
-craftsperson=craftsperson/NN,craftspeople/NNS,craftspersons/NNS=all
-craftswoman=craftswoman/NN,craftswomen/NNS=all
+craftsperson [pl. craftspersons,craftspeople]=noun=all
+craftswoman [pl. craftswomen]=noun=all
 craftwork=NN:U=all
 craftworker=noun=all
 crafty=crafty/JJ,craftier/JJR,craftiest/JJS=all
@@ -62993,7 +62993,7 @@ craggily=RB=all
 cragginess=NN:U=all
 craggy=craggy/JJ,craggier/JJR,craggiest/JJS=all
 craglike=JJ=all
-cragsman=cragsman/NN,cragsmen/NNS=all
+cragsman [pl. cragsmen]=noun=all
 crake=noun=all
 cram-full=JJ=all
 cram=verb=all
@@ -63274,7 +63274,7 @@ crew=verb=all
 crewel=noun_U=all
 crewelwork=noun_U=all
 crewless=JJ=all
-crewman=crewman/NN,crewmen/NNS=all
+crewman [pl. crewmen]=noun=all
 crewmate=noun=all
 crib=noun=all
 crib=verb=all
@@ -63509,7 +63509,7 @@ crossbar=noun=all
 crossbeam=noun=all
 crossbones=crossbones/NN,crossbones/NNS=all
 crossbow=noun=all
-crossbowman=crossbowman/NN,crossbowmen/NNS=all
+crossbowman [pl. crossbowmen]=noun=all
 crossbred=JJ=all
 crosscurrent=noun=all
 crosscurrented=JJ=all
@@ -64564,8 +64564,8 @@ daiquiri=noun=all
 dairy=noun_UN=all
 dairying=noun_U=all
 dairymaid=noun=all
-dairyman=dairyman/NN,dairymen/NNS=all
-dairywoman=dairywoman/NN,dairywomen/NNS=all
+dairyman [pl. dairymen]=noun=all
+dairywoman [pl. dairywomen]=noun=all
 dais=noun=all
 daisied=JJ=all
 daisy-chain=noun=all
@@ -64576,7 +64576,7 @@ daisylike=JJ=all
 dal=abbreviation=none
 dal=noun=none
 dale=noun=all
-dalesman=dalesman/NN,dalesmen/NNS=all
+dalesman [pl. dalesmen]=noun=all
 daleth=noun=all
 dalliance=noun_U=all
 dallier=noun=all
@@ -65854,7 +65854,7 @@ deliverance=noun_U=all
 deliverer=noun=all
 deliverly=RB=all
 delivery=noun_UN=all
-deliveryman=deliveryman/NN,deliverymen/NNS=all
+deliveryman [pl. deliverymen]=noun=all
 dell=noun=all
 delocalization|delocalisation=noun_UN=us,ca,gb|gb,au,nz,za
 delocalize|delocalise=verb=us,ca,gb|gb,au,nz,za
@@ -69017,7 +69017,7 @@ doorbell=noun=all
 doorkeeper=noun=all
 doorknob=noun=all
 doorless=JJ=all
-doorman=doorman/NN,doormen/NNS=all
+doorman [pl. doormen]=noun=all
 doormat=noun=all
 doornail=noun=all
 doorplate=noun=all
@@ -69375,7 +69375,7 @@ drafter=noun=all
 draftily=RB=all
 draftiness=NN:U=all
 drafting=noun_U=all
-draftsman=draftsman/NN,draftsmen/NNS=all
+draftsman [pl. draftsmen]=noun=all
 drag-and-drop=JJ=all
 drag=drag/NN,drag/NN:U,drags/NNS=all
 drag=verb=all
@@ -69460,7 +69460,7 @@ drawn-out=JJ=all
 drawn=JJ=all
 drawstring=noun=all
 dray=noun=all
-drayman=drayman/NN,draymen/NNS=all
+drayman [pl. draymen]=noun=all
 dread=dread/JJ,dreader/JJR=all
 dread=noun_U=all
 dread=verb=all
@@ -69974,7 +69974,7 @@ dustily=RB=all
 dustiness=NN:U=all
 dusting=noun_UN=all
 dustless=JJ=all
-dustman=dustman/NN,dustmen/NNS=all
+dustman [pl. dustmen]=noun=all
 dustpan=noun=all
 dustproof=JJ=all
 dusty=dusty/JJ,dustier/JJR,dustiest/JJS=all
@@ -70213,7 +70213,7 @@ earthlike=JJ=all
 earthliness=NN:U=all
 earthling=earthling/NN,earthling/NNS,earthlings/NNS=all
 earthly=earthly/JJ,earthlier/JJR,earthliest/JJS=all
-earthman=earthman/NN,earthmen/NNS=all
+earthman [pl. earthmen]=noun=all
 earthmover=noun=all
 earthmoving=noun=all
 earthnut=noun=all
@@ -73380,7 +73380,7 @@ excircle=NN=all
 excisable=JJ=all
 excise=noun_U=all
 excise=verb=all
-exciseman=exciseman/NN,excisemen/NNS=all
+exciseman [pl. excisemen]=noun=all
 excision=noun_UN=all
 excisional=JJ=all
 excitability=noun_U=all
@@ -75228,7 +75228,7 @@ ferry=noun=all
 ferry=verb=all
 ferryboat=noun=all
 ferrying=NN:U=all
-ferryman=ferryman/NN,ferrymen/NNS=all
+ferryman [pl. ferrymen]=noun=all
 fertile=fertile/JJ,fertiler/JJR,fertilest/JJS=all
 fertilely=RB=all
 fertileness=NN:U=all
@@ -75449,7 +75449,7 @@ field=verb=all
 fielder=noun=all
 fieldfare=noun=all
 fielding=noun_UN=all
-fieldsman=fieldsman/NN,fieldsmen/NNS=all
+fieldsman [pl. fieldsmen]=noun=all
 fieldstone=noun=all
 fieldwork=noun_U=all
 fieldworker=noun=all
@@ -75763,7 +75763,7 @@ fireless=JJ=all
 firelight=noun_U=all
 firelighter=noun=all
 firelock=noun=all
-fireman=fireman/NN,firemen/NNS=all
+fireman [pl. firemen]=noun=all
 fireplace=noun=all
 firepower=noun_U=all
 fireproof=JJ=all
@@ -75777,7 +75777,7 @@ firestorm=noun=all
 firetail=noun=all
 firewall=noun=all
 fireweed=noun=all
-firewoman=firewoman/NN,firewomen/NNS=all
+firewoman [pl. firewomen]=noun=all
 firewood=noun_U=all
 firework=noun=all
 firing=noun_UN=all
@@ -75835,7 +75835,7 @@ fishable=JJ=all
 fishbowl=noun=all
 fishcake=noun=all
 fisher=noun=all
-fisherman=fisherman/NN,fishermen/NNS=all
+fisherman [pl. fishermen]=noun=all
 fishery=noun=all
 fisheye=noun=all
 fishily=RB=all
@@ -75999,7 +75999,7 @@ flagitious=JJ=all
 flagitiously=RB=all
 flagitiousness=NN:U=all
 flagless=JJ=all
-flagman=flagman/NN,flagmen/NNS=all
+flagman [pl. flagmen]=noun=all
 flagon=noun=all
 flagpole=noun=all
 flagrancy=noun_U=all
@@ -76393,7 +76393,7 @@ floored=JJ=all
 floorer=noun=all
 flooring=noun_U=all
 floorless=JJ=all
-floorman=floorman/NN,floormen/NNS=all
+floorman [pl. floormen]=noun=all
 floozie=noun=all
 floozy=noun=all
 flop-eared=JJ=all
@@ -76630,7 +76630,7 @@ flying=JJ=all
 flying=noun_U=all
 flyleaf=flyleaf/NN,flyleaves/NNS=all
 flyless=JJ=all
-flyman=flyman/NN,flymen/NNS=all
+flyman [pl. flymen]=noun=all
 flyness=NN:U=all
 flyover=noun=all
 flypaper=noun=all
@@ -76679,7 +76679,7 @@ focussing=NN:U=all
 fodder=noun_U=all
 foe=noun=all
 foehn=noun=all
-foeman=foeman/NN,foemen/NNS=all
+foeman [pl. foemen]=noun=all
 foetid=foetid/JJ,foetider/JJR,foetidest/JJS=gb,nz,za
 fog=fog/NN,fog/NN:U,fogs/NNS=all
 fog=verb=all
@@ -76830,7 +76830,7 @@ footling=JJ=all
 footling=footling/NN:UN,footling/NNS=all
 footlocker=noun=all
 footloose=JJ=all
-footman=footman/NN,footmen/NNS=all
+footman [pl. footmen]=noun=all
 footmark=noun=all
 footnote=noun=all
 footnote=verb=all
@@ -76985,7 +76985,7 @@ foreland=foreland/NN,foreland/NNS=all
 foreleg=noun=all
 forelimb=noun=all
 forelock=noun=all
-foreman=foreman/NN,foremen/NNS=all
+foreman [pl. foremen]=noun=all
 foremast=noun=all
 forementioned=JJ=all
 foremost=JJ=all
@@ -77003,7 +77003,7 @@ forepart=noun=all
 forepassed=JJ=all
 forepaw=noun=all
 forepeak=noun=all
-foreperson=foreperson/NN,forepeople/NNS,forepersons/NNS=all
+foreperson [pl. forepersons,forepeople]=noun=all
 foreplay=noun_U=all
 forequarter=noun=all
 forerun [foreruns;foreran;forerun;forerunning]=verb=all
@@ -77064,7 +77064,7 @@ forewarn=verb=all
 forewarning=noun_UN=all
 forewarningly=RB=all
 forewing=noun=all
-forewoman=forewoman/NN,forewomen/NNS=all
+forewoman [pl. forewomen]=noun=all
 foreword=noun=all
 forex=noun=all
 foreyard=noun=all
@@ -77589,7 +77589,7 @@ freebie=noun=all
 freeboard=noun=all
 freebooter=noun=all
 freeborn=JJ=all
-freedman=freedman/NN,freedmen/NNS=all
+freedman [pl. freedmen]=noun=all
 freedom=noun_UN=all
 freeganism=noun_UN=all
 freehand=JJ=all
@@ -77610,7 +77610,7 @@ freeload=verb=all
 freeloader=noun=all
 freeloading=noun_UN=all
 freely=RB=all
-freeman=freeman/NN,freemen/NNS=all
+freeman [pl. freemen]=noun=all
 freemartin=noun=all
 freemasonry=freemasonry/NN,freemasonry/NN:U,freemasonries/NNS=all
 freemium=JJ=all
@@ -77680,12 +77680,12 @@ freshener=noun=all
 fresher=noun=all
 freshet=noun=all
 freshly=RB=all
+freshman [pl. freshmen]=noun=all
 freshman=JJ=all
-freshman=freshman/NN,freshmen/NNS=all
 freshness=NN:U=all
 freshwater=JJ=all
 freshwater=noun_U=all
-freshwoman=freshwoman/NN,freshwomen/NNS=all
+freshwoman [pl. freshwomen]=noun=all
 fret=noun=all
 fret=verb=all
 fretboard=noun=all
@@ -77813,7 +77813,7 @@ frogger=noun=all
 frogging=NN:U=all
 froghopper=noun=all
 froglike=JJ=all
-frogman=frogman/NN,frogmen/NNS=all
+frogman [pl. frogmen]=noun=all
 frogmarch=verb=all
 frogspawn=NN:U=all
 frolic [frolics;frolicked;frolicked;frolicking]=verb=all
@@ -77849,15 +77849,15 @@ frontier=JJ=all
 frontier=noun=all
 frontierless=JJ=all
 frontierlike=JJ=all
-frontiersman=frontiersman/NN,frontiersmen/NNS=all
-frontierswoman=frontierswoman/NN,frontierswomen/NNS=all
+frontiersman [pl. frontiersmen]=noun=all
+frontierswoman [pl. frontierswomen]=noun=all
 frontispiece=noun=all
 frontless=JJ=all
 frontlessly=RB=all
 frontlet=noun=all
 frontline=JJ=all
 frontliner=noun=all
-frontman=frontman/NN,frontmen/NNS=all
+frontman [pl. frontmen]=noun=all
 frontmost=JJ=all
 frontogenesis [pl. frontogeneses]=noun=all
 frontolysis [pl. frontolyses]=noun=all
@@ -77870,7 +77870,7 @@ frontward=JJ=all
 frontward=RB=all
 frontward=noun=all
 frontwards=RB=all
-frontwoman=frontwoman/NN,frontwomen/NNS=all
+frontwoman [pl. frontwomen]=noun=all
 frost-tolerant=JJ=all
 frost=noun_UN=all
 frost=verb=all
@@ -78025,7 +78025,7 @@ fugitive=JJ=all
 fugitive=noun=all
 fugitively=RB=all
 fugitiveness=NN:U=all
-fugleman=fugleman/NN,fuglemen/NNS=all
+fugleman [pl. fuglemen]=noun=all
 fugly=fugly/JJ,fuglier/JJR,fugliest/JJS=all
 fugue=noun=all
 fuguelike=JJ=all
@@ -78750,7 +78750,7 @@ gaslight=noun_U=all
 gaslight=verb=all
 gaslighted=JJ=all
 gaslit=JJ=all
-gasman=gasman/NN,gasmen/NNS=all
+gasman [pl. gasmen]=noun=all
 gasoline=noun_U=all
 gasolineless=JJ=all
 gasometer=noun=all
@@ -79098,13 +79098,13 @@ gentle=verb=all
 gentled=JJ=all
 gentlefolk=gentlefolk/NN,gentlefolk/NNS,gentlefolks/NNS=all
 gentlehearted=JJ=all
-gentleman=gentleman/NN,gentlemen/NNS=all
+gentleman [pl. gentlemen]=noun=all
 gentlemanlike=JJ=all
 gentlemanlikeness=NN:U=all
 gentlemanliness=NN:U=all
 gentlemanly=JJ=all
 gentleness=NN:U=all
-gentlewoman=gentlewoman/NN,gentlewomen/NNS=all
+gentlewoman [pl. gentlewomen]=noun=all
 gentlewomanly=RB=all
 gentling=JJ=all
 gentling=gentling/NN:UN,gentling/NNS=all
@@ -79665,7 +79665,7 @@ glassless=JJ=all
 glasslike=JJ=all
 glassmaker=noun=all
 glassmaking=glassmaking/NN,glassmaking/NN:U,glassmakings/NNS=all
-glassman=glassman/NN,glassmen/NNS=all
+glassman [pl. glassmen]=noun=all
 glassware=noun_U=all
 glasswork=noun=all
 glassworker=noun=all
@@ -79708,7 +79708,7 @@ glee=noun_U=all
 gleeful=JJ=all
 gleefully=RB=all
 gleefulness=NN:U=all
-gleeman=gleeman/NN,gleemen/NNS=all
+gleeman [pl. gleemen]=noun=all
 gleesome=JJ=all
 gleesomely=RB=all
 gleesomeness=NN:U=all
@@ -80212,7 +80212,7 @@ goodiness=NN:U=all
 goodish=JJ=all
 goodliness=NN:U=all
 goodly=goodly/JJ,goodlier/JJR,goodliest/JJS=all
-goodman=goodman/NN,goodmen/NNS=all
+goodman [pl. goodmen]=noun=all
 goodness=NN:U=all
 goodwife=goodwife/NN,goodwives/NNS=all
 goodwill=noun_U=all
@@ -81016,7 +81016,7 @@ groundplan=noun=all
 groundsel=noun_U=all
 groundsheet=noun=all
 groundskeeper=noun=all
-groundsman=groundsman/NN,groundsmen/NNS=all
+groundsman [pl. groundsmen]=noun=all
 groundswell=noun=all
 groundward=RB=all
 groundwards=RB=all
@@ -81163,7 +81163,7 @@ guardless=JJ=all
 guardlike=JJ=all
 guardrail=noun=all
 guardroom=noun=all
-guardsman=guardsman/NN,guardsmen/NNS=all
+guardsman [pl. guardsmen]=noun=all
 guava=noun_UN=all
 guayule=noun=all
 gubernacular=JJ=all
@@ -81298,7 +81298,7 @@ gungy=JJ=all
 gunk=noun_U=all
 gunky=gunky/JJ,gunkier/JJR,gunkiest/JJS=all
 gunless=JJ=all
-gunman=gunman/NN,gunmen/NNS=all
+gunman [pl. gunmen]=noun=all
 gunmetal=noun_U=all
 gunned=JJ=all
 gunnel=noun=all
@@ -81915,7 +81915,7 @@ handicap=noun=all
 handicapped=JJ=all
 handicapper=noun=all
 handicraft=noun_UN=all
-handicraftsman=handicraftsman/NN,handicraftsmen/NNS=all
+handicraftsman [pl. handicraftsmen]=noun=all
 handily=RB=all
 handiness=NN:U=all
 handiwork=noun_U=all
@@ -81976,7 +81976,7 @@ handwritten=JJ=all
 handwrought=JJ=all
 handy-sized=JJ=all
 handy=handy/JJ,handier/JJR,handiest/JJS=all
-handyman=handyman/NN,handymen/NNS=all
+handyman [pl. handymen]=noun=all
 hang [hangs;hanged,hung;hanged,hung;hanging]=verb=all
 hang=noun=all
 hangable=JJ=all
@@ -81989,7 +81989,7 @@ hanger=noun=all
 hanging=JJ=all
 hanging=noun_UN=all
 hangingly=RB=all
-hangman=hangman/NN,hangmen/NNS=all
+hangman [pl. hangmen]=noun=all
 hangnail=noun=all
 hangout=noun=all
 hangover=noun=all
@@ -82245,7 +82245,7 @@ harvestable=JJ=all
 harvester=noun=all
 harvesting=NN:UN=all
 harvestless=JJ=all
-harvestman=harvestman/NN,harvestmen/NNS=all
+harvestman [pl. harvestmen]=noun=all
 hash=noun_U=all
 hash=verb=all
 hashing=NN:UN=all
@@ -82470,7 +82470,7 @@ headlock=noun=all
 headlong=JJ=all
 headlong=RB=all
 headlongness=NN:U=all
-headman=headman/NN,headmen/NNS=all
+headman [pl. headmen]=noun=all
 headmaster=noun=all
 headmasterly=RB=all
 headmastership=noun=all
@@ -82494,7 +82494,7 @@ headset=noun=all
 headship=noun=all
 headshot=noun=all
 headshrinker=noun=all
-headsman=headsman/NN,headsmen/NNS=all
+headsman [pl. headsmen]=noun=all
 headspace=noun=all
 headspring=noun=all
 headstall=noun=all
@@ -82897,7 +82897,7 @@ helminthologic=JJ=all
 helminthological=JJ=all
 helminthology=noun_UN=all
 helmless=JJ=all
-helmsman=helmsman/NN,helmsmen/NNS=all
+helmsman [pl. helmsmen]=noun=all
 helot=noun=all
 helotage=helotage/NN,helotage/NN:U,helotages/NNS=all
 helotism=noun_UN=all
@@ -83040,7 +83040,7 @@ hence=UH=all
 hence=noun=all
 henceforth=RB=all
 henceforward=RB=all
-henchman=henchman/NN,henchmen/NNS=all
+henchman [pl. henchmen]=noun=all
 hendecagon=noun=all
 hendecagonal=JJ=all
 hendecasyllabic=JJ=all
@@ -83140,7 +83140,7 @@ herd=verb=all
 herder=noun=all
 herding=JJ=all
 herdlike=JJ=all
-herdsman=herdsman/NN,herdsmen/NNS=all
+herdsman [pl. herdsmen]=noun=all
 here=RB=all
 hereabout=RB=all
 hereabout=noun=all
@@ -83642,7 +83642,7 @@ hightail=verb=au,ca,us
 highty-tighty=JJ=all
 highwater=noun_U=all
 highway=noun=all
-highwayman=highwayman/NN,highwaymen/NNS=all
+highwayman [pl. highwaymen]=noun=all
 hijab=noun=all
 hijack=noun=all
 hijack=verb=all
@@ -83838,7 +83838,7 @@ hitherward=noun=all
 hitlerian=JJ=all
 hitless=JJ=all
 hitmaker=noun=all
-hitman=hitman/NN,hitmen/NNS=all
+hitman [pl. hitmen]=noun=all
 hittable=JJ=all
 hitter=noun=all
 hive=noun=all
@@ -83894,7 +83894,7 @@ hocus-pocus=NN:U=all
 hod=noun=all
 hodden=noun=all
 hodgepodge=noun_U=all
-hodman=hodman/NN,hodmen/NNS=all
+hodman [pl. hodmen]=noun=all
 hodometer=noun=all
 hoe [hoes;hoed;hoed;hoeing]=verb=all
 hoe=noun=all
@@ -84464,7 +84464,7 @@ horseleech=noun=all
 horseless=JJ=all
 horselike=JJ=all
 horsely=RB=all
-horseman=horseman/NN,horsemen/NNS=all
+horseman [pl. horsemen]=noun=all
 horsemanship=noun_U=all
 horseplay=noun_U=all
 horseplayer=noun=all
@@ -84477,7 +84477,7 @@ horseshoe=noun=all
 horsetail=noun=all
 horsewhip [-pp-]=verb=all
 horsewhip=noun=all
-horsewoman=horsewoman/NN,horsewomen/NNS=all
+horsewoman [pl. horsewomen]=noun=all
 horsey=horsey/JJ,horsier/JJR,horsiest/JJS=all
 horsily=RB=all
 horsiness=NN:U=all
@@ -84630,7 +84630,7 @@ houseless=JJ=all
 houselessness=NN:U=all
 housemaid=noun=all
 housemaidy=JJ=all
-houseman=houseman/NN,housemen/NNS=all
+houseman [pl. housemen]=noun=all
 housemaster=noun=all
 housemate=noun=all
 housemistress=noun=all
@@ -84899,7 +84899,7 @@ hunter=noun=all
 hunterlike=JJ=all
 hunting=noun_U=all
 huntress=noun=all
-huntsman=huntsman/NN,huntsmen/NNS=all
+huntsman [pl. huntsmen]=noun=all
 hurdle=noun=all
 hurdle=verb=all
 hurdler=noun=all
@@ -84948,7 +84948,7 @@ husbander=noun=all
 husbandless=JJ=all
 husbandliness=NN:U=all
 husbandly=RB=all
-husbandman=husbandman/NN,husbandmen/NNS=all
+husbandman [pl. husbandmen]=noun=all
 husbandry=noun_U=all
 hush-hush=JJ=all
 hush=UH=all
@@ -85784,7 +85784,7 @@ icehouse=noun=all
 iceless=JJ=all
 icelike=JJ=all
 icemaker=noun=all
-iceman=iceman/NN,icemen/NNS=all
+iceman [pl. icemen]=noun=all
 icepack=noun=all
 icepick=NN=all
 ichneumon=noun=all
@@ -87812,7 +87812,7 @@ infantilize|infantilise=verb=us,ca,gb|gb,au,nz,za
 infantine=JJ=all
 infantlike=JJ=all
 infantry=noun_U=all
-infantryman=infantryman/NN,infantrymen/NNS=all
+infantryman [pl. infantrymen]=noun=all
 infarct=noun=all
 infarcted=JJ=all
 infarction=noun_U=all
@@ -90603,7 +90603,7 @@ jazz [jazzes;jazzed;jazzed;jazzing]=verb=all
 jazz=noun_U=all
 jazzily=RB=all
 jazziness=NN:U=all
-jazzman=jazzman/NN,jazzmen/NNS=all
+jazzman [pl. jazzmen]=noun=all
 jazzy=jazzy/JJ,jazzier/JJR,jazziest/JJS=all
 jct=NN=all
 jealous=JJ=all
@@ -90888,7 +90888,7 @@ journalize|journalise=verb=us,ca,gb|gb,au,nz,za
 journey=noun=all
 journey=verb=all
 journeyer=noun=all
-journeyman=journeyman/NN,journeymen/NNS=all
+journeyman [pl. journeymen]=noun=all
 journo=noun=all
 joust=noun=all
 joust=verb=all
@@ -91033,7 +91033,7 @@ junket=verb=all
 junketing=noun_U=all
 junkie=junkie/JJ,junkier/JJR,junkiest/JJS=all
 junkie=noun=all
-junkman=junkman/NN,junkmen/NNS=all
+junkman [pl. junkmen]=noun=all
 junky=junky/JJ,junkier/JJR,junkiest/JJS=all
 junky=noun=all
 junkyard=noun=all
@@ -91064,9 +91064,9 @@ jury-rigged=JJ=all
 jury=JJ=all
 jury=noun=all
 juryless=JJ=all
-juryman=juryman/NN,jurymen/NNS=all
+juryman [pl. jurymen]=noun=all
 juryrigged=JJ=all
-jurywoman=jurywoman/NN,jurywomen/NNS=all
+jurywoman [pl. jurywomen]=noun=all
 jussive=JJ=all
 jussive=noun=all
 just=just/JJ,juster/JJR,justest/JJS=all
@@ -91576,8 +91576,8 @@ kinless=JJ=all
 kino=noun=all
 kinsfolk=kinsfolk/NN,kinsfolk/NNS,kinsfolks/NNS=all
 kinship=noun_U=all
-kinsman=kinsman/NN,kinsmen/NNS=all
-kinswoman=kinswoman/NN,kinswomen/NNS=all
+kinsman [pl. kinsmen]=noun=all
+kinswoman [pl. kinswomen]=noun=all
 kiosk=noun=all
 kip=kip/NN,kip/NNS,kips/NNS=all
 kip=verb=all
@@ -91586,7 +91586,7 @@ kipper=noun=all
 kipper=verb=all
 kirk=noun=all #Scottish
 kirklike=JJ=all
-kirkman=kirkman/NN,kirkmen/NNS=all
+kirkman [pl. kirkmen]=noun=all
 kirsch=noun_U=all
 kirtle=noun=all
 kirtled=JJ=all
@@ -92223,7 +92223,7 @@ landside=noun=all
 landslide [landslides;landslid;landslid,landslidden;landsliding]=verb=all
 landslide=noun=all
 landslip=noun=all
-landsman=landsman/NN,landsmen/NNS=all
+landsman [pl. landsmen]=noun=all
 landward=JJ=all
 landward=RB=all
 landward=noun=all
@@ -92515,8 +92515,8 @@ laundering=NN:UN=all
 laundress=noun=all
 laundromat=noun=all
 laundry=noun_UN=all
-laundryman=laundryman/NN,laundrymen/NNS=all
-laundrywoman=laundrywoman/NN,laundrywomen/NNS=all
+laundryman [pl. laundrymen]=noun=all
+laundrywoman [pl. laundrywomen]=noun=all
 lauraceous=JJ=all
 laureate=JJ=all
 laureate=noun=all
@@ -92562,7 +92562,7 @@ lawlike=JJ=all
 lawmaker=noun=all
 lawmaking=JJ=all
 lawmaking=noun_U=all
-lawman=lawman/NN,lawmen/NNS=all
+lawman [pl. lawmen]=noun=all
 lawn=noun_UN=all
 lawnmower=noun=all
 lawny=JJ=all
@@ -92592,14 +92592,14 @@ layered=JJ=all
 layering=noun_U=all
 layette=noun=all
 laying=noun_UN=all
-layman=layman/NN,laymen/NNS=all
+layman [pl. laymen]=noun=all
 laymanize|laymanise=verb=us,ca,gb|gb,au,nz,za
 layoff=noun=all
 layout=noun=all
 layover=noun=all
-layperson=layperson/NN,laypeople/NNS,laypersons/NNS=all
+layperson [pl. laypersons,laypeople]=noun=all
 layup=noun=all
-laywoman=laywoman/NN,laywomen/NNS=all
+laywoman [pl. laywomen]=noun=all
 lazar=noun=all
 lazaretto=noun=all
 lazarlike=JJ=all
@@ -92882,7 +92882,7 @@ legitimizer|legitimiser=noun=us,ca,gb|gb,au,nz,za
 legitimize|legitimise=verb=us,ca,gb|gb,au,nz,za
 legless=JJ=all
 leglike=JJ=all
-legman=legman/NN,legmen/NNS=all
+legman [pl. legmen]=noun=all
 legroom=noun=all
 legume=noun=all
 legumin=noun=all
@@ -93040,7 +93040,7 @@ letterform=noun=all
 letterhead=noun=all
 lettering=noun_U=all
 letterless=JJ=all
-letterman=letterman/NN,lettermen/NNS=all
+letterman [pl. lettermen]=noun=all
 letterpress=noun_U=all
 letting=noun_UN=all
 lettuce=noun_U=all
@@ -93273,7 +93273,7 @@ lief=lief/JJ,liefer/JJR,liefest/JJS=all
 lief=noun=all
 liege=liege/JJ,lieger/JJR=all
 liege=noun=all
-liegeman=liegeman/NN,liegemen/NNS=all
+liegeman [pl. liegemen]=noun=all
 lien=noun=all
 lienable=JJ=all
 lienal=JJ=all
@@ -93377,7 +93377,7 @@ lighter-than-air=JJ=all
 lighter=noun_UN=all
 lighter=verb=all
 lighterage=noun_U=all
-lighterman=lighterman/NN,lightermen/NNS=all
+lighterman [pl. lightermen]=noun=all
 lightfaced=JJ=all
 lightfast=JJ=all
 lightfastness=NN:U=all
@@ -93562,7 +93562,7 @@ linebreeding=noun=all
 linefeed=noun=all
 lineless=JJ=all
 linelike=JJ=all
-lineman=lineman/NN,linemen/NNS=all
+lineman [pl. linemen]=noun=all
 linen=JJ=all
 linen=noun_U=all
 lineny=JJ=all
@@ -93570,7 +93570,7 @@ lineolate=JJ=all
 liner=noun=all
 linerboard=noun=all
 linerless=JJ=all
-linesman=linesman/NN,linesmen/NNS=all
+linesman [pl. linesmen]=noun=all
 lineup=noun=au,ca,us
 ling=ling/NN:UN,ling/NNS,lings/NNS=all
 lingam=noun=all
@@ -93607,7 +93607,7 @@ linkage=noun_UN=all
 linked=JJ=all
 linker=noun=all
 linking=JJ=all
-linkman=linkman/NN,linkmen/NNS=all
+linkman [pl. linkmen]=noun=all
 linn=noun=all
 linnet=noun=all
 lino=noun_U=all
@@ -93886,7 +93886,7 @@ liverwort=noun=all
 liverwurst=noun_U=all
 livery=JJ=all
 livery=noun=all
-liveryman=liveryman/NN,liverymen/NNS=all
+liveryman [pl. liverymen]=noun=all
 livestock=livestock/NN:UN,livestock/NNS=all
 livestream=noun=all
 livestream=verb=all
@@ -94207,7 +94207,7 @@ longboarder=noun=all
 longboarding=NN:U=all
 longboat=noun=all
 longbow=noun=all
-longbowman=longbowman/NN,longbowmen/NNS=all
+longbowman [pl. longbowmen]=noun=all
 longe=NN=all
 longe=longe/JJ,longer/JJR,longest/JJS=all
 longed-for=JJ=all
@@ -95018,7 +95018,7 @@ maderization|maderisation=noun_UN=us,ca,gb|gb,au,nz,za
 maderize|maderise=verb=us,ca,gb|gb,au,nz,za
 madhouse=noun=all
 madly=RB=all
-madman=madman/NN,madmen/NNS=all
+madman [pl. madmen]=noun=all
 madness=NN:U=all
 madras=noun=all
 madrigal=noun=all
@@ -95028,7 +95028,7 @@ madrigalist=noun=all
 madrilène=NN:U=all
 madroño=noun=all
 maduro=JJ=all
-madwoman=madwoman/NN,madwomen/NNS=all
+madwoman [pl. madwomen]=noun=all
 maelstrom=noun=all
 maenad=maenad/NN,maenades/NNS,maenads/NNS=all
 maenadic=JJ=all
@@ -95763,7 +95763,7 @@ marketwise=JJ=all
 markhor=noun=all
 marking=noun_UN=all
 markka=markka/NN,markkaa/NNS,markkas/NNS=all
-marksman=marksman/NN,marksmen/NNS=all
+marksman [pl. marksmen]=noun=all
 marksmanship=noun_U=all
 markup=noun=all
 marl=noun_U=all
@@ -96782,7 +96782,7 @@ merchantability=noun_UN=all
 merchantable=JJ=all
 merchantableness=NN:U=all
 merchantlike=JJ=all
-merchantman=merchantman/NN,merchantmen/NNS=all
+merchantman [pl. merchantmen]=noun=all
 merci=UH=all
 merciful=JJ=all
 mercifully=RB=all
@@ -96844,7 +96844,7 @@ merle=noun=all
 merlin=noun=all
 merlon=noun=all
 mermaid=noun=all
-merman=merman/NN,mermen/NNS=all
+merman [pl. mermen]=noun=all
 meroblastic=JJ=all
 meroblastically=RB=all
 merocrine=JJ=all
@@ -97599,7 +97599,7 @@ middle=noun_UN=all
 middle=verb=all
 middlebrow=JJ=all
 middlebrow=noun=all
-middleman=middleman/NN,middlemen/NNS=all
+middleman [pl. middlemen]=noun=all
 middlemost=JJ=all
 middleware=middleware/NN,middleware/NN:U=all
 middleweight=JJ=all
@@ -97637,7 +97637,7 @@ midsection=noun=all
 midsegment=noun=all
 midship=JJ=all
 midship=noun=all
-midshipman=midshipman/NN,midshipmen/NNS=all
+midshipman [pl. midshipmen]=noun=all
 midships=JJ=all
 midships=RB=all
 midsize=JJ=all
@@ -97739,7 +97739,7 @@ military=JJ=all
 military=military/NN:U,militaries/NNS,military/NNS=all
 militate=verb=all
 militia=noun=all
-militiaman=militiaman/NN,militiamen/NNS=all
+militiaman [pl. militiamen]=noun=all
 milk-and-water=JJ=all
 milk-white=JJ=all
 milk=milk/JJ,milker/JJR=all
@@ -97753,7 +97753,7 @@ milking=noun_UN=all
 milkless=JJ=all
 milklike=JJ=all
 milkmaid=noun=all
-milkman=milkman/NN,milkmen/NNS=all
+milkman [pl. milkmen]=noun=all
 milkshake=milkshake/NN,milkshake/NNS=all
 milksop=noun=all
 milksoppy=JJ=all
@@ -98028,7 +98028,7 @@ minute=noun=all
 minute=verb=all
 minutely=JJ=all
 minutely=RB=all
-minuteman=minuteman/NN,minutemen/NNS=all
+minuteman [pl. minutemen]=noun=all
 minuteness=NN:U=all
 minutia=minutia/NN,minutiae/NNS=all
 minutial=JJ=all
@@ -99335,7 +99335,7 @@ motorist=noun=all
 motorization|motorisation=noun_UN=us,ca,gb|gb,au,nz,za
 motorize|motorise=verb=us,ca,gb|gb,au,nz,za
 motorless=JJ=all
-motorman=motorman/NN,motormen/NNS=all
+motorman [pl. motormen]=noun=all
 motormouth=noun=all
 motorsport=noun_UN=all
 motortruck=noun=all
@@ -100080,7 +100080,7 @@ muscle=noun_UN=all
 muscle=verb=all
 musclebound=JJ=all
 muscleless=JJ=all
-muscleman=muscleman/NN,musclemen/NNS=all
+muscleman [pl. musclemen]=noun=all
 muscling=noun_UN=all
 muscly=JJ=all
 muscovado=noun=all
@@ -100896,7 +100896,7 @@ needler=noun=all
 needless=JJ=all
 needlessly=RB=all
 needlessness=NN:U=all
-needlewoman=needlewoman/NN,needlewomen/NNS=all
+needlewoman [pl. needlewomen]=noun=all
 needlework=noun_U=all
 needleworker=noun=all
 needling=needling/NN:UN,needling/NNS=all
@@ -101375,12 +101375,12 @@ newsless=JJ=all
 newslessness=NN:U=all
 newsletter=noun=all
 newsmagazine=noun=all
-newsman=newsman/NN,newsmen/NNS=all
+newsman [pl. newsmen]=noun=all
 newsmonger=noun=all
 newspaper=noun_UN=all
 newspaperish=JJ=all
-newspaperman=newspaperman/NN,newspapermen/NNS=all
-newspaperwoman=newspaperwoman/NN,newspaperwomen/NNS=all
+newspaperman [pl. newspapermen]=noun=all
+newspaperwoman [pl. newspaperwomen]=noun=all
 newspeak=noun=all
 newsprint=noun_U=all
 newsreader=noun=all
@@ -101388,7 +101388,7 @@ newsreel=noun_UN=all
 newsroom=noun=all
 newsstand=noun=all
 newswire=noun=all
-newswoman=newswoman/NN,newswomen/NNS=all
+newswoman [pl. newswomen]=noun=all
 newsworthiness=NN:U=all
 newsworthy=newsworthy/JJ,newsworthier/JJR,newsworthiest/JJS=all
 newswriting=noun=all
@@ -101684,12 +101684,12 @@ nobility=noun_U=all
 noble-mindedness=NN:U=all
 noble=noble/JJ,nobler/JJR,noblest/JJS=all
 noble=noun=all
-nobleman=nobleman/NN,noblemen/NNS=all
+nobleman [pl. noblemen]=noun=all
 noblemanly=RB=all
 nobleness=NN:U=all
 nobles=nobles/NN,noblesses/NNS=all
 noblesse=noun_U=all
-noblewoman=noblewoman/NN,noblewomen/NNS=all
+noblewoman [pl. noblewomen]=noun=all
 nobly=RB=all
 nobody=noun_U=all
 nociceptive=JJ=all
@@ -105114,7 +105114,7 @@ nursed=JJ=all
 nursemaid=noun=all
 nurser=noun=all
 nursery=noun_UN=all
-nurseryman=nurseryman/NN,nurserymen/NNS=all
+nurseryman [pl. nurserymen]=noun=all
 nursing=noun_U=all
 nursling=nursling/NN,nursling/NNS=all
 nurturable=JJ=all
@@ -105214,9 +105214,9 @@ oarless=JJ=all
 oarlike=JJ=all
 oarlock=noun=all
 oars=UH=all
-oarsman=oarsman/NN,oarsmen/NNS=all
+oarsman [pl. oarsmen]=noun=all
 oarsmanship=noun_U=all
-oarswoman=oarswoman/NN,oarswomen/NNS=all
+oarswoman [pl. oarswomen]=noun=all
 oasis=oasis/NN,oases/NNS=all
 oasitic=JJ=all
 oast=noun=all
@@ -105843,7 +105843,7 @@ oiling=NN:UN=all
 oilless=JJ=all
 oillessness=NN:U=all
 oillike=JJ=all
-oilman=oilman/NN,oilmen/NNS=all
+oilman [pl. oilmen]=noun=all
 oilpaper=noun=all
 oilproof=JJ=all
 oilseed=noun=all
@@ -105956,7 +105956,7 @@ ombre=noun=all
 ombrometer=noun=all
 ombrophilous=JJ=all
 ombré=JJ=all
-ombudsman=ombudsman/NN,ombudsmen/NNS=all
+ombudsman [pl. ombudsmen]=noun=all
 omega=noun=all
 omelet=noun=all
 omelette=noun=all
@@ -107034,7 +107034,7 @@ outdoor=JJ=all
 outdoor=noun=all
 outdoors=NN=all
 outdoors=RB=all
-outdoorsman=outdoorsman/NN,outdoorsmen/NNS=all
+outdoorsman [pl. outdoorsmen]=noun=all
 outdoorsmanship=noun=all
 outdoorsy=JJ=all
 outdraw [outdraws;outdrew;outdrawn;outdrawing]=verb=all
@@ -110205,7 +110205,7 @@ penitentiary=noun=all
 penitently=RB=all
 penknife=penknife/NN,penknives/NNS=all
 penlight=noun=all
-penman=penman/NN,penmen/NNS=all
+penman [pl. penmen]=noun=all
 penmanship=noun_U=all
 pennant=noun=all
 pennate=JJ=all
@@ -110795,10 +110795,10 @@ persistently=RB=all
 persisting=JJ=all
 persnicketiness=NN:U=all
 persnickety=JJ=all
+person [pl. persons,people]=noun=all
 person-centered|person-centred=JJ=us|au,ca,gb,nz,za
 person-to-person=JJ=all
 person-year=noun=all
-person=person/NN,people/NNS,persons/NNS=all
 persona=persona/NN,personae/NNS,personas/NNS=all
 personable=JJ=all
 personableness=NN:U=all
@@ -111914,7 +111914,7 @@ pigweed=noun=all
 pike=pike/NN,pike/NNS,pikes/NNS=all
 pike=verb=all
 pikelike=JJ=all
-pikeman=pikeman/NN,pikemen/NNS=all
+pikeman [pl. pikemen]=noun=all
 piker=noun=all
 pikestaff=pikestaff/NN,pikestaffs/NNS,pikestaves/NNS=all
 pilaf=noun_U=all
@@ -112295,7 +112295,7 @@ placekick=noun=all
 placekick=verb=all
 placeless=JJ=all
 placelessly=RB=all
-placeman=placeman/NN,placemen/NNS=all
+placeman [pl. placemen]=noun=all
 placement=noun_UN=all
 placenta=placenta/NN,placentae/NNS,placentas/NNS=all
 placental=JJ=all
@@ -112345,7 +112345,7 @@ plain=plain/JJ,plainer/JJR,plainest/JJS=all
 plainchant=noun=all
 plainly=RB=all
 plainness=NN:U=all
-plainsman=plainsman/NN,plainsmen/NNS=all
+plainsman [pl. plainsmen]=noun=all
 plainsong=noun_U=all
 plainspoken=JJ=all
 plainspokenness=NN:U=all
@@ -112427,7 +112427,7 @@ plantigrade=noun=all
 planting=noun_UN=all
 plantless=JJ=all
 plantlike=JJ=all
-plantsman=plantsman/NN,plantsmen/NNS=all
+plantsman [pl. plantsmen]=noun=all
 planula=planula/NN,planulae/NNS=all
 planular=JJ=all
 planulate=JJ=all
@@ -112997,7 +112997,7 @@ pointing=noun_UN=all
 pointless=JJ=all
 pointlessly=RB=all
 pointlessness=NN:U=all
-pointsman=pointsman/NN,pointsmen/NNS=all
+pointsman [pl. pointsmen]=noun=all
 pointwise=JJ=all
 pointy=pointy/JJ,pointier/JJR,pointiest/JJS=all
 poise=noun_U=all
@@ -113067,8 +113067,8 @@ polewards=JJ=all
 polewards=RB=all
 police=police/NN,police/NNS=all
 police=verb=all
-policeman=policeman/NN,policemen/NNS=all
-policewoman=policewoman/NN,policewomen/NNS=all
+policeman [pl. policemen]=noun=all
+policewoman [pl. policewomen]=noun=all
 policlinic=noun=all
 policy-making=JJ=all
 policy=noun_UN=all
@@ -113989,7 +113989,7 @@ postviral=JJ=all
 postvocalic=JJ=all
 postvocalically=RB=all
 postwar=JJ=all
-postwoman=postwoman/NN,postwomen/NNS=all
+postwoman [pl. postwomen]=noun=all
 postzygapophyseal=JJ=all
 postzygapophysial=JJ=all
 posy=noun=all
@@ -115388,7 +115388,7 @@ pressing=JJ=all
 pressing=noun_UN=all
 pressingly=RB=all
 pressingness=NN:U=all
-pressman=pressman/NN,pressmen/NNS=all
+pressman [pl. pressmen]=noun=all
 pressor=JJ=all
 pressor=noun=all
 pressroom=noun=all
@@ -115767,7 +115767,7 @@ private=noun=all
 private=private/JJ,privater/JJR,privatest/JJS=all
 privateer=noun=all
 privateer=verb=all
-privateersman=privateersman/NN,privateersmen/NNS=all
+privateersman [pl. privateersmen]=noun=all
 privately=RB=all
 privateness=NN:U=all
 privation=noun_UN=all
@@ -118498,7 +118498,7 @@ radiolucency=noun=all
 radiolucent=JJ=all
 radioluminescent=JJ=all
 radiolysis [pl. radiolyses]=noun=all
-radioman=radioman/NN,radiomen/NNS=all
+radioman [pl. radiomen]=noun=all
 radiometer=noun=all
 radiometric=JJ=all
 radiometry=noun_U=all
@@ -118602,7 +118602,7 @@ railroad=verb=all
 railroading=noun_U=all
 railway=railway/NN,railway/NN:U,railways/NNS=all
 railwayless=JJ=all
-railwayman=railwayman/NN,railwaymen/NNS=all
+railwayman [pl. railwaymen]=noun=all
 raiment=noun_U=all
 raimentless=JJ=all
 rain=noun_U=all
@@ -120875,7 +120875,7 @@ repairable=JJ=all
 repairableness=NN:U=all
 repaired=JJ=all
 repairer=noun=all
-repairman=repairman/NN,repairmen/NNS=all
+repairman [pl. repairmen]=noun=all
 repairment=noun=all
 repand=JJ=all
 reparable=JJ=all
@@ -122248,7 +122248,7 @@ riffling=riffling/NN:UN,riffling/NNS=all
 rifle=noun=all
 rifle=verb=all
 riflebird=noun=all
-rifleman=rifleman/NN,riflemen/NNS=all
+rifleman [pl. riflemen]=noun=all
 rifling=rifling/NN:UN,rifling/NNS=all
 rift=noun=all
 rift=verb=all
@@ -123542,7 +123542,7 @@ salami=noun_U=all
 salaried=JJ=all
 salary=noun_UN=all
 salaryless=JJ=all
-salaryman=salaryman/NN,salarymen/NNS=all
+salaryman [pl. salarymen]=noun=all
 salchichón=NN:U=all
 sale=noun_UN=all
 salebrous=JJ=all
@@ -123551,10 +123551,10 @@ sales=JJ=all
 sales=NN=all
 salesgirl=noun=all
 saleslady=noun=all
-salesman=salesman/NN,salesmen/NNS=all
+salesman [pl. salesmen]=noun=all
 salesmanship=noun_U=all
-salesperson=salesperson/NN,salespeople/NNS,salespersons/NNS=all
-saleswoman=saleswoman/NN,saleswomen/NNS=all
+salesperson [pl. salespersons,salespeople]=noun=all
+saleswoman [pl. saleswomen]=noun=all
 salicaceous=JJ=all
 salicin=noun=all
 salicylate=noun_U=all
@@ -123757,7 +123757,7 @@ sandless=JJ=all
 sandlike=JJ=all
 sandlot=JJ=all
 sandlot=noun=all
-sandman=sandman/NN,sandmen/NNS=all
+sandman [pl. sandmen]=noun=all
 sandpaper=noun_UN=all
 sandpaper=verb=all
 sandpapery=JJ=all
@@ -124919,7 +124919,7 @@ seallike=JJ=all
 sealskin=noun_U=all
 seam=noun=all
 seam=verb=all
-seaman=seaman/NN,seamen/NNS=all
+seaman [pl. seamen]=noun=all
 seamanlike=JJ=all
 seamanly=RB=all
 seamanship=noun_U=all
@@ -125273,7 +125273,7 @@ selectively=RB=all
 selectiveness=NN:U=all
 selectivity=noun_U=all
 selectly=RB=all
-selectman=selectman/NN,selectmen/NNS=all
+selectman [pl. selectmen]=noun=all
 selectness=NN:U=all
 selector=noun=all
 selenate=noun=all
@@ -126334,9 +126334,9 @@ serviceableness=NN:U=all
 serviceably=RB=all
 serviceberry=noun=all
 serviceless=JJ=all
-serviceman=serviceman/NN,servicemen/NNS=all
+serviceman [pl. servicemen]=noun=all
 servicer=noun=all
-servicewoman=servicewoman/NN,servicewomen/NNS=all
+servicewoman [pl. servicewomen]=noun=all
 servicing=noun_U=all
 serviette=noun=all
 servile=JJ=all
@@ -126937,7 +126937,7 @@ shipbuilder=noun=all
 shipbuilding=noun_U=all
 shipless=JJ=all
 shipload=noun=all
-shipman=shipman/NN,shipmen/NNS=all
+shipman [pl. shipmen]=noun=all
 shipmaster=noun=all
 shipmate=noun=all
 shipment=noun_UN=all
@@ -127186,7 +127186,7 @@ showily=RB=all
 showiness=NN:U=all
 showing=noun_UN=all
 showjumping=NN:U=all
-showman=showman/NN,showmen/NNS=all
+showman [pl. showmen]=noun=all
 showmanism=noun_UN=all
 showmanly=RB=all
 showmanship=noun_U=all
@@ -127402,7 +127402,7 @@ siderotic=JJ=all
 sideshow=noun=all
 sideslip [-pp-]=verb=all
 sideslip=noun=all
-sidesman=sidesman/NN,sidesmen/NNS=all
+sidesman [pl. sidesmen]=noun=all
 sidesplitting=JJ=all
 sidesplittingly=RB=all
 sidestep [-pp-]=verb=all
@@ -127492,7 +127492,7 @@ signalize|signalise=verb=us,ca,gb|gb,au,nz,za
 signaller=noun=all
 signalling=NN:UN=all
 signally=RB=all
-signalman=signalman/NN,signalmen/NNS=all
+signalman [pl. signalmen]=noun=all
 signatory=JJ=all
 signatory=noun=all
 signature=noun_UN=all
@@ -128969,7 +128969,7 @@ snowless=JJ=all
 snowlike=JJ=all
 snowline=noun=all
 snowmaker=noun=all
-snowman=snowman/NN,snowmen/NNS=all
+snowman [pl. snowmen]=noun=all
 snowmelt=noun=all
 snowmobile=noun=all
 snowmobile=verb=all
@@ -129743,7 +129743,7 @@ spacecraft=spacecraft/NN,spacecraft/NNS,spacecrafts/NNS=all
 spaced=JJ=all
 spaceflight=spaceflight/NN,spaceflight/NN:U,spaceflights/NNS=all
 spaceless=JJ=all
-spaceman=spaceman/NN,spacemen/NNS=all
+spaceman [pl. spacemen]=noun=all
 spaceport=noun=all
 spacer=noun=all
 spaceship=noun=all
@@ -129752,7 +129752,7 @@ spacesuite=noun=all
 spacewalk=noun=all
 spacewalk=verb=all
 spacewalker=noun=all
-spacewoman=spacewoman/NN,spacewomen/NNS=all
+spacewoman [pl. spacewomen]=noun=all
 spacey=spacey/JJ,spacier/JJR,spaciest/JJS=all
 spacial=JJ=all
 spacially=RB=all
@@ -129902,7 +129902,7 @@ speargun=noun=all
 spearhead=noun=all
 spearhead=verb=all
 spearlike=JJ=all
-spearman=spearman/NN,spearmen/NNS=all
+spearman [pl. spearmen]=noun=all
 spearmint=noun_U=all
 spearwort=noun=all
 spec=JJ=all
@@ -130433,9 +130433,9 @@ spoke=noun=all
 spoke=verb=all
 spokeless=JJ=all
 spokeshave=noun=all
-spokesman=spokesman/NN,spokesmen/NNS=all
-spokesperson=spokesperson/NN,spokespeople/NNS,spokespersons/NNS=all
-spokeswoman=spokeswoman/NN,spokeswomen/NNS=all
+spokesman [pl. spokesmen]=noun=all
+spokesperson [pl. spokespersons,spokespeople]=noun=all
+spokeswoman [pl. spokeswomen]=noun=all
 spokewise=RB=all
 spoliation=noun_U=all
 spoliator=noun=all
@@ -130534,14 +130534,14 @@ sportscast [sportscasts;sportscast;sportscast;sportscasting]=verb=all
 sportscast=noun=all
 sportscaster=noun=all
 sportscasting=noun_UN=all
-sportsman=sportsman/NN,sportsmen/NNS=all
+sportsman [pl. sportsmen]=noun=all
 sportsmanlike=JJ=all
 sportsmanliness=NN:U=all
 sportsmanly=RB=all
 sportsmanship=noun_U=all
 sportsperson [pl. sportspersons,sportspeople]=noun=all
 sportswear=noun_U=all
-sportswoman=sportswoman/NN,sportswomen/NNS=all
+sportswoman [pl. sportswomen]=noun=all
 sportswriter=noun=all
 sportswriting=noun=all
 sporty=sporty/JJ,sportier/JJR,sportiest/JJS=all
@@ -130886,7 +130886,7 @@ stable=noun=all
 stable=stable/JJ,stabler/JJR,stablest/JJS=all
 stable=verb=all
 stablecoin=noun=all
-stableman=stableman/NN,stablemen/NNS=all
+stableman [pl. stablemen]=noun=all
 stableness=NN:U=all
 stabler=noun=all
 stabling=stabling/NN:U,stabling/NNS=all
@@ -131197,11 +131197,11 @@ stater=noun=all
 stateroom=noun=all
 stateside=JJ=all
 stateside=RB=all
-statesman=statesman/NN,statesmen/NNS=all
+statesman [pl. statesmen]=noun=all
 statesmanlike=JJ=all
 statesmanly=RB=all
 statesmanship=noun_U=all
-stateswoman=stateswoman/NN,stateswomen/NNS=all
+stateswoman [pl. stateswomen]=noun=all
 statewide=JJ=all
 statewide=RB=all
 static=JJ=all
@@ -131361,7 +131361,7 @@ steerable=JJ=all
 steerage=noun_U=all
 steerer=noun=all
 steering=noun_U=all
-steersman=steersman/NN,steersmen/NNS=all
+steersman [pl. steersmen]=noun=all
 steganography=NN:U=all
 stegosaurus=stegosaurus/NN,stegosauri/NNS,stegosauruses/NNS=all
 stein=noun=all
@@ -131734,7 +131734,7 @@ stockjobber=noun=all
 stockkeeper=noun=all
 stockless=JJ=all
 stocklike=JJ=all
-stockman=stockman/NN,stockmen/NNS=all
+stockman [pl. stockmen]=noun=all
 stockpile=noun=all
 stockpile=verb=all
 stockpiler=noun=all
@@ -132272,7 +132272,7 @@ strongbox=noun=all
 stronghold=noun=all
 strongish=JJ=all
 strongly=RB=all
-strongman=strongman/NN,strongmen/NNS=all
+strongman [pl. strongmen]=noun=all
 strongness=NN:U=all
 strongroom=noun=all
 strongyloidiasis=strongyloidiasis/NN,strongyloidiases/NNS=all
@@ -132403,7 +132403,7 @@ stunt=verb=all
 stunted=JJ=all
 stuntedness=NN:U=all
 stunting=NN:UN=all
-stuntman=stuntman/NN,stuntmen/NNS=all
+stuntman [pl. stuntmen]=noun=all
 stupa=noun=all
 stupefacient=JJ=all
 stupefacient=noun=all
@@ -134033,7 +134033,7 @@ superlucky=JJ=all
 superlunar=JJ=all
 superlunary=JJ=all
 superluxurious=JJ=all
-superman=superman/NN,supermen/NNS=all
+superman [pl. supermen]=noun=all
 supermarginal=JJ=all
 supermarine=JJ=all
 supermarket=noun=all
@@ -134234,7 +134234,7 @@ supervisor=noun=all
 supervisory=JJ=all
 supervoluminous=JJ=all
 superwealthy=JJ=all
-superwoman=superwoman/NN,superwomen/NNS=all
+superwoman [pl. superwomen]=noun=all
 superzealous=JJ=all
 supinate=verb=all
 supination=noun=all
@@ -134586,7 +134586,7 @@ swaggerer=noun=all
 swaggering=JJ=all
 swaggering=noun_UN=all
 swaggeringly=RB=all
-swagman=swagman/NN,swagmen/NNS=all
+swagman [pl. swagmen]=noun=all
 swain=noun=all
 swainish=JJ=all
 swainishness=NN:U=all
@@ -134830,10 +134830,10 @@ swordfish=swordfish/NN,swordfish/NNS,swordfishes/NNS=all
 swordless=JJ=all
 swordlike=JJ=all
 swordplay=noun_U=all
-swordsman=swordsman/NN,swordsmen/NNS=all
+swordsman [pl. swordsmen]=noun=all
 swordsmanship=noun_U=all
 swordsmith=noun=all
-swordswoman=swordswoman/NN,swordswomen/NNS=all
+swordswoman [pl. swordswomen]=noun=all
 swordtail=noun=all
 swot=noun=all
 swot=verb=all
@@ -135315,7 +135315,7 @@ talented=JJ=all
 talented=NN=all
 talentless=JJ=all
 talentlessness=NN:U=all
-talesman=talesman/NN,talesmen/NNS=all
+talesman [pl. talesmen]=noun=all
 taligrade=JJ=all
 talisman=noun=all
 talismanic=JJ=all
@@ -135349,7 +135349,7 @@ tally=noun=all
 tally=verb=all
 tallyho=UH=all
 tallyho=verb=all
-tallyman=tallyman/NN,tallymen/NNS=all
+tallyman [pl. tallymen]=noun=all
 talon=noun=all
 talonavicular=JJ=all
 taloned=JJ=all
@@ -135702,7 +135702,7 @@ taxis=taxis/NN,taxes/NNS=all
 taxitic=JJ=all
 taxiway=noun=all
 taxless=JJ=all
-taxman=taxman/NN,taxmen/NNS=all
+taxman [pl. taxmen]=noun=all
 taxon=taxon/NN,taxa/NNS,taxons/NNS=all
 taxonomic=JJ=all
 taxonomical=JJ=all
@@ -138288,9 +138288,9 @@ townless=JJ=all
 townscape=noun=all
 townsfolk=townsfolk/NN,townsfolk/NNS=all
 township=noun=all
-townsman=townsman/NN,townsmen/NNS=all
+townsman [pl. townsmen]=noun=all
 townspeople=NNS=all
-townswoman=townswoman/NN,townswomen/NNS=all
+townswoman [pl. townswomen]=noun=all
 townwide=RB=all
 towpath=noun=all
 towy=JJ=all
@@ -138368,7 +138368,7 @@ tracking=noun_UN=all
 trackless=JJ=all
 tracklessly=RB=all
 tracklessness=NN:U=all
-trackman=trackman/NN,trackmen/NNS=all
+trackman [pl. trackmen]=noun=all
 trackpad=noun=all
 trackside=JJ=all
 trackside=noun=all
@@ -138402,8 +138402,8 @@ trademarked=JJ=all
 tradeoff=noun=all
 trader=noun=all
 tradescantia=noun=all
-tradesman=tradesman/NN,tradesmen/NNS=all
-tradeswoman=tradeswoman/NN,tradeswomen/NNS=all
+tradesman [pl. tradesmen]=noun=all
+tradeswoman [pl. tradeswomen]=noun=all
 trading=noun_UN=all
 tradition=noun_UN=all
 traditional=JJ=all
@@ -138467,7 +138467,7 @@ trainer=noun=all
 training=noun_U=all
 trainless=JJ=all
 trainload=noun=all
-trainman=trainman/NN,trainmen/NNS=all
+trainman [pl. trainmen]=noun=all
 trainsick=JJ=all
 trainspotter=noun=all
 trainspotting=NN:UN=all
@@ -138919,7 +138919,7 @@ trawl=noun=all
 trawl=verb=all
 trawlable=JJ=all
 trawler=noun=all
-trawlerman=trawlerman/NN,trawlermen/NNS=all
+trawlerman [pl. trawlermen]=noun=all
 trawling=noun_UN=all
 tray=noun=all
 trazodone=trazodone/NN,trazodone/NN:U=all
@@ -139022,7 +139022,7 @@ trenchancy=noun_U=all
 trenchant=JJ=all
 trenchantly=RB=all
 trencher=noun=all
-trencherman=trencherman/NN,trenchermen/NNS=all
+trencherman [pl. trenchermen]=noun=all
 trenchless=JJ=all
 trend-spotter=noun=all
 trend=noun=all
@@ -139103,8 +139103,8 @@ tribally=RB=all
 tribasic=JJ=all
 tribe=noun=all
 tribeless=JJ=all
-tribesman=tribesman/NN,tribesmen/NNS=all
-tribeswoman=tribeswoman/NN,tribeswomen/NNS=all
+tribesman [pl. tribesmen]=noun=all
+tribeswoman [pl. tribeswomen]=noun=all
 triboelectric=JJ=all
 tribology=noun_UN=all
 triboluminescent=JJ=all
@@ -146786,7 +146786,7 @@ unperpetuated=JJ=all
 unperplexed=JJ=all
 unperplexing=JJ=all
 unpersecuted=JJ=all
-unperson=unperson/NN,unpeople/NNS,unpersons/NNS=all
+unperson [pl. unpersons,unpeople]=noun=all
 unpersonable=JJ=all
 unpersonal=JJ=all
 unpersonalized|unpersonalised=JJ=us,ca,gb|gb,au,nz,za
@@ -151229,7 +151229,7 @@ vestmental=JJ=all
 vestmented=JJ=all
 vestral=JJ=all
 vestry=noun=all
-vestryman=vestryman/NN,vestrymen/NNS=all
+vestryman [pl. vestrymen]=noun=all
 vesture=noun=all
 vesture=verb=all
 vesuvianite=noun=all
@@ -152226,7 +152226,7 @@ wardroom=noun=all
 ware=noun=all
 warehouse=noun=all
 warehouse=verb=all
-warehouseman=warehouseman/NN,warehousemen/NNS=all
+warehouseman [pl. warehousemen]=noun=all
 warehousing=noun_U=all
 wareless=JJ=all
 wareroom=noun=all
@@ -152318,8 +152318,8 @@ washed-up=JJ=all
 washed=JJ=all
 washer=noun=all
 washerless=JJ=all
-washerman=washerman/NN,washermen/NNS=all
-washerwoman=washerwoman/NN,washerwomen/NNS=all
+washerman [pl. washermen]=noun=all
+washerwoman [pl. washerwomen]=noun=all
 washery=NN=all
 washhouse=noun=all
 washiness=NN:U=all
@@ -152372,7 +152372,7 @@ watchless=JJ=all
 watchlessness=NN:U=all
 watchmaker=noun=all
 watchmaking=noun_U=all
-watchman=watchman/NN,watchmen/NNS=all
+watchman [pl. watchmen]=noun=all
 watchstrap=noun=all
 watchtower=noun=all
 watchword=noun=all
@@ -152421,7 +152421,7 @@ waterline=noun=all
 waterlog [-gg-]=verb=all
 waterlog=JJ=all
 waterlogged=JJ=all
-waterman=waterman/NN,watermen/NNS=all
+waterman [pl. watermen]=noun=all
 watermark=noun=all
 watermark=verb=all
 watermelon=watermelon/NN,watermelon/NN:U,watermelons/NNS=all
@@ -152593,7 +152593,7 @@ weathering=noun_U=all
 weatherization|weatherisation=noun_UN=us,ca,gb|gb,au,nz,za
 weatherize|weatherise=verb=us,ca,gb|gb,au,nz,za
 weatherliness=NN:U=all
-weatherman=weatherman/NN,weathermen/NNS=all
+weatherman [pl. weathermen]=noun=all
 weatherperson=noun=all
 weatherproof=JJ=all
 weatherproof=verb=all
@@ -153118,7 +153118,7 @@ wherewith=WRB=all
 wherewithal=noun_U=all
 wherry=noun=all
 wherry=verb=all
-wherryman=wherryman/NN,wherrymen/NNS=all
+wherryman [pl. wherrymen]=noun=all
 whet=verb=all
 whether=CC=all
 whetstone=noun=all
@@ -153612,7 +153612,7 @@ wingless=JJ=all
 winglessness=NN:U=all
 winglet=noun=all
 winglike=JJ=all
-wingman=wingman/NN,wingmen/NNS=all
+wingman [pl. wingmen]=noun=all
 wingspan=noun=all
 wingspread=noun=all
 winish=JJ=all
@@ -153671,7 +153671,7 @@ wireless=wireless/NN,wireless/NNS,wirelesses/NNS=all
 wirelessly=RB=all
 wirelessness=NN:U=all
 wirelike=JJ=all
-wireman=wireman/NN,wiremen/NNS=all
+wireman [pl. wiremen]=noun=all
 wirer=noun=all
 wiretap [-pp-]=verb=all
 wiretap=noun=all
@@ -153912,7 +153912,7 @@ woodiness=NN:U=all
 woodland=noun_UN=all
 woodless=JJ=all
 woodlouse=woodlouse/NN,woodlice/NNS=all
-woodman=woodman/NN,woodmen/NNS=all
+woodman [pl. woodmen]=noun=all
 woodnote=noun=all
 woodpecker=noun=all
 woodpile=noun=all
@@ -153921,7 +153921,7 @@ woodrush=noun=all
 woodshed=noun=all
 woodside=noun=all
 woodsiness=NN:U=all
-woodsman=woodsman/NN,woodsmen/NNS=all
+woodsman [pl. woodsmen]=noun=all
 woodsy=woodsy/JJ,woodsier/JJR,woodsiest/JJS=all
 woodwind=JJ=all
 woodwind=noun_U=all
@@ -154025,7 +154025,7 @@ workingwoman [pl. workingwomen]=noun=all
 workless=JJ=all
 worklessness=NN:U=all
 workload=noun=all
-workman=workman/NN,workmen/NNS=all
+workman [pl. workmen]=noun=all
 workmanlike=JJ=all
 workmanship=noun_U=all
 workmaster=noun=all
@@ -154048,7 +154048,7 @@ workup=noun=all
 workwear=NN:U=all
 workweek=noun=au,ca,us
 workwise=RB=all
-workwoman=workwoman/NN,workwomen/NNS=all
+workwoman [pl. workwomen]=noun=all
 world-beater=JJ=all
 world-beater=noun=all
 world-beating=JJ=all
@@ -154372,8 +154372,8 @@ ya=PRP=all
 yacht=noun=all
 yacht=verb=all
 yachting=noun_U=all
-yachtsman=yachtsman/NN,yachtsmen/NNS=all
-yachtswoman=yachtswoman/NN,yachtswomen/NNS=all
+yachtsman [pl. yachtsmen]=noun=all
+yachtswoman [pl. yachtswomen]=noun=all
 yah=UH=all
 yah=noun=all
 yahoo=noun=all
@@ -154398,7 +154398,7 @@ yardage=yardage/NN,yardage/NN:U,yardages/NNS=all
 yardarm=noun=all
 yardbird=noun=all
 yarder=noun=all
-yardman=yardman/NN,yardmen/NNS=all
+yardman [pl. yardmen]=noun=all
 yardmaster=noun=all
 yardstick=noun=all
 yarmulke=noun=all
@@ -154493,8 +154493,8 @@ yelp=noun=all
 yelp=verb=all
 yelping=noun_UN=all
 yen=yen/NN,yen/NNS,yens/NNS=all
+yeoman [pl. yeomen]=noun=all
 yeoman=JJ=all
-yeoman=yeoman/NN,yeomen/NNS=all
 yeomanly=JJ=all
 yeomanly=RB=all
 yeomanry=noun_U=all
