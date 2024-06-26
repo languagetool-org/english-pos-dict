@@ -24,6 +24,7 @@
 #aiblins=RB=all archaic
 #ain=noun=au,ca,nz,us,za # rare, dialectal, ain't?
 #airbus [pl. airbusses]=noun=all # unusual
+#alligate=verb=all #rare?
 #allocater=noun=all # misspelling?
 #allocater=noun=all ?
 #alow=RB=all # unusual
@@ -45422,6 +45423,7 @@ alliaceous=JJ=all
 alliance=noun_UN=all
 alligator=noun=all
 alligatored=JJ=all
+alligatorfish [pl. alligatorfish,alligatorfishes]=noun=all
 alliterate=verb=all
 alliteration=noun_UN=all
 alliterative=JJ=all
@@ -112929,8 +112931,9 @@ poculiform=JJ=all
 pod=noun=all
 pod=verb=all
 podagra=noun=all
-podcast [podcasts;podcast;podcast;podcasting]=verb=all
+podcast [podcasts;podcast,podcasted;podcast,podcasted;podcasting]=verb=all
 podcast=noun=all
+podcastable=JJ=all
 podcaster=noun=all
 poddy=NN=all
 podesta=noun=all
@@ -138383,13 +138386,14 @@ tractive=JJ=all
 tractor=noun=all
 trad=JJ=all
 trad=NN:U=all
-tradable=tradable/JJ,tradeable/JJ=all
+tradable=JJ=all
 trade-in=JJ=all
 trade-off=noun=all
 trade-union=JJ=all
 trade=JJ=all
 trade=noun_UN=all
 trade=verb=all
+tradeable=JJ=all
 traded=JJ=all
 tradeless=JJ=all
 trademark=noun=all
