@@ -1905,6 +1905,7 @@ Adolphus=NNP=all
 Adonai=NNP=all
 Adonic=JJ=all
 Adonis=Adonis/NNP,Adonises/NNPS=all
+Adorno=NNP=all
 Adowa=NNP=all
 Adrastea=NNP=all
 Adrastus=NNP=all
@@ -81213,6 +81214,7 @@ growlingly=RB=all
 grown-up=noun=all
 grown=JJ=all
 grownup=JJ=all
+grownup=noun=all
 growth=noun_UN=all
 growthiness=NN:U=all
 grr=UH=all
@@ -84825,6 +84827,8 @@ how=noun=all
 howbeit=CC=all
 howbeit=JJ=all
 howdah=noun=all
+howdy=NN=au,ca,us
+howdy=UH=au,ca,us
 however=CC=all
 however=RB=all
 however=WRB=all
@@ -153534,8 +153538,7 @@ whisker=noun=all
 whiskered=JJ=all
 whiskerless=JJ=all
 whiskery=JJ=all
-whiskey=noun_UN=all
-whisky=noun_UN=all
+whiskey|whisky=noun_UN=all|all #  are used worldwide to distinguish regional drinks, for example Scotch whisky, but Irish whiskey and bourbon whiskey.
 whisper=noun=all
 whisper=verb=all
 whispered=JJ=all
