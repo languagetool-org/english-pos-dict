@@ -1290,14 +1290,6 @@ appetizer
 appetizers
 appetizes
 appetizing
-apprise
-apprised
-apprises
-apprising
-apprize
-apprized
-apprizes
-apprizing
 arabicisation
 arabicisations
 arabicise
@@ -8649,6 +8641,8 @@ multimerize
 multimerized
 multimerizes
 multimerizing
+mum
+mums
 municipalisation
 municipalisations
 municipalise
@@ -9989,8 +9983,15 @@ packetize
 packetized
 packetizes
 packetizing
+paediatric
+paediatrician
+paediatricians
+paediatrics
 paedophile
 paedophiles
+paedophilia
+paedophilias
+paedophilic
 paganisation
 paganisations
 paganise
@@ -10315,6 +10316,7 @@ patroniser
 patronisers
 patronises
 patronising
+patronisingly
 patronizable
 patronization
 patronizations
@@ -10324,6 +10326,7 @@ patronizer
 patronizers
 patronizes
 patronizing
+patronizingly
 pauperisation
 pauperisations
 pauperise
@@ -10397,10 +10400,6 @@ pedestrianize
 pedestrianized
 pedestrianizes
 pedestrianizing
-pediatric
-pediatrician
-pediatricians
-pediatrics
 pelletisation
 pelletisations
 pelletise
@@ -13328,6 +13327,8 @@ specialisation
 specialisations
 specialise
 specialised
+specialiser
+specialisers
 specialises
 specialising
 specialities
@@ -13336,6 +13337,8 @@ specialization
 specializations
 specialize
 specialized
+specializer
+specializers
 specializes
 specializing
 spectre
@@ -13442,6 +13445,8 @@ statisation
 statisations
 statization
 statizations
+stepmum
+stepmums
 stereocentre
 stereocentres
 sterilisable
@@ -15314,9 +15319,9 @@ victimizer
 victimizers
 victimizes
 victimizing
-vigor
-vigors
+vigour
 vigourless
+vigours
 villainise
 villainised
 villainises
@@ -15630,6 +15635,10 @@ yodeller
 yodellers
 yodelling
 yodellings
+yoghourt
+yoghourts
+yoghurt
+yoghurts
 yottagramme
 yottagrammes
 yottalitre

@@ -87,6 +87,14 @@ happy-go-lucky=JJ=all
 happy=happy/JJ,happier/JJR,happiest/JJS=all
 ```
 
+## Adding forms only to the tagger dictionary
+
+Sometimes it can be useful to add forms to the tagger dictionary, but we want to prevent the spelling dicts from accepting them. To do that, use "none" in the variants field:
+```
+prepone=verb=none # Indian English
+```
+
+
 ## Scripts
 * Script to make tests
 * Script to build the dictionaries
