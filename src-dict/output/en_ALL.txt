@@ -88240,7 +88240,6 @@ forgings
 forgivable
 forgivably
 forgive
-forgiveable
 forgiven
 forgiveness
 forgiver

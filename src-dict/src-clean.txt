@@ -115,6 +115,7 @@
 #fat=verb=all # archaic, rare
 #fiord=noun=all #unusual
 #forebear [forebears;forebore;foreborne;forebearing]=verb=all # obsolete
+#forgiveable=JJ=all # misspelling
 #forjudge=verb=all # less common thant forejudge
 #forrad=RB=all archaic dialect
 #forrard=RB=all dialect
@@ -77241,7 +77242,6 @@ forging=noun_UN=all
 forgivable=JJ=all # variants??
 forgivably=RB=all # variants??
 forgive [forgives;forgave;forgiven;forgiving]=verb=all
-forgiveable=JJ=all # variants??
 forgiveness=NN:U=all
 forgiver=noun=all
 forgiving=JJ=all
