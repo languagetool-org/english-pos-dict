@@ -119881,8 +119881,6 @@ paisana=noun=none
 paisano=noun=us-large
 paitrick=noun=none
 paiwanic=NN=none
-pajamas|pyjamas=NNS=all|gb,au,nz,za
-pajama|pyjama=NN=all|gb,au,nz,za # attributive
 pakapoo=noun=none
 pakchoi=NN=none
 pakeha=noun=nz
@@ -119931,12 +119929,10 @@ paleobiogeography=noun=none
 paleocene=NN=none
 paleoclimate=UNTAGGED=us
 paleog=NN=none
-paleomagnetist=noun=gb
 paleomammalogy=NN:UN=none
 paleon=NN=none
 paleopedology=NN:UN=none
 paleopsychic=JJ=none
-paleopsychology=NN:UN=us-large
 paleotechnic=UNTAGGED=gb
 paleozoulogic=JJ=none
 paleozoulogical=JJ=none
