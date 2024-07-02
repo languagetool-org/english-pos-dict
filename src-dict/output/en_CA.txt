@@ -1262,6 +1262,8 @@ cephalization
 cephalizations
 cesarean
 cesareans
+cesium
+cesiums
 channelization
 channelizations
 channelize

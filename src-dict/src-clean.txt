@@ -24115,6 +24115,7 @@ Lyft=NNP=all
 Lyle=NNP=all
 Lyly=NNP=all
 Lyman=NNP=all
+Lyme=NNP=all
 Lymington=NNP=all
 Lyn=NNP=all
 Lynbrook=NNP=all
@@ -27616,6 +27617,7 @@ Mqonci=NNP=za # South Africa, placename?
 Mqwangqweni=NNP=za # South Africa, placename?
 Mr=Mr/NNP,Mrs/NNPS=all
 Mrs=NNP=all
+Ms=abbreviation=all
 Msebe=NNP=za # South Africa, placename?
 Mseleni=NNP=za # South Africa, placename?
 Mseni=NNP=za # South Africa, placename?
@@ -27649,6 +27651,7 @@ Mtunzini=NNP=za # South Africa, placename?
 Mtwaku=NNP=za # South Africa, placename?
 Mtwalume=NNP=za # South Africa, placename?
 Mubarak=NNP=all
+MuckRock=NNP=all
 Muckleneuk=NNP=za # South Africa, placename?
 Mucomyst=NNP=all
 Mudabula=NNP=za # South Africa, placename?
@@ -27708,6 +27711,7 @@ Multnomah=NNP=all
 Mumbai=NNP=all
 Mumford=NNP=all
 Munch=NNP=all
+Munchausen=NNP=all
 Muncie=NNP=all
 Munda=NNP=all
 Mundelein=NNP=all
@@ -55468,6 +55472,7 @@ caesarean|cesarean=JJ=all|au,ca,us
 caesarean|cesarean=noun=all|au,ca,us
 caesarian=JJ=all
 caesaropapist=JJ=all
+caesium|cesium=noun_U=au,gb,nz,za|ca,us
 caespitose=JJ=all
 caesura=caesura/NN,caesurae/NNS,caesuras/NNS=all
 caesural=JJ=all
@@ -74388,6 +74393,7 @@ eyesight=noun_U=all
 eyesore=noun=all
 eyespot=noun=all
 eyestalk=noun=all
+eyestrain=noun_U=all
 eyewash=noun_U=all
 eyewear=NN:U=all
 eyewitness=noun=all
@@ -74883,6 +74889,7 @@ fashionably=RB=all
 fashioned=JJ=all
 fashioner=noun=all
 fashioning=NN:UN=all
+fashionista=noun=all
 fashionless=JJ=all
 fast-breaking=JJ=all
 fast-forward=noun=all
@@ -74992,9 +74999,11 @@ faubourg=noun=all
 faucal=JJ=all
 faucet=noun=au,ca,us
 faucial=JJ=all
+fault-finding=NN:U=all
 fault-tolerant=JJ=all
 fault=noun=all
 fault=verb=all
+faultfinder=noun=all
 faultfinding=JJ=all
 faultful=JJ=all
 faultily=RB=all
@@ -75122,10 +75131,12 @@ feckly=RB=all
 feculence=noun=all
 feculent=JJ=all
 fecund=JJ=all
+fecundability=noun_UN=all
 fecundate=verb=all
 fecundation=noun_U=all
 fecundatory=JJ=all
 fecundity=noun_U=all
+fed-up=JJ=all
 fed=noun=all
 fedayeen=NN=all
 federal=JJ=all
@@ -75157,6 +75168,7 @@ feed [feeds;fed;fed;feeding]=verb=all
 feed=noun_UN=all
 feedable=JJ=all
 feedback=noun_U=all
+feedback=verb=all
 feeder=noun=all
 feedforward=NN:U=all
 feeding=noun_UN=all
@@ -75211,15 +75223,19 @@ fell=noun=all
 fell=verb=all
 fella=noun=all
 fellable=JJ=all
-fellah=noun=all
+fellah [pl. fellahs,fellahin,fellaheen]=noun=all
+fellate=verb=all
 fellatio=noun_U=all
+fellation=noun_UN=all
 fellator=noun=all
 felled=JJ=all
 feller=noun=all
 fellmonger=NN=all
 fellness=NN:U=all
+fellow-traveller=noun=all
 fellow=JJ=all
 fellow=noun=all
+fellowman [pl. fellowmen]=noun=all
 fellowship=noun_UN=all
 felly=RB=all
 felon=JJ=all
@@ -77388,8 +77404,10 @@ fortunately=RB=all
 fortunateness=NN:U=all
 fortune-teller=noun=all
 fortune-telling=JJ=all
-fortune-telling=NN:UN=all
+fortune-telling=NN:U=all
 fortune=noun_UN=all
+fortuneteller=noun=all
+fortunetelling=noun_U=all
 fortunize|fortunise=verb=us,ca,gb|gb,au,nz,za
 forty-eight=CD=all
 forty-eighth=JJ=all
@@ -117090,6 +117108,10 @@ psephology=noun_UN=all
 pseud=JJ=all
 pseud=noun=all
 pseudo-Muslim=JJ=all
+pseudo-intellectual=JJ=all
+pseudo-intellectual=noun=all
+pseudo-science=noun_UN=all
+pseudo-scientific=JJ=all
 pseudo=JJ=all
 pseudo=noun=all
 pseudoacademic=JJ=all
@@ -117216,7 +117238,7 @@ pseudosacred=JJ=all
 pseudoscalar=JJ=all
 pseudoscholarly=RB=all
 pseudoscholastic=JJ=all
-pseudoscience=pseudoscience/NN,pseudoscience/NN:U,pseudosciences/NNS=all
+pseudoscience=noun_UN=all
 pseudoscientific=JJ=all
 pseudoscientifically=RB=all
 pseudoscope=noun=all
@@ -120025,10 +120047,13 @@ recursiveness=NN:U=all
 recurvate=JJ=all
 recurve=noun=all
 recurve=verb=all
+recusal=noun_UN=all
 recusance=noun=all
 recusancy=noun_U=all
 recusant=JJ=all
 recusant=noun=all
+recusation=noun_UN=all
+recuse=verb=all
 recut [recuts;recut;recut;recutting]=verb=all
 recyclable=JJ=all
 recyclable=noun=all
@@ -123719,6 +123744,8 @@ sadistic=JJ=all
 sadistically=RB=all
 sadly=RB=all
 sadness=noun_UN=all
+sado-masochistic=JJ=all
+sado-masochistically=RB=all
 sadomasochism=noun_U=all
 sadomasochist=noun=all
 sadomasochistic=JJ=all
@@ -126272,7 +126299,12 @@ semisuccessfully=RB=all
 semisupernatural=JJ=all
 semisweet=JJ=all
 semisynthetic=JJ=all
+semitechnical=JJ=all
+semitendinosus [pl. semitendinosi]=noun=all
 semiterrestrial=JJ=all
+semitextural=JJ=all
+semitexturally=RB=all
+semitheatric=JJ=all
 semitheatrical=JJ=all
 semitheological=JJ=all
 semitonally=RB=all
@@ -133888,6 +133920,7 @@ sugar-free=JJ=all
 sugar=noun_U=all
 sugar=verb=all
 sugarcane=noun_U=all
+sugarcoat=verb=all
 sugarcoated=JJ=all
 sugared=JJ=all
 sugarfree=JJ=all

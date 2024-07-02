@@ -1313,6 +1313,8 @@ cephalization
 cephalizations
 cesarean
 cesareans
+cesium
+cesiums
 channel
 channeled
 channeler

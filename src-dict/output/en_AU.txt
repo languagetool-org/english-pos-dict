@@ -1035,6 +1035,8 @@ buss
 bussed
 busses
 bussing
+caesium
+caesiums
 calcitisation
 calcitisations
 calendarise
