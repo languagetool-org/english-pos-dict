@@ -283,6 +283,7 @@ Vietnamizations
 Westernization
 Westernizations
 aborning
+abridgable
 abridgment
 abridgments
 absolutization
@@ -980,6 +981,7 @@ bipolarize
 bipolarized
 bipolarizes
 bipolarizing
+bitable
 bituminization
 bituminizations
 bituminize
@@ -3596,6 +3598,7 @@ harmonizer
 harmonizers
 harmonizes
 harmonizing
+hatable
 heathenize
 heathenized
 heathenizes
@@ -4398,6 +4401,7 @@ likability
 likable
 likableness
 likably
+linable
 linearization
 linearizations
 linearize
@@ -5017,6 +5021,7 @@ motorized
 motorizes
 motorizing
 mouse-colored
+movableness
 multi-specialties
 multi-specialty
 multicenter
@@ -6899,6 +6904,8 @@ rasterize
 rasterized
 rasterizes
 rasterizing
+ratable
+ratables
 rationalizable
 rationalization
 rationalizations
@@ -7505,6 +7512,7 @@ satirizer
 satirizers
 satirizes
 satirizing
+savable
 savior
 savioress
 savioresses
@@ -7710,12 +7718,14 @@ sexualize
 sexualized
 sexualizes
 sexualizing
+shakable
 shakedown
 shakedowns
 shamanize
 shamanized
 shamanizes
 shamanizing
+shapable
 sherardization
 sherardizations
 sherardize
@@ -7784,6 +7794,8 @@ sirenizes
 sirenizing
 six-liter
 six-liters
+sizable
+sizableness
 skeletonization
 skeletonizations
 skeletonize
@@ -8289,6 +8301,7 @@ tabularize
 tabularized
 tabularizes
 tabularizing
+tamable
 tanalize
 tanalized
 tanalizes
@@ -8592,6 +8605,7 @@ tuberculization
 tuberculizations
 tumor
 tumors
+tunable
 tunnel
 tunneled
 tunneler
@@ -8789,6 +8803,7 @@ universalizes
 universalizing
 unjeopardized
 unjournalized
+unjudgable
 unlabeled
 unlabored
 unlaboring
@@ -8802,6 +8817,7 @@ unlionized
 unlivable
 unlocalizable
 unlocalized
+unlovable
 unmacadamized
 unmagnetized
 unmaterialized
@@ -8896,10 +8912,12 @@ unsecularized
 unself-centered
 unsensualized
 unserialized
+unshakable
 unsignalized
 unskillful
 unskillfully
 unskillfulness
+unsmokable
 unsocializable
 unsocialized
 unspecialized
@@ -8922,9 +8940,12 @@ unsympathized
 unsynchronized
 unsynthesized
 unsystematized
+untakable
+untamable
 untantalized
 untenderized
 unterrorized
+untradable
 untrammeled
 untraveled
 untyrannized
@@ -9202,6 +9223,7 @@ vulgarizer
 vulgarizers
 vulgarizes
 vulgarizing
+wadable
 warmup
 warmups
 watercolor
@@ -9284,6 +9306,7 @@ worshiper
 worshipers
 worshiping
 worships
+writable
 xerox
 xeroxed
 xeroxes

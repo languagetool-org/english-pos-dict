@@ -1,4 +1,3 @@
-
 'strewth=UNTAGGED=gb
 'struth=UNTAGGED=gb
 -war=UNTAGGED=gb
@@ -31125,7 +31124,6 @@ Lylesland=UNTAGGED=gb
 Lymann=NNP=none
 Lymantria=NNP=none
 Lymantriidae=NNP=none
-Lyme=UNTAGGED=all
 Lyminge=UNTAGGED=gb
 Lyminster=UNTAGGED=gb
 Lymm=UNTAGGED=gb
@@ -66956,7 +66954,6 @@ caesaropapism=NN:UN=none
 caesially=UNTAGGED=gb
 caesiisability=UNTAGGED=gb
 caesiisable=UNTAGGED=gb
-caesium=noun_U=au,gb,nz,za
 caesiumably=UNTAGGED=gb
 caesiumation=UNTAGGED=gb
 caesiumations=UNTAGGED=gb
@@ -68880,7 +68877,6 @@ cervus=NN=none
 ceryle=NN=none
 cesar=UNTAGGED=us-large
 cesarevitch=noun=none
-cesium=noun_U=ca,us
 cess=UNTAGGED=gb,us-large
 cessationism=NN:U=gb
 cesser=NN=none
@@ -84468,7 +84464,6 @@ eyeshotiveness=UNTAGGED=gb
 eyeshotry=UNTAGGED=gb
 eyesome=JJ=none
 eyestone=noun=none
-eyestrain=noun_U=au,ca,us
 eyestring=noun=none
 eyestripe=UNTAGGED=gb
 eyestripes=UNTAGGED=gb
@@ -86769,8 +86764,6 @@ fortune-tellings=UNTAGGED=gb,nz,za
 fortuned=UNTAGGED=gb,nz,za
 fortuneless=JJ=none
 fortunella=NN=none
-fortuneteller=noun=au,ca,us
-fortunetelling=noun_U=au,ca,us
 fortuning=UNTAGGED=gb,nz,za
 forty-eightfold=UNTAGGED=gb,nz,za
 forty-eighths=UNTAGGED=gb,nz,za

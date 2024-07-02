@@ -285,6 +285,7 @@ Vietnamisations
 Westernisation
 Westernisations
 aborning
+abridgeable
 abridgement
 abridgements
 absolutisation
@@ -954,6 +955,7 @@ bipolarise
 bipolarised
 bipolarises
 bipolarising
+biteable
 bituminisation
 bituminisations
 bituminise
@@ -1003,6 +1005,7 @@ breathalyser
 breathalysers
 breathalyses
 breathalysing
+bribeable
 bright-coloured
 bromisation
 bromisations
@@ -1314,6 +1317,7 @@ chloridises
 chloridising
 chloritisation
 chloritisations
+chooseable
 chorisation
 chorisations
 chromise
@@ -1352,6 +1356,7 @@ circularises
 circularising
 circumcentre
 circumcentres
+citeable
 citizenise
 citizenised
 citizenises
@@ -1400,6 +1405,7 @@ cliticisation
 cliticisations
 close-fertilisation
 close-fertilisations
+closeable
 coalise
 coalised
 coalises
@@ -1767,6 +1773,7 @@ dappled-grey
 dark-coloured
 datacentre
 datacentres
+dateable
 de-Stalinisation
 de-Stalinisations
 de-Stalinise
@@ -2552,6 +2559,7 @@ dramatiser
 dramatisers
 dramatises
 dramatising
+driveable
 driveller
 drivellers
 drivelling
@@ -3078,6 +3086,7 @@ focalising
 forejudgement
 forejudgements
 forevermore
+forgiveable
 formalisable
 formalisation
 formalisations
@@ -4191,6 +4200,7 @@ licences
 light-coloured
 lightsabre
 lightsabres
+lineable
 linearisation
 linearisations
 linearise
@@ -4256,6 +4266,7 @@ logicise
 logicised
 logicises
 logicising
+loveable
 lucerne
 lucernes
 lunchroom
@@ -4812,6 +4823,7 @@ mouse-coloured
 moustache
 moustached
 moustaches
+moveableness
 multi-specialities
 multi-speciality
 multicentre
@@ -5308,6 +5320,7 @@ nontemporal
 nontemporals
 nontenured
 nontoxic
+nontradeable
 nontransferable
 nontypical
 nonuniform
@@ -6676,6 +6689,8 @@ rasterise
 rasterised
 rasterises
 rasterising
+rateable
+rateables
 rationalisable
 rationalisation
 rationalisations
@@ -7247,6 +7262,7 @@ satiriser
 satirisers
 satirises
 satirising
+saveable
 saviour
 saviouress
 saviouresses
@@ -7517,6 +7533,8 @@ sirenises
 sirenising
 six-litre
 six-litres
+sizeable
+sizeableness
 skeletonisation
 skeletonisations
 skeletonise
@@ -7999,6 +8017,7 @@ tabularise
 tabularised
 tabularises
 tabularising
+tameable
 tanalise
 tanalised
 tanalises
@@ -8202,6 +8221,7 @@ totalisers
 totalises
 totalising
 tow-coloured
+tradeable
 traditionalise
 traditionalised
 traditionalises
@@ -8359,6 +8379,7 @@ uncriticisable
 uncriticised
 uncrystallisable
 uncrystallised
+undateable
 undefenced
 undemocratisation
 undemocratisations
@@ -8417,6 +8438,7 @@ unfeudalised
 unfeudalises
 unfeudalising
 unflavoured
+unforgiveable
 unformalised
 unfossilised
 ungalvanised
@@ -8472,6 +8494,7 @@ universalises
 universalising
 unjeopardised
 unjournalised
+unjudgeable
 unlabelled
 unlaboured
 unlabouring
@@ -8481,6 +8504,7 @@ unlionised
 unliveable
 unlocalisable
 unlocalised
+unloveable
 unmacadamised
 unmagnetised
 unmaterialised
@@ -8494,12 +8518,14 @@ unmetallised
 unmethodised
 unmilitarised
 unmineralised
+unmistakeable
 unmobilised
 unmodernised
 unmotorised
 unmouldy
 unmunicipalised
 unmutualised
+unnameable
 unnationalised
 unnaturalise
 unnaturalised
@@ -8553,6 +8579,7 @@ unregularised
 unreorganised
 unrevolutionised
 unromanticised
+unruffleable
 unsaleability
 unsaleable
 unsaleably
@@ -8569,16 +8596,19 @@ unsecularised
 unself-centred
 unsensualised
 unserialised
+unshakeable
 unsignalised
 unskilful
 unskilfully
 unskilfulness
+unsmokeable
 unsocialisable
 unsocialised
 unspecialised
 unspiritualised
 unstabilised
 unstandardised
+unstateable
 unsterilised
 unstigmatised
 unsubsidised
@@ -8591,9 +8621,12 @@ unsympathised
 unsynchronised
 unsynthesised
 unsystematised
+untakeable
+untameable
 untantalised
 untenderised
 unterrorised
+untradeable
 untrammelled
 untyrannised
 ununionised
@@ -8628,6 +8661,7 @@ urbanises
 urbanising
 urgicentre
 urgicentres
+useable
 user-centred
 utilisable
 utilisation
@@ -8833,6 +8867,7 @@ volumise
 volumised
 volumises
 volumising
+voteable
 voucherise
 voucherised
 voucherises
@@ -8944,6 +8979,7 @@ worshipper
 worshippers
 worshipping
 worships
+writeable
 xerox
 xeroxed
 xeroxes

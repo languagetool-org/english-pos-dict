@@ -559,6 +559,7 @@ Westernisation
 Westernisations
 Westernization
 Westernizations
+abridgeable
 abridgedly
 abridgement
 abridgements
@@ -1735,6 +1736,7 @@ bipolarize
 bipolarized
 bipolarizes
 bipolarizing
+biteable
 bituminisation
 bituminisations
 bituminise
@@ -1805,6 +1807,7 @@ breathalyser
 breathalysers
 breathalyses
 breathalysing
+bribeable
 bright-coloured
 bromisation
 bromisations
@@ -2356,6 +2359,7 @@ chloritisation
 chloritisations
 chloritization
 chloritizations
+chooseable
 chorisation
 chorisations
 chorization
@@ -2432,6 +2436,7 @@ circularizes
 circularizing
 circumcentre
 circumcentres
+citeable
 citizenise
 citizenised
 citizenises
@@ -2514,6 +2519,7 @@ close-fertilisation
 close-fertilisations
 close-fertilization
 close-fertilizations
+closeable
 coalise
 coalised
 coalises
@@ -3159,6 +3165,7 @@ dappled-grey
 dark-coloured
 datacentre
 datacentres
+dateable
 de-Stalinisation
 de-Stalinisations
 de-Stalinise
@@ -4641,6 +4648,7 @@ dramatizer
 dramatizers
 dramatizes
 dramatizing
+driveable
 driveller
 drivellers
 drivelling
@@ -5547,6 +5555,7 @@ foetus
 foetuses
 forejudgement
 forejudgements
+forgiveable
 formalisable
 formalisation
 formalisations
@@ -7493,6 +7502,7 @@ licences
 light-coloured
 lightsabre
 lightsabres
+lineable
 linearisation
 linearisations
 linearise
@@ -7613,6 +7623,7 @@ logicize
 logicized
 logicizes
 logicizing
+loveable
 lower-level
 lucerne
 lucernes
@@ -8622,6 +8633,7 @@ moustaches
 moustachio
 moustachioed
 moustachios
+moveableness
 multi-specialities
 multi-speciality
 multicentre
@@ -9353,6 +9365,7 @@ nonsynthesised
 nonsynthesized
 nontautomerisable
 nontautomerizable
+nontradeable
 nonunionised
 nonunionized
 nonutilised
@@ -11749,6 +11762,8 @@ rasterize
 rasterized
 rasterizes
 rasterizing
+rateable
+rateables
 rationalisable
 rationalisation
 rationalisations
@@ -12798,6 +12813,7 @@ satirizer
 satirizers
 satirizes
 satirizing
+saveable
 saviour
 saviouress
 saviouresses
@@ -13259,6 +13275,8 @@ sirenizes
 sirenizing
 six-litre
 six-litres
+sizeable
+sizeableness
 skeletonisation
 skeletonisations
 skeletonise
@@ -14111,6 +14129,7 @@ tabularize
 tabularized
 tabularizes
 tabularizing
+tameable
 tanalise
 tanalised
 tanalises
@@ -14458,6 +14477,7 @@ totalizers
 totalizes
 totalizing
 tow-coloured
+tradeable
 traditionalise
 traditionalised
 traditionalises
@@ -14714,6 +14734,7 @@ uncrystallisable
 uncrystallised
 uncrystallizable
 uncrystallized
+undateable
 undefenced
 undemocratisation
 undemocratisations
@@ -14815,6 +14836,7 @@ unfeudalized
 unfeudalizes
 unfeudalizing
 unflavoured
+unforgiveable
 unformalised
 unformalized
 unfossilised
@@ -14919,6 +14941,7 @@ unjeopardised
 unjeopardized
 unjournalised
 unjournalized
+unjudgeable
 unlabelled
 unlaboured
 unlabouring
@@ -14933,6 +14956,7 @@ unlocalisable
 unlocalised
 unlocalizable
 unlocalized
+unloveable
 unmacadamised
 unmacadamized
 unmagnetised
@@ -14959,6 +14983,7 @@ unmilitarised
 unmilitarized
 unmineralised
 unmineralized
+unmistakeable
 unmobilised
 unmobilized
 unmodernised
@@ -14970,6 +14995,7 @@ unmunicipalised
 unmunicipalized
 unmutualised
 unmutualized
+unnameable
 unnationalised
 unnationalized
 unnaturalise
@@ -15074,6 +15100,7 @@ unrevolutionised
 unrevolutionized
 unromanticised
 unromanticized
+unruffleable
 unsaleability
 unsaleable
 unsaleably
@@ -15101,11 +15128,13 @@ unsensualised
 unsensualized
 unserialised
 unserialized
+unshakeable
 unsignalised
 unsignalized
 unskilful
 unskilfully
 unskilfulness
+unsmokeable
 unsocialisable
 unsocialised
 unsocializable
@@ -15118,6 +15147,7 @@ unstabilised
 unstabilized
 unstandardised
 unstandardized
+unstateable
 unsterilised
 unsterilized
 unstigmatised
@@ -15146,12 +15176,15 @@ unsynthesised
 unsynthesized
 unsystematised
 unsystematized
+untakeable
+untameable
 untantalised
 untantalized
 untenderised
 untenderized
 unterrorised
 unterrorized
+untradeable
 untrammelled
 untyrannised
 untyrannized
@@ -15207,6 +15240,7 @@ urbanizes
 urbanizing
 urgicentre
 urgicentres
+useable
 user-centred
 utilisable
 utilisation
@@ -15575,6 +15609,7 @@ volumize
 volumized
 volumizes
 volumizing
+voteable
 voucherise
 voucherised
 voucherises
@@ -15736,6 +15771,7 @@ worshipper
 worshippers
 worshipping
 worships
+writeable
 yarovisation
 yarovisations
 yarovization

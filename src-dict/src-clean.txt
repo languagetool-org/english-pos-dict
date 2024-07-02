@@ -43279,9 +43279,8 @@ abreact=verb=all
 abreaction=noun_UN=all
 abreast=JJ=all
 abreast=RB=all
-abridgable=JJ=all
+abridgable|abridgeable=JJ=us|au,ca,gb,za
 abridge=verb=all
-abridgeable=JJ=all
 abridgedly=RB=gb
 abridger=noun=all
 abridgment|abridgement=noun_UN=us|au,ca,gb,nz,za # check variants!
@@ -52693,7 +52692,7 @@ bisulfate=noun=all
 bisymmetric=JJ=all
 bisymmetrical=JJ=all
 bit=noun=all
-bitable=JJ=all
+bitable|biteable=JJ=us|au,ca,gb,za
 bitartrate=noun_U=all
 bitch=noun=all
 bitch=verb=all
@@ -52703,7 +52702,6 @@ bitchy=bitchy/JJ,bitchier/JJR,bitchiest/JJS=all
 bitcoin=bitcoin/NN:UN,bitcoin/NNS,bitcoins/NNS=all
 bite [bites;bit;bitten;biting]=verb=all
 bite=noun_UN=all
-biteable=JJ=all
 biter=noun=all
 biting=JJ=all
 biting=noun_UN=all
@@ -53708,7 +53706,7 @@ boozy=boozy/JJ,boozier/JJR,booziest/JJS=all
 bop=noun=all
 bop=verb=all
 bopper=noun=all
-borable=JJ=all
+borable|boreable=JJ=all|all
 boracic=JJ=all
 borage=noun_U=all
 boraginaceous=JJ=all
@@ -53726,7 +53724,6 @@ borderline=JJ=all
 borderline=noun=all
 bore=noun=all
 bore=verb=all
-boreable=JJ=all
 boreal=JJ=all
 bored=JJ=all
 boredom=noun_U=all
@@ -54310,10 +54307,9 @@ brewhouse=NN=all
 brewing=noun_UN=all
 briar=noun_UN=all
 briary=JJ=all
-bribable=JJ=all
+bribable|bribeable=JJ=all|au,ca,gb,za
 bribe=noun=all
 bribe=verb=all
-bribeable=JJ=all
 briber=noun=all
 bribery=noun_U=all
 bric-a-brac=NN:U=all
@@ -58179,9 +58175,8 @@ chondritic=JJ=all
 chondrocyte=noun=all
 chondroitin=noun=all
 chondromatous=JJ=all
-choosable=JJ=all
+choosable|chooseable=JJ=all|au,ca,gb,za
 choose [chooses;chose;chosen;choosing]=verb=all
-chooseable=JJ=all
 chooser=noun=all
 choosiness=NN:U=all
 choosingly=RB=all
@@ -58659,14 +58654,13 @@ cistern=noun=all
 cisterna=cisterna/NN,cisternae/NNS=all
 cisternal=JJ=all
 cistophoric=JJ=all
-citable=JJ=all
+citable|citeable=JJ=all|au,ca,gb,za
 citadel=noun=all
 citalopram=NN:U=all
 citation=noun_UN=all
 citatory=JJ=all
 cite=noun=all
 cite=verb=all
-citeable=JJ=all
 cites=cites/NN,citesses/NNS=all
 citied=JJ=all
 citified=JJ=all
@@ -59202,12 +59196,11 @@ cloisterless=JJ=all
 cloisterlike=JJ=all
 cloistral=JJ=all
 clomp=verb=all
-clonable=JJ=all
+clonable|cloneable=JJ=all|all
 clonal=JJ=all
 clonazepam=NN:U=all
 clone=noun=all
 clone=verb=all
-cloneable=JJ=all
 cloner=noun=all
 clonic=JJ=all
 clonidine=clonidine/NN,clonidine/NN:UN,clonidines/NNS=all
@@ -59218,7 +59211,7 @@ clop=noun=all
 clop=verb=all
 clopidogrel=NN:U=all
 clorazepate=NN:U=all
-closable=JJ=all
+closable|closeable=JJ=all|au,ca,gb,za
 close-by=JJ=all
 close-cropped=JJ=all
 close-fertilization|close-fertilisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -59237,7 +59230,6 @@ close=RB=all
 close=close/JJ,closer/JJR,closest/JJS=all
 close=noun=all
 close=verb=all
-closeable=JJ=all
 closed-captioned=JJ=all
 closed-circuit=JJ=all
 closed-door=JJ=all
@@ -61104,10 +61096,9 @@ configurative=JJ=all
 configurator=noun=all
 configure=verb=all
 configured=JJ=all
-confinable=JJ=all
+confinable|confineable=JJ=all|all
 confine=noun=all
 confine=verb=all
-confineable=JJ=all
 confined=JJ=all
 confinedly=RB=all
 confinedness=NN:U=all
@@ -64912,7 +64903,7 @@ dasyure=noun=all
 dasyurine=JJ=all
 data=NN:UN=all
 database=noun=all
-datable=JJ=all
+datable|dateable=JJ=all|au,ca,gb,za
 datacenter|datacentre=noun=us|au,ca,gb,nz,za
 datafile=noun=all
 datary=noun=all
@@ -64921,7 +64912,6 @@ datasheet=noun=all
 datasphere=noun_UN=all
 date=noun_UN=all
 date=verb=all
-dateable=JJ=all
 dated=JJ=all
 datedly=RB=all
 datedness=NN:U=all
@@ -69573,10 +69563,9 @@ dramaturgic=JJ=all
 dramaturgical=JJ=all
 dramaturgically=RB=all
 dramaturgy=noun_U=all
-drapable=JJ=all
+drapable|drapeable=JJ=all|all
 drape=noun=all
 drape=verb=all
-drapeable=JJ=all
 draper=noun=all
 draperied=JJ=all
 drapery=noun_UN=all
@@ -69719,14 +69708,13 @@ dripping=noun_U=all
 drippy=drippy/JJ,drippier/JJR,drippiest/JJS=all
 dripstone=noun_U=all
 drivability=noun_UN=all
-drivable=JJ=all
+drivable|driveable=JJ=all|au,ca,gb,za
 drive [drives;drove;driven;driving]=verb=all
 drive-in=noun=all
 drive-through=JJ=all
 drive-through=noun=all
 drive=noun_UN=all
 driveability=noun_UN=all
-driveable=JJ=all
 drivel [-ll-]|drivel=verb=all|us
 drivel=noun_U=all
 driveler|driveller=noun=us|au,ca,gb,nz,za
@@ -70157,7 +70145,6 @@ dwell=noun=all
 dweller=noun=all
 dwelling=noun_UN=all
 dwindle=verb=all
-dyable=JJ=all
 dyad=noun=all
 dyadic=JJ=all
 dyadic=noun=all
@@ -75801,7 +75788,7 @@ fin-de-siècle=JJ=all
 fin-footed=JJ=all
 fin=fin/JJ,finner/JJR=all
 fin=noun=all
-finable=JJ=all
+finable|fineable=JJ=all|all
 finagle=verb=all
 finagler=noun=all
 final=JJ=all
@@ -75836,7 +75823,6 @@ fine=RB=all
 fine=fine/JJ,finer/JJR,finest/JJS=all
 fine=noun=all
 fine=verb=all
-fineable=JJ=all
 finely=RB=all
 fineness=NN:U=all
 finer=noun=all
@@ -77261,7 +77247,7 @@ forgettable=JJ=all
 forgettably=RB=all
 forgetting=noun_UN=all
 forging=noun_UN=all
-forgivable=JJ=all # variants??
+forgivable|forgiveable=JJ=all|au,ca,gb,za
 forgivably=RB=all # variants??
 forgive [forgives;forgave;forgiven;forgiving]=verb=all
 forgiveness=NN:U=all
@@ -77645,7 +77631,6 @@ frailly=RB=all
 frailness=NN:U=all
 frailty=noun_U=all
 fraise=noun=all
-framable=JJ=all
 frame=noun=all
 frame=verb=all
 frameable=JJ=all
@@ -82449,7 +82434,7 @@ hastiness=NN:U=all
 hasty=hasty/JJ,hastier/JJR,hastiest/JJS=all
 hat=noun=all
 hat=verb=all
-hatable=JJ=all
+hatable|hateable=JJ=us|all
 hatband=noun=all
 hatbox=noun=all
 hatch=noun=all
@@ -82469,7 +82454,6 @@ hatchment=noun=all
 hatchway=noun=all
 hate=noun_U=all
 hate=verb=all
-hateable=JJ=all
 hateful=JJ=all
 hatefully=RB=all
 hatefulness=NN:U=all
@@ -83904,12 +83888,11 @@ hippy=JJ=all
 hippy=noun=all
 hipshot=JJ=all
 hipster=noun=all
-hirable=JJ=all
+hirable|hireable=JJ=all|all
 hiragana=noun=all
 hircine=JJ=all
 hire=noun_UN=all
 hire=verb=all
-hireable=JJ=all
 hireling=hireling/NN,hireling/NNS,hirelings/NNS=all
 hirer=noun=all
 hiring=noun_UN=all
@@ -93728,7 +93711,7 @@ limply=RB=all
 limpness=NN:U=all
 limulus=noun=all
 limy=limy/JJ,limier/JJR,limiest/JJS=all
-linable=JJ=all
+linable|lineable=JJ=us|au,ca,gb,za
 linage=noun_U=all
 linalool=noun_U=all
 linchpin=noun=all
@@ -93737,7 +93720,6 @@ lindane=noun=all
 linden=noun=all
 line=noun_UN=all
 line=verb=all
-lineable=JJ=all
 lineage=noun_U=all
 lineal=JJ=all
 lineally=RB=all
@@ -94609,14 +94591,13 @@ loutishness=NN:U=all
 louvered=JJ=all
 louvre=noun=all
 louvred=JJ=all
-lovable=JJ=all
 lovableness=NN:U=all
+lovable|loveable=JJ=all|au,ca,gb,za
 lovably=RB=all
 lovage=noun_U=all
 lovastatin=noun=all
 love=noun_UN=all
 love=verb=all
-loveable=JJ=all
 loveably=RB=all
 lovebird=noun=all
 loveless=JJ=all
@@ -95412,7 +95393,7 @@ majorly=RB=all
 majuscular=JJ=all
 majuscule=JJ=all
 majuscule=noun=all
-makable=JJ=all
+makable|makeable=JJ=all|all
 make [makes;made;made;making]=verb=all
 make-believe=JJ=all
 make-believe=NN:UN=all
@@ -95421,7 +95402,6 @@ make-or-break=JJ=all
 make-work=JJ=all
 make-work=NN:UN=all
 make=noun_UN=all
-makeable=JJ=all
 makeover=noun=all
 maker=noun=all
 makeshift=JJ=all
@@ -97745,10 +97725,9 @@ microvillar=JJ=all
 microvillus=microvillus/NN,microvilli/NNS=all
 microvolt=noun=all
 microwatt=noun=all
-microwavable=JJ=all
+microwavable|microwaveable=JJ=all|all
 microwave=noun=all
 microwave=verb=all
-microwaveable=JJ=all
 microweber=noun=all
 microwire=noun=all
 micturate=verb=all
@@ -98067,7 +98046,7 @@ mimosa=noun_UN=all
 mimosaceous=JJ=all
 min=JJ=all
 min=min/NN,min/NN:UN,mins/NNS=all
-minable=JJ=all
+minable|mineable=JJ=all|all
 minacious=JJ=all
 minaciousness=NN:U=all
 minaret=noun=all
@@ -98109,7 +98088,6 @@ mindset=noun=all
 mine=PRP$=all
 mine=noun=all
 mine=verb=all
-mineable=JJ=all
 minecraft=noun=all
 minefield=noun=all
 minelayer=noun=all
@@ -99626,15 +99604,13 @@ mouthwatering=JJ=all
 mouthy=mouthy/JJ,mouthier/JJR,mouthiest/JJS=all
 mouton=noun_U=all
 movability=noun_UN=all
-movable=JJ=all
-movable=noun=all
-movableness=NN:U=all
+movableness|moveableness=NN:U=us|au,ca,gb,za
+movable|moveable=JJ=all|all
+movable|moveable=noun=all|all
 movably=RB=all
 move=noun=all
 move=verb=all
 moveability=NN:UN=all
-moveable=JJ=all
-moveable=noun=all
 moveableness=NN:U=all
 moveably=RB=all
 moveless=JJ=all
@@ -104707,8 +104683,7 @@ nontortuous=JJ=all
 nontotalitarian=JJ=all
 nontoxic|non-toxic=JJ=au,ca,us|gb,nz,za
 nontraceable=JJ=all
-nontradable=JJ=all
-nontradeable=JJ=all
+nontradable|nontradeable=JJ=all|au,ca,gb,za
 nontrading=JJ=all
 nontraditional=JJ=all
 nontraditionalistic=JJ=all
@@ -108336,10 +108311,9 @@ oversweetness=NN:U=all
 oversystematic=JJ=all
 oversystematically=RB=all
 overt=JJ=all
-overtakable=JJ=all
+overtakable|overtakeable=JJ=all|all
 overtake [overtakes;overtook;overtaken;overtaking]=verb=all
 overtake=noun=all
-overtakeable=JJ=all
 overtaking=NN:UN=all
 overtalkative=JJ=all
 overtalkativeness=NN:U=all
@@ -118922,10 +118896,9 @@ rainstorm=noun=all
 rainwater=noun_U=all
 rainy=rainy/JJ,rainier/JJR,rainiest/JJS=all
 raion=noun=all
-raisable=JJ=all
+raisable|raiseable=JJ=all|all
 raise=noun=all
 raise=verb=all
-raiseable=JJ=all
 raised=JJ=all
 raiser=noun=all
 raisin=noun=all
@@ -119141,8 +119114,8 @@ rasterize|rasterise=verb=us,ca,gb|gb,au,nz,za
 rat=noun=all
 rat=verb=all
 rata=noun=all
-ratable=JJ=all
-ratable=noun=all
+ratable|rateable=JJ=us|au,ca,gb,za
+ratable|rateable=noun=us|au,ca,gb,za
 ratably=RB=all
 ratafia=noun=all
 ratatouille=noun_U=all
@@ -119153,8 +119126,6 @@ rate-determining=JJ=all
 rate-limiting=JJ=all
 rate=noun_UN=all
 rate=verb=all
-rateable=JJ=all
-rateable=noun=all
 rateably=RB=all
 rated=JJ=all
 ratel=noun=all
@@ -119819,7 +119790,6 @@ recline=noun=all
 recline=verb=all
 recliner=noun=all
 reclosable=JJ=all
-recloseable=JJ=all
 reclothe=verb=all
 recluse=JJ=all
 recluse=noun=all
@@ -122124,7 +122094,6 @@ reusable=JJ=all
 reusage=noun_UN=all
 reuse=reuse/NN,reuse/NN:UN,reuses/NNS=all
 reuse=verb=all
-reuseable=JJ=all
 reutilization|reutilisation=noun_UN=us,ca,gb|gb,au,nz,za
 reutilize|reutilise=verb=us,ca,gb|gb,au,nz,za
 rev=noun=all
@@ -122508,7 +122477,6 @@ ricochet=noun_UN=all
 ricotta=noun_U=all
 rictus=noun=all
 rid [rids;rid,ridded;rid,ridded;ridding]=verb=all
-ridable=JJ=all
 riddance=noun_U=all
 riddle=noun=all
 riddle=verb=all
@@ -123100,7 +123068,6 @@ rootlessness=NN:U=all
 rootlet=noun=all
 rootlike=JJ=all
 rootstock=noun=all
-ropable=JJ=all
 rope-work=noun_UN=all
 rope=rope/NN,rope/NN:U,ropes/NNS=all
 rope=verb=all
@@ -124340,8 +124307,8 @@ sauteed=JJ=all
 sauté [sautés;sautéd,sautéed;sautéd,sautéed;sautéing]=verb=all
 sauté=JJ=all
 sauté=noun=all
-savable=JJ=all
 savableness=NN:U=all
+savable|saveable=JJ=us|au,ca,gb,za
 savage=noun=all
 savage=savage/JJ,savager/JJR,savagest/JJS=all
 savage=verb=all
@@ -124353,7 +124320,6 @@ savant=noun=all
 save=IN=all
 save=noun=all
 save=verb=all
-saveable=JJ=all
 saveloy=noun_UN=all
 saver=noun=all
 saving=JJ=all
@@ -126929,11 +126895,10 @@ shaglike=JJ=all
 shagreen=noun=all
 shah=noun=all
 shaikh=noun=all
-shakable=JJ=all
+shakable|shakeable=JJ=us|all
 shake [shakes;shook;shaken;shaking]=verb=all
 shake-up=noun=all
 shake=noun=all
-shakeable=JJ=all
 shakeably=RB=all
 shakedown=noun=au,ca,nz,us,za #informal
 shaken=JJ=all
@@ -127004,12 +126969,11 @@ shantung=noun_U=all
 shanty=noun=all
 shantylike=JJ=all
 shantytown=noun=all
-shapable=JJ=all
+shapable|shapeable=JJ=us|all
 shape-shift=verb=all
 shape-shifter=noun=all
 shape=noun_UN=all
 shape=verb=all
-shapeable=JJ=all
 shaped=JJ=all
 shapeless=JJ=all
 shapelessly=RB=all
@@ -127022,12 +126986,11 @@ shapeshifter=noun=all
 shapeshifting=noun_UN=all
 shapewear=NN:U=all
 shaping=noun_UN=all
-sharable=JJ=all
+sharable|shareable=JJ=all|all
 shard=noun=all
 sharded=JJ=all
 share=noun_UN=all
 share=verb=all
-shareable=JJ=all
 sharecrop [-pp-]=verb=all
 sharecropper=noun=all
 shared=JJ=all
@@ -128269,15 +128232,13 @@ sixty-two=CD=all
 sixty=CD=all
 sixty=JJ=all
 sixty=noun=all
-sizable=JJ=all
-sizableness=NN:U=all
+sizableness|sizeableness=NN:U=us|au,ca,gb,za
+sizable|sizeable=JJ=us|au,ca,gb,za
 sizably=RB=all
 sizar=noun=all
 size=noun_UN=all
 size=size/JJ,sizer/JJR=all
 size=verb=all
-sizeable=JJ=all
-sizeableness=NN:U=all
 sizeably=RB=all
 sized=JJ=all
 sizer=noun=all
@@ -128511,9 +128472,8 @@ slackness=NN:U=all
 slag=noun_U=all
 slag=verb=all
 slaggy=slaggy/JJ,slaggier/JJR,slaggiest/JJS=all
-slakable=JJ=all
+slakable|slakeable=JJ=all|all
 slake=verb=all
-slakeable=JJ=all
 slalom=noun=all
 slalom=verb=all
 slam-bang=RB=all
@@ -131538,7 +131498,7 @@ stash=noun=all
 stash=verb=all
 stasis=stasis/NN:U,stases/NNS=all
 stat=noun=all
-statable=JJ=all
+statable|stateable=JJ=all|all
 statant=JJ=all
 state-affiliated=JJ=all
 state-assisted=JJ=all
@@ -131551,7 +131511,6 @@ state-supported=JJ=all
 state=noun_UN=all
 state=state/JJ,stater/JJR=all
 state=verb=all
-stateable=JJ=all
 statecraft=noun_U=all
 stated=JJ=all
 statedly=RB=all
@@ -135734,7 +135693,7 @@ talonavicular=JJ=all
 taloned=JJ=all
 talus=talus/NN,tali/NNS,taluses/NNS=all
 tam=noun=all
-tamable=JJ=all
+tamable|tameable=JJ=us|au,ca,gb,za
 tamale=noun_UN=all
 tamarack=noun=all
 tamarin=noun=all
@@ -135745,7 +135704,6 @@ tamasic=JJ=all
 tambourine=noun=all
 tame=tame/JJ,tamer/JJR,tamest/JJS=all
 tame=verb=all
-tameable=JJ=all
 tameableness=NN:U=all
 tamed=JJ=all
 tameless=JJ=all
@@ -138777,14 +138735,13 @@ tractive=JJ=all
 tractor=noun=all
 trad=JJ=all
 trad=NN:U=all
-tradable=JJ=all
+tradable|tradeable=JJ=all|au,ca,gb,za
 trade-in=JJ=all
 trade-off=noun=all
 trade-union=JJ=all
 trade=JJ=all
 trade=noun_UN=all
 trade=verb=all
-tradeable=JJ=all
 traded=JJ=all
 tradeless=JJ=all
 trademark=noun=all
@@ -140222,13 +140179,12 @@ tumultuousness=NN:U=all
 tumulus=tumulus/NN,tumuli/NNS,tumuluses/NNS=all
 tun=noun=all
 tuna=tuna/NN,tuna/NNS,tunas/NNS=all
-tunable=JJ=all
 tunableness=NN:U=all
+tunable|tuneable=JJ=us|all
 tunably=RB=all
 tundra=noun_UN=all
 tune=noun_UN=all
 tune=verb=all
-tuneable=JJ=all
 tuneably=RB=all
 tuned=JJ=all
 tuneful=JJ=all
@@ -142878,8 +142834,7 @@ undappled=JJ=all
 undared=JJ=all
 undaring=JJ=all
 undarned=JJ=all
-undatable=JJ=all
-undateable=JJ=all
+undatable|undateable=JJ=all|au,ca,gb,za
 undated=JJ=all
 undaubed=JJ=all
 undaughterly=RB=all
@@ -144753,10 +144708,9 @@ unforgetful=JJ=all
 unforgettable=JJ=all
 unforgettableness=NN:U=all
 unforgettably=RB=all
-unforgivable=JJ=all # variants??
 unforgivableness=NN:U=all
+unforgivable|unforgiveable=JJ=all|au,ca,gb,za
 unforgivably=RB=all
-unforgiveable=JJ=all # variants??
 unforgiven=JJ=all
 unforgiving=JJ=all
 unforgivingly=RB=all
@@ -144804,8 +144758,7 @@ unfragmented=JJ=all
 unfragrant=JJ=all
 unfragrantly=RB=all
 unfrail=JJ=all
-unframable=JJ=all
-unframeable=JJ=all
+unframable|unframeable=JJ=all|all
 unframed=JJ=all
 unfranchised=JJ=all
 unfrank=JJ=all
@@ -145302,8 +145255,7 @@ unhindered=JJ=all
 unhindering=JJ=all
 unhinge=verb=all
 unhinted=JJ=all
-unhirable=JJ=all
-unhireable=JJ=all
+unhirable|unhireable=JJ=all|all
 unhired=JJ=all
 unhissed=JJ=all
 unhistoric=JJ=all
@@ -145897,7 +145849,7 @@ unissuable=JJ=all
 unissued=JJ=all
 unit=noun=all
 unit=unit/JJ,uniter/JJR=all
-unitable=JJ=all
+unitable|uniteable=JJ=all|all
 unital=JJ=all
 unitalicized|unitalicised=JJ=us,ca,gb|gb,au,nz,za
 unitard=noun=all
@@ -145905,7 +145857,6 @@ unitarily=RB=all
 unitariness=NN:U=all
 unitary=JJ=all
 unite=verb=all
-uniteable=JJ=all
 unitedly=RB=all
 unitedness=NN:U=all
 unitemized|unitemised=JJ=us,ca,gb|gb,au,nz,za
@@ -145975,8 +145926,7 @@ unjoyfully=RB=all
 unjoyous=JJ=all
 unjoyously=RB=all
 unjubilant=JJ=all
-unjudgable=JJ=all
-unjudgeable=JJ=all
+unjudgable|unjudgeable=JJ=us|au,ca,gb,za
 unjudged=JJ=all
 unjudgelike=JJ=all
 unjudging=JJ=all
@@ -146237,10 +146187,9 @@ unloquacious=JJ=all
 unlosable=JJ=all
 unlost=JJ=all
 unlotted=JJ=all
-unlovable=JJ=all
 unlovableness=NN:U=all
+unlovable|unloveable=JJ=us|au,ca,gb,za
 unlovably=RB=all
-unloveable=JJ=all
 unloveably=RB=all
 unloved=JJ=all
 unloveliness=NN:U=all
@@ -146555,9 +146504,8 @@ unmisinterpretable=JJ=all
 unmisled=JJ=all
 unmissable=JJ=all
 unmissed=JJ=all
-unmistakable=JJ=all
+unmistakable|unmistakeable=JJ=all|au,ca,gb,za
 unmistakably=RB=all
-unmistakeable=JJ=all
 unmistakeably=RB=all
 unmistaken=JJ=all
 unmistaking=JJ=all
@@ -146649,9 +146597,8 @@ unmournful=JJ=all
 unmourning=JJ=all
 unmouthable=JJ=all
 unmouthed=JJ=all
-unmovable=JJ=all
 unmovableness=NN:U=all
-unmoveable=JJ=all
+unmovable|unmoveable=JJ=all|all
 unmoved=JJ=all
 unmoving=JJ=all
 unmovingly=RB=all
@@ -146710,8 +146657,7 @@ unmythological=JJ=all
 unnagged=JJ=all
 unnagging=JJ=all
 unnaked=JJ=all
-unnamable=JJ=all
-unnameable=JJ=all
+unnamable|unnameable=JJ=all|au,ca,gb,za
 unnamed=JJ=all
 unnapped=JJ=all
 unnarratable=JJ=all
@@ -148416,8 +148362,7 @@ unruddered=JJ=all
 unrude=JJ=all
 unrueful=JJ=all
 unruffed=JJ=all
-unrufflable=JJ=all
-unruffleable=JJ=all
+unrufflable|unruffleable=JJ=all|au,ca,gb,za
 unruffled=JJ=all
 unruinable=JJ=all
 unruled=JJ=all
@@ -148535,9 +148480,8 @@ unsaturable=JJ=all
 unsaturate=noun=all
 unsaturated=JJ=all
 unsauced=JJ=all
-unsavable=JJ=all
+unsavable|unsaveable=JJ=all|all
 unsavage=JJ=all
-unsaveable=JJ=all
 unsaved=JJ=all
 unsavored=JJ=all
 unsavorily|unsavourily=RB=us|au,ca,gb,nz,za
@@ -148789,17 +148733,14 @@ unshadowable=JJ=all
 unshadowed=JJ=all
 unshady=JJ=all
 unshafted=JJ=all
-unshakable=JJ=all
+unshakable|unshakeable=JJ=us|au,ca,gb,za
 unshakably=unshakably/RB,unshakeably/RB=all
-unshakeable=JJ=all
 unshaken=JJ=all
-unshamable=JJ=all
-unshameable=JJ=all
+unshamable|unshameable=JJ=all|all
 unshamed=JJ=all
 unshammed=JJ=all
 unshanked=JJ=all
-unshapable=JJ=all
-unshapeable=JJ=all
+unshapable|unshapeable=JJ=all|all
 unshaped=JJ=all
 unshapeliness=NN:U=all
 unshapely=RB=all
@@ -148950,8 +148891,7 @@ unslackening=JJ=all
 unslacking=JJ=all
 unslagged=JJ=all
 unslain=JJ=all
-unslakable=JJ=all
-unslakeable=JJ=all
+unslakable|unslakeable=JJ=all|all
 unslaked=JJ=all
 unslammed=JJ=all
 unslandered=JJ=all
@@ -148996,8 +148936,7 @@ unsmirched=JJ=all
 unsmirking=JJ=all
 unsmitten=JJ=all
 unsmocked=JJ=all
-unsmokable=JJ=all
-unsmokeable=JJ=all
+unsmokable|unsmokeable=JJ=us|au,ca,gb,za
 unsmoked=JJ=all
 unsmoking=JJ=all
 unsmoky=JJ=all
@@ -149269,8 +149208,7 @@ unstarting=JJ=all
 unstartled=JJ=all
 unstartling=JJ=all
 unstarved=JJ=all
-unstatable=JJ=all
-unstateable=JJ=all
+unstatable|unstateable=JJ=all|au,ca,gb,za
 unstated=JJ=all
 unstatesmanlike=JJ=all
 unstationary=JJ=all
@@ -149657,16 +149595,14 @@ untailed=JJ=all
 untailored=JJ=all
 untainted=JJ=all
 untainting=JJ=all
-untakable=JJ=all
-untakeable=JJ=all
+untakable|untakeable=JJ=us|au,ca,gb,za
 untaking=JJ=all
 untalented=JJ=all
 untalkative=JJ=all
 untallied=JJ=all
 untallowed=JJ=all
 untaloned=JJ=all
-untamable=JJ=all
-untameable=JJ=all
+untamable|untameable=JJ=us|au,ca,gb,za
 untamed=JJ=all
 untameness=NN:U=all
 untampered=JJ=all
@@ -149688,8 +149624,7 @@ untarrying=JJ=all
 untasked=JJ=all
 untasseled=JJ=all
 untasselled=JJ=all
-untastable=JJ=all
-untasteable=JJ=all
+untastable|untasteable=JJ=all|all
 untasted=JJ=all
 untasteful=JJ=all
 untastefully=RB=all
@@ -149905,8 +149840,7 @@ untracked=JJ=all
 untractable=JJ=all
 untractableness=NN:U=all
 untractably=RB=all
-untradable=JJ=all
-untradeable=JJ=all
+untradable|untradeable=JJ=us|au,ca,gb,za
 untraded=JJ=all
 untraditional=JJ=all
 untraditionally=RB=all
@@ -150101,7 +150035,6 @@ unurgent=JJ=all
 unusable=JJ=all
 unusableness=NN:U=all
 unusably=RB=all
-unuseable=JJ=all
 unused=JJ=all
 unuseful=JJ=all
 unusefully=RB=all
@@ -150276,7 +150209,6 @@ unvulgarly=RB=all
 unvulnerable=JJ=all
 unwadable=JJ=all
 unwadded=JJ=all
-unwadeable=JJ=all
 unwaded=JJ=all
 unwafted=JJ=all
 unwaged=JJ=all
@@ -150554,11 +150486,10 @@ upended=JJ=all
 upending=NN:UN=all
 upfield=JJ=all
 upfront=JJ=all
-upgradable=JJ=all
+upgradable|upgradeable=JJ=all|all
 upgrade=JJ=all
 upgrade=noun=all
 upgrade=verb=all
-upgradeable=JJ=all
 upgraded=JJ=all
 upheaval=noun_UN=all
 uphill=JJ=all
@@ -150809,13 +150740,12 @@ urticate=JJ=all
 urtication=noun_UN=all
 urus=noun=all
 usability=noun_U=all
-usable=JJ=all
 usableness=NN:U=all
+usable|useable=JJ=all|au,ca,gb,za
 usably=RB=all
 usage=noun_UN=all
 use=noun_UN=all
 use=verb=all
-useable=JJ=all
 used=JJ=all
 useful=JJ=all
 usefully=RB=all
@@ -152315,14 +152245,13 @@ vorticella=noun=all
 vorticity=noun=all
 vorticose=JJ=all
 vortiginous=JJ=all
-votable=JJ=all
+votable|voteable=JJ=all|au,ca,gb,za
 votarist=noun=all
 votary=JJ=all
 votary=noun=all
 vote-a-rama=noun=all
 vote=noun=all
 vote=verb=all
-voteable=JJ=all
 voteless=JJ=all
 voter=noun=all
 votive=JJ=all
@@ -152408,14 +152337,13 @@ wacko=wacko/NN,wackoes/NNS,wackos/NNS=all
 wacky=wacky/JJ,wackier/JJR,wackiest/JJS=all
 wad=noun=all
 wad=verb=all
-wadable=JJ=all
+wadable|wadeable=JJ=us|all
 wadding=noun_U=all
 waddle=noun=all
 waddle=verb=all
 waddler=noun=all
 wade=noun=all
 wade=verb=all
-wadeable=JJ=all
 wader=noun=all
 wading=noun_UN=all
 wafer-thin=JJ=all
@@ -154654,7 +154582,7 @@ wrist=noun=all
 wristband=noun=all
 wristwatch=noun=all
 writ=noun=all
-writable=JJ=all
+writable|writeable=JJ=us|au,ca,gb,za
 write [writes;wrote;writ,written;writing]=verb=all
 write-down=NN:UN=all
 write-in=JJ=all
@@ -154662,7 +154590,6 @@ write-in=NN=all
 write-off=noun=all
 write-only=JJ=all
 write-up=noun=all
-writeable=JJ=all
 writedown=noun=all
 writer=noun=all
 writhe=noun=all
