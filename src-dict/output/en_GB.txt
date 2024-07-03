@@ -8486,6 +8486,7 @@ monarchize
 monarchized
 monarchizes
 monarchizing
+monetisable
 monetisation
 monetisations
 monetise
@@ -8494,6 +8495,7 @@ monetiser
 monetisers
 monetises
 monetising
+monetizable
 monetization
 monetizations
 monetize

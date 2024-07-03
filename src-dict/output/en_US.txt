@@ -4960,6 +4960,7 @@ monarchize
 monarchized
 monarchizes
 monarchizing
+monetizable
 monetization
 monetizations
 monetize
