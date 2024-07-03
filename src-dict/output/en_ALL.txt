@@ -1583,6 +1583,7 @@ Abe
 Abednego
 Abel
 Abelard
+Abelian
 Abelson
 Abenaki
 Abenakis
@@ -2043,6 +2044,7 @@ Al
 Al-Aqsa
 Al-Baladhuri
 Al-Farabi
+Al-Fatiha
 Al-Fayed
 Al-Fihri
 Al-Haili
@@ -2243,6 +2245,7 @@ Alexia
 Alexie
 Alexios
 Alexis
+Alfaro
 Alfie
 Alfieri
 Alfons
@@ -2413,6 +2416,7 @@ Alyssa
 Alyssum
 Alzheimer
 Am
+AmEx
 Amadeo
 Amadeus
 Amado
@@ -7871,6 +7875,7 @@ Capris
 Capsian
 Capsidae
 Capt
+Captricity
 Capua
 Capuan
 Capuchin
@@ -14650,6 +14655,7 @@ GVT
 GW
 GWG
 GWP
+GWh
 GY
 GYD
 GZIP
@@ -14948,6 +14954,7 @@ Gemma
 Gemütlichkeit
 Gen
 Gena
+Genability
 Genaro
 Gene
 Genentech
@@ -17152,6 +17159,7 @@ Holmes
 Holocaine
 Holocaust
 Holocene
+Holodomor
 Holofernes
 Holst
 Holstein
@@ -18139,7 +18147,10 @@ Ibarra
 Iberia
 Iberian
 Iberians
+Ibero-America
 Ibero-American
+Ibero-Americans
+Ibero-Romance
 Ibert
 Ibiza
 Iblis
@@ -18257,6 +18268,7 @@ InDesign
 InVision
 Ina
 Inanna
+Inc
 Inca
 Incaic
 Incan
@@ -18282,13 +18294,17 @@ Indies
 Indio
 Indira
 Indo-Aryan
-Indo-Aryanizes
+Indo-Aryans
 Indo-Asian
 Indo-Asians
 Indo-Australian
 Indo-Australians
+Indo-Chinese
+Indo-Chineses
 Indo-European
+Indo-Europeans
 Indo-Germanic
+Indo-Germanics
 Indo-Iranian
 Indo-Malayan
 Indo-Pacific
@@ -22831,6 +22847,7 @@ MWK
 MWOA
 MWS
 MWT
+MWh
 MX
 MXA
 MXN
@@ -24753,6 +24770,7 @@ Moline
 Molinism
 Molinisms
 Molinist
+Molière
 Moll
 Mollie
 Mollison
@@ -25973,9 +25991,11 @@ Nembutals
 Nemea
 Nemesis
 Nemetschek
+Nemo
 Nena
 Nenad
 Neo
+Neo-Aramaic
 Neo-Confucian
 Neo-Kantian
 Neo-Latin
@@ -25999,6 +26019,7 @@ Nephi
 Nepos
 Neptune
 Neptunian
+NerdWallet
 Nereid
 Nereids
 Nereus
@@ -26077,6 +26098,7 @@ NewTek
 Newark
 Newberg
 Newberry
+Newborough
 Newburg
 Newburgh
 Newbury
@@ -26402,6 +26424,7 @@ Nostradamic
 Nostradamus
 Nostratic
 Notre
+Notre-Dame
 Nottage
 Nottingham
 Nottinghamshire
@@ -26866,6 +26889,8 @@ Occident
 Occidental
 Occidents
 Occitan
+Occitanian
+Occitanians
 Occitanie
 Oceana
 Oceania
@@ -27104,6 +27129,7 @@ Oppenheim
 Oppenheimer
 Oprah
 Ops
+Optensity
 OptiPlex
 Optus
 Ora
@@ -33971,6 +33997,7 @@ Symons
 Symrise
 Syncom
 Synge
+Synthicity
 Synthroid
 Syracuse
 Syrah
@@ -33996,7 +34023,9 @@ Sébastien
 Sémillon
 Sérgio
 Södertälje
+Sønderborg
 Søren
+Sørensen
 T
 T&C
 T&Cs
@@ -42525,6 +42554,7 @@ also-rans
 alt
 alt-right
 alt-rights
+alt-rock
 alt-rocker
 alt-rockers
 altar
@@ -47087,6 +47117,7 @@ astringently
 astringents
 astringes
 astringing
+astro-archaeology
 astrobiologies
 astrobiology
 astrochemist
@@ -62090,6 +62121,7 @@ clypei
 clypeus
 clypeuses
 cm
+cmd
 cms
 cnemial
 cnida
@@ -62172,6 +62204,7 @@ co-location
 co-locations
 co-manage
 co-managed
+co-management
 co-manager
 co-managers
 co-manages
@@ -62201,6 +62234,7 @@ co-paying
 co-payment
 co-payments
 co-pays
+co-primality
 co-sponsor
 co-sponsored
 co-sponsoring
@@ -63688,6 +63722,7 @@ compactedness
 compacter
 compacters
 compactest
+compactibility
 compactible
 compacting
 compaction
@@ -66165,6 +66200,7 @@ copra
 copraemic
 copras
 copremic
+coprimality
 coprocessor
 coprocessors
 coprolalia
@@ -66173,6 +66209,7 @@ coprolalias
 coprolite
 coprolites
 coprolitic
+coprophagia
 coprophagies
 coprophagous
 coprophagy
@@ -78556,6 +78593,7 @@ echoer
 echoers
 echoes
 echogenic
+echogenicity
 echogram
 echograms
 echoic
@@ -78598,9 +78636,11 @@ eclogues
 eclosion
 eclosions
 eco
+eco-anxiety
 eco-friendly
 eco-mode
 eco-modes
+eco-sensitive
 eco-socialism
 eco-socialisms
 eco-socialist
@@ -79385,6 +79425,7 @@ electrometers
 electrometric
 electrometrical
 electrometrically
+electromobility
 electromotive
 electromyographic
 electromyographically
@@ -83658,6 +83699,7 @@ expiring
 expiringly
 expiry
 explain
+explainability
 explainable
 explained
 explainer
@@ -83728,6 +83770,7 @@ explosive
 explosively
 explosiveness
 explosives
+explosivity
 expo
 exponent
 exponential
@@ -91170,6 +91213,7 @@ generations
 generative
 generatively
 generativeness
+generativity
 generator
 generators
 generic
@@ -91341,6 +91385,7 @@ geocaching
 geocentric
 geocentrical
 geocentrically
+geocentricity
 geocentrism
 geochemical
 geochemically
@@ -92406,6 +92451,7 @@ glossological
 glossopharyngeal
 glossopharyngeals
 glossophobe
+glossophobes
 glossophobia
 glossophobic
 glossopteris
@@ -93126,6 +93172,7 @@ goy
 goyim
 goyish
 goys
+gr
 grab
 grabbable
 grabbed
@@ -97044,6 +97091,7 @@ henpecked
 henpecking
 henpecks
 hens
+hentai
 heortological
 hep
 hepacivirus
@@ -99771,6 +99819,7 @@ hydro
 hydro-airplane
 hydro-airplanes
 hydroairplane
+hydroairplanes
 hydrobromic
 hydrobromide
 hydrocarbon
@@ -100090,8 +100139,10 @@ hypanthial
 hype
 hyped
 hyper
+hyper-alert
 hyper-charged
 hyper-competitive
+hyper-saline
 hyperaccurate
 hyperacid
 hyperacidities
@@ -100104,8 +100155,10 @@ hyperactivity
 hyperacute
 hyperaemic
 hyperaesthetic
+hyperalert
 hyperalgesic
 hyperaltruistic
+hyperautomation
 hyperaware
 hyperawareness
 hyperbarbarous
@@ -100162,6 +100215,7 @@ hypercubes
 hypercyanotic
 hyperdelicate
 hyperdemocratic
+hyperdeveloped
 hyperdevelopment
 hyperdevelopments
 hyperdiabolical
@@ -100200,6 +100254,7 @@ hyperextension
 hyperextensions
 hyperfastidious
 hyperfine
+hyperfixated
 hyperfixation
 hyperfixations
 hyperflexible
@@ -100219,6 +100274,7 @@ hyperhidrosis
 hyperhidrotic
 hyperidealistic
 hyperimmune
+hyperinflated
 hyperinflation
 hyperinflationary
 hyperinflations
@@ -100251,6 +100307,8 @@ hyperlipidemias
 hypermagical
 hypermarket
 hypermarkets
+hypermasculine
+hypermasculinity
 hypermedia
 hypermedias
 hypermetamorphic
@@ -100331,6 +100389,7 @@ hyperrealisms
 hyperrealist
 hyperrealistic
 hyperrealists
+hyperrealities
 hyperreality
 hyperresonant
 hyperresponsiveness
@@ -100631,6 +100690,7 @@ hypothetic
 hypothetical
 hypothetically
 hypotheticals
+hypothetico-deductive
 hypothyroid
 hypothyroidism
 hypothyroidisms
@@ -102184,6 +102244,7 @@ in-law
 in-laws
 in-line
 in-person
+in-place
 in-print
 in-service
 in-situ
@@ -105015,6 +105076,7 @@ interconnectedness
 interconnecting
 interconnection
 interconnections
+interconnectivities
 interconnectivity
 interconnects
 interconsonantal
@@ -105156,6 +105218,8 @@ interfusion
 interfusions
 intergalactic
 interganglionic
+intergender
+intergenders
 intergenerational
 intergenerationally
 interglacial
@@ -118265,6 +118329,7 @@ misbrand
 misbranded
 misbranding
 misbrands
+misc
 miscalculate
 miscalculated
 miscalculates
@@ -118411,6 +118476,7 @@ misdoes
 misdoing
 misdoings
 misdone
+mise-en-scène
 miseducate
 miseducated
 miseducates
@@ -118433,6 +118499,7 @@ miserliness
 miserly
 misers
 misery
+mises-en-scène
 misexplain
 misexplained
 misexplaining
@@ -120285,6 +120352,7 @@ mozzarellas
 mp
 mpg
 mph
+ms
 msec
 msg
 msgs
@@ -120504,11 +120572,14 @@ multi-cylinder
 multi-decadal
 multi-directional
 multi-directionally
+multi-disciplinary
 multi-discipline
 multi-disciplined
 multi-ethnic
+multi-ethnicity
 multi-factor
 multi-family
+multi-feature
 multi-genre
 multi-headed
 multi-lane
@@ -120627,6 +120698,7 @@ multienvironmental
 multienzyme
 multienzymes
 multiethnic
+multiethnicity
 multifaced
 multifaceted
 multifactor
@@ -120637,6 +120709,7 @@ multifamily
 multifarious
 multifariously
 multifariousness
+multifeature
 multifid
 multiflagellate
 multiflagellated
@@ -120668,6 +120741,7 @@ multigraphing
 multigraphs
 multigyrate
 multiheaded
+multihost
 multihued
 multihull
 multihulls
@@ -120721,6 +120795,7 @@ multimillions
 multimodal
 multimodel
 multimodular
+multimodule
 multimolecular
 multimotored
 multinational
@@ -122333,21 +122408,29 @@ nematological
 nemeses
 nemesis
 neo
+neo-Agrarian
 neo-Arian
 neo-Arians
 neo-Attic
+neo-Babylonian
+neo-Christianity
 neo-Darwinian
 neo-Darwinians
 neo-Darwinism
 neo-Darwinisms
 neo-Gothic
+neo-Keynesian
+neo-Latin
 neo-Nazi
 neo-Nazis
 neo-absolutism
 neo-absolutisms
+neo-aristocratic
+neo-charismatic
 neo-conventional
 neo-evangelical
 neo-evangelicals
+neo-grotesque
 neo-imperial
 neo-imperialism
 neo-imperialist
@@ -122412,6 +122495,7 @@ neolibertarianisms
 neolith
 neoliths
 neolocal
+neolocality
 neologic
 neological
 neologically
@@ -122776,6 +122860,7 @@ neurotoxic
 neurotoxical
 neurotoxicities
 neurotoxicity
+neurotoxicologies
 neurotoxicology
 neurotoxin
 neurotoxins
@@ -123613,6 +123698,7 @@ non-protein
 non-public
 non-recoverable
 non-refundable
+non-renewability
 non-renewable
 non-renewables
 non-renewing
@@ -127942,11 +128028,13 @@ omphalos
 omphaloses
 on
 on-air
+on-demand
 on-dit
 on-dits
 on-duty
 on-line
 on-off
+on-page
 on-screen
 on-site
 on-street
@@ -128304,6 +128392,7 @@ operatics
 operating
 operation
 operational
+operationality
 operationally
 operations
 operative
@@ -128470,6 +128559,7 @@ optatives
 opted
 optic
 optical
+opticality
 optically
 optician
 opticians
@@ -129821,6 +129911,8 @@ overbuy
 overbuying
 overbuys
 overcall
+overcalled
+overcalling
 overcalls
 overcame
 overcapable
@@ -129869,8 +129961,12 @@ overclouds
 overcoat
 overcoats
 overcold
+overcollect
+overcollected
+overcollecting
 overcollection
 overcollections
+overcollects
 overcome
 overcomer
 overcomers
@@ -129902,10 +129998,12 @@ overcompress
 overcompressed
 overcompresses
 overcompressing
+overcompression
 overconfidence
 overconfidences
 overconfident
 overconfidently
+overconnectivity
 overconscientious
 overconscious
 overconservative
@@ -146754,6 +146852,7 @@ reactively
 reactiveness
 reactivities
 reactivity
+reactogenicity
 reactor
 reactors
 reacts
@@ -146842,6 +146941,7 @@ reagents
 reais
 real
 real-time
+real-world
 realer
 reales
 realest
@@ -149499,6 +149599,7 @@ remapped
 remapping
 remaps
 remark
+remarkability
 remarkable
 remarkableness
 remarkably
@@ -157076,6 +157177,7 @@ semiconvergent
 semicordate
 semicriminal
 semicrystalline
+semicursive
 semicylindric
 semicylindrical
 semicynical
@@ -157157,6 +157259,7 @@ semilegal
 semilegendary
 semilegislative
 semiliberal
+semilinear
 semiliquid
 semiliquids
 semiliterate
@@ -157307,6 +157410,7 @@ semiserious
 semiseriously
 semises
 semisimple
+semisimplicity
 semiskilled
 semisocial
 semisoft
@@ -157354,6 +157458,7 @@ semivolatile
 semivoluntary
 semivowel
 semivowels
+semiweak
 semiweeklies
 semiweekly
 semiwild
@@ -166983,6 +167088,7 @@ subcrenate
 subcrescentic
 subcriminal
 subcritical
+subcriticality
 subcrystalline
 subcubic
 subcubical
@@ -167015,6 +167121,7 @@ subdentated
 subdenticulate
 subdepressed
 subderivative
+subderivatives
 subdermal
 subdermic
 subdiaconal
@@ -167031,6 +167138,7 @@ subdiscipline
 subdisciplines
 subdiscoidal
 subdistrict
+subdistricts
 subdividable
 subdivide
 subdivided
@@ -167118,6 +167226,7 @@ subfolder
 subfolders
 subfoliate
 subfraction
+subfractions
 subfreezing
 subfrontal
 subfulgent
@@ -167197,6 +167306,7 @@ subjacently
 subject
 subjected
 subjectification
+subjectifications
 subjecting
 subjection
 subjectional
@@ -168587,6 +168697,7 @@ supercontinents
 supercordial
 supercretaceous
 supercritical
+supercriticality
 supercritically
 supercultivated
 supercurious
@@ -178092,6 +178203,7 @@ unamenably
 unamendable
 unamended
 unamerced
+unamiability
 unamiable
 unamiableness
 unamiably
@@ -178737,6 +178849,7 @@ unbravely
 unbreachable
 unbreached
 unbreaded
+unbreakability
 unbreakable
 unbreakableness
 unbreakably
@@ -180087,6 +180200,7 @@ under-recovers
 under-recovery
 under-represented
 under-resourced
+under-responsivity
 under-secretaries
 under-secretary
 under-the-counter
@@ -180180,6 +180294,7 @@ undercommitments
 undercommits
 undercommitted
 undercommitting
+underconnectivity
 undercook
 undercooked
 undercooking
@@ -180502,6 +180617,7 @@ underresourced
 underresources
 underresourcing
 underrespected
+underresponsivity
 underring
 underripened
 underrooted
@@ -182879,6 +182995,7 @@ unimpertinent
 unimpinging
 unimplanted
 unimplementable
+unimplemented
 unimplicated
 unimplicitly
 unimplied
@@ -184324,6 +184441,7 @@ unorthodox
 unorthodoxies
 unorthodoxly
 unorthodoxy
+unorthographic
 unorthographical
 unorthographically
 unoscillating
@@ -185940,6 +186058,7 @@ unsatisfaction
 unsatisfactorily
 unsatisfactoriness
 unsatisfactory
+unsatisfiability
 unsatisfiable
 unsatisfied
 unsatisfying

@@ -1,7 +1,6 @@
 'strewth=UNTAGGED=gb
 'struth=UNTAGGED=gb
 -war=UNTAGGED=gb
-.edu=UNTAGGED=all
 1-dodecanol=NN=none
 1-hitter=NN=none
 1024x768=UNTAGGED=gb
@@ -178,7 +177,6 @@ Abdulla=NNP=none
 Abebi=NNP=none
 Abegg=UNTAGGED=gb
 Abel-meholah=NNP=none
-Abelian=UNTAGGED=all
 Abell=NNP=none
 Abelmoschus=NNP=none
 Abenbury=UNTAGGED=gb
@@ -1042,7 +1040,6 @@ Akure=NNP=none
 Akutagawa=NNP=none
 Akyab=NNP=none
 Al-Anon=UNTAGGED=gb
-Al-Fatiha=UNTAGGED=all
 Al-Gazel=NNP=none
 Al-Iskandaroyah=NNP=none
 Al-Qa'ida=UNTAGGED=gb
@@ -1308,7 +1305,6 @@ Aleyrodidae=NNP=none
 Alf=Alf/NNP,Alfs/NNPS=gb,nz,za
 Alfa=UNTAGGED=gb,nz,za
 Alfadir=NNP=none
-Alfaro=UNTAGGED=all
 Alfeus=NNP=none
 Alfheim=NNP=none
 Alfi=NNP=none
@@ -1691,7 +1687,6 @@ Alytes=NNP=none
 Alyth=UNTAGGED=gb
 Alyworth=NNP=none
 Alzheimers=NNP=none
-AmEx=UNTAGGED=all
 Ama=NNP=none
 Amabel=NNP=none
 Amabelle=NNP=none
@@ -8686,7 +8681,6 @@ Capshaw=UNTAGGED=gb
 Capt.=UNTAGGED=gb
 Captain=UNTAGGED=us-large
 Capterra=NNP=none
-Captricity=UNTAGGED=all
 Capuanus=NNP=none
 Caputh=UNTAGGED=gb
 Caputto=NNP=none
@@ -18799,7 +18793,6 @@ GSAs=UNTAGGED=gb
 GSoC=UNTAGGED=gb
 GTAs=UNTAGGED=gb
 GTs=UNTAGGED=gb
-GWh=UNTAGGED=all
 GWs=UNTAGGED=gb
 Gaal=NNP=none
 Gab=NNP=none
@@ -19402,7 +19395,6 @@ Gemperle=NNP=none
 Gempylidae=NNP=none
 Gempylus=NNP=none
 Gemäldegalerie=NNP=none
-Genability=UNTAGGED=all
 Genau'r-Glyn=UNTAGGED=gb
 Genau=UNTAGGED=gb
 Genave=NNP=none
@@ -23421,7 +23413,6 @@ Holocaustry=UNTAGGED=gb
 Holocentridae=NNP=none
 Holocentrus=NNP=none
 Holocephali=NNP=none
-Holodomor=UNTAGGED=all
 Holophane=NNP=none
 Holothuria=NNP=none
 Holothuridae=NNP=none
@@ -24217,10 +24208,7 @@ Ibbison=NNP=none
 Ibby=NNP=none
 Ibcuez=NNP=none
 Iberis=NNP=none
-Ibero-America=UNTAGGED=all
-Ibero-Americans=UNTAGGED=all
 Ibero-Maurusian=UNTAGGED=all
-Ibero-Romance=UNTAGGED=all
 Iberville=UNTAGGED=gb
 Ibibio=Ibibio/NNP,Ibibios/NNPS=none
 Ibizan=UNTAGGED=gb
@@ -24502,7 +24490,6 @@ Inachis=NNP=none
 Inachus=NNP=none
 Inangahua=UNTAGGED=gb,nz
 Inc.=UNTAGGED=gb
-Inc=UNTAGGED=all
 Incabloc=NNP=none
 Incaparina=Incaparina/NNP,Incaparinas/NNPS=none
 Ince=UNTAGGED=gb
@@ -24539,13 +24526,9 @@ Indienne=NNP=none
 Indigofera=NNP=none
 Indihar=NNP=none
 Inditex=NNP=none
-Indo-Aryans=UNTAGGED=all
 Indo-British=JJ=none
 Indo-China=UNTAGGED=gb
-Indo-Chinese=UNTAGGED=all
 Indo-Europeanist=NNP=none
-Indo-Europeans=UNTAGGED=all
-Indo-Germanics=UNTAGGED=all
 Indo-Hittite=NNP=none
 Indo-Malaysian=UNTAGGED=gb
 Indo-Portuguese=UNTAGGED=gb
@@ -31262,7 +31245,6 @@ MSgt=NNP=none
 MTh=NNP=none
 MUDding=UNTAGGED=all
 MVEd=NNP=none
-MWh=UNTAGGED=all
 Ma=NNP=none
 Maag=NNP=none
 Maarianhamina=NNP=none
@@ -34329,7 +34311,6 @@ Molinists=UNTAGGED=gb
 Molinos=NNP=none
 Molios=UNTAGGED=gb
 Molise=NNP=none
-Molière=UNTAGGED=all
 Molièresque=UNTAGGED=gb
 Mollah=NNP=none
 Molland=UNTAGGED=gb
@@ -35741,7 +35722,6 @@ Nemertina=NNP=none
 Nemery=NNP=none
 Nemeses=NNPS=none
 Nemhauser=NNP=none
-Nemo=UNTAGGED=all
 Nempnett=UNTAGGED=gb
 Nemrod=NNP=none
 Nemunas=NNP=none
@@ -35752,7 +35732,6 @@ Nennius=UNTAGGED=gb
 Nenthorn=UNTAGGED=gb
 Nentsi=NNP=none
 Nentsy=NNP=none
-Neo-Aramaic=UNTAGGED=all
 Neo-Catholic=JJ=none
 Neo-Catholic=NNP=none
 Neo-Christianity=NNP=none
@@ -35848,7 +35827,6 @@ Neptunist=UNTAGGED=gb
 Neptunists=UNTAGGED=gb
 Nerbudda=NNP=none
 Nercwys=UNTAGGED=gb
-NerdWallet=UNTAGGED=all
 Nereen=NNP=none
 Neri=NNP=none
 Nerin=NNP=none
@@ -35999,7 +35977,6 @@ Newbigging=UNTAGGED=gb
 Newbill=NNP=none
 Newbold=JJ=gb
 Newbold=NNP=gb
-Newborough=UNTAGGED=all
 Newbottle=UNTAGGED=gb
 Newbould=UNTAGGED=gb
 Newbourne=UNTAGGED=gb
@@ -36587,7 +36564,6 @@ Notovich=UNTAGGED=gb
 Notre-Dame-de-l'Île-Perrot=UNTAGGED=gb
 Notre-Dame-de-l=UNTAGGED=gb
 Notre-Dame-des-Prairies=UNTAGGED=gb
-Notre-Dame=UNTAGGED=all
 Notropis=NNP=none
 Notting=UNTAGGED=gb,nz,za
 Notton=UNTAGGED=gb
@@ -36871,8 +36847,6 @@ Occaney=UNTAGGED=gb
 Occidentalism=Occidentalism/NNP,Occidentalisms/NNPS=none
 Occidentalist=JJ=none
 Occidentalist=Occidentalist/NNP,Occidentalists/NNPS=none
-Occitanian=UNTAGGED=all
-Occitanians=UNTAGGED=gb
 Occleve=NNP=none
 Occold=UNTAGGED=gb
 Ocean=UNTAGGED=gb,us-large
@@ -37371,7 +37345,6 @@ Opportina=NNP=none
 Opportuna=NNP=none
 OpportunitySpace=UNTAGGED=all
 Opposition=Opposition/NNP,Oppositions/NNPS=au,ca,us
-Optensity=UNTAGGED=all
 Optez=NNP=none
 Optima=NNP=none
 Optimist=Optimist/NNP,Optimists/NNPS=none
@@ -48158,7 +48131,6 @@ Synodontidae=NNP=none
 Synology=NNP=none
 Synoptic=UNTAGGED=gb
 Synoptics=UNTAGGED=gb,us-large
-Synthicity=UNTAGGED=all
 Syr=UNTAGGED=us-large
 Syracusan=Syracusan/NNP,Syracusans/NNPS=none
 Syre=UNTAGGED=gb
@@ -48193,8 +48165,6 @@ SÉPAQ=UNTAGGED=all
 Sèvres=UNTAGGED=gb,us-large
 Sónia=UNTAGGED=gb
 Sögel=UNTAGGED=gb
-Sønderborg=UNTAGGED=all
-Sørensen=UNTAGGED=all
 Süddeutsche=NNP=none
 T'ang=UNTAGGED=gb,us-large
 T-Roc=NNP=none
@@ -57413,7 +57383,6 @@ alsophila=NN=none
 alstonia=NN=none
 alstroemeria=noun=gb
 alstroemeriaceae=NN=none
-alt-rock=UNTAGGED=all
 alt-weeklies=UNTAGGED=gb
 alt-weekly=UNTAGGED=gb
 altaltissimo=noun=none
@@ -59798,7 +59767,6 @@ archean=JJ=none
 archebanc=NN=none
 archencephalon=noun=none
 archentera=UNTAGGED=gb
-archeoastronomy=noun=none
 archeocyte=NN=none
 archeol=UNTAGGED=us-large
 archeometry=noun=none
@@ -60520,7 +60488,6 @@ astrictiveness=NN=none
 astringence=NN=none
 astringer=noun=none
 astrionics=NN:U=us-large
-astro-archaeology=UNTAGGED=all
 astrobiological=UNTAGGED=gb
 astrobiologist=noun=gb
 astrobleme=noun=gb
@@ -71088,7 +71055,6 @@ clxvi=UNTAGGED=au,ca,us
 clxvii=UNTAGGED=au,ca,us
 clysis=NN=none
 clyster=noun=us-large
-cmd=UNTAGGED=all
 cml=NN=us-large
 cnemic=JJ=none
 cnemidophorus=NN=none
@@ -71122,7 +71088,6 @@ co-education=UNTAGGED=gb,za
 co-educational=UNTAGGED=gb,za
 co-exist=verb=none
 co-infection=NN:UN=none
-co-management=UNTAGGED=all
 co-occurrence=NN:UN=gb,nz,za
 co-occurrences=UNTAGGED=gb
 co-operant=UNTAGGED=gb,nz,za
@@ -71147,7 +71112,6 @@ co-ownerships=UNTAGGED=gb
 co-pilot=noun=gb,nz,za
 co-piloted=UNTAGGED=gb
 co-piloting=UNTAGGED=gb
-co-primality=UNTAGGED=all
 co-produce=UNTAGGED=gb
 co-produced=UNTAGGED=gb,nz,za
 co-producer=UNTAGGED=gb
@@ -71962,7 +71926,6 @@ commutuality=NN:UN=none
 commy=noun=none
 comonomer=noun=none
 comoros=NN=none
-compactibility=UNTAGGED=all
 compactification=noun_UN=us
 compadre=noun=us-large
 compagnie=NN=us-large
@@ -72840,7 +72803,6 @@ coprah=noun=none
 coprecipitation=NN:UN=none
 copremia=noun=none
 copresident=noun=none
-coprimality=UNTAGGED=all
 coprime=UNTAGGED=gb
 coprinaceae=NN=none
 coprince=noun=none
@@ -72858,7 +72820,6 @@ coprology=noun_UN=us-large
 copromoter=noun=none
 copromotion=NN:UN=none
 coprophagan=noun=none
-coprophagia=UNTAGGED=all
 coprophagist=noun=none
 coprophilism=NN:UN=none
 coprophobia=NN=none
@@ -80757,7 +80718,6 @@ echoencephalograph=noun=none
 echoencephalography=noun=none
 echoey=UNTAGGED=gb
 echogenicities=UNTAGGED=gb
-echogenicity=UNTAGGED=all
 echograph=NN=gb
 echographs=UNTAGGED=gb
 echography=noun_U=none
@@ -80792,8 +80752,6 @@ eclosed=UNTAGGED=gb
 ecloses=UNTAGGED=gb
 eclosing=UNTAGGED=gb
 ecm=NN=none
-eco-anxiety=UNTAGGED=all
-eco-sensitive=UNTAGGED=all
 eco-tax=UNTAGGED=gb
 eco-taxes=UNTAGGED=gb
 eco-warrior=UNTAGGED=gb
@@ -81384,7 +81342,6 @@ electrometry=electrometry/NN,electrometry/NN:U=gb
 electrometryible=UNTAGGED=gb
 electromigration=UNTAGGED=gb
 electromigrations=UNTAGGED=gb
-electromobility=UNTAGGED=all
 electromotor=noun=us-large
 electromyogram=noun=gb
 electromyograph=noun=gb
@@ -84110,7 +84067,6 @@ expirer=noun=none
 expiscation=NN:UN=none
 expiscatory=JJ=none
 expl.=UNTAGGED=all
-explainability=UNTAGGED=all
 explananda=UNTAGGED=gb
 explanandum=UNTAGGED=gb
 explanans=UNTAGGED=gb
@@ -84131,7 +84087,6 @@ explodent=NN=none
 exploitability=noun_UN=none
 exploitage=noun=none
 explosibility=NN:UN=none
-explosivity=UNTAGGED=all
 exponentiate=UNTAGGED=gb,nz,za
 exponentiated=UNTAGGED=gb,nz,za
 exponentiates=UNTAGGED=gb,nz,za
@@ -88220,7 +88175,6 @@ generability=NN:UN=none
 generableness=NN=none
 generalcy=noun=none
 generant=noun=none
-generativity=UNTAGGED=all
 generatrix=generatrix/NN,generatrices/NNS=us-large
 genericise=UNTAGGED=gb
 genericised=UNTAGGED=gb
@@ -88356,7 +88310,6 @@ geobotany=noun_U=gb
 geocacher=UNTAGGED=gb
 geocachers=UNTAGGED=gb
 geocentricism=NN:UN=gb,nz,za
-geocentricity=UNTAGGED=all
 geochelone=NN=none
 geochronometry=noun_U=none
 geococcyx=NN=none
@@ -89214,7 +89167,6 @@ glossolalic=UNTAGGED=gb,us-large
 glossolalist=noun=none
 glossologist=noun=none
 glossology=NN:UN=us-large
-glossophobes=UNTAGGED=all
 glossophobics=UNTAGGED=all
 glossopsitta=NN=none
 glossotomy=NN=us-large
@@ -89981,7 +89933,6 @@ gpd=NN=none
 gph=NN=gb
 gpm=NN=gb
 gps=NN=none
-gr=UNTAGGED=all
 graal=noun=none
 grabbings=UNTAGGED=gb,nz,za
 grabble=UNTAGGED=gb,us-large
@@ -93124,7 +93075,6 @@ henpeckible=UNTAGGED=gb
 henroost=noun=none
 henry=henry/NN,henries/NNS,henrys/NNS=us-large
 hent=UNTAGGED=us-large
-hentai=UNTAGGED=all
 hentriacontanoic=UNTAGGED=gb
 henwife=UNTAGGED=gb
 henwives=UNTAGGED=gb
@@ -95006,7 +94956,6 @@ hydria=noun=us-large
 hydrid=noun=none
 hydroa=NN=none
 hydroacoustic=UNTAGGED=all
-hydroairplanes=UNTAGGED=all
 hydrobates=NN=none
 hydrobatidae=NN=none
 hydrobiologist=noun=gb
@@ -95337,8 +95286,6 @@ hypaxial=UNTAGGED=gb
 hypaxials=UNTAGGED=gb
 hypentelium=NN=none
 hyper-Dorian=JJ=none
-hyper-alert=UNTAGGED=all
-hyper-saline=UNTAGGED=all
 hyper-stimulate=verb=none
 hyper-stimulating=JJ=none
 hyperabsorption=NN:UN=none
@@ -95360,7 +95307,6 @@ hyperaemia=noun=gb,nz,za
 hyperaesthesia=noun=gb,nz,za
 hyperaesthete=NN=none
 hyperaldosteronism=NN:UN=none
-hyperalert=UNTAGGED=all
 hyperalgesia=NN:U=gb
 hyperalgesias=UNTAGGED=gb
 hyperalimentation=noun_UN=gb
@@ -95380,7 +95326,6 @@ hyperaphia=NN=none
 hyperaphic=JJ=none
 hyperarchaeological=JJ=none
 hyperarousal=noun=none
-hyperautomation=UNTAGGED=all
 hyperazoturia=NN=none
 hyperbarbarism=NN:UN=none
 hyperbarbarously=RB=none
@@ -95459,7 +95404,6 @@ hyperdelicateness=NN=none
 hyperdelicious=JJ=none
 hyperdeliciously=RB=none
 hyperdelness=NN=none
-hyperdeveloped=UNTAGGED=all
 hyperdiabolically=RB=none
 hyperdiabolicalness=NN=none
 hyperdiamond=UNTAGGED=gb
@@ -95509,7 +95453,6 @@ hyperexcursiveness=NN=none
 hyperfastidiously=RB=none
 hyperfastidiousness=NN=none
 hyperfederalist=NN=none
-hyperfixated=UNTAGGED=all
 hyperflexibility=NN:UN=none
 hyperflexibleness=NN=none
 hyperflexibly=RB=none
@@ -95555,7 +95498,6 @@ hypericums=UNTAGGED=gb
 hyperidealistically=RB=none
 hyperimmunity=NN:UN=none
 hyperinflammation=NN:U=gb
-hyperinflated=UNTAGGED=all
 hyperingenuity=NN:UN=none
 hyperinnervation=noun_UN=none
 hyperinstrument=UNTAGGED=gb
@@ -95601,8 +95543,6 @@ hypermagnesaemia=UNTAGGED=gb
 hypermagnesaemic=UNTAGGED=gb
 hypermania=noun=none
 hypermart=noun=none
-hypermasculine=UNTAGGED=all
-hypermasculinity=UNTAGGED=all
 hypermastigina=NN=none
 hypermastigote=NN=none
 hypermedication=NN:UN=none
@@ -95745,7 +95685,6 @@ hyperrationality=noun_UN=none
 hyperrationally=RB=none
 hyperreactivity=noun_UN=gb
 hyperreactor=noun=none
-hyperrealities=UNTAGGED=all
 hyperreals=UNTAGGED=gb
 hyperresonance=NN=none
 hyperrhythmical=JJ=none
@@ -96088,7 +96027,6 @@ hypothesi=UNTAGGED=gb
 hypothesist=noun=none
 hypotheticalities=UNTAGGED=gb
 hypotheticality=UNTAGGED=gb
-hypothetico-deductive=UNTAGGED=all
 hypothyroidiably=UNTAGGED=gb
 hypothyroidially=UNTAGGED=gb
 hypothyroidic=UNTAGGED=gb
@@ -96831,7 +96769,6 @@ in-jokes=UNTAGGED=gb,nz,za
 in-migration=NN:UN=none
 in-off=NN=none
 in-phase=UNTAGGED=gb,nz,za
-in-place=UNTAGGED=all
 in-tray=NN=gb,nz,za
 in-trays=UNTAGGED=gb,nz,za
 inachis=NN=none
@@ -97801,7 +97738,6 @@ interconnectivitiably=UNTAGGED=gb
 interconnectivitication=UNTAGGED=gb
 interconnectivitications=UNTAGGED=gb
 interconnectiviticativeness=UNTAGGED=gb
-interconnectivities=UNTAGGED=all
 interconnectivitisability=UNTAGGED=gb
 interconnectivitisable=UNTAGGED=gb
 interconnectivitiser=UNTAGGED=gb
@@ -97902,7 +97838,6 @@ interfuse=UNTAGGED=gb,us-large
 interfused=UNTAGGED=gb
 interfuses=UNTAGGED=gb
 interfusing=UNTAGGED=gb
-intergender=UNTAGGED=all
 intergenerating=JJ=none
 intergeneration=noun_UN=gb,nz,za
 intergenerative=JJ=none
@@ -107170,7 +107105,6 @@ misbegot=JJ=none
 misbestowal=noun=none
 misbirth=noun=none
 misbuttoned=JJ=none
-misc=UNTAGGED=all
 miscalculator=noun=none
 miscaller=noun=none
 miscegenate=verb=gb
@@ -107212,7 +107146,6 @@ misdivision=noun=none
 misdoer=noun=us-large
 misdoubt=UNTAGGED=gb,us-large
 misdrawing=noun=none
-mise-en-scène=UNTAGGED=all
 mise=noun_U=gb
 misease=noun=none
 miseducation=noun_UN=none
@@ -108326,7 +108259,6 @@ mridangam=noun=none
 mrna=NN=none
 ms-dos=NN=none
 ms.=NN=none
-ms=UNTAGGED=all
 msalliance=NN=none
 msasa=NN=none
 msb=NN=none
@@ -108491,17 +108423,14 @@ multi-category=noun=none
 multi-commodity=JJ=none
 multi-coupler=UNTAGGED=gb,nz,za
 multi-crystalline=JJ=none
-multi-disciplinary=UNTAGGED=all
 multi-district=JJ=none
 multi-electron=JJ=none
 multi-environment=JJ=none
 multi-environmental=JJ=none
 multi-enzyme=JJ=none
 multi-enzyme=noun=none
-multi-ethnicity=UNTAGGED=all
 multi-factorial=JJ=none
 multi-factorially=RB=none
-multi-feature=UNTAGGED=all
 multi-fold=JJ=none
 multi-gene=JJ=none
 multi-gene=noun=none
@@ -108612,11 +108541,9 @@ multidwelling=noun=none
 multielectrode=UNTAGGED=us
 multiemployer=UNTAGGED=us
 multiengine=noun=us
-multiethnicity=UNTAGGED=all
 multiexhaust=NN=none
 multiexposure=UNTAGGED=gb
 multifaith=UNTAGGED=gb
-multifeature=UNTAGGED=all
 multifeatured=UNTAGGED=us
 multifibered=JJ=none
 multifibrous=JJ=none
@@ -108643,7 +108570,6 @@ multihead=NN=none
 multihearth=NN=none
 multihomer=UNTAGGED=us
 multihospital=UNTAGGED=us
-multihost=UNTAGGED=all
 multijet=NN=none
 multilaciniate=JJ=none
 multilayering=UNTAGGED=gb
@@ -108685,7 +108611,6 @@ multimineral=UNTAGGED=gb
 multimodality=UNTAGGED=gb
 multimodally=UNTAGGED=gb
 multimode=UNTAGGED=gb,us
-multimodule=UNTAGGED=all
 multimorph=UNTAGGED=gb
 multimotor=NN=none
 multimovement=UNTAGGED=gb
@@ -109915,19 +109840,14 @@ nenets=NN=none
 nentsi=NN=none
 nentsy=NN=none
 nenuphar=noun=gb
-neo-Agrarian=UNTAGGED=all
 neo-Aristotelianism=UNTAGGED=gb
-neo-Babylonian=UNTAGGED=all
 neo-Catholic=UNTAGGED=gb
 neo-Catholicism=UNTAGGED=gb
-neo-Christianity=UNTAGGED=all
 neo-Confucian=UNTAGGED=gb
 neo-Confucianism=UNTAGGED=gb
 neo-Darwinist=UNTAGGED=gb
 neo-Darwinists=UNTAGGED=gb
 neo-Georgian=UNTAGGED=gb
-neo-Keynesian=UNTAGGED=all
-neo-Latin=UNTAGGED=all
 neo-Luddism=UNTAGGED=gb
 neo-Luddistic=UNTAGGED=gb
 neo-Luddite=UNTAGGED=gb
@@ -109939,12 +109859,9 @@ neo-Marxists=UNTAGGED=gb
 neo-Nazism=UNTAGGED=gb
 neo-Plastic=JJ=none
 neo-Plasticist=NNP=none
-neo-aristocratic=UNTAGGED=all
-neo-charismatic=UNTAGGED=all
 neo-classicist=NN=none
 neo-fascist=UNTAGGED=gb,us
 neo-fascists=UNTAGGED=gb
-neo-grotesque=UNTAGGED=all
 neo-liberal=UNTAGGED=gb
 neo-liberalism=UNTAGGED=gb
 neo-liberals=UNTAGGED=gb
@@ -109972,7 +109889,6 @@ neoimpressionism=noun_UN=us-large
 neoimpressionist=noun=none
 neolentinus=NN=none
 neolithic=UNTAGGED=all
-neolocality=UNTAGGED=all
 neologian=noun=gb
 neomorph=noun=none
 neomys=NN=none
@@ -110291,7 +110207,6 @@ neurotoxicologially=UNTAGGED=gb
 neurotoxicologication=UNTAGGED=gb
 neurotoxicologications=UNTAGGED=gb
 neurotoxicologicativeness=UNTAGGED=gb
-neurotoxicologies=UNTAGGED=all
 neurotoxicologisability=UNTAGGED=gb
 neurotoxicologisable=UNTAGGED=gb
 neurotoxicologyible=UNTAGGED=gb
@@ -111397,7 +111312,6 @@ non-redeemable=UNTAGGED=gb,nz,za
 non-reducing=UNTAGGED=gb,nz,za
 non-relative=UNTAGGED=gb
 non-religious=UNTAGGED=gb,nz,za
-non-renewability=UNTAGGED=all
 non-residual=UNTAGGED=gb,nz,za
 non-resistant=NN=gb,nz,za
 non-resistants=UNTAGGED=gb,nz,za
@@ -116988,13 +116902,11 @@ omphalotus=NN=none
 omphalus=omphalus/NN,omphali/NNS=none
 omrah=noun=none
 on-board=UNTAGGED=gb,nz,za
-on-demand=UNTAGGED=all
 on-frequency=UNTAGGED=gb,nz,za
 on-glide=NN=none
 on-key=JJ=none
 on-license=NN:UN=none
 on-limits=JJ=none
-on-page=UNTAGGED=all
 on-stage=UNTAGGED=nz,za
 on-the-scene=JJ=none
 onagraceae=NN=none
@@ -117207,7 +117119,6 @@ operandi=UNTAGGED=gb,nz,za
 operationalism=noun_UN=gb
 operationalist=JJ=gb
 operationalist=noun=gb
-operationality=UNTAGGED=all
 operationism=noun_UN=none
 operationist=noun=none
 operatisations=UNTAGGED=gb
@@ -117327,7 +117238,6 @@ optant=noun=gb
 optez=NN=none
 opthalmic=JJ=none
 optiGov=UNTAGGED=all
-opticality=UNTAGGED=all
 opticals=UNTAGGED=gb
 opticist=noun=none
 opticly=RB=none
@@ -118246,8 +118156,6 @@ overbulkily=RB=none
 overbulkiness=NN=none
 overbumptiously=RB=none
 overbumptiousness=NN=none
-overcalled=UNTAGGED=all
-overcalling=UNTAGGED=all
 overcanny=JJ=none
 overcapability=NN:UN=none
 overcaptiously=RB=none
@@ -118291,10 +118199,6 @@ overclothes=NN=us-large
 overcoating=noun=gb,nz,za
 overcoil=NN=none
 overcoldly=RB=none
-overcollect=UNTAGGED=all
-overcollected=UNTAGGED=all
-overcollecting=UNTAGGED=all
-overcollects=UNTAGGED=all
 overcomits=UNTAGGED=nz,za
 overcommon=JJ=none
 overcommonly=RB=none
@@ -118307,11 +118211,9 @@ overcomplacence=NN=none
 overcomplacency=NN=us-large
 overcomplexity=NN:UN=gb,nz,za
 overcompliance=noun=none
-overcompression=UNTAGGED=all
 overconcentration=noun_UN=none
 overconcern=UNTAGGED=us-large
 overcondensation=NN:UN=none
-overconnectivity=UNTAGGED=all
 overconscientiously=RB=none
 overconscientiousness=NN=none
 overconsciously=RB=none
@@ -132489,7 +132391,6 @@ rcpt=NN=au,ca,us
 rcvr=NN=none
 rd=UNTAGGED=au,ca,us
 reactogenic=UNTAGGED=all
-reactogenicity=UNTAGGED=all
 read-out=NN=none
 readaptiness=NN=none
 readaptive=JJ=none
@@ -132519,7 +132420,6 @@ reagin=noun_U=none
 reagitation=NN:UN=none
 reak=noun=none
 real-life=UNTAGGED=gb,nz,za
-real-world=UNTAGGED=all
 realgar=noun=us-large
 realienation=NN=none
 realine=realine/VB,realine/VBP=none
@@ -133168,7 +133068,6 @@ remaker=noun=none
 remandment=noun=us-large
 remanet=noun=none
 remanifestation=NN:UN=none
-remarkability=UNTAGGED=all
 remarker=noun=none
 remarque=noun=us-large
 remastery=NN=none
@@ -138076,7 +137975,6 @@ semicretin=NN=none
 semicultivated=JJ=none
 semicultured=JJ=none
 semicured=JJ=none
-semicursive=UNTAGGED=all
 semicylinder=noun=none
 semicynically=RB=none
 semidangerously=RB=none
@@ -138184,7 +138082,6 @@ semilegislatively=RB=none
 semilethal=noun=gb
 semiliberalism=NN:UN=none
 semiliberally=RB=none
-semilinear=UNTAGGED=all
 semiliquidity=noun_UN=none
 semiliteracy=noun=none
 semillon=noun=none
@@ -138425,7 +138322,6 @@ semisentimentalized=JJ=none
 semisentimentally=RB=none
 semiseriousness=NN=none
 semishade=NN=none
-semisimplicity=UNTAGGED=all
 semislave=NN=none
 semisocialism=NN:UN=none
 semisocialist=NN=none
@@ -138470,7 +138366,6 @@ semivolcanic=JJ=none
 semivolcanically=RB=none
 semivulcanized=JJ=none
 semiwarfare=NN=none
-semiweak=UNTAGGED=all
 semiwildly=RB=none
 semiwildness=NN=none
 semmit=noun=gb
@@ -143996,7 +143891,6 @@ subcrenately=RB=none
 subcrepitation=NN=none
 subcrest=NN=none
 subcriminally=RB=none
-subcriticality=UNTAGGED=all
 subcrossing=NN=none
 subcruciform=JJ=none
 subcult=noun=gb
@@ -144035,7 +143929,6 @@ subdeposit=NN=none
 subdepository=NN=none
 subdepot=noun=none
 subdeputy=NN=none
-subderivatives=UNTAGGED=all
 subdevelopment=noun=gb
 subdevil=NN=none
 subdialectal=JJ=none
@@ -144054,7 +143947,6 @@ subdistinction=NN:UN=none
 subdistinctive=JJ=none
 subdistinctively=RB=none
 subdistinctiveness=NN=none
-subdistricts=UNTAGGED=all
 subdivinely=RB=none
 subdivineness=NN=none
 subdivisible=UNTAGGED=gb
@@ -144164,7 +144056,6 @@ subfractional=JJ=none
 subfractionally=RB=none
 subfractionary=JJ=none
 subfractionation=UNTAGGED=gb
-subfractions=UNTAGGED=all
 subframe=noun=gb,nz,za
 subfreshman=NN=none
 subfrigid=UNTAGGED=gb
@@ -144282,7 +144173,6 @@ subjectable=UNTAGGED=gb
 subjectdom=UNTAGGED=gb
 subjecthood=UNTAGGED=gb
 subjectible=UNTAGGED=gb
-subjectifications=UNTAGGED=all
 subjectify=UNTAGGED=us-large
 subjectivist=noun=gb,nz,za
 subjectship=noun=gb
@@ -145471,7 +145361,6 @@ supercriminal=JJ=none
 supercriminal=noun=none
 supercriminally=RB=none
 supercritic=NN=none
-supercriticality=UNTAGGED=all
 supercriticalness=NN=none
 supercrowned=JJ=none
 superculture=NN=none
@@ -152285,7 +152174,6 @@ unameliorable=JJ=none
 unameliorative=JJ=none
 unamending=JJ=none
 unamerceable=JJ=none
-unamiability=UNTAGGED=all
 unamicability=NN:UN=none
 unamicableness=NN=none
 unammoniated=JJ=none
@@ -152535,7 +152423,6 @@ unbrazenly=RB=none
 unbrazenness=NN=none
 unbreachableness=NN=none
 unbreachably=RB=none
-unbreakability=UNTAGGED=all
 unbreaking=JJ=none
 unbridle=UNTAGGED=us-large
 unbrief=JJ=none
@@ -153120,7 +153007,6 @@ under-reported=UNTAGGED=gb,nz,za
 under-reporting=UNTAGGED=gb,nz,za
 under-represent=verb=ca,gb,nz,za
 under-representation=noun_UN=ca,gb,nz,za
-under-responsivity=UNTAGGED=all
 under-sheriff=UNTAGGED=nz,za
 underaccident=NN=none
 underaccommodated=JJ=none
@@ -153192,7 +153078,6 @@ undercoachman=NN=none
 undercollector=NN=none
 undercommander=NN=none
 underconcerned=JJ=none
-underconnectivity=UNTAGGED=all
 underconsciousness=NN=none
 underconstable=NN=none
 underconsumption=NN:UN=none
@@ -153412,7 +153297,6 @@ underregion=NN=none
 underregistration=NN:UN=none
 underrepresent=verb=us
 underrepresentation=noun_UN=us
-underresponsivity=UNTAGGED=all
 underriddle=NN=none
 underrigged=JJ=none
 underrings=UNTAGGED=all
@@ -154395,7 +154279,6 @@ unimperially=RB=none
 unimperiously=RB=none
 unimpertinently=RB=none
 unimplementability=UNTAGGED=gb
-unimplemented=UNTAGGED=all
 unimportunateness=NN=none
 unimposed=JJ=nz
 unimposingly=UNTAGGED=gb
@@ -155113,7 +154996,6 @@ unorientally=RB=none
 unornament=UNTAGGED=us-large
 unornately=RB=none
 unornateness=NN=none
-unorthographic=UNTAGGED=all
 unosculated=JJ=none
 unosmotic=JJ=none
 unossifying=JJ=none
@@ -155875,7 +155757,6 @@ unsatcheled=JJ=none
 unsatiability=NN:UN=none
 unsatiric=JJ=none
 unsatiricalness=NN=none
-unsatisfiability=UNTAGGED=all
 unsatisfyingly=UNTAGGED=gb
 unsaturation=noun_UN=gb
 unsavagely=RB=none
