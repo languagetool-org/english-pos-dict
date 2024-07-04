@@ -125644,9 +125644,9 @@ sebaceous=JJ=all
 sebacic=JJ=all
 sebiferous=JJ=all
 seborrhea=noun_U=ca,us
-seborrhoea=noun_U=au,gb,nz,za
 seborrheal=JJ=all
 seborrheic=JJ=all
+seborrhoea=noun_U=au,gb,nz,za
 seborrhoeic=JJ=all
 sebum=sebum/NN,sebum/NN:UN,sebums/NNS=all
 sec=JJ=all
@@ -135537,9 +135537,9 @@ swishing=JJ=all
 swishing=noun_UN=all
 swishingly=RB=all
 swishy=swishy/JJ,swishier/JJR,swishiest/JJS=all
+switch-blade=noun=gb,nz,za
 switch=noun=all
 switch=verb=all
-switch-blade=noun=gb,nz,za
 switchable=JJ=all
 switchback=noun=all
 switchblade=noun=au,ca,us
@@ -138202,6 +138202,7 @@ tightwad=noun=au,ca,nz,us # colloquial
 tigress=noun=all
 tiki=noun=all
 tikis=tikis/NN,tikes/NNS=all
+til=IN=all
 tilapia=noun=all
 tilde=noun=all
 tile=noun=all
@@ -138211,7 +138212,6 @@ tilelike=JJ=all
 tiler=noun=all
 tiliaceous=JJ=all
 tiling=noun_U=all
-til=IN=all
 till=IN=all
 till=noun=all
 till=verb=all
