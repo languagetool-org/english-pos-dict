@@ -81859,6 +81859,7 @@ hacktivist=noun=all
 hackwork=noun_U=all
 hadal=JJ=all
 haddock=haddock/NN,haddock/NNS,haddocks/NNS=all
+hadith=hadith/NN,hadith/NNS,hadiths/NNS=all
 hadn't=contraction=all
 hadron=noun=all
 hadrosaur=noun=all
@@ -82425,6 +82426,7 @@ hard=hard/JJ,harder/JJR,hardest/JJS=all
 hardback=JJ=all
 hardback=noun=all
 hardbacked=JJ=all
+hardball=noun_U=all
 hardboard=noun_U=all
 hardbound=JJ=all
 hardcore=JJ=all
@@ -82823,6 +82825,7 @@ headstrong=JJ=all
 headstrongly=RB=all
 headstrongness=NN:U=all
 headteacher=noun=all
+headwaiter=noun=all
 headwall=noun=all
 headward=JJ=all
 headward=RB=all
@@ -82916,6 +82919,7 @@ heartsick=JJ=all
 heartsickness=noun_UN=all
 heartsomely=RB=all
 heartsomeness=NN:U=all
+heartstring=noun=all
 heartthrob=noun=all
 heartwarming=JJ=all
 heartwood=noun_U=all
@@ -124142,6 +124146,7 @@ saintlily=RB=all
 saintliness=NN:U=all
 saintly=RB=all
 saintly=saintly/JJ,saintlier/JJR,saintliest/JJS=all
+saith=VBZ=all
 sake=noun_U=all
 saker=noun=all
 saki=noun_U=all
@@ -124174,6 +124179,7 @@ salebrous=JJ=all
 saleroom=noun=all
 sales=JJ=all
 sales=NN=all
+salesclerk=noun=all
 salesgirl=noun=all
 saleslady=noun=all
 salesman [pl. salesmen]=noun=all
@@ -124247,6 +124253,7 @@ saltern=noun=all
 saltier=noun=all
 saltigrade=JJ=all
 saltily=RB=all
+saltine=noun=all
 saltiness=NN:U=all
 salting=noun_UN=all
 saltire=noun=all
@@ -124257,6 +124264,7 @@ saltishness=NN:U=all
 saltless=JJ=all
 saltly=RB=all
 saltness=NN:U=all
+saltshaker=noun=all
 saltus=noun=all
 saltwater=JJ=all
 saltwater=NN:U=all
@@ -124273,6 +124281,7 @@ salutary=JJ=all
 salutation=noun_UN=all
 salutational=JJ=all
 salutationless=JJ=all
+salutatorian=noun=all
 salutatorily=RB=all
 salutatory=JJ=all
 salute=noun=all
@@ -124545,6 +124554,7 @@ sash=verb=all
 sashay=verb=all
 sashimi=sashimi/NN,sashimi/NN:U,sashimis/NNS=all
 sashless=JJ=all
+sass=verb=all
 sassaby=noun=all
 sassafras=noun_UN=all
 sassiness=NN:U=all
@@ -124760,6 +124770,9 @@ scalably=RB=all
 scalar=JJ=all
 scalar=noun=all
 scalariform=JJ=all
+scalawag=noun=au,ca,us
+scalawaggery=NN=au,ca,us
+scalawaggy=JJ=au,ca,us
 scald=noun=all
 scald=verb=all
 scaldic=JJ=all
@@ -125526,6 +125539,7 @@ seaboard=noun=all
 seaborgium=noun_U=all
 seaborne=JJ=all
 seabottom=noun=all
+seacoast=noun=all
 seacock=noun=all
 seacraft=noun=all
 seafarer=noun=all
@@ -125629,6 +125643,8 @@ seaworthy=seaworthy/JJ,seaworthier/JJR,seaworthiest/JJS=all
 sebaceous=JJ=all
 sebacic=JJ=all
 sebiferous=JJ=all
+seborrhea=noun_U=ca,us
+seborrhoea=noun_U=au,gb,nz,za
 seborrheal=JJ=all
 seborrheic=JJ=all
 seborrhoeic=JJ=all
@@ -127514,7 +127530,7 @@ sherbet=noun_UN=all
 sherd=noun=all
 sheriff=noun=all
 sherry=sherry/NN,sherry/NN:U,sherries/NNS=all
-shew [shews;shewed;shewn,shewed;shewing]=verb=none # archaic
+shew [shews;shewed;shewn,shewed;shewing]=verb=all # archaic
 shh=UH=all
 shhh=UH=all
 shiatsu=noun_U=all
@@ -127623,6 +127639,7 @@ shirtless=JJ=all
 shirtmaker=noun=all
 shirtsleeve=JJ=all
 shirtsleeve=noun=all
+shirttail=noun=all
 shirty=shirty/JJ,shirtier/JJR,shirtiest/JJS=all
 shit [shits;shat,shit;shat,shit;shitting]=verb=all # shitted (rare)
 shit-faced=JJ=all
@@ -127642,6 +127659,7 @@ shitpost=noun=all
 shitpost=verb=all
 shittiness=NN:U=all
 shitty=shitty/JJ,shittier/JJR,shittiest/JJS=all
+shiv=noun=all
 shiva=noun=all
 shivah=noun=all
 shiver=noun=all
@@ -129265,6 +129283,7 @@ smart=noun_U=all
 smart=smart/JJ,smarter/JJR,smartest/JJS=all
 smart=verb=all
 smarten=verb=all
+smartie=noun=all
 smarting=JJ=all
 smartingly=RB=all
 smartish=JJ=all
@@ -130283,6 +130302,7 @@ sound=verb=all
 soundable=JJ=all
 soundalike=noun=all
 soundbar=noun=all
+soundbite=noun=all
 soundboard=noun=all
 soundcheck=noun=all
 sounded=JJ=all
@@ -135098,6 +135118,7 @@ surculose=JJ=all
 surd=JJ=all
 surd=noun=all
 sure-enough=JJ=all
+sure-fire=sure-fire/JJ,surefire/JJ=all
 sure-footed=JJ=all
 sure-footedly=RB=all
 sure-footedness=NN:U=all
@@ -135417,6 +135438,7 @@ sweeping=JJ=all
 sweeping=noun_UN=all
 sweepingly=RB=all
 sweepingness=NN:U=all
+sweepstake=noun=all
 sweet-and-sour=JJ=all
 sweet-scented=JJ=all
 sweet-smelling=JJ=all
@@ -135517,8 +135539,10 @@ swishingly=RB=all
 swishy=swishy/JJ,swishier/JJR,swishiest/JJS=all
 switch=noun=all
 switch=verb=all
+switch-blade=noun=gb,nz,za
 switchable=JJ=all
 switchback=noun=all
+switchblade=noun=au,ca,us
 switchboard=noun=all
 switcher=noun=all
 switcheroo=noun=all
@@ -135968,6 +135992,7 @@ taeniasis [pl. taeniases]=noun_U=all
 taenidial=JJ=all
 taffeta=noun_U=all
 taffrail=noun=all
+taffy=noun_U=all
 tag=noun_UN=all
 tag=verb=all
 tagboard=noun=all
@@ -135984,6 +136009,7 @@ tail=tail/JJ,tailer/JJR=all
 tail=verb=all
 tailback=noun=all
 tailboard=noun=all
+tailbone=noun=all
 tailcoat=noun=all
 tailed=JJ=all
 tailgate=noun=all
@@ -135993,6 +136019,7 @@ tailing=JJ=all
 tailing=tailing/NN:UN,tailing/NNS,tailings/NNS=all
 tailless=JJ=all
 taillessness=NN:U=all
+taillight=noun=all
 taillike=JJ=all
 tailor=noun=all
 tailor=verb=all
@@ -136025,6 +136052,7 @@ takeaway=noun=all
 takedown=JJ=all
 takedown=noun=all
 takeoff=takeoff/NN,takeoff/NN:U,takeoffs/NNS=all
+takeout=noun=all
 takeover=noun=all
 taker=noun=all
 taking=JJ=all
@@ -136266,6 +136294,7 @@ tarnished=JJ=all
 taro=noun_UN=all
 tarot=JJ=all
 tarot=noun=all
+tarp=noun=all
 tarpan=noun=all
 tarpaulin=noun_UN=all
 tarpon=tarpon/NN,tarpon/NNS,tarpons/NNS=all
@@ -136444,6 +136473,7 @@ taxpaying=JJ=all
 taxpaying=NN=all
 tazobactam=NN:U=all
 tazza=noun=all
+tbsp=noun=all
 tea=noun_U=all
 teabag=noun=all
 teaboard=noun=all
@@ -136461,6 +136491,7 @@ teahouse=noun=all
 teak=noun_U=all
 teal=teal/NN,teal/NNS,teals/NNS=all
 tealess=JJ=all
+tealight=noun=all
 team=noun=all
 team=team/JJ,teamer/JJR=all
 team=verb=all
@@ -136767,6 +136798,7 @@ telomerization|telomerisation=noun_UN=us,ca,gb|gb,au,nz,za
 telophase=noun=all
 telson=noun=all
 telsonic=JJ=all
+temblor=temblor/NN,temblores/NNS,temblors/NNS=au,ca,us
 temerarious=JJ=all
 temerariously=RB=all
 temerariousness=NN:U=all
@@ -138179,6 +138211,7 @@ tilelike=JJ=all
 tiler=noun=all
 tiliaceous=JJ=all
 tiling=noun_U=all
+til=IN=all
 till=IN=all
 till=noun=all
 till=verb=all
@@ -153220,6 +153253,7 @@ watertightness=NN:U=all
 waterward=RB=all
 waterway=noun=all
 waterwheel=noun=all
+waterwork=waterwork/NN,waterworks/NNS,waterworks/NN:U=all
 waterworn=JJ=all
 watery=watery/JJ,waterier/JJR,wateriest/JJS=all
 watt-hour=noun=all
@@ -153301,6 +153335,7 @@ weak=weak/JJ,weaker/JJR,weakest/JJS=all
 weaken=verb=all
 weakened=JJ=all
 weakening=JJ=all
+weakfish=weakfish/NN,weakfish/NNS,weakfishes/NNS=all
 weakhanded=JJ=all
 weakheartedly=RB=all
 weakheartedness=NN:U=all
@@ -153618,6 +153653,7 @@ well-intentioned=JJ=all
 well-kept=JJ=all
 well-knit=JJ=all
 well-known=JJ=all
+well-knownness=NN:U=all
 well-laid=JJ=all
 well-liked=JJ=all
 well-lit=JJ=all
@@ -154298,7 +154334,7 @@ willowy=willowy/JJ,willowier/JJR,willowiest/JJS=all
 willpower=noun_U=all
 willy-nilly=JJ=all
 willy-nilly=RB=all
-willy=NN=all
+willy=noun=all
 wilt=noun_U=all
 wilt=verb=all
 wilted=JJ=all

@@ -91032,7 +91032,6 @@ hade=UNTAGGED=gb,us-large
 haded=UNTAGGED=gb
 hades=UNTAGGED=gb,nz,us-large,za
 hading=UNTAGGED=gb
-hadith=hadith/NN,hadith/NNS,hadiths/NNS=au,ca,us
 hadj=hadj/NN,hadjes/NNS=gb,nz,za
 hadjee=noun=none
 hadji=noun=gb,nz,za
@@ -92252,7 +92251,6 @@ hard-wires=UNTAGGED=gb,nz,za
 hard-wiring=UNTAGGED=gb,nz,za
 hardass=noun=none
 hardbake=noun=gb
-hardball=noun_U=au,ca,us
 hardbeam=noun=none
 hardbitten=UNTAGGED=gb,nz,za
 hardbodied=UNTAGGED=gb
@@ -92575,7 +92573,6 @@ headstay=noun=none
 headstick=noun=none
 headstrap=noun=none
 headstream=noun=us-large
-headwaiter=noun=au,ca,us
 headwearably=UNTAGGED=gb
 headwearation=UNTAGGED=gb
 headwearations=UNTAGGED=gb
@@ -92621,7 +92618,6 @@ heartshake=NN=none
 heartsickening=JJ=none
 heartsome=JJ=us-large
 heartsore=JJ=gb
-heartstring=noun=none
 heartwort=UNTAGGED=gb
 heat-absorbing=JJ=none
 heat-island=NN=none
@@ -135164,7 +135160,6 @@ saintpaulia=NN=gb
 saintpaulias=UNTAGGED=gb
 saintship=noun=gb
 saique=noun=none
-saith=UNTAGGED=au,ca,us
 saithe=noun=gb
 saiyid=noun=none
 sajama=NN=none
@@ -135195,7 +135190,6 @@ salbutamol=noun=none
 salchow=noun=none
 salep=noun=us-large
 saleratus=noun=us-large
-salesclerk=noun=au,ca,nz,us,za
 salesroom=noun=au,ca,nz,us
 salet=noun=none
 salfern=noun=none
@@ -135287,7 +135281,6 @@ saltie=noun=none
 saltie=saltie/JJ,saltier/JJR,saltiest/JJS=none
 saltimbanco=noun=none
 saltimbocca=noun=gb
-saltine=noun=au,ca,us
 saltines=saltines/NN:U,saltinesses/NNS=au,ca,us
 saltinessably=UNTAGGED=gb
 saltinessally=UNTAGGED=gb
@@ -135304,14 +135297,12 @@ saltinessory=UNTAGGED=gb
 saltpan=noun=none
 saltpeter=noun_U=us
 saltpetre=noun_U=au,ca,gb,nz,za
-saltshaker=noun=au,ca,us
 saltwaters=UNTAGGED=gb
 saltwork=noun=none
 salugi=NN=none
 salugi=UH=none
 saluki=noun=gb
 salut=UH=none
-salutatorian=noun=au,ca,us
 salutatories=UNTAGGED=gb
 salutatorium=NN=none
 saluter=noun=gb,nz,za
@@ -135674,7 +135665,6 @@ sasine=noun=none
 saskatoon=noun=us-large
 sasquatch=noun=gb
 sass=noun=au,ca,us
-sass=verb=au,ca,us
 sassily=UNTAGGED=gb,us-large
 sassing=NN:UN=au,ca,us
 sasswood=noun=none
@@ -135888,9 +135878,6 @@ scalade=noun=us-large
 scalado=noun=none
 scalage=noun=us-large
 scalare=noun=none
-scalawag=noun=au,ca,us
-scalawaggery=NN=none
-scalawaggy=JJ=none
 scalder=noun=gb,nz,za
 scaldfish=scaldfish/NN,scaldfish/NNS=none
 scaldino=scaldino/NN,scaldini/NNS=none
@@ -136612,7 +136599,6 @@ seaborgiumativeness=UNTAGGED=gb
 seaborgiumible=UNTAGGED=gb
 seaborgiummation=UNTAGGED=gb
 seacoal=JJ=none
-seacoast=noun=au,ca,us
 seacunny=noun=none
 seadog=noun=us-large
 seadrome=noun=none
@@ -136677,8 +136663,6 @@ sebastodes=NN=none
 sebate=noun=none
 sebe=NN=none
 sebesten=noun=none
-seborrhea=noun_U=ca,us
-seborrhoea=noun_U=au,gb,nz,za
 sebundy=noun=none
 sec'y=UNTAGGED=us-large
 sec.=UNTAGGED=gb
@@ -139199,7 +139183,6 @@ shirtlifter=UNTAGGED=gb
 shirtlifters=UNTAGGED=gb
 shirtmaking=NN=none
 shirtsleeved=UNTAGGED=gb
-shirttail=noun=au,ca,us
 shirtwaist=noun=au,ca,us
 shirtwaister=noun=gb
 shish=UNTAGGED=gb
@@ -139240,7 +139223,6 @@ shiurimmednesses=UNTAGGED=gb
 shiurimness=UNTAGGED=gb
 shiurimnesses=UNTAGGED=gb
 shiurs=UNTAGGED=gb
-shiv=noun=au,ca,us
 shivaree=noun=us-large
 shive=noun=us-large
 shivoo=noun=none
@@ -140526,7 +140508,6 @@ smartarse=noun=gb
 smartass=noun=none
 smartgrass=UNTAGGED=us
 smartgrasses=UNTAGGED=us
-smartie=noun=us
 smartism=UNTAGGED=gb
 smartweed=noun=us
 smarty-pants=NN=gb,nz,za
@@ -141278,7 +141259,6 @@ soulstresses=UNTAGGED=gb
 soum=UNTAGGED=gb
 souming=noun=gb
 soums=UNTAGGED=gb
-soundbite=noun=au,ca,us
 soundbox=noun=gb
 soundcard=noun=none
 soundclash=UNTAGGED=gb
@@ -146243,7 +146223,6 @@ surbasement=noun=none
 surcharger=noun=none
 surcoat=noun=gb
 surculus=noun=none
-sure-fire=sure-fire/JJ,surefire/JJ=gb,nz,za
 sure-handed=JJ=none
 surface-assimilative=JJ=none
 surface-printing=NN:UN=none
@@ -146418,7 +146397,6 @@ sweatweed=NN=none
 sweeney=noun=none
 sweeny=noun=us-large
 sweep-second=NN:UN=none
-sweepstake=noun=au,gb,nz,za
 sweepy=sweepy/JJ,sweepier/JJR,sweepiest/JJS=none
 sweer=JJ=none
 sweet-faced=JJ=none
@@ -146505,13 +146483,10 @@ swiple=noun=none
 swire=noun=none
 swiss=noun=none
 swissing=noun=none
-switch-blade=UNTAGGED=gb,nz,za
-switch-blades=UNTAGGED=gb,nz,za
 switch-hitter=NN=none
 switch-ivy=NN=none
 switch-over=UNTAGGED=gb,nz,za
 switchability=UNTAGGED=gb
-switchblade=noun=au,ca,us
 switched-on=UNTAGGED=gb,nz,za
 switchel=noun=none
 switchgirl=NN=none
@@ -147047,7 +147022,6 @@ taffarel=noun=none
 tafferel=noun=none
 taffety=noun=none
 taffia=noun=none
-taffy=noun_U=au,ca,us
 tafia=noun=us-large
 tagalong=noun=gb
 tagamet=NN=none
@@ -147081,7 +147055,6 @@ tail-ender=UNTAGGED=gb,nz,za
 tail-enders=UNTAGGED=gb,nz,za
 tail-heavy=JJ=none
 tailband=NN=us-large
-tailbone=noun=au,ca,us
 taildragger=UNTAGGED=gb
 taildraggers=UNTAGGED=gb
 tailender=noun=none
@@ -147094,7 +147067,6 @@ taille=noun=us-large
 taillessly=RB=none
 tailleur=noun=none
 taillie=noun=none
-taillight=noun=au,ca,us
 tailor-made=NN=gb,nz,za
 tailor-made=tailor-made/JJ,tailormade/JJ=gb,nz,za
 tailoress=noun=gb
@@ -147129,7 +147101,6 @@ take-up=NN:U=gb,nz,za
 take-ups=UNTAGGED=gb
 takelma=NN=none
 takeout=JJ=au,ca,us
-takeout=noun=au,ca,us
 taker-in=NN=none
 takeup=noun=none
 takilman=NN=none
@@ -147422,7 +147393,6 @@ tarnkappe=NN=none
 taroc=noun=none
 tarogato=NN=none
 tarok=noun=none
-tarp=noun=au,ca,nz,us
 tarpaper=noun=ca,us
 tarpapered=UNTAGGED=ca,us
 tarpauling=noun=none
@@ -147578,7 +147548,6 @@ tayra=noun=us-large
 tazicef=NN=none
 tb=NN=au,ca,us
 tbs=UNTAGGED=au,ca,us
-tbsp=UNTAGGED=au,ca,us
 tchervonetz=NN=none
 tchotchke=noun=none
 tchr=NN=none
@@ -147619,8 +147588,6 @@ teacloths=UNTAGGED=gb
 teakettle=noun=au,ca,us
 teakwood=noun=us-large
 tealeaves=UNTAGGED=us-large
-tealight=UNTAGGED=au,ca,us
-tealights=UNTAGGED=au,ca,us
 team-mate=NN:UN=nz,za
 team-mates=UNTAGGED=nz,za
 teapoy=noun=gb
@@ -148021,7 +147988,6 @@ telpherway=noun=none
 telsontail=NN=none
 temazepam=NN=gb
 temazepams=UNTAGGED=gb
-temblor=temblor/NN,temblores/NNS,temblors/NNS=au,ca,us
 teme=noun=none
 temenos=noun=none
 temerous=UNTAGGED=gb
@@ -159035,7 +159001,6 @@ watersport=noun=none
 watersupply=NN=none
 waterthrush=noun=gb
 waterweed=noun=gb
-waterwork=noun=none
 watery-eyed=JJ=none
 waterzooi=noun=none
 wattape=noun=none
@@ -159091,7 +159056,6 @@ wd=UNTAGGED=us-large
 weak-kneedly=RB=none
 weak-kneedness=NN=none
 weakener=noun=au,ca,us
-weakfish=weakfish/NN,weakfish/NNS,weakfishes/NNS=au,ca,nz,us
 weakishly=RB=none
 weakon=noun=none
 weakside=noun=none
@@ -160390,7 +160354,6 @@ wildoat=noun=none
 will-call=JJ=none
 willemite=noun=none
 willer=noun=us
-willies=UNTAGGED=all
 williwau=noun=none
 williwaw=noun=au,ca,nz,us
 willow-pattern=NN=none
