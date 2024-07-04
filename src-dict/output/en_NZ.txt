@@ -3973,8 +3973,6 @@ kaolinise
 kaolinised
 kaolinises
 kaolinising
-karat
-karats
 keratinisation
 keratinisations
 keratinise

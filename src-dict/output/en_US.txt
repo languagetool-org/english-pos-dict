@@ -7257,7 +7257,6 @@ resinize
 resinized
 resinizes
 resinizing
-resizable
 resocialization
 resocializations
 resocialize

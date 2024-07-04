@@ -2025,8 +2025,6 @@ caramelize
 caramelized
 caramelizes
 caramelizing
-carat
-carats
 carbolise
 carbolised
 carbolises
@@ -5555,7 +5553,6 @@ foetus
 foetuses
 forejudgement
 forejudgements
-forgiveable
 formalisable
 formalisation
 formalisations
@@ -14842,7 +14839,6 @@ unfeudalized
 unfeudalizes
 unfeudalizing
 unflavoured
-unforgiveable
 unformalised
 unformalized
 unfossilised

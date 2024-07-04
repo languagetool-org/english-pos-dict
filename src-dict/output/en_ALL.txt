@@ -6226,6 +6226,7 @@ Brzezinski
 Brønsted
 Brāhmaṇa
 Bt
+Bt-containing
 Btu
 Bubb
 Bubba
@@ -8234,6 +8235,7 @@ Celsius
 Celsiuses
 Celt
 Celtiberian
+Celtiberians
 Celtic
 Celtically
 Celticism
@@ -8642,6 +8644,7 @@ Chinkiang
 Chinks
 Chinook
 Chinookan
+Chinookans
 Chinooks
 Chios
 Chipiona
@@ -8853,6 +8856,8 @@ Cistercians
 Citibank
 Citigroup
 Citrix
+Citroën
+Citroëns
 Ciudad
 Cl
 Clackmannan
@@ -21241,6 +21246,7 @@ Lathrop
 Latimer
 Latin
 Latin-American
+Latin-Americans
 Latina
 Latinas
 Latinate
@@ -21612,6 +21618,7 @@ Lhasas
 Lhotse
 Li
 LiDAR
+LiDARs
 Liam
 Liana
 Lianna
@@ -21647,7 +21654,6 @@ Libyans
 Lichfield
 Lichtenberg
 Lichtenstein
-Lidar
 Liddell
 Lidia
 Lidice
@@ -21911,6 +21917,7 @@ Lombard
 Lombardi
 Lombardia
 Lombardian
+Lombardians
 Lombardo
 Lombards
 Lombardy
@@ -22201,6 +22208,8 @@ Lux
 Luxembourg
 Luxembourger
 Luxembourgers
+Luxembourgian
+Luxembourgians
 Luxemburger
 Luxemburgers
 Luxor
@@ -22822,6 +22831,8 @@ MTX
 MTZ
 MU
 MUC
+MUD
+MUDs
 MUFON
 MUP
 MUR
@@ -24326,6 +24337,7 @@ Meshed
 Mesmer
 Mesoamerica
 Mesoamerican
+Mesoamericans
 Mesolithic
 Mesopotamia
 Mesopotamian
@@ -25062,6 +25074,7 @@ Moussorgsky
 Moustafa
 Mousterian
 Mowbray
+Mowgli
 Moyer
 Moynihan
 Moyobamba
@@ -35668,6 +35681,7 @@ Türkiye
 Tōkaidō
 U
 U-boat
+U-boats
 U-shaped
 U10
 U11
@@ -36041,6 +36055,7 @@ USART
 USASF
 USAian
 USB
+USB-C
 USC
 USCF
 USCG
@@ -36308,6 +36323,7 @@ Utes
 Uther
 Utica
 Uto-Aztecan
+Uto-Aztecans
 Utopia
 Utopian
 Utopias
@@ -37038,6 +37054,7 @@ Völuspá
 Vāyu
 W
 W10
+W3C
 W99
 WA
 WAAC
@@ -37475,6 +37492,7 @@ Wayzata
 Waze
 Waziristan
 Wazowski
+Wałęsa
 Wb
 WeChat
 WeWork
@@ -38285,8 +38303,10 @@ YW
 YWCA
 YWH
 YWHA
+YY-MM-DD
 YYG
 YYY
+YYYY-MM-DD
 YYZ
 YZV
 Yaakov
@@ -38744,6 +38764,7 @@ Zollverein
 Zoloft
 Zoltán
 Zomba
+Zonability
 Zond
 Zondervan
 Zonian
@@ -38769,6 +38790,7 @@ Zubaydah
 Zuck
 Zuckerberg
 Zuckerman
+Zuckermann
 Zug
 Zukor
 Zulu
@@ -46846,6 +46868,8 @@ assemblies
 assembling
 assembly
 assemblyman
+assemblymember
+assemblymembers
 assemblymen
 assemblywoman
 assemblywomen
@@ -57438,6 +57462,8 @@ carapace
 carapaced
 carapaces
 carapacial
+carat
+carats
 caravan
 caravaned
 caravaning
@@ -111304,6 +111330,8 @@ licorices
 lictor
 lictors
 lid
+lidar
+lidars
 lidded
 lidding
 lidless
@@ -113452,7 +113480,6 @@ lux
 luxation
 luxations
 luxe
-luxembourgian
 luxes
 luxmeter
 luxmeters
@@ -117008,6 +117035,8 @@ mfrs
 mg
 mgmt
 mi
+miRNA
+miRNAs
 miaphysite
 miaphysites
 miasma
@@ -117030,6 +117059,8 @@ mickeys
 micks
 micra
 micro
+microRNA
+microRNAs
 microadjustment
 microadjustments
 microaggression
@@ -150823,6 +150854,7 @@ resiting
 resits
 resitting
 resittings
+resizable
 resize
 resized
 resizes
@@ -178536,6 +178568,7 @@ unattractively
 unattractiveness
 unattributable
 unattributably
+unattributed
 unattributive
 unattuned
 unauctioned
@@ -178615,8 +178648,11 @@ unballoted
 unban
 unbanded
 unbanished
+unbank
 unbankable
 unbanked
+unbanking
+unbanks
 unbanned
 unbannered
 unbanning
@@ -180406,6 +180442,7 @@ underestimates
 underestimating
 underestimation
 underestimations
+underexplored
 underexpose
 underexposed
 underexposes
@@ -180691,8 +180728,12 @@ undersaturated
 undersaturates
 undersaturating
 undersaturation
+underschedule
+underscheduled
 underscheduler
 underschedulers
+underschedules
+underscheduling
 underscore
 underscored
 underscores
@@ -188602,6 +188643,7 @@ user-friendliest
 user-friendliness
 user-friendly
 user-oriented
+user-specific
 username
 usernames
 users
@@ -190921,6 +190963,7 @@ walk-ons
 walk-round
 walk-rounds
 walk-through
+walk-throughs
 walk-up
 walk-ups
 walkabilities
@@ -191698,6 +191741,7 @@ webmistress
 webmistresses
 webpack
 webpage
+webpages
 webs
 webshop
 webshops
@@ -193559,6 +193603,7 @@ wore
 work
 work-life
 work-minded
+work-mindedness
 work-shy
 workabilities
 workability

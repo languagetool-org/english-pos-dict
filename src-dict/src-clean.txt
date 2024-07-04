@@ -6653,6 +6653,7 @@ Brythonic=NNP=all
 Brzezinski=NNP=all
 Brønsted=NNP=all
 Brāhmaṇa=NNP=all
+Bt-containing=JJ=all
 Bt=abbreviation=all
 Btu=NNP=all
 Bubb=NNP=all
@@ -8684,6 +8685,7 @@ Celsius=JJ=all
 Celt=Celt/NNP,Celts/NNPS=all
 Celtiberian=JJ=all
 Celtiberian=NNP=all
+Celtiberian=noun=all
 Celtic=Celtic/NNP,Celtics/NNPS=all
 Celtic=JJ=all
 Celtically=RB=all
@@ -9102,6 +9104,7 @@ Chinkiang=NNP=all
 Chinook=Chinook/NNP,Chinooks/NNPS,Chinook/NNS=all
 Chinookan=JJ=all
 Chinookan=NNP=all
+Chinookan=noun=all
 Chios=NNP=all
 Chipiona=NNP=all
 Chippendale=Chippendale/NNP,Chippendales/NNPS=all
@@ -9314,6 +9317,7 @@ Cistercian=JJ=all
 Citibank=NNP=all
 Citigroup=NNP=all
 Citrix=NNP=all
+Citroën=Citroën/NNP,Citroëns/NNPS=all
 Citrusdal=NNP=za # South Africa, placename?
 Ciudad=NNP=all
 Cl=NNP=all
@@ -22997,6 +23001,7 @@ Lathrop=NNP=all
 Latimer=NNP=all
 Latin-American=JJ=all
 Latin-American=NNP=all
+Latin-American=noun=all
 Latin=Latin/JJ,Latiner/JJR=all
 Latin=Latin/NN:U,Latin/NNP,Latins/NNPS=all
 Latina=Latina/NNP,Latinas/NNPS=all
@@ -23440,7 +23445,7 @@ Leónidas=NNP=all
 Lhasa=Lhasa/NNP,Lhasas/NNPS=all
 Lhotse=NNP=all
 Li=NNP=all
-LiDAR=NNP=all
+LiDAR=noun=all
 Liam=NNP=all
 Liana=NNP=all
 Lianna=NNP=all
@@ -23479,7 +23484,6 @@ Lichfield=NNP=all
 Lichtenberg=NNP=all
 Lichtenburg=NNP=za # South Africa, placename?
 Lichtenstein=NNP=all
-Lidar=NNP=all
 Liddell=NNP=all
 Lidgetton=NNP=za # South Africa, placename?
 Lidia=NNP=all
@@ -23772,6 +23776,7 @@ Lombard=Lombard/NNP,Lombards/NNPS=all
 Lombardi=NNP=all
 Lombardia=NNP=all
 Lombardian=JJ=all
+Lombardian=noun=all
 Lombardo=NNP=all
 Lombardy=NNP=all
 Lombok=NNP=all
@@ -24109,6 +24114,8 @@ Luwian=JJ=all
 Lux=NNP=all
 Luxembourg=NNP=all
 Luxembourger=Luxembourger/NNP,Luxembourgers/NNPS=all
+Luxembourgian=JJ=all
+Luxembourgian=noun=all
 Luxemburger=Luxemburger/NNP,Luxemburgers/NNPS=all
 Luxmi=NNP=za # South Africa, placename?
 Luxolweni=NNP=za # South Africa, placename?
@@ -24721,6 +24728,7 @@ MTX=NNP=all
 MTZ=untagged=all
 MU=untagged=all
 MUC=untagged=all
+MUD=noun=all
 MUFON=untagged=all
 MUP=NNP=all
 MUR=untagged=all
@@ -26609,6 +26617,7 @@ Meshed=NNP=all
 Mesmer=NNP=all
 Mesoamerica=NNP=all
 Mesoamerican=JJ=all
+Mesoamerican=noun=all
 Mesolithic=JJ=all
 Mesolithic=NNP=all
 Mesopotamia=JJ=all
@@ -27602,6 +27611,7 @@ Moustafa=NNP=all
 Mousterian=JJ=all
 Mousterian=NNP=all
 Mowbray=NNP=all
+Mowgli=NNP=all
 Moyamkhulu=NNP=za # South Africa, placename?
 Moyanshe=NNP=za # South Africa, placename?
 Moyer=NNP=all
@@ -39642,6 +39652,7 @@ Tübingen=NNP=all
 Türkiye=NNP=all
 Tōkaidō=NNP=all
 U-boat=NNP=all
+U-boat=noun=all
 U-shaped=JJ=all
 U10=untagged=all
 U11=untagged=all
@@ -40010,6 +40021,7 @@ USART=untagged=all
 USASF=NNP=all
 USAian=JJ=all
 USAian=NNP=all
+USB-C=NNP=all
 USB=untagged=all
 USC=NNP=all
 USC=untagged=all
@@ -40332,6 +40344,7 @@ Utlwanang=NNP=za # South Africa, placename?
 Utlwaneng=NNP=za # South Africa, placename?
 Uto-Aztecan=JJ=all
 Uto-Aztecan=NNP=all
+Uto-Aztecan=noun=all
 Utopia=Utopia/NNP,Utopias/NNPS=all
 Utopian=NNP=all
 Utrecht=NNP=all
@@ -41160,6 +41173,7 @@ Völundarkviða=NNP=all
 Völuspá=NNP=all
 Vāyu=NNP=all
 W10=untagged=all
+W3C=NNP=all
 W99=untagged=all
 W=abbreviation=all
 WA=untagged=all
@@ -41620,6 +41634,7 @@ Wayzata=NNP=all
 Waze=NNP=all
 Waziristan=NNP=all
 Wazowski=NNP=all
+Wałęsa=NNP=all
 Wb=NNP=all
 WeChat=NNP=all
 WeWork=NNP=all
@@ -42547,8 +42562,10 @@ YW=untagged=all
 YWCA=NNP=all
 YWH=untagged=all
 YWHA=NNP=all
+YY-MM-DD=symbol=all
 YYG=untagged=all
 YYY=untagged=all
+YYYY-MM-DD=symbol=all
 YYZ=untagged=all
 YZV=untagged=all
 Ya-rona=NNP=za # South Africa, placename?
@@ -43017,6 +43034,7 @@ Zollverein=NNP=all
 Zoloft=NNP=all
 Zoltán=NNP=all
 Zomba=NNP=all
+Zonability=NNP=all
 Zond=NNP=all
 Zondereinde=NNP=za # South Africa, placename?
 Zondervan=NNP=all
@@ -43048,6 +43066,7 @@ Zubaydah=NNP=all
 Zuck=NNP=all
 Zuckerberg=NNP=all
 Zuckerman=NNP=all
+Zuckermann=NNP=all
 Zug=NNP=all
 Zuiping=NNP=za # South Africa, placename?
 Zukor=NNP=all
@@ -43338,7 +43357,7 @@ abridgable|abridgeable=JJ=us|au,ca,gb,za
 abridge=verb=all
 abridgedly=RB=gb
 abridger=noun=all
-abridgment|abridgement=noun_UN=us|au,ca,gb,nz,za # check variants!
+abridgment|abridgement=noun_UN=us|au,ca,gb,nz,za
 abroach=RB=all
 abroad=JJ=all
 abroad=RB=all
@@ -43853,7 +43872,7 @@ acknowledge=verb=all
 acknowledgeable=JJ=all
 acknowledgedly=RB=all
 acknowledger=noun=all
-acknowledgment|acknowledgement=noun_U=all|all # check variants!
+acknowledgment|acknowledgement=noun_U=all|all
 acme=noun=all
 acmic=JJ=all
 acne=noun_U=all
@@ -44234,7 +44253,7 @@ adjoint=noun=all
 adjourn=verb=all
 adjournment=noun_UN=all
 adjudge=verb=all
-adjudgment|adjudgement=noun_UN=all|au,gb,nz,za # check variants!
+adjudgment|adjudgement=noun_UN=all|au,gb,nz,za
 adjudicate=verb=all
 adjudication=noun_U=all
 adjudicative=JJ=all
@@ -49146,6 +49165,7 @@ assemble=verb=all
 assembler=noun=all
 assembly=noun_UN=all
 assemblyman [pl. assemblymen]=noun=all
+assemblymember=noun=all
 assemblywoman [pl. assemblywomen]=noun=all
 assent=assent/NN,assent/NN:U,assents/NNS=all
 assent=verb=all
@@ -68400,7 +68420,7 @@ dislike=verb=all
 dislocate=verb=all
 dislocation=noun_UN=all
 dislodge=verb=all
-dislodgment|dislodgement=noun=all|all # check variants!
+dislodgment|dislodgement=noun=all|all
 disloyal=JJ=all
 disloyally=RB=all
 disloyalty=noun_U=all
@@ -77277,7 +77297,7 @@ foreigner=noun=all
 foreignly=RB=all
 foreignness=NN:U=all
 forejudge=verb=all
-forejudgment|forejudgement=noun_UN=all|au,gb,nz,za # check variants!
+forejudgment|forejudgement=noun_UN=all|au,gb,nz,za
 foreknow [foreknows;foreknew;foreknown;foreknowing]=verb=all
 foreknowable=JJ=all
 foreknowingly=RB=all
@@ -77395,7 +77415,7 @@ forgettable=JJ=all
 forgettably=RB=all
 forgetting=noun_UN=all
 forging=noun_UN=all
-forgivable|forgiveable=JJ=all|au,ca,gb,za
+forgivable=JJ=all # forgiveable |au,ca,gb,za
 forgivably=RB=all # variants??
 forgive [forgives;forgave;forgiven;forgiving]=verb=all
 forgiveness=NN:U=all
@@ -89431,7 +89451,7 @@ interjectional=JJ=all
 interjectionally=RB=all
 interjectorily=RB=all
 interjectory=JJ=all
-interjudgment|interjudgement=noun_UN=all|au,gb,nz,za # check variants!
+interjudgment|interjudgement=noun_UN=all|au,gb,nz,za
 interkinesis=interkinesis/NN:U,interkineses/NNS=all
 interkinetic=JJ=all
 interlabial=JJ=all
@@ -91321,10 +91341,10 @@ judgeship=noun_UN=all
 judgingly=RB=all
 judgmatic=JJ=all
 judgmatically=RB=all
-judgmentalism|judgementalism=NN:U=all|au,gb,nz,za # check variants!
-judgmentally|judgementally=RB=all|au,gb,nz,za # check variants!
-judgmental|judgemental=JJ=all|au,gb,nz,za # check variants!
-judgment|judgement=noun_UN=all|au,gb,nz,za # check variants!
+judgmentalism|judgementalism=NN:U=all|au,gb,nz,za
+judgmentally|judgementally=RB=all|au,gb,nz,za
+judgmental|judgemental=JJ=all|au,gb,nz,za
+judgment|judgement=noun_UN=all|au,gb,nz,za
 judgy=JJ=all
 judicable=JJ=all
 judicative=JJ=all
@@ -91554,7 +91574,7 @@ karakul=noun=all
 karambit=noun=all
 karaoke=karaoke/NN,karaoke/NN:UN,karaokes/NNS=all
 karate=noun_U=all
-karat|carat=noun=au,ca,nz,us,za|gb # variants??
+karat|carat=noun=us|all
 karma=noun_U=all
 karmic=JJ=all
 karmically=RB=all
@@ -93649,6 +93669,7 @@ licorice|liquorice=noun_UN=all|au,gb,nz,za
 lictor=noun=all
 lid=noun=all
 lid=verb=all
+lidar=noun=all
 lidded=JJ=all
 lidless=JJ=all
 lido=noun=all
@@ -94441,7 +94462,7 @@ lodgeable=JJ=all
 lodged=JJ=all
 lodger=noun=all
 lodging=noun_UN=all
-lodgment|lodgement=noun_UN=all|all # check variants!
+lodgment|lodgement=noun_UN=all|all
 loess=noun_U=all
 loessal=JJ=all
 loessial=JJ=all
@@ -95177,7 +95198,6 @@ lux=lux/NN,luces/NNS,luxes/NNS=all
 luxation=noun_UN=all
 luxe=JJ=all
 luxe=noun=all
-luxembourgian=JJ=all
 luxmeter=noun=all
 luxuriance=noun_U=all
 luxuriant=JJ=all
@@ -97644,6 +97664,7 @@ mfr=noun=all
 mg=NN=all
 mgmt=NN:U=all
 mi=noun_U=all
+miRNA=noun=all
 miaphysite=JJ=all
 miaphysite=noun=all
 miasma=miasma/NN,miasmas/NNS,miasmata/NNS=all
@@ -97660,6 +97681,7 @@ mick=noun=all
 mickey=noun=all
 micro=JJ=all
 micro=noun=all
+microRNA=noun=all
 microadjustment=noun=all
 microaggression=noun_UN=all
 microaggressive=JJ=all
@@ -98647,7 +98669,7 @@ misinterpretation=noun_UN=all
 misinterpreter=noun=all
 misjoinder=noun=all
 misjudge=verb=all
-misjudgment|misjudgement=noun=all|au,gb,nz,za # check variants!
+misjudgment|misjudgement=noun=all|au,gb,nz,za
 mislabel [-ll-]|mislabel=verb=all|us
 mislabelling=NN:UN=all
 mislay [mislays;mislaid;mislaid;mislaying]=verb=all
@@ -103848,7 +103870,7 @@ nonisotropic=JJ=all
 nonissuable=JJ=all
 nonissue=noun=all
 nonjournalistic=JJ=all
-nonjudgmental|nonjudgemental=JJ=all|au,gb,nz,za # check variants!
+nonjudgmental|nonjudgemental=JJ=all|au,gb,nz,za
 nonjudiciable=JJ=all
 nonjudicial=JJ=all
 nonjudicially=RB=all
@@ -115038,7 +115060,7 @@ preaching=noun_UN=all
 preachingly=RB=all
 preachment=noun_U=all
 preachy=preachy/JJ,preachier/JJR,preachiest/JJS=all
-preacknowledgment|preacknowledgement=noun_U=all|all # check variants!
+preacknowledgment|preacknowledgement=noun_U=all|all
 preacquired=JJ=all
 preactivated=JJ=all
 preactive=JJ=all
@@ -115553,7 +115575,7 @@ preinvasive=JJ=all
 preirrigational=JJ=all
 prejournalistic=JJ=all
 prejudge=verb=all
-prejudgment|prejudgement=noun_UN=all|au,gb,nz,za # check variants!
+prejudgment|prejudgement=noun_UN=all|au,gb,nz,za
 prejudice=noun_UN=all
 prejudice=verb=all
 prejudiced=JJ=all
@@ -119742,7 +119764,7 @@ reaching=NN:UN=all
 reachless=JJ=all
 reacidification=noun_UN=all
 reacknowledge=verb=all
-reacknowledgment|reacknowledgement=noun_U=all|all # check variants!
+reacknowledgment|reacknowledgement=noun_U=all|all
 reacquaint=verb=all
 reacquaintance=noun_UN=all
 reacquire=verb=all
@@ -121966,7 +121988,7 @@ resit [resits;resat;resat;resitting]=verb=all
 resit=noun=all
 resite=verb=all
 resitting=noun_UN=all
-resizable|resizeable=JJ=us,ca|gb,au,nz,za # variants??
+resizable|resizeable=JJ=all|gb,au,nz,za # variants??
 resize=noun=all
 resize=verb=all
 reskin [-nn-]=verb=all
@@ -134538,7 +134560,7 @@ superaccurately=RB=all
 superaccurateness=NN:U=all
 superachiever=noun=all
 superacidulated=JJ=all
-superacknowledgment|superacknowledgement=noun_U=all|all # check variants!
+superacknowledgment|superacknowledgement=noun_U=all|all
 superactive=JJ=all
 superactivity=noun_UN=all
 superacute=JJ=all
@@ -141862,6 +141884,7 @@ unattractively=RB=all
 unattractiveness=NN:U=all
 unattributable=JJ=all
 unattributably=RB=all
+unattributed=JJ=all
 unattributive=JJ=all
 unattuned=JJ=all
 unauctioned=JJ=all
@@ -141941,6 +141964,7 @@ unballoted=JJ=all
 unban [-nn-]=verb=all
 unbanded=JJ=all
 unbanished=JJ=all
+unbank=verb=all
 unbankable=JJ=all
 unbanked=JJ=all
 unbanned=JJ=all
@@ -143573,6 +143597,7 @@ underemployment=noun_U=all
 underestimate=noun=all
 underestimate=verb=all
 underestimation=noun_UN=all
+underexplored=JJ=all
 underexpose=verb=all
 underexposure=noun=all
 underexpress=verb=all
@@ -143730,6 +143755,7 @@ undersample=verb=all
 undersaturate=verb=all
 undersaturated=JJ=all
 undersaturation=NN:UN=all
+underschedule=verb=all
 underscheduler=noun=all
 underscore=noun=all
 underscore=verb=all
@@ -145157,8 +145183,8 @@ unforgetful=JJ=all
 unforgettable=JJ=all
 unforgettableness=NN:U=all
 unforgettably=RB=all
+unforgivable=JJ=all # |unforgiveable |au,ca,gb,za
 unforgivableness=NN:U=all
-unforgivable|unforgiveable=JJ=all|au,ca,gb,za
 unforgivably=RB=all
 unforgiven=JJ=all
 unforgiving=JJ=all
@@ -151230,6 +151256,7 @@ user-facing=JJ=all
 user-friendliness=NN:U=all
 user-friendly=user-friendly/JJ,user-friendlier/JJR,user-friendliest/JJS=all
 user-oriented=JJ=all
+user-specific=JJ=all
 user=noun_UN=all
 username=noun=all
 usher=noun=all
@@ -152919,7 +152946,7 @@ walk-in=JJ=all
 walk-in=noun=all
 walk-on=noun=all
 walk-round=noun=all
-walk-through=NN=all
+walk-through=noun=all
 walk-up=JJ=all
 walk-up=noun=all
 walk=noun=all
@@ -153448,7 +153475,7 @@ webmail=noun_UN=all
 webmaster=noun=all
 webmistress=noun=all
 webpack=NNP=all
-webpage=NN=all
+webpage=noun=all
 webshop=noun=all
 website=noun=all
 webspace=noun=all
@@ -154550,7 +154577,7 @@ witch=noun=all
 witch=verb=all
 witchcraft=noun_U=all
 witchery=noun_U=all
-witchhood=NN=all
+witchhood=NN:U=all
 witching=JJ=all
 witching=noun_UN=all
 witchingly=RB=all
@@ -154814,6 +154841,7 @@ wordsmith=noun=all
 wordy=wordy/JJ,wordier/JJR,wordiest/JJS=all
 work-life=JJ=all
 work-minded=JJ=all
+work-mindedness=NN:U=all
 work-shy=JJ=all
 work=JJ=all
 work=noun_UN=all

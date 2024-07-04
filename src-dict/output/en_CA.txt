@@ -3078,7 +3078,6 @@ focalized
 focalizes
 focalizing
 forevermore
-forgiveable
 formalizable
 formalization
 formalizations
@@ -4023,8 +4022,6 @@ kaolinize
 kaolinized
 kaolinizes
 kaolinizing
-karat
-karats
 keratinization
 keratinizations
 keratinize
@@ -6985,7 +6982,6 @@ resinize
 resinized
 resinizes
 resinizing
-resizable
 resocialization
 resocializations
 resocialize
@@ -8406,7 +8402,6 @@ unfeudalized
 unfeudalizes
 unfeudalizing
 unflavoured
-unforgiveable
 unformalized
 unfossilized
 ungalvanized

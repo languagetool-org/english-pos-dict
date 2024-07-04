@@ -8604,7 +8604,6 @@ foetus
 foetuses
 forejudgement
 forejudgements
-forgiveable
 formalisable
 formalisation
 formalisations
@@ -9546,8 +9545,6 @@ kaolinise
 kaolinised
 kaolinises
 kaolinising
-karat
-karats
 keratinisation
 keratinisations
 keratinise
@@ -13907,7 +13904,6 @@ unfeudalised
 unfeudalises
 unfeudalising
 unflavoured
-unforgiveable
 unformalised
 unfossilised
 ungalvanised
