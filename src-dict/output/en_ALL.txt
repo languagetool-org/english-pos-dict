@@ -94943,6 +94943,8 @@ had
 hadal
 haddock
 haddocks
+hadith
+hadiths
 hadn't
 hadron
 hadrons
@@ -95724,6 +95726,8 @@ hard-working
 hardback
 hardbacked
 hardbacks
+hardball
+hardballs
 hardboard
 hardboards
 hardbound
@@ -96331,6 +96335,8 @@ headstrongly
 headstrongness
 headteacher
 headteachers
+headwaiter
+headwaiters
 headwall
 headwalls
 headward
@@ -96458,6 +96464,8 @@ heartsickness
 heartsicknesses
 heartsomely
 heartsomeness
+heartstring
+heartstrings
 heartthrob
 heartthrobs
 heartwarming
@@ -154130,6 +154138,7 @@ saintlily
 saintliness
 saintly
 saints
+saith
 sake
 saker
 sakers
@@ -154171,6 +154180,8 @@ salebrous
 saleroom
 salerooms
 sales
+salesclerk
+salesclerks
 salesgirl
 salesgirls
 salesladies
@@ -154289,6 +154300,8 @@ salties
 saltiest
 saltigrade
 saltily
+saltine
+saltines
 saltiness
 salting
 saltings
@@ -154302,6 +154315,8 @@ saltless
 saltly
 saltness
 salts
+saltshaker
+saltshakers
 saltus
 saltuses
 saltwater
@@ -154320,6 +154335,8 @@ salutation
 salutational
 salutationless
 salutations
+salutatorian
+salutatorians
 salutatorily
 salutatory
 salute
@@ -154731,13 +154748,17 @@ sashimi
 sashimis
 sashing
 sashless
+sass
 sassabies
 sassaby
 sassafras
 sassafrases
+sassed
+sasses
 sassier
 sassiest
 sassiness
+sassing
 sassy
 sat
 satanic
@@ -156140,6 +156161,8 @@ seaborgiums
 seaborne
 seabottom
 seabottoms
+seacoast
+seacoasts
 seacock
 seacocks
 seacraft
@@ -158661,6 +158684,11 @@ sheriff
 sheriffs
 sherries
 sherry
+shew
+shewed
+shewing
+shewn
+shews
 shh
 shhh
 shiatsu
@@ -158829,6 +158857,8 @@ shirtmakers
 shirts
 shirtsleeve
 shirtsleeves
+shirttail
+shirttails
 shirty
 shit
 shit-faced
@@ -158858,6 +158888,7 @@ shittiest
 shittiness
 shitting
 shitty
+shiv
 shiva
 shivah
 shivahs
@@ -158871,6 +158902,7 @@ shiveringly
 shiverings
 shivers
 shivery
+shivs
 shoal
 shoaled
 shoaling
@@ -161242,6 +161274,7 @@ smartening
 smartens
 smarter
 smartest
+smartie
 smarties
 smarting
 smartingly
@@ -162684,6 +162717,8 @@ soundalike
 soundalikes
 soundbar
 soundbars
+soundbite
+soundbites
 soundboard
 soundboards
 soundcheck
@@ -169354,9 +169389,11 @@ surd
 surds
 sure
 sure-enough
+sure-fire
 sure-footed
 sure-footedly
 sure-footedness
+surefire
 surefooted
 surefootedness
 surely
@@ -169820,6 +169857,8 @@ sweepingly
 sweepingness
 sweepings
 sweeps
+sweepstake
+sweepstakes
 sweet
 sweet-and-sour
 sweet-scented
@@ -170569,8 +170608,10 @@ taeniasis
 taenidial
 taffeta
 taffetas
+taffies
 taffrail
 taffrails
+taffy
 tag
 tagboard
 tagboards
@@ -170595,6 +170636,8 @@ tailback
 tailbacks
 tailboard
 tailboards
+tailbone
+tailbones
 tailcoat
 tailcoats
 tailed
@@ -170609,6 +170652,8 @@ tailing
 tailings
 tailless
 taillessness
+taillight
+taillights
 taillike
 tailor
 tailorbird
@@ -170654,6 +170699,8 @@ takedowns
 taken
 takeoff
 takeoffs
+takeout
+takeouts
 takeover
 takeovers
 taker
@@ -170996,12 +171043,14 @@ taro
 taros
 tarot
 tarots
+tarp
 tarpan
 tarpans
 tarpaulin
 tarpaulins
 tarpon
 tarpons
+tarps
 tarradiddle
 tarradiddles
 tarragon
@@ -171266,6 +171315,8 @@ taxying
 tazobactam
 tazza
 tazzas
+tbsp
+tbsps
 tea
 teabag
 teabags
@@ -171295,6 +171346,8 @@ teak
 teaks
 teal
 tealess
+tealight
+tealights
 teals
 team
 teamaker
@@ -173580,6 +173633,7 @@ tigresses
 tikes
 tiki
 tikis
+til
 tilapia
 tilapias
 tilde
@@ -191365,6 +191419,8 @@ waterway
 waterways
 waterwheel
 waterwheels
+waterwork
+waterworks
 waterworn
 watery
 watt
@@ -191481,6 +191537,8 @@ weakening
 weakens
 weaker
 weakest
+weakfish
+weakfishes
 weakhanded
 weakheartedly
 weakheartedness
@@ -191888,6 +191946,7 @@ well-intentioned
 well-kept
 well-knit
 well-known
+well-knownness
 well-laid
 well-liked
 well-lit
@@ -192781,6 +192840,7 @@ willable
 willed
 willet
 willets
+willies
 willing
 willinger
 willingest

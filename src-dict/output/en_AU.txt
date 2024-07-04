@@ -7287,6 +7287,10 @@ savourly
 savours
 savoursome
 savoury
+scalawag
+scalawaggery
+scalawaggy
+scalawags
 scandalisation
 scandalisations
 scandalise
@@ -7340,6 +7344,8 @@ scrutiniser
 scrutinisers
 scrutinises
 scrutinising
+seborrhoea
+seborrhoeas
 sectarianise
 sectarianised
 sectarianises
@@ -7909,6 +7915,8 @@ suss
 sussed
 susses
 sussing
+switchblade
+switchblades
 swivelling
 swivellings
 swop
@@ -8076,6 +8084,9 @@ teletheatre
 teletheatres
 telomerisation
 telomerisations
+temblor
+temblores
+temblors
 temporisation
 temporisations
 temporise

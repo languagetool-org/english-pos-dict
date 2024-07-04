@@ -7256,6 +7256,10 @@ savourly
 savours
 savoursome
 savoury
+scalawag
+scalawaggery
+scalawaggy
+scalawags
 scandalization
 scandalizations
 scandalize
@@ -7303,6 +7307,8 @@ scrutinizer
 scrutinizers
 scrutinizes
 scrutinizing
+seborrhea
+seborrheas
 sectarianize
 sectarianized
 sectarianizes
@@ -7872,6 +7878,8 @@ superspecialization
 superspecializations
 surgicentre
 surgicentres
+switchblade
+switchblades
 swivelling
 swivellings
 syllabize
@@ -8035,6 +8043,9 @@ teletheatre
 teletheatres
 telomerization
 telomerizations
+temblor
+temblores
+temblors
 temporization
 temporizations
 temporize
