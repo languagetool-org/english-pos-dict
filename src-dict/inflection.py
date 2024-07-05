@@ -145,7 +145,7 @@ def isErrorInVerbalForms(tag_forms_dict, lemma):
   if set(tag_forms_dict.keys()) != set(verb_tags):
     print ("ERROR: incomplete set of tags: " + str(tag_forms_dict))
     is_error = True
-  if any(not s.endswith("s") for s in tag_forms_dict["VBZ"]):
+  if any(not s.endswith("s") and s!="saith" for s in tag_forms_dict["VBZ"]):
     print ("ERROR: VBZ form must end with -s: " + str(tag_forms_dict))
     is_error = True
   if any(not s.endswith("ing") for s in tag_forms_dict["VBG"]):

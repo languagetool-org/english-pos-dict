@@ -1139,6 +1139,8 @@ carburise
 carburised
 carburises
 carburising
+carfare
+carfares
 caricaturisation
 caricaturisations
 carnalise

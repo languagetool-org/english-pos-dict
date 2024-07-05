@@ -96,6 +96,7 @@
 #dure=verb=all # archaic
 #dutch=noun=all # usually capitalized
 #e.g.=RB=all
+#eclat=noun_UN=all # éclat
 #editress=noun=all #dated
 #eftsoon=RB=all
 #eftsoons=RB=all archaic
@@ -185,6 +186,8 @@
 #mayhappen=RB=all dialect
 #mazedly=RB=all archaic
 #measle=noun=none unusual
+#medicaid=noun_UN=all
+#medicare=noun_UN=all
 #meg=abbreviation=all
 #mem=noun=all # unusual
 #merchandize=verb=us # less common
@@ -224,6 +227,7 @@
 #re-uptake=noun_UN=all # unusual
 #ree=noun=all # unusual
 #renumerate=verb=all # unusual?
+#roman=noun_UN=all Roman?
 #runed=JJ=all # infrequent, confusion ran/runed
 #scotia=noun=all # unusual
 #seemless=JJ=all # possible misspelling of seamless
@@ -2797,6 +2801,7 @@ Androcles=NNP=all
 Android=NNP=all
 Andromache=NNP=all
 Andromeda=NNP=all
+Andropov=NNP=all
 Andros=NNP=all
 Androscoggin=NNP=all
 Andrzej=NNP=all
@@ -27712,6 +27717,7 @@ Mudéjar=NNP=all
 Mudéjares=NNP=all
 Mueller=NNP=all
 Muenster=Muenster/NNP,Muensters/NNPS=all
+Muenster=noun_UN=all
 Mufasa=NNP=all
 Mugabe=NNP=all
 Mugena=NNP=za # South Africa, placename?
@@ -30845,6 +30851,7 @@ PUASP=untagged=all
 PUBG=NNP=all
 PUBP=untagged=all
 PUC=untagged=all
+PUD=abbreviation=all # pickup and delivery
 PUF=untagged=all
 PUG=untagged=all
 PUL=untagged=all
@@ -45206,6 +45213,7 @@ airy-fairy=JJ=all
 airy=airy/JJ,airier/JJR,airiest/JJS=all
 aisle=noun=all
 aisled=JJ=all
+aisling=noun=all
 ait=noun=all
 aitch=noun=all
 aitchbone=noun=all
@@ -46608,6 +46616,7 @@ anglophilic=JJ=all
 anglophone=JJ=all
 anglophone=noun=all
 angora=noun_UN=all
+angostura=noun_UN=all
 angrily=RB=all
 angriness=NN:U=all
 angry=angry/JJ,angrier/JJR,angriest/JJS=all
@@ -48249,6 +48258,7 @@ applause=noun_U=all
 applausive=JJ=all
 apple-pie=JJ=all
 apple=apple/NN,apple/NN:UN,apples/NNS=all
+applejack=noun_UN=all
 applelike=JJ=all
 applesauce=noun_U=au,ca,us
 applet=noun=all
@@ -48984,6 +48994,7 @@ ascariasis=ascariasis/NN:U,ascariases/NNS=all
 ascarid=ascarid/NN,ascarides/NNS,ascarids/NNS=all
 ascend=verb=all
 ascendable=JJ=all
+ascendance=noun_UN=all
 ascendancy=noun_U=all
 ascendant=JJ=all
 ascendant=noun=all
@@ -50965,6 +50976,7 @@ barbiturate=noun_UN=all
 barbituric=JJ=all
 barbless=JJ=all
 barbule=noun=all
+barbwire=noun_UN=all
 barcarole=noun=all
 barchan=noun=all
 barcode=noun=all
@@ -52328,6 +52340,7 @@ billhook=noun=all
 billiard=JJ=all
 billiard=noun=all
 billing=noun_UN=all
+billingsgate=noun_UN=all
 billion-a-year=JJ=all
 billion-dollar=JJ=all
 billion=CD=all
@@ -53598,6 +53611,7 @@ bollard=noun=all
 bollocking=noun=au,ca,gb,nz,za
 bollocks [bollockses;bollocksed;bollocksed;bollocksing]=verb=all
 bollworm=noun=all
+bologna=noun_UN=all
 bolognese=JJ=all
 bolognese=bolognese/NN:UN,bolognese/NNS=all
 bolometer=noun=all
@@ -54466,6 +54480,7 @@ bridleless=JJ=all
 bridleway=noun=all
 bridlewise=JJ=all
 bridoon=noun=all
+brie=noun_UN=all
 brief=brief/JJ,briefer/JJR,briefest/JJS=all
 brief=noun_UN=all
 brief=verb=all
@@ -56419,6 +56434,7 @@ caressively=RB=all
 caret=noun=all
 caretaker=noun=all
 careworn=JJ=all
+carfare=noun_UN=us,ca,au # dated
 carful=noun=none # possible confusion: careful
 cargo=cargo/NN:UN,cargoes/NNS,cargos/NNS=all
 caribou=caribou/NN,caribou/NNS,caribous/NNS=all
@@ -57964,6 +57980,7 @@ chesty=chesty/JJ,chestier/JJR,chestiest/JJS=all
 chetrum=noun=all
 chevalier=noun=all
 chevet=noun=all
+cheviot=noun_UN=all
 chevron=noun=all
 chevronny=JJ=all
 chew=noun=all
@@ -58201,6 +58218,7 @@ chlorambucil=NN:U=all
 chloramine=noun=all
 chloramphenicol=chloramphenicol/NN,chloramphenicol/NN:U,chloramphenicols/NNS=all
 chlorate=noun_U=all
+chlordane=noun_UN=all
 chlorella=noun=all
 chlorellaceous=JJ=all
 chlorenchyma=noun=all
@@ -59948,6 +59966,7 @@ coinstantaneous=JJ=all
 coinstantaneously=RB=all
 coinsurance=noun_U=all
 coinvest=verb=all
+coir=noun_UN=all
 coital=JJ=all
 coitally=RB=all
 coition=noun_UN=all
@@ -60498,6 +60517,7 @@ commonsensible=JJ=all
 commonsensibly=RB=all
 commonsensical=JJ=all
 commonsensically=RB=all
+commonweal=noun_UN=all
 commonwealth=noun=all
 commorant=JJ=all
 commotion=noun_UN=all
@@ -61373,6 +61393,7 @@ congregant=noun=all
 congregate=verb=all
 congregation=noun_UN=all
 congregational=JJ=all
+congregationalism=noun_UN=all
 congregationalist=JJ=all
 congregationalist=noun=all
 congregationally=RB=all
@@ -61636,6 +61657,7 @@ consolidator=noun=all
 consolingly=JJ=all
 consolingly=RB=all
 consolute=JJ=all
+consomme=noun_UN=all
 consommé=noun_U=all
 consonance=noun_U=all
 consonant=JJ=all
@@ -62416,6 +62438,7 @@ coriaceous=JJ=all
 coriander=noun_U=all
 cork=noun_UN=all
 cork=verb=all
+corkage=noun_UN=all
 corked=JJ=all
 corker=noun=all
 corkiness=NN:U=all
@@ -62884,6 +62907,7 @@ countercurrently=RB=all
 countercyclical=JJ=all
 counterdemand=noun=all
 countereffort=noun=all
+counterespionage=noun_UN=all
 counterevidence=noun=all
 counterexample=noun=all
 counterfactual=JJ=all
@@ -62906,6 +62930,9 @@ counterhypothesis [pl. counterhypotheses]=noun=all
 counterimage=noun=all
 counterinstance=noun=all
 counterinsurgency=noun=all
+counterinsurgent=JJ=all
+counterinsurgent=noun=all
+counterintelligence=noun_UN=all
 counterintuitive=JJ=all
 counterintuitively=RB=all
 counterirritant=JJ=all
@@ -66213,6 +66240,7 @@ demijohn=noun=all
 demilitarization|demilitarisation=noun_UN=us,ca,gb|gb,au,nz,za
 demilitarize|demilitarise=verb=us,ca,gb|gb,au,nz,za
 demilune=noun=all
+demimonde=noun_UN=all
 demine=verb=all
 demineralization|demineralisation=noun_UN=us,ca,gb|gb,au,nz,za
 demineralizer|demineraliser=noun=us,ca,gb|gb,au,nz,za
@@ -66977,6 +67005,7 @@ detergent=detergent/NN,detergent/NN:U,detergents/NNS=all
 deteriorate=verb=all
 deterioration=noun_U=all
 deteriorative=JJ=all
+determent=noun_UN=all
 determinable=JJ=all
 determinableness=NN:U=all
 determinably=RB=all
@@ -68488,6 +68517,7 @@ disparate=noun=all
 disparately=RB=all
 disparateness=NN:U=all
 disparity=noun_UN=all
+dispassion=noun_UN=all
 dispassionate=JJ=all
 dispassionately=RB=all
 dispassionateness=NN:U=all
@@ -69006,6 +69036,7 @@ divvy=noun=all
 divvy=verb=all
 diwan=noun=all
 dixie=noun=all
+dixieland=noun_UN=all
 dizygotic=JJ=all
 dizzied=JJ=all
 dizzily=RB=all
@@ -69590,6 +69621,7 @@ downstair=JJ=all
 downstairs=JJ=all
 downstairs=NN=all
 downstairs=RB=all
+downstate=noun_UN=all
 downstream=JJ=all
 downstream=RB=all
 downstream=verb=all
@@ -69977,6 +70009,7 @@ drugstore=noun=au,ca,us
 druid=noun=all
 druidic=JJ=all
 druidical=JJ=all
+druidism=noun_UN=all
 drum=noun=all
 drum=verb=all
 drumbeat=noun=all
@@ -70602,6 +70635,7 @@ ebullience=noun_U=all
 ebulliency=noun=all
 ebullient=JJ=all
 ebulliently=RB=all
+ebullition=noun_UN=all
 ecalcarate=JJ=all
 ecarinate=JJ=all
 ecaudate=JJ=all
@@ -74704,6 +74738,7 @@ fagaceous=JJ=all
 fagging=noun_UN=all
 faggot=noun=all
 faggoting=noun_U=all
+faience=noun_UN=all
 fail-safe=fail-safe/JJ,failsafe/JJ=all
 fail-safe=noun=all
 fail=noun_U=all
@@ -75089,6 +75124,7 @@ fatalistically=RB=all
 fatality=noun_UN=all
 fatally=RB=all
 fatalness=NN:U=all
+fatback=noun=all
 fate=noun_UN=all
 fate=verb=all
 fated=JJ=all
@@ -75250,6 +75286,7 @@ feat=JJ=all
 feat=noun=all
 feather=noun=all
 feather=verb=all
+featherbedding=noun_UN=all
 featherbrained=JJ=all
 feathered=JJ=all
 featherheaded=JJ=all
@@ -76094,6 +76131,7 @@ firestone=noun_U=all
 firestorm=noun=all
 firetail=noun=all
 firewall=noun=all
+firewater=noun_UN=all
 fireweed=noun=all
 firewoman [pl. firewomen]=noun=all
 firewood=noun_U=all
@@ -76321,6 +76359,7 @@ flagless=JJ=all
 flagman [pl. flagmen]=noun=all
 flagon=noun=all
 flagpole=noun=all
+flagrance=noun_UN=all
 flagrancy=noun_U=all
 flagrant=JJ=all
 flagrantly=RB=all
@@ -76581,6 +76620,7 @@ flexionless=JJ=all
 flexitarian=noun=all
 flexographic=JJ=all
 flexor=noun=all
+flextime=noun_UN=all
 flexuosity=noun_UN=all
 flexuous=JJ=all
 flexuously=RB=all
@@ -77065,6 +77105,7 @@ folklorist=noun=all
 folkloristic=JJ=all
 folksiness=NN:U=all
 folksinger=noun=all
+folksinging=noun_UN=all
 folksong=noun=all
 folksy=folksy/JJ,folksier/JJR,folksiest/JJS=all
 folktale=noun=all
@@ -77739,6 +77780,7 @@ fowler=noun=all
 fowling=noun_UN=all
 fox=noun=all
 fox=verb=all
+foxfire=noun_UN=all
 foxglove=noun=all
 foxhole=noun=all
 foxhound=noun=all
@@ -78106,6 +78148,7 @@ fritillary=noun=all
 frittata=noun=all
 fritter=noun=all
 fritter=verb=all
+fritz=NN:U=all
 frivol [-ll-]|frivol=verb=all|us
 frivolity=noun_UN=all
 frivolous=JJ=all
@@ -80152,6 +80195,7 @@ glooming=JJ=all
 glooming=noun=all
 gloomy=gloomy/JJ,gloomier/JJR,gloomiest/JJS=all
 gloopiness=NN:U=all
+glop=noun_UN=all
 glorifiable=JJ=all
 glorification=noun_U=all
 glorifier=noun=all
@@ -80614,6 +80658,7 @@ gormandizer|gormandiser=noun=us,ca,gb|gb,au,nz,za
 gormandize|gormandise=verb=us,ca,gb|gb,au,nz,za
 gormless=JJ=all
 gormlessness=NN:U=all
+gorp=noun=all
 gorse=noun_U=all
 gory=gory/JJ,gorier/JJR,goriest/JJS=all
 gosh=UH=all
@@ -80855,6 +80900,7 @@ granitoid=JJ=all
 granivorous=JJ=all
 grannie=noun=all
 granny=noun=all
+granola=noun_UN=all
 granolithic=JJ=all
 granophyric=JJ=all
 grant=noun_UN=all
@@ -82479,6 +82525,7 @@ hardness=NN:U=all
 hardpan=noun=all
 hardscrabble=JJ=all
 hardship=noun_UN=all
+hardtack=noun=all
 hardtop=noun=all
 hardware-agnostic=JJ=all
 hardware=noun_U=all
@@ -83969,6 +84016,7 @@ highflown=JJ=all
 highflying=JJ=all
 highhanded=JJ=all
 highhandedly=RB=all
+highhandedness=NN:U=all
 highland=highland/JJ,highlander/JJR=all
 highland=noun=all
 highlander=noun=all
@@ -84404,6 +84452,7 @@ homeliness=NN:U=all
 homely=homely/JJ,homelier/JJR,homeliest/JJS=all
 homemade=JJ=all
 homemaker=noun=au,ca,us
+homemaking=noun_UN=all
 homeness=NN:U=all
 homeomeric=JJ=all
 homeomorphic=JJ=all
@@ -84477,6 +84526,7 @@ hominization|hominisation=noun_UN=us,ca,gb|gb,au,nz,za
 hominize|hominise=verb=us,ca,gb|gb,au,nz,za
 hominoid=JJ=all
 hominoid=noun=all
+hominy=noun=all
 homo=noun_UN=all
 homocentric=JJ=all
 homocercal=JJ=all
@@ -84641,6 +84691,7 @@ honorless|honourless=JJ=us|gb,ca,au,nz,za
 honorous=JJ=all
 honor|honour=noun_UN=us|gb,ca,au,nz,za
 honor|honour=verb=us|gb,ca,au,nz,za
+hooch=noun_UN=all
 hood=noun=all
 hood=verb=all
 hooded=JJ=all
@@ -84813,6 +84864,7 @@ horsefeathers=UH=all
 horseflesh=horseflesh/NN:U,horseflesh/NNS=all
 horsefly=noun=all
 horsehair=noun_U=all
+horsehide=noun=all
 horseleech=noun=all
 horseless=JJ=all
 horselike=JJ=all
@@ -85063,6 +85115,7 @@ huckaback=noun_U=all
 huckleberry=noun=all
 huckster=noun=all
 huckster=verb=all
+hucksterism=noun_UN=all
 huddle=noun=all
 huddle=verb=all
 huddler=noun=all
@@ -88414,6 +88467,7 @@ infraspinatus=infraspinatus/NN,infraspinati/NNS=all
 infrastructural=JJ=all
 infrastructure=noun_UN=all
 infraumbilical=JJ=all
+infrequence=noun_UN=all
 infrequency=noun_U=all
 infrequent=JJ=all
 infrequently=RB=all
@@ -91135,6 +91189,7 @@ jimmy=noun=all
 jimmy=verb=all
 jimply=RB=all
 jimpness=NN:U=all
+jimsonweed=noun_UN=all
 jingle=noun=all
 jingle=verb=all
 jinglingly=RB=all
@@ -92189,6 +92244,7 @@ koala=noun=all
 koan=noun=all
 kobold=noun=all
 koel=noun=all
+kohl=noun_UN=all
 kohlrabi=kohlrabi/NN:UN,kohlrabies/NNS,kohlrabis/NNS=all
 kohlrabies=kohlrabies/NN,kohlrabies/NNS=all
 koine=noun=all
@@ -92435,6 +92491,7 @@ ladylike=JJ=all
 ladylikeness=NN:U=all
 ladylove=noun=all
 ladyship=noun_U=all
+laetrile=noun_UN=all
 laevo=JJ=all
 laevogyrate=JJ=all
 laevorotatory=JJ=all
@@ -92992,6 +93049,7 @@ lay-off=noun=all
 lay=JJ=all
 lay=noun=all
 layabout=noun=all
+layaway=noun_UN=all
 layer=noun=all
 layer=verb=all
 layered=JJ=all
@@ -93787,6 +93845,7 @@ lighter=noun_UN=all
 lighter=verb=all
 lighterage=noun_U=all
 lighterman [pl. lightermen]=noun=all
+lightface=noun_UN=all
 lightfaced=JJ=all
 lightfast=JJ=all
 lightfastness=NN:U=all
@@ -94264,6 +94323,7 @@ liturgiological=JJ=all
 liturgist=noun=all
 liturgistic=JJ=all
 liturgy=noun_UN=all
+livability=noun_UN=all
 livableness|liveableness=NN:U=us|gb,ca,au,nz,za
 livable|liveable=JJ=us|gb,ca,au,nz,za
 live-action=JJ=all
@@ -94336,11 +94396,13 @@ loam=noun_U=all
 loaminess=NN:U=all
 loamless=JJ=all
 loamy=loamy/JJ,loamier/JJR,loamiest/JJS=all
+loan-sharking=NN:U=all
 loan=noun_UN=all
 loan=verb=all
 loanable=JJ=all
 loaner=noun=all
 loaning=noun_UN=all
+loansharking=NN:U=all
 loanword=noun=all
 loath=loath/JJ,loather/JJR,loathest/JJS=all
 loathe=verb=all
@@ -95353,7 +95415,8 @@ mackerel=mackerel/NN,mackerel/NNS,mackerels/NNS=all
 mackinawed=JJ=all
 mackintosh=noun=all
 mackintoshed=JJ=all
-macramé=NN:U=all
+macrame=noun_UN=all # macramé
+macramé=noun_UN=all
 macrencephalic=JJ=all
 macrencephalous=JJ=all
 macro=JJ=all
@@ -95870,6 +95933,7 @@ manducate=verb=all
 manducatory=JJ=all
 mane=noun=all
 maned=JJ=all
+manege=noun_UN=all # manège
 maneless=JJ=all
 maneuverability|manoeuvrability=noun_U=us|au,ca,gb,nz,za
 maneuverable|manoeuvrable=JJ=us|au,ca,gb,nz,za
@@ -96587,6 +96651,7 @@ mayhap=RB=all
 mayhem=noun_U=all
 maying=noun=all
 mayn't=contraction=all
+mayo=noun_UN=all
 mayonnaise=noun_U=all
 mayor=noun=all
 mayoral=JJ=all
@@ -98195,6 +98260,7 @@ milkwort=noun=all
 milky=milky/JJ,milkier/JJR,milkiest/JJS=all
 mill=noun=all
 mill=verb=all
+millage=noun_UN=all
 millboard=noun_U=all
 milled=JJ=all
 millenarian=JJ=all
@@ -99598,6 +99664,7 @@ morning=JJ=all
 morning=noun_UN=all
 morningness=NN:U=all
 mornings=RB=all
+morocco=noun_UN=all
 moron=noun=all
 moronic=JJ=all
 moronically=RB=all
@@ -99888,6 +99955,7 @@ mowburnt=JJ=all
 mower=noun=all
 mowing=noun_UN=all
 mown=JJ=all
+moxie=noun_UN=all
 mozzarella=noun_U=all
 mp=abbreviation=all
 mpg=NN=all
@@ -100439,6 +100507,8 @@ mum=mum/JJ,mummer/JJR=all
 mumble=noun=all
 mumble=verb=all
 mumbler=noun=all
+mumblety-peg=noun_UN=all
+mumbletypeg=noun_UN=all
 mumbling=JJ=all
 mumbling=noun_UN=all
 mumblingly=RB=all
@@ -102554,6 +102624,7 @@ nonalgebraically=RB=all
 nonalienating=JJ=all
 nonalignable=JJ=all
 nonaligned=JJ=all
+nonalignment=noun_UN=all
 nonalkaloidal=JJ=all
 nonallegorical=JJ=all
 nonallegorically=RB=all
@@ -102670,6 +102741,7 @@ nonautomatically=RB=all
 nonautomotive=JJ=all
 nonautonomous=JJ=all
 nonautonomously=RB=all
+nonavailability=noun_UN=all
 nonavoidable=JJ=all
 nonaxiomatic=JJ=all
 nonbacterial=JJ=all
@@ -104128,6 +104200,7 @@ nonoccidental=JJ=all
 nonocclusive=JJ=all
 nonocculting=JJ=all
 nonoccupational=JJ=all
+nonoccurence=noun_UN=all
 nonoccurrence|non-occurrence=noun=au,ca,us|gb,nz,za
 nonoffensive=JJ=all
 nonofficially=RB=all
@@ -105930,6 +106003,7 @@ obstruent=noun=all
 obtain=verb=all
 obtainable=JJ=all
 obtainer=noun=all
+obtainment=noun_UN=all
 obtect=JJ=all
 obtrude=verb=all
 obtruder=noun=all
@@ -106395,6 +106469,7 @@ olecranon=noun=all
 olefin=noun=all
 olefinic=JJ=all
 oleic=JJ=all
+oleo=noun_UN=all
 oleograph=noun=all
 oleographic=JJ=all
 oleomargarine=noun_U=all
@@ -107312,6 +107387,7 @@ orthotopic=JJ=all
 orthotropic=JJ=all
 orthotropous=JJ=all
 ortolan=noun=all
+orzo=noun_UN=all
 oscillate=verb=all
 oscillation=noun_UN=all
 oscillator=noun=all
@@ -107710,6 +107786,7 @@ oven=noun=all
 ovenbird=noun=all
 ovenlike=JJ=all
 ovenproof=JJ=all
+ovenware=noun_UN=all
 over-costly=RB=all
 over-deliver=verb=all
 over-reported=JJ=all
@@ -108856,6 +108933,7 @@ p-type=JJ=all
 p=abbreviation=all
 pH=pH/NN:U,pH/NNP,pHs/NNS=all
 pa=noun=all
+pablum=noun_UN=all
 pabulum=noun_U=all
 pace=noun_UN=all
 pace=verb=all
@@ -109155,6 +109233,7 @@ palettelike=JJ=all
 palewise=JJ=all
 palewise=RB=all
 palfrey=noun=all
+palimony=noun_UN=all
 palimpsest=JJ=all
 palimpsest=noun=all
 palindrome=noun=all
@@ -110391,6 +110470,7 @@ payment=noun_UN=all
 paynim=noun=all
 payoff=JJ=all
 payoff=noun=all
+payola=noun_UN=all
 payout=noun=all
 payphone=noun=all
 payroll=payroll/NN,payroll/NN:U,payrolls/NNS=all
@@ -110866,6 +110946,7 @@ pentose=noun_U=all
 pentoxide=noun_U=all
 pentstemon=noun=all
 pentyl=noun=all
+penuche=noun_UN=all
 penult=noun=all
 penultimate=JJ=all
 penultimate=noun=all
@@ -111620,6 +111701,7 @@ petrographical=JJ=all
 petrographically=RB=all
 petrography=noun=all
 petrol=noun_U=all
+petrolatum=noun_UN=all
 petroleous=JJ=all
 petroleum=noun_U=all
 petrolic=JJ=all
@@ -112853,6 +112935,7 @@ pixiness=NN:U=all
 pixyish=JJ=all
 pizazz=noun_U=all
 pizza=pizza/NN,pizza/NN:U,pizzas/NNS=all
+pizzazz=noun_UN=all
 pizzeria=noun=all
 pizzicato=pizzicato/NN,pizzicati/NNS,pizzicatos/NNS=all
 piñata=noun=all
@@ -112907,6 +112990,7 @@ plagiaristic=JJ=all
 plagiarization|plagiarisation=noun_UN=us,ca,gb|gb,au,nz,za
 plagiarizer|plagiariser=noun=us,ca,gb|gb,au,nz,za
 plagiarize|plagiarise=verb=us,ca,gb|gb,au,nz,za
+plagiary=noun_UN=all
 plagihedral=JJ=all
 plagiocephalic=JJ=all
 plagioclase=noun=all
@@ -113130,6 +113214,7 @@ play=noun_UN=all
 play=verb=all
 playability=noun_UN=all
 playable=JJ=all
+playacting=noun_UN=all
 playback=noun=all
 playbill=noun=all
 playbook=noun=all
@@ -114201,6 +114286,7 @@ portrayal=noun_UN=all
 portrayed=JJ=all
 portrayer=noun=all
 portraying=NN:UN=all
+portulaca=noun_UN=all
 portulacaceous=JJ=all
 pose=noun=all
 pose=verb=all
@@ -117819,6 +117905,7 @@ puckery=puckery/JJ,puckerier/JJR,puckeriest/JJS=all
 puckish=JJ=all
 puckishly=RB=all
 puckishness=NN:U=all
+pud=noun_UN=gb # pudding
 pudding=noun_UN=all
 puddinglike=JJ=all
 puddle=noun_UN=all
@@ -119085,6 +119172,7 @@ radically=RB=all
 radicalness=NN:U=all
 radicand=noun=all
 radicant=JJ=all
+radicchio=noun_UN=all
 radicle=noun=all
 radiculopathy=noun_UN=all
 radiculose=JJ=all
@@ -119253,6 +119341,7 @@ raining=JJ=all
 rainless=JJ=all
 rainlessness=NN:U=all
 rainmaker=noun=all
+rainmaking=noun_UN=all
 rainproof=JJ=all
 rainstorm=noun=all
 rainwater=noun_U=all
@@ -120014,6 +120103,7 @@ rebuttal=noun=all
 rebutter=noun=all
 rebuy [rebuys;rebought;rebought;rebuying]=verb=all
 rebuy=noun=all
+rec=abbreviation=all
 recalcitrance=noun_U=all
 recalcitrant=JJ=all
 recalcitrant=noun=all
@@ -122844,6 +122934,7 @@ rickettsia=noun=all
 rickettsial=JJ=all
 rickety=rickety/JJ,ricketier/JJR,ricketiest/JJS=all
 rickey=noun=all
+rickrack=noun_UN=all
 rickshaw=noun=all
 ricochet [ricochets;ricocheted,ricochetted;ricocheted,ricochetted;ricocheting,ricochetting]=verb=all
 ricochet=noun_UN=all
@@ -122862,6 +122953,7 @@ rideable=JJ=all
 rident=JJ=all
 rider=noun=all
 riderless=JJ=all
+ridership=noun_UN=all
 ridge=noun=all
 ridge=verb=all
 ridgelike=JJ=all
@@ -124168,7 +124260,6 @@ saintlily=RB=all
 saintliness=NN:U=all
 saintly=RB=all
 saintly=saintly/JJ,saintlier/JJR,saintliest/JJS=all
-saith=VBZ=all
 sake=noun_U=all
 saker=noun=all
 saki=noun_U=all
@@ -124521,6 +124612,7 @@ saprozoic=JJ=all
 sapsucker=noun=all
 sapwood=noun_U=all
 saraband=noun=all
+saran=noun_UN=all
 sarangi=noun=all
 sarcasm=noun_UN=all
 sarcastic=JJ=all
@@ -124756,7 +124848,7 @@ saxitoxin=noun=all
 saxophone=noun=all
 saxophonic=JJ=all
 saxophonist=noun=all
-say [says;said;said;saying]=verb=all
+say [says,saith;said;said;saying]=verb=all # saith is archaic
 say-so=noun=all
 say=noun=all
 say=sayer/JJR,sayest/JJS=all
@@ -125050,6 +125142,7 @@ schizotypal=JJ=all
 schlep=noun=all
 schlep=verb=all
 schlock=noun_U=all
+schmaltz=noun_UN=all
 schmaltzy=schmaltzy/JJ,schmaltzier/JJR,schmaltziest/JJS=all
 schmancy=JJ=all # informal
 schmooze=verb=all
@@ -128528,6 +128621,7 @@ sirenlike=JJ=all
 sirloin=noun_UN=all
 sirocco=noun=all
 sirrah=noun=all
+sirree=noun_UN=all
 sirupy=JJ=all
 sis=sis/NN,sises/NNS,sisses/NNS=all
 sisal=noun_U=all
@@ -128647,6 +128741,7 @@ sizzle=verb=all
 sizzler=noun=all
 sizzling=NN:UN=all
 sizzlingly=RB=all
+ska=noun_UN=all
 skaldic=JJ=all
 skank=noun=all
 skanky=JJ=all
@@ -128715,6 +128810,7 @@ skid=verb=all
 skidproof=JJ=all
 skier=noun=all
 skiff=noun=all
+skiffle=noun_UN=all
 skiing=noun_U=all
 skijoring=skijoring/NN,skijoring/NN:U,skijorings/NNS=all
 skilfully|skillfully=RB=au,ca,gb,nz,za|us
@@ -128852,6 +128948,7 @@ skyward=noun=all
 skywards=RB=all
 skywatching=NN:U=all
 skyway=noun=all
+skywriting=noun_UN=all
 slab-sided=JJ=all
 slab=noun=all
 slab=verb=all
@@ -131411,6 +131508,7 @@ spryness=NN:U=all
 spud=noun=all
 spume=noun_U=all
 spume=verb=all
+spumoni=noun_UN=all
 spumy=spumy/JJ,spumier/JJR,spumiest/JJS=all
 spunk=noun_U=all
 spunk=verb=all
@@ -132041,6 +132139,7 @@ steamboat=noun=all
 steamed=JJ=all
 steamer=noun=all
 steamerless=JJ=all
+steamfitting=noun_UN=all
 steamily=RB=all
 steaminess=NN:U=all
 steaming=JJ=all
@@ -132117,6 +132216,7 @@ stem=verb=all
 stemless=JJ=all
 stemlike=JJ=all
 stemmed=JJ=all
+stemware=noun_UN=all
 stench=noun=all
 stenchful=JJ=all
 stencil [-ll-]|stencil=verb=all|us
@@ -134207,9 +134307,11 @@ succorer|succourer=noun=us|gb,ca,au,nz,za
 succorless|succourless=JJ=us|gb,ca,au,nz,za
 succor|succour=noun_UN=us|gb,ca,au,nz,za
 succor|succour=verb=us|gb,ca,au,nz,za
+succotash=noun_UN=all
 succubous=JJ=all
 succubus=succubus/NN,succubi/NNS,succubuses/NNS=all
 succulence=noun_U=all
+succulency=noun_UN=all
 succulent=JJ=all
 succulent=noun=all
 succulently=RB=all
@@ -134530,6 +134632,7 @@ suntan [-nn-]=verb=all
 suntan=noun_UN=all
 suntanned=JJ=all
 suntrap=noun=all
+sunup=noun_UN=all
 sunward=JJ=all
 sunward=RB=all
 sunward=noun=all
@@ -135625,6 +135728,7 @@ syllabary=noun=all
 syllabic=JJ=all
 syllabic=noun=all
 syllabically=RB=all
+syllabication=noun_UN=all
 syllabification=noun_U=all
 syllabify=verb=all
 syllabize|syllabise=verb=us,ca,gb|gb,au,nz,za
@@ -137019,6 +137123,7 @@ tentless=JJ=all
 tentlike=JJ=all
 tentmaker=noun=all
 tentorial=JJ=all
+tenuity=noun_UN=all
 tenuous=JJ=all
 tenuously=RB=all
 tenuousness=NN:U=all
@@ -137189,6 +137294,7 @@ terrorize|terrorise=verb=us,ca,gb|gb,au,nz,za
 terrorless=JJ=all
 terry=noun_U=all
 terry=terry/JJ,terrier/JJR=all
+terrycloth=noun_UN=all
 terse=terse/JJ,terser/JJR,tersest/JJS=all
 tersely=RB=all
 terseness=NN:U=all
@@ -138130,6 +138236,7 @@ thyrsus=thyrsus/NN,thyrsi/NNS=all
 thysanurous=JJ=all
 thyself=PRP=all
 thyssenkrupp=NNP=all
+ti=noun_UN=all # can create confusion pairs?
 tiara=noun=all
 tiaraed=JJ=all
 tiaralike=JJ=all
@@ -138156,6 +138263,7 @@ ticklish=JJ=all
 ticklishly=RB=all
 ticklishness=NN:U=all
 tickly=JJ=all
+ticktacktoe=NN:U=all
 ticky=noun=none # unusual
 tidal=JJ=all
 tidally=RB=all
@@ -138333,6 +138441,7 @@ timocratical=JJ=all
 timorous=JJ=all
 timorously=RB=all
 timorousness=NN:U=all
+timothy=noun_UN=all
 timpani=timpani/NN,timpani/NNS=all
 timpanist=noun=all
 tin-glazed=JJ=all
@@ -138624,6 +138733,7 @@ tokenization|tokenisation=noun_UN=us,ca,gb|gb,au,nz,za
 tokenizer|tokeniser=noun=us,ca,gb|gb,au,nz,za
 tokenize|tokenise=verb=us,ca,gb|gb,au,nz,za
 tokomak=noun=all
+tole=noun_UN=all
 tolerability=noun_UN=all
 tolerable=JJ=all
 tolerableness=NN:U=all
@@ -140589,6 +140699,7 @@ tuition=noun_U=all
 tuitional=JJ=all
 tuitionary=JJ=all
 tularaemic=JJ=all
+tularemia=noun_UN=all
 tularemic=JJ=all
 tulip=noun=all
 tuliplike=JJ=all
@@ -141085,6 +141196,7 @@ typical=JJ=all
 typicality=noun_U=all
 typically=RB=all
 typicalness=NN:U=all
+typification=noun_UN=all
 typifier=noun=all
 typify=verb=all
 typing=noun_U=all
@@ -151431,6 +151543,7 @@ valetudinarian=noun=all
 valetudinarianism=noun_U=all
 valgus=JJ=all
 valgus=noun=all
+valiance=noun_UN=all
 valiant=JJ=all
 valiant=noun=all
 valiantly=RB=all
@@ -151733,6 +151846,7 @@ vegetativeness=NN:U=all
 vegetive=JJ=all
 veggie=noun=all
 vehemence=noun_U=all
+vehemency=noun_UN=all # archaic
 vehement=JJ=all
 vehemently=RB=all
 vehicle=noun=all
@@ -152713,6 +152827,7 @@ voluntary=JJ=all
 voluntary=noun=all
 volunteer=noun=all
 volunteer=verb=all
+volunteerism=noun_UN=all
 voluptuary=JJ=all
 voluptuary=noun=all
 voluptuous=JJ=all
@@ -152731,6 +152846,7 @@ vomitory=JJ=all
 voodoo=JJ=all
 voodoo=noun_U=all
 voodoo=verb=all
+voodooism=noun_UN=all
 voodooistic=JJ=all
 voracious=JJ=all
 voraciously=RB=all
@@ -152866,6 +152982,7 @@ wager=noun=all
 wager=verb=all
 wageworker=noun=all
 wageworking=JJ=all
+waggery=noun_UN=all
 waggish=JJ=all
 waggishly=RB=all
 waggishness=NN:U=all
@@ -152922,6 +153039,7 @@ waitlist=verb=all
 waitress=noun=all
 waitress=verb=all
 waitressing=NN:U=all
+waitstaff=noun_UN=all
 waive=verb=all
 waiver=noun=all
 wakame=wakame/NN,wakame/NN:U,wakames/NNS=all
@@ -152970,6 +153088,7 @@ wall-to-wall=JJ=all
 wall=noun=all
 wall=verb=all
 wallaby=wallaby/NN,wallabies/NNS,wallaby/NNS=all
+wallboard=noun_UN=all
 wallcovering=noun=all
 wallcreeper=noun=all
 walled=JJ=all
@@ -154949,6 +155068,7 @@ worried=JJ=all
 worriedly=RB=all
 worrier=noun=all
 worriless=JJ=all
+worriment=noun_UN=all
 worrisome=JJ=all
 worrisomely=RB=all
 worrisomeness=NN:U=all
@@ -155524,6 +155644,8 @@ yucky=yucky/JJ,yuckier/JJR,yuckiest/JJS=all
 yuk=UH=all
 yuk=noun=all
 yuk=verb=all
+yule=noun_UN=all
+yuletide=noun_UN=all
 yum-yum=UH=all
 yum=JJ=all
 yum=UH=all
@@ -155685,6 +155807,7 @@ zincoid=JJ=all
 zincous=JJ=all
 zincy=JJ=all
 zine=noun=all
+zinfandel=noun_UN=all
 zing=noun_U=all
 zing=verb=all
 zingiberaceous=JJ=all

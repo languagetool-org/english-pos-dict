@@ -1,3 +1,4 @@
+
 'strewth=UNTAGGED=gb
 'struth=UNTAGGED=gb
 -war=UNTAGGED=gb
@@ -2104,7 +2105,6 @@ Andromedae=UNTAGGED=gb
 Andromede=NNP=none
 Androphonos=NNP=none
 Andropogon=NNP=none
-Andropov=UNTAGGED=au,ca,us
 Androw=NNP=none
 Andrsy=NNP=none
 Andrus=NNP=none
@@ -56816,7 +56816,6 @@ airward=noun=none
 airwave=noun=us-large
 aisleless=UNTAGGED=gb
 aisleway=noun=none
-aisling=aisling/NN,aisling/NNS=gb,nz,za
 aitchless=UNTAGGED=gb
 aitu=noun=none
 aiver=noun=none
@@ -58147,7 +58146,6 @@ anglophobe=noun=none
 anglophobic=JJ=none
 angolan=JJ=none
 angor=NN=none
-angostura=noun_U=au,ca,us
 angraecum=NN=none
 angrecum=NN=none
 angry-looking=JJ=none
@@ -59488,7 +59486,6 @@ apple-cart=UNTAGGED=gb,nz,za
 apple-carts=UNTAGGED=gb
 apple-pies=UNTAGGED=gb
 applecart=noun=us-large
-applejack=noun_U=au,ca,us
 applemint=NN=none
 applesnits=NN=none
 appliqua=JJ=none
@@ -60222,7 +60219,6 @@ ascaridae=NN=none
 ascaridia=NN=none
 ascaridole=NN=none
 ascaris=NN=gb,nz,za
-ascendance=noun_U=au,ca,us
 ascendence=noun=none
 ascendency=noun_U=gb,nz,za
 ascendent=JJ=none
@@ -62127,7 +62123,6 @@ barbotine=NN=none
 barbu=NN=none
 barbudo=NN=none
 barbut=noun=none
-barbwire=noun_U=au,ca,us
 barca=noun=none
 barcarolle=noun=gb
 barchane=noun=none
@@ -63447,7 +63442,6 @@ billiardist=NN=none
 billibi=noun=none
 billibis=billibis/NN,billibis/NNS=none
 billie=noun=none
-billingsgate=noun_U=au,ca,us
 billionairess=noun=none
 billionfold=UNTAGGED=gb,nz,za
 billman=billman/NN,billmen/NNS=none
@@ -64711,7 +64705,6 @@ bollix=noun=au,ca,us
 bollix=verb=au,ca,us
 bollock=noun=none
 bolo=noun=us-large
-bologna=noun_U=au,ca,us
 bolognaise=UNTAGGED=gb
 bolognaises=UNTAGGED=gb
 bologneses=UNTAGGED=gb
@@ -65682,7 +65675,6 @@ bridgetree=NN=none
 bridgewall=NN=none
 bridie=noun=none
 bridler=noun=none
-brie=noun_U=au,ca,us
 brierpatch=NN=none
 brierroot=noun=us-large
 brierwood=noun=us-large
@@ -67801,7 +67793,6 @@ carelines=UNTAGGED=gb
 caretaking=noun=none
 caretta=NN=none
 carex=carex/NN,carices/NNS=none
-carfare=noun_U=au,ca,us
 carfax=noun=none
 carfloat=NN=none
 carfuffle=noun=none
@@ -69348,7 +69339,6 @@ cheveron=noun=none
 chevesaile=noun=none
 cheville=noun=none
 chevin=noun=none
-cheviot=noun_U=au,ca,us
 chevon=NN:U=none
 chevre=noun=us-large
 chevret=noun=none
@@ -69640,7 +69630,6 @@ chlorapatite=UNTAGGED=gb
 chlorargyrite=NN=none
 chlorastrolite=NN=none
 chlordan=noun=us-large
-chlordane=noun_U=au,ca,us
 chlordiazepoxidably=UNTAGGED=gb
 chlordiazepoxidally=UNTAGGED=gb
 chlordiazepoxidation=UNTAGGED=gb
@@ -71585,7 +71574,6 @@ coinventor=noun=none
 coinvestigator=noun=none
 coinvestment=NN=none
 coinvestor=noun=none
-coir=noun_U=au,ca,us
 coistrel=noun=none
 coistril=noun=none
 coitionably=UNTAGGED=gb
@@ -71902,7 +71890,6 @@ commoney=noun=none
 commonhold=UNTAGGED=gb
 commonsensicality=UNTAGGED=gb
 commonsensology=UNTAGGED=gb
-commonweal=noun_U=au,ca,us
 commonwealthman=UNTAGGED=gb
 commonwealthmen=UNTAGGED=gb
 commorancy=NN=us-large
@@ -72307,7 +72294,6 @@ congregationalise=UNTAGGED=gb
 congregationalised=UNTAGGED=gb
 congregationalises=UNTAGGED=gb
 congregationalising=UNTAGGED=gb
-congregationalism=noun_U=au,ca,us
 congregationalize=UNTAGGED=gb
 congregationalized=UNTAGGED=gb
 congregationalizes=UNTAGGED=gb
@@ -72457,7 +72443,6 @@ consolitoriness=NN=none
 consols=UNTAGGED=us-large
 consomm=NN=none
 consomma=NN=none
-consomme=noun_U=au,ca,us
 consonancy=noun=none
 consonantism=NN:UN=none
 consonous=UNTAGGED=gb
@@ -72942,7 +72927,6 @@ corival=noun=none
 corixa=NN=none
 corixidae=NN=none
 cork-tipped=JJ=none
-corkage=noun_U=au,ca,us
 corkboard=noun=ca,us
 corktree=noun=none
 corkwing=noun=none
@@ -73419,7 +73403,6 @@ counterdemonstration=noun_UN=gb
 counterdemonstrator=noun=none
 counterdeployment=noun=none
 counterearth=NN=none
-counterespionage=noun_U=au,ca,us
 counterfact=NN=none
 counterfactuality=NN:UN=none
 counterflashing=NN=none
@@ -73436,9 +73419,6 @@ counterhacks=UNTAGGED=all
 counterillumination=UNTAGGED=gb
 counterincentive=noun=none
 counterinstitution=noun_UN=none
-counterinsurgent=JJ=us-large
-counterinsurgent=noun=us-large
-counterintelligence=noun_U=au,ca,us
 counterinterpretation=noun_UN=none
 counterion=noun=gb
 counterirritation=noun_UN=gb
@@ -77101,7 +77081,6 @@ demiglace=NN:U=none
 demille=NN=none
 demimetope=NN=none
 demimondaine=noun=au,ca,us
-demimonde=noun_U=au,ca,us
 deminer=UNTAGGED=gb
 deminers=UNTAGGED=gb
 demipique=noun=none
@@ -77646,7 +77625,6 @@ detergence=noun=none
 detergency=noun_U=us-large
 deterger=noun=none
 deteriorationist=NN=none
-determent=noun_U=au,ca,us
 determinability=noun_UN=gb,nz,za
 determinates=UNTAGGED=gb,nz,za
 determinator=noun=none
@@ -78869,7 +78847,6 @@ disowner=noun=gb
 disparager=noun=gb,nz,za
 dispart=UNTAGGED=us-large
 dispartment=NN=none
-dispassion=noun_U=au,ca,us
 dispend=UNTAGGED=us-large
 dispensability=noun_UN=none
 dispensate=UNTAGGED=gb,nz,za
@@ -79116,7 +79093,6 @@ divulger=noun=none
 divulsion=noun=us-large
 divx=UNTAGGED=gb
 dixiecrats=NN=none
-dixieland=noun_U=au,ca,us
 dixit=noun=gb
 dixy=noun=none
 dixyrazine=UNTAGGED=all
@@ -79737,7 +79713,6 @@ downspin=noun=none
 downspout=noun=au,ca,us
 downstages=UNTAGGED=gb,nz,za
 downstate=downstate/JJ,downstater/JJR=au,ca,us
-downstate=noun_U=au,ca,us
 downstater=noun=none
 downtake=NN=none
 downthrew=UNTAGGED=gb
@@ -80050,7 +80025,6 @@ drugola=noun=none
 drugster=UNTAGGED=gb
 drugsters=UNTAGGED=gb
 druidess=noun=none
-druidism=noun_U=au,ca,us
 druidology=NN:UN=none
 drukkie=UNTAGGED=za
 drumbeater=noun=none
@@ -80651,7 +80625,6 @@ eboulement=noun=none
 ebrillade=noun=none
 ebullioscope=noun=none
 ebullioscopy=NN:U=none
-ebullition=noun_U=au,ca,us
 eburnation=noun=us-large
 eburophyton=NN=none
 ecad=noun=none
@@ -80741,7 +80714,6 @@ eclampsiatisable=UNTAGGED=gb
 eclampsiatiser=UNTAGGED=gb
 eclampsiatisers=UNTAGGED=gb
 eclampsiativeness=UNTAGGED=gb
-eclat=noun_U=au,ca,us
 eclecticist=NN=none
 eclipser=noun=none
 eclipsis=noun=gb
@@ -84427,7 +84399,6 @@ fagus=NN=none
 fah=noun=gb
 fahlband=noun=us-large
 faiade=NN=none
-faience=noun_U=au,ca,us
 fainaant=JJ=none
 fainaant=NN=none
 fainaiguer=NN=none
@@ -84717,7 +84688,6 @@ fatalesman=UNTAGGED=gb
 fatalesmen=UNTAGGED=gb
 fatalisability=UNTAGGED=gb
 fatalisable=UNTAGGED=gb
-fatback=noun_U=au,ca,us
 fatbird=noun=none
 fath=NN=us-large
 father-god=NN:UN=none
@@ -84792,7 +84762,6 @@ featherback=NN=gb
 featherbacks=UNTAGGED=gb
 featherbed [-dd-]=verb=us-large
 featherbed=noun=us-large
-featherbedding=noun_U=au,ca,us
 featherbone=NN=none
 featherbrain=noun=us-large
 feathercut=noun=us-large
@@ -85491,7 +85460,6 @@ firetruck=noun=au,ca,us
 firewalled=UNTAGGED=gb
 firewalling=UNTAGGED=gb
 firewarden=NN=us-large
-firewater=noun_U=au,ca,us
 firewheel=NN=none
 fireworm=noun=us-large
 firlot=noun=none
@@ -85630,7 +85598,6 @@ flagfish=flagfish/NN,flagfish/NNS=none
 flaggings=UNTAGGED=gb,nz,za
 flaggy=flaggy/JJ,flaggier/JJR,flaggiest/JJS=us-large
 flagitation=noun_UN=none
-flagrance=noun_U=au,ca,us
 flagrante=UNTAGGED=gb
 flagrantness=NN=none
 flagroot=NN=none
@@ -85830,7 +85797,6 @@ flexo=JJ=none
 flexo=NN:U=none
 flexographer=noun=none
 flexography=noun_U=gb
-flextime=noun_U=au,ca,us
 flexuosely=RB=none
 flexuoseness=NN=none
 fley=fley/JJ,flier/JJR,fliest/JJS=us-large
@@ -86237,7 +86203,6 @@ folkmot=noun=none
 folkmote=noun=none
 folkright=NN=none
 folksay=NN=none
-folksinging=noun_U=au,ca,us
 folkway=noun=au,ca,us
 folkweave=UNTAGGED=gb
 folky=folky/JJ,folkier/JJR,folkiest/JJS=gb
@@ -86684,7 +86649,6 @@ fowlpox=noun=none
 fox-fire=NN:UN=none
 fox-hunting=NN:UN=gb,nz,za
 foxberry=noun=none
-foxfire=noun_U=au,ca,us
 foxfish=foxfish/NN,foxfish/NNS=none
 foxhunt=noun=au,ca,us
 foxhunt=verb=au,ca,us
@@ -86950,7 +86914,6 @@ frithsoken=noun=none
 frithstool=noun=none
 fritillaria=noun=gb
 fritterer=noun=gb,nz,za
-fritz=noun_U=au,ca,us
 frivoler=noun=none
 frivoller=noun=none
 friz=friz/NN,frizzes/NNS=none
@@ -89134,7 +89097,6 @@ gloopier=UNTAGGED=gb
 gloopiest=UNTAGGED=gb
 gloops=UNTAGGED=gb
 gloopy=UNTAGGED=gb
-glop=noun_U=au,ca,us
 gloppy=gloppy/JJ,gloppier/JJR,gloppiest/JJS=au,ca,us
 gloria=noun=none
 gloriam=UNTAGGED=gb
@@ -89553,7 +89515,6 @@ godforsakennessisability=UNTAGGED=gb
 godforsakennessisable=UNTAGGED=gb
 godling=godling/NN,godling/NNS=none
 godroon=NN=us-large
-godspeed=noun_U=au,ca,us
 godward=noun=none
 goe=NN=none
 goel=noun=none
@@ -89832,7 +89793,6 @@ gormlessnessible=UNTAGGED=gb
 gormlessnession=UNTAGGED=gb
 gormlessnessisability=UNTAGGED=gb
 gormlessnessisable=UNTAGGED=gb
-gorp=noun_U=au,ca,us
 gorsedd=noun=none
 gorsy=gorsy/JJ,gorsier/JJR,gorsiest/JJS=gb
 gosainthan=NN=none
@@ -90058,7 +90018,6 @@ granitoids=UNTAGGED=gb
 granivore=NN=none
 grannam=noun=none
 granodiorite=noun=gb
-granola=noun_U=au,ca,us
 granolith=noun=none
 granophyre=noun=us-large
 grant-in-aid=grant-in-aid/NN,grants-in-aid/NNS=none
@@ -92282,7 +92241,6 @@ hards=UNTAGGED=gb,nz,us-large
 hardscape=noun=us
 hardstand=noun=au,ca,us
 hardstanding=noun=gb
-hardtack=noun_U=au,ca,us
 hardtail=NN=none
 hardwall=NN=none
 hardwareman=hardwareman/NN,hardwaremen/NNS=none
@@ -93579,7 +93537,6 @@ highdaddy=NN=none
 higher-up=noun=none
 highers=UNTAGGED=au,ca,us
 highest-quality=NN:UN=none
-highhandedness=noun_U=au,ca,us
 highhole=NN=none
 highish=UNTAGGED=gb,nz,us-large,za
 highjack=noun=none
@@ -94071,7 +94028,6 @@ homecraft=noun=none
 homefolk=homefolk/NN,homefolk/NNS=none
 homelyn=noun=none
 homemaking=JJ=au,ca,us
-homemaking=noun_U=au,ca,us
 homeobox=noun=gb
 homeodomain=UNTAGGED=gb
 homeodomains=UNTAGGED=gb
@@ -94114,7 +94070,6 @@ hominian=noun=none
 hominidae=NN=none
 hominines=UNTAGGED=all
 hominoidea=NN=none
-hominy=noun_U=au,ca,us
 homme=noun=gb
 hommock=noun=none
 hommos=noun=none
@@ -94296,7 +94251,6 @@ honkytonk=noun=none
 hoo-ha=NN=gb
 hoo-has=UNTAGGED=gb
 hoo=noun=us-large
-hooch=noun_U=au,ca,us
 hoodle=NN=none
 hoodlumism=noun_UN=us-large
 hoodman-blind=NN=none
@@ -94419,7 +94373,6 @@ horsedommation=UNTAGGED=gb
 horsefish=horsefish/NN,horsefish/NNS=none
 horsehaired=JJ=none
 horsehead=NN=none
-horsehide=noun_U=au,ca,us
 horselaugh=noun=au,ca,us
 horselaughter=NN=none
 horsemeat=noun_U=none
@@ -94686,7 +94639,6 @@ huckle=noun=none
 hucklebone=NN=none
 hucksterer=NN=none
 hucksteress=noun=none
-hucksterism=noun_U=au,ca,us
 huckstery=noun=none
 hudsonia=NN=none
 huemul=noun=none
@@ -97331,7 +97283,6 @@ infraorders=UNTAGGED=gb
 infrarenal=JJ=gb
 infras=UNTAGGED=gb
 infrasonics=NN:U=none
-infrequence=noun_U=au,ca,us
 infrigidation=NN:UN=none
 infructescence=UNTAGGED=gb
 infructescences=UNTAGGED=gb
@@ -99096,7 +99047,6 @@ jiminy=UH=none
 jimjam=noun=none
 jimp=jimp/JJ,jimper/JJR,jimpest/JJS=none
 jimpsonweed=NN=none
-jimsonweed=noun_U=au,ca,us
 jin=noun=none
 jingal=noun=none
 jingall=noun=none
@@ -100573,7 +100523,6 @@ koftas=UNTAGGED=gb
 koftgar=noun=none
 kogai=NN=none
 kogia=NN=none
-kohl=noun_U=au,ca,us
 kohleria=NN=none
 koi=koi/NN,koi/NNS,kois/NNS=none
 koilonychia=NN=none
@@ -101134,7 +101083,6 @@ ladykin=noun=none
 ladypalm=noun=none
 ladysnow=NN=none
 laelia=NN=none
-laetrile=noun_U=au,ca,us
 laevorotation=noun_UN=gb
 laevulin=NN=none
 laevulose=NN=gb,nz,za
@@ -101685,7 +101633,6 @@ laxation=noun_UN=us-large
 laxator=noun=none
 laxist=noun=none
 lay-up=NN=none
-layaway=noun_U=au,ca,us
 layby=NN=none
 laydown=NN=none
 layer-out=NN=none
@@ -102377,7 +102324,6 @@ light-pen=UNTAGGED=gb,nz,za
 light-pens=UNTAGGED=gb,nz,za
 lightboat=NN=none
 lightface=JJ=au,ca,us
-lightface=noun_U=au,ca,us
 lightful=JJ=none
 lightfully=RB=none
 lighthead=NN=none
@@ -102877,7 +102823,6 @@ liturgiology=noun_UN=gb
 liturgiologyible=UNTAGGED=gb
 liturgism=noun_UN=none
 lituus=noun=us-large
-livability=noun_U=au,ca,us
 live-and-die=NN=none
 live-bearer=NN=none
 live-forever=NN:U=none
@@ -102935,7 +102880,6 @@ loanblend=NN=none
 loanee=UNTAGGED=gb
 loanees=UNTAGGED=gb
 loanholder=noun=gb
-loansharking=noun_U=au,ca,us
 loanshift=noun=none
 loasa=NN=none
 loasaceae=NN=none
@@ -103806,7 +103750,6 @@ maconnais=NN=none
 macoun=NN=none
 macowanites=NN=none
 macram=NN=none
-macrame=noun_U=au,ca,us
 macramés=UNTAGGED=gb,nz,za
 macrencephaly=NN=none
 macroaggregate=noun=none
@@ -104441,7 +104384,6 @@ manduca=NN=none
 manducable=JJ=none
 manducation=noun_UN=gb
 mandyas=NN=none
-manege=noun_U=au,ca,us
 maneh=noun=none
 mangabeira=noun=none
 mangabey=noun=gb
@@ -105017,7 +104959,6 @@ mayfish=mayfish/NN,mayfish/NNS=none
 mayhappen=RB=none
 mayhaw=NN=none
 mayn=UNTAGGED=au,ca,nz,us,za
-mayo=noun_U=au,ca,us
 maypop=noun=none
 mayst=UNTAGGED=all
 mayvin=noun=none
@@ -105134,10 +105075,8 @@ mediatrix=mediatrix/NN,mediatrices/NNS,mediatrixes/NNS=gb
 medica=UNTAGGED=gb
 medicably=RB=none
 medicago=NN=none
-medicaid=noun_U=au,ca,us
 medicamental=JJ=gb
 medicant=noun=none
-medicare=noun_U=au,ca,us
 medicaster=noun=none
 medicide=noun=none
 mediciner=noun=none
@@ -106811,7 +106750,6 @@ mill-hand=NN:UN=none
 mill-rind=NN:UN=none
 mill-run=JJ=none
 millable=UNTAGGED=gb,nz,za
-millage=noun_U=au,ca,us
 millcake=noun=none
 milldam=noun=us-large
 millefeuille=noun=none
@@ -107994,7 +107932,6 @@ mormyrid=JJ=none
 mormyrid=NN=none
 mornay=noun=gb
 morning-glory=NN:UN=none
-morocco=noun_U=au,ca,us
 morogo=UNTAGGED=za
 morone=NN=none
 moronism=noun_UN=none
@@ -108233,7 +108170,6 @@ mowra=noun=none
 mowrah=NN=none
 moxa=noun_UN=us-large
 moxibustion=noun_UN=gb
-moxie=noun_U=au,ca,us
 moxieberry=NN=none
 moyl=noun=none
 moyle=noun=none
@@ -108343,7 +108279,6 @@ mudwort=noun=none
 mudwrestle=mudwrestle/VB,mudwrestle/VBP=none
 mueddin=noun=none
 muenchen=NN=none
-muenster=noun_U=au,ca,us
 muffetee=UNTAGGED=gb
 muffetees=UNTAGGED=gb
 muffineer=noun=gb
@@ -108719,7 +108654,6 @@ multum=noun_U=none
 multungulate=noun=none
 multurer=noun=none
 mulwi=NN=none
-mumbletypeg=noun_U=au,ca,us
 mumbo-jumbo=NN:U=gb,nz,za
 mumbo=UNTAGGED=gb,nz,za
 mumesic=UNTAGGED=gb
@@ -111560,7 +111494,6 @@ nonalgebraical=JJ=none
 nonalien=JJ=none
 nonalien=NN=none
 nonalienation=NN=none
-nonalignment=noun_U=au,ca,us
 nonalined=JJ=none
 nonalinement=NN=none
 nonalkaloid=JJ=none
@@ -111772,7 +111705,6 @@ nonauthoritatively=RB=none
 nonauthoritativeness=NN=none
 nonautobiographically=RB=none
 nonautonomousness=NN=none
-nonavailability=noun_U=au,ca,us
 nonavoidableness=NN=none
 nonavoidably=RB=none
 nonavoidance=NN=none
@@ -114101,7 +114033,6 @@ nonocclusion=NN=none
 nonoccult=JJ=none
 nonoccupant=NN=none
 nonoccupation=NN:UN=none
-nonoccurence=noun_U=au,ca,us
 nonodoriferous=JJ=none
 nonodoriferously=RB=none
 nonodoriferousness=NN=none
@@ -116307,7 +116238,6 @@ obstriction=noun_UN=none
 obstructivity=NN:UN=none
 obstupefying=UNTAGGED=gb
 obtainability=noun_UN=none
-obtainment=noun_U=au,ca,us
 obtention=noun_UN=gb
 obtest=UNTAGGED=us-large
 obtestation=noun_UN=gb
@@ -116705,7 +116635,6 @@ olefine=noun=gb
 oleiferous=UNTAGGED=gb
 olein=noun=us-large
 oleine=noun=none
-oleo=noun_U=au,ca,us
 oleography=noun=none
 oleomargaric=JJ=none
 oleomargarin=noun_U=none
@@ -117636,7 +117565,6 @@ oryzomyine=UNTAGGED=gb
 oryzomyines=UNTAGGED=gb
 oryzomys=NN=none
 oryzopsis=NN=none
-orzo=noun_U=au,ca,us
 os=noun=us-large
 oscillatoriaceae=NN=none
 oscillogram=noun=us-large
@@ -118013,7 +117941,6 @@ ovarium=NN=none
 ovately=UNTAGGED=us-large
 ovates=UNTAGGED=gb,nz,za
 ovenbake=ovenbake/VB,ovenbake/VBP=none
-ovenware=noun_U=au,ca,us
 ovenwood=NN=none
 over-abundance=UNTAGGED=nz,za
 over-abundances=UNTAGGED=nz,za
@@ -119289,7 +119216,6 @@ p.m.=UNTAGGED=gb
 pW=NNP=none
 paal=NN=none
 pabir=NN=none
-pablum=noun_U=au,ca,us
 paca=noun=gb
 paccha=NN=none
 pacemaking=noun=us-large
@@ -119516,7 +119442,6 @@ paletiology=NN=none
 paletot=noun=us-large
 palfrenier=noun=none
 palikar=noun=us-large
-palimony=noun_U=au,ca,us
 palimpsestic=UNTAGGED=us-large
 palindromical=JJ=gb
 palindromist=noun=us-large
@@ -120715,7 +120640,6 @@ paygrade=noun=none
 paymastership=NN=none
 paymistress=UNTAGGED=us-large
 paynimhood=NN=none
-payola=noun_U=au,ca,us
 payor=noun=none
 paysage=noun=gb
 paysagist=noun=gb
@@ -121223,7 +121147,6 @@ pentosyltransferases=UNTAGGED=gb
 pentoxifylline=NN=none
 pentroof=noun=none
 pentylenetetrazol=noun=us-large
-penuche=noun_U=au,ca,us
 penuchi=noun=none
 penuchis=penuchis/NN:U,penuches/NNS=none
 penuchle=noun=us-large
@@ -121771,7 +121694,6 @@ petroglyphy=UNTAGGED=all
 petrogram=NN=none
 petrograph=NN=none
 petrographer=noun=us-large
-petrolatum=noun_U=au,ca,us
 petroleur=noun=none
 petroleuse=noun=none
 petrolling=petrolling/NN,petrolling/NNS=none
@@ -123458,7 +123380,6 @@ pizaine=NN=none
 pize=noun=none
 pizz=NN=us-large
 pizzaz=pizzaz/NN:U,pizzazes/NNS,pizzazzes/NNS=none
-pizzazz=noun_U=au,ca,us
 pizzelle=noun=none
 pizzle=noun=gb
 pj=UNTAGGED=au,ca,us
@@ -123499,7 +123420,6 @@ placuna=NN=none
 plaga=NN=none
 plagianthus=NN=none
 plagiaristically=UNTAGGED=gb
-plagiary=noun_U=au,ca,us
 plagiocephalous=JJ=none
 plagiocephaly=NN=none
 plagioclasably=UNTAGGED=gb
@@ -123733,7 +123653,6 @@ play-acts=UNTAGGED=gb,nz,za
 play-play=UNTAGGED=za
 playa=noun=us-large
 playact=verb=au,ca,us
-playacting=noun_U=au,ca,us
 playactor=NN=none
 playboater=UNTAGGED=gb
 playboaters=UNTAGGED=gb
@@ -124957,7 +124876,6 @@ portolano=noun=gb
 portrayability=UNTAGGED=gb
 portreeve=noun=gb
 portress=noun=none
-portulaca=noun_U=au,ca,us
 portulacacaea=NN=none
 portunidae=NN=none
 portwatcher=NN=none
@@ -129613,7 +129531,6 @@ puckerer=noun=none
 puckfist=noun=none
 puckle=noun=none
 pucklike=UNTAGGED=gb
-pud=noun_U=au,ca,us
 pudden-head=NN:UN=none
 pudden=noun=none
 puddening=noun=none
@@ -131765,7 +131682,6 @@ radicalish=UNTAGGED=gb
 radicalities=UNTAGGED=gb
 radicality=UNTAGGED=gb
 radication=noun_UN=none
-radicchio=noun_U=au,ca,us
 radicel=noun=us-large
 radicular=UNTAGGED=all
 radicule=noun=none
@@ -131999,7 +131915,6 @@ rainband=noun=us-large
 raincheck=noun=none
 raincloud=UNTAGGED=us-large
 rainclouds=UNTAGGED=us-large
-rainmaking=noun_U=au,ca,us
 rainout=noun=us-large
 rainspout=noun=none
 rainsquall=noun=none
@@ -132500,7 +132415,6 @@ rebozo=noun=us-large
 rebuffably=RB=none
 rebuker=noun=gb,nz,za
 rebutment=noun=gb
-rec=noun_U=au,ca,us
 rec=rec/VB,rec'd/VBD,rec'ing/VBG,rec'd/VBN,rec/VBP,rec's/VBZ=au,ca,us
 recalcitrancy=noun_U=us-large
 recalcitrantly=UNTAGGED=us-large
@@ -133874,7 +133788,6 @@ rickettsiosis=UNTAGGED=gb
 rickle=noun=none
 rickly=RB=none
 rickly=ricklier/JJR,rickliest/JJS=none
-rickrack=noun_U=au,ca,us
 ricksha=noun=gb
 rickstand=noun=none
 rickstick=noun=none
@@ -133888,7 +133801,6 @@ riddims=UNTAGGED=gb
 ride-share=noun=us
 ride-share=verb=us
 ride-sharing=NN:U=us
-ridership=noun_U=au,ca,us
 rideshare=noun=none
 rideshare=verb=none
 ridesharing=ridesharing/NN,ridesharing/NN:U,ridesharings/NNS=none
@@ -134327,7 +134239,6 @@ romal=noun=none
 roman-fleuve=roman-fleuve/NN,romans-fleuves/NNS=none
 roman-à-clef=roman-à-clef/NN,romans-à-clef/NNS=gb
 roman=JJ=au,ca,us
-roman=noun_U=au,ca,us
 romanal=NN=none
 romani=JJ=none
 romaniser=noun=gb
@@ -135553,7 +135464,6 @@ sapucaia=noun=none
 saqqarah=NN=none
 sarabande=noun=none
 sarafan=noun=none
-saran=noun_U=au,ca,us
 sarangist=UNTAGGED=gb
 sarangists=UNTAGGED=gb
 sarape=noun=gb
@@ -136096,7 +136006,6 @@ schlockmeister=noun=none
 schlocky=schlocky/JJ,schlockier/JJR,schlockiest/JJS=us-large
 schloss=noun=gb
 schlumbergera=NN=none
-schmaltz=noun_U=au,ca,us
 schmalz=noun_U=none
 schmalzy=schmalzy/JJ,schmalzier/JJR,schmalziest/JJS=none
 schmatte=noun=none
@@ -139971,7 +139880,6 @@ siroc=noun=none
 sirop=NN=none
 sirra=noun=none
 sirree=UH=au,ca,us
-sirree=noun_U=au,ca,us
 sirup=noun_UN=none
 sirvente=noun=none
 siscowet=noun=none
@@ -140073,7 +139981,6 @@ sizy=sizy/JJ,sizier/JJR,siziest/JJS=none
 sizz=sizz/VB,sizz/VBP=none
 sjambok=UNTAGGED=us-large,za
 sk-ampicillin=NN=none
-ska=noun_U=au,ca,us
 skaam=UNTAGGED=za
 skag=noun=none
 skagit=NN=none
@@ -140165,7 +140072,6 @@ skidway=noun=us-large
 skiech=JJ=none
 skiech=RB=none
 skiet=UNTAGGED=za
-skiffle=noun_U=au,ca,us
 skiffless=JJ=none
 skiffling=skiffling/NN,skiffling/NNS=none
 skijorer=noun=gb
@@ -140278,7 +140184,6 @@ skywatcher=UNTAGGED=gb
 skywatchers=UNTAGGED=gb
 skywatches=UNTAGGED=gb
 skywriter=noun=au,ca,us
-skywriting=noun_U=au,ca,us
 slaat=UNTAGGED=za
 slabber=verb=us-large
 slabberer=noun=none
@@ -142120,7 +142025,6 @@ spulebane=noun=none
 spumante=NN=none
 spumescent=JJ=us-large
 spumone=noun_U=none
-spumoni=noun_U=au,ca,us
 spumonis=spumonis/NN:U,spumones/NNS=none
 spumous=JJ=us-large
 spunkie=noun=none
@@ -142646,7 +142550,6 @@ steam-heated=JJ=none
 steam-shovel=NN=none
 steam-turbine=JJ=none
 steamfitter=noun=au,ca,us
-steamfitting=noun_U=au,ca,us
 steamie=noun=none
 steamie=steamie/JJ,steamier/JJR,steamiest/JJS=none
 steampipe=NN=none
@@ -142737,7 +142640,6 @@ stemmery=noun=none
 stemmy=stemmy/JJ,stemmier/JJR,stemmiest/JJS=none
 stemple=noun=none
 stemson=noun=us-large
-stemware=noun_U=au,ca,us
 stemwinder=noun=us-large
 stenchy=stenchy/JJ,stenchier/JJR,stenchiest/JJS=none
 stenciler=noun=none
@@ -144768,7 +144670,6 @@ succinyl-CoA=UNTAGGED=all
 succinylsulfathiazole=NN=us-large
 succory=noun=us-large
 succos=NN=none
-succotash=noun_U=au,ca,us
 succuba=noun=none
 succulenceably=UNTAGGED=gb
 succulencery=UNTAGGED=gb
@@ -144781,7 +144682,6 @@ succulencisers=UNTAGGED=gb
 succulenction=UNTAGGED=gb
 succulenctions=UNTAGGED=gb
 succulenctiveness=UNTAGGED=gb
-succulency=noun_U=au,ca,us
 succumber=NN=none
 succursale=noun=none
 succus=succus/NN,succusses/NNS=none
@@ -145082,7 +144982,6 @@ sunspottedness=NN=none
 sunstar=noun=none
 sunstone=noun=us-large
 sunsuit=noun=us-large
-sunup=noun_U=au,ca,us
 suovetaurilia=NN=none
 supari=noun=none
 supawn=noun=none
@@ -146557,7 +146456,6 @@ syli=noun=none
 syll=NN=none
 syllabarium=noun=none
 syllabicate=verb=au,ca,us
-syllabication=noun_U=au,ca,us
 syllabicity=noun=us-large
 syllabism=noun_UN=us-large
 syllabogram=NN=us-large
@@ -148140,7 +148038,6 @@ tentorium=noun=none
 tenty=tenty/JJ,tentier/JJR,tentiest/JJS=none
 tenue=noun=none
 tenuis=tenuis/NN,tenues/NNS=us-large
-tenuity=noun_U=au,ca,us
 tenurial=JJ=none
 tenzon=noun=none
 teocalli=noun=us-large
@@ -148277,7 +148174,6 @@ terroir=UNTAGGED=gb
 terroirs=UNTAGGED=gb
 terror-struck=JJ=none
 terroristically=UNTAGGED=gb
-terrycloth=noun_U=au,ca,us
 tertia=noun=none
 tertial=JJ=us-large
 tertial=noun=us-large
@@ -149146,7 +149042,6 @@ thysanura=NN=none
 thysanuran=JJ=gb
 thysanuran=noun=gb
 thysanuron=NN=none
-ti=noun_U=au,ca,us
 tianjin=NN=none
 tiar=noun=none
 tiarella=NN=none
@@ -149184,7 +149079,6 @@ tickover=UNTAGGED=gb
 tickseed=noun=none
 ticktack=noun=us-large
 ticktack=verb=us-large
-ticktacktoe=noun_U=au,ca,us
 ticktacktoo=NN=none
 ticktock=noun=au,ca,us
 tickweed=NN=none
@@ -149325,7 +149219,6 @@ timewaves=UNTAGGED=gb
 timework=noun_U=us-large
 timist=noun=none
 timolol=noun=none
-timothy=noun_U=au,ca,us
 timpaniably=UNTAGGED=gb
 timpanially=UNTAGGED=gb
 timpaniation=UNTAGGED=gb
@@ -149561,7 +149454,6 @@ tolar=noun=us-large
 tolazamide=NN=none
 tolbooth=noun=us-large
 tolbutamide=noun=us-large
-tole=noun_U=au,ca,us
 tolectin=NN=none
 toledo=noun=none
 tolerationism=NN:UN=none
@@ -151324,7 +151216,6 @@ tuillette=noun=none
 tuitionless=JJ=none
 tuladi=noun=none
 tularaemia=NN=au,gb,nz,za
-tularemia=noun_U=au,ca,us
 tulban=noun=none
 tulchan=noun=none
 tule=noun=none
@@ -151727,7 +151618,6 @@ typhusisers=UNTAGGED=gb
 typhusiveness=UNTAGGED=gb
 typhusory=UNTAGGED=gb
 typicon=NN=none
-typification=noun_U=au,ca,us
 typikon=NN=none
 typographist=noun=none
 typp=noun=none
@@ -157194,7 +157084,6 @@ valeryls=UNTAGGED=all
 valeta=noun=none
 valetudinary=noun=us-large
 vali=noun=none
-valiance=noun_U=au,ca,us
 valiancy=noun=us-large
 valinomycin=noun=none
 valis=noun=none
@@ -157427,7 +157316,6 @@ vehemencisers=UNTAGGED=gb
 vehemenction=UNTAGGED=gb
 vehemenctions=UNTAGGED=gb
 vehemenctiveness=UNTAGGED=gb
-vehemency=noun_U=au,ca,us
 vehiculum=NN=none
 veiler=noun=none
 veiner=noun=none
@@ -158427,7 +158315,6 @@ volumizers=UNTAGGED=gb
 voluntaristic=UNTAGGED=gb,us-large
 voluntaryism=noun_UN=us-large
 voluntaryist=noun=none
-volunteerism=noun_U=au,ca,us
 volupté=UNTAGGED=gb
 voluspa=noun=none
 volutation=noun_UN=none
@@ -158467,7 +158354,6 @@ vomitoxins=UNTAGGED=gb
 vomiturition=noun_UN=us-large
 vomitus=noun=gb
 von=UNTAGGED=gb
-voodooism=noun_U=au,ca,us
 voodooist=noun=none
 vooma=UNTAGGED=za
 voorkamer=UNTAGGED=za
@@ -158617,7 +158503,6 @@ wage-plug=NN=none
 wagerer=noun=au,ca,us
 wagga=NN=none
 wagger=noun=none
-waggery=noun_U=au,ca,us
 waggier=UNTAGGED=gb
 waggiest=UNTAGGED=gb
 waggily=UNTAGGED=gb
@@ -158647,7 +158532,6 @@ waiting-room=NN:UN=none
 waitperson=waitperson/NN,waitpeople/NNS,waitpersons/NNS=au,ca,us
 waitressless=JJ=none
 waitron=noun=us-large
-waitstaff=noun_U=au,ca,us
 waivode=noun=none
 waiwode=noun=none
 waka=noun=gb,nz
@@ -158704,7 +158588,6 @@ walla=noun=none
 wallaba=noun=none
 wallah=noun=au,ca,us
 wallaroo=wallaroo/NN,wallaroo/NNS,wallaroos/NNS=us-large
-wallboard=noun_U=au,ca,us
 wallchart=noun=us-large
 waller=noun=none
 walleye=walleye/NN,walleye/NNS,walleyes/NNS=au,ca,us
@@ -160812,7 +160695,6 @@ wormseed=noun=us-large
 worn-outness=NN=none
 worral=noun=none
 worricow=noun=none
-worriment=noun_U=au,ca,us
 worrycow=noun=none
 wors=UNTAGGED=za
 worser=JJ=us-large
@@ -161434,9 +161316,7 @@ yukata=noun=none
 yukky=yukky/JJ,yukkier/JJR,yukkiest/JJS=au,ca,us
 yuko=noun=none
 yulan=noun=us-large
-yule=noun_U=au,ca,us
 yuletide=JJ=au,ca,us
-yuletide=noun_U=au,ca,us
 yunnan=NN=none
 yupon=noun=none
 yuppiedom=UNTAGGED=us-large
@@ -161636,7 +161516,6 @@ zincograph=noun=us-large
 zincographer=noun=none
 zincography=noun_U=us-large
 zineb=noun=none
-zinfandel=noun_U=au,ca,us
 zingano=zingano/NN,zingani/NNS=none
 zingara=NN=none
 zingaro=zingaro/NN,zingari/NNS=us-large

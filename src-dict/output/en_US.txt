@@ -1178,6 +1178,8 @@ carburize
 carburized
 carburizes
 carburizing
+carfare
+carfares
 caricaturization
 caricaturizations
 carnalize
