@@ -1021,6 +1021,8 @@ brutalise
 brutalised
 brutalises
 brutalising
+bub
+bubs
 bureaucratisation
 bureaucratisations
 bureaucratise
@@ -1409,6 +1411,8 @@ cliticisations
 close-fertilisation
 close-fertilisations
 closeable
+clothespin
+clothespins
 coalise
 coalised
 coalises
@@ -3542,6 +3546,8 @@ hokes
 hoking
 homemaker
 homemakers
+homeroom
+homerooms
 hominisation
 hominisations
 hominise

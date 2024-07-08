@@ -2003,6 +2003,7 @@ Airtel
 Airy
 Aisha
 Aishwarya
+Aisling
 Aisne
 Aitcheson
 Aitken
@@ -3174,6 +3175,7 @@ Arminianisms
 Arminians
 Arminius
 Armitage
+Armonk
 Armorica
 Armorican
 Armoricans
@@ -3239,6 +3241,7 @@ Arámbula
 Arévalo
 As
 Asa
+Asama
 Asana
 Asante
 Asaph
@@ -4867,6 +4870,7 @@ BattleHawks
 Baucis
 Baudelaire
 Baudot
+Baudouin
 Baudrillard
 Bauer
 Baughman
@@ -4894,6 +4898,7 @@ Bayes
 Bayesian
 Bayesianism
 Bayesianisms
+Bayeux
 Bayle
 Bayley
 Baylor
@@ -5251,6 +5256,8 @@ Bernardino
 Bernardo
 Bernardsville
 Bernat
+Bernays
+Bernbach
 Bernd
 Berne
 Berners
@@ -8293,6 +8300,7 @@ Ceuta
 Ceylon
 Ceylonese
 Ceyx
+Cezanne
 Cf
 ChB
 Chablis
@@ -8923,7 +8931,9 @@ Claymation
 Claymations
 Clayton
 Cleanthes
+ClearHealthCosts
 ClearType
+Clearasil
 Clearfield
 Clearview
 Clearwater
@@ -9253,6 +9263,7 @@ Connel
 Connell
 Connellsville
 Connelly
+Connemara
 Conner
 Connery
 Connie
@@ -10742,6 +10753,7 @@ Demetrius
 Demi
 Deming
 Democritus
+Demodex
 Demogorgon
 Demosthenes
 Dempsey
@@ -10749,6 +10761,7 @@ Dempster
 Dems
 Den
 Dena
+Denali
 Denbigh
 Denbighshire
 Denby
@@ -12389,6 +12402,8 @@ Elsinore
 Elston
 Elsworth
 Elton
+Elul
+Eluls
 Elva
 Elvas
 Elvia
@@ -13691,6 +13706,7 @@ Fenner
 Fenny
 Fenrir
 Fenton
+Fenway
 Fenwick
 Ferber
 Ferdinand
@@ -14768,6 +14784,7 @@ Galloways
 Gallucci
 Gallup
 Gallus
+Galois
 Galsworthy
 Galt
 Galton
@@ -15694,6 +15711,7 @@ Grímnismál
 Grógaldr
 Grünbaum
 Grünewald
+Gs
 Guadalajara
 Guadalcanal
 Guadalquivir
@@ -17099,6 +17117,7 @@ Hoengseong-gun
 Hoenir
 Hofbräuhaus
 Hofer
+Hoff
 Hoffa
 Hoffberger
 Hoffman
@@ -17242,6 +17261,8 @@ Hope
 Hope-Goldthorpe
 Hopeh
 Hopewell
+Hopi
+Hopis
 Hopkins
 Hopkinsian
 Hopkinson
@@ -17332,6 +17353,7 @@ Hoyland
 Hoyle
 Hoyles
 Hoyt
+Hrothgar
 Hrvatska
 Hs
 Hsining
@@ -17373,6 +17395,7 @@ Hueytown
 Huff
 Huffington
 Hufflepuff
+Huffman
 Hufuf
 Huggins
 Hugh
@@ -18339,6 +18362,8 @@ Ingersoll
 Ingham
 Inglewood
 Inglis
+Ingmar
+Ingo
 Ingolstadt
 Ingraham
 Ingram
@@ -18388,6 +18413,7 @@ Intouch
 Intune
 Inuit
 Inuits
+Inuktitut
 Invar
 Invars
 Invercargill
@@ -18477,6 +18503,7 @@ Isaac
 Isaacs
 Isaacson
 Isabel
+Isabela
 Isabella
 Isabelle
 Isador
@@ -19040,6 +19067,7 @@ Jedi
 Jeep
 Jeeps
 Jeevan
+Jeeves
 Jeezy
 Jeff
 Jefferey
@@ -19903,6 +19931,7 @@ Kavanagh
 Kavanaugh
 Kaveri
 Kavita
+Kawabata
 Kawasaki
 Kay
 Kaya
@@ -20133,6 +20162,7 @@ Khrushchev
 Khufu
 Khulna
 Ki
+KiB
 KiCad
 Kia
 Kiangsi
@@ -20493,6 +20523,7 @@ Kristián
 Kristof
 Kristopher
 Kristy
+Kroc
 Kroemer
 Kroger
 Krogstad
@@ -21076,6 +21107,7 @@ Laibach
 Laing
 Lais
 Laius
+Lajos
 Lakehurst
 Lakeland
 Lakers
@@ -21243,6 +21275,7 @@ Lat
 Latakia
 Latakias
 Lateesha
+Lateran
 Latham
 Lathrop
 Latimer
@@ -21449,6 +21482,8 @@ Lelia
 Lely
 Lelystad
 Lem
+Lemaitre
+Lemaître
 Lemberg
 Lemnian
 Lemnos
@@ -21623,6 +21658,7 @@ LiDAR
 LiDARs
 Liam
 Liana
+Liang
 Lianna
 Lianne
 Liao
@@ -22054,9 +22090,11 @@ Lowndes
 Lowry
 Loy
 Loyang
+Loyd
 Loyola
 Lozano
 Loïc
+Lt
 Ltd
 Lu
 Lualaba
@@ -22136,6 +22174,7 @@ Lugar
 Luger
 Lugers
 Lugo
+Lugosi
 Luhansk
 Luigi
 Luik
@@ -23005,6 +23044,7 @@ Maderno
 Madero
 Madge
 Madhavan
+Madhya
 Madigan
 Madison
 Madisonville
@@ -23197,6 +23237,7 @@ Mali
 Malia
 Malian
 Malians
+Malibu
 Malik
 Malika
 Malinda
@@ -23415,6 +23456,7 @@ Margot
 Margret
 Marguerite
 Margulies
+Mari
 Maria
 MariaDB
 Mariah
@@ -23771,6 +23813,7 @@ Maximiliano
 Maximilien
 Maximo
 Maximoff
+Maximus
 Maxine
 Maxtor
 Maxwell
@@ -24870,6 +24913,7 @@ Mont-Tremblant
 Montag
 Montagu
 Montague
+Montagues
 Montaigne
 Montana
 Montanan
@@ -24904,12 +24948,15 @@ Montez
 Montezuma
 Montford
 Montfort
+Montgolfier
 Montgomery
 Montgomeryshire
 Montherlant
+Monticello
 Montiel
 Montmartre
 Montovano
+Montoya
 Montparnasse
 Montpelier
 Montpellier
@@ -25259,6 +25306,7 @@ Mysia
 Mysian
 Mysore
 Myspace
+Myst
 Mysticeti
 Mytilene
 Málaga
@@ -25286,6 +25334,7 @@ Mýrdalsjökull
 Māori
 Māoris
 N
+N'Djamena
 N10
 N11
 N12
@@ -26341,6 +26390,7 @@ Noland
 Nolde
 Noll
 Nolte
+Nome
 Nomex
 Nomexes
 Nomi
@@ -27030,6 +27080,7 @@ Oldenburg
 Oldenzaal
 Oldham
 Oldman
+Ole
 Oleg
 Oleksandr
 Oleksandra
@@ -27981,6 +28032,7 @@ Palestrina
 Paley
 Palgrave
 Pali
+Palikir
 Palin
 Palisa
 Palisades
@@ -29414,6 +29466,7 @@ QVT
 QWERTY
 Qaddafi
 Qaeda
+Qantas
 Qarabağ
 Qassem
 Qatar
@@ -30559,6 +30612,7 @@ Roca
 Rocco
 Rocephin
 Roch
+Rocha
 Rochdale
 Roche
 Rochefort-sur-Loire
@@ -30847,6 +30901,7 @@ Royals
 Royce
 Royd
 Rozelle
+Rs
 Ru
 Ruanda-Urundi
 Rube
@@ -32798,6 +32853,10 @@ Shetty
 Shevardnadze
 Shevat
 Shevchenko
+Shi
+Shi'a
+Shi'ite
+Shi'ites
 Shia
 Shias
 Shibuya
@@ -32844,6 +32903,7 @@ Shoa
 Shoah
 Shockley
 Shoemakersville
+Shoji
 Sholapur
 Sholes
 Sholokhov
@@ -32971,6 +33031,7 @@ Silverton
 Silvester
 Silvia
 Silvio
+Sim
 SimCity
 Simba
 Simbirsk
@@ -32989,6 +33050,7 @@ Simone
 Simonides
 Simons
 Simpson
+Simpsons
 Sims
 Simsbury
 Simson
@@ -33066,6 +33128,8 @@ Sitwell
 Siva
 Sivaistic
 Sivakumaran
+Sivan
+Sivans
 Sivas
 Sjaelland
 Skagerrak
@@ -34834,7 +34898,9 @@ Terpsichorean
 Terr
 Terra
 Terraform
+Terran
 Terrance
+Terrans
 Terrassa
 Terrebonne
 Terrell
@@ -37595,6 +37661,7 @@ Welker
 Welkom
 Welland
 Wellbutrin
+Weller
 Welles
 Wellesley
 Wellesz
@@ -37748,6 +37815,7 @@ Whitelaw
 Whiteley
 Whitelock
 Whites
+Whitfield
 Whitford
 Whiting
 Whitlock
@@ -39420,6 +39488,7 @@ abysms
 abyss
 abyssal
 abysses
+ac
 acacia
 acacias
 academe
@@ -45988,6 +46057,9 @@ arch-conservative
 arch-conservatives
 arch-enemies
 arch-enemy
+arch-rival
+arch-rivals
+archaea
 archaeal
 archaean
 archaeans
@@ -46002,6 +46074,8 @@ archaeologies
 archaeologist
 archaeologists
 archaeology
+archaeon
+archaeons
 archaeopteryx
 archaeopteryxes
 archaic
@@ -48284,6 +48358,7 @@ auxins
 auxochromic
 auxometer
 auxometers
+av
 avail
 availabilities
 availability
@@ -48437,6 +48512,7 @@ avulsion
 avulsions
 avuncular
 avunculate
+aw
 await
 awaited
 awaiting
@@ -55235,6 +55311,7 @@ browsers
 browses
 browsing
 browsings
+brr
 brucelloses
 brucellosis
 bruin
@@ -55657,6 +55734,8 @@ bullpens
 bullring
 bullrings
 bulls
+bullseye
+bullseyes
 bullshat
 bullshit
 bullshits
@@ -60433,6 +60512,7 @@ chm
 choanocytal
 choanocyte
 choanocytes
+choc
 chock
 chock-a-block
 chock-full
@@ -60446,7 +60526,9 @@ chocoholic
 chocoholics
 chocolate
 chocolates
+chocolatey
 chocolaty
+chocs
 choice
 choiceless
 choicely
@@ -75895,6 +75977,7 @@ dissymmetrical
 dissymmetrically
 dissymmetries
 dissymmetry
+dist
 distad
 distaff
 distaffs
@@ -76099,6 +76182,7 @@ dithyramb
 dithyrambic
 dithyrambically
 dithyrambs
+ditransitive
 ditriglyphic
 dittanies
 dittany
@@ -78779,8 +78863,10 @@ ecologist
 ecologists
 ecology
 ecommerce
+econ
 econometric
 econometrical
+econometrically
 econometrician
 econometricians
 econometrics
@@ -82297,6 +82383,7 @@ essentially
 essentialness
 essentials
 esses
+est
 establish
 establishable
 established
@@ -86316,6 +86403,8 @@ filmable
 filmdom
 filmdoms
 filmed
+filmgoer
+filmgoers
 filmic
 filmier
 filmiest
@@ -101149,6 +101238,7 @@ ideologue
 ideologues
 ideology
 ideomotor
+ides
 idioblast
 idioblastic
 idioblasts
@@ -101234,6 +101324,8 @@ ifosfamide
 iframe
 iframes
 ifs
+iftar
+iftars
 igloo
 igloos
 igneous
@@ -109406,6 +109498,8 @@ krill
 krills
 krimmer
 krimmers
+kringle
+kringles
 krona
 krone
 kroner
@@ -109418,6 +109512,7 @@ kryptonite
 kryptons
 króna
 krónur
+kudos
 kudu
 kudus
 kudzu
@@ -120527,6 +120622,9 @@ mover
 movers
 moves
 movie
+moviegoer
+moviegoers
+moviegoing
 moviemaker
 moviemakers
 movies
@@ -139865,6 +139963,10 @@ prancingly
 prancings
 prandial
 prandially
+prang
+pranged
+pranging
+prangs
 prank
 pranked
 pranking
@@ -160066,6 +160168,7 @@ silviculture
 silvicultures
 silviculturist
 silviculturists
+sim
 simaroubaceous
 simian
 simians
@@ -194254,6 +194357,8 @@ wryness
 wunderkind
 wunderkinder
 wunderkinds
+wurst
+wursts
 wuss
 wusses
 wussier
@@ -194369,6 +194474,7 @@ xylose
 xyloses
 xylostromatoid
 xylotomous
+y
 y-axes
 y-axis
 ya

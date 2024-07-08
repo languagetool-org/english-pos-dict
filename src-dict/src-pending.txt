@@ -1,3 +1,4 @@
+
 'strewth=UNTAGGED=gb
 'struth=UNTAGGED=gb
 -war=UNTAGGED=gb
@@ -974,7 +975,6 @@ Airton=UNTAGGED=gb
 Aisholt=UNTAGGED=gb
 Aiskew=UNTAGGED=gb
 Aislaby=UNTAGGED=gb
-Aisling=UNTAGGED=all
 Aisthorpe=UNTAGGED=gb
 Aithsting=UNTAGGED=gb
 Aitkin=UNTAGGED=gb
@@ -2956,7 +2956,6 @@ Armistead=NNP=none
 Armistice=UNTAGGED=gb
 Armley=UNTAGGED=gb
 Armond=NNP=none
-Armonk=UNTAGGED=all
 Armoracia=NNP=none
 Armoric=Armoric/NNP,Armorics/NNPS=none
 Armour=UNTAGGED=au,ca,us
@@ -3115,7 +3114,6 @@ Asabi=NNP=none
 Asael=NNP=none
 Asag=NNP=none
 Asahigawa=NNP=none
-Asama=UNTAGGED=au,ca,us
 Asamiya=NNP=none
 Asansol=UNTAGGED=all
 Asantehene=NNP=none
@@ -3672,7 +3670,6 @@ Auwers=NNP=none
 Aux=UNTAGGED=gb
 Auxo=NNP=none
 Auzout=NNP=none
-Av=Av/NNP,Avs/NNPS=au,ca,us
 Avahi=NNP=none
 Avalara=UNTAGGED=all
 Avan=NNP=none
@@ -4791,7 +4788,6 @@ Bauchi=NNP=none
 Bauder=NNP=none
 Baudin=NNP=none
 Baudoin=NNP=none
-Baudouin=UNTAGGED=au,ca,us
 Baugh=NNP=none
 Baughurst=UNTAGGED=gb
 Bauhinia=NNP=none
@@ -4830,7 +4826,6 @@ Bayar=NNP=none
 Baydon=UNTAGGED=gb
 Bayerischer=NNP=none
 Bayesians=UNTAGGED=gb
-Bayeux=UNTAGGED=au,ca,us
 Bayfield=UNTAGGED=gb
 Bayford=UNTAGGED=gb
 Baykal=UNTAGGED=gb,us-large
@@ -5405,8 +5400,6 @@ Bernardina=NNP=none
 Bernards=UNTAGGED=gb
 Bernarr=NNP=none
 Bernaville=UNTAGGED=gb
-Bernays=UNTAGGED=au,ca,us
-Bernbach=UNTAGGED=au,ca,us
 Bernelle=NNP=none
 Berner=NNP=none
 Bernera=UNTAGGED=gb
@@ -9488,7 +9481,6 @@ Cetura=NNP=none
 Cetus=UNTAGGED=all
 Ceulanamaesmawr=UNTAGGED=gb
 Ceylonite=NNP=none
-Cezanne=UNTAGGED=au,ca,us
 CfIT=UNTAGGED=gb,nz,za
 Ch'in=UNTAGGED=us-large
 Ch'ing=UNTAGGED=gb
@@ -10715,8 +10707,6 @@ Clea=NNP=none
 Cleanth=NNP=none
 Cleantha=NNP=none
 Clear=UNTAGGED=gb
-ClearHealthCosts=UNTAGGED=all
-Clearasil=UNTAGGED=au,ca,us
 Clearblue=NNP=none
 Clearchus=NNP=none
 Clearlake=UNTAGGED=gb
@@ -11395,7 +11385,6 @@ Coneythorpe=UNTAGGED=gb
 Conference=Conference/NNP,Conferences/NNPS=none
 Confessor=UNTAGGED=gb
 Confluence=NNP=none
-Cong=UNTAGGED=all
 Congdon=NNP=none
 Conger=NNP=none
 Congerstone=UNTAGGED=gb
@@ -11442,7 +11431,6 @@ ConnectEDU=UNTAGGED=all
 Connee=NNP=none
 Connell-Jones=NNP=none
 Connelley=NNP=none
-Connemara=Connemara/NNP,Connemaras/NNPS=au,ca,us
 Conners=NNP=none
 Connersville=UNTAGGED=gb
 Connes=NNP=none
@@ -13584,11 +13572,7 @@ Demmy=NNP=none
 Demo=Demo/NNP,Demos/NNPS=none
 Demochelys=NNP=none
 Democoon=NNP=none
-Democracy=Democracy/NNP,Democracies/NNPS=none
-Democrat=Democrat/NNP,Democrats/NNPS=au,ca,us
-Democratic=UNTAGGED=au,ca,us
 Demodena=NNP=none
-Demodex=UNTAGGED=all
 Demodocus=NNP=none
 Demona=NNP=none
 Demonassa=NNP=none
@@ -13610,7 +13594,6 @@ Demy=NNP=none
 DemystData=UNTAGGED=all
 Denaby=UNTAGGED=gb
 Denae=NNP=none
-Denali=UNTAGGED=au,ca,us
 Denbeath=UNTAGGED=gb
 Denbrook=NNP=none
 Denbury=UNTAGGED=gb
@@ -15992,7 +15975,6 @@ Eltham=UNTAGGED=gb,nz
 Eltisley=UNTAGGED=gb
 Elton-on-the-Hill=UNTAGGED=gb
 Eluard=NNP=none
-Elul=Elul/NNP,Eluls/NNPS=au,ca,us
 Elum=NNP=none
 Elura=NNP=none
 Elurd=NNP=none
@@ -17588,7 +17570,6 @@ Fenstanton=UNTAGGED=gb
 Fentiman=UNTAGGED=gb
 Fentress=UNTAGGED=gb
 Fenusa=NNP=none
-Fenway=UNTAGGED=all
 Feock=UNTAGGED=gb
 Feodor=NNP=none
 Feodora=NNP=none
@@ -18943,7 +18924,6 @@ Gallowgate=UNTAGGED=gb
 Gallwey=UNTAGGED=gb
 Gally=NNP=none
 Galofalo=NNP=none
-Galois=UNTAGGED=all
 Galoppini=UNTAGGED=gb
 Galorathorporated=UNTAGGED=all
 Galston=UNTAGGED=gb
@@ -23267,7 +23247,6 @@ Hoes=NNP=none
 Hoest=UNTAGGED=gb
 Hoeve=NNP=none
 Hofei=NNP=none
-Hoff=UNTAGGED=all
 Hoffarth=NNP=none
 Hoffer=NNP=none
 Hoffert=NNP=none
@@ -23516,8 +23495,6 @@ Hopestill=NNP=none
 Hopetoun=UNTAGGED=gb
 Hopf=UNTAGGED=gb
 Hopfinger=NNP=none
-Hopi=Hopi/NNP,Hopis/NNPS=au,ca,us
-Hopis=NNPS=au,ca,us
 Hopkinsianism=NNP=none
 Hopkinsonian=JJ=none
 Hopkinsonian=NNP=none
@@ -23726,7 +23703,6 @@ Hrault=NNP=none
 Hrdlicka=NNP=none
 Hreidmar=NNP=none
 Hrolf=NNP=none
-Hrothgar=UNTAGGED=au,ca,us
 Hrozny=NNP=none
 Hrutkay=NNP=none
 Hsi=NNP=none
@@ -23791,7 +23767,6 @@ Hueneme=UNTAGGED=gb
 Huesman=NNP=none
 Hueston=NNP=none
 HuffPost=NNP=none
-Huffman=UNTAGGED=all
 Hufnagel=NNP=none
 Huggate=UNTAGGED=gb
 Hugglescote=UNTAGGED=gb
@@ -24574,8 +24549,6 @@ Ingleby=UNTAGGED=gb
 Ingles=NNP=none
 Inglesham=UNTAGGED=gb
 Ingleton=UNTAGGED=gb
-Ingmar=NNP=none
-Ingo=UNTAGGED=all
 Ingol=UNTAGGED=gb
 Ingold=NNP=none
 Ingoldisthorpe=UNTAGGED=gb
@@ -24659,7 +24632,6 @@ Intu=UNTAGGED=gb
 Intuit=NNP=none
 Intwood=UNTAGGED=gb
 Intyre=NNP=none
-Inuktitut=NN:U=au,ca,us,za
 Inunf=NNP=none
 Inupiaq=Inupiaq/NN:U,Inupiaq/NNP,Inupiaqs/NNPS=us-large
 Inupiat=Inupiat/NNP,Inupiats/NNPS=none
@@ -24856,7 +24828,6 @@ Iráklion=UNTAGGED=us-large
 Isaak=NNP=none
 Isabea=NNP=none
 Isabeau=NNP=none
-Isabela=UNTAGGED=gb,us
 Isabelita=NNP=none
 Isac=NNP=none
 Isacco=NNP=none
@@ -25440,7 +25411,6 @@ Jediism=UNTAGGED=gb
 Jedis=UNTAGGED=gb
 Jedlicka=NNP=none
 Jedthus=NNP=none
-Jeeves=UNTAGGED=all
 Jeffcock=UNTAGGED=gb
 Jeffcott=NNP=none
 Jeffers=NNP=none
@@ -26457,7 +26427,6 @@ Kavaratti=UNTAGGED=gb
 Kavclla=NNP=none
 Kavka=UNTAGGED=gb
 Kavla=NNP=none
-Kawabata=UNTAGGED=au,ca,us
 Kawaguchi=NNP=none
 Kawai=NNP=none
 Kawakawa=UNTAGGED=gb,nz
@@ -26945,7 +26914,6 @@ Khybration=UNTAGGED=gb
 Khybrations=UNTAGGED=gb
 Khybrical=UNTAGGED=gb
 Ki-moon=UNTAGGED=gb
-KiB=UNTAGGED=all
 Kiah=NNP=none
 Kial=NNP=none
 Kiang=NNP=none
@@ -27868,7 +27836,6 @@ Kriegspiel=Kriegspiel/NNP,Kriegspiels/NNPS=none
 Kries=NNP=none
 Krigsman=NNP=none
 Krilov=NNP=none
-Kringle=UNTAGGED=au,ca,us
 Krinthos=NNP=none
 Krio=NNP=none
 Kripalu=UNTAGGED=gb
@@ -27901,7 +27868,6 @@ Kristos=NNP=none
 Kristyn=NNP=none
 Krizan=UNTAGGED=gb
 Krišjānis=UNTAGGED=all
-Kroc=UNTAGGED=au,ca,us
 Krock=NNP=none
 Kroeber=NNP=none
 Krohn=UNTAGGED=gb
@@ -28326,7 +28292,6 @@ Lait=NNP=none
 Laith=NNP=none
 Lajes=UNTAGGED=gb
 Lajoie=NNP=none
-Lajos=UNTAGGED=au,ca,us
 Lakatos=UNTAGGED=gb
 Lake=UNTAGGED=gb
 Lakeisha=UNTAGGED=au,ca,us
@@ -28695,7 +28660,6 @@ Latchford=UNTAGGED=gb
 Latchingdon=UNTAGGED=gb
 Late=UNTAGGED=gb
 Latea=NNP=none
-Lateran=UNTAGGED=all
 Latgalian=UNTAGGED=gb
 Latgalians=UNTAGGED=gb
 Lathan=NNP=none
@@ -29095,7 +29059,6 @@ Lello=NNP=none
 Lema=NNP=none
 Lemaceon=NNP=none
 Lemaireocereus=NNP=none
-Lemaitre=UNTAGGED=au,ca,us
 Lemal=NNP=none
 Leman=UNTAGGED=us-large
 Lemann=UNTAGGED=gb
@@ -29442,7 +29405,6 @@ Liage=NNP=none
 Liakoura=NNP=none
 Lian=NNP=none
 Liane=NNP=none
-Liang=UNTAGGED=all
 Liaopeh=NNP=none
 Liard=UNTAGGED=us-large
 Liatrice=NNP=none
@@ -30724,7 +30686,6 @@ Loxwood=UNTAGGED=gb
 Loyalist=Loyalist/NNP,Loyalists/NNPS=us-large
 Loyalsock=UNTAGGED=gb
 Loyce=NNP=none
-Loyd=UNTAGGED=au,ca,us
 Loyde=NNP=none
 Loydie=NNP=none
 Loz=NNP=none
@@ -30733,8 +30694,6 @@ Lozare=NNP=none
 Lozi=Lozi/NN:U,Lozi/NNP=za
 Lr=UNTAGGED=au,ca,us
 Lrida=NNP=none
-Lt.=UNTAGGED=gb
-Lt=UNTAGGED=all
 LuGanda=NNP=none
 Lua=NNP=none
 Luana=NNP=none
@@ -30841,7 +30800,6 @@ Lugg=UNTAGGED=gb
 Luggate=UNTAGGED=gb
 Lugnasad=NNP=none
 Lugones=NNP=none
-Lugosi=UNTAGGED=au,ca,us
 Lugwardine=UNTAGGED=gb
 Luhe=NNP=none
 Luhey=NNP=none
@@ -31407,7 +31365,6 @@ Madelle=NNP=none
 Madelon=NNP=none
 Mademoiselle=UNTAGGED=gb,us-large
 Madera=UNTAGGED=gb,us
-Madhya=UNTAGGED=all
 Madi=NNP=none
 Madia=NNP=none
 Madian=NNP=none
@@ -31736,7 +31693,6 @@ Malham=UNTAGGED=gb
 Malherbie=UNTAGGED=gb
 Malheur=UNTAGGED=gb
 Malibran=NNP=none
-Malibu=UNTAGGED=all
 Malick=UNTAGGED=gb
 Malin=NNP=none
 Malina=NNP=none
@@ -32197,7 +32153,6 @@ Margy=NNP=none
 Marham=UNTAGGED=gb
 Marhamchurch=UNTAGGED=gb
 Marholm=UNTAGGED=gb
-Mari=Mari/NN:U,Mari/NNP=au,ca,us,za
 Maria-Chapdelaine=UNTAGGED=gb
 Maria-Giuseppe=NNP=none
 Mariamman=UNTAGGED=gb
@@ -32762,7 +32717,6 @@ Maxima=NNP=none
 Maximalist=UNTAGGED=us-large
 Maximes=NNP=none
 Maximilianus=NNP=none
-Maximus=UNTAGGED=all
 Maxma=NNP=none
 Maxostoma=NNP=none
 Maxstoke=UNTAGGED=gb
@@ -34470,7 +34424,6 @@ Montagnac=NNP=none
 Montagnais=Montagnais/NNP,Montagnaises/NNPS=us-large
 Montagnard=Montagnard/NNP,Montagnards/NNPS=us-large
 Montagnier=UNTAGGED=gb
-Montagues=UNTAGGED=all
 Montale=NNP=none
 Montalvo=NNP=none
 Montanari=NNP=none
@@ -34487,12 +34440,10 @@ Montejunto=UNTAGGED=gb
 Montenegran=UNTAGGED=us-large
 Monteraea=NNP=none
 Montevallo=NNP=none
-Montgolfier=UNTAGGED=au,ca,us
 Montgomerie=UNTAGGED=gb
 Monthan=UNTAGGED=gb
 Monti=NNP=none
 Montia=NNP=none
-Monticello=UNTAGGED=all
 Montilla=UNTAGGED=gb
 Montis=UNTAGGED=gb
 Montlucon=NNP=none
@@ -34502,7 +34453,6 @@ Montmorency=Montmorency/NNP,Montmorencies/NNPS=none
 Monto=NNP=none
 Montour=UNTAGGED=gb
 Montoursville=NNP=none
-Montoya=UNTAGGED=all
 Montrealer=Montrealer/NNP,Montrealers/NNPS=gb
 Montreux=NNP=none
 Montréal-Est=UNTAGGED=gb
@@ -35163,7 +35113,6 @@ Myrwyn=NNP=none
 Mysidacea=NNP=none
 Mysidae=NNP=none
 Mysis=NNP=none
-Myst=UNTAGGED=au,ca,us
 Mystery=Mystery/NNP,Mysteries/NNPS=none
 Mystic=NNP=none
 MythBuster=MythBuster/NNP,MythBusters/NNPS=none
@@ -35205,7 +35154,6 @@ Mønsted=NNP=none
 Müllerian=UNTAGGED=gb
 Müntzer=UNTAGGED=gb
 Māngere=UNTAGGED=gb
-N'Djamena=UNTAGGED=gb,us-large
 N'Djemena=UNTAGGED=gb
 N-bomb=NNP=none
 NANDs=UNTAGGED=gb
@@ -36365,7 +36313,6 @@ Nolton=UNTAGGED=gb
 Noludar=NNP=none
 Noma=NNP=none
 Noman=NNP=none
-Nome=UNTAGGED=all
 Nomes=NNP=none
 Nomura=NNP=none
 Nonah=NNP=none
@@ -38132,7 +38079,6 @@ Paleoarchean=UNTAGGED=gb
 Paleoproterozoic=UNTAGGED=gb
 Pales=NNP=none
 Palici=NNPS=none
-Palikir=UNTAGGED=au,ca,gb,nz,us
 Palila=NNP=none
 Palilicium=NNPS=none
 Palinuridae=NNP=none
@@ -41170,7 +41116,6 @@ Qadianis=NNP=none
 Qadir=UNTAGGED=gb
 Qadiriya=NNP=none
 Qairwan=NNP=none
-Qantas=UNTAGGED=au,ca,gb,nz,us
 Qdoba=NNP=none
 Qeshm=NNP=none
 Qi=NNP=none
@@ -45982,7 +45927,6 @@ SimpleTuition=UNTAGGED=all
 Simpler=UNTAGGED=gb
 Simplicius=NNP=none
 Simplon=NNP=none
-Simpsons=UNTAGGED=au,ca,gb,nz,us
 Simpsonville=UNTAGGED=gb,us
 Simsar=NNP=none
 Simuliidae=NNP=none
@@ -59678,9 +59622,6 @@ arcella=NN=none
 arcellidae=NN=none
 arceuthobium=NN=none
 arcform=JJ=none
-arch-rival=UNTAGGED=gb
-arch-rivals=UNTAGGED=gb
-archaea=UNTAGGED=all
 archaebacterial=UNTAGGED=gb
 archaeoastronomer=noun=gb
 archaeoastronomical=UNTAGGED=gb
@@ -61236,7 +61177,6 @@ auxochrome=NN=us-large
 auxotroph=noun=gb
 auxotrophic=UNTAGGED=gb
 auxotrophy=noun_U=none
-av=UNTAGGED=au,ca,us
 ava=noun=none
 avadavat=noun=us-large
 avahi=NN=none
@@ -61300,7 +61240,6 @@ avulse=verb=gb
 avuncularity=noun_UN=none
 avuncularly=UNTAGGED=au,ca,us
 avunculates=UNTAGGED=gb
-aw=UH=au,ca,us
 awa=RB=none
 awaiter=noun=none
 awakeable=JJ=none
@@ -65864,7 +65803,6 @@ browny=browny/JJ,brownier/JJR,browniest/JJS=gb
 browny=noun=gb
 browridge=noun=none
 browst=noun=none
-brr=UNTAGGED=all
 brucella=noun=none
 bruchid=noun=none
 bruchidae=NN=none
@@ -65937,7 +65875,6 @@ bu.=UNTAGGED=gb
 buat=noun=none
 buaya=noun=none
 buaze=noun=none
-bub=noun=au,ca,us
 bubal=noun=us-large
 bubale=noun=none
 bubalis=noun=none
@@ -66145,8 +66082,6 @@ bullocky=NN=gb
 bullpout=noun=none
 bullroarer=noun=gb
 bullrush=noun=none
-bullseye=UNTAGGED=all
-bullseyes=UNTAGGED=gb
 bullshot=noun=gb
 bullsnake=noun=none
 bullterrier=noun=none
@@ -69657,7 +69592,6 @@ choana=choana/NN,choanae/NNS=none
 choanoflagellate=NN=none
 chobdar=noun=none
 choc-ice=NN:U=none
-choc=noun_UN=au,ca,us
 chocaholic=noun=none
 choccies=UNTAGGED=gb
 choccy=UNTAGGED=gb
@@ -69668,7 +69602,6 @@ chockstone=noun=none
 choco=noun=none
 chocolate-box=NN:UN=none
 chocolate-flower=NN=none
-chocolatey=UNTAGGED=au,ca,gb,nz,us-large,za
 chocolatier=noun=us-large
 choctaw=noun=none
 choenix=noun=none
@@ -70885,7 +70818,6 @@ clotheslined=UNTAGGED=gb,nz,za
 clotheslining=UNTAGGED=gb,nz,za
 clothesman=UNTAGGED=gb,nz,za
 clothesmen=UNTAGGED=gb,nz,za
-clothespin=noun=au,ca,us
 clothespress=noun=us-large
 clotrimazolally=UNTAGGED=gb
 clotrimazolation=UNTAGGED=gb
@@ -78900,7 +78832,6 @@ dissonancy=noun=us-large
 dissuasory=noun=none
 dissyllabic=JJ=none
 dissyllabism=NN:UN=none
-dist=NN=au,ca,us
 distelfink=noun=none
 distemperature=noun=none
 distendedness=NN=none
@@ -78971,7 +78902,6 @@ dithionic=JJ=none
 dithionite=NN=us-large
 dithionous=JJ=none
 ditone=noun=none
-ditransitive=noun=au,ca,us
 ditriglyph=noun=none
 ditrochee=noun=none
 ditsy=ditsy/JJ,ditsier/JJR,ditsiest/JJS=au,ca,us
@@ -80687,18 +80617,7 @@ ecogeographically=UNTAGGED=gb
 ecol=NN=au,ca,us
 ecolodge=UNTAGGED=gb
 ecolodges=UNTAGGED=gb
-econ=NN=au,ca,us
 econobox=noun=none
-econometrically=UNTAGGED=gb
-econometrist=noun=us-large
-economicDerminism=NNP=none
-economicsably=UNTAGGED=gb
-economicsally=UNTAGGED=gb
-economicsation=UNTAGGED=gb
-economicsible=UNTAGGED=gb
-economicsion=UNTAGGED=gb
-economicsisability=UNTAGGED=gb
-economicsisable=UNTAGGED=gb
 economism=UNTAGGED=us-large
 econut=noun=none
 ecophysiology=noun_UN=none
@@ -83195,7 +83114,6 @@ essoin=noun=none
 essoiner=noun=none
 essonite=noun=us-large
 essoyne=noun=none
-est=UNTAGGED=all
 estab=NN=none
 establishmentarianism=noun_UN=gb
 estacade=noun=none
@@ -93983,7 +93901,6 @@ homeothermism=NN:UN=none
 homeothermyible=UNTAGGED=gb
 homeowning=UNTAGGED=gb
 homeplace=NN=none
-homeroom=noun=au,ca,us
 homeshoring=UNTAGGED=gb
 homesickly=UNTAGGED=gb
 homesite=noun=none
@@ -96176,7 +96093,6 @@ idoses=UNTAGGED=gb
 idyl=noun=none
 idylist=noun=none
 idyllize=UNTAGGED=us-large
-iftar=UNTAGGED=gb,us
 igad=noun=none
 igapo=noun=none
 ighly=RB=none
@@ -100630,14 +100546,6 @@ kt=UNTAGGED=all
 ku-chiku=NN=none
 kuchean=NN=none
 kuchen=kuchen/NN,kuchen/NNS,kuchens/NNS=au,ca,us
-kudo=noun=us-large
-kudosably=UNTAGGED=gb
-kudosally=UNTAGGED=gb
-kudosation=UNTAGGED=gb
-kudosible=UNTAGGED=gb
-kudosion=UNTAGGED=gb
-kudosisability=UNTAGGED=gb
-kudosisable=UNTAGGED=gb
 kue=noun=none
 kueh=NN=none
 kufiyah=noun=none
@@ -104893,7 +104801,6 @@ mayhappen=RB=none
 mayhaw=NN=none
 mayn=UNTAGGED=au,ca,nz,us,za
 maypop=noun=none
-mayst=UNTAGGED=all
 mayvin=noun=none
 mazaedium=mazaedium/NN,mazaedia/NNS=none
 mazair=NN=none
@@ -116552,7 +116459,6 @@ oldstyle=noun=none
 oldwench=NN=none
 oldwife=oldwife/NN,oldwives/NNS=us-large
 oldy=noun=none
-ole=noun=au,ca,us
 oleaceae=NN=none
 oleales=NN=none
 oleandomycin=noun=none
@@ -125427,10 +125333,6 @@ pranava=NN=none
 pranayama=UNTAGGED=gb
 pranayamas=UNTAGGED=gb
 prand=NN=none
-prang=UNTAGGED=au,ca,gb,nz,us
-pranged=UNTAGGED=au,ca,gb,nz,us
-pranging=UNTAGGED=au,ca,gb,nz,us
-prangs=UNTAGGED=au,ca,gb,nz,us
 pranic=UNTAGGED=gb
 pranidhana=NN=none
 prankful=UNTAGGED=gb

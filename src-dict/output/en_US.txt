@@ -1048,6 +1048,8 @@ brutalize
 brutalized
 brutalizes
 brutalizing
+bub
+bubs
 bureaucratization
 bureaucratizations
 bureaucratize
@@ -1465,6 +1467,8 @@ cliticization
 cliticizations
 close-fertilization
 close-fertilizations
+clothespin
+clothespins
 coalize
 coalized
 coalizes
@@ -3704,6 +3708,8 @@ hokes
 hoking
 homemaker
 homemakers
+homeroom
+homerooms
 hominization
 hominizations
 hominize
