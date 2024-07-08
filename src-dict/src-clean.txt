@@ -22741,7 +22741,7 @@ Labiance=NNP=za # South Africa, placename?
 Labiche=NNP=all
 Laborism|Labourism=noun=us|gb,ca,au,nz,za
 Laborite|Labourite=noun=us|gb,ca,au,nz,za
-Labor|Labour=NNP=us|gb,ca,au,nz,za
+Labor|Labour=NNP=us|all
 Labouchère=NNP=all
 Labrador=Labrador/NNP,Labradors/NNPS=all
 Labradorean=JJ=all
@@ -39658,9 +39658,13 @@ Téllez=NNP=all
 Tübingen=NNP=all
 Türkiye=NNP=all
 Tōkaidō=NNP=all
+U-bend=noun=all
 U-boat=NNP=all
 U-boat=noun=all
+U-boater=noun=all
 U-shaped=JJ=all
+U-turn=noun=all
+U-turn=verb=all
 U10=untagged=all
 U11=untagged=all
 U12=untagged=all
@@ -39740,7 +39744,7 @@ UAL=untagged=all
 UAM=NNP=all
 UAP=untagged=all
 UAR=NNP=all
-UART=NNP=all
+UART=noun=all
 UAS=untagged=all
 UAT=noun=all
 UAU=untagged=all
@@ -39793,12 +39797,12 @@ UDA=NNP=all
 UDB=untagged=all
 UDC=NNP=all
 UDDM=untagged=all
-UDF=untagged=all
-UDG=untagged=all
+UDF=noun=all
+UDG=noun=all
 UDHR=NNP=all
 UDL=untagged=all
 UDM=untagged=all
-UDP=untagged=all
+UDP=noun=all
 UDPS=untagged=all
 UDR=untagged=all
 UDS=untagged=all
@@ -39819,13 +39823,14 @@ UET=untagged=all
 UFA=untagged=all
 UFBA=NN:U=all
 UFC=NNP=all
-UFD=untagged=all
+UFD=noun=all
 UFE=untagged=all
 UFEDP=untagged=all
 UFF=untagged=all
 UFG=untagged=all
 UFI=untagged=all
 UFO=UFO/NNP,UFOs/NNPS=all
+UFOlogist=noun=all
 UFP=untagged=all
 UFR=untagged=all
 UFRJ=NNP=all
@@ -39850,11 +39855,12 @@ UHC=NNP=all
 UHCD=untagged=all
 UHD=NN:U=all
 UHF=NNP=all
+UHF=noun=all
 UI=noun_UN=all
 UIA=untagged=all
 UIC=untagged=all
 UICN=untagged=all
-UID=NNP=all
+UID=noun=all
 UIG=untagged=all
 UIGB=untagged=all
 UIGSE=untagged=all
@@ -40398,7 +40404,7 @@ VBScript=NNP=all
 VC=VC/NN:UN,VC/NNP,VCs/NNS=all
 VCAC=untagged=all
 VCC=untagged=all
-VCD=untagged=all
+VCD=noun=all
 VCF=untagged=all
 VCI=untagged=all
 VCM=untagged=all
@@ -40417,8 +40423,8 @@ VDI=untagged=all
 VDM=NNP=all
 VDN=untagged=all
 VDSL=untagged=all
-VDT=untagged=all
-VDU=untagged=all
+VDT=noun=all
+VDU=noun=all
 VDX=untagged=all
 VE=untagged=all
 VEB=untagged=all
@@ -48246,9 +48252,9 @@ appetite=noun_UN=all
 appetitive=JJ=all
 appetizer|appetiser=noun=us,ca,gb|gb,au,nz,za
 appetize|appetise=verb=us,ca,gb|gb,au,nz,za
-appetizing=JJ=all
-appetizingly=RB=all
-appetizingness=NN:U=all
+appetizingly|appetisingly=RB=us,ca,gb|gb,au,nz,za
+appetizingness|appetisingness=NN:U=us,ca,gb|gb,au,nz,za
+appetizing|appetising=JJ=us,ca,gb|gb,au,nz,za
 applaud=verb=all
 applaudable=JJ=all
 applaudably=RB=all
@@ -49894,10 +49900,13 @@ authorship=noun_U=all
 autism=noun_U=all
 autistic=JJ=all
 autistic=noun=all
+auto-bid [auto-bids;auto-bade,auto-bid;auto-bid,auto-bidden;auto-bidding]=verb=all
+auto-caption=verb=all
 auto-complete=NN:UN=all
 auto-completion=NN:UN=all
 auto-da-fé=auto-da-fé/NN,autos-da-fé/NNS=all
 auto-detect=verb=all
+auto-detection=NN:U=all
 auto-fit [-tt-]=verb=all
 auto-inject=verb=all
 auto-injection=noun=all
@@ -49917,6 +49926,7 @@ autoanalysis [pl. autoanalyses]=noun_UN=all
 autoanalyzer|autoanalyser=noun=ca,us|au,gb,nz,za
 autoantibody=noun_U=all
 autobahn=autobahn/NN,autobahnen/NNS,autobahns/NNS=all
+autobid=noun=all
 autobiographer=noun=all
 autobiographic=JJ=all
 autobiographical=JJ=all
@@ -50050,6 +50060,7 @@ autonomize|autonomise=verb=us,ca,gb|gb,au,nz,za
 autonomous=JJ=all
 autonomously=RB=all
 autonomy=noun_U=all
+autopay=noun=all
 autophagy=NN:U=all
 autophobia=NN:U=all
 autopilot=autopilot/NN,autopilot/NN:UN,autopilots/NNS=all
@@ -54973,6 +54984,7 @@ built-in=NN=all
 built-up=JJ=all
 buirdly=RB=all
 bukovskýite=NN:U=all
+bulb-like=JJ=all
 bulb=noun=all
 bulbaceous=JJ=all
 bulbar=JJ=all
@@ -54980,6 +54992,7 @@ bulbed=JJ=all
 bulbiferous=JJ=all
 bulbil=noun=all
 bulbless=JJ=all
+bulblike=JJ=all
 bulbourethral=JJ=all
 bulbous=JJ=all
 bulbul=noun=all
@@ -62430,6 +62443,7 @@ core=verb=all
 coreferential=JJ=all
 corelative=JJ=all
 coreless=JJ=all
+coreligionist=noun=all
 coreopsis=noun=all
 corer=noun=all
 corf=corf/NN,corves/NNS=all
@@ -63690,7 +63704,7 @@ criticism=noun_UN=all
 criticizable|criticisable=JJ=us,ca,gb|gb,au,nz,za
 criticizer|criticiser=noun=us,ca,gb|gb,au,nz,za
 criticize|criticise=verb=us,ca,gb|gb,au,nz,za
-criticizingly=RB=all
+criticizingly|criticisingly=RB=us,ca,gb|gb,au,nz,za
 critique=noun=all
 critique=verb=all
 critter=noun=all
@@ -69329,6 +69343,8 @@ doom=noun_UN=all
 doom=verb=all
 doomed=JJ=all
 dooms=RB=all
+doomsayer=noun=all
+doomsaying=NN:U=all
 doomscroll=verb=all
 doomsday=noun_U=all
 doomster=noun=all
@@ -70005,6 +70021,7 @@ druggie=noun=all
 druggy=noun=all
 drugless=JJ=all
 drugmaker=noun=all
+drugmaking=NN:U=all
 drugstore=noun=au,ca,us
 druid=noun=all
 druidic=JJ=all
@@ -74880,7 +74897,7 @@ familiarisingly=RB=all
 familiarity=noun_U=all
 familiarization|familiarisation=noun_UN=us,ca,gb|gb,au,nz,za
 familiarize|familiarise=verb=us,ca,gb|gb,au,nz,za
-familiarizingly=RB=all
+familiarizingly|familiarisingly=RB=us,ca,gb|gb,au,nz,za
 familiarly=RB=all
 familiarness=NN:U=all
 familism=noun_UN=all
@@ -87995,7 +88012,7 @@ individualistically=RB=all
 individuality=noun_U=all
 individualization|individualisation=noun_UN=us,ca,gb|gb,au,nz,za
 individualize|individualise=verb=us,ca,gb|gb,au,nz,za
-individualizingly=RB=all
+individualizingly|individualisingly=RB=us,ca,gb|gb,au,nz,za
 individually=RB=all
 individuate=verb=all
 individuation=noun_U=all
@@ -95358,6 +95375,7 @@ lytically=RB=all
 lèse-majesté=noun_UN=all
 löllingite=NN:U=all
 m=abbreviation=all
+mAh=symbol=all
 mCi=mCi/NN:U,mCi/NNP=all
 mRNA=mRNA/NN,mRNA/NNP,mRNAs/NNS=all
 mSATA=NNP=all
@@ -95451,6 +95469,7 @@ macronuclear=JJ=all
 macronucleus=macronucleus/NN,macronuclei/NNS,macronucleuses/NNS=all
 macronutrient=noun=all
 macrophage=noun=all
+macrophagelike=JJ=all
 macrophotography=noun=all
 macrophyte=noun=all
 macrophytic=JJ=all
@@ -96005,7 +96024,7 @@ manipulatable=JJ=all
 manipulate=verb=all
 manipulation=noun_UN=all
 manipulative=JJ=all
-manipulative=NN=all
+manipulative=noun=all
 manipulativeness=NN:U=all
 manipulator=noun=all
 manistic=JJ=all
@@ -97373,6 +97392,8 @@ mesmerization|mesmerisation=noun_UN=us,ca,gb|gb,au,nz,za
 mesmerized|mesmerised=JJ=us,ca,gb|gb,au,nz,za
 mesmerizer|mesmeriser=noun=us,ca,gb|gb,au,nz,za
 mesmerize|mesmerise=verb=us,ca,gb|gb,au,nz,za
+mesmerizingly|mesmerisingly=RB=us,ca,gb|gb,au,nz,za
+mesmerizing|mesmerising=JJ=us,ca,gb|gb,au,nz,za
 mesne=JJ=all
 mesne=noun=all
 mesoblast=noun=all
@@ -99619,6 +99640,8 @@ morality=noun_U=all
 moralization|moralisation=noun_UN=us,ca,gb|gb,au,nz,za
 moralizer|moraliser=noun=us,ca,gb|gb,au,nz,za
 moralize|moralise=verb=us,ca,gb|gb,au,nz,za
+moralizingly|moralisingly=RB=us,ca,gb|gb,au,nz,za
+moralizing|moralising=JJ=us,ca,gb|gb,au,nz,za
 moralless=JJ=all
 morally=RB=all
 morass=noun=all
@@ -125568,7 +125591,7 @@ scrutineer=noun=all
 scrutinization|scrutinisation=noun_UN=us,ca,gb|gb,au,nz,za
 scrutinizer|scrutiniser=noun=us,ca,gb|gb,au,nz,za
 scrutinize|scrutinise=verb=us,ca,gb|gb,au,nz,za
-scrutinizingly=RB=all
+scrutinizingly|scrutinisingly=RB=us,ca,gb|gb,au,nz,za
 scrutiny=noun_U=all
 scuba-dive [scuba-dives;scuba-dived,scuba-dove;scuba-dived,scuba-dove;scuba-diving]=verb=all
 scuba=noun_U=all
@@ -127812,6 +127835,7 @@ shoe=shoe/NN,shoes/NNS,shoon/NNS=all
 shoebill=noun=all
 shoeblack=noun_U=all
 shoebox=noun=all
+shoeboxlike=JJ=all
 shoegaze=NN:U=all
 shoehorn=noun=all
 shoehorn=verb=all
@@ -135788,7 +135812,7 @@ sympathetically=RB=all
 sympathisingly=RB=all
 sympathizer|sympathiser=noun=us,ca,gb|gb,au,nz,za
 sympathize|sympathise=verb=us,ca,gb|gb,au,nz,za
-sympathizingly=RB=all
+sympathizingly|sympathisingly=RB=us,ca,gb|gb,au,nz,za
 sympathoadrenal=JJ=all
 sympatholytic=JJ=all
 sympathomimetic=JJ=all
@@ -136971,8 +136995,8 @@ temporisingly=RB=all
 temporization|temporisation=noun_UN=us,ca,gb|gb,au,nz,za
 temporizer|temporiser=noun=us,ca,gb|gb,au,nz,za
 temporize|temporise=verb=us,ca,gb|gb,au,nz,za
-temporizing=noun_UN=all
-temporizingly=RB=all
+temporizingly|temporisingly=RB=us,ca,gb|gb,au,nz,za
+temporizing|temporising=noun_UN=us,ca,gb|gb,au,nz,za
 temporomandibular=JJ=all
 tempt=verb=all
 temptable=JJ=all
@@ -141220,7 +141244,7 @@ tyrannicidal=JJ=all
 tyrannicide=noun=all
 tyrannizer|tyranniser=noun=us,ca,gb|gb,au,nz,za
 tyrannize|tyrannise=verb=us,ca,gb|gb,au,nz,za
-tyrannizingly=RB=all
+tyrannizingly|tyrannisingly=RB=us,ca,gb|gb,au,nz,za
 tyrannosaur=noun=all
 tyrannosaurid=noun=all
 tyrannosaurus=noun=all
@@ -141805,11 +141829,9 @@ unappeased=JJ=all
 unappendaged=JJ=all
 unappended=JJ=all
 unapperceived=JJ=all
-unappetising=JJ=all
-unappetisingly=RB=all
-unappetizing=JJ=all
-unappetizingly=RB=all
-unappetizingness=NN:U=all
+unappetizingly|unappetisingly=RB=us,ca,gb|gb,au,nz,za
+unappetizingness|unappetisingness=NN:U=us,ca,gb|gb,au,nz,za
+unappetizing|unappetising=JJ=us,ca,gb|gb,au,nz,za
 unapplauded=JJ=all
 unapplauding=JJ=all
 unapplausive=JJ=all
@@ -143330,8 +143352,8 @@ uncritical=JJ=all
 uncritically=RB=all
 uncriticizable|uncriticisable=JJ=us,ca,gb|gb,au,nz,za
 uncriticized|uncriticised=JJ=us,ca,gb|gb,au,nz,za
-uncriticizing=JJ=all
-uncriticizingly=RB=all
+uncriticizingly|uncriticisingly=RB=us,ca,gb|gb,au,nz,za
+uncriticizing|uncriticising=JJ=us,ca,gb|gb,au,nz,za
 uncrooked=JJ=all
 uncropped=JJ=all
 uncross-examined=JJ=all
@@ -147632,11 +147654,10 @@ unpatriotic=JJ=all
 unpatriotically=RB=all
 unpatristic=JJ=all
 unpatrolled=JJ=all
-unpatronising=JJ=all
 unpatronizable|unpatronisable=JJ=us,ca,gb|gb,au,nz,za
 unpatronized|unpatronised=JJ=us,ca,gb|gb,au,nz,za
-unpatronizing=JJ=all
-unpatronizingly=RB=all
+unpatronizingly|unpatronisingly=RB=us,ca,gb|gb,au,nz,za
+unpatronizing|unpatronising=JJ=us,ca,gb|gb,au,nz,za
 unpatted=JJ=all
 unpatterned=JJ=all
 unpause=verb=all
@@ -149172,8 +149193,8 @@ unscrupulously=RB=all
 unscrupulousness=NN:U=all
 unscrutini<ed|unscrutinised=JJ=us,ca,gb|gb,au,nz,za
 unscrutinized|unscrutinised=JJ=us,ca,gb|gb,au,nz,za
-unscrutinizing=JJ=all
-unscrutinizingly=RB=all
+unscrutinizingly|unscrutinisingly=RB=us,ca,gb|gb,au,nz,za
+unscrutinizing|unscrutinising=JJ=us,ca,gb|gb,au,nz,za
 unsculptural=JJ=all
 unsculptured=JJ=all
 unscummed=JJ=all
@@ -150170,8 +150191,8 @@ unsymmetrized|unsymmetrised=JJ=us,ca,gb|gb,au,nz,za
 unsympathetic=JJ=all
 unsympathetically=RB=all
 unsympathized|unsympathised=JJ=us,ca,gb|gb,au,nz,za
-unsympathizing=JJ=all
-unsympathizingly=RB=all
+unsympathizingly|unsympathisingly=RB=us,ca,gb|gb,au,nz,za
+unsympathizing|unsympathising=JJ=us,ca,gb|gb,au,nz,za
 unsymphonious=JJ=all
 unsymptomatic=JJ=all
 unsynchronized|unsynchronised=JJ=us,ca,gb|gb,au,nz,za

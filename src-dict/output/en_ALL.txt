@@ -21013,6 +21013,7 @@ Laban
 Labe
 Labiche
 Labouchère
+Labour
 Labrador
 Labradorean
 Labradors
@@ -35682,9 +35683,17 @@ Tübingen
 Türkiye
 Tōkaidō
 U
+U-bend
+U-bends
 U-boat
+U-boater
+U-boaters
 U-boats
 U-shaped
+U-turn
+U-turned
+U-turning
+U-turns
 U10
 U11
 U12
@@ -35764,6 +35773,7 @@ UAM
 UAP
 UAR
 UART
+UARTs
 UAS
 UAT
 UATs
@@ -35818,12 +35828,15 @@ UDB
 UDC
 UDDM
 UDF
+UDFs
 UDG
+UDGs
 UDHR
 UDL
 UDM
 UDP
 UDPS
+UDPs
 UDR
 UDS
 UDSR
@@ -35844,12 +35857,15 @@ UFA
 UFBA
 UFC
 UFD
+UFDs
 UFE
 UFEDP
 UFF
 UFG
 UFI
 UFO
+UFOlogist
+UFOlogists
 UFOs
 UFP
 UFR
@@ -35875,11 +35891,13 @@ UHC
 UHCD
 UHD
 UHF
+UHFs
 UI
 UIA
 UIC
 UICN
 UID
+UIDs
 UIG
 UIGB
 UIGSE
@@ -36376,6 +36394,7 @@ VC
 VCAC
 VCC
 VCD
+VCDs
 VCF
 VCI
 VCM
@@ -36397,7 +36416,9 @@ VDM
 VDN
 VDSL
 VDT
+VDTs
 VDU
+VDUs
 VDX
 VE
 VEB
@@ -45559,9 +45580,6 @@ appetisingly
 appetite
 appetites
 appetitive
-appetizing
-appetizingly
-appetizingness
 applaud
 applaudable
 applaudably
@@ -47885,12 +47903,22 @@ autisms
 autistic
 autistics
 auto
+auto-bade
+auto-bid
+auto-bidden
+auto-bidding
+auto-bids
+auto-caption
+auto-captioned
+auto-captioning
+auto-captions
 auto-complete
 auto-completion
 auto-da-fé
 auto-detect
 auto-detected
 auto-detecting
+auto-detection
 auto-detects
 auto-fit
 auto-fits
@@ -47936,6 +47964,8 @@ autoantibody
 autobahn
 autobahnen
 autobahns
+autobid
+autobids
 autobiographer
 autobiographers
 autobiographic
@@ -48148,6 +48178,8 @@ autonomists
 autonomous
 autonomously
 autonomy
+autopay
+autopays
 autophagy
 autophobia
 autopilot
@@ -55503,6 +55535,7 @@ built-up
 buirdly
 bukovskýite
 bulb
+bulb-like
 bulbaceous
 bulbar
 bulbed
@@ -55510,6 +55543,7 @@ bulbiferous
 bulbil
 bulbils
 bulbless
+bulblike
 bulbourethral
 bulbous
 bulbs
@@ -66400,6 +66434,8 @@ cored
 coreferential
 corelative
 coreless
+coreligionist
+coreligionists
 coreopsis
 coreopsises
 corer
@@ -68316,7 +68352,6 @@ criticalness
 criticisingly
 criticism
 criticisms
-criticizingly
 critics
 critique
 critiqued
@@ -76680,6 +76715,9 @@ doom
 doomed
 dooming
 dooms
+doomsayer
+doomsayers
+doomsaying
 doomscroll
 doomscrolled
 doomscrolling
@@ -77698,6 +77736,7 @@ druggy
 drugless
 drugmaker
 drugmakers
+drugmaking
 drugs
 druid
 druidic
@@ -84803,7 +84842,6 @@ familiar
 familiarisingly
 familiarities
 familiarity
-familiarizingly
 familiarly
 familiarness
 familiars
@@ -103342,7 +103380,6 @@ individualistically
 individualists
 individualities
 individuality
-individualizingly
 individually
 individuals
 individuate
@@ -113720,6 +113757,7 @@ lèse-majesté
 lèse-majestés
 löllingite
 m
+mAh
 mCi
 mRNA
 mRNAs
@@ -113859,6 +113897,7 @@ macronucleuses
 macronutrient
 macronutrients
 macrophage
+macrophagelike
 macrophages
 macrophotographies
 macrophotography
@@ -114683,6 +114722,7 @@ manipulation
 manipulations
 manipulative
 manipulativeness
+manipulatives
 manipulator
 manipulators
 manistic
@@ -156223,7 +156263,6 @@ scrutators
 scrutineer
 scrutineers
 scrutinies
-scrutinizingly
 scrutiny
 scuba
 scuba-dive
@@ -159137,6 +159176,7 @@ shoeblack
 shoeblacks
 shoebox
 shoeboxes
+shoeboxlike
 shoed
 shoegaze
 shoehorn
@@ -170398,7 +170438,6 @@ sympathetically
 sympathetics
 sympathies
 sympathisingly
-sympathizingly
 sympathoadrenal
 sympatholytic
 sympathomimetic
@@ -172079,9 +172118,6 @@ temporarily
 temporariness
 temporary
 temporisingly
-temporizing
-temporizingly
-temporizings
 temporomandibular
 tempos
 temps
@@ -177936,7 +177972,6 @@ tyrannicidal
 tyrannicide
 tyrannicides
 tyrannies
-tyrannizingly
 tyrannosaur
 tyrannosaurid
 tyrannosaurids
@@ -178574,11 +178609,6 @@ unappeased
 unappendaged
 unappended
 unapperceived
-unappetising
-unappetisingly
-unappetizing
-unappetizingly
-unappetizingness
 unapplauded
 unapplauding
 unapplausive
@@ -180188,8 +180218,6 @@ uncriminally
 uncrippled
 uncritical
 uncritically
-uncriticizing
-uncriticizingly
 uncrooked
 uncropped
 uncross
@@ -184881,9 +184909,6 @@ unpatriotic
 unpatriotically
 unpatristic
 unpatrolled
-unpatronising
-unpatronizing
-unpatronizingly
 unpatted
 unpatterned
 unpause
@@ -186460,8 +186485,6 @@ unscrupled
 unscrupulous
 unscrupulously
 unscrupulousness
-unscrutinizing
-unscrutinizingly
 unsculptural
 unsculptured
 unscummed
@@ -187501,8 +187524,6 @@ unsymmetrical
 unsymmetrically
 unsympathetic
 unsympathetically
-unsympathizing
-unsympathizingly
 unsymphonious
 unsymptomatic
 unsynchronous

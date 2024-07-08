@@ -162,7 +162,6 @@ Judaise
 Judaised
 Judaises
 Judaising
-Labour
 Labourism
 Labourisms
 Labourite
@@ -692,6 +691,8 @@ appetiser
 appetisers
 appetises
 appetising
+appetisingly
+appetisingness
 applesauce
 applesauces
 arabicisation
@@ -1716,6 +1717,7 @@ criticiser
 criticisers
 criticises
 criticising
+criticisingly
 cross-fertilisation
 cross-fertilisations
 cross-town
@@ -2925,6 +2927,7 @@ familiarise
 familiarised
 familiarises
 familiarising
+familiarisingly
 fanaticise
 fanaticised
 fanaticises
@@ -3840,6 +3843,7 @@ individualise
 individualised
 individualises
 individualising
+individualisingly
 indoctrinisation
 indoctrinisations
 industrialisation
@@ -4510,6 +4514,7 @@ mesmeriser
 mesmerisers
 mesmerises
 mesmerising
+mesmerisingly
 metabolisable
 metabolise
 metabolised
@@ -4787,6 +4792,7 @@ moraliser
 moralisers
 moralises
 moralising
+moralisingly
 mortalise
 mortalised
 mortalises
@@ -7343,6 +7349,7 @@ scrutiniser
 scrutinisers
 scrutinises
 scrutinising
+scrutinisingly
 seborrhoea
 seborrhoeas
 sectarianise
@@ -7954,6 +7961,7 @@ sympathiser
 sympathisers
 sympathises
 sympathising
+sympathisingly
 symphonisation
 symphonisations
 synchronisation
@@ -8094,6 +8102,8 @@ temporiser
 temporisers
 temporises
 temporising
+temporisingly
+temporisings
 ten-litre
 ten-litres
 tenderisation
@@ -8334,6 +8344,7 @@ tyranniser
 tyrannisers
 tyrannises
 tyrannising
+tyrannisingly
 tyre
 tyred
 tyres
@@ -8350,6 +8361,9 @@ unantagonisable
 unantagonised
 unapostatised
 unapostrophised
+unappetising
+unappetisingly
+unappetisingness
 unapprised
 unarmoured
 unauthorised
@@ -8388,6 +8402,8 @@ uncolouredness
 uncommercialised
 uncriticisable
 uncriticised
+uncriticising
+uncriticisingly
 uncrystallisable
 uncrystallised
 undateable
@@ -8557,6 +8573,8 @@ unparticularised
 unpasteurised
 unpatronisable
 unpatronised
+unpatronising
+unpatronisingly
 unpenalised
 unpersonalised
 unphosphatised
@@ -8601,6 +8619,8 @@ unsavoury
 unscandalised
 unschematised
 unscrutinised
+unscrutinising
+unscrutinisingly
 unsectionalised
 unsecularised
 unself-centred
@@ -8628,6 +8648,8 @@ unsummarised
 unsymbolised
 unsymmetrised
 unsympathised
+unsympathising
+unsympathisingly
 unsynchronised
 unsynthesised
 unsystematised

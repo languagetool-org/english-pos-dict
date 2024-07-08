@@ -686,6 +686,8 @@ appetizer
 appetizers
 appetizes
 appetizing
+appetizingly
+appetizingness
 applesauce
 applesauces
 arabicization
@@ -1790,6 +1792,7 @@ criticizer
 criticizers
 criticizes
 criticizing
+criticizingly
 cross-fertilization
 cross-fertilizations
 cross-town
@@ -3068,6 +3071,7 @@ familiarize
 familiarized
 familiarizes
 familiarizing
+familiarizingly
 fanaticize
 fanaticized
 fanaticizes
@@ -4013,6 +4017,7 @@ individualize
 individualized
 individualizes
 individualizing
+individualizingly
 indoctrinization
 indoctrinizations
 industrialization
@@ -4725,6 +4730,7 @@ mesmerizer
 mesmerizers
 mesmerizes
 mesmerizing
+mesmerizingly
 metabolizable
 metabolize
 metabolized
@@ -5016,6 +5022,7 @@ moralizer
 moralizers
 moralizes
 moralizing
+moralizingly
 mortalize
 mortalized
 mortalizes
@@ -7593,6 +7600,7 @@ scrutinizer
 scrutinizers
 scrutinizes
 scrutinizing
+scrutinizingly
 seborrhea
 seborrheas
 sectarianize
@@ -8246,6 +8254,7 @@ sympathizer
 sympathizers
 sympathizes
 sympathizing
+sympathizingly
 symphonization
 symphonizations
 synchronization
@@ -8386,6 +8395,8 @@ temporizer
 temporizers
 temporizes
 temporizing
+temporizingly
+temporizings
 ten-liter
 ten-liters
 tenderization
@@ -8650,6 +8661,7 @@ tyrannizer
 tyrannizers
 tyrannizes
 tyrannizing
+tyrannizingly
 ultraminiaturization
 ultraminiaturizations
 unacclimatized
@@ -8662,6 +8674,9 @@ unantagonizable
 unantagonized
 unapostatized
 unapostrophized
+unappetizing
+unappetizingly
+unappetizingness
 unapprized
 unarmored
 unauthorized
@@ -8704,6 +8719,8 @@ uncoloredness
 uncommercialized
 uncriticizable
 uncriticized
+uncriticizing
+uncriticizingly
 uncrystallizable
 uncrystallized
 undefensed
@@ -8875,6 +8892,8 @@ unparticularized
 unpasteurized
 unpatronizable
 unpatronized
+unpatronizing
+unpatronizingly
 unpenalized
 unpersonalized
 unphosphatized
@@ -8924,6 +8943,8 @@ unscandalized
 unschematized
 unscrutini<ed
 unscrutinized
+unscrutinizing
+unscrutinizingly
 unsectionalized
 unsecularized
 unself-centered
@@ -8954,6 +8975,8 @@ unsummarized
 unsymbolized
 unsymmetrized
 unsympathized
+unsympathizing
+unsympathizingly
 unsynchronized
 unsynthesized
 unsystematized
