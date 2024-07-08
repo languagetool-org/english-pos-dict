@@ -92011,7 +92011,7 @@ kilocandela=noun=all
 kilocoulomb=noun=all
 kilocycle=noun=all
 kilofarad=noun=all
-kilogram-meter=noun=all
+kilogram-meter|kilogram-metre=noun=all|au,ca,gb,nz,za
 kilogram|kilogramme=noun=all|au,ca,gb,nz,za
 kilogray=noun=all
 kilohenry=noun=all
@@ -118857,6 +118857,7 @@ quectokelvin=noun=all
 quectoliter|quectolitre=noun=us|au,ca,gb,nz,za
 quectolumen=noun=all
 quectolux=quectolux/NN,quectolux/NNS=all
+quectometer|quectometre=noun=all|au,ca,gb,nz,za
 quectomole=noun=all
 quectonewton=noun=all
 quectoohm=noun=all
@@ -123597,6 +123598,7 @@ rontokelvin=noun=all
 rontoliter|rontolitre=noun=us|au,ca,gb,nz,za
 rontolumen=noun=all
 rontolux=rontolux/NN,rontolux/NNS=all
+rontometer|rontometre=noun=all|au,ca,gb,nz,za
 rontomole=noun=all
 rontonewton=noun=all
 rontoohm=noun=all

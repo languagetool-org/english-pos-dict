@@ -9557,6 +9557,8 @@ keratinises
 keratinising
 kerb
 kerbs
+kilogram-metre
+kilogram-metres
 kilogramme
 kilogrammes
 kilolitre
@@ -12148,6 +12150,8 @@ quasi-honourable
 quasi-honourably
 quectolitre
 quectolitres
+quectometre
+quectometres
 quettalitre
 quettalitres
 quettametre
@@ -12674,6 +12678,8 @@ ronnametre
 ronnametres
 rontolitre
 rontolitres
+rontometre
+rontometres
 rose-coloured
 routinisation
 routinisations

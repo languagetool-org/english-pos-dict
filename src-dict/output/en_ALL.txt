@@ -145360,6 +145360,8 @@ quectokelvins
 quectolumen
 quectolumens
 quectolux
+quectometer
+quectometers
 quectomole
 quectomoles
 quectonewton
@@ -153345,6 +153347,8 @@ rontokelvins
 rontolumen
 rontolumens
 rontolux
+rontometer
+rontometers
 rontomole
 rontomoles
 rontonewton

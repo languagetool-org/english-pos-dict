@@ -4042,6 +4042,8 @@ keratinizes
 keratinizing
 kickoff
 kickoffs
+kilogram-metre
+kilogram-metres
 kilogramme
 kilogrammes
 kilolitre
@@ -6610,6 +6612,8 @@ quasi-honourable
 quasi-honourably
 quectolitre
 quectolitres
+quectometre
+quectometres
 quettalitre
 quettalitres
 quettametre
@@ -7141,6 +7145,8 @@ ronnametre
 ronnametres
 rontolitre
 rontolitres
+rontometre
+rontometres
 rose-coloured
 routinization
 routinizations
