@@ -4819,6 +4819,12 @@ moustache
 moustached
 moustaches
 moveableness
+mugwump
+mugwumperies
+mugwumpery
+mugwumpism
+mugwumpisms
+mugwumps
 multi-specialties
 multi-specialty
 multicentre
@@ -4975,6 +4981,10 @@ nephrectomize
 nephrectomized
 nephrectomizes
 nephrectomizing
+nerf
+nerfed
+nerfing
+nerfs
 neurobehavioural
 neurohumour
 neurohumours
@@ -6590,6 +6600,12 @@ puritanized
 puritanizes
 puritanizing
 purple-coloured
+putz
+putzed
+putzes
+putzing
+pyorrhea
+pyorrheas
 pyritize
 pyritized
 pyritizes

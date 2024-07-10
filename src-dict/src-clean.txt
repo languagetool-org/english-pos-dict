@@ -186,7 +186,6 @@
 #martian=JJ=all # capitalized
 #martian=noun=all # capitalized
 #mayhappen=RB=all dialect
-mayst=MD=all # archaic, second-person singular simple present indicative of may
 #mazedly=RB=all archaic
 #measle=noun=none unusual
 #medicaid=noun_UN=all
@@ -94100,10 +94099,10 @@ limonene=noun_U=all
 limonite=noun=all
 limonitic=JJ=all
 limousine=noun=all
+limp-wristed=JJ=all
 limp=limp/JJ,limper/JJR,limpest/JJS=all
 limp=noun=all
 limp=verb=all
-limp-wristed=JJ=all
 limper=noun=all
 limpet=noun=all
 limpid=JJ=all
@@ -96779,6 +96778,7 @@ mayoralty=noun_U=all
 mayoress=noun=all
 mayorship=noun=all
 maypole=noun=all
+mayst=MD=all # archaic, second-person singular simple present indicative of may
 mayweed=noun=all
 mazard=noun=all
 maze=noun=all
@@ -100195,9 +100195,9 @@ mugshot=noun=all
 mugwort=noun=all
 mugwump=noun=au,ca,us
 mugwumpery=noun=au,ca,us
-mugwumpism=noun_UN=au,ca,us
 mugwumpian=JJ=all
 mugwumpish=JJ=all
+mugwumpism=noun_UN=au,ca,us
 mujahedeen=NNS=all
 mujahedin=NNS=all
 mujahideen=NNS=all
@@ -118519,9 +118519,9 @@ pyogenesis [pl. pyogeneses]=noun_U=all
 pyogenic=JJ=all
 pyoid=JJ=all
 pyorrhea=noun_U=ca,us
-pyorrhoea=noun_U=au,gb,nz,za
 pyorrheal=JJ=all
 pyorrheic=JJ=all
+pyorrhoea=noun_U=au,gb,nz,za
 pyorrhoeal=JJ=all
 pyorrhoeic=JJ=all
 pyralid=JJ=all
@@ -124026,8 +124026,8 @@ rugger=noun_U=all
 rugose=JJ=all
 rugosely=RB=all
 rugosity=noun_UN=all
-rugulose=JJ=all
 rugrat=noun=all
+rugulose=JJ=all
 ruin=noun_UN=all
 ruin=verb=all
 ruinable=JJ=all

@@ -52749,6 +52749,7 @@ blastula
 blastular
 blastulas
 blasé
+blat
 blatancies
 blatancy
 blatant
@@ -52761,6 +52762,9 @@ blatherer
 blatherers
 blathering
 blathers
+blats
+blatted
+blatting
 blaze
 blazed
 blazer
@@ -108803,8 +108807,8 @@ kibitz
 kibitzed
 kibitzer
 kibitzers
+kibitzes
 kibitzing
-kibitzs
 kiblah
 kiblahs
 kibosh
@@ -108880,6 +108884,10 @@ kidneys
 kids
 kidskin
 kidskins
+kielbasa
+kielbasas
+kielbasi
+kielbasy
 kier
 kiers
 kieselguhr
@@ -109299,11 +109307,15 @@ knelling
 knells
 knelt
 knew
+knick-knack
+knick-knacks
+knicker
 knickerbocker
 knickerbockered
 knickerbockers
 knickered
 knickerless
+knickers
 knife
 knifed
 knifeless
@@ -109456,11 +109468,13 @@ kombucha
 kombuchas
 konimeter
 konimeters
+kook
 kookaburra
 kookaburras
 kookier
 kookiest
 kookiness
+kooks
 kooky
 kopeck
 kopecks
@@ -110652,6 +110666,7 @@ lazybones
 lazying
 lazyish
 lb
+lbs
 lea
 leach
 leachable
@@ -111925,6 +111940,7 @@ limos
 limousine
 limousines
 limp
+limp-wristed
 limped
 limper
 limpers
@@ -112613,6 +112629,8 @@ locative
 locatives
 locator
 locators
+locavore
+locavores
 loch
 loches
 lochia
@@ -112838,6 +112856,10 @@ lolloping
 lollops
 lolls
 lolly
+lollygag
+lollygagged
+lollygagging
+lollygags
 loment
 lomentaceous
 loments
@@ -114799,6 +114821,8 @@ manifolds
 maniform
 manikin
 manikins
+manila
+manilas
 manille
 manilles
 manioc
@@ -115789,6 +115813,7 @@ mayos
 maypole
 maypoles
 mays
+mayst
 mayweed
 mayweeds
 mazard
@@ -116873,6 +116898,7 @@ messianic
 messianically
 messier
 messiest
+messieurs
 messily
 messiness
 messing
@@ -117315,6 +117341,7 @@ microaggressive
 microaggressor
 microaggressors
 microalbuminuric
+microalgae
 microampere
 microamperes
 microanalyses
@@ -119961,6 +119988,7 @@ monoxide
 monoxides
 monozygotic
 monozygous
+monsieur
 monsoon
 monsoonal
 monsoons
@@ -120429,6 +120457,7 @@ motiveless
 motivelessly
 motivelessness
 motives
+motivic
 motiving
 motivities
 motivity
@@ -121890,6 +121919,7 @@ n's
 n't
 n-type
 na
+naan
 nab
 nabbed
 nabbing
@@ -123509,6 +123539,8 @@ nimbuses
 nimieties
 nimiety
 niminy-piminy
+nimrod
+nimrods
 nincompoop
 nincompoopish
 nincompoops
@@ -127333,6 +127365,8 @@ obfuscating
 obfuscation
 obfuscations
 obfuscatory
+obi
+obis
 obit
 obits
 obituaries
@@ -128176,6 +128210,7 @@ olds
 oldster
 oldsters
 oldtime
+ole
 oleaceous
 oleaginous
 oleaginousness
@@ -129081,6 +129116,8 @@ oreganos
 ores
 organ
 organa
+organdies
+organdy
 organelle
 organelles
 organic
@@ -131743,6 +131780,8 @@ oysterings
 oysterman
 oystermen
 oysters
+oz
+ozes
 ozone
 ozone-friendly
 ozones
@@ -132435,6 +132474,7 @@ pantry
 pants
 pantsuit
 pantsuits
+pantyhose
 panurgic
 panzer
 panzers
@@ -132465,6 +132505,8 @@ paperboards
 paperbound
 paperboy
 paperboys
+paperclip
+paperclips
 papercraft
 papercrafter
 papercrafters
@@ -132629,8 +132671,12 @@ parageneses
 paragenesis
 paragenetic
 parageusic
+paraglide
+paraglided
 paraglider
 paragliders
+paraglides
+paragliding
 paragogic
 paragogical
 paragogically
@@ -132899,6 +132945,7 @@ pare
 pared
 paregoric
 paregorics
+pareidolia
 parenchymal
 parenchymatous
 parent
@@ -135448,6 +135495,7 @@ petitory
 petless
 petrel
 petrels
+petrichor
 petrifaction
 petrifactions
 petrifiable
@@ -136383,6 +136431,7 @@ phytobenthos
 phytocannabinoid
 phytocannabinoids
 phytochemical
+phytochemicals
 phytocidal
 phytoestrogen
 phytoestrogens
@@ -136953,6 +137002,9 @@ pinkish
 pinkishness
 pinkly
 pinkness
+pinko
+pinkoes
+pinkos
 pinks
 pinky
 pinna
@@ -137018,6 +137070,7 @@ pinwheels
 pinworm
 pinworms
 piny
+pinyin
 pinyon
 pinyons
 pion
@@ -138765,6 +138818,7 @@ polyrhythms
 polys
 polysaccharide
 polysaccharides
+polysemic
 polysemies
 polysemous
 polysemy
@@ -139061,6 +139115,8 @@ pore
 pored
 porelike
 pores
+porgies
+porgy
 poriferous
 poriform
 poring
@@ -140904,6 +140960,8 @@ predynastic
 preeclampsia
 preeclampsias
 preelectric
+preemie
+preemies
 preeminence
 preeminences
 preeminent
@@ -141283,6 +141341,8 @@ prentice
 prenticed
 prentices
 prenticing
+prenup
+prenups
 prenuptial
 prenursery
 preobservational
@@ -145951,6 +146011,7 @@ raconteurs
 raconteuse
 raconteuses
 racquet
+racquetball
 racquets
 racy
 rad
@@ -152520,8 +152581,10 @@ rice
 ricebird
 ricebirds
 riced
+ricer
 ricercar
 ricercars
+ricers
 rices
 rich
 richer
@@ -152587,6 +152650,8 @@ ridged
 ridgelike
 ridgeline
 ridgelines
+ridgepole
+ridgepoles
 ridges
 ridgeway
 ridgeways
@@ -152849,6 +152914,8 @@ ripsaw
 ripsaws
 ripstop
 ripstops
+riptide
+riptides
 rise
 risen
 riser
@@ -153916,6 +153983,8 @@ rugose
 rugosely
 rugosities
 rugosity
+rugrat
+rugrats
 rugs
 rugulose
 ruin

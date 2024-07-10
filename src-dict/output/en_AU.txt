@@ -4838,6 +4838,12 @@ moustache
 moustached
 moustaches
 moveableness
+mugwump
+mugwumperies
+mugwumpery
+mugwumpism
+mugwumpisms
+mugwumps
 multi-specialities
 multi-speciality
 multicentre
@@ -6621,6 +6627,8 @@ puritanising
 purple-coloured
 pyjama
 pyjamas
+pyorrhoea
+pyorrhoeas
 pyritise
 pyritised
 pyritises
