@@ -109059,7 +109059,7 @@ oyster=noun=all
 oystercatcher=noun=all
 oystering=noun=all
 oysterman [pl. oystermen]=noun=all
-oz=noun=all
+oz [pl. ozs]=noun=all
 ozone-friendly=RB=all
 ozone=noun_U=all
 ozonic=JJ=all
