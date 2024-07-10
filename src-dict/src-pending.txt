@@ -64035,7 +64035,6 @@ blastulae=UNTAGGED=all
 blastulation=noun_UN=none
 blasty=blasty/JJ,blastier/JJR,blastiest/JJS=none
 blasty=noun=none
-blat=verb=au,ca,us
 blate=JJ=us-large
 blate=blate/VB,blate/VBP=us-large
 blately=RB=none
@@ -99915,7 +99914,6 @@ kidology=UNTAGGED=gb
 kidult=noun=gb
 kidvid=noun=gb
 kief=noun=us-large,za
-kielbasa=kielbasa/NN,kielbasas/NNS,kielbasi/NNS,kielbasy/NNS=au,ca,us
 kiepersol=UNTAGGED=za
 kiepersols=UNTAGGED=za
 kierie=UNTAGGED=za
@@ -100242,7 +100240,6 @@ knees-up=UNTAGGED=gb,nz,za
 kneesock=noun=none
 knesset=noun=none
 knesseth=NN=none
-knick-knack=UNTAGGED=gb,nz,za
 knick-knackeriably=UNTAGGED=gb
 knick-knackerially=UNTAGGED=gb
 knick-knackerication=UNTAGGED=gb
@@ -100251,10 +100248,8 @@ knick-knackerisable=UNTAGGED=gb
 knick-knackery=UNTAGGED=gb,nz,za
 knick-knackeryible=UNTAGGED=gb
 knick-knackish=UNTAGGED=gb,nz,za
-knick-knacks=UNTAGGED=gb,nz,za
 knick=UNTAGGED=ca,gb,nz,us,za
 knicked=UNTAGGED=gb
-knicker=noun=au,ca,us
 knicking=UNTAGGED=gb
 knickknack=noun=au,ca,us
 knickknacked=JJ=none
@@ -100426,7 +100421,6 @@ koniology=NN:UN=us-large
 koniscope=noun=none
 kontakion=NN=none
 koodoo=noun=us-large
-kook=noun=au,ca,nz,us,za
 kookie=kookie/JJ,kookier/JJR,kookiest/JJS=none
 kookily=UNTAGGED=gb
 koolah=noun=none
@@ -102285,7 +102279,6 @@ limnophilous=UNTAGGED=gb
 limnos=NN=none
 limonium=NN=none
 limosa=NN=none
-limp-wristed=UNTAGGED=all
 limpa=noun=none
 limpsey=limpsey/JJ,limpsier/JJR,limpsiest/JJS=none
 limpsy=limpsy/JJ,limpsier/JJR,limpsiest/JJS=none
@@ -102781,8 +102774,6 @@ localist=noun=gb
 localite=noun=none
 localling=localling/NN,localling/NNS=none
 locater=noun=gb,nz,za
-locavore=UNTAGGED=au,ca,us
-locavores=UNTAGGED=au,ca,us
 lochan=noun=gb
 loche=NN=none
 lochus=NN=none
@@ -102893,7 +102884,6 @@ lolium=NN=none
 lollapaloosa=noun=us-large
 lollapalooza=noun=us-large
 lollopings=UNTAGGED=gb
-lollygag [-gg-]=verb=au,ca,us
 lollypop=noun=us-large
 lolo-burmese=NN=none
 lolo=NN=none
@@ -104260,7 +104250,6 @@ manifestant=noun=gb
 manifester=noun=none
 manifolder=noun=gb,nz,za
 manihot=noun=none
-manila=noun_U=ca,us
 manilkara=NN=none
 manilla=noun_U=au,gb,nz,za
 manioca=noun=none
@@ -106007,7 +105996,6 @@ microaerophile=NN=gb
 microaerophiles=UNTAGGED=gb
 microaerophilic=NN=gb
 microagglutination=NN=none
-microalgae=UNTAGGED=all
 microamp=UNTAGGED=gb,nz,za
 microamps=UNTAGGED=gb
 microanatomy=noun=gb
@@ -107621,7 +107609,6 @@ monovalence=noun=us-large
 monovalency=noun=us-large
 monoxylon=noun=none
 monseigneur=monseigneur/NN,messeigneurs/NNS,monseigneurs/NNS=au,ca,us
-monsieur=monsieur/NN,messieurs/NNS=au,ca,us
 monsignor=monsignor/NN,monsignori/NNS,monsignors/NNS=au,ca,us
 monsignorial=UNTAGGED=gb
 monstera=noun=gb
@@ -107903,7 +107890,6 @@ motheringly=UNTAGGED=gb
 motherwort=noun=us-large
 mothery=UNTAGGED=gb
 motioner=noun=gb,nz,za
-motivic=UNTAGGED=all
 moto=UNTAGGED=gb
 moton=NN=none
 motoneuron=noun=us-large
@@ -108128,9 +108114,6 @@ muggur=noun=none
 mugil=NN=none
 mugilidae=NN=none
 mugiloidea=NN=none
-mugwump=noun=au,ca,us
-mugwumpery=noun=us-large
-mugwumpism=noun_UN=none
 muhammadanism=NN:UN=none
 muhammedan=NN=none
 muhlenbergia=NN=none
@@ -109091,7 +109074,6 @@ nF=NNP=none
 nGAPorporated=UNTAGGED=all
 nW=NNP=none
 naam=noun=none
-naan=noun=au,ca,us
 naartje=noun=none
 naartjie=UNTAGGED=za
 nabalus=NN=none
@@ -109770,7 +109752,6 @@ neptunocene=UNTAGGED=gb
 neral=noun=us-large
 nerdish=UNTAGGED=gb
 nereis=noun=none
-nerf=verb=us
 nergal=NN=none
 nerine=noun=gb
 nerita=NN=none
@@ -110279,7 +110260,6 @@ niminy-pimininess=NN=none
 niminy-piminyism=NN:UN=none
 nimmer=noun=none
 nimravus=NN=none
-nimrod=noun=au,ca,us
 nin-sin=NN:UN=none
 nincom=noun=none
 nincompoopery=noun=none
@@ -115988,7 +115968,6 @@ obereks=UNTAGGED=gb
 obes=JJ=none
 obesely=UNTAGGED=gb,us-large
 obfuscater=UNTAGGED=gb,nz,za
-obi=obi/NN,obi/NNS,obis/NNS=au,ca,us
 obia=noun=none
 obiism=noun_UN=none
 obis=obis/NN,obes/NNS=au,ca,us
@@ -117127,7 +117106,6 @@ org-man=UNTAGGED=gb
 org=UNTAGGED=all
 organ-grinder=NN=none
 organdie=noun_U=au,gb,nz,za
-organdy=noun_U=ca,us
 organellar=UNTAGGED=gb
 organicismal=JJ=none
 organification=NN:UN=gb
@@ -119024,7 +119002,6 @@ oystered=UNTAGGED=gb
 oysterer=noun=none
 oysterfish=oysterfish/NN,oysterfish/NNS=none
 oysterwoman=NN=none
-oz=UNTAGGED=all
 ozaena=noun=none
 ozalid=noun=none
 ozarks=NN=none
@@ -119586,7 +119563,6 @@ pantoum=noun=gb
 pantryman=pantryman/NN,pantrymen/NNS=gb
 pantsuited=UNTAGGED=all
 pantun=noun=none
-pantyhose=pantyhose/NN,pantyhose/NNS=au,ca,us
 pantyhoses=UNTAGGED=us
 pantyliner=noun=au,ca,us
 pantywaist=noun=au,ca,us
@@ -119620,7 +119596,6 @@ paper-girls=UNTAGGED=nz,za
 paper-shelled=JJ=none
 paperchase=UNTAGGED=gb
 paperchases=UNTAGGED=gb
-paperclip=noun=au,ca,us
 papercutting=JJ=none
 paperknife=paperknife/NN,paperknives/NNS=gb
 papermakingiser=UNTAGGED=gb
@@ -119747,10 +119722,6 @@ paragenesia=noun=none
 parageosyncline=UNTAGGED=gb
 parageosynclines=UNTAGGED=gb
 parageusia=NN=none
-paraglide=UNTAGGED=gb
-paraglided=UNTAGGED=gb
-paraglides=UNTAGGED=gb
-paragliding=UNTAGGED=all
 paraglossa=paraglossa/NN,paraglossae/NNS=none
 paraglossate=JJ=none
 paragoge=noun=none
@@ -119967,7 +119938,6 @@ pareciousness=NN=none
 parecism=noun_UN=none
 parecy=NN=none
 paregmenon=NN=us-large
-pareidolia=UNTAGGED=all
 pareidolias=UNTAGGED=gb
 pareidolic=UNTAGGED=gb
 pareidolically=UNTAGGED=gb
@@ -121494,7 +121464,6 @@ peto=NN=none
 petrale=noun=none
 petrarca=NN=none
 petrary=noun=none
-petrichor=UNTAGGED=all
 petrificant=JJ=none
 petrifier=noun=none
 petrochemistryible=UNTAGGED=gb
@@ -122951,7 +122920,6 @@ pinkier=UNTAGGED=gb
 pinkiest=UNTAGGED=gb
 pinkify=pinkify/VB,pinkify/VBP=none
 pinko=JJ=au,ca,us
-pinko=pinko/NN,pinkoes/NNS,pinkos/NNS=au,ca,us
 pinkroot=noun_U=none
 pinnacled=UNTAGGED=gb,nz,us-large,za
 pinnacling=UNTAGGED=gb,nz,za
@@ -124419,7 +124387,6 @@ polyribonucleotide=noun=none
 polyribosome=noun=none
 polysaccharose=noun=none
 polysemant=noun=none
-polysemic=UNTAGGED=all
 polysilicon=UNTAGGED=all
 polysiloxane=UNTAGGED=gb
 polysiloxanes=UNTAGGED=gb
@@ -124632,7 +124599,6 @@ porcupinish=UNTAGGED=gb
 porcupiny=UNTAGGED=gb
 porer=noun=us-large
 porgie=noun=none
-porgy=porgy/NN,porgies/NNS,porgy/NNS=au,ca,us
 porifer=noun=none
 porifera=NN=none
 poriferan=noun=none
@@ -126218,7 +126184,6 @@ preembarrassment=NN=none
 preembodiment=NN=none
 preemergency=JJ=none
 preemergency=NN=none
-preemie=noun=au,ca,us
 preemotion=NN:UN=none
 preemotional=JJ=none
 preemotionally=RB=none
@@ -126691,8 +126656,6 @@ prenominally=UNTAGGED=gb
 prenomination=noun=none
 prenotion=noun=us-large
 prenticeship=noun=gb
-prenup=UNTAGGED=au,ca,us
-prenups=UNTAGGED=au,ca,us
 preobedience=NN=none
 preobedient=JJ=none
 preobediently=RB=none
@@ -129687,8 +129650,6 @@ puttock=noun=none
 puttyroot=noun=us-large
 putu=UNTAGGED=za
 puture=noun=none
-putz=UNTAGGED=au,ca,us
-putzes=UNTAGGED=au,ca,us
 puy=noun=gb
 puzzolana=NN=none
 pva=NN=none
@@ -129749,8 +129710,6 @@ pyopneumothoraxible=UNTAGGED=gb
 pyopneumothoraxion=UNTAGGED=gb
 pyopneumothoraxisability=UNTAGGED=gb
 pyopneumothoraxisable=UNTAGGED=gb
-pyorrhea=noun_U=ca,us
-pyorrhoea=noun_U=au,gb,nz,za
 pyosalpinx=NN=none
 pyosepticemia=NN=none
 pyosepticemic=JJ=none
@@ -131496,7 +131455,6 @@ racloir=noun=gb
 racon=noun=us-large
 raconteuring=noun=none
 racoon=noun=gb,nz,za
-racquetball=noun=au,ca,us
 radarman=NN=us-large
 radarscope=noun=au,ca,us
 raddleman=raddleman/NN,raddlemen/NNS=none
@@ -133586,7 +133544,6 @@ ricasso=UNTAGGED=gb
 ricassos=UNTAGGED=gb
 rice-paper=UNTAGGED=gb,nz,za
 ricegrass=NN=none
-ricer=noun=au,ca,us
 ricercare=noun=us-large
 ricercata=noun=none
 rich-voiced=JJ=none
@@ -133641,7 +133598,6 @@ ridgeback=noun=za
 ridgel=noun=none
 ridgeling=ridgeling/NN,ridgeling/NNS=us-large
 ridgepiece=noun=none
-ridgepole=noun=au,ca,us
 ridgepoled=JJ=none
 ridger=noun=none
 ridgetree=NN=none
@@ -133817,7 +133773,6 @@ ripost=verb=none
 ripple-grass=NN:U=none
 rippler=noun=none
 ripsnorter=noun=none
-riptide=noun=au,ca,us
 risc=NN=none
 rishi=noun=us-large
 risk-neutral=UNTAGGED=gb
@@ -134521,8 +134476,6 @@ ruggerbuggers=UNTAGGED=za
 rugging=noun=us-large
 rugola=noun=none
 rugosa=noun=none
-rugrat=UNTAGGED=au,ca,us
-rugrats=UNTAGGED=au,ca,us
 ruiner=noun=none
 ruk=UNTAGGED=za
 rukh=noun=none

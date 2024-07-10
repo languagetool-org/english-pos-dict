@@ -186,7 +186,7 @@
 #martian=JJ=all # capitalized
 #martian=noun=all # capitalized
 #mayhappen=RB=all dialect
-#mayst=UNTAGGED=all # archaic, second-person singular simple present indicative of may
+mayst=MD=all # archaic, second-person singular simple present indicative of may
 #mazedly=RB=all archaic
 #measle=noun=none unusual
 #medicaid=noun_UN=all
@@ -53145,6 +53145,8 @@ blastostylar=JJ=all
 blastula=noun=all
 blastular=JJ=all
 blasé=JJ=all
+blat=noun=all
+blat=verb=all
 blatancy=noun_U=all
 blatant=JJ=all
 blatantly=RB=all
@@ -91937,7 +91939,7 @@ kibe=noun=all
 kibibit=noun=all
 kibibyte=noun=all
 kibitka=noun=all
-kibitz=verb=all
+kibitz [kibitzes;kibitzed;kibitzed;kibitzing]=verb=all
 kibitzer=noun=all
 kiblah=noun=all
 kibosh|kybosh=noun_U=all|gb
@@ -91982,6 +91984,7 @@ kidney-shaped=JJ=all
 kidney=noun=all
 kidneylike=JJ=all
 kidskin=noun_U=all
+kielbasa=kielbasa/NN,kielbasas/NNS,kielbasi/NNS,kielbasy/NNS=all
 kier=noun=all
 kieselguhr=noun=all
 kieserite=noun=all
@@ -92255,6 +92258,8 @@ kneeling=NN:UN=all
 kneelingly=RB=all
 knell=noun=all
 knell=verb=all
+knick-knack=noun=all
+knicker=noun=all
 knickerbocker=noun=all
 knickerbockered=JJ=all
 knickered=JJ=all
@@ -92359,6 +92364,7 @@ kolinsky=noun=all
 kolkhoz=noun=all
 kombucha=noun=all
 konimeter=noun=all
+kook=noun=all
 kookaburra=noun=all
 kookiness=NN:U=all
 kooky=kooky/JJ,kookier/JJR,kookiest/JJS=all
@@ -93186,7 +93192,7 @@ lazy=lazy/JJ,lazier/JJR,laziest/JJS=all
 lazy=verb=all
 lazybones=NN=all
 lazyish=JJ=all
-lb=NN=all
+lb=noun=all
 lea=noun=all
 leach=noun=all
 leach=verb=all
@@ -94097,6 +94103,7 @@ limousine=noun=all
 limp=limp/JJ,limper/JJR,limpest/JJS=all
 limp=noun=all
 limp=verb=all
+limp-wristed=JJ=all
 limper=noun=all
 limpet=noun=all
 limpid=JJ=all
@@ -94577,6 +94584,7 @@ locationally=RB=all
 locative=JJ=all
 locative=noun=all
 locator=noun=all
+locavore=noun=all
 loch=noun=all # Scottish
 lochia=noun=all
 lochial=JJ=all
@@ -94722,6 +94730,7 @@ lollingly=RB=all
 lollipop=noun=all
 lollop=verb=all
 lolly=noun=all
+lollygag [-gg-]=verb=all
 loment=noun=all
 lomentaceous=JJ=all
 lone=lone/JJ,loner/JJR=all
@@ -96106,6 +96115,7 @@ manifoldly=RB=all
 manifoldness=NN:U=all
 maniform=JJ=all
 manikin=noun=all
+manila=noun_U=all
 manille=noun=all
 manioc=manioc/NN,manioc/NN:U,maniocs/NNS=all
 maniple=noun=all
@@ -97864,6 +97874,7 @@ microaggression=noun_UN=all
 microaggressive=JJ=all
 microaggressor=noun=all
 microalbuminuric=JJ=all
+microalgae=NN:U=all
 microampere=noun=all
 microanalysis [pl. microanalyses]=noun_UN=all
 microanalyst=noun=all
@@ -99611,6 +99622,7 @@ monoxenous=JJ=all
 monoxide=noun_UN=all
 monozygotic=JJ=all
 monozygous=JJ=all
+monsieur=monsieur/NN,messieurs/NNS=all
 monsoon=noun=all
 monsoonal=JJ=all
 monster=noun=all
@@ -99930,6 +99942,7 @@ motive=verb=all
 motiveless=JJ=all
 motivelessly=RB=all
 motivelessness=NN:U=all
+motivic=JJ=all
 motivity=noun_UN=all
 motley=motley/JJ,motlier/JJR,motliest/JJS=all
 motley=noun_U=all
@@ -100180,6 +100193,9 @@ muggle=verb=all # slang
 muggy=muggy/JJ,muggier/JJR,muggiest/JJS=all
 mugshot=noun=all
 mugwort=noun=all
+mugwump=noun=au,ca,us
+mugwumpery=noun=au,ca,us
+mugwumpism=noun_UN=au,ca,us
 mugwumpian=JJ=all
 mugwumpish=JJ=all
 mujahedeen=NNS=all
@@ -101035,6 +101051,7 @@ mûmak=NN=all
 n [pl. ns,n's]=noun=all
 n-type=JJ=all
 n=abbreviation=all
+naan=NN:U=all
 nab=verb=all
 nabob=noun=all
 nabobical=JJ=all
@@ -101763,6 +101780,7 @@ nerdiness=NN:U=all
 nerdishness=NN:U=all
 nerdy=nerdy/JJ,nerdier/JJR,nerdiest/JJS=all
 nereid=nereid/NN,nereides/NNS,nereids/NNS=all
+nerf=verb=us,ca
 neritic=JJ=all
 nervate=JJ=all
 nerve-racking=JJ=all
@@ -102187,6 +102205,7 @@ nimbus=nimbus/NN,nimbi/NNS,nimbuses/NNS=all
 nimbused=JJ=all
 nimiety=noun=all
 niminy-piminy=JJ=all
+nimrod=noun=all
 nincompoop=noun=all
 nincompoopish=JJ=all
 nine-day=JJ=all
@@ -105935,6 +105954,7 @@ obeyingly=RB=all
 obfuscate=verb=all
 obfuscation=noun_U=all
 obfuscatory=JJ=all
+obi=obi/NN,obi/NNS,obis/NNS=all
 obit=noun=all
 obituary=noun=all
 object-oriented=JJ=all
@@ -106564,7 +106584,7 @@ old-womanish=JJ=all
 old-world=JJ=all
 old-worldly=RB=all
 old=noun_U=all
-old=ol'/JJ,old/JJ,elder/JJR,older/JJR,eldest/JJS,oldest/JJS=all
+old=ol'/JJ,ole/JJ,old/JJ,elder/JJR,older/JJR,eldest/JJS,oldest/JJS=all
 olde-worlde=JJ=all
 olden=JJ=all
 oldest-known=JJ=all
@@ -107282,6 +107302,7 @@ orebody=noun=all
 orectic=JJ=all
 oregano=noun_U=all
 organ=noun=all
+organdy=noun_U=all
 organelle=noun=all
 organic=JJ=all
 organic=noun=all
@@ -109038,6 +109059,7 @@ oyster=noun=all
 oystercatcher=noun=all
 oystering=noun=all
 oysterman [pl. oystermen]=noun=all
+oz=noun=all
 ozone-friendly=RB=all
 ozone=noun_U=all
 ozonic=JJ=all
@@ -109618,6 +109640,7 @@ pantropically=RB=all
 pantry=noun=all
 pantsuit=noun=all
 panty=noun=us # mainly US
+pantyhose=pantyhose/NN,pantyhose/NNS=all
 panurgic=JJ=all
 panzer=JJ=all
 panzer=noun=all
@@ -109643,6 +109666,7 @@ paperbark=noun=all
 paperboard=noun_U=all
 paperbound=JJ=all
 paperboy=noun=all
+paperclip=noun=all
 papercraft=noun_UN=all
 papercrafter=noun=all
 paperer=noun=all
@@ -109759,7 +109783,9 @@ paraffinoid=JJ=all
 paragenesis [pl. parageneses]=noun=all
 paragenetic=JJ=all
 parageusic=JJ=all
+paraglide=verb=all
 paraglider=noun=all
+paragliding=NN:U=all
 paragogic=JJ=all
 paragogical=JJ=all
 paragogically=RB=all
@@ -109964,6 +109990,7 @@ pardonless=JJ=all
 pardy=RB=all
 pare=verb=all
 paregoric=noun_U=all
+pareidolia=NN:U=all
 parenchymal=JJ=all
 parenchymatous=JJ=all
 parent=noun=all
@@ -111800,6 +111827,7 @@ petitioner=noun=all
 petitory=JJ=all
 petless=JJ=all
 petrel=noun=all
+petrichor=NN:U=all
 petrifaction=noun_U=all
 petrifiable=JJ=all
 petrification=noun_UN=all
@@ -112450,6 +112478,7 @@ phytic=JJ=all
 phytobenthos=NN:U=all
 phytocannabinoid=noun=all
 phytochemical=JJ=all
+phytochemical=noun=all
 phytocidal=JJ=all
 phytoestrogen=noun=all
 phytogenesis [pl. phytogeneses]=noun=all
@@ -112835,6 +112864,7 @@ pinkish=JJ=all
 pinkishness=NN:U=all
 pinkly=RB=all
 pinkness=NN:U=all
+pinko=pinko/NN,pinkoes/NNS,pinkos/NNS=all
 pinky=JJ=all
 pinky=noun=all
 pinna=noun=all
@@ -112879,6 +112909,7 @@ pinwheel=noun=all
 pinwheel=verb=all
 pinworm=noun=all
 piny=piny/JJ,pinier/JJR,piniest/JJS=all
+pinyin=NN:U=all
 pinyon [pl. pinyons]=noun=all
 pion=noun=all
 pioneer=JJ=all
@@ -114115,6 +114146,7 @@ polyrhythmic=JJ=all
 polyrhythmical=JJ=all
 polyrhythmically=RB=all
 polysaccharide=noun_U=all
+polysemic=JJ=all
 polysemous=JJ=all
 polysemy=noun_U=all
 polysepalous=JJ=all
@@ -114314,6 +114346,7 @@ porcupine=noun=all
 pore=noun=all
 pore=verb=all
 porelike=JJ=all
+porgy=porgy/NN,porgies/NNS,porgy/NNS=all
 poriferous=JJ=all
 poriform=JJ=all
 pork=noun_U=all
@@ -115636,6 +115669,7 @@ predrink=noun=all
 predynastic=JJ=all
 preeclampsia=noun=all
 preelectric=JJ=all
+preemie=noun=all
 preeminence=noun_U=all
 preeminent=JJ=all
 preeminently=RB=all
@@ -115917,6 +115951,7 @@ prenotification=noun_UN=all
 prenotify=verb=all
 prentice=noun=all
 prentice=verb=all
+prenup=noun=all
 prenuptial=JJ=all
 prenursery=JJ=all
 preobservational=JJ=all
@@ -118438,6 +118473,8 @@ putto=putto/NN,putti/NNS=all
 putty=noun_U=all
 putty=verb=all
 puttyless=JJ=all
+putz [pl. putzes]=noun=us,ca
+putz [putzes;putzed;putzed;putzing]=verb=us,ca
 puzzle=noun=all
 puzzle=verb=all
 puzzledly=RB=all
@@ -118481,6 +118518,8 @@ pyoderma=noun=all
 pyogenesis [pl. pyogeneses]=noun_U=all
 pyogenic=JJ=all
 pyoid=JJ=all
+pyorrhea=noun_U=ca,us
+pyorrhoea=noun_U=au,gb,nz,za
 pyorrheal=JJ=all
 pyorrheic=JJ=all
 pyorrhoeal=JJ=all
@@ -119250,6 +119289,7 @@ racking=noun_UN=all
 raconteur=noun=all
 raconteuse=noun=all
 racquet=noun=all
+racquetball=NN:U=all
 racy=racy/JJ,racier/JJR,raciest/JJS=all
 rad=noun=all
 rad=rad/JJ,radder/JJR,raddest/JJS=all
@@ -123040,6 +123080,7 @@ ribwort=noun=all
 rice=noun_U=all
 rice=verb=all
 ricebird=noun=all
+ricer=noun=all
 ricercar=noun=all
 rich=noun=all
 rich=rich/JJ,richer/JJR,richest/JJS=all
@@ -123077,6 +123118,7 @@ ridge=noun=all
 ridge=verb=all
 ridgelike=JJ=all
 ridgeline=noun=all
+ridgepole=noun=all
 ridgeway=noun=all
 ridging=noun_UN=all
 ridgy=ridgy/JJ,ridgier/JJR,ridgiest/JJS=all
@@ -123260,6 +123302,7 @@ ripply=RB=all
 ripply=ripplier/JJR,rippliest/JJS=all
 ripsaw=noun=all
 ripstop=noun=all
+riptide=noun=all
 rise [rises;rose;risen;rising]=verb=all
 rise=noun=all
 riser=noun=all
@@ -123984,6 +124027,7 @@ rugose=JJ=all
 rugosely=RB=all
 rugosity=noun_UN=all
 rugulose=JJ=all
+rugrat=noun=all
 ruin=noun_UN=all
 ruin=verb=all
 ruinable=JJ=all
