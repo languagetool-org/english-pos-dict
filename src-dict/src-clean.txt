@@ -11878,6 +11878,7 @@ Dowson=NNP=all
 Doxygen=NNP=all
 Doyle=NNP=all
 Doylestown=NNP=all
+Dr=abbreviation=all
 Draaifontein=NNP=za # South Africa, placename?
 Draaikraal=NNP=za # South Africa, placename?
 Draco=NNP=all
@@ -96456,9 +96457,8 @@ martyry=noun=all
 marvel [-ll-]|marvel=verb=all|us
 marvel=noun=all
 marvelling=NN:UN=all
-marvellousness=NN:U=all
 marvelously|marvellously=RB=us|au,ca,gb,nz,za
-marvelousness=NN:U=all
+marvelousness|marvellousness=NN:U=us|au,ca,gb,nz,za
 marvelous|marvellous=JJ=us|au,ca,gb,nz,za
 marzipan=noun_U=all
 masala=noun=all

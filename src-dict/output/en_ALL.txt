@@ -11231,6 +11231,7 @@ Dowson
 Doxygen
 Doyle
 Doylestown
+Dr
 Draco
 Draconian
 Dracula
@@ -115349,8 +115350,6 @@ martyry
 marvel
 marvelled
 marvelling
-marvellousness
-marvelousness
 marvels
 marzipan
 marzipans
