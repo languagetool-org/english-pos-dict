@@ -999,6 +999,15 @@ analyser
 analysers
 analyses
 analysing
+analyzabilities
+analyzability
+analyzable
+analyze
+analyzed
+analyzer
+analyzers
+analyzes
+analyzing
 anathematisation
 anathematisations
 anathematise
@@ -1519,6 +1528,8 @@ authorizes
 authorizing
 autoanalyser
 autoanalysers
+autoanalyzer
+autoanalyzers
 autoimmunisation
 autoimmunisations
 autoimmunization
@@ -1708,6 +1719,8 @@ bicoloured
 bicolours
 bioanalyser
 bioanalysers
+bioanalyzer
+bioanalyzers
 biobehavioural
 biodefence
 biodefences
@@ -1810,6 +1823,12 @@ breathalyser
 breathalysers
 breathalyses
 breathalysing
+breathalyze
+breathalyzed
+breathalyzer
+breathalyzers
+breathalyzes
+breathalyzing
 bribeable
 bright-coloured
 bromisation
@@ -6804,6 +6823,8 @@ immunizes
 immunizing
 immunoanalyser
 immunoanalysers
+immunoanalyzer
+immunoanalyzers
 imperialisation
 imperialisations
 imperialise
@@ -8213,6 +8234,8 @@ micellization
 micellizations
 microanalyser
 microanalysers
+microanalyzer
+microanalyzers
 microgramme
 microgrammes
 microlitre
@@ -8329,6 +8352,10 @@ misanalyse
 misanalysed
 misanalyses
 misanalysing
+misanalyze
+misanalyzed
+misanalyzes
+misanalyzing
 misauthorisation
 misauthorisations
 misauthorization
@@ -9763,6 +9790,10 @@ overanalyse
 overanalysed
 overanalyses
 overanalysing
+overanalyze
+overanalyzed
+overanalyzes
+overanalyzing
 overbrutalisation
 overbrutalisations
 overbrutalization
@@ -11589,6 +11620,12 @@ psychoanalyser
 psychoanalysers
 psychoanalyses
 psychoanalysing
+psychoanalyze
+psychoanalyzed
+psychoanalyzer
+psychoanalyzers
+psychoanalyzes
+psychoanalyzing
 psychologisation
 psychologisations
 psychologise
@@ -11872,6 +11909,11 @@ reanalyse
 reanalysed
 reanalyses
 reanalysing
+reanalyzable
+reanalyze
+reanalyzed
+reanalyzes
+reanalyzing
 reauthorisation
 reauthorisations
 reauthorise
@@ -13060,6 +13102,7 @@ self-aggrandising
 self-aggrandizement
 self-aggrandizing
 self-analysed
+self-analyzed
 self-centred
 self-centredly
 self-centredness
@@ -14465,6 +14508,8 @@ thermalizes
 thermalizing
 thermoanalyser
 thermoanalysers
+thermoanalyzer
+thermoanalyzers
 three-colour
 three-litre
 three-litres
@@ -14702,6 +14747,7 @@ unalphabetized
 unamortised
 unamortized
 unanalysable
+unanalyzable
 unanatomised
 unanatomized
 unantagonisable
@@ -15778,6 +15824,7 @@ weatherized
 weatherizes
 weatherizing
 well-analysed
+well-analyzed
 well-armoured
 well-centred
 well-coloured
