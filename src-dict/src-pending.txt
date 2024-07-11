@@ -79498,7 +79498,6 @@ downconverters=UNTAGGED=gb
 downcourt=UNTAGGED=gb
 downcurved=UNTAGGED=gb
 downcut=downcut/VB,downcut/VBD,downcut/VBG,downcutting/VBG,downcut/VBP,downcuts/VBZ=gb
-downdraft=noun=ca,us
 downdraught=UNTAGGED=au,gb,nz,za
 downdraughts=UNTAGGED=gb
 downdrift=UNTAGGED=gb
@@ -79602,7 +79601,6 @@ draffy=draffy/JJ,draffier/JJR,draffiest/JJS=none
 draftsmanship=noun_U=ca,us
 draftsperson=noun=none
 draftswoman=draftswoman/NN,draftswomen/NNS=ca,us
-drafty=drafty/JJ,draftier/JJR,draftiest/JJS=ca,us
 dragae=NN=none
 dragee=noun=none
 draggability=UNTAGGED=gb
@@ -79703,7 +79701,6 @@ draying=NN=gb,nz,za
 drazel=noun=none
 drch=NN=none
 dreadfuls=UNTAGGED=nz
-dreadlock=noun=none
 dreadlocked=UNTAGGED=gb
 dreadnaught=noun=none
 dream-world=UNTAGGED=nz,za
@@ -80158,7 +80155,6 @@ dwale=noun=none
 dwalm=NN=none
 dwam=noun=none
 dwang=noun=none
-dweeb=noun=au,ca,us
 dwt=NN=us-large
 dyarchal=UNTAGGED=gb
 dyarchical=JJ=none
@@ -82363,7 +82359,6 @@ entoptic=noun=none
 entozoon=entozoon/NN,entozoa/NNS=us-large
 entrada=NN=none
 entrae=NN=none
-entrail=noun=none
 entrailed=UNTAGGED=gb
 entrainer=noun=gb,nz,za
 entrammel=UNTAGGED=gb,nz,us-large,za
@@ -85325,7 +85320,6 @@ fisherwoman=fisherwoman/NN,fisherwomen/NNS=gb
 fishfinger=NN=none
 fishfly=NN=none
 fishgig=noun=us-large
-fishhook=noun=au,ca,us
 fishkill=noun=none
 fishline=noun=none
 fishman=UNTAGGED=all
@@ -85516,7 +85510,6 @@ flatbrod=NN=none
 flatbug=UNTAGGED=gb
 flatcap=noun=none
 flatette=NN=none
-flatiron=noun=au,ca,us
 flatlet=noun=au,ca,us
 flatline=UNTAGGED=gb
 flatlined=UNTAGGED=gb
@@ -86096,7 +86089,6 @@ footgearially=UNTAGGED=gb
 footgearible=UNTAGGED=gb
 footgearisability=UNTAGGED=gb
 footgearisable=UNTAGGED=gb
-footgolf=UNTAGGED=all
 footlambert=noun=none
 footler=noun=gb
 footlessly=UNTAGGED=us-large
@@ -86573,7 +86565,6 @@ fras=fras/NN,frasses/NNS=none
 frascati=noun=none
 frasera=NN=none
 frass=noun=none
-frat=noun=au,ca,us
 fratch=noun=none
 fratcher=NN=none
 fratching=NN=none
@@ -87067,7 +87058,6 @@ furnarius=NN=none
 furnishment=noun=none
 furnit=NN=none
 furo=noun=none
-furor=noun_UN=ca,us
 furphy=noun=au,gb
 furriner=noun=none
 furrower=noun=none
@@ -87498,7 +87488,6 @@ garbagially=UNTAGGED=gb
 garbagible=UNTAGGED=gb
 garbagisability=UNTAGGED=gb
 garbagisable=UNTAGGED=gb
-garbanzo=noun=au,ca,us
 garbless=JJ=none
 garbo=noun=au
 garboil=noun=us-large
@@ -88599,7 +88588,6 @@ ginnel=noun=none
 ginner=noun=none
 ginnery=noun=none
 ginny=ginny/JJ,ginnier/JJR,ginniest/JJS=us-large
-ginormous=UNTAGGED=au,ca,us
 ginshop=noun=none
 ginzo=ginzo/NN,ginzoes/NNS,ginzos/NNS=none
 gio=noun=none
@@ -88973,7 +88961,6 @@ glowfly=noun=none
 glowier=UNTAGGED=gb
 glowiest=UNTAGGED=gb
 glowlamp=noun=none
-glowworm=noun=au,ca,us
 glozed=UNTAGGED=gb
 glozes=UNTAGGED=gb
 glozing=noun=gb
@@ -89047,7 +89034,6 @@ glutaraldehydisability=UNTAGGED=gb
 glutaraldehydisable=UNTAGGED=gb
 glutaraldehysion=UNTAGGED=gb
 glutaraldehysiveness=UNTAGGED=gb
-glute=UNTAGGED=all
 gluteals=UNTAGGED=all
 gluteiability=UNTAGGED=gb
 gluteiably=UNTAGGED=gb
@@ -89307,7 +89293,6 @@ goddam=UH=ca,us
 goddamed=UNTAGGED=us-large
 goddamndest=JJ=none
 goddamnit=UH=none
-goddaughter=noun=au,ca,us
 goddesshood=NN=none
 goddessship=NN=none
 godendag=NN=none
@@ -89532,7 +89517,6 @@ gooeynessisability=UNTAGGED=gb
 gooeynessisable=UNTAGGED=gb
 goof-off=NN=none
 goof-up=NN=none
-goofball=noun=au,ca,us
 goofer=UNTAGGED=gb
 goofers=UNTAGGED=gb
 goofproof=goofproof/VB,goofproof/VBP=none
@@ -89810,7 +89794,6 @@ grandeeship=NN=none
 grandiflora=noun=gb
 grandmama=noun=none
 grandmamma=noun=us-large
-grandmom=UNTAGGED=ca,us
 grandmoms=UNTAGGED=ca,us
 grandmotherhood=UNTAGGED=gb
 grandmotherhoodably=UNTAGGED=gb
@@ -90160,7 +90143,6 @@ grissinier=UNTAGGED=gb
 grissiniiser=UNTAGGED=gb
 grissino=NN=gb
 grister=noun=none
-gristmill=noun=au,ca,us
 gristmiller=NN=none
 gristmilling=NN=none
 grith=noun=us-large
@@ -90198,7 +90180,6 @@ groof=groof/NN,groofs/NNS,grooves/NNS=none
 groom-to-be=NN=none
 groomish=JJ=none
 groomishly=RB=none
-groomsman=groomsman/NN,groomsmen/NNS=au,ca,us
 grootbek=UNTAGGED=za
 groover=noun=none
 groovily=UNTAGGED=gb
@@ -90230,7 +90211,6 @@ groundcloths=UNTAGGED=au,ca,us
 groundcover=NN=none
 groundedly=RB=none
 groundfish=groundfish/NN,groundfish/NNS=none
-groundhog=noun=au,ca,us
 groundkeeper=noun=gb
 groundman=groundman/NN,groundmen/NNS=none
 groundout=noun=none
@@ -90383,7 +90363,6 @@ guest-starred=UNTAGGED=all
 guest-warp=NN=none
 guestimate=noun=gb,nz,za
 guestimate=verb=gb,nz,za
-guestroom=noun=au,ca,us
 guestworker=NN=none
 guevina=NN=none
 guffie=noun=none
@@ -90471,8 +90450,6 @@ gummosis=gummosis/NN:U,gummoses/NNS=us-large
 gumnut=noun=none
 gump=NN=none
 gumshield=noun=gb
-gumshoe=gumshoe/VB,gumshoed/VBD,gumshoeing/VBG,gumshoed/VBN,gumshoe/VBP,gumshoes/VBZ=au,ca,us
-gumshoe=noun=au,ca,us
 gumweed=noun=none
 gumwood=noun=us-large
 gun-metal=JJ=none
@@ -90526,7 +90503,6 @@ gurned=UNTAGGED=gb
 gurner=UNTAGGED=gb
 gurners=UNTAGGED=gb
 gurnet=noun=none
-gurney=noun=au,ca,us
 gurning=UNTAGGED=gb
 gurns=UNTAGGED=gb
 gurry=noun_U=none
@@ -90723,8 +90699,6 @@ gyrovague=noun=none
 gyte=noun=none
 gytrash=noun=none
 gyttja=noun=gb
-gyve=noun=au,ca,us
-gyve=verb=au,ca,us
 gzip=UNTAGGED=gb
 gzipative=UNTAGGED=gb
 gziper=UNTAGGED=gb
@@ -90806,7 +90780,7 @@ hackneyism=noun_UN=none
 hackneyman=hackneyman/NN,hackneymen/NNS=none
 hacksawed=UNTAGGED=gb,nz,za
 hacksawing=UNTAGGED=gb,nz,za
-hacky=UNTAGGED=all
+
 hacqueton=noun=none
 hadaway=UH=none
 haddie=noun=none
@@ -92681,7 +92655,6 @@ hematochrome=NN=none
 hematocrit=noun=us
 hematocyst=NN=none
 hematocyte=NN=none
-hematoma=noun=us
 hematomata=UNTAGGED=us-large
 hematopathological=UNTAGGED=gb
 hematopathologist=UNTAGGED=gb
@@ -93731,7 +93704,6 @@ hold-ups=UNTAGGED=gb,nz,za
 holddown=noun=none
 holden=UNTAGGED=us-large
 holdership=NN=none
-holdup=noun=au,ca,us
 hole-high=JJ=none
 hole-in-corner=JJ=none
 holeable=UNTAGGED=gb,nz,za
@@ -93842,7 +93814,6 @@ home-owning=UNTAGGED=nz,za
 home-schooling=UNTAGGED=nz,za
 home-shopper=UNTAGGED=nz,za
 home-shopping=UNTAGGED=nz,za
-homeboy=noun=au,ca,us
 homebuilder=noun=gb
 homebuilding=noun=gb
 homebuilt=UNTAGGED=gb,nz,za
@@ -93878,7 +93849,6 @@ homewardly=UNTAGGED=gb
 homeware=UNTAGGED=gb
 homewares=UNTAGGED=gb
 homie=homie/JJ,homier/JJR,homiest/JJS=us
-homie=noun=us
 homiliaries=UNTAGGED=gb
 homiliary=NN=gb
 homilist=noun=us-large
@@ -94045,7 +94015,6 @@ homunculitiveness=UNTAGGED=gb
 homy=homy/JJ,homier/JJR,homiest/JJS=none
 homy=noun=none
 honan=noun=none
-honcho=noun=au,ca,us,za
 honda=noun=none
 hondling=hondling/NN,hondling/NNS=none
 honest-to-God=UNTAGGED=za
@@ -94375,7 +94344,6 @@ housesmiths=UNTAGGED=gb
 housestead=UNTAGGED=gb
 housesteads=UNTAGGED=gb
 housewaratory=UNTAGGED=gb
-houseware=houseware/NN,houseware/NN:UN,housewares/NNS=gb
 housewarible=UNTAGGED=gb
 housewarisability=UNTAGGED=gb
 housewarisable=UNTAGGED=gb
@@ -96010,7 +95978,6 @@ idempotence=UNTAGGED=gb
 idempotency=UNTAGGED=gb
 idempotencyible=UNTAGGED=gb
 identifiability=UNTAGGED=gb,nz,za
-identikit=noun=au,ca,us
 ideogrammatic=UNTAGGED=us-large
 ideogrammatically=UNTAGGED=us-large
 ideomotion=NN:UN=none
@@ -98754,7 +98721,6 @@ jellib=NN=none
 jelliedness=NN=none
 jellification=noun_UN=none
 jellify=verb=us-large
-jello=noun_U=au,ca,nz,us,za
 jellyleaf=NN=none
 jellyroll=noun=au,ca,nz,us,za
 jelutong=noun=none
@@ -98904,7 +98870,6 @@ jitterifully=UNTAGGED=gb
 jitterisability=UNTAGGED=gb
 jitterisable=UNTAGGED=gb
 jitterying=UNTAGGED=gb
-jiu-jitsu=UNTAGGED=all
 jiu=UNTAGGED=gb,nz,za
 jiujutsu=noun=none
 jiva=NN:U=us-large
@@ -107176,7 +107141,6 @@ moffie=UNTAGGED=za
 mofussil=noun=none
 moggan=noun=none
 moggie=noun=au,ca,gb,nz,za
-moggy=noun=us,za
 moghul=NN=none
 mogilalia=NN=none
 mogo=NN=none
@@ -109601,7 +109565,6 @@ neoimperialism=NN:UN=none
 neoimpressionism=noun_UN=us-large
 neoimpressionist=noun=none
 neolentinus=NN=none
-neolithic=UNTAGGED=all
 neologian=noun=gb
 neomorph=noun=none
 neomys=NN=none
@@ -116784,7 +116747,6 @@ opalite=UNTAGGED=gb
 opanci=UNTAGGED=gb
 opanka=UNTAGGED=gb
 opankas=UNTAGGED=gb
-ope=UNTAGGED=us-large
 oped=UNTAGGED=us-large
 opeidoscope=noun=none
 open-airishness=NN=none
@@ -123073,7 +123035,6 @@ pistolling=pistolling/NN,pistolling/NNS=gb,nz,za
 pistology=NN:UN=none
 pistou=noun=none
 pisum=NN=none
-pita=noun_U=au,ca,nz,us,za
 pitahaya=noun=none
 pitanga=NN=us-large
 pitapat=noun=au,ca,us
@@ -135777,7 +135738,6 @@ schnappsory=UNTAGGED=gb
 schnaps=schnaps/NN,schnaps/NNS,schnapses/NNS=none
 schnecken=schnecken/NN,schnecken/NNS=none
 schnittlaugh=NN=none
-schnook=noun=au,ca,us
 schnorchel=NN=none
 schnorkel=noun=none
 schnorkle=NN=us-large
@@ -144703,7 +144663,6 @@ sungazing=UNTAGGED=gb
 sunglow=noun=none
 sungod=noun=none
 sungrebe=NN=none
-sunhat=noun=au,ca,us
 sunken-eyed=JJ=none
 sunket=noun=none
 sunland=noun=none
@@ -160907,7 +160866,6 @@ yenned=UNTAGGED=gb,nz,za
 yenning=UNTAGGED=gb,nz,za
 yenta=noun=us-large
 yente=noun=none
-yer=UNTAGGED=au,ca,us
 yersinia=yersinia/NN,yersiniae/NNS=none
 yerupaja=NN=none
 yeshiva=yeshiva/NN,yeshivas/NNS,yeshivoth/NNS=au,ca,us

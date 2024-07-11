@@ -69712,6 +69712,7 @@ downcast=NN=all
 downcastly=RB=all
 downcastness=NN:U=all
 downcomer=noun=all
+downdraft=noun=ca,us
 downed=JJ=all
 downer=noun=all
 downfall=noun=all
@@ -69840,6 +69841,7 @@ draftily=RB=all
 draftiness=NN:U=all
 drafting=noun_U=all
 draftsman [pl. draftsmen]=noun=all
+drafty=drafty/JJ,draftier/JJR,draftiest/JJS=ca,us
 drag-and-drop=JJ=all
 drag=drag/NN,drag/NN:U,drags/NNS=all
 drag=verb=all
@@ -69933,6 +69935,7 @@ dreadful=JJ=all
 dreadfully=RB=all
 dreadfulness=NN:U=all
 dreadless=JJ=all
+dreadlock=noun=all
 dreadness=NN:U=all
 dreadnought=noun=all
 dream [dreams;dreamed,dreamt;dreamed,dreamt;dreaming]=verb=all
@@ -70466,6 +70469,7 @@ dwarfishly=RB=all
 dwarfishness=NN:U=all
 dwarfism=noun_U=all
 dwarfness=NN:U=all
+dweeb=noun=au,ca,us
 dwell [dwells;dwelt;dwelt;dwelling]|dwell [dwells;dwelled;dwelled;dwelling]=verb=all|us
 dwell=noun=all
 dweller=noun=all
@@ -71411,6 +71415,7 @@ electrolier=noun=all
 electrologist=noun=all
 electroluminescence=noun=all
 electroluminescent=JJ=all
+electrolyze|electrolyse=verb=us|au,ca,gb,nz,za
 electrolysis=electrolysis/NN:U,electrolyses/NNS=all
 electrolyte=noun=all
 electrolytic=JJ=all
@@ -72527,6 +72532,7 @@ entozoan=JJ=all
 entozoic=JJ=all
 entr'acte=noun=all
 entr=NN=all
+entrail=noun=all
 entrain=verb=all
 entrainment=noun=all
 entrance=noun_UN=all
@@ -76339,6 +76345,7 @@ fisher=noun=all
 fisherman [pl. fishermen]=noun=all
 fishery=noun=all
 fisheye=noun=all
+fishhook=noun=all
 fishily=RB=all
 fishiness=NN:U=all
 fishing=noun_U=all
@@ -76616,6 +76623,8 @@ flatfooted=JJ=all
 flatfootedly=RB=all
 flatfootedness=NN:U=all
 flathead=noun=all
+flatiron=noun=all
+flatiron=JJ=all
 flatland=noun_U=all
 flatlander=noun=all
 flatling=RB=gb # dialectal
@@ -77323,6 +77332,7 @@ footedness=NN:U=all
 footer=noun=all
 footfall=noun=all
 footgear=footgear/NN,footgear/NN:U,footgears/NNS=all
+footgolf=noun_U=all
 footgolfer=noun=all
 foothill=noun=all
 foothold=noun=all
@@ -78027,6 +78037,7 @@ franticly=RB=all
 franticness=NN:U=all
 frap=verb=all
 frappé=noun=all
+frat=noun=all
 frater=noun=all
 fraternal=JJ=all
 fraternalism=noun_UN=all
@@ -78753,6 +78764,7 @@ furnisher=noun=all
 furnishing=noun_UN=all
 furniture=noun_U=all
 furnitureless=JJ=all
+furor=noun=ca,us
 furore=noun=gb,au,nz,za
 furosemide=noun=all
 furred=JJ=all
@@ -79165,6 +79177,7 @@ garaging=noun_UN=all
 garb=noun_U=all
 garb=verb=all
 garbage=noun_U=all
+garbanzo=noun=all
 garbed=JJ=all
 garble=verb=all
 garbleable=JJ=all
@@ -80040,6 +80053,7 @@ gingivitis=noun_U=all
 ginkgo=ginkgo/NN,ginkgoes/NNS,ginkgos/NNS=all
 ginned=JJ=all
 ginning=noun_UN=all
+ginormous=JJ=all
 ginseng=noun_U=all
 giocoso=JJ=all # Italian
 giocoso=RB=all # Italian
@@ -80405,6 +80419,7 @@ gloweringly=RB=all
 glowing=JJ=all
 glowing=NN:UN=all
 glowingly=RB=all
+glowworm=noun=all
 glowy=JJ=all
 gloxinia=noun=all
 glozingly=RB=all
@@ -80446,6 +80461,7 @@ gluteal=JJ=all
 gluten-free=JJ=all
 gluten=noun_U=all
 glutenous=JJ=all
+glute=noun=all
 gluteus=gluteus/NN,glutei/NNS=all
 glutinous=JJ=all
 glutinously=RB=all
@@ -80597,6 +80613,7 @@ goddammit=UH=all
 goddamn=JJ=all
 goddamned=JJ=all
 goddamnedest=JJ=all
+goddaughter=noun=all
 goddess=noun=all
 godfather=noun=all
 godforsaken=JJ=all
@@ -80745,6 +80762,7 @@ gooey=gooey/JJ,gooier/JJR,gooiest/JJS=all
 gooeyness=NN:U=all
 goof=noun=all
 goof=verb=all
+goofball=noun=all
 goofily=RB=all
 goofiness=NN:U=all
 goofy=goofy/JJ,goofier/JJR,goofiest/JJS=all
@@ -81012,6 +81030,7 @@ grandkid=noun=all
 grandly=RB=all
 grandma=noun=all
 grandmaster=noun=all
+grandmom=noun=ca,us
 grandmother=noun=all
 grandmotherliness=NN:U=all
 grandmotherly=RB=all
@@ -81443,6 +81462,7 @@ gristle=noun_U=all
 gristliness=NN:U=all
 gristly=RB=all
 gristly=gristlier/JJR,gristliest/JJS=all
+gristmill=noun=all
 grit=noun_U=all
 grit=verb=all
 gritless=JJ=all
@@ -81481,6 +81501,7 @@ groom=verb=all
 groomed=JJ=all
 groomer=noun=all
 grooming=noun_U=all
+groomsman [pl.groomsmen]=nooun=all
 groove=noun=all
 groove=verb=all
 grooveless=JJ=all
@@ -81532,6 +81553,7 @@ groundbreaking=JJ=all
 groundbreaking=noun=all
 groundedness=NN:U=all
 grounder=noun=all
+groundhog=noun=all
 grounding=noun_UN=all
 groundless=JJ=all
 groundlessly=RB=all
@@ -81720,6 +81742,7 @@ guest=verb=all
 guestbook=noun=all
 guesthouse=noun=all
 guestless=JJ=all
+guestroom=noun=all
 guff=noun_U=all
 guffaw=noun=all
 guffaw=verb=all
@@ -81811,6 +81834,8 @@ gummy=noun=all
 gumption=noun_U=all
 gumptionless=JJ=all
 gumptious=JJ=all
+gumshoe=verb=all
+gumshoe=noun=all
 gumtree=noun=all
 gun-shy=JJ=all
 gun-toting=JJ=all
@@ -81855,6 +81880,7 @@ gurgle=noun_UN=all
 gurgle=verb=all
 gurglingly=RB=all
 gurnard=noun=all
+gurney=noun=all
 guru=noun=all
 gush=noun=all
 gush=verb=all
@@ -82007,6 +82033,8 @@ gyrostabilizer|gyrostabiliser=noun=us,ca,gb|gb,au,nz,za
 gyrostatic=JJ=all
 gyrostatically=RB=all
 gyrus=gyrus/NN,gyri/NNS,gyruses/NNS=all
+gyve=noun=all
+gyve=verb=all
 gâteau=noun=all
 gâteaux=NNS=all
 gîte=noun=all
@@ -82068,6 +82096,7 @@ hacktivism=NN:U=all
 hacktivist=JJ=all
 hacktivist=noun=all
 hackwork=noun_U=all
+hacky=hacky/JJ,hackier/JJR,hackiest/JJS=all
 hadal=JJ=all
 haddock=haddock/NN,haddock/NNS,haddocks/NNS=all
 hadith=hadith/NN,hadith/NNS,hadiths/NNS=all
@@ -82076,12 +82105,13 @@ hadron=noun=all
 hadrosaur=noun=all
 haemacytometer=noun=all
 haemagglutinative=JJ=all
-haemal|hemal=JJ=ca,us|au,gb,nz,za
+haemal|hemal=JJ=au,gb,nz,za|ca,us
 haematic=JJ=all
 haematinic=JJ=all
 haematocryal=JJ=all
 haematogenous=JJ=all
 haematoid=JJ=all
+haematoma|hematoma=noun=au,gb,nz,za|ca,us
 haematopoietic=JJ=all
 haematothermal=JJ=all
 haematozoal=JJ=all
@@ -84489,6 +84519,7 @@ holding=JJ=all
 holding=noun_UN=all
 holdout=noun=all
 holdover=noun=all
+holdup=noun=all
 hole-and-corner=JJ=all
 hole-in-one=noun=all
 hole=noun=all
@@ -84579,6 +84610,7 @@ home=noun_UN=all
 home=verb=all
 homebody=noun=all
 homebound=JJ=all
+homeboy=noun=all
 homebred=noun=all
 homebrew=noun=all
 homebrewed=JJ=all
@@ -84656,6 +84688,7 @@ homeyness=NN:U=all
 homicidal=JJ=all
 homicidally=RB=all
 homicide=noun_UN=all
+homie=noun=ca,us
 homiletic=JJ=all
 homiletic=noun=all
 homiletical=JJ=all
@@ -84775,6 +84808,7 @@ homozygousness=NN:U=all
 homuncular=JJ=all
 homunculus=homunculus/NN,homunculi/NNS=all
 hon=abbreviation=all
+honcho=noun=all
 hone=noun=all
 hone=verb=all
 honer=noun=all
@@ -85200,6 +85234,7 @@ houseperson=noun=all
 houseplant=noun=all
 houseroom=noun_U=all
 housetop=noun=all
+houseware=noun=all
 housewarming=noun=all
 housewife=housewife/NN,housewives/NNS=all
 housewifeliness=NN:U=all
@@ -86469,6 +86504,7 @@ identifiably=RB=all
 identification=noun_U=all
 identifier=noun=all
 identify=verb=all
+identikit=noun=all
 identity=noun_UN=all
 ideogram=noun=all
 ideograph=noun=all
@@ -91233,6 +91269,7 @@ jell=verb=all
 jellaba=noun=all
 jelled=JJ=all
 jellied=JJ=all
+jello=noun_UN=au,ca,nz,us,za
 jelly=noun_U=all
 jelly=verb=all
 jellybean=noun=all
@@ -91366,6 +91403,7 @@ jitterbugger=noun=all
 jitteriness=NN:U=all
 jitters=NN=all
 jittery=jittery/JJ,jitterier/JJR,jitteriest/JJS=all
+jiu-jitsu=noun_U=all
 jiujitsu=noun_U=all
 jivanmukta=noun=all
 jive=noun=all
@@ -99228,6 +99266,7 @@ modulo=modulo/NN,moduli/NNS=all
 modulus=modulus/NN,moduli/NNS=all
 mofette=noun=all
 mog=NN=all
+moggy=noun=au,gb
 mogul=noun=all
 mohair=noun_U=all
 mohur=noun=all
@@ -101737,6 +101776,7 @@ neoliberal=noun=all
 neoliberalism=noun_UN=all
 neolibertarianism=noun_UN=all
 neolith=noun=all
+neolithic=JJ=all # typically capitalized, but lowercase is acceptable when used informally
 neolocal=JJ=all
 neolocality=NN:U=all
 neologic=JJ=all
@@ -107004,6 +107044,8 @@ opaque=verb=all
 opaquely=RB=all
 opaqueness=NN:U=all
 opcode=noun=all
+ope=UH=us
+ope=verb=all # archaic
 open-air=JJ=all
 open-and-shut=JJ=all
 open-chain=JJ=all
@@ -113049,6 +113091,7 @@ pisé=noun_UN=all
 pit-a-pat=RB=all
 pit=noun=all
 pit=verb=all
+pita=noun=all
 pitch-black=JJ=all
 pitch-dark=JJ=all
 pitch-faced=JJ=all
@@ -125356,6 +125399,7 @@ schmuck=noun=all # informal, mostly US
 schnapps=schnapps/NN:U,schnapps/NNS,schnappses/NNS=all
 schnauzer=noun=all
 schnitzel=noun_UN=all
+schnook=noun=all
 scholar=noun=all
 scholarless=JJ=all
 scholarliness=NN:U=all
@@ -134801,6 +134845,7 @@ sunfish=sunfish/NN,sunfish/NNS,sunfishes/NNS=all
 sunflower=noun=all
 sunglass=noun=all
 sungrazer=noun=all
+sunhat=noun=all
 suni=noun=all
 sunk=noun=all
 sunken=JJ=all
@@ -155685,6 +155730,8 @@ yeomanry=noun_U=all
 yep=JJ=all
 yep=RB=all
 yep=noun=all
+yer=contraction=gb
+yer=DT=au,ca,gb,us
 yerba=noun=all
 yersiniosis [pl. yersinioses]=noun=all
 yes [-ss-,-s-]=verb=all # colloquial, slang
