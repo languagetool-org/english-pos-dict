@@ -78399,7 +78399,7 @@ frugalness=NN:U=all
 frugivore=noun=all
 frugivorous=JJ=all
 fruit-eating=JJ=all
-fruit=fruit/NN:UN,fruit/NNS,fruits/NNS=all
+fruit=noun_UN=all
 fruit=verb=all
 fruitage=noun=all
 fruitarian=JJ=all
@@ -137712,7 +137712,7 @@ themeless=JJ=all
 themself=PRP=all
 themselves=PRP=all
 then=JJ=all
-then=NN=all
+#then=NN=all
 then=RB=all
 thenar=JJ=all
 thenar=noun=all
