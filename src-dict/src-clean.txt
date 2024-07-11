@@ -80753,6 +80753,7 @@ goodliness=NN:U=all
 goodly=goodly/JJ,goodlier/JJR,goodliest/JJS=all
 goodman [pl. goodmen]=noun=all
 goodness=NN:U=all
+goodnight=noun_UN=all
 goodwife=goodwife/NN,goodwives/NNS=all
 goodwill=noun_U=all
 goody-goody=JJ=all
