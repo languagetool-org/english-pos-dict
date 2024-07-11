@@ -6312,6 +6312,8 @@ historize
 historized
 historizes
 historizing
+holodeck
+holodecks
 hominisation
 hominisations
 hominise
@@ -8774,6 +8776,8 @@ nanisation
 nanisations
 nanization
 nanizations
+nanofibre
+nanofibres
 nanogramme
 nanogrammes
 nanolitre
@@ -10237,12 +10241,14 @@ parabolize
 parabolized
 parabolizes
 parabolizing
+parallelisable
 parallelisation
 parallelisations
 parallelise
 parallelised
 parallelises
 parallelising
+parallelizable
 parallelization
 parallelizations
 parallelize
@@ -12233,6 +12239,8 @@ remobilize
 remobilized
 remobilizes
 remobilizing
+remodeller
+remodellers
 remonetisation
 remonetisations
 remonetise
@@ -13304,6 +13312,7 @@ six-litre
 six-litres
 sizeable
 sizeableness
+sizeably
 skeletonisation
 skeletonisations
 skeletonise
@@ -14072,6 +14081,7 @@ synopsize
 synopsized
 synopsizes
 synopsizing
+synthesisable
 synthesisation
 synthesisations
 synthesise
@@ -14080,6 +14090,7 @@ synthesiser
 synthesisers
 synthesises
 synthesising
+synthesizable
 synthesization
 synthesizations
 synthesize

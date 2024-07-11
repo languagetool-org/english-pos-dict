@@ -4898,6 +4898,8 @@ mythologizes
 mythologizing
 nanization
 nanizations
+nanofibre
+nanofibres
 nanogramme
 nanogrammes
 nanolitre
@@ -5849,6 +5851,7 @@ parabolize
 parabolized
 parabolizes
 parabolizing
+parallelizable
 parallelization
 parallelizations
 parallelize
@@ -6932,6 +6935,8 @@ remobilize
 remobilized
 remobilizes
 remobilizing
+remodeller
+remodellers
 remonetization
 remonetizations
 remonetize
@@ -7539,6 +7544,7 @@ six-litre
 six-litres
 sizeable
 sizeableness
+sizeably
 skeletonization
 skeletonizations
 skeletonize
@@ -7977,6 +7983,7 @@ synopsize
 synopsized
 synopsizes
 synopsizing
+synthesizable
 synthesization
 synthesizations
 synthesize

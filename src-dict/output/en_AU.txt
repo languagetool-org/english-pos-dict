@@ -4917,6 +4917,8 @@ mythologises
 mythologising
 nanisation
 nanisations
+nanofibre
+nanofibres
 nanogramme
 nanogrammes
 nanolitre
@@ -5883,6 +5885,7 @@ parabolise
 parabolised
 parabolises
 parabolising
+parallelisable
 parallelisation
 parallelisations
 parallelise
@@ -6955,6 +6958,8 @@ remobilise
 remobilised
 remobilises
 remobilising
+remodeller
+remodellers
 remonetisation
 remonetisations
 remonetise
@@ -7569,6 +7574,7 @@ six-litre
 six-litres
 sizeable
 sizeableness
+sizeably
 skeletonisation
 skeletonisations
 skeletonise
@@ -8011,6 +8017,7 @@ synopsise
 synopsised
 synopsises
 synopsising
+synthesisable
 synthesisation
 synthesisations
 synthesise

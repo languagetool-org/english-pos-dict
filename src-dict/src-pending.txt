@@ -1,4 +1,3 @@
-
 'strewth=UNTAGGED=gb
 'struth=UNTAGGED=gb
 -war=UNTAGGED=gb
@@ -4917,8 +4916,6 @@ Beaupré=UNTAGGED=gb
 Beausale=UNTAGGED=gb
 Beaussier=UNTAGGED=gb
 Beauworth=UNTAGGED=gb
-Beaux-Arts=JJ=none
-Beaux-Arts=NNP=none
 Beaverboard=Beaverboard/NNP,Beaverboards/NNPS=us-large
 Beaworthy=UNTAGGED=gb
 Beazley=UNTAGGED=gb
@@ -14610,7 +14607,6 @@ Doyleston=UNTAGGED=gb
 Doynton=UNTAGGED=gb
 Doyon=NNP=none
 Doña=UNTAGGED=all
-Dr=UNTAGGED=all
 Drabeck=NNP=none
 Dracaenaceae=NNP=none
 Dracenaceae=NNP=none
@@ -37041,7 +37037,6 @@ Oldsmobile=UNTAGGED=all
 Oldspeaker=UNTAGGED=gb
 Oldstead=UNTAGGED=gb
 Olduvai=UNTAGGED=au,ca,us
-Ole=NNP=none
 Olea=NNP=none
 Oleaceae=NNP=none
 Oleales=NNP=none
@@ -42620,7 +42615,6 @@ Rocca=NNP=none
 Roccellaceae=NNP=none
 Roccus=NNP=none
 Rocester=UNTAGGED=gb
-Rocha=UNTAGGED=au,ca,us
 Rochambeau=UNTAGGED=au,ca,us
 Rochell=NNP=none
 Rochella=NNP=none
@@ -43120,7 +43114,6 @@ Rozina=NNP=none
 Rp=NNP=none
 Rriocard=NNP=none
 Rs.=UNTAGGED=gb
-Rs=UNTAGGED=gb,us-large,za
 Rt.=UNTAGGED=gb
 Rt=UNTAGGED=gb,za
 Rte=UNTAGGED=au,ca,us
@@ -45463,8 +45456,6 @@ Shewchuk=NNP=none
 Shewhart=UNTAGGED=gb
 Shewmaker=NNP=none
 Sheya=NNP=none
-Shi'ite=UNTAGGED=gb,us-large
-Shi=UNTAGGED=all
 Shiah=JJ=gb
 Shiah=Shiah/NNP,Shiahs/NNPS=gb
 Shiatsu=Shiatsu/NNP,Shiatsus/NNPS=none
@@ -45587,7 +45578,6 @@ Shocklach=UNTAGGED=gb
 Shoebury=UNTAGGED=gb
 Shoemaker=NNP=none
 Shoifet=NNP=none
-Shoji=UNTAGGED=all
 Sholden=UNTAGGED=gb
 Sholeen=NNP=none
 Sholem=NNP=none
@@ -45891,7 +45881,6 @@ Silvius=NNP=none
 Silvni=NNPS=none
 Silwy=UNTAGGED=gb
 Silybum=NNP=none
-Sim=NNP=none
 SimAnt=UNTAGGED=gb
 SimEarth=UNTAGGED=gb
 Sima=NNP=none
@@ -46047,7 +46036,6 @@ Sivaist=NNP=none
 Sivaite=UNTAGGED=gb
 Sivaites=UNTAGGED=gb
 Sivaji=UNTAGGED=gb
-Sivan=Sivan/NNP,Sivans/NNPS=au,ca,us
 Sivapithecus=NNP=none
 Sivia=NNP=none
 Sivie=NNP=none
@@ -48150,7 +48138,6 @@ Tabib=NNP=none
 Tabina=NNP=none
 Tabley=UNTAGGED=gb
 Tabora=NNP=none
-Taborite=NNP=none
 Tabshey=NNP=none
 Tacca=NNP=none
 Taccaceae=NNP=none
@@ -48896,7 +48883,6 @@ Ternate=NNP=none
 Terpstra=NNP=none
 Terrace=UNTAGGED=gb
 Terramycin=Terramycin/NNP,Terramycins/NNPS=us-large
-Terran=Terran/NNP,Terrans/NNPS=au,ca,us
 Terrapene=NNP=none
 Terre=UNTAGGED=gb,nz,za
 Terregles=UNTAGGED=gb
@@ -51230,7 +51216,6 @@ Usumbura=NNP=none
 Ut-napishtim=NNP=none
 Ut=UNTAGGED=au,ca,us
 Uta=NNP=none
-Utahn=Utahn/NNP,Utahns/NNPS=none
 Utamaro=NNP=none
 Utas=NNP=none
 Utgard-Loki=NNP=none
@@ -52846,7 +52831,6 @@ Weliswa=NNP=none
 Well=UNTAGGED=gb
 Wella=UNTAGGED=nz
 Wellbank=UNTAGGED=gb
-Weller=UNTAGGED=all
 Wellerism=Wellerism/NNP,Wellerisms/NNPS=none
 Wellesbourne=UNTAGGED=gb
 Wellhausen=UNTAGGED=gb
@@ -53202,7 +53186,6 @@ Whiteville=NNP=none
 Whitewater=UNTAGGED=gb
 Whitewell=UNTAGGED=gb
 Whitey=Whitey/NNP,Whiteys/NNPS=gb
-Whitfield=UNTAGGED=all
 Whitgift=UNTAGGED=gb
 Whitgreave=UNTAGGED=gb
 Whitgreaves=UNTAGGED=gb
@@ -55268,7 +55251,6 @@ aby=verb=us-large
 abye=abye/VB,abyed/VBD,abyeing/VBG,abyed/VBN,abye/VBP,abyes/VBZ=gb
 abyssopelagic=UNTAGGED=gb
 ac-globulin=NN:U=none
-ac=UNTAGGED=au,ca,us
 acad=NN=none
 academicianship=NN=gb,nz,za
 academist=noun=none
@@ -61484,8 +61466,6 @@ backland=noun=none
 backlasher=noun=gb,nz,za
 backlift=UNTAGGED=gb
 backlifts=UNTAGGED=gb
-backline=UNTAGGED=gb
-backlines=UNTAGGED=gb
 backlins=RB=none
 backlist=UNTAGGED=gb
 backlisted=UNTAGGED=gb
@@ -61505,10 +61485,6 @@ backnisable=UNTAGGED=gb
 backout=noun=none
 backpiece=noun=none
 backplane=noun=gb,nz,za
-backport=UNTAGGED=gb
-backported=UNTAGGED=gb
-backporting=UNTAGGED=gb
-backports=UNTAGGED=gb
 backronym=UNTAGGED=gb
 backronyms=UNTAGGED=gb
 backrope=NN=none
@@ -67561,7 +67537,6 @@ carbostyrillativeness=UNTAGGED=gb
 carbowax=UNTAGGED=gb
 carbowaxes=UNTAGGED=gb
 carboxy=NN:U=gb
-carboxyhemoglobin=noun=none
 carboxyible=UNTAGGED=gb
 carboxylation=noun_UN=gb
 carboxymethylcellulose=noun=none
@@ -70266,7 +70241,6 @@ cirripede=noun=gb
 cirripedia=NN=none
 cirrocumulative=JJ=none
 cirrocumulous=JJ=none
-cirrocumulus=cirrocumulus/NN:U,cirrocumuli/NNS=us-large
 cirrosely=RB=none
 cirsectomy=NN=none
 cirsium=NN=none
@@ -71018,7 +70992,6 @@ coachy=noun=none
 coact=verb=us-large
 coaction=noun_UN=us-large
 coactive=JJ=us-large
-coactivity=noun_UN=none
 coactor=noun=none
 coadaptation=noun_UN=none
 coadjacency=noun=none
@@ -71900,7 +71873,6 @@ compsognathus=NN=none
 comptonia=NN=none
 comptrollership=noun=none
 compulsitor=noun=none
-compulsivity=noun_UN=gb,nz,za
 compurgation=noun_UN=us-large
 compurgator=noun=gb
 compursion=noun=none
@@ -72329,7 +72301,6 @@ conspecificity=UNTAGGED=gb
 consperg=NN=none
 conspicuity=noun_UN=us-large
 conspiration=noun_UN=none
-conspirational=UNTAGGED=gb,nz,za
 conspirative=JJ=none
 conspiratress=noun=none
 conspirer=noun=gb
@@ -72594,7 +72565,6 @@ cooner=NN=none
 coontie=noun=us-large
 cooperant=UNTAGGED=gb,nz,za
 cooperants=UNTAGGED=gb
-cooperationist=noun=none
 cooperite=NN=none
 coopt=UNTAGGED=gb
 cooptation=UNTAGGED=gb
@@ -73812,7 +73782,6 @@ crinum=noun=us-large
 criolla=noun=none
 criosphinx=noun=none
 cripe=noun=none
-crippleware=noun=au,ca,us
 crisic=JJ=none
 crispation=noun_UN=us-large
 crispature=noun=none
@@ -76899,7 +76868,6 @@ demagnifiers=UNTAGGED=gb,nz,za
 demagnifies=UNTAGGED=gb,nz,za
 demagnify=UNTAGGED=gb,nz,za
 demagnifying=UNTAGGED=gb,nz,za
-demagog=noun=none
 demagogism=noun_UN=none
 demagoguism=noun_UN=none
 demain=noun=none
@@ -82835,7 +82803,6 @@ equisetatae=NN=none
 equisetic=JJ=none
 equisetum=noun=us-large
 equispaced=UNTAGGED=gb,nz,za
-equitability=noun_UN=us-large
 equites=UNTAGGED=us-large
 equivalenced=UNTAGGED=gb,nz,za
 equivalencing=UNTAGGED=gb,nz,za
@@ -85130,7 +85097,6 @@ film-strips=UNTAGGED=gb,nz,za
 filmcard=noun=none
 filmdommation=UNTAGGED=gb
 filmer=noun=none
-filmgoer=noun=gb
 filmi=filmi/JJ,filmier/JJR,filmiest/JJS=none
 filmi=noun=none
 filmings=UNTAGGED=gb
@@ -87460,7 +87426,6 @@ ganapati=NN=none
 ganef=noun=us-large
 ganesh=NN=none
 ganev=noun=none
-gangbanger=noun=none
 gangbuster=noun=none
 gangdom=NN=none
 ganglingly=UNTAGGED=gb
@@ -93066,7 +93031,6 @@ heteranthera=NN=none
 heterecious=UNTAGGED=us-large
 heterism=UNTAGGED=us-large
 heteroaromatic=NN=gb
-heteroatom=noun=gb
 heteroauxin=noun_UN=none
 heterobasidiomycetes=NN=none
 heterobimetallic=UNTAGGED=gb
@@ -93141,7 +93105,6 @@ heteroptera=NN=none
 heteropteran=UNTAGGED=gb
 heteropterans=UNTAGGED=gb
 heteroptics=NN:U=none
-heteroromantic=UNTAGGED=gb
 heteroromanticism=UNTAGGED=gb
 heteroscedastically=UNTAGGED=gb
 heteroscedasticities=UNTAGGED=gb
@@ -93813,8 +93776,6 @@ holocentridae=NN=none
 holocentrus=NN=none
 holocephalan=NN=none
 holocephali=NN=none
-holodeck=UNTAGGED=gb
-holodecks=UNTAGGED=gb
 hologamy=noun_U=none
 hologonidium=NN=none
 holographed=UNTAGGED=gb,nz,za
@@ -96040,8 +96001,6 @@ ideamonger=NN=none
 ideas42=UNTAGGED=all
 ideatum=NN=us-large
 idemfactor=NN=none
-idempotence=UNTAGGED=gb
-idempotency=UNTAGGED=gb
 idempotencyible=UNTAGGED=gb
 identifiability=UNTAGGED=gb,nz,za
 identikit=noun=au,ca,us
@@ -96333,7 +96292,6 @@ immunopharmacologisable=UNTAGGED=gb
 immunopharmacology=UNTAGGED=gb
 immunopharmacologyible=UNTAGGED=gb
 immunophenotypic=UNTAGGED=all
-immunoprecipitation=noun_UN=none
 immunoprophylaxes=UNTAGGED=gb
 immunoprophylaxis=UNTAGGED=gb
 immunoprotective=UNTAGGED=gb
@@ -96816,7 +96774,6 @@ indeterminist=JJ=gb
 indeterminist=noun=gb
 indevout=JJ=us-large
 index-linking=UNTAGGED=gb
-indexable=UNTAGGED=gb,nz,za
 indianan=NN=none
 indic=UNTAGGED=us-large
 indica=UNTAGGED=all
@@ -97480,8 +97437,6 @@ interacademically=RB=none
 interaccessory=JJ=none
 interacinous=JJ=none
 interactant=noun=gb
-interactome=UNTAGGED=gb
-interactomes=UNTAGGED=gb
 interactomic=UNTAGGED=gb
 interactomics=NN:U=gb
 interadaption=NN:UN=none
@@ -101489,7 +101444,6 @@ lazulite=noun=us-large
 lazurite=noun=us-large
 lbf.=NN=none
 lbf=NN=none
-lbs=UNTAGGED=all
 lbw=UNTAGGED=all
 lca=NN=none
 lcm=NN=none
@@ -101505,7 +101459,6 @@ leaderene=noun=none
 leaderette=noun=none
 leadfoot=leadfoot/NN,leadfeet/NNS=none
 leadman=leadman/NN,leadmen/NNS=none
-leadoff=noun=none
 leadplant=noun=none
 leadscrew=noun=none
 leadsman=leadsman/NN,leadsmen/NNS=us-large
@@ -104705,7 +104658,6 @@ matrisib=NN=none
 matronage=noun=us-large
 matronship=NN=gb
 matronships=UNTAGGED=gb
-matryoshka=noun=none
 matsah=noun=none
 matsuri=UNTAGGED=gb
 matsyendra=NN=none
@@ -106844,7 +106796,6 @@ misadvice=NN=none
 misadvize=misadvize/VB,misadvize/VBP=us-large
 misagent=noun=none
 misallegation=NN=none
-misallocate=UNTAGGED=gb,us-large
 misallotment=noun=none
 misally=verb=us-large
 misalphabetize=UNTAGGED=us-large
@@ -107510,7 +107461,6 @@ monometallist=noun=none
 monomethylably=UNTAGGED=gb
 monomethylally=UNTAGGED=gb
 monomethylamine=NN=none
-monomethylation=UNTAGGED=gb
 monomethylations=UNTAGGED=gb
 monomethylativeness=UNTAGGED=gb
 monomethylible=UNTAGGED=gb
@@ -107979,8 +107929,6 @@ moutonnae=NN=none
 moveabilities=UNTAGGED=gb
 moveablenesses=UNTAGGED=gb,us-large
 moviedom=noun=us-large
-moviegoer=noun=au,ca,us
-moviegoing=noun=none
 movieland=NN=none
 moviemaking=noun=none
 movieola=noun=none
@@ -109225,8 +109173,6 @@ nanodiamonds=UNTAGGED=gb
 nanoengineer=UNTAGGED=gb
 nanoengineering=UNTAGGED=gb
 nanoengineers=UNTAGGED=gb
-nanofibre=UNTAGGED=gb
-nanofibres=UNTAGGED=gb
 nanoflare=UNTAGGED=gb
 nanoflares=UNTAGGED=gb
 nanofossil=noun=none
@@ -109847,7 +109793,6 @@ neurocrystalline=UNTAGGED=gb
 neurodegenerations=UNTAGGED=gb
 neurodevelopment=NN:U=none
 neurodivergent=UNTAGGED=all
-neuroeconomics=UNTAGGED=gb
 neuroembryological=NN=none
 neuroembryology=NN:UN=none
 neuroendocrinologist=noun=none
@@ -115718,7 +115663,6 @@ nucleole=noun=none
 nucleophilically=UNTAGGED=gb
 nucleophilicity=noun_UN=none
 nucleosidase=NN=none
-nucleosomal=UNTAGGED=gb
 nucleosynthetic=UNTAGGED=gb
 nucleotidase=noun=us-large
 nucule=noun=none
@@ -115970,7 +115914,6 @@ obesely=UNTAGGED=gb,us-large
 obfuscater=UNTAGGED=gb,nz,za
 obia=noun=none
 obiism=noun_UN=none
-obis=obis/NN,obes/NNS=au,ca,us
 obiter=UNTAGGED=gb
 obiters=UNTAGGED=gb
 obitual=UNTAGGED=gb
@@ -116045,7 +115988,6 @@ obsoletism=UNTAGGED=gb,us-large
 obsoletisms=UNTAGGED=gb
 obstat=UNTAGGED=gb
 obstet=NN=us-large
-obstinance=obstinance/NN,obstinance/NN:U=none
 obstipant=NN=none
 obstreperosity=NN:UN=none
 obstriction=noun_UN=none
@@ -116144,9 +116086,7 @@ octahedra=UNTAGGED=all
 octahedrite=NN=us-large
 octakishexahedron=UNTAGGED=gb
 octals=UNTAGGED=gb,nz,za
-octamer=UNTAGGED=gb
 octameric=UNTAGGED=gb
-octamers=UNTAGGED=gb
 octangle=noun=us-large
 octangularness=NN=none
 octanoic=UNTAGGED=all
@@ -116363,7 +116303,6 @@ offscouring=noun=none
 offshored=UNTAGGED=gb
 offshores=UNTAGGED=gb
 offsiders=UNTAGGED=gb
-offsite=UNTAGGED=au,ca,us
 offspringless=UNTAGGED=gb
 offt=UNTAGGED=gb
 offward=noun=none
@@ -116649,7 +116588,6 @@ on-stage=UNTAGGED=nz,za
 on-the-scene=JJ=none
 onagraceae=NN=none
 once-daily=RB=none
-oncer=noun=gb,nz,za
 onchorynchus=NN=none
 oncidium=noun=none
 oncogenomics=UNTAGGED=gb
@@ -118568,7 +118506,6 @@ overprosperousness=NN=none
 overprotraction=NN:UN=none
 overprovidently=RB=none
 overprovidentness=NN=none
-overprovision=NN=none
 overprovocation=NN:UN=none
 overpublicity=NN=none
 overpuissant=JJ=none
@@ -121081,7 +121018,6 @@ perfoliation=noun_UN=none
 performability=noun_UN=none
 performant=UNTAGGED=gb,us
 performants=UNTAGGED=gb
-performatively=UNTAGGED=gb
 performativities=UNTAGGED=gb
 performativity=UNTAGGED=gb
 perfusate=noun=none
@@ -122482,7 +122418,6 @@ phytoalexin=noun=none
 phytobenthic=UNTAGGED=gb
 phytobiology=NN:UN=us-large
 phytochemically=UNTAGGED=gb
-phytochemicals=UNTAGGED=all
 phytochemist=noun=gb
 phytochemistry=noun_U=gb
 phytochemistryible=UNTAGGED=gb
@@ -122919,7 +122854,6 @@ pinkey=noun=none
 pinkier=UNTAGGED=gb
 pinkiest=UNTAGGED=gb
 pinkify=pinkify/VB,pinkify/VBP=none
-pinko=JJ=au,ca,us
 pinkroot=noun_U=none
 pinnacled=UNTAGGED=gb,nz,us-large,za
 pinnacling=UNTAGGED=gb,nz,za
@@ -123086,7 +123020,6 @@ pishoge=noun=none
 pisistance=NN=none
 pisky=noun=none
 piso=noun=us-large
-pisolite=noun=us-large
 pisolith=noun=none
 pisonia=NN=gb
 pisonias=UNTAGGED=gb
@@ -124579,8 +124512,6 @@ populators=UNTAGGED=gb
 populi=UNTAGGED=gb
 populo=UNTAGGED=gb
 populus=NN=none
-popup=UNTAGGED=au,ca,us
-popups=UNTAGGED=au,ca,us
 poral=UNTAGGED=gb
 porally=UNTAGGED=gb
 porc=NN=none
@@ -128251,8 +128182,6 @@ proteles=NN=none
 protension=noun=none
 protensity=noun_UN=none
 proteoglycan=noun=gb
-proteomic=UNTAGGED=gb
-proteomics=UNTAGGED=all
 proteose=noun=us-large
 proterandrously=RB=none
 proterandrousness=NN=none
@@ -128465,10 +128394,8 @@ prox=JJ=us-large
 prox=NN=us-large
 proxemic=noun=us-large
 proxemics=NN:U=us-large
-proxied=UNTAGGED=gb
 proximation=noun_UN=us-large
 proxime=UNTAGGED=gb
-proxying=UNTAGGED=gb
 prozac=NN=none
 prozymite=noun=none
 proöxidant=UNTAGGED=gb
@@ -131141,8 +131068,6 @@ queanlike=JJ=none
 queazy=queazy/JJ,queazier/JJR,queaziest/JJS=none
 quebracho=noun=gb
 quebrada=NN=none
-quectometer=noun=us
-quectometre=noun=gb
 queencake=NN=none
 queenfish=queenfish/NN,queenfish/NNS=none
 queenhoodably=UNTAGGED=gb
@@ -132792,7 +132717,6 @@ remobilisability=UNTAGGED=gb,nz,za
 remobilisable=UNTAGGED=gb,nz,za
 remobilizability=UNTAGGED=gb,nz,za
 remobilizable=UNTAGGED=gb,nz,za
-remodeler=noun=us-large
 remolade=noun=none
 remontoir=NN=none
 remontoire=NN=none
@@ -134063,8 +133987,6 @@ ronnel=noun=none
 ronquil=NN=none
 rontgen=noun=none
 rontgenogram=noun=none
-rontometer=noun=us
-rontometre=noun=gb
 ronyon=noun=none
 roo=noun=us-large
 rood-tree=NN:UN=none
@@ -134680,8 +134602,6 @@ saccarify=saccarify/VB,saccarify/VBP=none
 saccate=UNTAGGED=gb
 saccharase=noun=us-large
 saccharate=noun=us-large
-saccharification=noun_UN=none
-saccharify=NN=us-large
 saccharimetry=noun=none
 saccharinity=noun_UN=none
 saccharoid=JJ=us-large
@@ -135149,7 +135069,6 @@ sanitated=UNTAGGED=gb
 sanitates=UNTAGGED=gb
 sanitating=UNTAGGED=gb
 sanitationist=noun=gb
-sanitorium=noun=none
 sanjak=noun=us-large
 sannop=noun=none
 sannup=noun=none
@@ -136493,7 +136412,6 @@ seisin=noun=gb,nz,za
 seising=noun=gb
 seism=noun_UN=us-large
 seismical=UNTAGGED=gb,us-large,za
-seismicity=noun=us-large
 seismism=noun_UN=us-large
 seismol=NN=none
 seismometry=noun=none
@@ -138588,8 +138506,6 @@ shantih=noun=none
 shantyman=shantyman/NN,shantymen/NNS=none
 shape-up=NN=none
 shapeup=noun=none
-share-out=NN=gb,nz,za
-share-outs=UNTAGGED=gb
 shareability=noun_UN=none
 sharefarmer=noun=none
 shareman=shareman/NN,sharemen/NNS=none
@@ -138888,8 +138804,6 @@ shithouses=UNTAGGED=gb
 shitkicker=noun=none
 shitlist=noun=none
 shitshow=noun=ca,us
-shitstorm=UNTAGGED=gb
-shitstorms=UNTAGGED=gb
 shittah=noun=none
 shitter=UNTAGGED=gb
 shitters=UNTAGGED=gb
@@ -139487,7 +139401,6 @@ silverwork=noun=none
 silverworker=NN=none
 silvex=noun=none
 silybum=NN=none
-sim=noun=au,ca,us
 sima=noun=us-large
 simal=NN=none
 simar=noun=us-large
@@ -145369,7 +145282,6 @@ superluxury=noun=none
 supermacho=noun=gb
 supermagnificent=JJ=none
 supermagnificently=RB=none
-supermajority=noun=gb
 supermalate=NN=none
 supermale=noun=gb
 supermarginally=RB=none
@@ -146657,7 +146569,6 @@ tackifier=noun=none
 tacksman=tacksman/NN,tacksmen/NNS=none
 tacmahack=noun=us-large
 tacnode=noun=us-large
-taconite=noun_U=us-large
 tacpoint=NN=none
 tacrine=noun=none
 tactfulnessably=UNTAGGED=gb
@@ -147638,9 +147549,7 @@ tellership=noun=none
 tellima=NN=none
 tellin=noun=none
 telltalely=RB=none
-tellurate=noun=us-large
 tellurion=noun=us-large
-tellurite=noun=us-large
 tellurize=UNTAGGED=us-large
 telnetable=UNTAGGED=gb
 telnettability=UNTAGGED=gb
@@ -149377,7 +149286,6 @@ toolhouse=noun=none
 toolpusher=noun=none
 toolset=UNTAGGED=gb
 toolsets=UNTAGGED=gb
-toolshed=noun=gb
 toom=JJ=none
 toom=NN=none
 toon=noun=gb
@@ -154402,7 +154310,6 @@ unmodestly=RB=none
 unmodificative=JJ=none
 unmodishly=RB=none
 unmodulative=JJ=none
-unmolded=UNTAGGED=us-large
 unmoldered=JJ=none
 unmoldering=JJ=none
 unmomentousness=NN=none
@@ -157323,7 +157230,6 @@ vernacularist=noun=none
 vernacularities=UNTAGGED=gb
 vernacularity=UNTAGGED=gb,us-large
 vernicle=noun=none
-vernissage=noun=us-large
 vernix=noun=none
 vernonia=NN=none
 veronal=NN:U=none
@@ -158555,8 +158461,6 @@ watchabilityible=UNTAGGED=gb
 watchband=noun=au,ca,us
 watchcase=noun=us-large
 watchcry=noun=none
-watchdogged=UNTAGGED=gb
-watchdogging=UNTAGGED=gb
 watchet=noun=none
 watcheye=noun=none
 watchglass=noun=none
@@ -160538,7 +160442,6 @@ wuerzburg=NN=none
 wulfenite=noun=us-large
 wunner=noun=none
 wurley=NN=none
-wurst=noun=au,ca,us
 wurtzilite=NN:U=none
 wurtzite=NN:U=gb
 wurtzites=UNTAGGED=gb

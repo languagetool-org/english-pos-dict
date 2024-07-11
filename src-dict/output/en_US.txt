@@ -5120,6 +5120,8 @@ mythologizes
 mythologizing
 nanization
 nanizations
+nanofiber
+nanofibers
 nanoliter
 nanoliters
 naphthalize
@@ -6078,6 +6080,7 @@ parabolizing
 parallel
 paralleled
 paralleling
+parallelizable
 parallelization
 parallelizations
 parallelize
@@ -7202,6 +7205,8 @@ remobilizes
 remobilizing
 remodel
 remodeled
+remodeler
+remodelers
 remodeling
 remodels
 remonetization
@@ -7839,6 +7844,7 @@ six-liter
 six-liters
 sizable
 sizableness
+sizably
 skeletonization
 skeletonizations
 skeletonize
@@ -8306,6 +8312,7 @@ synopsize
 synopsized
 synopsizes
 synopsizing
+synthesizable
 synthesization
 synthesizations
 synthesize
