@@ -43,7 +43,7 @@
 #anes=RB=all # ??
 #angerly=RB=all archaic
 #anotherArtificialTestWordForLanguageTool=UNTAGGED=all
-#antarctic=JJ=all # capitalized
+antarctic=JJ=all # often capitalized but not obligatorily
 #anyways=RB=au,ca,us # informal
 #aport=RB=all # archaic
 #aposiopesis [pl. aposiopeses]=noun=all # Obsolete
@@ -3529,6 +3529,7 @@ Assyrian=JJ=all
 Assyriological=JJ=all
 Assyriology=Assyriology/NNP,Assyriologies/NNPS=all
 Astaire=NNP=all
+Astana=NNP=all
 Astarte=NNP=all
 Asteraceae=NNP=all
 Asterix=NNP=all
@@ -27920,6 +27921,7 @@ MyISAM=NNP=all
 MyPlanet=NNP=za # South Africa, placename?
 MySQL=NNP=all
 MySchool=NNP=za # South Africa, placename?
+MySpace=NNP=all
 MyVillage=NNP=za # South Africa, placename?
 Myanmar=NNP=all
 Mycenae=NNP=all
@@ -31417,6 +31419,7 @@ Pelagianism=Pelagianism/NN:U,Pelagianism/NNP,Pelagianisms/NNPS=all
 Pelagianize|Pelagianise=verb=us,ca,gb|gb,au,nz,za
 Pelandaba=NNP=za # South Africa, placename?
 Pelasgian=JJ=all
+Pele=NNP=all
 Pelegrín=NNP=all
 Pelham=NNP=all
 Pelias=NNP=all
@@ -50426,6 +50429,7 @@ azygos=JJ=all
 azygos=noun=all
 azygous=JJ=all
 açai=NN:U=all
+açaí=NN:U=all
 b-day=noun=all
 b-word=noun=all
 b=abbreviation=all
@@ -53613,6 +53617,7 @@ bod=noun=all
 bodacious=JJ=all
 bode=verb=all
 bodega=noun=all
+bodge=noun=gb
 bodge=verb=gb
 bodhisattva=noun=all
 bodice=noun=all
@@ -53752,6 +53757,7 @@ bondholder=noun=all
 bondholding=JJ=all
 bonding=noun_U=all
 bondless=JJ=all
+bondman=bondman/NN,bondmen/NNS=au,ca,us
 bondservant=noun=all
 bondsman [pl. bondsmen]=noun=all
 bondwoman [pl. bondwomen]=noun=all
@@ -53811,6 +53817,7 @@ booby=noun=all
 boobyish=JJ=all
 boodle=noun=all
 boogaloo=noun_UN=all
+booger=noun=au,ca,us
 boogeyman [pl. boogeymen]=noun=all
 boogie [boogies;boogied;boogied;boogieing,boogying]=verb=all
 boogie-woogie=NN:UN=all
@@ -53872,6 +53879,7 @@ boomset=noun=all
 boomtown=noun=all
 boon=JJ=all
 boon=noun=all
+boondock=noun=all
 boondoggle=verb=all
 boonies=NN=all
 boonless=JJ=all
@@ -55356,6 +55364,7 @@ bury=verb=all
 bus-mile=noun=all
 bus=noun=all
 bus=verb=all
+busboy=noun=au,ca,us
 busby=noun=all
 bush-league=JJ=all
 bush=bush/NN,bush/NN:U,bushes/NNS=all
@@ -55393,6 +55402,7 @@ businesslike=JJ=all
 businessman [pl. businessmen]=noun=all
 businessperson [pl. businesspersons,businesspeople]=noun=all
 businesswoman [pl. businesswomen]=noun=all
+busing=noun_U=all
 busk=verb=all
 busked=JJ=all
 busker=noun=all
@@ -55469,6 +55479,7 @@ butterscotch=noun_U=all
 butterwort=noun=all
 buttery=buttery/JJ,butterier/JJR,butteriest/JJS=all
 buttery=noun=all
+butthead=noun=ca,us
 butthole=noun=all
 butting=NN:UN=all
 buttinsky=noun=all
@@ -55518,6 +55529,7 @@ buzzer=noun=all
 buzzing=JJ=all
 buzzing=noun_UN=all
 buzzingly=RB=all
+buzzkill=noun=au,ca,us
 buzzword=noun=all
 buzzy=buzzy/JJ,buzzier/JJR,buzziest/JJS=all
 bx=NN=all
@@ -55998,6 +56010,7 @@ campanulated=JJ=all
 camper=noun=all
 campestral=JJ=all
 campfire=noun=all
+campground=noun=au,ca,us
 camphene=noun=all
 camphor=noun_U=all
 camphoraceous=JJ=all
@@ -56432,6 +56445,7 @@ carboy=noun=all
 carbuncle=noun=all
 carbuncled=JJ=all
 carbuncular=JJ=all
+carburetor=noun=us
 carburization|carburisation=noun_UN=us,ca,gb|gb,au,nz,za
 carburize|carburise=verb=us,ca,gb|gb,au,nz,za
 carcass=noun=all
@@ -58115,6 +58129,7 @@ chickenhearted=JJ=all
 chickenheartedness=NN:U=all
 chickenpox=noun_U=all
 chickenshit=JJ=all
+chickenshit=noun=all
 chickpea=noun=all
 chickweed=noun_U=all
 chicle=noun_U=all
@@ -58609,6 +58624,8 @@ chummy=noun=all
 chump=noun=all
 chumpish=JJ=all
 chumpishness=NN:U=all
+chunder=verb=au,ca,gb,nz
+chunder=noun=all
 chunderous=JJ=all
 chunk=noun=all
 chunk=verb=all
@@ -59344,6 +59361,7 @@ clindamycin=NN:U=all
 cling [clings;clung;clung;clinging]=verb=all
 cling=noun=all
 clinger=noun=all
+clingfilm=noun_U=au,ca,us
 clingfish=clingfish/NN,clingfish/NNS=all
 clinginess=NN:U=all
 clingingly=RB=all
@@ -59463,6 +59481,7 @@ close-minded=JJ=all
 close-mouthed=JJ=all
 close-packed=JJ=all
 close-set=JJ=all
+close-up=JJ=all
 close-up=noun=all
 close-winded=JJ=all
 close=RB=all
@@ -59484,6 +59503,7 @@ closer=noun=all
 closet=JJ=all
 closet=noun=all
 closet=verb=all
+closeup=noun=all
 closing=noun_UN=all
 clostridia=clostridia/NN,clostridia/NNS=all
 clostridial=JJ=all
@@ -59955,6 +59975,7 @@ coffee-colored|coffee-coloured=JJ=us|gb,ca,au,nz,za
 coffee=noun_U=all
 coffeehouse=noun=all
 coffeemaker=noun=all
+coffeepot=noun=all
 coffer=noun=all
 cofferdam=noun=all
 coffered=JJ=all
@@ -62337,6 +62358,7 @@ cookieless=JJ=all
 cooking=JJ=all
 cooking=noun_U=all
 cookless=JJ=all
+cookout=noun=ca,us
 cookware=noun=all
 cool-down=noun=all
 cool-headed=JJ=all
@@ -62853,6 +62875,8 @@ costa=costa/NN,costae/NNS=all
 costal=JJ=all
 costal=noun=all
 costally=RB=all
+costar [-rr-]=verb=all
+costar=noun=all
 costermonger=noun=all
 costimulatory=JJ=all
 costing=noun_UN=all
@@ -62926,6 +62950,7 @@ couloir=noun=all
 coulomb=noun=all
 coulombmeter=noun=all
 coulometer=noun=all
+coulrophobia=noun_U=all
 coulé=noun=all
 council=noun=all
 councillorship=noun_UN=all
@@ -63134,6 +63159,7 @@ counterterrorism=noun_UN=all
 counterterrorist=noun=all
 counterthreat=noun=all
 counterthrust=noun=all
+countertop=noun=all
 countertrade=noun=all
 countertrade=verb=all
 countertrend=noun=all
@@ -63283,6 +63309,7 @@ cowherd=noun=all
 cowhide=noun_UN=all
 cowl=noun=all
 cowled=JJ=all
+cowlick=noun=au,ca,us
 cowlike=JJ=all
 cowling=noun=all
 cowman [pl. cowmen]=noun=all
@@ -63352,6 +63379,7 @@ crackedness=NN:U=all
 cracker=noun=all
 crackerjack=noun=all
 crackers=JJ=all
+crackhead=noun=all
 cracking=noun_UN=all
 crackjaw=JJ=all
 crackle=JJ=all
@@ -63948,6 +63976,7 @@ crossruff=verb=all
 crosstalk=noun_U=all
 crosstown=JJ=au,ca,us
 crosstree=noun=all
+crosswalk=noun=au,ca,us
 crossways=RB=all
 crosswind=noun=all
 crosswise=JJ=all
@@ -65061,7 +65090,9 @@ dandy=dandy/JJ,dandier/JJR,dandiest/JJS=all
 dandy=noun=all
 dandyish=JJ=all
 dandyism=noun_UN=all
-danged=JJ=all
+dang=UH=ca,us
+dang=verb=ca,us
+danged=JJ=ca,us
 danger=noun_UN=all
 dangerless=JJ=all
 dangerous=JJ=all
@@ -65223,6 +65254,7 @@ dawdle=verb=all
 dawdler=noun=all
 dawdling=noun_UN=all
 dawdlingly=RB=all
+dawg=noun=us
 dawn=noun_UN=all
 dawn=verb=all
 dawning=noun_UN=all
@@ -67601,6 +67633,7 @@ didactics=NN:U=all
 diddle=verb=all
 diddler=noun=all
 diddly=noun=all
+diddums=UH=gb
 didgeridoo=noun=all
 didn't=contraction=all
 didymium=didymium/NN,didymium/NN:U,didymiums/NNS=all
@@ -68466,6 +68499,8 @@ dishonored|dishonoured=JJ=us|gb,ca,au,nz,za
 dishonorer|dishonourer=noun=us|gb,ca,au,nz,za
 dishonor|dishonour=noun_UN=us|gb,ca,au,nz,za
 dishonor|dishonour=verb=us|gb,ca,au,nz,za
+dishrag=noun=all
+dishtowel=noun=all
 dishware=noun_U=all
 dishwash=verb=all
 dishwasher=noun=all
@@ -69324,6 +69359,7 @@ dollar=noun=all
 dollarization|dollarisation=noun_UN=us,ca,gb|gb,au,nz,za
 dollarize|dollarise=verb=us,ca,gb|gb,au,nz,za
 dollarwise=RB=all
+dollhouse=noun=all
 dolling=dolling/NN:UN,dolling/NNS=all
 dollish=JJ=all
 dollishly=RB=all
@@ -69409,6 +69445,7 @@ donnered=JJ=all
 donnish=JJ=all
 donnishly=RB=all
 donnishness=NN:U=all
+donnybrook=noun=all
 donné=noun=all
 donnée=noun=all
 donor=noun=all
@@ -69416,12 +69453,14 @@ donut=noun=all
 donzella=noun=all
 doo-doo=UH=all
 doo-wop=NN:U=all
+doodad=noun=all
 doodah=noun=all
 doodle=noun=all
 doodle=verb=all
 doodlebug=noun=all
 doodler=noun=all
 doodly-squat=NN:U=all
+doohickey=noun=au,ca,us
 doolally=JJ=gb # slang
 doom=noun_UN=all
 doom=verb=all
@@ -69448,6 +69487,7 @@ doorstep=noun=all
 doorstop=noun=all
 doorway=noun=all
 dooryard=noun=all
+doozy [pl. doozies]=noun=us
 dopa=noun_U=all
 dopamine=noun_U=all
 dopaminergic=JJ=all
@@ -106524,6 +106564,7 @@ ohmic=JJ=all
 ohmmeter=noun=all
 oho=UH=all
 oho=noun=all
+oi=UH=au,gb,nz,za
 oidioid=JJ=all
 oik=noun=all
 oil-bearing=JJ=all

@@ -3317,7 +3317,6 @@ Asta=NNP=none
 Astacidae=NNP=none
 Astacura=NNP=none
 Astacus=NNP=none
-Astana=UNTAGGED=all
 Astara=UNTAGGED=gb
 Astbury=UNTAGGED=gb
 Astera=NNP=none
@@ -35015,7 +35014,6 @@ Mwera=NNP=none
 Mx=NNP=none
 My=UNTAGGED=gb
 MyDirtyHobby=NNP=none
-MySpace=UNTAGGED=au,ca,us
 MySpell=UNTAGGED=gb,za
 Mya=NNP=none
 Myaceae=NNP=none
@@ -38745,7 +38743,6 @@ Pelargonium=NNP=none
 Pelasgi=NNPS=none
 Pelasgus=NNP=none
 Peldon=UNTAGGED=gb
-Pele=UNTAGGED=all
 Pelecanidae=NNP=none
 Pelecaniformes=NNP=none
 Pelecanoididae=NNP=none
@@ -61350,7 +61347,6 @@ azygospore=NN=none
 azyme=noun=none
 azymia=NN=none
 azymite=noun=none
-açaí=UNTAGGED=all
 aïoli=UNTAGGED=us-large
 b'day=UNTAGGED=gb
 b-52=NN=none
@@ -64656,7 +64652,6 @@ bondager=noun=none
 bonder=noun=gb,nz,za
 bonderize=bonderize/VB,bonderize/VBP=none
 bondmaid=noun=us-large
-bondman=bondman/NN,bondmen/NNS=au,ca,us
 bondstone=noun=us-large
 bondswoman=bondswoman/NN,bondswomen/NNS=us-large
 bonduc=noun=none
@@ -64712,7 +64707,6 @@ boodler=noun=none
 boodling=UNTAGGED=gb,nz,za
 boogalooed=UNTAGGED=gb
 boogalooing=UNTAGGED=gb
-booger=noun=au,ca,us
 boogerman=boogerman/NN,boogermen/NNS=none
 boogieman=UNTAGGED=au,ca,us
 boogyman=boogyman/NN,boogymen/NNS=none
@@ -64765,7 +64759,6 @@ boomkin=noun=us-large
 boomlet=noun=none
 boomslang=NN=za
 boomy=boomy/JJ,boomier/JJR,boomiest/JJS=gb
-boondock=noun=none
 boondocker=NN=none
 boondoggler=noun=au,ca,us
 boong=noun=us-large
@@ -66279,7 +66272,6 @@ burton=noun=us-large
 burundian=JJ=none
 burunduki=NN=none
 busbar=noun=gb
-busboy=noun=au,ca,us
 busera=NN=none
 busgirl=noun=au,ca,us
 bushbaby=noun=none
@@ -66444,7 +66436,6 @@ buyoff=noun=none
 buzuki=noun=none
 buzzardly=JJ=none
 buzzardly=RB=none
-buzzkill=noun=au,ca,us
 buzzsaw=UNTAGGED=us-large
 buzzwig=noun=none
 bvt=NN=none
@@ -67051,7 +67042,6 @@ campcraft=noun=none
 campeachy=NN=none
 campephilus=NN=none
 campesino=noun=us-large
-campground=noun=au,ca,us
 camphine=noun=none
 camphire=noun=none
 camphol=noun=none
@@ -67576,7 +67566,6 @@ carburet [-tt-]=verb=us-large
 carburetant=NN=none
 carbureter=noun=none
 carburetion=noun_UN=us-large
-carburetor=noun=us
 carburetter=noun=none
 carburettor=noun=au,ca,gb,nz,za
 carburiser=NN=none
@@ -69966,7 +69955,6 @@ chummage=noun=none
 chumped=UNTAGGED=gb,nz,za
 chumping=NN=gb,nz,za
 chumship=noun=none
-chunder=UNTAGGED=au,ca,nz,us
 chundered=UNTAGGED=au,ca,nz,us
 chunderer=UNTAGGED=nz
 chunderers=UNTAGGED=nz
@@ -70633,7 +70621,6 @@ clinah=NN=none
 clinandrium=clinandrium/NN,clinandria/NNS=us-large
 clindamycins=UNTAGGED=all
 cline=noun=us-large
-clingfilm=NN:U=au,ca,us
 clingfishes=UNTAGGED=gb
 clinid=JJ=none
 clinid=NN=none
@@ -70799,7 +70786,6 @@ closeout=JJ=au,ca,us
 closeout=noun=au,ca,us
 closestool=noun=none
 closetful=noun=none
-closeup=noun=au,ca,us
 closish=UNTAGGED=gb,nz,za
 clostridian=JJ=none
 closured=UNTAGGED=gb,nz,za
@@ -71373,7 +71359,6 @@ coffee-table=NN=gb,nz,za
 coffee-tables=UNTAGGED=gb,nz,za
 coffeeberry=NN=none
 coffeecake=noun=au,ca,us
-coffeepot=noun=au,ca,us
 coffeeweed=NN=none
 coffer-dam=UNTAGGED=gb,nz,za
 coffer-dams=UNTAGGED=gb,nz,za
@@ -72562,7 +72547,6 @@ cookey=noun=none
 cookfire=NN=none
 cookmaid=noun=none
 cookoff=noun=none
-cookout=noun=au,ca,us
 cookroom=noun=none
 cookshack=noun=none
 cookshop=noun=us-large
@@ -73081,8 +73065,6 @@ cost-plus=NN=none
 cost-reduction=NN:UN=none
 costalgia=NN=none
 costanoan=NN=none
-costar [-rr-]=verb=au,ca,us
-costar=noun=au,ca,us
 costard=noun=us-large
 costardmonger=noun=none
 costate=JJ=us-large
@@ -73182,7 +73164,6 @@ coulisiveness=UNTAGGED=gb
 coulisory=UNTAGGED=gb
 coulisse=noun=us-large
 coulometry=noun=none
-coulrophobia=UNTAGGED=all
 coulrophobic=UNTAGGED=all
 coulter=noun=us-large
 coulée=UNTAGGED=gb,nz,us-large,za
@@ -73336,7 +73317,6 @@ counterstreamed=UNTAGGED=all
 counterstreaming=UNTAGGED=all
 countersubversion=NN=none
 countersuggestion=noun_UN=none
-countertop=noun=ca,us
 countertrader=noun=none
 countertradition=noun_UN=none
 countertransference=noun=gb
@@ -73460,7 +73440,6 @@ cowhiding=UNTAGGED=gb,nz,za
 cowhouse=noun=none
 cowinner=noun=none
 cowitch=noun=us-large
-cowlick=noun=au,ca,us
 cowlneck=noun=none
 cowlstaff=noun=none
 cowp=noun=none
@@ -73533,7 +73512,6 @@ cracker-barrel=cracker-barrel/JJ,crackerbarrel/JJ=none
 cracker-on=NN=none
 crackerberry=NN=none
 cracket=NN=none
-crackhead=noun=au,ca,us
 cracky=NN=none
 cracovienne=noun=none
 cracticidae=NN=none
@@ -74028,7 +74006,6 @@ crossrow=NN=none
 crosstail=NN=none
 crosstie=noun=us-large
 crosstied=JJ=none
-crosswalk=noun=au,ca,us
 crossway=noun=us-large
 crosswort=noun=none
 crotal=noun=none
@@ -75927,8 +75904,6 @@ danegeld=noun=none
 danegelt=noun=none
 daneweed=noun=none
 danewort=noun=gb
-dang=UH=au,ca,us
-dang=verb=au,ca,us
 dangaleat=NN=none
 dangered=UNTAGGED=gb,nz,za
 dangering=UNTAGGED=gb,nz,za
@@ -76087,7 +76062,6 @@ davalliaceae=NN=none
 daviesia=NN=none
 davy=noun=none
 daw=noun=us-large
-dawg=noun=us
 dawk=noun=none
 dawsonite=noun=none
 dawtie=noun=none
@@ -77958,7 +77932,6 @@ diddicoy=noun=none
 diddikai=NN=none
 diddley=noun=none
 diddlysquat=UNTAGGED=au,ca,us
-diddums=UNTAGGED=au,ca,us
 diddy=diddy/JJ,diddier/JJR,diddiest/JJS=none
 diddy=noun=none
 diddycoy=noun=none
@@ -78625,8 +78598,6 @@ disheritor=NN=none
 dishful=noun=none
 dishlick=noun=none
 dishpan=noun=au,ca,us
-dishrag=noun=au,ca,us
-dishtowel=noun=au,ca,us
 dishwashings=UNTAGGED=gb
 dishwaterably=UNTAGGED=gb
 dishwaterativeness=UNTAGGED=gb
@@ -79198,7 +79169,6 @@ dollarbird=NN=us-large
 dollarfish=dollarfish/NN,dollarfish/NNS=us-large
 dollface=NN=none
 dollfaced=JJ=none
-dollhouse=noun=au,ca,us
 dollied=UNTAGGED=gb,nz,za
 dollier=noun=none
 dollying=UNTAGGED=gb,nz,za
@@ -79269,7 +79239,6 @@ donnicker=noun=none
 donniker=noun=none
 donnism=NN:UN=none
 donnot=noun=none
-donnybrook=noun=au,ca,us
 donorship=noun=none
 donsie=JJ=none
 donzel=noun=none
@@ -79278,14 +79247,12 @@ doo-rags=UNTAGGED=all
 doo-wops=UNTAGGED=all
 doob=NN=none
 doocot=noun=none
-doodad=noun=au,ca,us
 doodia=NN=none
 doodlesack=NN=us-large
 doodoo=noun=none
 doody=noun=none
 doofer=noun=gb
 doofus=noun=none
-doohickey=noun=au,ca,us
 dook=NN=none
 dooket=noun=none
 dool=noun=none
@@ -79332,7 +79299,6 @@ doover=NN=none
 doowop=noun=none
 doozer=noun=none
 doozie=noun=none
-doozy=noun=us
 dop=UNTAGGED=za
 dopant=noun=gb,nz,za
 dopastat=NN=none
