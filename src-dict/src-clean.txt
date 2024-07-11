@@ -1751,6 +1751,7 @@ Abitur=NNP=all
 Abkhazia=NNP=all
 Ableton=NNP=all
 Abner=NNP=all
+Abomasnow=NNP=all
 Aboriginal=Aboriginal/NNP,Aboriginals/NNPS=all
 Aboubacar=NNP=all
 Aboudy=NNP=all
@@ -1770,6 +1771,7 @@ Abramson=NNP=all
 Abruzzi=NNP=all
 Abruzzo=NNP=all
 Absalom=NNP=all
+Absol=NNP=all
 Abu=NNP=all
 Abubakar=NNP=all
 Abuja=NNP=all
@@ -1787,6 +1789,7 @@ Acapulco=NNP=all
 Acarnanian=Acarnanian/NNP,Acarnanians/NNPS=all
 Accad=NNP=all
 Accadian=JJ=all
+Accelgor=NNP=all
 Accenture=NNP=all
 Accor=NNP=all
 Accra=NNP=all
@@ -1954,6 +1957,7 @@ Aegeus=NNP=all
 Aegina=NNP=all
 Aeginetan=JJ=all
 Aegir=NNP=all
+Aegislash=NNP=all
 Aegisthus=NNP=all
 Aegospotami=NNP=all
 Aegyptus=NNP=all
@@ -1966,6 +1970,7 @@ Aeolic=JJ=all
 Aeolic=NNP=all
 Aeolis=NNP=all
 Aeolus=NNP=all
+Aerodactyl=NNP=all
 Aeroflot=NNP=all
 Aeromonas=NNP=all
 Aeroméxico=NNP=all
@@ -2054,6 +2059,7 @@ Aggarwal=NNP=all
 Aggeneys=NNP=za # South Africa, placename?
 Aggeus=NNP=all
 Aggie=Aggie/NNP,Aggies/NNPS=all
+Aggron=NNP=all
 Agilysys=NNP=all
 Agincourt=NNP=all
 Agisanang=NNP=za # South Africa, placename?
@@ -2125,6 +2131,7 @@ Ainsley=NNP=all
 Ainsworth=NNP=all
 Aintab=NNP=all
 Ainu=Ainu/NNP,Ainu/NNPS,Ainus/NNPS=all
+Aipom=NNP=all
 Air=NNP=all
 AirAsia=NNP=all
 AirPods=NNPS=all
@@ -2220,6 +2227,7 @@ Alahan=NNP=all
 Alai=NNP=all
 Alain=NNP=all
 Alaina=NNP=all
+Alakazam=NNP=all
 Alamannic=JJ=all
 Alameda=NNP=all
 Alamein=NNP=all
@@ -2305,6 +2313,7 @@ Alcoranic=JJ=all
 Alcorcón=NNP=all
 Alcorn=NNP=all
 Alcott=NNP=all
+Alcremie=NNP=all
 Alcuin=NNP=all
 Alcyone=NNP=all
 Alcántara=NNP=all
@@ -2503,6 +2512,7 @@ Alofi=NNP=all
 Aloha=NNP=all
 Alois=NNP=all
 Alok=NNP=all
+Alomomola=NNP=all
 Alondra=NNP=all
 Alonso=NNP=all
 Alonzo=NNP=all
@@ -2545,6 +2555,7 @@ Altaic=NNP=all
 Altair=NNP=all
 Altamaha=NNP=all
 Altamira=NNP=all
+Altaria=NNP=all
 Altdorf=NNP=all
 Altdorfer=NNP=all
 Althea=NNP=all
@@ -2618,6 +2629,7 @@ Amati=Amati/NNP,Amatis/NNPS=all
 Amatikulu=NNP=za # South Africa, placename?
 Amatikwe=NNP=za # South Africa, placename?
 Amato=NNP=all
+Amaura=NNP=all
 Amawotana=NNP=za # South Africa, placename?
 Amaya=NNP=all
 Amaziah=NNP=all
@@ -2632,6 +2644,7 @@ Amber=NNP=all
 Ambergate=NNP=za # South Africa, placename?
 Amberley=NNP=all
 Ambert=NNP=all
+Ambipom=NNP=all
 Amblyrhynchus=NNP=all
 Amboina=NNP=all
 Amboise=NNP=all
@@ -2697,10 +2710,12 @@ Ammar=NNP=all
 Ammon=NNP=all
 Ammonite=JJ=all
 Amon=NNP=all
+Amoonguss=NNP=all
 Amor=NNP=all
 Amos=NNP=all
 Amoy=NNP=all
 Amperian=JJ=all
+Ampharos=NNP=all
 Amphibia=NNP=all
 Amphipoda=NNP=all
 Amphisbaenia=NNP=all
@@ -2948,6 +2963,7 @@ Annetta=NNP=all
 Annette=NNP=all
 Annie=NNP=all
 Annieville=NNP=za # South Africa, placename?
+Annihilape=NNP=all
 Annika=NNP=all
 Anning=NNP=all
 Anniston=NNP=all
@@ -2956,6 +2972,7 @@ Annmarie=NNP=all
 Annonaceae=NNP=all
 Anoosha=NNP=all
 Anopheles=NNP=all
+Anorith=NNP=all
 Anouchka=NNP=all
 Anouilh=NNP=all
 Anoushka=NNP=all
@@ -2967,6 +2984,7 @@ Anselmo=NNP=all
 Ansermet=NNP=all
 Ansfrere=NNP=za # South Africa, placename?
 Anshan=NNP=all
+Anshumaan=NNP=all
 Ansible=NNP=all
 Ansley=NNP=all
 Anson=NNP=all
@@ -3099,7 +3117,9 @@ Appleby=NNP=all
 Applegate=NNP=all
 Appleseed=NNP=all
 Appleton=NNP=all
+Appletun=NNP=all
 Applewhite=NNP=all
+Applin=NNP=all
 Appomattox=NNP=all
 Apr=NNP=all
 April=APRIL/NNP,April/NNP,Aprils/NNPS=all
@@ -3162,6 +3182,7 @@ Araminta=NNP=all
 Aranyaka=NNP=all
 Arapaho=Arapaho/NN:U,Arapaho/NNP,Arapahoes/NNPS,Arapahos/NNPS=all
 Arapahoe=Arapahoe/NNP,Arapahoes/NNPS=all
+Araquanid=NNP=all
 Ararat=NNP=all
 Aras=NNP=all
 Arash=NNP=all
@@ -3178,6 +3199,7 @@ Araxes=NNP=all
 Arber=NNP=all
 Arbery=NNP=all
 Arbex=NNP=za # South Africa, placename?
+Arboliva=NNP=all
 Arboretum=NNP=za # South Africa, placename?
 Arborpark=NNP=za # South Africa, placename?
 Arbroath=NNP=all
@@ -3189,14 +3211,19 @@ Arcadian=JJ=all
 Arcadianism=noun_UN=all
 Arcadianly=RB=all
 Arcady=NNP=all
+Arcanine=NNP=all
 Arcata=NNP=all
 ArcelorMittal=NNP=all
+Arceus=NNP=all
 Arch=NNP=all
 Archaean=JJ=all
+Archaludon=NNP=all
 Archangel=NNP=all
 Archbold=NNP=all
 Archean=JJ=all
 Archelaus=NNP=all
+Archen=NNP=all
+Archeops=NNP=all
 Archeozoic=JJ=all
 Archer=NNP=all
 Archibald=NNP=all
@@ -3208,9 +3235,12 @@ Archimedes=NNP=all
 Archipenko=NNP=all
 Archosauria=NNP=all
 Archytas=NNP=all
+Arctibax=NNP=all
 Arctic=JJ=all
 Arctic=NNP=all
 Arctica=NNP=all
+Arctovish=NNP=all
+Arctozolt=NNP=all
 Arcturian=JJ=all
 Arcturus=NNP=all
 Ard=NNP=all
@@ -3257,6 +3287,7 @@ Argyrol=NNP=all
 Argüello=NNP=all
 Arhat=NNP=all
 Ariadne=NNP=all
+Ariados=NNP=all
 Arial=NNP=all
 Arian=Arian/NNP,Arians/NNPS=all
 Arian=JJ=all
@@ -3321,10 +3352,12 @@ Arm=NNP=all
 Armageddon=Armageddon/NNP,Armageddons/NNPS=all
 Armagh=NNP=all
 Armagnac=Armagnac/NNP,Armagnacs/NNPS=all
+Armaldo=NNP=all
 Armand=NNP=all
 Armanda=NNP=all
 Armando=NNP=all
 Armani=NNP=all
+Armarouge=NNP=all
 Armco=NNP=all
 Armenia=NNP=all
 Armenian=Armenian/NN:U,Armenian/NNP,Armenians/NNPS=all
@@ -3357,6 +3390,7 @@ Arnoldton=NNP=za # South Africa, placename?
 Arnot=NNP=za # South Africa, placename?
 Arnsberg=NNP=all
 Arnulfo=NNP=all
+Aromatisse=NNP=all
 Aron=NNP=all
 Aronofsky=NNP=all
 Aronowitz=NNP=all
@@ -3366,6 +3400,7 @@ Arpanet=NNP=all
 Arran=NNP=all
 Arrhenius=NNP=all
 Arrington=NNP=all
+Arrokuda=NNP=all
 Arron=NNP=all
 Arsenault=NNP=all
 Art=NNP=all
@@ -3378,6 +3413,7 @@ Artesia=NNP=all
 Arthropoda=NNP=all
 Arthur=NNP=all
 Arthurian=JJ=all
+Articuno=NNP=all
 Artie=NNP=all
 Artiodactyla=NNP=all
 Artnet=NNP=all
@@ -3652,6 +3688,7 @@ Aude=NNP=all
 Auden=NNP=all
 Auderghem=NNP=all
 Audi=Audi/NNP,Audis/NNPS=all
+Audino=NNP=all
 Audley=NNP=all
 Audra=NNP=all
 Audrey=NNP=all
@@ -3689,6 +3726,7 @@ Aurignacian=JJ=all
 Auriol=NNP=all
 Aurora=NNP=all
 Aurore=NNP=all
+Aurorus=NNP=all
 Aurubis=NNP=all
 Aurélie=NNP=all
 Aurélien=NNP=all
@@ -3750,6 +3788,7 @@ Avalokitesvara=NNP=all
 Avalokiteśvara=NNP=all
 Avalon=NNP=all
 Avalos=NNP=all
+Avalugg=NNP=all
 Avar=NNP=all
 Avaya=NNP=all
 Avebury=NNP=all
@@ -3797,6 +3836,7 @@ Avril=NNP=all
 Avshalom=NNP=all
 Axe=NNP=all
 Axelle=NNP=all
+Axew=NNP=all
 Axis=NNP=all
 Axminster=Axminster/NNP,Axminsters/NNPS=all
 Axum=NNP=all
@@ -3831,6 +3871,7 @@ Azania=NNP=all
 Azar=NNP=all
 Azazel=NNP=all
 Azeem=NNP=all
+Azelf=NNP=all
 Azerbaijan=NNP=all
 Azerbaijani=Azerbaijani/NN:U,Azerbaijani/NNP,Azerbaijanis/NNPS=all
 Azikiwe=NNP=all
@@ -3853,7 +3894,9 @@ Aztecan=NNP=all
 Aztlan=NNP=all
 Aztlán=NNP=all
 Azul=NNP=all
+Azumarill=NNP=all
 AzureWave=NNP=all
+Azurill=NNP=all
 Azusa=NNP=all
 Azzopardi=NNP=all
 Azzurri=NNP=all
@@ -4699,6 +4742,7 @@ Baghdad=NNP=all
 Baghdadi=Baghdadi/NNP,Baghdadis/NNPS=all
 Bagleyston=NNP=za # South Africa, placename?
 Bagnall=NNP=all
+Bagon=NNP=all
 Bagpuize=NNP=all
 Bagqozini=NNP=za # South Africa, placename?
 Bagsley=NNP=all
@@ -4802,6 +4846,7 @@ Baltic=JJ=all
 Baltic=NNP=all
 Baltimore=NNP=all
 Balto-Slavic=NNP=all
+Baltoy=NNP=all
 Baluchi=JJ=all
 Baluchistan=NNP=all
 Balvenie=NNP=za # South Africa, placename?
@@ -4831,6 +4876,7 @@ Bandaranaike=NNP=all
 Bandelierkop=NNP=za # South Africa, placename?
 Bandung=NNP=all
 Banerjee=NNP=all
+Banette=NNP=all
 Banff=NNP=all
 Banfield=NNP=all
 Bangalore=NNP=all
@@ -4890,6 +4936,7 @@ Barbadian=Barbadian/NNP,Barbadians/NNPS=all
 Barbadian=JJ=all
 Barbados=NNP=all
 Barbara=NNP=all
+Barbaracle=NNP=all
 Barbarosa=NNP=za # South Africa, placename?
 Barbarossa=NNP=all
 Barbary=NNP=all
@@ -4899,6 +4946,7 @@ Barberton=NNP=all
 Barbette=NNP=all
 Barbie=Barbie/NNP,Barbies/NNPS=all
 Barbirolli=NNP=all
+Barboach=NNP=all
 Barbosa=NNP=all
 Barbour=Barbour/NNP,Barbours/NNPS=all
 Barbra=NNP=all
@@ -4957,6 +5005,7 @@ Barquisimeto=NNP=all
 Barr=NNP=all
 Barra=NNP=all
 Barranquilla=NNP=all
+Barraskewda=NNP=all
 Barrasso=NNP=all
 Barrault=NNP=all
 Barren=NNP=all
@@ -5004,6 +5053,8 @@ Barvallen=NNP=za # South Africa, placename?
 Barwick=NNP=all
 Barça=NNP=all
 Bas-Rhin=NNP=all
+Basculegion=NNP=all
+Basculin=NNP=all
 Basebo=NNP=za # South Africa, placename?
 Basecamp=NNP=all
 Basel=NNP=all
@@ -5042,6 +5093,7 @@ Bastia=NNP=all
 Bastian=NNP=all
 Bastien=NNP=all
 Bastille=NNP=all
+Bastiodon=NNP=all
 Bastogne=NNP=all
 Bastrop=NNP=all
 Basutoland=NNP=all
@@ -5096,6 +5148,7 @@ Bavarian=JJ=all
 Baviaanspoort=NNP=za # South Africa, placename?
 Bawa=NNP=za # South Africa, placename?
 Bax=NNP=all
+Baxcalibur=NNP=all
 Baxter=NNP=all
 Bay=NNP=all
 Baya=NNP=all
@@ -5109,6 +5162,7 @@ Bayesianism=noun_UN=all
 Bayeux=NNP=all
 Bayhead=NNP=za # South Africa, placename?
 Bayle=NNP=all
+Bayleef=NNP=all
 Bayley=NNP=all
 Baylor=NNP=all
 Baymax=NNP=all
@@ -5142,6 +5196,7 @@ Bear=NNP=all
 Beard=NNP=all
 Beardsley=NNP=all
 Beare=NNP=all
+Beartic=NNP=all
 Beasley=NNP=all
 Beatlemania=NNP=all
 Beatles=NNPS=all
@@ -5162,6 +5217,7 @@ Beaumarchais=NNP=all
 Beaumont=NNP=all
 Beaune=NNP=all
 Beauregard=NNP=all
+Beautifly=NNP=all
 Beauvais=NNP=all
 Beauvoir=NNP=all
 Beaux-Arts=NNPS=all
@@ -5214,6 +5270,7 @@ Beecham=NNP=all
 Beecher=NNP=all
 Beecroft=NNP=all
 Beedon=NNP=all
+Beedrill=NNP=all
 Beekman=NNP=all
 Beeld=NNP=za # South Africa, placename?
 Beelzebub=NNP=all
@@ -5233,6 +5290,7 @@ Beguin=NNP=all
 Behan=NNP=all
 Behance=NNP=all
 Behar=NNP=all
+Beheeyem=NNP=all
 Behistun=NNP=all
 Behmenism=noun_UN=all
 Behmenist=NNP=all
@@ -5253,6 +5311,7 @@ Belabela=NNP=za # South Africa, placename?
 Belarus=NNP=all
 Belarusian=Belarusian/NN:U,Belarusian/NNP,Belarusians/NNPS=all
 Belcher=NNP=all
+Beldum=NNP=all
 Belfast=NNP=all
 Belford=NNP=all
 Belfort=NNP=all
@@ -5293,6 +5352,7 @@ Belleville=NNP=all
 Bellevue=NNP=all
 Bellfish=NNP=za # South Africa, placename?
 Bellgate=NNP=za # South Africa, placename?
+Bellibolt=NNP=all
 Bellingcat=NNP=all
 Bellinger=NNP=all
 Bellingham=NNP=all
@@ -5300,9 +5360,11 @@ Bellini=NNP=all
 Bellinzona=NNP=all
 Belloc=NNP=all
 Bellona=NNP=all
+Bellossom=NNP=all
 Bellow=NNP=all
 Bellows=NNP=all
 Bellrail=NNP=za # South Africa, placename?
+Bellsprout=NNP=all
 Bellview=NNP=za # South Africa, placename?
 Bellville=NNP=all
 Bellway=NNP=all
@@ -5444,6 +5506,7 @@ Berglund=NNP=all
 Bergman=NNP=all
 Bergmann=NNP=all
 Bergmanshoogte=NNP=za # South Africa, placename?
+Bergmite=NNP=all
 Bergnek=NNP=za # South Africa, placename?
 Bergshoop=NNP=za # South Africa, placename?
 Bergsig=NNP=za # South Africa, placename?
@@ -5590,6 +5653,7 @@ Beverley=NNP=all
 Beverly=NNP=all
 Beverwijk=NNP=all
 Bevin=NNP=all
+Bewear=NNP=all
 Bewick=NNP=all
 Bexley=NNP=all
 Beyer=NNP=all
@@ -5645,11 +5709,13 @@ Bianka=NNP=all
 Biarritz=NNP=all
 Bias=NNP=all
 Bib=NNP=all
+Bibarel=NNP=all
 Bicolline=NNP=all
 Biddeford=NNP=all
 Biddle=NNP=all
 Biden=NNP=all
 Bidibidi=NNP=all
+Bidoof=NNP=all
 Bieber=NNP=all
 Biedermeier=JJ=all
 Biel=NNP=all
@@ -5682,6 +5748,7 @@ Billy=NNP=all
 Biloxi=Biloxi/NNP,Biloxis/NNPS=all
 Biltmore=NNP=all
 Bim=NNP=all
+Binacle=NNP=all
 Binet=NNP=all
 Bing=NNP=all
 Bingen=NNP=all
@@ -5713,6 +5780,7 @@ Birnbaum=NNP=all
 Biro=Biro/NNP,Biros/NNPS=all
 Biscay=NNP=all
 Biscayne=NNP=all
+Bisharp=NNP=all
 Bishkek=NNP=all
 Bisho=NNP=za # South Africa, placename?
 Bishop=NNP=all
@@ -5753,6 +5821,7 @@ Björn=NNP=all
 Bjørn=NNP=all
 Bk=NNP=all
 Blaaubosch=NNP=za # South Africa, placename?
+Blacephalon=NNP=all
 Black=Black/NNP,Blacks/NNPS=all
 Black=JJ=all
 BlackBerry=NNP=all
@@ -5805,10 +5874,12 @@ Blankenship=NNP=all
 Blanton=NNP=all
 Blantyre=NNP=all
 Blase=NNP=all
+Blastoise=NNP=all
 Blatt=NNP=all
 Blau=NNP=all
 Blavatsky=NNP=all
 Blaylock=NNP=all
+Blaziken=NNP=all
 Blazor=NNP=all
 Blechman=NNP=all
 Bledsoe=NNP=all
@@ -5830,8 +5901,11 @@ Blinkist=NNP=all
 Blinkpan=NNP=za # South Africa, placename?
 Blinkpunt=NNP=za # South Africa, placename?
 Blinkwater=NNP=za # South Africa, placename?
+Blipbug=NNP=all
 Bliss=NNP=all
+Blissey=NNP=all
 Blitz=NNP=all
+Blitzle=NNP=all
 Bloch=NNP=all
 Bloekombos=NNP=za # South Africa, placename?
 Bloemanda=NNP=za # South Africa, placename?
@@ -5983,6 +6057,7 @@ Boksburg=NNP=za # South Africa, placename?
 Boland=NNP=all
 Bolata=NNP=za # South Africa, placename?
 Boldewijn=NNP=all
+Boldore=NNP=all
 Bole=NNP=all
 Boleu=NNP=za # South Africa, placename?
 Boleyn=NNP=all
@@ -6016,11 +6091,13 @@ Bolsterstone=NNP=all
 Bolte=NNP=all
 Bolton=NNP=all
 Boltonia=NNP=all
+Boltund=NNP=all
 Boltzmann=NNP=all
 Bolzano=NNP=all
 Bolívar=NNP=all
 Bomarc=NNP=all
 Bombay=NNP=all
+Bombirdier=NNP=all
 Bon=NNP=all
 Bona-bona=NNP=za # South Africa, placename?
 Bona=NNP=all
@@ -6191,6 +6268,7 @@ Boucher=NNP=all
 Bouches-du-Rhône=NNP=all
 Boucicault=NNP=all
 Boudinot=NNP=all
+Bouffalant=NNP=all
 Bougainville=NNP=all
 Boulanger=NNP=all
 Boulez=NNP=all
@@ -6199,6 +6277,7 @@ Boulogne=NNP=all
 Boult=NNP=all
 Boulton=NNP=all
 Bound=NNP=all
+Bounsweet=NNP=all
 Bountiful=NNP=all
 Bourbaki=NNP=all
 Bourbon=Bourbon/NNP,Bourbons/NNPS=all
@@ -6302,12 +6381,15 @@ Braille=Braille/NNP,Brailles/NNPS=all
 BrainPop=NNP=all
 Brainerd=NNP=all
 Braintree=NNP=all
+Braixen=NNP=all
 Braklaagte=NNP=za # South Africa, placename?
 Brakpan=NNP=all
 Brakuil=NNP=za # South Africa, placename?
 Bram=NNP=all
 Bramah=NNP=all
 Bramante=NNP=all
+Brambleghast=NNP=all
+Bramblin=NNP=all
 Bramvlei=NNP=za # South Africa, placename?
 Bran=NNP=all
 Branch=NNP=all
@@ -6350,6 +6432,7 @@ Braun=NNP=all
 Braunschweig=NNP=all
 Braunstein=NNP=all
 Braunville=NNP=za # South Africa, placename?
+Braviary=NNP=all
 Brawley=NNP=all
 Brawndo=NNP=all
 Braxton=NNP=all
@@ -6387,6 +6470,7 @@ Breidbach=NNP=za # South Africa, placename?
 Breipaal=NNP=za # South Africa, placename?
 Breitbart=NNP=all
 Breitkopf=NNP=all
+Breloom=NNP=all
 Bremen=NNP=all
 Bremer=NNP=all
 Bremerhaven=NNP=all
@@ -6494,6 +6578,7 @@ Briney=NNP=all
 Bringhurst=NNP=all
 Brinkley=NNP=all
 Briny=NNP=all
+Brionne=NNP=all
 Brisbane=NNP=all
 Bristol=NNP=all
 Brit=Brit/NNP,Brits/NNPS=all
@@ -6572,6 +6657,8 @@ Bronville=NNP=za # South Africa, placename?
 Bronwyn=NNP=all
 Bronx=NNP=all
 Bronzini=NNP=all
+Bronzong=NNP=all
+Bronzor=NNP=all
 Brook=NNP=all
 Brookdale=NNP=za # South Africa, placename?
 Brooke=NNP=all
@@ -6648,6 +6735,7 @@ Brustein=NNP=all
 Brut=NNP=all
 Brutus=NNP=all
 Bruxelles=NNP=all
+Bruxish=NNP=all
 Bryan=NNP=all
 Bryanbrink=NNP=za # South Africa, placename?
 Bryanna=NNP=all
@@ -6708,6 +6796,7 @@ Buddhistical=JJ=all
 Buddhistically=RB=all
 Buddhology=NNP=all
 Buddy=NNP=all
+Budew=NNP=all
 Budge=NNP=all
 Budget=NNP=all
 Budweis=NNP=all
@@ -6743,6 +6832,7 @@ Buitendag=NNP=za # South Africa, placename?
 Buitenzorg=NNP=all
 Buitenzorgdorp=NNP=za # South Africa, placename?
 Buitesig=NNP=za # South Africa, placename?
+Buizel=NNP=all
 Bujumbura=NNP=all
 Bukavu=NNP=all
 Bukazi=NNP=za # South Africa, placename?
@@ -6794,9 +6884,11 @@ Bundesrat=Bundesrat/NNP,Bundesrats/NNPS=all
 Bundestag=NNP=all
 Bundt=Bundt/NNP,Bundts/NNPS=all
 Bundy=NNP=all
+Buneary=NNP=all
 Bungeni=NNP=za # South Africa, placename?
 Bunin=NNP=all
 Bunker=NNP=all
+Bunnelby=NNP=all
 Bunny=NNP=all
 Bunsen=Bunsen/NNP,Bunsens/NNPS=all
 Buntingville=NNP=za # South Africa, placename?
@@ -6848,6 +6940,7 @@ Burman=Burman/NNP,Burmans/NNPS=all
 Burman=JJ=all
 Burmese=Burmese/NN:U,Burmese/NNP=all
 Burmese=JJ=all
+Burmy=NNP=all
 Burn=NNP=all
 Burnaby=NNP=all
 Burnby=NNP=all
@@ -6905,6 +6998,7 @@ Buthi=NNP=za # South Africa, placename?
 Butler=NNP=all
 Butte=NNP=all
 Butterfield=NNP=all
+Butterfree=NNP=all
 Buttermere=NNP=all
 Buttersnoek=NNP=za # South Africa, placename?
 Butterworth=NNP=all
@@ -6914,6 +7008,7 @@ Buxtehude=NNP=all
 Buxton=NNP=all
 Buyisonto=NNP=za # South Africa, placename?
 Buysdorp=NNP=za # South Africa, placename?
+Buzzwole=NNP=all
 Byblos=NNP=all
 Bydgoszcz=NNP=all
 Byelorussia=NNP=all
@@ -8034,6 +8129,8 @@ Cabrillo=NNP=all
 Cabrini=NNP=all
 Cabárceno=NNP=all
 Cachet=NNP=za # South Africa, placename?
+Cacnea=NNP=all
+Cacturne=NNP=all
 Cacus=NNP=all
 Cadbury=NNP=all
 Caddoan=NNP=all
@@ -8171,6 +8268,7 @@ Calydonian=JJ=all
 Calymmian=JJ=all
 Calymmian=NNP=all
 Calypso=NNP=all
+Calyrex=NNP=all
 Cam=NNP=all
 Camacho=NNP=all
 Camama=NNP=za # South Africa, placename?
@@ -8198,6 +8296,7 @@ Cameron=NNP=all
 Cameroon=Cameroon/NNP,Cameroons/NNPS=all
 Cameroonian=Cameroonian/NNP,Cameroonians/NNPS=all
 Cameroons=NNP=all
+Camerupt=NNP=all
 Camila=NNP=all
 Camilla=NNP=all
 Camille=NNP=all
@@ -8328,6 +8427,7 @@ Capricorn=JJ=all
 Capricornis=NNP=all
 Capricornus=NNP=all
 Capris=NNP=all
+Capsakid=NNP=all
 Capsian=JJ=all
 Capsidae=NNP=all
 Capt=NNP=all
@@ -8345,6 +8445,7 @@ Carafate=NNP=all
 Carapicuíba=NNP=all
 Caravaggio=NNP=all
 Caravelle=NNP=za # South Africa, placename?
+Carbink=NNP=all
 Carboloy=NNP=all
 Carbonari=NNPS=all
 Carbondale=NNP=all
@@ -8382,6 +8483,7 @@ Carinthia=NNP=all
 Carinthian=Carinthian/NNP,Carinthians/NNPS=all
 Carinthian=JJ=all
 Carissa=NNP=all
+Carkol=NNP=all
 Carl=NNP=all
 Carla=NNP=all
 Carleen=NNP=all
@@ -8435,6 +8537,7 @@ Carnegie=NNP=all
 Carney=NNP=all
 Carniola=NNP=all
 Carniolan=JJ=all
+Carnivine=NNP=all
 Carnivora=NNP=all
 Carnot=NNP=all
 Caro=NNP=all
@@ -8462,6 +8565,7 @@ Carpentier=NNP=all
 Carpinteria=NNP=all
 Carr=NNP=all
 Carracci=NNP=all
+Carracosta=NNP=all
 Carragher=NNP=all
 Carranza=NNP=all
 Carrara=NNP=all
@@ -8500,6 +8604,7 @@ Caruso=NNP=all
 Carvajal=NNP=all
 Carvalho=NNP=all
 Carvana=NNP=all
+Carvanha=NNP=all
 Carver=NNP=all
 Cary=NNP=all
 Caryl=NNP=all
@@ -8513,6 +8618,7 @@ Casaubon=NNP=all
 Cascades=NNP=all
 Cascadia=NNP=all
 Cascadian=JJ=all
+Cascoon=NNP=all
 Case=NNP=all
 Casey=NNP=all
 Cash=NNP=all
@@ -8554,6 +8660,7 @@ Castellanos=NNP=all
 Castellini=NNP=all
 Castellterçol=NNP=all
 Castellón=NNP=all
+Castform=NNP=all
 Castiglione=NNP=all
 Castile=NNP=all
 Castilian=Castilian/NNP,Castilians/NNPS=all
@@ -8584,6 +8691,7 @@ Catarina=NNP=all
 Catawba=Catawba/NNP,Catawbas/NNPS=all
 Cateau-Cambrésis=NNP=all
 Caterina=NNP=all
+Caterpie=NNP=all
 Catesby=NNP=all
 Cath=NNP=all
 Cathar=Cathar/NNP,Cathars/NNPS=all
@@ -8688,8 +8796,10 @@ Celanese=NNP=all
 Celaya=NNP=all
 Celebes=NNP=all
 Celebesian=JJ=all
+Celebi=NNP=all
 Celebrex=NNP=all
 Celeste=NNP=all
+Celesteela=NNP=all
 Celgene=NNP=all
 Celia=NNP=all
 Celina=NNP=all
@@ -8720,6 +8830,7 @@ Centauri=NNP=all
 Centaurus=NNP=all
 Centerton=NNP=all
 Centerville=NNP=all
+Centiskorch=NNP=all
 Centocow=NNP=za # South Africa, placename?
 Centrahil=NNP=za # South Africa, placename?
 Centralia=NNP=all
@@ -8743,6 +8854,7 @@ Cerenkov=NNP=all
 Ceres=NNP=all
 Cerf=NNP=all
 Cerro=NNP=all
+Ceruledge=NNP=all
 Cerutiville=NNP=za # South Africa, placename?
 Cervantes=NNP=all
 Cervidae=NNP=all
@@ -8756,7 +8868,9 @@ Cesena=NNP=all
 Cessna=NNP=all
 Cetacea=NNP=all
 Cetinje=NNP=all
+Cetitan=NNP=all
 Ceto=NNP=all
+Cetoddle=NNP=all
 Ceuta=NNP=all
 Ceylon=NNP=all
 Ceylonese=JJ=all
@@ -8826,6 +8940,7 @@ Chance=NNP=all
 Chancellor=Chancellor/NNP,Chancellors/NNPS=all
 Chancellorsville=NNP=all
 Chancliff=NNP=za # South Africa, placename?
+Chandelure=NNP=all
 Chandigarh=NNP=all
 Chandler=NNP=all
 Chandra=NNP=all
@@ -8842,6 +8957,7 @@ Changzhou=NNP=all
 Chanhassen=NNP=all
 Channelview=NNP=all
 Channing=NNP=all
+Chansey=NNP=all
 Chantal=NNP=all
 Chantecler=NNP=za # South Africa, placename?
 Chantelle=NNP=all
@@ -8859,6 +8975,7 @@ Chappell=NNP=all
 Chappelle=NNP=all
 Chapultepec=NNP=all
 Charbonneau=NNP=all
+Charcadet=NNP=all
 Charcot=NNP=all
 Chard=NNP=all
 Chardin=NNP=all
@@ -8872,6 +8989,8 @@ Chari=NNP=all
 Charissa=NNP=all
 Charity=NNP=all
 Charité=NNP=all
+Charizard=NNP=all
+Charjabug=NNP=all
 Charlemagne=NNP=all
 Charlene=NNP=all
 Charleroi=NNP=all
@@ -8893,6 +9012,8 @@ Charlton=NNP=all
 Charly=NNP=all
 Charlène=NNP=all
 Charmaine=NNP=all
+Charmander=NNP=all
+Charmeleon=NNP=all
 Charolais=NNP=all
 Charon=Charon/NNP,Chara/NNPS=all
 Charonian=JJ=all
@@ -8916,6 +9037,7 @@ Chassidic=JJ=all
 ChatGPT=NNP=all
 Chateaubriand=NNP=all
 Chatham=NNP=all
+Chatot=NNP=all
 Chatswood=NNP=all
 Chattahoochee=NNP=all
 Chattanooga=NNP=all
@@ -9011,8 +9133,10 @@ Chernobyl=NNP=all
 Chernomyrdin=NNP=all
 Chernyshevsky=NNP=all
 Cherokee=Cherokee/NN:U,Cherokee/NNP,Cherokees/NNPS=all
+Cherrim=NNP=all
 Cherry=NNP=all
 Chertsey=NNP=all
+Cherubi=NNP=all
 Cherubini=NNP=all
 Cheryl=NNP=all
 Chesapeake=NNP=all
@@ -9020,6 +9144,8 @@ Cheshire=NNP=all
 Cheshunt=NNP=all
 Cheshvan=NNP=all
 Chesley=NNP=all
+Chesnaught=NNP=all
+Chespin=NNP=all
 Chessa=NNP=all
 Chester=NNP=all
 Chesterfield=NNP=all
@@ -9038,9 +9164,11 @@ Chevy=NNP=all
 Chew=NNP=all
 Chewbacca=NNP=all
 Chewie=NNP=all
+Chewtle=NNP=all
 Cheyenne=Cheyenne/NN:U,Cheyenne/NNP,Cheyennes/NNPS=all
 Cheyne=NNP=all
 Chhattisgarh=NNP=all
+Chi-Yu=NNP=all
 Chi=NNP=all
 Chian=Chian/NNP,Chians/NNPS=all
 Chian=JJ=all
@@ -9071,10 +9199,12 @@ Chicoloapan=NNP=all
 Chicopee=NNP=all
 Chief=Chief/NNP,Chiefs/NNPS=all
 Chiellini=NNP=all
+Chien-Pao=NNP=all
 Chifley=NNP=all
 Chiguayante=NNP=all
 Chigwell=NNP=all
 Chihli=NNP=all
+Chikorita=NNP=all
 Chilcote=NNP=all
 Child=NNP=all
 Chile=NNP=all
@@ -9099,6 +9229,8 @@ Chimalhuacán=NNP=all
 Chimamanda=NNP=all
 Chimborazo=NNP=all
 Chimbote=NNP=all
+Chimchar=NNP=all
+Chimecho=NNP=all
 Chimkent=NNP=all
 Chimu [pl. Chimu,Chimus]=noun=all
 Chimu=JJ=all
@@ -9107,6 +9239,7 @@ China=NNP=all
 Chinaman=Chinaman/NNP,Chinamen/NNPS=all
 Chinamen=NNPS=all
 Chinatown=Chinatown/NNP,Chinatowns/NNPS=all
+Chinchou=NNP=all
 Chindwin=NNP=all
 Chinese=Chinese/NN:U,Chinese/NNP,Chinese/NNPS=all
 Chinese=JJ=all
@@ -9114,6 +9247,7 @@ Ching-kuo=NNP=all
 Ching=JJ=all
 Ching=NNP=all
 Chinghai=NNP=all
+Chingling=NNP=all
 Chinglish=NNP=all
 Chink=Chink/NNP,Chinks/NNPS=all
 Chink=JJ=all
@@ -9299,9 +9433,11 @@ Cimmeria=NNP=all
 Cimmerian=Cimmerian/NNP,Cimmerians/NNPS=all
 Cimmerian=JJ=all
 Cimon=NNP=all
+Cinccino=NNP=all
 Cincinnati=NNP=all
 Cincinnatian=Cincinnatian/NNP,Cincinnatians/NNPS=all
 Cincinnatus=Cincinnatus/NNP,Cincinnati/NNPS=all
+Cinderace=NNP=all
 Cinderella=Cinderella/NNP,Cinderellas/NNPS=all
 Cindy=NNP=all
 CinemaScope=NNP=all
@@ -9350,6 +9486,7 @@ Clairbourn=NNP=all
 Claire=NNP=all
 Clairewood=NNP=za # South Africa, placename?
 Clairwood=NNP=za # South Africa, placename?
+Clamperl=NNP=all
 Clancy=NNP=all
 Clanor=NNP=za # South Africa, placename?
 Clansthal=NNP=za # South Africa, placename?
@@ -9400,16 +9537,19 @@ Claudine=NNP=all
 Claudio=NNP=all
 Claudius=NNP=all
 Claudy=NNP=all
+Clauncher=NNP=all
 Claus=NNP=all
 Clausen=NNP=all
 Clausewitz=NNP=all
 Clausius=NNP=all
 Clavius=NNP=all
+Clawitzer=NNP=all
 Clawson=NNP=all
 Clawthorne=NNP=all
 Claxton=NNP=all
 Clay=NNP=all
 Clayborne=NNP=all
+Claydol=NNP=all
 Clayfield=NNP=za # South Africa, placename?
 Clayman=NNP=all
 Claymation=Claymation/NNP,Claymations/NNPS=all
@@ -9425,6 +9565,9 @@ Clearview=NNP=all
 Clearwater=NNP=all
 Cleburne=NNP=all
 Cleethorpes=NNP=all
+Clefable=NNP=all
+Clefairy=NNP=all
+Cleffa=NNP=all
 Cleisthenes=NNP=all
 Cleland=NNP=all
 Clem=NNP=all
@@ -9465,7 +9608,9 @@ Clinton=NNP=all
 Clio=Clio/NNP,Clios/NNPS=all
 Clisthenes=NNP=all
 Clive=NNP=all
+Clobbopus=NNP=all
 Clocolan=NNP=za # South Africa, placename?
+Clodsire=NNP=all
 Cloetesville=NNP=za # South Africa, placename?
 Clojure=NNP=all
 Cloneen=NNP=za # South Africa, placename?
@@ -9486,6 +9631,7 @@ Clova=NNP=all
 Cloverdene=NNP=za # South Africa, placename?
 Cloverfield=NNP=all
 Clovis=NNP=all
+Cloyster=NNP=all
 Clubview=NNP=za # South Africa, placename?
 Clubville=NNP=za # South Africa, placename?
 Cluj=NNP=all
@@ -9513,9 +9659,11 @@ Coachman=NNP=za # South Africa, placename?
 Coahuila=NNP=all
 Coahuiltecan=Coahuiltecan/NNP,Coahuiltecans/NNPS=all
 Coalinga=NNP=all
+Coalossal=NNP=all
 Coatbridge=NNP=all
 Coates=NNP=all
 Coatzacoalcos=NNP=all
+Cobalion=NNP=all
 Cobb=NNP=all
 Cobbett=NNP=all
 Cobden=NNP=all
@@ -9553,6 +9701,7 @@ Coelacanth=NNP=za # South Africa, placename?
 Coelenterata=NNP=all
 Coelho=NNP=all
 Coetzersdam=NNP=za # South Africa, placename?
+Cofagrigus=NNP=all
 Coffee=NNP=all
 Coffey=NNP=all
 Coffeyville=NNP=all
@@ -9667,8 +9816,10 @@ Colón=NNP=all
 Comair=NNP=za # South Africa, placename?
 Comanche=Comanche/NNP,Comanche/NNPS,Comanches/NNPS=all
 Combe=NNP=all
+Combee=NNP=all
 Comber=NNP=za # South Africa, placename?
 Combs=NNP=all
+Combusken=NNP=all
 Comcast=NNP=all
 Comdex=NNP=all
 Comdr=NNP=all
@@ -9677,6 +9828,7 @@ Comecon=NNP=all
 Comenius=NNP=all
 Comerica=NNP=all
 Comet=NNP=za # South Africa, placename?
+Comfey=NNP=all
 Comines=NNP=all
 Cominform=NNP=all
 Cominformist=NNP=all
@@ -9755,6 +9907,7 @@ Congregationalism=noun=all
 Congregationalist=JJ=all
 Congregationalist=noun=all
 Congreve=NNP=all
+Conkeldurr=NNP=all
 Conley=NNP=all
 Conlon=NNP=all
 Conn=NNP=all
@@ -9840,6 +9993,7 @@ Copiapó=NNP=all
 Copland=NNP=all
 Copley=NNP=all
 Copp=NNP=all
+Copperajah=NNP=all
 Copperfield=NNP=all
 Coppersmith=NNP=all
 Coppin=NNP=all
@@ -9923,6 +10077,7 @@ Coronation=NNP=za # South Africa, placename?
 Coronationville=NNP=za # South Africa, placename?
 Corot=NNP=all
 Corovoca=NNP=za # South Africa, placename?
+Corphish=NNP=all
 Corporación=NNP=all
 Correa=NNP=all
 Correggio=NNP=all
@@ -9938,6 +10093,7 @@ Corsican=Corsican/NN:U,Corsican/NNP,Corsicans/NNPS=all
 Corsican=JJ=all
 Corsicana=NNP=all
 Corso=NNP=all
+Corsola=NNP=all
 Cortana=NNP=all
 Cortes=Cortes/NNP,Corteses/NNPS=all
 Cortez=NNP=all
@@ -9946,6 +10102,8 @@ Cortland=Cortland/NNP,Cortlands/NNPS=all
 Cortés=NNP=all
 Corunna=NNP=all
 Corvallis=NNP=all
+Corviknight=NNP=all
+Corvisquire=NNP=all
 Corvus=NNP=all
 Corwin=NNP=all
 Cory=NNP=all
@@ -9957,6 +10115,8 @@ Cosenza=NNP=all
 Cosgrave=NNP=all
 Cosgrove=NNP=all
 Cosmo=NNP=all
+Cosmoem=NNP=all
+Cosmog=NNP=all
 Cosmotron=NNP=all
 Cossack=JJ=all
 Cossack=noun=all
@@ -9983,6 +10143,7 @@ Cottingley=NNP=all
 Cottle=NNP=all
 Cotton=NNP=all
 Cottondale=NNP=za # South Africa, placename?
+Cottonee=NNP=all
 Cottonlands=NNP=za # South Africa, placename?
 Cottrell=NNP=all
 Coughlin=NNP=all
@@ -10038,10 +10199,13 @@ Cozumel=NNP=all
 CpG-methylated=JJ=all
 Cr=NNP=all
 Crabbe=NNP=all
+Crabominable=NNP=all
+Crabrawler=NNP=all
 Crabtree=NNP=all
 Cracherode=NNP=all
 Cracow=NNP=all
 Craddock=NNP=all
+Cradily=NNP=all
 Cradock=NNP=za # South Africa, placename?
 Craig=NNP=all
 Craigavon=NNP=all
@@ -10056,11 +10220,13 @@ Craiova=NNP=all
 Crambe=NNP=all
 Cramer=NNP=all
 Cramerview=NNP=za # South Africa, placename?
+Cramorant=NNP=all
 Cranach=NNP=all
 Cranbrookvale=NNP=za # South Africa, placename?
 Crandall=NNP=all
 Crane=NNP=all
 Cranford=NNP=all
+Cranidos=NNP=all
 Cranmer=NNP=all
 Cranston=NNP=all
 Cranwell=NNP=all
@@ -10069,6 +10235,7 @@ Crassus=NNP=all
 Crater=NNP=all
 Craven=NNP=all
 Cravenby=NNP=za # South Africa, placename?
+Crawdaunt=NNP=all
 Crawford=NNP=all
 Crawley=NNP=all
 Cray=NNP=all
@@ -10089,6 +10256,7 @@ Creole=JJ=all
 Creon=NNP=all
 Crespi=NNP=all
 Crespo=NNP=all
+Cresselia=NNP=all
 Cressey=NNP=all
 Cressida=NNP=all
 Cresslawns=NNP=za # South Africa, placename?
@@ -10136,17 +10304,21 @@ Cristóbal=NNP=all
 Criswell=NNP=all
 Crittenden=NNP=all
 Cro-Magnon=noun=all
+Croagunk=NNP=all
 Croat=Croat/NNP,Croats/NNPS=all
 Croat=JJ=all
 Croatia-Slavonia=NNP=all
 Croatia=NNP=all
 Croatian=Croatian/NN:U,Croatian/NNP,Croatians/NNPS=all
 Croatian=JJ=all
+Crobat=NNP=all
+Crocalor=NNP=all
 Croce=NNP=all
 Crocker=NNP=all
 Crockett=NNP=all
 Crockford=NNP=all
 Crocodile=NNP=za # South Africa, placename?
+Croconaw=NNP=all
 Croesus=Croesus/NNP,Croesuses/NNPS=all
 Croft=NNP=all
 Croftdene=NNP=za # South Africa, placename?
@@ -10193,6 +10365,7 @@ Cruywagenpark=NNP=za # South Africa, placename?
 Cruz=NNP=all
 Cryogenian=JJ=all
 Cryogenian=NNP=all
+Cryogonal=NNP=all
 Crysbestos=NNP=za # South Africa, placename?
 Crystal=NNP=all
 Créteil=NNP=all
@@ -10210,12 +10383,15 @@ Cub=NNP=all
 Cuba=NNP=all
 Cuban=Cuban/NNP,Cubans/NNPS=all
 Cuban=JJ=all
+Cubchoo=NNP=all
 CubeSat=CubeSat/NNP,CubeSats/NNPS=all
+Cubone=NNP=all
 Cuchulain=NNP=all
 Cudahy=NNP=all
 Cuenca=NNP=all
 Cuernavaca=NNP=all
 Cuevas=NNP=all
+Cufant=NNP=all
 Cufic=JJ=all
 Cufic=NNP=all
 Cuiabá=NNP=all
@@ -10267,6 +10443,7 @@ Currey=NNP=all
 Currie=NNP=all
 Currier=NNP=all
 Curry=NNP=all
+Cursola=NNP=all
 Curt=NNP=all
 Curtin=NNP=all
 Curtis=NNP=all
@@ -10282,6 +10459,7 @@ Cushman=NNP=all
 Custer=NNP=all
 Cuthbert=NNP=all
 Cuthbertson=NNP=all
+Cutiefly=NNP=all
 Cutler=NNP=all
 Cuttack=NNP=all
 Cuvier=NNP=all
@@ -10298,6 +10476,7 @@ Cybele=NNP=all
 Cybertruck=Cybertruck/NNP,Cybertrucks/NNPS=all
 Cyclades=Cyclades/NNP,Cyclades/NNPS=all
 Cycladic=JJ=all
+Cyclizar=NNP=all
 Cyclopean=JJ=all
 Cyclopes=Cyclopes/NNP,Cyclopes/NNPS=all
 Cyclops=NNP=all
@@ -10313,6 +10492,7 @@ Cymric=JJ=all
 Cymric=NNP=all
 Cymru=NNP=all
 Cymry=NNP=all
+Cyndaquil=NNP=all
 Cyndi=NNP=all
 Cynewulf=NNP=all
 Cynic=Cynic/NNP,Cynics/NNPS=all
@@ -10903,6 +11083,7 @@ Dabhol=NNP=all
 Dabulaville=NNP=za # South Africa, placename?
 Dacca=NNP=all
 Dachau=NNP=all
+Dachsbun=NNP=all
 Dacia=NNP=all
 Dacron=Dacron/NNP,Dacrons/NNPS=all
 Dada=JJ=all
@@ -11077,11 +11258,13 @@ Darin=NNP=all
 Dario=NNP=all
 Darius=NNP=all
 Darjeeling=Darjeeling/NNP,Darjeelings/NNPS=all
+Darkrai=NNP=all
 Darla=NNP=all
 Darlan=NNP=all
 Darlene=NNP=all
 Darling=NNP=all
 Darlington=Darlington/NNP,Darlington/NNPS=all
+Darmanitan=NNP=all
 Darmstadt=NNP=all
 Darnall=NNP=all
 Darnell=NNP=all
@@ -11102,6 +11285,8 @@ Darth=NNP=all
 Dartmoor=NNP=all
 Dartmouth=NNP=all
 Darton=NNP=all
+Dartrix=NNP=all
+Darumaka=NNP=all
 Darussalam=NNP=all
 Darwen=NNP=all
 Darwin=NNP=all
@@ -11224,6 +11409,7 @@ Decius=NNP=all
 Decker=NNP=all
 Declan=NNP=all
 Dedekind=NNP=all
+Dedenne=NNP=all
 Dedham=NNP=all
 Dee=NNP=all
 Deelkraal=NNP=za # South Africa, placename?
@@ -11239,6 +11425,7 @@ Deepika=NNP=all
 Deeping=NNP=all
 Deer=NNP=all
 Deerfield=NNP=all
+Deerling=NNP=all
 Deetlefsville=NNP=za # South Africa, placename?
 Deezer=NNP=all
 Defoe=NNP=all
@@ -11246,6 +11433,7 @@ Degas=NNP=all
 Deianira=NNP=all
 Deidre=NNP=all
 Deimos=NNP=all
+Deino=NNP=all
 Deinze=NNP=all
 Deirdre=NNP=all
 Dekalb=NNP=all
@@ -11263,6 +11451,7 @@ Delaunay=NNP=all
 Delaware=Delaware/NN:U,Delaware/NNP,Delawares/NNPS=all
 Delawarean=JJ=all
 Delbert=NNP=all
+Delcatty=NNP=all
 Deledda=NNP=all
 Delgado=NNP=all
 Delhi=NNP=all
@@ -11271,6 +11460,7 @@ Delia=NNP=all
 Delian=Delian/NNP,Delians/NNPS=all
 Delian=JJ=all
 Delibes=NNP=all
+Delibird=NNP=all
 Delichon=NNP=all
 Delicias=NNP=all
 Delilah=Delilah/NNP,Delilahs/NNPS=all
@@ -11294,6 +11484,7 @@ Delphi=NNP=all
 Delphic=JJ=all
 Delphine=NNP=all
 Delphinus=NNP=all
+Delphox=NNP=all
 Delporton=NNP=za # South Africa, placename?
 Delportshoop=NNP=za # South Africa, placename?
 Delropark=NNP=za # South Africa, placename?
@@ -11362,6 +11553,7 @@ Denton=NNP=all
 Denver=NNP=all
 Denys=NNP=all
 Denzel=NNP=all
+Deoxys=NNP=all
 Depew=NNP=all
 Depo-Medrol=NNP=all
 Deptford=NNP=all
@@ -11438,9 +11630,12 @@ Dewetsdorp=NNP=za # South Africa, placename?
 Dewetshof=NNP=za # South Africa, placename?
 Dewey=NNP=all
 Deweyan=JJ=all
+Dewgong=NNP=all
 Dewhirst=NNP=all
 Dewhurst=NNP=all
 Dewitt=NNP=all
+Dewott=NNP=all
+Dewpider=NNP=all
 Dewsbury=NNP=all
 Dewvale=NNP=za # South Africa, placename?
 Dexamyl=NNP=all
@@ -11457,6 +11652,7 @@ Dharamshala=NNP=all
 Dharmapur=NNP=all
 Dhaulagiri=NNP=all
 Dheeraj=NNP=all
+Dhelmise=NNP=all
 Dhiraj=NNP=all
 Dhirendra=NNP=all
 Dhiri=NNP=all
@@ -11470,10 +11666,12 @@ Diablo=NNP=all
 Diageo=NNP=all
 Diaghilev=NNP=all
 Diahosville=NNP=za # South Africa, placename?
+Dialga=NNP=all
 Diamanthoogte=NNP=za # South Africa, placename?
 Diamond=NNP=all
 Dian=NNP=all
 Diana=NNP=all
+Diancie=NNP=all
 Diane=NNP=all
 Diann=NNP=all
 Dianna=NNP=all
@@ -11523,9 +11721,11 @@ Dietrichson=NNP=all
 Dietz=NNP=all
 Difateng=NNP=za # South Africa, placename?
 Digby=NNP=all
+Diggersby=NNP=all
 Digicel=NNP=all
 Digiday=NNP=all
 Digimon=NNP=all
+Diglett=NNP=all
 Dijkstra=NNP=all
 Dijon=NNP=all
 Dijong=NNP=za # South Africa, placename?
@@ -11546,6 +11746,7 @@ Dillinger=NNP=all
 Dillingham=NNP=all
 Dillon=NNP=all
 Dilopye=NNP=za # South Africa, placename?
+Dilpreet=NNP=all
 Dimamotsa=NNP=za # South Africa, placename?
 Dimapur=NNP=all
 Dimbaza=NNP=za # South Africa, placename?
@@ -11594,6 +11795,7 @@ Dior=NNP=all
 Dipelaneng=NNP=za # South Africa, placename?
 Dipetleloane=NNP=za # South Africa, placename?
 Dipitsing=NNP=za # South Africa, placename?
+Dipplin=NNP=all
 Diptera=NNP=all
 Diqhobong=NNP=za # South Africa, placename?
 Dirac=NNP=all
@@ -11620,6 +11822,7 @@ Ditlake=NNP=za # South Africa, placename?
 Ditlong=NNP=za # South Africa, placename?
 Ditsheng=NNP=za # South Africa, placename?
 Ditsobotla=NNP=za # South Africa, placename?
+Ditto=NNP=all
 Diu=NNP=all
 Divali=NNP=all
 Dives=NNP=all
@@ -11682,6 +11885,7 @@ Dodona=NNP=all
 Dodonaean=JJ=all
 Dodonean=JJ=all
 Dodson=NNP=all
+Doduo=NNP=all
 Dodwell=NNP=all
 Doe=NNP=all
 Doenitz=NNP=all
@@ -11700,6 +11904,7 @@ Dolittle=NNP=all
 Dolley=NNP=all
 Dollfuss=NNP=all
 Dollie=NNP=all
+Dolliv=NNP=all
 Dolly=NNP=all
 Dolomites=NNPS=all
 Dolores=NNP=all
@@ -11750,6 +11955,7 @@ Donbass=NNP=all
 Doncaster=NNP=all
 Donda=NNP=za # South Africa, placename?
 Dondotha=NNP=za # South Africa, placename?
+Dondozo=NNP=all
 Donegal=NNP=all
 Donelson=NNP=all
 Donets=NNP=all
@@ -11766,6 +11972,7 @@ Donnie=NNP=all
 Donny=NNP=all
 Donostia=NNP=all
 Donovan=NNP=all
+Donphan=NNP=all
 Dončić=NNP=all
 Doodle=NNP=all
 Doolittle=NNP=all
@@ -11838,12 +12045,14 @@ Dot=NNP=all
 Dothan=NNP=all
 Dotson=NNP=all
 Dottie=NNP=all
+Dottler=NNP=all
 Dotty=NNP=all
 Dotyeni=NNP=za # South Africa, placename?
 Dou=NNP=all
 Douai=NNP=all
 Douala=NNP=all
 Douay=NNP=all
+Doublade=NNP=all
 Doubleday=NNP=all
 Doubs=NNP=all
 Doug=NNP=all
@@ -11887,15 +12096,25 @@ Draaifontein=NNP=za # South Africa, placename?
 Draaikraal=NNP=za # South Africa, placename?
 Draco=NNP=all
 Draconian=JJ=all
+Dracovish=NNP=all
+Dracozolt=NNP=all
 Dracula=NNP=all
 DraftKings=NNP=all
+Dragalge=NNP=all
+Dragapult=NNP=all
+Dragonair=NNP=all
 Dragonball=NNP=all
+Dragonite=NNP=all
 Drake=NNP=all
 Drakensberg=NNP=all
+Drakloak=NNP=all
 Dramamine=Dramamine/NNP,Dramamines/NNPS=all
 Dramaville=NNP=za # South Africa, placename?
 Drambuie=NNP=all
+Drampa=NNP=all
 Draper=NNP=all
+Drapion=NNP=all
+Dratini=NNP=all
 Drava=NNP=all
 Dravidian=JJ=all
 Dravidian=noun=all
@@ -11904,6 +12123,8 @@ Drayton=NNP=all
 DreamWorks=NNP=all
 Dreamlifter=Dreamlifter/NNP,Dreamlifters/NNPS=all
 Dreamweaver=NNP=all
+Drednaw=NNP=all
+Dreepy=NNP=all
 Dreibund=NNP=all
 Dreis-Tiefenbach=NNP=all
 Dreiser=NNP=all
@@ -11923,17 +12144,23 @@ Driehoek=NNP=za # South Africa, placename?
 Driekop=NNP=za # South Africa, placename?
 Driekoppies=NNP=za # South Africa, placename?
 Drieziek=NNP=za # South Africa, placename?
+Drifblim=NNP=all
+Drifloon=NNP=all
 Driftsand=NNP=za # South Africa, placename?
 Driftsands=NNP=za # South Africa, placename?
+Drilbur=NNP=all
 Drillisch=NNP=all
 Drin=NNP=all
 Drinkwater=NNP=all
 Driscoll=NNP=all
+Drizzile=NNP=all
 Drobný=NNP=all
 Drogheda=NNP=all
 Droogefontein=NNP=za # South Africa, placename?
 Dropbox=NNP=all
 Drosophilidae=NNP=all
+Drowzee=NNP=all
+Druddigon=NNP=all
 Druid=Druid/NNP,Druids/NNPS=all
 Druidic=JJ=all
 Druidical=JJ=all
@@ -11973,14 +12200,17 @@ Dubose=NNP=all
 Dubrovnik=NNP=all
 Dubuffet=NNP=all
 Dubuque=NNP=all
+Dubwool=NNP=all
 Ducasse=NNP=all
 Ducey=NNP=all
 Duchamp=NNP=all
 DuckDuckGo=NNP=all
+Ducklett=NNP=all
 Ducksters=NNP=all
 Duckworth=NNP=all
 Dudley=NNP=all
 Dududu=NNP=za # South Africa, placename?
+Dudunsparce=NNP=all
 Duduza=NNP=za # South Africa, placename?
 Duero=NNP=all
 Dufay=NNP=all
@@ -11991,6 +12221,7 @@ Dufy=NNP=all
 Dugald=NNP=all
 Dugan=NNP=all
 Duggan=NNP=all
+Dugtrio=NNP=all
 Duhamel=NNP=all
 Duinendal=NNP=za # South Africa, placename?
 Duisburg=NNP=all
@@ -12049,6 +12280,7 @@ Dunoon=NNP=all
 Dunsany=NNP=all
 Dunsevern=NNP=za # South Africa, placename?
 Dunsinane=NNP=all
+Dunsparce=NNP=all
 Dunstable=NNP=all
 Dunstan=NNP=all
 Dunston=NNP=all
@@ -12060,6 +12292,7 @@ Dunvegan=NNP=za # South Africa, placename?
 Dunveria=NNP=za # South Africa, placename?
 Dunwoody=NNP=all
 Duolingo=NNP=all
+Duosion=NNP=all
 Dupage=NNP=all
 Dupleix=NNP=all
 Dupont=NNP=all
@@ -12067,6 +12300,7 @@ Duquesne=NNP=all
 Duquette=NNP=all
 Dur=NNP=all
 Duracell=NNP=all
+Duraludon=NNP=all
 Duralumin=NNP=all
 Duramax=NNP=all
 Duran=NNP=all
@@ -12099,12 +12333,16 @@ Dursley=NNP=all
 Durston=NNP=all
 Durward=NNP=all
 Durán=NNP=all
+Dusclops=NNP=all
 Duse=NNP=all
 Dushanbe=NNP=all
+Dusknoir=NNP=all
+Duskull=NNP=all
 Dussehra=NNP=all
 Dusseldorf=NNP=all
 Dustin=NNP=all
 Duston=NNP=all
+Dustox=NNP=all
 Dusty=NNP=all
 Dutch=Dutch/NN:U,Dutch/NNP,Dutch/NNPS=all
 Dutch=JJ=all
@@ -12131,6 +12369,7 @@ Dwarfgoby=NNP=za # South Africa, placename?
 Dwarsberg=NNP=za # South Africa, placename?
 Dwarskloof=NNP=za # South Africa, placename?
 Dwayne=NNP=all
+Dwebble=NNP=all
 Dweshula=NNP=za # South Africa, placename?
 Dwight=NNP=all
 Dwyer=NNP=all
@@ -12929,6 +13168,8 @@ Edwina=NNP=all
 Edythe=NNP=all
 Eel-barbel=NNP=za # South Africa, placename?
 Eel-catfish=NNP=za # South Africa, placename?
+Eelektrik=NNP=all
+Eelektross=NNP=all
 Eendekuil=NNP=za # South Africa, placename?
 Eendrag=NNP=za # South Africa, placename?
 Eensaam=NNP=za # South Africa, placename?
@@ -12937,6 +13178,7 @@ Eerdmans=NNP=all
 Eerstegoud=NNP=za # South Africa, placename?
 Eerstemyn=NNP=za # South Africa, placename?
 Eersterus=NNP=za # South Africa, placename?
+Eevee=NNP=all
 Efaye=NNP=za # South Africa, placename?
 Effie=NNP=all
 Effingham=NNP=all
@@ -12994,6 +13236,7 @@ Einstein=Einstein/NNP,Einsteins/NNPS=all
 Einsteinian=JJ=all
 Eira=NNP=all
 Eire=NNP=all
+Eiscue=NNP=all
 Eisele=NNP=all
 Eisen=NNP=all
 Eisenach=NNP=all
@@ -13006,6 +13249,7 @@ Eisleben=NNP=all
 Eisner=NNP=all
 Ekandustria=NNP=za # South Africa, placename?
 Ekangala=NNP=za # South Africa, placename?
+Ekans=NNP=all
 Ekaterina=NNP=all
 Ekaterinburg=NNP=all
 Ekaterinodar=NNP=all
@@ -13061,6 +13305,7 @@ Elberton=NNP=all
 Elbrus=NNP=all
 Elbæk=NNP=all
 Elcedes=NNP=za # South Africa, placename?
+Eldegoss=NNP=all
 Elder=NNP=all
 Eldoglen=NNP=za # South Africa, placename?
 Eldon=NNP=all
@@ -13075,11 +13320,16 @@ Eleanore=NNP=all
 Eleatic=Eleatic/NNP,Eleatics/NNPS=all
 Eleatic=JJ=all
 Eleazar=NNP=all
+Electabuzz=NNP=all
+Electivire=NNP=all
 Electra=NNP=all
 Electrapark=NNP=za # South Africa, placename?
+Electrike=NNP=all
+Electrode=NNP=all
 Electrolux=NNP=all
 Electron=NNP=za # South Africa, placename?
 Elegans=NNP=za # South Africa, placename?
+Elekid=NNP=all
 Elementor=NNP=all
 Elena=NNP=all
 Eleonora=NNP=all
@@ -13093,6 +13343,7 @@ Elfindale=NNP=za # South Africa, placename?
 Elgar=NNP=all
 Elgin=NNP=all
 Elgon=NNP=all
+Elgyem=NNP=all
 Eli=NNP=all
 Elian=Elian/NNP,Elians/NNPS=all
 Eliana=NNP=all
@@ -13233,6 +13484,7 @@ Embalenhle=NNP=za # South Africa, placename?
 Embali=NNP=za # South Africa, placename?
 Embarcadero=NNP=all
 Emblem=NNP=za # South Africa, placename?
+Emboar=NNP=all
 Embonisweni=NNP=za # South Africa, placename?
 Embraer=NNP=all
 Embry-Riddle=NNP=all
@@ -13277,6 +13529,7 @@ Emmerson=NNP=all
 Emmet=NNP=all
 Emmett=NNP=all
 Emmy=Emmy/NNP,Emmies/NNPS,Emmys/NNPS=all
+Emolga=NNP=all
 Emona=NNP=za # South Africa, placename?
 Emondlo=NNP=za # South Africa, placename?
 Emory=NNP=all
@@ -13286,6 +13539,7 @@ Empangeni=NNP=za # South Africa, placename?
 Empedocles=NNP=all
 Empire=JJ=all
 Empirin=NNP=all
+Empoleon=NNP=all
 Emporia=NNP=all
 Empson=NNP=all
 Empumalanga=NNP=za # South Africa, placename?
@@ -13296,6 +13550,7 @@ Emsworth=NNP=all
 Emthembeni=NNP=za # South Africa, placename?
 Emzinoni=NNP=za # South Africa, placename?
 Ena=NNP=all
+Enamorus=NNP=all
 Enceladus=NNP=all
 Encke=NNP=all
 End=NNP=all
@@ -13362,6 +13617,7 @@ Ensizwakazi=NNP=za # South Africa, placename?
 Ensor=NNP=all
 Entabeni=NNP=za # South Africa, placename?
 Entebbe=NNP=all
+Entei=NNP=all
 Enterobacteriaceae=Enterobacteriaceae/NNP,Enterobacteriaceae/NNPS=all
 Entoprocta=NNP=all
 Entshonalanga=NNP=za # South Africa, placename?
@@ -13504,6 +13760,7 @@ Esbriet=NNP=all
 Esc=NNP=all
 Escanaba=NNP=all
 Escaut=NNP=all
+Escavalier=NNP=all
 Escher=NNP=all
 Escherichia=NNP=all
 Eschscholtz=NNP=all
@@ -13548,8 +13805,10 @@ Esmond=NNP=all
 Esmé=NNP=all
 Esmée=NNP=all
 Esparragoza=NNP=all
+Espathra=NNP=all
 España=NNP=all
 Español=NNP=all
+Espeon=NNP=all
 Esper=NNP=all
 Esperantist=Esperantist/NNP,Esperantists/NNPS=all
 Esperanto=Esperanto/NN:U,Esperanto/NNP=all
@@ -13558,6 +13817,7 @@ Espinosa=NNP=all
 Esplanade=NNP=za # South Africa, placename?
 Espoo=NNP=all
 Esposito=NNP=all
+Espurr=NNP=all
 Esq=NNP=all
 Esquiline=NNP=all
 Esquimau=JJ=all
@@ -13610,6 +13870,7 @@ Et=NNP=all
 Eta=NNP=all
 Etafuleni=NNP=za # South Africa, placename?
 Eteocles=NNP=all
+Eternatus=NNP=all
 Etete=NNP=za # South Africa, placename?
 Ethan=NNP=all
 Ethandokukhanya=NNP=za # South Africa, placename?
@@ -13800,10 +14061,13 @@ Ewen=NNP=all
 Ewens=NNP=all
 Ewing=NNP=all
 Ex=NNP=all
+Excadrill=NNP=all
 Excalibur=NNP=all
 Excel=NNP=all
 Exchequer=Exchequer/NNP,Exchequers/NNPS=all
 Excom=NNP=za # South Africa, placename?
+Exeggcute=NNP=all
+Exeggutor=NNP=all
 Exeter=NNP=all
 Exmoor=Exmoor/NNP,Exmoors/NNPS=all
 Exod=NNP=all
@@ -13811,6 +14075,7 @@ Exodus=NNP=all
 Expedia=NNP=all
 Exploratorium=NNP=all
 ExploreLearning=NNP=all
+Exploud=NNP=all
 Ext=NNP=za # South Africa, placename?
 Extension=NNP=za # South Africa, placename?
 Extremadura=NNP=all
@@ -14446,6 +14711,7 @@ Falconridge=NNP=za # South Africa, placename?
 Falernian=JJ=all
 Falernum=NNP=all
 Falgman=NNP=all
+Falinks=NNP=all
 Faliscan=NNP=all
 Falk=NNP=all
 Falkirk=NNP=all
@@ -14486,6 +14752,7 @@ Faria=NNP=all
 Faribault=NNP=all
 Farid=NNP=all
 Faridabad=NNP=all
+Farigiraf=NNP=all
 Farinelli=NNP=all
 Farkas=NNP=all
 Farleigh=NNP=all
@@ -14563,6 +14830,7 @@ Fayez=NNP=all
 Fayum=NNP=all
 Fazlullah=NNP=all
 Fe=NNP=all
+Fearow=NNP=all
 Featherstone=NNP=all
 Feb=NNP=all
 Februaries=NNPS=all
@@ -14579,6 +14847,7 @@ Federico=NNP=all
 Federighi=NNP=all
 Federigo=NNP=all
 Fedora=NNP=all
+Feebas=NNP=all
 Feigenbaum=NNP=all
 Feigin=NNP=all
 Fein=NNP=all
@@ -14610,12 +14879,14 @@ Fenian=Fenian/NNP,Fenians/NNPS=all
 Fenian=JJ=all
 Fenianism=Fenianism/NNP,Fenianisms/NNPS=all
 Fenn=NNP=all
+Fennekin=NNP=all
 Fenner=NNP=all
 Fenny=NNP=all
 Fenrir=NNP=all
 Fenton=NNP=all
 Fenway=NNP=all
 Fenwick=NNP=all
+Feraligatr=NNP=all
 Ferber=NNP=all
 Ferdinand=NNP=all
 Ferdinando=NNP=all
@@ -14655,6 +14926,8 @@ Ferreñafe=NNP=all
 Ferris=NNP=all
 Ferrocarriles=NNP=all
 Ferrol=NNP=all
+Ferroseed=NNP=all
+Ferrothorn=NNP=all
 Ferruccio=NNP=all
 Ferryvale=NNP=za # South Africa, placename?
 Fervidor=NNP=all
@@ -14666,6 +14939,7 @@ Feuchtwanger=NNP=all
 Feuillant=NNP=all
 Feyenoord=NNP=all
 Feynman=NNP=all
+Fezandipiti=NNP=all
 Fezzan=NNP=all
 Fezziwig=NNP=all
 Fhatuwani=NNP=za # South Africa, placename?
@@ -14681,6 +14955,7 @@ Fidel=NNP=all
 Fidelio=NNP=all
 Fides=NNP=all
 Fido=NNP=all
+Fidough=NNP=all
 Fiedler=NNP=all
 Field=NNP=all
 Fielding=NNP=all
@@ -14714,6 +14989,7 @@ Findley=NNP=all
 Finetown=NNP=za # South Africa, placename?
 Finisterre=NNP=all
 Finistère=NNP=all
+Finizen=NNP=all
 Fink=NNP=all
 Finkel=NNP=all
 Finkelstein=NNP=all
@@ -14724,6 +15000,7 @@ Finlay=NNP=all
 Finley=NNP=all
 Finn=Finn/NNP,Finns/NNPS=all
 Finnegan=NNP=all
+Finneon=NNP=all
 Finney=NNP=all
 Finnic=JJ=all
 Finnic=NNP=all
@@ -14775,12 +15052,15 @@ Fiverr=NNP=all
 Fizeau=NNP=all
 Fjölsvinnsmál=NNP=all
 Fla=NNP=all
+Flaaffy=NNP=all
+Flabébé=NNP=all
 Flagfin=NNP=za # South Africa, placename?
 Flagg=NNP=all
 Flagler=NNP=all
 Flagstad=NNP=all
 Flagyl=NNP=all
 Flaherty=NNP=all
+Flamigo=NNP=all
 Flamingo=NNP=za # South Africa, placename?
 Flamingovlei=NNP=za # South Africa, placename?
 Flaminius=NNP=all
@@ -14790,6 +15070,8 @@ Flamwood=NNP=za # South Africa, placename?
 Flanagan=NNP=all
 Flanders=NNP=all
 Flannery=NNP=all
+Flapple=NNP=all
+Flareon=NNP=all
 Flathead=Flathead/NNP,Flatheads/NNPS=all
 Flaticon=NNP=all
 Flatpak=NNP=all
@@ -14818,6 +15100,8 @@ Fletch=NNP=all
 Fletcher=NNP=all
 Fletcherism=noun_UN=all
 Fletcherville=NNP=za # South Africa, placename?
+Fletchinder=NNP=all
+Fletchling=NNP=all
 Fleur=NNP=all
 Fleurdal=NNP=za # South Africa, placename?
 Fleurhof=NNP=za # South Africa, placename?
@@ -14834,14 +15118,18 @@ Flintstones=NNP=all
 Flipboard=NNP=all
 Flipgrid=NNP=all
 Flipkart=NNP=all
+Flittle=NNP=all
 Flo=NNP=all
+Floatzel=NNP=all
 Flodden=NNP=all
+Floette=NNP=all
 Flon=NNP=all
 Flonase=NNP=all
 Flood=NNP=all
 Floors=NNP=za # South Africa, placename?
 Flora=NNP=all
 Floracliffe=NNP=za # South Africa, placename?
+Floragato=NNP=all
 Floral=NNP=all
 Florapark=NNP=za # South Africa, placename?
 Florauna=NNP=za # South Africa, placename?
@@ -14858,6 +15146,7 @@ Florentino=NNP=all
 Flores=NNP=all
 Florex=NNP=za # South Africa, placename?
 Florey=NNP=all
+Florges=NNP=all
 Florian=NNP=all
 Florianville=NNP=za # South Africa, placename?
 Florianópolis=NNP=all
@@ -14876,6 +15165,7 @@ Flower=NNP=all
 Flowers=NNP=all
 Floyd=NNP=all
 Flushing=NNP=all
+Flygon=NNP=all
 Flynn=NNP=all
 Flynt=NNP=all
 Flávio=NNP=all
@@ -14897,6 +15187,7 @@ Folsom=JJ=all
 Folsom=NNP=all
 Folweni=NNP=za # South Africa, placename?
 Fomalhaut=NNP=all
+Fomantis=NNP=all
 Fonda=NNP=all
 Fondwe=NNP=za # South Africa, placename?
 Fonseca=NNP=all
@@ -14907,6 +15198,7 @@ Fonteinriet=NNP=za # South Africa, placename?
 Fontenay-sous-Bois=NNP=all
 Fontenoy=NNP=all
 Fonteyn=NNP=all
+Foongus=NNP=all
 Footballer=NNP=za # South Africa, placename?
 Foote=NNP=all
 Foraker=NNP=all
@@ -14936,6 +15228,7 @@ Fornax=NNP=all
 Forney=NNP=all
 Forrest=NNP=all
 Forrester=NNP=all
+Forretress=NNP=all
 Forseti=NNP=all
 Forster=NNP=all
 Forsyth=NNP=all
@@ -15055,6 +15348,7 @@ Frauen=NNPS=all
 Frauenfeld=NNP=all
 Fraunhofer=NNP=all
 Frawley=NNP=all
+Fraxure=NNP=all
 Frazer=NNP=all
 Frazier=NNP=all
 Fred=NNP=all
@@ -15160,8 +15454,10 @@ Friesian=JJ=all
 Friesland=NNP=all
 Frigg=NNP=all
 Frigga=NNP=all
+Frigibax=NNP=all
 Frigidaire=Frigidaire/NNP,Frigidaires/NNPS=all
 Frigoris=NNP=all
+Frillish=NNP=all
 Frimaire=NNP=all
 Friml=NNP=all
 Frisbee=Frisbee/NNP,Frisbees/NNPS=all
@@ -15176,10 +15472,12 @@ Friuli-Venezia=NNP=all
 Friuli=NNP=all
 Friulian=Friulian/NN:U,Friulian/NNP,Friulians/NNPS=all
 Friulian=JJ=all
+Froakie=NNP=all
 Frobisher=NNP=all
 Frodo=NNP=all
 Froebel=NNP=all
 Froebelian=JJ=all
+Frogadier=NNP=all
 Froissart=NNP=all
 Frome=NNP=all
 Fromm=NNP=all
@@ -15188,6 +15486,8 @@ Frontenac=JJ=all
 Frontenac=NNP=all
 Frontera=NNP=all
 Frontex=NNP=all
+Froslass=NNP=all
+Frosmoth=NNP=all
 Frost=NNP=all
 Frostian=JJ=all
 Froude=NNP=all
@@ -15204,6 +15504,7 @@ Frédérique=NNP=all
 Fríður=NNP=all
 Fróech=NNP=all
 Fuchs=NNP=all
+Fuecoco=NNP=all
 Fuegian=JJ=all
 Fuego=NNP=all
 Fuelcell=NNP=all
@@ -15237,9 +15538,11 @@ Fumani=NNP=za # South Africa, placename?
 Funafuti=NNP=all
 Funchal=NNP=all
 Fundy=NNP=all
+Furfrou=NNP=all
 Furman=NNP=all
 Furness=NNP=all
 Furnivall=NNP=all
+Furret=NNP=all
 Fuseli=NNP=all
 Fushih=NNP=all
 Fushun=NNP=all
@@ -15661,6 +15964,7 @@ Gabbana=NNP=all
 Gabby=NNP=all
 Gabe=NNP=all
 Gaberones=NNP=all
+Gabite=NNP=all
 Gable=NNP=all
 Gabo=NNP=all
 Gabon=NNP=all
@@ -15741,6 +16045,7 @@ Galindo=NNP=all
 Galjoen=NNP=za # South Africa, placename?
 Gall=NNP=all
 Galla=Galla/NNP,Gallas/NNPS=all
+Gallade=NNP=all
 Gallagher=Gallagher/NNP,Gallaghers/NNPS=all
 Gallardo=NNP=all
 Gallatin=NNP=all
@@ -15770,6 +16075,7 @@ Galton=NNP=all
 Galtonian=JJ=all
 Galvan=NNP=all
 Galvani=NNP=all
+Galvantula=NNP=all
 Galveston=NNP=all
 Galvez=NNP=all
 Galvin=NNP=all
@@ -15841,6 +16147,8 @@ Garapulana=NNP=za # South Africa, placename?
 Garatse=NNP=za # South Africa, placename?
 Garber=NNP=all
 Garbo=NNP=all
+Garbodor=NNP=all
+Garchomp=NNP=all
 Garcia=NNP=all
 García=NNP=all
 Gard=NNP=all
@@ -15848,12 +16156,14 @@ Garda=NNP=all
 Garden=NNP=all
 Gardendale=NNP=all
 Gardenia=NNP=za # South Africa, placename?
+Gardevoir=NNP=all
 Gardiner=NNP=all
 Gardner=NNP=all
 Gareth=NNP=all
 Garfield=NNP=all
 Garfunkel=NNP=all
 Gargamel=NNP=all
+Garganacl=NNP=all
 Garganey=NNP=za # South Africa, placename?
 Gargantua=NNP=all
 Garibaldi=NNP=all
@@ -15903,6 +16213,7 @@ Gasper=NNP=all
 Gasser=NNP=all
 Gaston=NNP=all
 Gastonia=NNP=all
+Gastrodon=NNP=all
 Gastropoda=NNP=all
 Gastrow=NNP=za # South Africa, placename?
 Gastón=NNP=all
@@ -16024,6 +16335,7 @@ Genaro=NNP=all
 Gene=NNP=all
 Genentech=NNP=all
 Generali=NNP=all
+Genesect=NNP=all
 Genesee=NNP=all
 Geneseo=NNP=all
 Genesiac=JJ=all
@@ -16037,6 +16349,7 @@ Genevese=JJ=all
 Genevese=NNP=all
 Genevieve=NNP=all
 Geneviève=NNP=all
+Gengar=NNP=all
 Genk=NNP=all
 Genl=NNP=all
 Genoa=Genoa/NNP,Genoas/NNPS=all
@@ -16051,6 +16364,7 @@ Gent=NNP=all
 Gentry=NNP=all
 Gentshana=NNP=za # South Africa, placename?
 Geo=NNP=all
+Geodude=NNP=all
 Geoff=NNP=all
 Geoffrey=NNP=all
 Geonic=JJ=all
@@ -16159,6 +16473,7 @@ Ghiberti=NNP=all
 Ghirardelli=NNP=all
 Ghirlandaio=NNP=all
 Ghislaine=NNP=all
+Gholdengo=NNP=all
 Gholfsig=NNP=za # South Africa, placename?
 Ghulam=NNP=all
 Gi=NNP=all
@@ -16178,6 +16493,7 @@ Gibbons=NNP=all
 Gibbs=NNP=all
 Gibeon=NNP=all
 Gibeonite=NNP=all
+Gible=NNP=all
 Gibraltar=Gibraltar/NNP,Gibraltars/NNPS=all
 Gibraltarian=Gibraltarian/NNP,Gibraltarians/NNPS=all
 Gibran=NNP=all
@@ -16193,6 +16509,7 @@ Giffard=NNP=all
 Gifford=NNP=all
 Gifu=NNP=all
 Gigafactory=NNP=all
+Gigalith=NNP=all
 Gigantopithecus=NNP=all
 Gigi=NNP=all
 Gigli=NNP=all
@@ -16242,6 +16559,7 @@ Gilpin=NNP=all
 Gilroy=NNP=all
 Gilson=NNP=all
 Gilstrap=NNP=all
+Gimmighoul=NNP=all
 Giménez=NNP=all
 Gina=NNP=all
 Ginette=NNP=all
@@ -16264,8 +16582,10 @@ Giotto=NNP=all
 Giovanna=NNP=all
 Giovanni=NNP=all
 Gipuzkoa=NNP=all
+Girafarig=NNP=all
 Giraldo=NNP=all
 Girard=NNP=all
+Giratina=NNP=all
 Giraud=NNP=all
 Giraudoux=NNP=all
 Girgenti=NNP=all
@@ -16296,12 +16616,15 @@ Giyani=NNP=za # South Africa, placename?
 Giza=NNP=all
 Gjirokastër=NNP=all
 Gk=NNP=all
+Glaceon=NNP=all
 Gladbeck=NNP=all
 Gladstone=Gladstone/NNP,Gladstones/NNPS=all
 Gladwell=NNP=all
 Gladwin=NNP=all
 Gladys=NNP=all
 Glagolitic=JJ=all
+Glalie=NNP=all
+Glameow=NNP=all
 Glamorgan=NNP=all
 Glamorganshire=NNP=all
 Glanville=NNP=all
@@ -16312,6 +16635,7 @@ Glass=NNP=all
 Glassdoor=NNP=all
 Glasser=NNP=all
 Glastonbury=NNP=all
+Glastrier=NNP=all
 Glaswegian=Glaswegian/NNP,Glaswegians/NNPS=all
 Glaswegian=JJ=all
 Glauce=NNP=all
@@ -16338,6 +16662,7 @@ Glendinningvale=NNP=za # South Africa, placename?
 Glendon=NNP=all
 Glendora=NNP=all
 Glendower=NNP=all
+Glenelg=NNP=all
 Glenesk=NNP=za # South Africa, placename?
 Glengarry=Glengarry/NNP,Glengarries/NNPS=all
 Glenharvie=NNP=za # South Africa, placename?
@@ -16363,13 +16688,18 @@ Glenvista=NNP=za # South Africa, placename?
 Glenwood=NNP=all
 Glickman=NNP=all
 Glickstein=NNP=all
+Gligar=NNP=all
+Glimmet=NNP=all
+Glimmora=NNP=all
 Glinka=NNP=all
+Gliscor=NNP=all
 Gliwice=NNP=all
 GlobalLogic=NNP=all
 Globicephala=NNP=all
 Globish=NNP=all
 Glock=NNP=all
 Glomma=NNP=all
+Gloom=NNP=all
 Gloria=Gloria/NNP,Glorias/NNPS=all
 Glosderry=NNP=za # South Africa, placename?
 Glossom=NNP=za # South Africa, placename?
@@ -16445,6 +16775,7 @@ Goffstown=NNP=all
 Gog=NNP=all
 Goggles=NNP=za # South Africa, placename?
 Gogh=NNP=all
+Gogoat=NNP=all
 Gogol=NNP=all
 Gohmert=NNP=all
 Goiania=NNP=all
@@ -16455,11 +16786,13 @@ Goiás=NNP=all
 Goiânia=NNP=all
 Golan=NNP=all
 Golang=NNP=all
+Golbat=NNP=all
 Golconda=Golconda/NNP,Golcondas/NNPS=all
 Gold=NNP=all
 Golda=NNP=all
 Goldberg=NNP=all
 Goldblum=NNP=all
+Goldeen=NNP=all
 Golden=NNP=all
 Goldfish=NNP=za # South Africa, placename?
 Goldie=NNP=all
@@ -16473,19 +16806,24 @@ Goldsmith=NNP=all
 Goldstein=NNP=all
 Goldsworthy=NNP=all
 Goldthorpe=NNP=all
+Golduck=NNP=all
 Goldwater=NNP=all
 Goldwyn=NNP=all
 Golela=NNP=za # South Africa, placename?
+Golem=NNP=all
 Goleman=NNP=all
 Goleta=NNP=all
+Golett=NNP=all
 Golf=NNP=za # South Africa, placename?
 Golgi=NNP=all
 Golgotha=NNP=all
 Goliath=Goliath/NNP,Goliaths/NNPS=all
+Golisopod=NNP=all
 Gollum=NNP=all
 Golokodo=NNP=za # South Africa, placename?
 Golomi=NNP=za # South Africa, placename?
 Golub=NNP=all
+Golurk=NNP=all
 Gomal=NNP=all
 Gombrich=NNP=all
 Gomel=NNP=all
@@ -16524,6 +16862,7 @@ Goodlettsville=NNP=all
 Goodman=NNP=all
 Goodness=NNP=za # South Africa, placename?
 Goodnight=NNP=all
+Goodra=NNP=all
 Goodrich=NNP=all
 Goodson=NNP=all
 Goodwin=NNP=all
@@ -16531,6 +16870,7 @@ Goodyear=NNP=all
 Google=NNP=all
 Goole=NNP=all
 Goolhurst=NNP=za # South Africa, placename?
+Goomy=NNP=all
 Gopane=NNP=za # South Africa, placename?
 Gopher=NNP=all
 Gopinath=NNP=all
@@ -16547,6 +16887,7 @@ Gordon=NNP=all
 Gordy=NNP=all
 Gore-Tex=NNP=all
 Gore=NNP=all
+Gorebyss=NNP=all
 Gorelick=NNP=all
 Goren=NNP=all
 Gorey=NNP=all
@@ -16569,6 +16910,7 @@ Gosport=NNP=all
 Goss=NNP=all
 Gosse=NNP=all
 Gosshill=NNP=za # South Africa, placename?
+Gossifleur=NNP=all
 Goswami=NNP=all
 Gotama=NNP=all
 Goteborg=NNP=all
@@ -16582,6 +16924,9 @@ Gothically=RB=all
 Gothicism=Gothicism/NNP,Gothicisms/NNPS=all
 Gothicize|Gothicise=verb=us,ca,gb|gb,au,nz,za
 Gothicness=NN:U=all
+Gothita=NNP=all
+Gothitelle=NNP=all
+Gothorita=NNP=all
 Gotland=NNP=all
 Gottenburg=NNP=za # South Africa, placename?
 Gottfried=NNP=all
@@ -16595,6 +16940,7 @@ Goukou=NNP=za # South Africa, placename?
 Gould=NNP=all
 Goulding=NNP=all
 Gounod=NNP=all
+Gourgeist=NNP=all
 Gouritsmond=NNP=za # South Africa, placename?
 Gouritz=NNP=za # South Africa, placename?
 Gourley=NNP=all
@@ -16622,6 +16968,7 @@ Grady=NNP=all
 Graeco-Roman=JJ=all
 Graeme=NNP=all
 Graf=Graf/NNP,Graves/NNPS=all
+Grafaiai=NNP=all
 Grafana=NNP=all
 Graff=NNP=all
 Grafton=NNP=all
@@ -16641,6 +16988,7 @@ Grampians=NNP=all
 Gran=NNP=all
 Granada=NNP=all
 Granados=NNP=all
+Granbull=NNP=all
 Granby=NNP=all
 Grand=NNP=all
 Grande=NNP=all
@@ -16661,6 +17009,7 @@ Grantsville=NNP=all
 Granville=NNP=all
 GraphQL=NNP=all
 Graphophone=NNP=all
+Grapploct=NNP=all
 Graskop=NNP=za # South Africa, placename?
 Graslaagte=NNP=za # South Africa, placename?
 Grasland=NNP=za # South Africa, placename?
@@ -16683,6 +17032,7 @@ Grayslake=NNP=all
 Grayson=NNP=all
 Graz=NNP=all
 Greater=JJ=all
+Greavard=NNP=all
 Grecian=Grecian/NNP,Grecians/NNPS=all
 Grecian=JJ=all
 Grecism=Grecism/NNP,Grecisms/NNPS=all
@@ -16692,6 +17042,7 @@ Greco-Roman=NNP=all
 Greco-Turkish=JJ=all
 Greco=NNP=all
 Greece=NNP=all
+Greedent=NNP=all
 Greek=Greek/NNP,Greeks/NNPS=all
 Greek=JJ=all
 Greekish=JJ=all
@@ -16753,6 +17104,7 @@ Grenadian=JJ=all
 Grenadines=NNPS=all
 Grendel=NNP=all
 Grenfell=NNP=all
+Greninja=NNP=all
 Grenoble=NNP=all
 Grenville=NNP=all
 Gresham=NNP=all
@@ -16786,8 +17138,10 @@ Grillparzer=NNP=all
 Grimaldi=NNP=all
 Grimaldian=JJ=all
 Grimbeekpark=NNP=za # South Africa, placename?
+Grimer=NNP=all
 Grimes=Grimes/NNP,Grimeses/NNPS=all
 Grimm=NNP=all
+Grimmsnarl=NNP=all
 Grimsby=NNP=all
 Grimshaw=NNP=all
 Grindelwald=NNP=all
@@ -16816,6 +17170,7 @@ Grohmann=NNP=all
 Grolier=JJ=all
 Gromyko=NNP=all
 Groningen=NNP=all
+Grookey=NNP=all
 Groot-drakenstein=NNP=za # South Africa, placename?
 Groot-marico=NNP=za # South Africa, placename?
 Groot=NNP=all
@@ -16835,17 +17190,23 @@ Grosz=NNP=all
 Grote=NNP=all
 Grotian=JJ=all
 Grotius=NNP=all
+Grotle=NNP=all
+Groudon=NNP=all
 GroupM=NNP=all
 Groupon=NNP=all
 Groutville=NNP=za # South Africa, placename?
 Grove=NNP=all
 Grover=NNP=all
 Groves=NNP=all
+Grovyle=NNP=all
+Growlithe=NNP=all
 Grozny=NNP=all
+Grubbin=NNP=all
 Gruber=NNP=all
 Grubhub=NNP=all
 Grudziądz=NNP=all
 Gruenfeld=NNP=all
+Grumpig=NNP=all
 Grundy=Grundy/NNP,Grundies/NNPS=all
 Grundyism=Grundyism/NNP,Grundyisms/NNPS=all
 Grus=NNP=all
@@ -16957,7 +17318,9 @@ Gulf=NNP=all
 Gulfport=NNP=all
 Gullah=Gullah/NNP,Gullahs/NNPS=all
 Gulliver=NNP=all
+Gulpin=NNP=all
 Gumbani=NNP=za # South Africa, placename?
+Gumshoos=NNP=all
 Gumtree=NNP=all
 Gumzana=NNP=za # South Africa, placename?
 Gunderson=NNP=all
@@ -16973,6 +17336,7 @@ Guntur=NNP=all
 Guppy=NNP=za # South Africa, placename?
 Gupta=NNP=all
 Gur=NNP=all
+Gurdurr=NNP=all
 Gurevich=NNP=all
 Gurgaon=NNP=all
 Gurkha=Gurkha/NNP,Gurkhas/NNPS=all
@@ -17009,6 +17373,7 @@ Guyanese=NNP=all
 Guyenne=NNP=all
 Guymon=NNP=all
 Guzmán=NNP=all
+Guzzlord=NNP=all
 Gwadana=NNP=za # South Africa, placename?
 Gwadu=NNP=za # South Africa, placename?
 Gwalana=NNP=za # South Africa, placename?
@@ -17030,6 +17395,7 @@ Gxara=NNP=za # South Africa, placename?
 Gxobanyawo=NNP=za # South Africa, placename?
 Gxokoza=NNP=za # South Africa, placename?
 Gy=NNP=all
+Gyarados=NNP=all
 Gyeongsang=NNP=all
 Gyges=NNP=all
 Gyllenhaal=NNP=all
@@ -17112,6 +17478,7 @@ HCF=NNP=all
 HCG=untagged=all
 HCI=untagged=all
 HCL=untagged=all
+HCLTech=NNP=all
 HCM=NNP=all
 HCS=untagged=all
 HCT=NNP=all
@@ -17397,6 +17764,7 @@ Haiti=NNP=all
 Haitian=Haitian/NNP,Haitians/NNPS=all
 Haitian=JJ=all
 Haj=NNP=za # South Africa, placename?
+Hakamo-o=NNP=all
 Hakan=NNP=all
 Hakeem=NNP=all
 Hakenkreuz=NNP=all
@@ -17584,6 +17952,7 @@ Harinagar=NNP=za # South Africa, placename?
 Haringey=NNP=all
 Harish=NNP=all
 Harivansh=NNP=all
+Hariyama=NNP=all
 Harkerville=NNP=za # South Africa, placename?
 Harkness=NNP=all
 Harlan=NNP=all
@@ -17644,6 +18013,7 @@ Hartley=NNP=all
 Hartman=NNP=all
 Hartmann=NNP=all
 Hartnell=NNP=all
+Hartney=NNP=all
 Hartranft=NNP=all
 Harts=NNP=all
 Hartsdale=NNP=all
@@ -17690,6 +18060,7 @@ Hastings=NNP=all
 Haswell=NNP=all
 Hatch=NNP=all
 Hatcher=NNP=all
+Hatenna=NNP=all
 Hatfield=NNP=all
 Hathaway=NNP=all
 Hathor=NNP=all
@@ -17698,15 +18069,18 @@ Hathorne=NNP=all
 Hatshama=NNP=za # South Africa, placename?
 Hatshepsut=NNP=all
 Hatteras=NNP=all
+Hatterene=NNP=all
 Hattic=JJ=all
 Hattie=NNP=all
 Hattiesburg=NNP=all
 Hattingen=NNP=all
 Hattingspruit=NNP=za # South Africa, placename?
+Hattrem=NNP=all
 Haudenosaunee=NNP=all
 Haugeland=NNP=all
 Haugen=NNP=all
 Haughton=NNP=all
+Haunter=NNP=all
 Hauptmann=NNP=all
 Hausa=Hausa/NN:U,Hausa/NNP,Hausas/NNPS=all
 Hausas=NNPS=all
@@ -17743,9 +18117,11 @@ Hawkman=NNP=all
 Hawkray=NNP=za # South Africa, placename?
 Hawksmoor=NNP=all
 Hawley=NNP=all
+Hawlucha=NNP=all
 Haworth=NNP=all
 Hawston=NNP=za # South Africa, placename?
 Hawthorne=NNP=all
+Haxorus=NNP=all
 Hay=NNP=all
 Hayabusa=NNP=all
 Hayden=NNP=all
@@ -17802,6 +18178,7 @@ Heathrow=NNP=all
 Heatley=NNP=all
 Heatlievale=NNP=za # South Africa, placename?
 Heatonville=NNP=za # South Africa, placename?
+Heatran=NNP=all
 Heaviside=NNP=all
 Heb=NNP=all
 Hebbel=NNP=all
@@ -17909,7 +18286,9 @@ Helikonhoogte=NNP=za # South Africa, placename?
 Helikonpark=NNP=za # South Africa, placename?
 Heliochrome=NNP=all
 Heliogabalus=NNP=all
+Heliolisk=NNP=all
 Heliopolis=NNP=all
+Helioptile=NNP=all
 Helios=NNP=all
 Heliozoa=NNP=all
 Helladic=JJ=all
@@ -18024,6 +18403,7 @@ Heraclidan=JJ=all
 Heraclitean=JJ=all
 Heracliteanism=noun_UN=all
 Heraclitus=NNP=all
+Heracross=NNP=all
 Herakleion=NNP=all
 Herakles=NNP=all
 Herald=NNP=all
@@ -18043,6 +18423,7 @@ Herculaneum=NNP=all
 Herculean=JJ=all
 Hercules=NNP=all
 Hercynian=JJ=all
+Herdier=NNP=all
 Herdwick=NNP=all
 Here=NNP=all
 Hereford=Hereford/NNP,Herefords/NNPS=all
@@ -18296,7 +18677,9 @@ Hippolyte=NNP=all
 Hippolytus=NNP=all
 Hippomenes=NNP=all
 Hippomere=NNP=za # South Africa, placename?
+Hippopotas=NNP=all
 Hipposideridae=NNP=all
+Hippowdon=NNP=all
 Hiram=NNP=all
 Hirohito=NNP=all
 Hiroshi=NNP=all
@@ -18331,6 +18714,9 @@ Hitesh=NNP=all
 Hitler=Hitler/NNP,Hitlers/NNPS=all
 Hitlerism=Hitlerism/NN:U,Hitlerism/NNP,Hitlerisms/NNPS=all
 Hitlerite=JJ=all
+Hitmonchan=NNP=all
+Hitmonlee=NNP=all
+Hitmontop=NNP=all
 Hitt=NNP=all
 Hittite=Hittite/NN:U,Hittite/NNP,Hittites/NNPS=all
 Hittite=JJ=all
@@ -18356,6 +18742,7 @@ Hluku=NNP=za # South Africa, placename?
 Hluleka=NNP=za # South Africa, placename?
 Hluvukani=NNP=za # South Africa, placename?
 Hlwahlwazi=NNP=za # South Africa, placename?
+Ho-Oh=NNP=all
 Ho=NNP=all
 HoMedics=NNP=all
 Hoad=NNP=all
@@ -18507,6 +18894,7 @@ Homoousian=JJ=all
 Homoptera=NNP=all
 Homs=NNP=all
 Honan=NNP=all
+Honchkrow=NNP=all
 Hond=NNP=all
 Honda=Honda/NNP,Hondas/NNPS=all
 Hondo=NNP=all
@@ -18516,6 +18904,7 @@ Honduranean=JJ=all
 Honduranian=JJ=all
 Honduras=NNP=all
 Honecker=NNP=all
+Honedge=NNP=all
 Honegger=NNP=all
 Honey=NNP=all
 Honeycomb=NNP=za # South Africa, placename?
@@ -18543,11 +18932,13 @@ Hooke=NNP=all
 Hooker=NNP=all
 Hookskate=NNP=za # South Africa, placename?
 Hoon=NNP=all
+Hoopa=NNP=all
 Hooper=NNP=all
 Hoopoe=NNP=za # South Africa, placename?
 Hoopstad=NNP=za # South Africa, placename?
 Hoosier=Hoosier/NNP,Hoosiers/NNPS=all
 Hooters=NNP=all
+Hoothoot=NNP=all
 Hooton=NNP=all
 Hoover=Hoover/NNP,Hoovers/NNPS=all
 Hooverville=Hooverville/NNP,Hoovervilles/NNPS=all
@@ -18567,6 +18958,7 @@ Hopkinton=NNP=all
 Hopland=NNP=za # South Africa, placename?
 Hopley=NNP=all
 Hopper=NNP=all
+Hoppip=NNP=all
 Horace=NNP=all
 Horacio=NNP=all
 Horatian=JJ=all
@@ -18588,6 +18980,7 @@ Hornsby=NNP=all
 Horowitz=NNP=all
 Horrocks=NNP=all
 Horsa=NNP=all
+Horsea=NNP=all
 Horseheads=NNP=all
 Horseshoe=NNP=za # South Africa, placename?
 Horsey=NNP=all
@@ -18625,6 +19018,9 @@ Houghton-le-Spring=NNP=all
 Houghton=NNP=all
 Houma=NNP=all
 Hound=NNP=all
+Houndoom=NNP=all
+Houndour=NNP=all
+Houndstone=NNP=all
 Hounslow=NNP=all
 Housatonic=NNP=all
 House=NNP=all
@@ -18750,6 +19146,7 @@ Hunnishness=NNP=all
 Hunspell=NNP=all
 Hunsrück=NNP=all
 Hunt=NNP=all
+Huntail=NNP=all
 Hunter=NNP=all
 Huntersville=NNP=all
 Huntingdon=NNP=all
@@ -18810,6 +19207,8 @@ Hyde=NNP=all
 Hydepark=NNP=za # South Africa, placename?
 Hyderabad=NNP=all
 Hydra=NNP=all
+Hydrapple=NNP=all
+Hydreigon=NNP=all
 Hydromys=NNP=all
 Hydrozoa=NNP=all
 Hydrus=NNP=all
@@ -18832,6 +19231,7 @@ Hyperborean=JJ=all
 Hyperion=NNP=all
 Hyperscreen=NNP=all
 Hyperwallet=NNP=all
+Hypno=NNP=all
 Hypnos=NNP=all
 HypoVereinsbank=NNP=all
 Hypodorian=JJ=all
@@ -19520,6 +19920,7 @@ Ifafi=NNP=za # South Africa, placename?
 Ifni=NNP=all
 Ifugao=NNP=all
 Igbo=Igbo/NN:U,Igbo/NNP,Igbo/NNPS,Igbos/NNPS,Igbo/NNS=all
+Igglybuff=NNP=all
 Iggy=NNP=all
 Iglesias=NNP=all
 Ignacio=NNP=all
@@ -19597,6 +19998,7 @@ Impalapark=NNP=za # South Africa, placename?
 Impendle=NNP=za # South Africa, placename?
 Imperial=Imperial/NNP,Imperials/NNPS=all
 Imphal=NNP=all
+Impidimp=NNP=all
 Imprimis=NNP=all
 Impumelelo=NNP=za # South Africa, placename?
 Imran=NNP=all
@@ -19617,6 +20019,8 @@ Incan=NNP=all
 Incarnation=NNP=all
 Inchanga=NNP=za # South Africa, placename?
 Inchon=NNP=all
+Incineroar=NNP=all
+Indeedee=NNP=all
 Independence=NNP=all
 Independent=Independent/NNP,Independents/NNPS=all
 Independent=JJ=all
@@ -19676,6 +20080,7 @@ IndyCar=NNP=all
 Ines=NNP=all
 Inessa=NNP=all
 Inez=NNP=all
+Infernape=NNP=all
 Infineon=NNP=all
 InfoWorld=NNP=all
 Infosys=NNP=all
@@ -19701,6 +20106,7 @@ Inhlazane=NNP=za # South Africa, placename?
 Injun=NNP=all
 Inkangala=NNP=za # South Africa, placename?
 Inkanyezi=NNP=za # South Africa, placename?
+Inkay=NNP=all
 Inkerman=NNP=all
 Inkomati=NNP=za # South Africa, placename?
 Inkscape=NNP=all
@@ -19724,6 +20130,7 @@ Instagrammer=noun=all
 Intabazwe=NNP=za # South Africa, placename?
 Intake=NNP=za # South Africa, placename?
 Intel=NNP=all
+Inteleon=NNP=all
 IntelliJ=NNP=all
 Intelsat=NNP=all
 InterContinental=NNP=all
@@ -19989,6 +20396,7 @@ Ivory=NNP=all
 Ivry-sur-Seine=NNP=all
 Ivy=Ivy/NNP,Ivies/NNPS=all
 Ivydale=NNP=za # South Africa, placename?
+Ivysaur=NNP=all
 Iwo=NNP=all
 Ixelles=NNP=all
 Ixion=Ixion/NNP,Ixia/NNPS=all
@@ -20296,6 +20704,7 @@ Janelle=NNP=all
 Janesville=NNP=all
 Janet=NNP=all
 Janette=NNP=all
+Jangmo-o=NNP=all
 Janhofmeyer=NNP=za # South Africa, placename?
 Janice=NNP=all
 Janiculan=JJ=all
@@ -20447,6 +20856,7 @@ Jehovistic=JJ=all
 Jehu=NNP=all
 Jekyll=NNP=all
 Jelena=NNP=all
+Jellicent=NNP=all
 Jellicoe=NNP=all
 Jem=NNP=all
 Jemappes=NNP=all
@@ -20553,6 +20963,7 @@ Jiangsu=NNP=all
 Jiangxi=NNP=all
 Jibuti=NNP=all
 Jidda=NNP=all
+Jigglypuff=NNP=all
 Jilin=NNP=all
 Jill=Jill/NNP,Jills/NNPS=all
 Jillian=NNP=all
@@ -20578,6 +20989,7 @@ Jinny=NNP=all
 Jinping=NNP=all
 Jio=NNP=all
 Jira=NNP=all
+Jirachi=NNP=all
 Jitendra=NNP=all
 Jitsi=NNP=all
 Jiutepec=NNP=all
@@ -20653,6 +21065,8 @@ Jolliet=NNP=all
 Jollyville=NNP=all
 Jolo=NNP=all
 Jolson=NNP=all
+Jolteon=NNP=all
+Joltik=NNP=all
 Jolène=NNP=all
 Jon=NNP=all
 Jonah=Jonah/NNP,Jonahs/NNPS=all
@@ -20823,6 +21237,7 @@ July=JULY/NNP,July/NNP,Julies/NNPS=all
 Jumanji=NNP=all
 Jumeirah=NNP=all
 Jumna=NNP=all
+Jumpluff=NNP=all
 Jun=NNP=all
 Jundiaí=NNP=all
 June=JUNE/NNP,June/NNP,Junes/NNPS=all
@@ -21056,6 +21471,8 @@ Kabega=NNP=za # South Africa, placename?
 Kabokweni=NNP=za # South Africa, placename?
 Kabuki=Kabuki/NNP,Kabukis/NNPS=all
 Kabul=NNP=all
+Kabuto=NNP=all
+Kabutops=NNP=all
 Kabyle=Kabyle/NN:U,Kabyle/NNP,Kabyles/NNPS=all
 Kabylia=NNP=all
 Kabylie=NNP=all
@@ -21063,6 +21480,7 @@ Kacey=NNP=all
 Kacper=NNP=all
 Kaczynski=NNP=all
 Kaczyński=NNP=all
+Kadabra=NNP=all
 Kadar=NNP=all
 Kaddish=Kaddish/NNP,Kaddishes/NNPS=all
 Kadiwéu=NNP=all
@@ -21104,6 +21522,7 @@ Kaitlin=NNP=all
 Kaitlyn=NNP=all
 Kaitlynn=NNP=all
 Kakamas=NNP=za # South Africa, placename?
+Kakuna=NNP=all
 Kalafi=NNP=za # South Africa, placename?
 Kalahari=NNP=all
 Kalamazoo=NNP=all
@@ -21183,6 +21602,7 @@ Kandinsky=NNP=all
 Kandy=NNP=all
 Kane=NNP=all
 Kaneohe=NNP=all
+Kangaskhan=NNP=all
 Kangchenjunga=NNP=all
 Kanhym=NNP=za # South Africa, placename?
 Kanishka=NNP=all
@@ -21265,7 +21685,9 @@ Karolyn=NNP=all
 Karos=NNP=za # South Africa, placename?
 Karp=NNP=all
 Karpad=NNP=za # South Africa, placename?
+Karrablast=NNP=all
 Karsten=NNP=all
+Kartana=NNP=all
 Karttikeya=NNP=all
 Karyn=NNP=all
 Karzai=NNP=all
@@ -21393,6 +21815,7 @@ Keaton=NNP=all
 Keats=NNP=all
 Keatsian=JJ=all
 Keble=NNP=all
+Kecleon=NNP=all
 Kedah=NNP=all
 Kediketse=NNP=za # South Africa, placename?
 Kedron=NNP=all
@@ -21423,6 +21846,7 @@ Keizer=NNP=all
 Kekkonen=NNP=all
 Kelantan=NNP=all
 Kelby=NNP=all
+Keldeo=NNP=all
 Kelebogile=NNP=za # South Africa, placename?
 Kelham=NNP=all
 Kelland=NNP=za # South Africa, placename?
@@ -21695,6 +22119,7 @@ Killian=NNP=all
 Killiecrankie=NNP=all
 Killigrew=NNP=all
 Kilmarnock=NNP=all
+Kilowattrel=NNP=all
 Kilpatrick=NNP=all
 Kilroy=NNP=all
 Kim=NNP=all
@@ -21713,8 +22138,10 @@ Kincardine=NNP=all
 Kinchinjunga=NNP=all
 Kindle=Kindle/NNP,Kindles/NNPS=all
 King=NNP=all
+Kingdra=NNP=all
 Kinghorn=NNP=all
 Kingklip=NNP=za # South Africa, placename?
+Kingler=NNP=all
 Kingman=NNP=all
 Kings=NNP=all
 Kingsburg=NNP=all
@@ -21769,6 +22196,7 @@ Kirkton=NNP=all
 Kirkuk=NNP=all
 Kirkwall=NNP=all
 Kirkwood=NNP=all
+Kirlia=NNP=all
 Kirov=NNP=all
 Kirovabad=NNP=all
 Kirovograd=NNP=all
@@ -21812,6 +22240,7 @@ Klagenfurt=NNP=all
 Klaipeda=NNP=all
 Klamath=Klamath/NNP,Klamaths/NNPS=all
 Klan=Klan/NNP,Klans/NNPS=all
+Klang=NNP=all
 Klansman=Klansman/NNP,Klansmen/NNPS=all
 Klapmuts=NNP=za # South Africa, placename?
 Klaproth=NNP=all
@@ -21819,8 +22248,11 @@ Klarna=NNP=all
 Klaus=NNP=all
 Klausenburg=NNP=all
 Klawer=NNP=za # South Africa, placename?
+Klawf=NNP=all
+Kleavor=NNP=all
 Klee=NNP=all
 Kleenex=Kleenex/NNP,Kleenexes/NNPS=all
+Klefki=NNP=all
 Klein-drakenstein=NNP=za # South Africa, placename?
 Klein-nederburg=NNP=za # South Africa, placename?
 Klein=NNP=all
@@ -21844,6 +22276,8 @@ Kleurlingwoonbuurt=NNP=za # South Africa, placename?
 Klimt=NNP=all
 Kline=NNP=all
 Klingon=Klingon/NN:U,Klingon/NNP,Klingons/NNPS=all
+Klink=NNP=all
+Klinklang=NNP=all
 Klipbankfontein=NNP=za # South Africa, placename?
 Klipbou=NNP=za # South Africa, placename?
 Klipdale=NNP=za # South Africa, placename?
@@ -21929,6 +22363,7 @@ Koestler=NNP=all
 Koevoet=NNP=za # South Africa, placename?
 Koffiefontein=NNP=za # South Africa, placename?
 Koffiekraal=NNP=za # South Africa, placename?
+Koffing=NNP=all
 Kofi=NNP=all
 Kofu=NNP=all
 Kogan=NNP=all
@@ -21964,6 +22399,7 @@ Kolonade=NNP=za # South Africa, placename?
 Koloti=NNP=za # South Africa, placename?
 Kolyma=NNP=all
 Komaggas=NNP=za # South Africa, placename?
+Komala=NNP=all
 Komani=NNP=za # South Africa, placename?
 Komati=NNP=all
 Komatipoort=NNP=za # South Africa, placename?
@@ -21973,6 +22409,7 @@ Komkhulu=NNP=za # South Africa, placename?
 Kommadagga=NNP=za # South Africa, placename?
 Kommetjie=NNP=za # South Africa, placename?
 Kommisiedrif=NNP=za # South Africa, placename?
+Kommo-o=NNP=all
 Kommunarsk=NNP=all
 Komodo=NNP=all
 Komsomol=NNP=all
@@ -22003,6 +22440,7 @@ Kopi=NNP=za # South Africa, placename?
 Kopp=NNP=all
 Koppel=NNP=all
 Koppies=NNP=za # South Africa, placename?
+Koraidon=NNP=all
 Koran=Koran/NNP,Korans/NNPS=all
 Koranic=JJ=all
 Kordofan=NNP=all
@@ -22052,6 +22490,7 @@ Kraaipan=NNP=za # South Africa, placename?
 Kraalhoek=NNP=za # South Africa, placename?
 Kraankuil=NNP=za # South Africa, placename?
 Kraankuilstasie=NNP=za # South Africa, placename?
+Krabby=NNP=all
 Kraepelin=NNP=all
 Kraft=NNP=all
 Kragbron=NNP=za # South Africa, placename?
@@ -22095,6 +22534,8 @@ Kresge=NNP=all
 Kreupelbosch=NNP=za # South Africa, placename?
 Kreuzberg=NNP=all
 Krewson=NNP=all
+Kricketot=NNP=all
+Kricketune=NNP=all
 Krieger=NNP=all
 Kriel=NNP=za # South Africa, placename?
 Kriemhild=NNP=all
@@ -22129,6 +22570,7 @@ Kroc=NNP=all
 Kroemer=NNP=all
 Kroger=NNP=all
 Krogstad=NNP=all
+Krokorok=NNP=all
 Krom=NNP=za # South Africa, placename?
 Kromdraai=NNP=za # South Africa, placename?
 Kromerville=NNP=za # South Africa, placename?
@@ -22138,6 +22580,7 @@ Kromme=NNP=za # South Africa, placename?
 Kronecker=NNP=all
 Kronos=NNP=all
 Kronstadt=NNP=all
+Krookodile=NNP=all
 Kroondal=NNP=za # South Africa, placename?
 Kroonheuwel=NNP=za # South Africa, placename?
 Kroonstad=NNP=za # South Africa, placename?
@@ -22167,6 +22610,7 @@ Ku=NNP=all
 Kuala=NNP=all
 Kuban=NNP=all
 Kubernetes=NNP=all
+Kubfu=NNP=all
 Kubiak=NNP=all
 Kuboes=NNP=za # South Africa, placename?
 Kubrick=NNP=all
@@ -22380,6 +22824,7 @@ Kylo=NNP=all
 Kymric=JJ=all
 Kynewulf=NNP=all
 Kyocera=NNP=all
+Kyogre=NNP=all
 Kyoto=NNP=all
 Kyra=NNP=all
 Kyran=NNP=all
@@ -22389,6 +22834,7 @@ Kyriakos=NNP=all
 Kyrios=NNP=all
 Kythera=NNP=all
 Kyuhyun=NNP=all
+Kyurem=NNP=all
 Kyushu=NNP=all
 Kármán=NNP=all
 Kölsch=NNP=all
@@ -22852,6 +23298,7 @@ Laibach=NNP=all
 Laing=NNP=all
 Laingsburg=NNP=za # South Africa, placename?
 Laingville=NNP=za # South Africa, placename?
+Lairon=NNP=all
 Lais=NNP=all
 Laius=NNP=all
 Lajos=NNP=all
@@ -22910,6 +23357,7 @@ Lamott=NNP=all
 Lampard=NNP=all
 Lampasas=NNP=all
 Lampedusa=NNP=all
+Lampent=NNP=all
 Lana=NNP=all
 Lanai=NNP=all
 Lanark=NNP=all
@@ -22929,6 +23377,7 @@ Landis=NNP=all
 Lando=NNP=all
 Landon=NNP=all
 Landor=NNP=all
+Landorus=NNP=all
 Landover=NNP=all
 Landowska=NNP=all
 Landry=NNP=all
@@ -22984,6 +23433,7 @@ Lansing=NNP=all
 Lansky=NNP=all
 Lanternbelly=NNP=za # South Africa, placename?
 Lanti=NNP=all
+Lanturn=NNP=all
 Lanxess=NNP=all
 Lanyon=NNP=all
 Lanza=NNP=all
@@ -23031,6 +23481,8 @@ Lars=NNP=all
 Larsen=NNP=all
 Larson=NNP=all
 Larsson=NNP=all
+Larvesta=NNP=all
+Larvitar=NNP=all
 Larwood=NNP=all
 Lascaux=NNP=all
 Lashio=NNP=all
@@ -23048,6 +23500,7 @@ Lateesha=NNP=all
 Lateran=NNP=all
 Latham=NNP=all
 Lathrop=NNP=all
+Latias=NNP=all
 Latimer=NNP=all
 Latin-American=JJ=all
 Latin-American=NNP=all
@@ -23064,6 +23517,7 @@ Latinize|Latinise=verb=us,ca,gb|gb,au,nz,za
 Latino=Latino/NNP,Latinos/NNPS=all
 Latinx=JJ=all
 Latinx=Latinx/NNP,Latinx/NNPS,Latinxs/NNPS=all
+Latios=NNP=all
 Latisha=NNP=all
 Latium=NNP=all
 Latona=NNP=all
@@ -23167,6 +23621,7 @@ Leachville=NNP=za # South Africa, placename?
 Leacock=NNP=all
 Lead=NNP=all
 Leadbelly=NNP=all
+Leafeon=NNP=all
 Leaglen=NNP=za # South Africa, placename?
 Leah=NNP=all
 Leaholm=NNP=za # South Africa, placename?
@@ -23185,6 +23640,7 @@ Lear=NNP=all
 Learjet=NNP=all
 Leary=NNP=all
 Leatheroid=NNP=all
+Leavanny=NNP=all
 Leavenworth=NNP=all
 Leavis=NNP=all
 Leawood=NNP=all
@@ -23206,13 +23662,16 @@ Lebrun=NNP=all
 Lecce=NNP=all
 Lech=NNP=all
 Lechner=NNP=all
+Lechonk=NNP=all
 Leckie=NNP=all
 Lecky=NNP=all
 Leclerc=NNP=all
 Leda=NNP=all
 Lederberg=NNP=all
 Ledgeview=NNP=all
+Ledian=NNP=all
 Ledig=NNP=za # South Africa, placename?
+Ledyba=NNP=all
 Lee=NNP=all
 Leeds=NNP=all
 Leelanau=NNP=all
@@ -23537,6 +23996,8 @@ Lichfield=NNP=all
 Lichtenberg=NNP=all
 Lichtenburg=NNP=za # South Africa, placename?
 Lichtenstein=NNP=all
+Lickilicky=NNP=all
+Lickitung=NNP=all
 Liddell=NNP=all
 Lidgetton=NNP=za # South Africa, placename?
 Lidia=NNP=all
@@ -23552,6 +24013,7 @@ Liechtenstein=NNP=all
 Liechtensteiner=Liechtensteiner/NNP,Liechtensteiners/NNPS=all
 Liege=NNP=all
 Liegnitz=NNP=all
+Liepard=NNP=all
 Liestal=NNP=all
 Lietuva=NNP=all
 Lieut=NNP=all
@@ -23568,6 +24030,7 @@ Likhohlong=NNP=za # South Africa, placename?
 Likole=NNP=za # South Africa, placename?
 Lila=NNP=all
 Lilburne=NNP=all
+Lileep=NNP=all
 Lili=NNP=all
 Lilia=NNP=all
 Liliaceae=NNP=all
@@ -23586,6 +24049,8 @@ Lille=NNP=all
 Lillian=NNP=all
 Lilliana=NNP=all
 Lillie=NNP=all
+Lilligant=NNP=all
+Lillipup=NNP=all
 Lilliput=NNP=all
 Lilliputian=JJ=all
 Lilliputian=noun=all
@@ -23671,6 +24136,7 @@ Linnean=JJ=all
 Linnell=NNP=all
 Linnette=NNP=all
 Linnies=NNP=za # South Africa, placename?
+Linoone=NNP=all
 Linotype=Linotype/NNP,Linotypes/NNPS=all
 Linton=NNP=all
 Linus=NNP=all
@@ -23720,6 +24186,8 @@ Lithuania=NNP=all
 Lithuanian=JJ=all
 Lithuanian=Lithuanian/NN:U,Lithuanian/NNP,Lithuanians/NNPS=all
 Litjelembube=NNP=za # South Africa, placename?
+Litleo=NNP=all
+Litten=NNP=all
 Little=NNP=all
 Littlefield=NNP=all
 Littlefillan=NNP=za # South Africa, placename?
@@ -23728,6 +24196,7 @@ Littlewood=NNP=all
 Littman=NNP=all
 Litton=NNP=all
 Litvinov=NNP=all
+Litwick=NNP=all
 Liu=NNP=all
 Liv=NNP=all
 Livermore=NNP=all
@@ -23817,6 +24286,7 @@ Lois=NNP=all
 Lojban=JJ=all
 Lojban=NNP=all
 Loki=NNP=all
+Lokix=NNP=all
 Lola=NNP=all
 Lolita=Lolita/NNP,Lolitas/NNPS=all
 Lolland=NNP=all
@@ -23834,6 +24304,7 @@ Lombardo=NNP=all
 Lombardy=NNP=all
 Lombok=NNP=all
 Lomborg=NNP=all
+Lombre=NNP=all
 Lombrosian=JJ=all
 Lombroso=NNP=all
 Lome=NNP=all
@@ -23878,6 +24349,7 @@ LoopNet=NNP=all
 Lopez=NNP=all
 Loporung=NNP=za # South Africa, placename?
 Lopressor=NNP=all
+Lopunny=NNP=all
 Lora=NNP=all
 Lorain=NNP=all
 Loraine=NNP=all
@@ -23915,6 +24387,7 @@ Losasaneng=NNP=za # South Africa, placename?
 Loskop=NNP=za # South Africa, placename?
 Lot=NNP=all
 Lota=NNP=all
+Lotad=NNP=all
 Lothair=NNP=all
 Lothario=Lothario/NNP,Lotharios/NNPS=all
 Lotharios=NNPS=all
@@ -23928,6 +24401,7 @@ Lotusville=NNP=za # South Africa, placename?
 Lotze=NNP=all
 Lou=NNP=all
 Loudon=NNP=all
+Loudred=NNP=all
 Louella=NNP=all
 Loughlin=NNP=all
 Louie=NNP=all
@@ -24007,6 +24481,7 @@ Luca=NNP=all
 Lucan=JJ=all
 Lucan=NNP=all
 Lucania=NNP=all
+Lucario=NNP=all
 Lucas=NNP=all
 Lucasfilm=NNP=all
 Lucca=NNP=all
@@ -24046,6 +24521,7 @@ Luddite=Luddite/NNP,Luddites/NNPS=all
 Ludditism=noun_UN=all
 Ludendorff=NNP=all
 Ludhiana=NNP=all
+Ludicolo=NNP=all
 Ludington=NNP=all
 Ludivine=NNP=all
 Ludiza=NNP=za # South Africa, placename?
@@ -24071,6 +24547,7 @@ Lugano=NNP=all
 Lugansk=NNP=all
 Lugar=NNP=all
 Luger=Luger/NNP,Lugers/NNPS=all
+Lugia=NNP=all
 Lugo=NNP=all
 Lugosi=NNP=all
 Lugwijini=NNP=za # South Africa, placename?
@@ -24107,12 +24584,15 @@ Lumberton=NNP=all
 Lumier=NNP=za # South Africa, placename?
 Lumiere=NNP=all
 Luminal=NNP=all
+Lumineon=NNP=all
 Lumku=NNP=za # South Africa, placename?
 Lumley=NNP=all
 Lumpkin=NNP=all
 Lumpur=NNP=all
 Lumumba=NNP=all
 Luna=NNP=all
+Lunala=NNP=all
+Lunatone=NNP=all
 Lund-MacKay=NNP=all
 Lund=NNP=all
 Lundberg=NNP=all
@@ -24136,6 +24616,7 @@ Lupin=NNP=all
 Lupindo=NNP=za # South Africa, placename?
 Lupita=NNP=all
 Lupus=NNP=all
+Lurantis=NNP=all
 Lurasheni=NNP=za # South Africa, placename?
 Lurie=NNP=all
 Lurwayizo=NNP=za # South Africa, placename?
@@ -24165,6 +24646,7 @@ Lutsk=NNP=all
 Lutterell=NNP=all
 Lutyens=NNP=all
 Lutzville=NNP=za # South Africa, placename?
+Luvdisc=NNP=all
 Luvuvhu=NNP=za # South Africa, placename?
 Luwian=JJ=all
 Lux=NNP=all
@@ -24173,10 +24655,12 @@ Luxembourger=Luxembourger/NNP,Luxembourgers/NNPS=all
 Luxembourgian=JJ=all
 Luxembourgian=noun=all
 Luxemburger=Luxemburger/NNP,Luxemburgers/NNPS=all
+Luxio=NNP=all
 Luxmi=NNP=za # South Africa, placename?
 Luxolweni=NNP=za # South Africa, placename?
 Luxor=NNP=all
 Luxottica=NNP=all
+Luxray=NNP=all
 Luyengweni=NNP=za # South Africa, placename?
 Luyoloville=NNP=za # South Africa, placename?
 Luz=NNP=all
@@ -24194,6 +24678,7 @@ Lyall=NNP=all
 Lyallpur=NNP=all
 Lyanna=NNP=all
 Lyautey=NNP=all
+Lycanroc=NNP=all
 Lycaon=NNP=all
 Lycaonia=NNP=all
 Lycia=NNP=all
@@ -24248,6 +24733,7 @@ Lyonnesse=NNP=all
 Lyons=NNP=all
 Lyra=NNP=all
 Lysander=NNP=all
+Lysanne=NNP=all
 Lysenko=NNP=all
 Lysias=NNP=all
 Lysimachus=NNP=all
@@ -24924,6 +25410,7 @@ Mach=Mach/NNP,Machs/NNPS=all
 Machabees=NNP=all
 Machado=NNP=all
 Machadodorp=NNP=za # South Africa, placename?
+Machamp=NNP=all
 Machen=NNP=all
 Machiavelli=NNP=all
 Machiavellian=JJ=all
@@ -24933,6 +25420,8 @@ Machiavellianly=RB=all
 Machibi=NNP=za # South Africa, placename?
 Machibisa=NNP=za # South Africa, placename?
 Machmeter=Machmeter/NNP,Machmeters/NNPS=all
+Machoke=NNP=all
+Machop=NNP=all
 Maciej=NNP=all
 Macintosh=NNP=all
 Mack=NNP=all
@@ -25051,12 +25540,15 @@ Magallanes=NNP=all
 Magana=NNP=all
 Magaweni=NNP=za # South Africa, placename?
 Magaña=NNP=all
+Magby=NNP=all
+Magcargo=NNP=all
 Magda=NNP=all
 Magdalena=NNP=all
 Magdalene=NNP=all
 Magdalenian=JJ=all
 Magdalenian=NNP=all
 Magdeburg=NNP=all
+Magearna=NNP=all
 Magelembe=NNP=za # South Africa, placename?
 Magellan=NNP=all
 Magellanic=NNP=all
@@ -25069,13 +25561,18 @@ Maghrib=NNP=all
 Magi=NNP=all
 Magian=JJ=all
 Magidela=NNP=za # South Africa, placename?
+Magikarp=NNP=all
 Magill=NNP=all
 Maginindane=NNP=za # South Africa, placename?
 Maginot=NNP=all
 Maglemosean=JJ=all
 Maglemosian=JJ=all
 Maglite=Maglite/NNP,Maglites/NNPS=all
+Magmar=NNP=all
+Magmortar=NNP=all
 Magna=NNP=all
+Magneton=NNP=all
+Magnezone=NNP=all
 Magnificat=Magnificat/NNP,Magnificats/NNPS=all
 Magnitogorsk=NNP=all
 Magnolia=NNP=all
@@ -25164,6 +25661,7 @@ Maier=NNP=all
 Maijane=NNP=za # South Africa, placename?
 Mailchimp=NNP=all
 Maile=NNP=za # South Africa, placename?
+Maillard=NNP=all
 Maillol=NNP=all
 Mailulu=NNP=za # South Africa, placename?
 Maimonidean=JJ=all
@@ -25233,6 +25731,7 @@ Makosha=NNP=za # South Africa, placename?
 Makovich=NNP=all
 Maksym=NNP=all
 Makububele=NNP=za # South Africa, placename?
+Makuhita=NNP=all
 Makuleke=NNP=za # South Africa, placename?
 Makwababa=NNP=za # South Africa, placename?
 Makwantini=NNP=za # South Africa, placename?
@@ -25250,6 +25749,7 @@ Malagasy=Malagasy/NN:U,Malagasy/NNP,Malagasies/NNPS=all
 Malakand=NNP=all
 Malala=NNP=all
 Malamala=NNP=za # South Africa, placename?
+Malamar=NNP=all
 Malamud=NNP=all
 Malamulele=NNP=za # South Africa, placename?
 Malang=NNP=all
@@ -25344,6 +25844,7 @@ Mammalia=NNP=all
 Mammon=Mammon/NNP,Mammons/NNPS=all
 Mamogaleskraal=NNP=za # South Africa, placename?
 Mamore=NNP=all
+Mamoswine=NNP=all
 Mamoudzou=NNP=all
 Mampe=NNP=za # South Africa, placename?
 Mamre=NNP=za # South Africa, placename?
@@ -25356,6 +25857,7 @@ Manama=NNP=all
 Manamakgotheng=NNP=za # South Africa, placename?
 Manamela=NNP=za # South Africa, placename?
 Mananga=NNP=za # South Africa, placename?
+Manaphy=NNP=all
 Manassas=NNP=all
 Manasseh=NNP=all
 Manaus=NNP=all
@@ -25387,12 +25889,14 @@ Mandelbulb=noun=all
 Mandell=NNP=all
 Mandeni=NNP=za # South Africa, placename?
 Mandeville=NNP=all
+Mandibuzz=NNP=all
 Mandileni=NNP=za # South Africa, placename?
 Mandlankala=NNP=za # South Africa, placename?
 Mandor=NNP=za # South Africa, placename?
 Mandrake=NNP=za # South Africa, placename?
 Mandurah=NN:U=all
 Mandy=NNP=all
+Manectric=NNP=all
 Manenberg=NNP=za # South Africa, placename?
 Manenzhe=NNP=za # South Africa, placename?
 Manes=NNP=all
@@ -25425,6 +25929,7 @@ Manitowoc=NNP=all
 Manizales=NNP=all
 Manjusha=NNP=all
 Mankato=NNP=all
+Mankey=NNP=all
 Mankurwane=NNP=za # South Africa, placename?
 Mankweng=NNP=za # South Africa, placename?
 Manley=NNP=all
@@ -25451,10 +25956,12 @@ Mantell=NNP=all
 Manthata=NNP=za # South Africa, placename?
 Manthestad=NNP=za # South Africa, placename?
 Manthinta=NNP=za # South Africa, placename?
+Mantine=NNP=all
 Mantinea=NNP=all
 Mantle=NNP=all
 Manton=NNP=all
 Mantsho=NNP=za # South Africa, placename?
+Mantyke=NNP=all
 Manu=NNP=all
 Manubi=NNP=za # South Africa, placename?
 Manuel=NNP=all
@@ -25519,6 +26026,7 @@ Maracaibo=NNP=all
 Maracanda=NNP=all
 Maracanã=NNP=all
 Maracay=NNP=all
+Maractus=NNP=all
 Maradona=NNP=all
 Marafe=NNP=za # South Africa, placename?
 Marais=NNP=za # South Africa, placename?
@@ -25568,6 +26076,8 @@ Marcy=NNP=all
 Marden=NNP=all
 Mardi=NNP=all
 Marduk=NNP=all
+Mareanie=NNP=all
+Mareep=NNP=all
 Mareetsane=NNP=za # South Africa, placename?
 Marek=NNP=all
 Marengo=NNP=all
@@ -25618,6 +26128,7 @@ Marievlei=NNP=za # South Africa, placename?
 Marigot=NNP=all
 Marikana=NNP=za # South Africa, placename?
 Marilee=NNP=all
+Marill=NNP=all
 Marilla=NNP=all
 Marilyn=NNP=all
 Marin=NNP=all
@@ -25702,6 +26213,7 @@ Maroelana=NNP=za # South Africa, placename?
 Marokolong=NNP=za # South Africa, placename?
 Maronite=Maronite/NNP,Maronites/NNPS=all
 Maros=NNP=all
+Marowak=NNP=all
 Marple=NNP=all
 Marquand=NNP=all
 Marquesas=NNP=all
@@ -25724,12 +26236,14 @@ Marseillaise=Marseillaise/NNP,Marseillaises/NNPS=all
 Marseille=Marseille/NNP,Marseilles/NNPS=all
 Marsh=NNP=all
 Marsha=NNP=all
+Marshadow=NNP=all
 Marshal=NNP=all
 Marshall=NNP=all
 Marshallese=JJ=all
 Marshallese=Marshallese/NN:U,Marshallese/NNPS=all
 Marshalltown=NNP=all
 Marshmello=NNP=all
+Marshtomp=NNP=all
 Marston=NNP=all
 Marszałek=NNP=all
 Marta=NNP=all
@@ -25824,6 +26338,7 @@ Mashamba=NNP=za # South Africa, placename?
 Mashashane=NNP=za # South Africa, placename?
 Mashau=NNP=za # South Africa, placename?
 Mashhad=NNP=all
+Mashiff=NNP=all
 Mashinga=NNP=za # South Africa, placename?
 Mashishimale=NNP=za # South Africa, placename?
 Mashishing=NNP=za # South Africa, placename?
@@ -25856,6 +26371,7 @@ Masonville=NNP=all
 Masorete=Masorete/NNP,Masoretes/NNPS=all
 Masoretic=JJ=all
 Masqat=NNP=all
+Masquerain=NNP=all
 Masri=NNP=all
 Massa=NNP=all
 Massachusetts=NNP=all
@@ -26015,6 +26531,8 @@ Maury=NNP=all
 Maurya=NNP=all
 Mauryan=JJ=all
 Mauser=NNP=all
+Maushold=NNP=all
+Mausolus=NNP=all
 Mauthausen=NNP=all
 Mautse=NNP=za # South Africa, placename?
 Mauá=NNP=all
@@ -26453,11 +26971,13 @@ Median=Median/NNP,Medians/NNPS=all
 Medicaid=Medicaid/NNP,Medicaids/NNPS=all
 Medicare=Medicare/NNP,Medicares/NNPS=all
 Medicean=JJ=all
+Medicham=NNP=all
 Medici=NNP=all
 Medina=NNP=all
 Medit=NNP=all
 Mediterranean=JJ=all
 Mediterranean=Mediterranean/NNP,Mediterraneans/NNPS=all
+Meditite=NNP=all
 MedlinePlus=NNP=all
 Medrano=NNP=all
 Medtronic=NNP=all
@@ -26478,6 +26998,7 @@ Megachiroptera=NNP=all
 Megaera=NNP=all
 Megamillions=NNP=za # South Africa, placename?
 Megan=NNP=all
+Meganium=NNP=all
 Meganthropus=NNP=all
 Megara=NNP=all
 Megarian=JJ=all
@@ -26538,13 +27059,16 @@ Mellon=NNP=all
 Mellor=NNP=all
 Mellowwood=NNP=za # South Africa, placename?
 Melly=NNP=all
+Melmetal=NNP=all
 Melmoth=NNP=za # South Africa, placename?
 Melodie=NNP=all
 Meloding=NNP=za # South Africa, placename?
 Melody=NNP=all
+Meloetta=NNP=all
 Melon=NNP=za # South Africa, placename?
 Melpomene=NNP=all
 Melrose=NNP=all
+Meltan=NNP=all
 Melton=NNP=all
 Meltonwold=NNP=za # South Africa, placename?
 Melva=NNP=all
@@ -26601,6 +27125,8 @@ Mentos=NNP=all
 Menuhin=NNP=all
 Menzies=NNP=all
 Menéndez=NNP=all
+Meowscarada=NNP=all
+Meowstic=NNP=all
 Mephisto=Mephisto/NNP,Mephistos/NNPS=all
 Mephistophelean=JJ=all
 Mephistopheles=NNP=all
@@ -26687,6 +27213,7 @@ Mesopotamian=JJ=all
 Mesopotamian=Mesopotamian/NNP,Mesopotamians/NNPS=all
 Mesozoic=JJ=all
 Mesozoic=NNP=all
+Mesprit=NNP=all
 Messalina=NNP=all
 Messapian=NNP=all
 Messeigneurs=NNP=all
@@ -26702,8 +27229,11 @@ Messidor=NNP=all
 Messina=NNP=all
 Messing=NNP=all
 Meta=NNP=all
+Metagross=NNP=all
 Metairie=NNP=all
 Metallica=NNP=all
+Metang=NNP=all
+Metapod=NNP=all
 Metatheria=NNP=all
 Metchnikoff=NNP=all
 Methedrine=NNP=all
@@ -26731,6 +27261,7 @@ Metzger=NNP=all
 Meurthe-et-Moselle=NNP=all
 Meuse=NNP=all
 Mevamhlophe=NNP=za # South Africa, placename?
+Mew=NNP=all
 Mexicali=NNP=all
 Mexican=JJ=all
 Mexican=Mexican/NNP,Mexicans/NNPS=all
@@ -26857,10 +27388,13 @@ Midwest=NNP=all
 Midwesterner=Midwesterner/NNP,Midwesterners/NNPS=all
 Midwood=NNP=all
 Miederpark=NNP=za # South Africa, placename?
+Mienfoo=NNP=all
+Mienshao=NNP=all
 Mier=NNP=za # South Africa, placename?
 Mifflin=NNP=all
 Miga=NNP=za # South Africa, placename?
 Migdol=NNP=za # South Africa, placename?
+Mightyena=NNP=all
 Mignon=NNP=all
 Miguel=NNP=all
 Mihail=NNP=all
@@ -26889,6 +27423,7 @@ Milanese=NNP=all
 Milano=NNP=all
 Milanov=JJ=all
 Milburn=NNP=all
+Milcery=NNP=all
 Mildred=NNP=all
 Mildura=NNP=all
 Mile=NNP=all
@@ -26940,10 +27475,12 @@ Milnerton=NNP=za # South Africa, placename?
 Milo=NNP=all
 Milos=NNP=all
 Milosevic=NNP=all
+Milotic=NNP=all
 Miloš=NNP=all
 Milpitas=NNP=all
 Milquetoast=Milquetoast/NNP,Milquetoasts/NNPS=all
 Milson=NNP=all
+Miltank=NNP=all
 Miltiades=NNP=all
 Milton=NNP=all
 Miltonian=JJ=all
@@ -26954,12 +27491,14 @@ Milwaukie=NNP=all
 Mimamsa=NNP=all
 Mimas=NNP=all
 Mimi=NNP=all
+Mimikyu=NNP=all
 Mimir=NNP=all
 Min=NNP=all
 Mina=NNP=all
 Minamoto=NNP=all
 Minardi=NNP=all
 Minatitlán=NNP=all
+Minccino=NNP=all
 Minch=NNP=all
 Mindalore=NNP=za # South Africa, placename?
 Mindanao=NNP=all
@@ -26983,6 +27522,7 @@ Minho=NNP=all
 Mini-clingfish=NNP=za # South Africa, placename?
 Mini-knob=NNP=za # South Africa, placename?
 Mini=NNP=all
+Minior=NNP=all
 Minié=NNP=all
 Minn=NNP=all
 Minna=NNP=all
@@ -27007,6 +27547,7 @@ Minstrel=NNP=za # South Africa, placename?
 Mint=Mint/NNP,Mints/NNPS=all
 Minton=Minton/NNP,Minton/NNPS=all
 Minuit=NNP=all
+Minun=NNP=all
 Minuteman=NNP=all
 Miocene=JJ=all
 Miocene=NNP=all
@@ -27030,6 +27571,7 @@ Miriam=NNP=all
 Miroslaw=NNP=all
 Miró=NNP=all
 Miscellaneous=NNP=za # South Africa, placename?
+Misdreavus=NNP=all
 Miseno=NNP=all
 Misgund=NNP=za # South Africa, placename?
 Misha=NNP=all
@@ -27043,6 +27585,7 @@ Mishnic=JJ=all
 Mishnical=JJ=all
 Mishra=NNP=all
 Miskolc=NNP=all
+Mismagius=NNP=all
 Missionlands=NNP=za # South Africa, placename?
 Missionvale=NNP=za # South Africa, placename?
 Mississauga=NNP=all
@@ -27160,6 +27703,7 @@ Mobeni=NNP=za # South Africa, placename?
 Mobile=NNP=all
 Mobileye=NNP=all
 Mobley=NNP=all
+Mobosstidd=NNP=all
 Mobutu=NNP=all
 Moby=NNP=all
 Mocambique=NNP=all
@@ -27314,6 +27858,7 @@ Molotov=NNP=all
 Molteno=NNP=za # South Africa, placename?
 Moltke=NNP=all
 Molton=NNP=all
+Moltres=NNP=all
 Molucca=Molucca/NNP,Moluccas/NNPS=all
 Molweni=NNP=za # South Africa, placename?
 Mombane=NNP=za # South Africa, placename?
@@ -27351,6 +27896,7 @@ Monera=NNP=all
 Monessen=NNP=all
 Monet=NNP=all
 Moneyball=NNP=all
+Monferno=NNP=all
 Mongo=NNP=za # South Africa, placename?
 MongoDB=NNP=all
 Mongol=JJ=all
@@ -27533,6 +28079,7 @@ Morelia=NNP=all
 Morelig=NNP=za # South Africa, placename?
 Morell=NNP=all
 Morelos=NNP=all
+Morelull=NNP=all
 Moreno=NNP=all
 Moreskof=NNP=za # South Africa, placename?
 Moreson=NNP=za # South Africa, placename?
@@ -27549,6 +28096,7 @@ Morgen=NNP=all
 Morgenster=NNP=za # South Africa, placename?
 Morgenthaler=NNP=all
 Morgenzon=NNP=za # South Africa, placename?
+Morgrem=NNP=all
 Moria=NNP=all
 Moriarty=NNP=all
 Morin=NNP=all
@@ -27575,6 +28123,7 @@ Moroke=NNP=za # South Africa, placename?
 Morokweng=NNP=za # South Africa, placename?
 Morolong=NNP=za # South Africa, placename?
 Moroni=NNP=all
+Morpeko=NNP=all
 Morphean=JJ=all
 Morpheus=NNP=all
 Morphix=NNP=za # South Africa, placename?
@@ -27636,6 +28185,7 @@ Moteti=NNP=za # South Africa, placename?
 Motherwell=NNP=all
 Mothibistad=NNP=za # South Africa, placename?
 Mothibistat=NNP=za # South Africa, placename?
+Mothim=NNP=all
 Mothotlung=NNP=za # South Africa, placename?
 Motlhabe=NNP=za # South Africa, placename?
 Motlhabeng=NNP=za # South Africa, placename?
@@ -27771,8 +28321,11 @@ MuckRock=NNP=all
 Muckleneuk=NNP=za # South Africa, placename?
 Mucomyst=NNP=all
 Mudabula=NNP=za # South Africa, placename?
+Mudbray=NNP=all
 Muden=NNP=za # South Africa, placename?
 Mudimeli=NNP=za # South Africa, placename?
+Mudkip=NNP=all
+Mudsdale=NNP=all
 Mudéjar=NNP=all
 Mudéjares=NNP=all
 Mueller=NNP=all
@@ -27796,6 +28349,7 @@ Muire=NNP=all
 Muirhead=NNP=all
 Muizenberg=NNP=za # South Africa, placename?
 Mujeeb=NNP=all
+Muk=NNP=all
 Mukden=NNP=all
 Mukesh=NNP=all
 Mukherjee=NNP=all
@@ -27829,6 +28383,7 @@ Mumbai=NNP=all
 Mumford=NNP=all
 Munch=NNP=all
 Munchausen=NNP=all
+Munchlax=NNP=all
 Muncie=NNP=all
 Munda=NNP=all
 Mundelein=NNP=all
@@ -27838,7 +28393,9 @@ Mungo=NNP=all
 Mungomani=NNP=za # South Africa, placename?
 Munhall=NNP=all
 Munich=NNP=all
+Munkidori=NNP=all
 Munn=NNP=all
+Munna=NNP=all
 Munnik=NNP=za # South Africa, placename?
 Munnikville=NNP=za # South Africa, placename?
 Munro=Munro/NNP,Munros/NNPS=all
@@ -27863,6 +28420,7 @@ Muriel=NNP=all
 Murielle=NNP=all
 Murillo=NNP=all
 Murkowski=NNP=all
+Murkrow=NNP=all
 Murmansk=NNP=all
 Murphy=Murphy/NNP,Murphies/NNPS=all
 Murray=NNP=all
@@ -27881,6 +28439,7 @@ Muscovitic=JJ=all
 Muscovy=NNP=all
 Muse=NNP=all
 Musgrove=NNP=all
+Musharna=NNP=all
 Musharraf=NNP=all
 Mushung=NNP=za # South Africa, placename?
 Mushwelldale=NNP=za # South Africa, placename?
@@ -28457,6 +29016,8 @@ Nablus=NNP=all
 Nabokov=NNP=all
 Nabonidus=NNP=all
 Naboomspruit=NNP=za # South Africa, placename?
+Nacli=NNP=all
+Naclstack=NNP=all
 Nada=NNP=all
 Nadab=NNP=all
 Nadal=NNP=all
@@ -28471,6 +29032,7 @@ Nadler=NNP=all
 Nadya=NNP=all
 Naga=NNP=all
 Nagaland=NNP=all
+Naganadel=NNP=all
 Nagano=NNP=all
 Nagar=NNP=all
 Nagari=NNP=all
@@ -28609,6 +29171,7 @@ Nationalist=Nationalist/NNP,Nationalists/NNPS=all
 Nations=NNP=all # United Nations (singular)
 Nativity=NNP=all
 Nats=NNP=za # South Africa, placename?
+Natu=NNP=all
 Naturena=NNP=za # South Africa, placename?
 Naucalpan=NNP=all
 Naucratis=NNP=all
@@ -28703,6 +29266,7 @@ Nebuchadnezzar=Nebuchadnezzar/NNP,Nebuchadnezzars/NNPS=all
 Neckar=NNP=all
 Neckarsulm=NNP=all
 Necker=NNP=all
+Necrozma=NNP=all
 Nectaris=NNP=all
 Ned=NNP=all
 Nedbank=NNP=za # South Africa, placename?
@@ -28986,6 +29550,7 @@ Nickelodeon=NNP=all
 Nickerson=NNP=all
 Nicki=NNP=all
 Nickie=NNP=all
+Nickit=NNP=all
 Nicklaus=NNP=all
 Nicko=NNP=all
 Nickolas=NNP=all
@@ -29009,6 +29574,11 @@ Nicomar=NNP=za # South Africa, placename?
 Nicosia=NNP=all
 Nicéphore=NNP=all
 Nidaros=NNP=all
+Nidoking=NNP=all
+Nidoqueen=NNP=all
+Nidoran=NNP=all
+Nidorina=NNP=all
+Nidorino=NNP=all
 Niebuhr=NNP=all
 Niedersachsen=NNP=all
 Niekerkshoop=NNP=za # South Africa, placename?
@@ -29036,6 +29606,7 @@ Nigerianization|Nigerianisation=noun_UN=us,ca,gb|gb,au,nz,za
 Nigerien=NNP=all
 Night=NNP=all
 Nightingale=NNP=all
+Nihilego=NNP=all
 Nihon=NNP=all
 Niigata=NNP=all
 Niihau=NNP=all
@@ -29078,6 +29649,8 @@ Nimrud=NNP=all
 Nimwegen=NNP=all
 Nina=NNP=all
 Ninapark=NNP=za # South Africa, placename?
+Nincada=NNP=all
+Ninetales=NNP=all
 Nineveh=NNP=all
 Ninevite=NNP=all
 Ninevitical=JJ=all
@@ -29086,6 +29659,7 @@ Ningal=NNP=all
 Ningbo=NNP=all
 Ningpo=NNP=all
 Ningsia=NNP=all
+Ninjask=NNP=all
 Nintendo=NNP=all
 Ninurta=NNP=all
 Niobe=NNP=all
@@ -29102,6 +29676,7 @@ Nissenville=NNP=za # South Africa, placename?
 Nita=NNP=all
 Niterói=NNP=all
 Nitesh=NNP=all
+Nitika=NNP=all
 Nitin=NNP=all
 Niuan=JJ=all
 Niue=NNP=all
@@ -29161,6 +29736,7 @@ Noblesville=NNP=all
 Nobokwe=NNP=za # South Africa, placename?
 Nobuhle=NNP=za # South Africa, placename?
 Nocomboshe=NNP=za # South Africa, placename?
+Noctowl=NNP=all
 Noctua=NNP=all
 Nocwane=NNP=za # South Africa, placename?
 Nodalane=NNP=za # South Africa, placename?
@@ -29176,7 +29752,9 @@ Noenieput=NNP=za # South Africa, placename?
 Nofretete=NNP=all
 Nogales=NNP=all
 Noguchi=NNP=all
+Noibat=NNP=all
 Noisy-le-Grand=NNP=all
+Noivern=NNP=all
 Nokaneng=NNP=za # South Africa, placename?
 Nokia=NNP=all
 Nokomis=NNP=za # South Africa, placename?
@@ -29325,6 +29903,7 @@ Norwegian=JJ=all
 Norwegian=Norwegian/NN:U,Norwegian/NNP,Norwegians/NNPS=all
 Norwich=NNP=all
 Norwood=NNP=all
+Nosepass=NNP=all
 Nosey=NNP=za # South Africa, placename?
 Nosferatu=NNP=all
 Noshezi=NNP=za # South Africa, placename?
@@ -29445,6 +30024,7 @@ Nugent=NNP=all
 Nuku=NNP=all
 Numbers=NNP=all
 Numbi=NNP=za # South Africa, placename?
+Numel=NNP=all
 Numidian=JJ=all
 Nunavut=NNP=all
 Nuneaton=NNP=all
@@ -29471,6 +30051,7 @@ Nuwedorp=NNP=za # South Africa, placename?
 Nuwedorpsgebied=NNP=za # South Africa, placename?
 Nuweland=NNP=za # South Africa, placename?
 Nuwerus=NNP=za # South Africa, placename?
+Nuzleaf=NNP=all
 Nuzzi=NNP=all
 Nuñez=NNP=all
 Nwamankena=NNP=za # South Africa, placename?
@@ -29500,6 +30081,7 @@ Nyidlana=NNP=za # South Africa, placename?
 Nykaa=NNP=all
 Nylpark=NNP=za # South Africa, placename?
 Nylstroom=NNP=za # South Africa, placename?
+Nymble=NNP=all
 Nynorsk=NNP=all
 Nyokana=NNP=za # South Africa, placename?
 Nyongane=NNP=za # South Africa, placename?
@@ -29894,6 +30476,7 @@ Obioha=NNP=all
 Obrador=NNP=all
 Obregón=NNP=all
 Observatory=NNP=za # South Africa, placename?
+Obstagoon=NNP=all
 Oby=NNP=all
 Ocado=NNP=all
 Ocala=NNP=all
@@ -29929,6 +30512,7 @@ Octans=NNP=all
 Octavia=NNP=all
 Octavian=NNP=all
 Octavius=NNP=all
+Octillery=NNP=all
 October=OCTOBER/NNP,October/NNP,Octobers/NNPS=all
 Octobrist=NNP=all
 Océane=NNP=all
@@ -29981,6 +30565,7 @@ Ogawa=NNP=all
 Ogbomosho=NNP=all
 Ogden=NNP=all
 Ogeechee=NNP=all
+Ogerpon=NNP=all
 Ogg=NNP=all
 Ogies=NNP=za # South Africa, placename?
 Ogilvie=NNP=all
@@ -29997,6 +30582,7 @@ Ohm=NNP=all
 Ohrigstad=NNP=za # South Africa, placename?
 Ohwebede=NNP=za # South Africa, placename?
 Oilfish=NNP=za # South Africa, placename?
+Oinkologne=NNP=all
 Oireachtas=NNP=all
 Oise=NNP=all
 Oisin=NNP=all
@@ -30013,6 +30599,7 @@ Okazaki=NNP=all
 Okeechobee=NNP=all
 Okhotsk=NNP=all
 Okhtyrka=NNP=all
+Okidogi=NNP=all
 Okiep=NNP=za # South Africa, placename?
 Okinawa=NNP=all
 Okinawan=JJ=all
@@ -30093,7 +30680,9 @@ Omaha=Omaha/NNP,Omahas/NNPS=all
 Oman=NNP=all
 Omani=JJ=all
 Omani=noun=all
+Omanyte=NNP=all
 Omar=NNP=all
+Omastar=NNP=all
 Omdurman=NNP=all
 Omicron=NNP=all
 Omid=NNP=all
@@ -30123,6 +30712,7 @@ Ongegund=NNP=za # South Africa, placename?
 Ongers=NNP=za # South Africa, placename?
 Ongoye=NNP=za # South Africa, placename?
 Onions=NNP=all
+Onix=NNP=all
 Ono=NNP=all
 Onondaga=Onondaga/NNP,Onondagas/NNPS=all
 Onondagan=JJ=all
@@ -30196,6 +30786,7 @@ Orangeburg=NNP=all
 Orangeism=Orangeism/NNP,Orangeisms/NNPS=all
 Orangeman=Orangeman/NNP,Orangemen/NNPS=all
 Orangemen=NNPS=all
+Oranguru=NNP=all
 Orania=NNP=za # South Africa, placename?
 Oranjehof=NNP=za # South Africa, placename?
 Oranjekruin=NNP=za # South Africa, placename?
@@ -30203,6 +30794,7 @@ Oranjesig=NNP=za # South Africa, placename?
 Oranjeville=NNP=za # South Africa, placename?
 Oranjezicht=NNP=za # South Africa, placename?
 Orazio=NNP=all
+Orbeetle=NNP=all
 Orbison=NNP=all
 Orbán=NNP=all
 Orchards=NNP=za # South Africa, placename?
@@ -30230,6 +30822,7 @@ Oresund=NNP=all
 Orff=NNP=all
 Orford=NNP=all
 Oribi=NNP=za # South Africa, placename?
+Oricorio=NNP=all
 Oriel=NNP=all
 Orient=Orient/NNP,Orients/NNPS=all
 Orientalism=noun_UN=all
@@ -30283,6 +30876,7 @@ Orson=NNP=all
 Ortegal=NNP=all
 Orth=NNP=all
 Orthodox=Orthodox/NNP,Orthodoxes/NNPS=all
+Orthworm=NNP=all
 Ortiz=NNP=all
 Orton=NNP=all
 Ortíz=NNP=all
@@ -30312,6 +30906,7 @@ Osetian=JJ=all
 Osgood=NNP=all
 Oshabeni=NNP=za # South Africa, placename?
 Oshawa=NNP=all
+Oshawott=NNP=all
 Oshoek=NNP=za # South Africa, placename?
 Osirian=JJ=all
 Osiris=NNP=all
@@ -30399,6 +30994,7 @@ Overijssel=NNP=all
 Overkruin=NNP=za # South Africa, placename?
 Overland=NNP=all
 Overport=NNP=za # South Africa, placename?
+Overqwil=NNP=all
 Overton=NNP=all
 Ovid=NNP=all
 Ovidian=JJ=all
@@ -30978,6 +31574,7 @@ Pacasmayo=NNP=all
 Pace=NNP=all
 Pachamanca=NNP=all
 Pacheco=NNP=all
+Pachirisu=NNP=all
 Pachomian=JJ=all
 Pachuca=NNP=all
 PacifiCorp=NNP=all
@@ -31034,6 +31631,7 @@ Palaeolithic|Paleolithic=JJ=au,gb,nz,za|ca,us
 Palaeolithic|Paleolithic=NNP=au,gb,nz,za|ca,us
 Palaeozoic|Paleozoic=JJ=au,gb,nz,za|ca,us
 Palaeozoic|Paleozoic=NNP=au,gb,nz,za|ca,us
+Palafin=NNP=all
 Palawan=NNP=all
 Palearctic=JJ=all
 Paleisheuwel=NNP=za # South Africa, placename?
@@ -31055,6 +31653,7 @@ Palime=NNP=za # South Africa, placename?
 Palin=NNP=all
 Palisa=NNP=all
 Palisades=NNP=all
+Palkia=NNP=all
 Palladian=JJ=all
 Palladio=NNP=all
 Palladius=NNP=all
@@ -31080,6 +31679,8 @@ Paloma=NNP=all
 Palomar=NNP=all
 Palomas=NNP=all
 Palos=NNP=all
+Palossand=NNP=all
+Palpitoad=NNP=all
 Pam=NNP=all
 Pambili=NNP=za # South Africa, placename?
 Pamela=NNP=all
@@ -31108,6 +31709,7 @@ Panathenaea=NNP=all
 Panathenaic=JJ=all
 Panathenaic=NNP=all
 Panay=NNP=all
+Pancham=NNP=all
 Panchito=NNP=all
 Pandarus=NNP=all
 Pandean=JJ=all
@@ -31117,6 +31719,7 @@ Panetta=NNP=all
 Panga=NNP=za # South Africa, placename?
 Pangaea=NNP=all
 Pangloss=NNP=all
+Pangoro=NNP=all
 Panhellenic=JJ=all
 Panjabi=JJ=all
 Pankaj=NNP=all
@@ -31128,6 +31731,9 @@ Pannonian=JJ=all
 Panofsky=NNP=all
 Panorama=NNP=za # South Africa, placename?
 Panos=NNP=all
+Panpour=NNP=all
+Pansage=NNP=all
+Pansear=NNP=all
 Pansig=NNP=za # South Africa, placename?
 Pansy=NNP=all
 Pantagruel=NNP=all
@@ -31189,6 +31795,8 @@ Paramount=NNP=all
 Paramus=NNP=all
 Parana=NNP=all
 Paraná=NNP=all
+Paras=NNP=all
+Parasect=NNP=all
 Parashah=NNP=all
 Paraíba=NNP=all
 Parcelforce=NNP=all
@@ -31283,6 +31891,7 @@ Passamaquoddy=NNP=all
 Passchendaele=NNP=all
 Passeriformes=NNP=all
 Passiflora=NNP=all
+Passimian=NNP=all
 Passover=Passover/NNP,Passovers/NNPS=all
 Pasternak=NNP=all
 Pasteur=NNP=all
@@ -31306,6 +31915,7 @@ Patmos=NNP=all
 Patna=NNP=all
 Paton=NNP=all
 Patras=NNP=all
+Patrat=NNP=all
 Patreon=NNP=all
 Patrica=NNP=all
 Patrice=NNP=all
@@ -31358,7 +31968,11 @@ Pavlodar=NNP=all
 Pavlov=NNP=all
 Pavlovian=JJ=all
 Pavo=NNP=all
+Pawmi=NNP=all
+Pawmo=NNP=all
+Pawmot=NNP=all
 Pawnee=Pawnee/NNP,Pawnees/NNPS=all
+Pawniard=NNP=all
 Pawtucket=NNP=all
 Paxton=NNP=all
 PayGroup=NNP=all
@@ -31393,6 +32007,7 @@ Pearston=NNP=za # South Africa, placename?
 Peary=NNP=all
 Pease=NNP=all
 PechaKucha=NNP=all
+Pecharunt=NNP=all
 Pechora=NNP=all
 Peck=NNP=all
 Peckham=NNP=all
@@ -31434,6 +32049,7 @@ Pelegrín=NNP=all
 Pelham=NNP=all
 Pelias=NNP=all
 Pelion=NNP=all
+Pelipper=NNP=all
 Pell=NNP=all
 Pella=NNP=all
 Pelletier=NNP=all
@@ -31569,6 +32185,7 @@ Perrier=Perrier/NNP,Perriers/NNPS=all
 Perrin=NNP=all
 Perrine=NNP=all
 Perris=NNP=all
+Perrserker=NNP=all
 Perry=NNP=all
 Perrysburg=NNP=all
 Perryville=NNP=all
@@ -31621,6 +32238,7 @@ Petersburg=NNP=all
 Petersen=NNP=all
 Peterson=NNP=all
 Petervale=NNP=za # South Africa, placename?
+Petilil=NNP=all
 Petion-Ville=NNP=all
 Petit=NNP=all
 Petoskey=NNP=all
@@ -31683,6 +32301,8 @@ Phambela=NNP=za # South Africa, placename?
 Phanekeni=NNP=za # South Africa, placename?
 Phanerozoic=JJ=all
 Phangweni=NNP=za # South Africa, placename?
+Phanpy=NNP=all
+Phantump=NNP=all
 Phaphamani=NNP=za # South Africa, placename?
 Phaphankulu=NNP=za # South Africa, placename?
 Pharaoh=Pharaoh/NNP,Pharaohs/NNPS=all
@@ -31703,6 +32323,7 @@ Phelandaba=NNP=za # South Africa, placename?
 Phelindaba=NNP=za # South Africa, placename?
 Phelps=NNP=all
 Pherae=NNP=all
+Pheromosa=NNP=all
 Phetole=NNP=za # South Africa, placename?
 Phidias=NNP=all
 Phidippides=NNP=all
@@ -31743,6 +32364,7 @@ Philo=NNP=all
 Philoctetes=NNP=all
 Philomela=NNP=all
 Phineas=NNP=all
+Phione=NNP=all
 Phiphany=NNP=za # South Africa, placename?
 Phiphidi=NNP=za # South Africa, placename?
 Phipps=NNP=all
@@ -31818,6 +32440,7 @@ Picasso=NNP=all
 Picayune=NNP=all
 Piccadilly=NNP=all
 Piccard=NNP=all
+Pichu=NNP=all
 Pickard=NNP=all
 Pickens=NNP=all
 Pickering=NNP=all
@@ -31829,7 +32452,11 @@ Picong=NNP=za # South Africa, placename?
 Pict=Pict/NNP,Picts/NNPS=all
 Pictish=NNP=all
 Pictor=NNP=all
+Pideotto=NNP=all
+Pidgeot=NNP=all
+Pidgey=NNP=all
 Pidgin=NNP=za # South Africa, placename?
+Pidove=NNP=all
 Piedmont=NNP=all
 Piedmontese=JJ=all
 Piedmontese=NNP=all
@@ -31858,11 +32485,13 @@ Pietà=NNP=all
 Pigeon=NNP=all
 Piggott=NNP=all
 Piggy=NNP=all
+Pignite=NNP=all
 Pigs=NNP=all
 Pikachu=NNP=all
 Pike=NNP=all
 Pikesville=NNP=all
 Piketberg=NNP=za # South Africa, placename?
+Pikipek=NNP=all
 Pilate=NNP=all
 Pilates=NNP=all
 Pilatus=NNP=all
@@ -31871,6 +32500,7 @@ Pilcomayo=NNP=all
 Pilgrimsrus=NNP=za # South Africa, placename?
 Pilkington=NNP=all
 Pillsbury=NNP=all
+Piloswine=NNP=all
 Pilotfish=NNP=za # South Africa, placename?
 Pilsen=NNP=all
 Pilsner=Pilsner/NNP,Pilsners/NNPS=all
@@ -31884,6 +32514,7 @@ Pinati=NNP=za # South Africa, placename?
 Pinatubo=NNP=all
 Pinault=NNP=all
 Pinckney=NNP=all
+Pincurchin=NNP=all
 Pincus=NNP=all
 Pindar=NNP=all
 Pindaric=JJ=all
@@ -31891,6 +32522,7 @@ Pindaric=Pindaric/NNP,Pindarics/NNPS=all
 Pindarically=RB=all
 Pindu=NNP=za # South Africa, placename?
 Pine=NNP=all
+Pineco=NNP=all
 Pinecraft=NNP=za # South Africa, placename?
 Pineda=NNP=all
 Pinegowrie=NNP=za # South Africa, placename?
@@ -31907,6 +32539,7 @@ Pinky=NNP=za # South Africa, placename?
 Pinocchio=NNP=all
 Pinochet=NNP=all
 Pinot=Pinot/NNP,Pinots/NNPS=all
+Pinsir=NNP=all
 Pinsk=NNP=all
 Pintail=NNP=za # South Africa, placename?
 Pinter=NNP=all
@@ -31915,10 +32548,12 @@ Pinto=NNP=all
 Pinyin=NNP=all
 Pioneer=NNP=all
 Piotr=NNP=all
+Piotrek=NNP=all
 Pipa=NNP=all
 Pipedrive=NNP=all
 Pipehorse=NNP=za # South Africa, placename?
 Piper=NNP=all
+Piplup=NNP=all
 Pippin=NNP=all
 Piqua=NNP=all
 Piquette=NNP=all
@@ -32021,6 +32656,7 @@ Plough=NNP=all
 Plovdiv=NNP=all
 Plummer=NNP=all
 Pluralsight=NNP=all
+Plusle=NNP=all
 Plutarch=NNP=all
 Pluto=NNP=all
 Plutonian=JJ=all
@@ -32048,6 +32684,7 @@ Pofadder=NNP=za # South Africa, placename?
 Pohai=NNP=all
 Poincaré=NNP=all
 Point=NNP=za # South Africa, placename?
+Poipole=NNP=all
 Poirot=NNP=all
 Poisson=NNP=all
 Poitiers=NNP=all
@@ -32070,6 +32707,9 @@ Pole=noun=all
 Polish=JJ=all
 Polish=Polish/NN:U,Polish/NNP=all
 Politian=NNP=all
+Politoed=NNP=all
+Poliwag=NNP=all
+Poliwhirl=NNP=all
 Polk=NNP=all
 Pollaiuolo=NNP=all
 Pollard=NNP=all
@@ -32087,6 +32727,8 @@ Polonnaruwa=NNP=all
 Polopony=NNP=za # South Africa, placename?
 Polska=NNP=all
 Poltava=NNP=all
+Poltchageist=NNP=all
+Polteageist=NNP=all
 Polybius=NNP=all
 Polycarp=NNP=all
 Polyclitus=NNP=all
@@ -32138,7 +32780,9 @@ Pontus=NNP=all
 Pontypool=NNP=all
 Pontypridd=NNP=all
 Ponyboy=NNP=all
+Ponyta=NNP=all
 Ponzi=NNP=all
+Poochyena=NNP=all
 Pooh=NNP=all
 Pooja=NNP=all
 Pool=NNP=all
@@ -32157,6 +32801,7 @@ Popper=NNP=all
 Popperian=JJ=all
 Popperian=noun=all
 Poppins=NNP=all
+Popplio=NNP=all
 Popsicle=Popsicle/NNP,Popsicles/NNPS=all
 Poquoson=NNP=all
 Porbeagle=NNP=za # South Africa, placename?
@@ -32195,6 +32840,9 @@ Portsmouth=NNP=all
 Portugal=NNP=all
 Portuguese=JJ=all
 Portuguese=Portuguese/NN:U,Portuguese/NNP,Portuguese/NNPS=all
+Porygon-Z=NNP=all
+Porygon2=NNP=all
+Porygon=NNP=all
 Poseidon=NNP=all
 Posen=NNP=all
 Posini=NNP=za # South Africa, placename?
@@ -32322,7 +32970,9 @@ Prieska=NNP=za # South Africa, placename?
 Priest=NNP=all
 Priestley=NNP=all
 Prilosec=NNP=all
+Primarina=NNP=all
 Primavera=NNP=all
+Primeape=NNP=all
 Primrose=NNP=all
 Primroserif=NNP=za # South Africa, placename?
 Prince=NNP=all
@@ -32331,6 +32981,7 @@ Princessvlei=NNP=za # South Africa, placename?
 Princeton=NNP=all
 Principe=NNP=all
 Pringles=Pringles/NNP,Pringles/NNPS=all
+Prinplup=NNP=all
 Prinsevale=NNP=za # South Africa, placename?
 Printify=NNP=all
 Prinz=NNP=all
@@ -32352,6 +33003,7 @@ ProDOS=NNP=all
 ProNutro=NNP=za # South Africa, placename?
 ProQuest=NNP=all
 ProSieben=NNP=all
+Probopass=NNP=all
 Proboscidea=NNP=all
 Proclus=NNP=all
 Procne=NNP=all
@@ -32452,6 +33104,7 @@ Psalter=Psalter/NNP,Psalters/NNPS=all
 Pseudo-Isidorian=JJ=all
 Pskov=NNP=all
 Psyche=NNP=all
+Psyduck=NNP=all
 Pt=NNP=all
 Ptah=NNP=all
 Pteropus=NNP=all
@@ -32487,6 +33140,7 @@ Pullman=Pullman/NNP,Pullmans/NNPS=all
 Pullmans=NNPS=all
 Pulmicort=NNP=all
 Pumblechook=NNP=all
+Pumpkaboo=NNP=all
 Punch=NNP=all
 Punchinello=Punchinello/NNP,Punchinelloes/NNPS,Punchinellos/NNPS=all
 Pune=NNP=all
@@ -32497,6 +33151,7 @@ Punjabi=JJ=all
 Punjabi=Punjabi/NNP,Punjabis/NNPS=all
 Punnett=NNP=all
 Punts=NNP=za # South Africa, placename?
+Pupitar=NNP=all
 Puppis=NNP=all
 Purana=Purana/NNP,Puranas/NNPS=all
 Puranic=JJ=all
@@ -32508,7 +33163,9 @@ Puri=NNP=all
 Purim=Purim/NNP,Purims/NNPS=all
 Puritan=Puritan/NNP,Puritans/NNPS=all
 Purmerend=NNP=all
+Purrloin=NNP=all
 Purse=NNP=all
+Purugly=NNP=all
 Purus=NNP=all
 Purvis=NNP=all
 Pusan=NNP=all
@@ -32552,6 +33209,7 @@ Pyrenean=Pyrenean/NNP,Pyreneans/NNPS=all
 Pyrenees=Pyrenees/NNP,Pyrenees/NNPS=all
 Pyrex=Pyrex/NNP,Pyrexes/NNPS=all
 Pyriphlegethon=NNP=all
+Pyroar=NNP=all
 Pyrrha=NNP=all
 Pyrrhic=JJ=all
 Pyrrho=JJ=all
@@ -32686,6 +33344,7 @@ Qq=NNP=all
 Quadragesima=NNP=all
 Quadrantid=Quadrantid/NNP,Quadrantids/NNPS=all
 Quagga=NNP=za # South Africa, placename?
+Quagsire=NNP=all
 Quaker=JJ=all
 Quaker=Quaker/NNP,Quakers/NNPS=all
 Quakeress=NNP=all
@@ -32699,8 +33358,11 @@ Qualtrics=NNP=all
 Quantico=NNP=all
 Quanzhou=NNP=all
 Quaoar=NNP=all
+Quaquaval=NNP=all
 Quaternary=NNP=all
 Quathlamba=NNP=all
+Quaxly=NNP=all
+Quaxwell=NNP=all
 Quayle=NNP=all
 Qudeni=NNP=za # South Africa, placename?
 Que=NNP=all
@@ -32747,7 +33409,9 @@ Quickbooks=NNP=all
 Quidditch=NNP=all
 Quigley=NNP=all
 Quigney=NNP=za # South Africa, placename?
+Quilava=NNP=all
 QuillBot=NNP=all
+Quilladin=NNP=all
 Quillbot=NNP=all
 Quilmes=NNP=all
 Quilpué=NNP=all
@@ -32796,6 +33460,7 @@ QwaQwa=NNP=za # South Africa, placename?
 Qwabe=NNP=za # South Africa, placename?
 Qwaninga=NNP=za # South Africa, placename?
 Qwayinduku=NNP=za # South Africa, placename?
+Qwilfish=NNP=all
 R&B=NN:U=all
 R&D=noun_U=all
 R10=untagged=all
@@ -33228,6 +33893,8 @@ Rabin=NNP=all
 Rabinovitz=NNP=all
 Rabinowitz=NNP=all
 Rabokala=NNP=za # South Africa, placename?
+Raboot=NNP=all
+Rabsca=NNP=all
 Rabula=NNP=za # South Africa, placename?
 Race=NNP=all
 Raceview=NNP=za # South Africa, placename?
@@ -33282,7 +33949,9 @@ Rahman=NNP=all
 Rahu=NNP=all
 Rahul=NNP=all
 Rai=NNP=all
+Raichu=NNP=all
 Raikkonen=NNP=all
+Raikou=NNP=all
 Railton=NNP=za # South Africa, placename?
 Rainbow=NNP=za # South Africa, placename?
 Raine=NNP=all
@@ -33311,6 +33980,7 @@ Rakshabandhan=NNP=all
 Raleigh=NNP=all
 Ralf=NNP=all
 Ralph=NNP=all
+Ralts=NNP=all
 Ram=NNP=all
 Rama=NNP=all
 Ramachandra=NNP=all
@@ -33350,6 +34020,7 @@ Ramos=NNP=all
 Ramosadi=NNP=za # South Africa, placename?
 Ramosili=NNP=za # South Africa, placename?
 Ramotse=NNP=za # South Africa, placename?
+Rampardos=NNP=all
 Ramphele=NNP=za # South Africa, placename?
 Ramra=NNP=za # South Africa, placename?
 Ramsay=NNP=all
@@ -33452,10 +34123,12 @@ Rathbone=NNP=all
 Rathboneville=NNP=za # South Africa, placename?
 Rathenau=NNP=all
 Rather=NNP=all
+Raticate=NNP=all
 Ratingen=NNP=all
 Ratlou=NNP=za # South Africa, placename?
 Raton=NNP=all
 Ratshidi=NNP=za # South Africa, placename?
+Rattata=NNP=all
 Rattigan=NNP=all
 Rattray=NNP=all
 Raul=NNP=all
@@ -33489,6 +34162,7 @@ Raymond=NNP=all
 Raymondville=NNP=all
 Rayne=NNP=all
 Rayner=NNP=all
+Rayquaza=NNP=all
 Raytheon=NNP=all
 Rayton=NNP=za # South Africa, placename?
 Raúl=NNP=all
@@ -33572,12 +34246,18 @@ Regan=NNP=all
 Regeneron=NNP=all
 Regensburg=NNP=all
 Reggie=NNP=all
+Regice=NNP=all
+Regidrago=NNP=all
+Regieleki=NNP=all
+Regigigas=NNP=all
 Regin=NNP=all
 Regina=Regina/NNP,Reginae/NNPS=all
 Reginald=NNP=all
 Regine=NNP=all
 Regiomontanus=NNP=all
+Regirock=NNP=all
 Regis=NNP=all
+Registeel=NNP=all
 Regorogile=NNP=za # South Africa, placename?
 Regt=NNP=all
 Regulus=NNP=all
@@ -33609,12 +34289,15 @@ Reitz=NNP=za # South Africa, placename?
 Reitzpark=NNP=za # South Africa, placename?
 Reivilo=NNP=za # South Africa, placename?
 Relebohile=NNP=za # South Africa, placename?
+Relicanth=NNP=all
+Rellor=NNP=all
 Rembrandt=NNP=all
 Rembrandtesque=JJ=all
 Rembrandtish=JJ=all
 Rembrandtpark=NNP=za # South Africa, placename?
 Remington=NNP=all
 Remora=NNP=za # South Africa, placename?
+Remoraid=NNP=all
 Remscheid=NNP=all
 Remus=NNP=all
 Remy=NNP=all
@@ -33653,6 +34336,7 @@ Repentigny=NNP=all
 Reptilia=NNP=all
 Republican=Republican/NNP,Republicans/NNPS=all
 Reseda=NNP=all
+Reshiram=NNP=all
 Resht=NNP=all
 Residensia=NNP=za # South Africa, placename?
 Resistencia=NNP=all
@@ -33675,11 +34359,13 @@ Retswelele=NNP=za # South Africa, placename?
 Rettig=NNP=all
 Reuben=Reuben/NNP,Reubens/NNPS=all
 Reuchlin=NNP=all
+Reuniclus=NNP=all
 Reuters=NNP=all
 Reutlingen=NNP=all
 Reuven=NNP=all
 Rev=NNP=all
 Reval=NNP=all
+Revavroom=NNP=all
 Revelation=NNP=all
 Revere=NNP=all
 Revolut=NNP=all
@@ -33759,7 +34445,10 @@ Rhonda=NNP=all
 Rhondda=NNP=all
 Rhone=NNP=all
 Rhu=NNP=all
+Rhydon=NNP=all
+Rhyhorn=NNP=all
 Rhynd=NNP=all
+Rhyperior=NNP=all
 Rhys=NNP=all
 Rhône-Alpes=NNP=all
 Rhône=NNP=all
@@ -33771,6 +34460,7 @@ Ribble=NNP=all
 Ribeira=NNP=all
 Ribeiro=NNP=all
 Ribera=NNP=all
+Ribombee=NNP=all
 Rica=NNP=all
 Ricamora=NNP=all
 Rican=JJ=all # Porto Rican
@@ -33857,6 +34547,7 @@ Rikki=NNP=all
 Riksdag=NNP=all
 Riley=NNP=all
 Rilke=NNP=all
+Rillaboom=NNP=all
 Rimbaud=NNP=all
 Rimini=NNP=all
 Rimouski=NNP=all
@@ -33864,6 +34555,7 @@ Rinaldi=NNP=all
 Rinaldo=NNP=all
 Ringo=NNP=all
 Rio=NNP=all
+Riolu=NNP=all
 Riordan=NNP=all
 Ripley=NNP=all
 Ripon=NNP=all
@@ -33980,6 +34672,7 @@ Rockland=NNP=all
 Rockledge=NNP=all
 Rockne=NNP=all
 Rockport=NNP=all
+Rockruff=NNP=all
 Rockrunner=NNP=za # South Africa, placename?
 Rocksucker=NNP=za # South Africa, placename?
 Rockville=NNP=all
@@ -34019,6 +34712,7 @@ Rogers=NNP=all
 Rogerson=NNP=all
 Roget=NNP=all
 Roggebaai=NNP=za # South Africa, placename?
+Roggenrola=NNP=all
 Rohan=NNP=all
 Rohingya=Rohingya/NNP,Rohingyas/NNPS=all
 Rohit=NNP=all
@@ -34038,6 +34732,7 @@ Rollins=NNP=all
 Rollo=NNP=all
 Rolodex=Rolodex/NNP,Rolodexes/NNPS=all
 Rolweni=NNP=za # South Africa, placename?
+Rolycoly=NNP=all
 Roma=Roma/NNP,Roma/NNPS=all
 Romagna=NNP=all
 Romaic=JJ=all
@@ -34126,9 +34821,11 @@ Rooisand=NNP=za # South Africa, placename?
 Rooiskub-moddervis=NNP=za # South Africa, placename?
 Rooiwal=NNP=za # South Africa, placename?
 Rookdale=NNP=za # South Africa, placename?
+Rookidee=NNP=all
 Roomba=NNP=all
 Roomsekamp=NNP=za # South Africa, placename?
 Rooney=NNP=all
+Roopesh=NNP=all
 Roos=NNP=all
 Roosendaal=NNP=all
 Roosendal=NNP=za # South Africa, placename?
@@ -34199,6 +34896,7 @@ Rosenstein=NNP=all
 Rosenthal=NNP=all
 Rosenwald=NNP=all
 Rosenzweig=NNP=all
+Roserade=NNP=all
 Rosetta=NNP=all
 Rosettenville=NNP=za # South Africa, placename?
 Roseview=NNP=za # South Africa, placename?
@@ -34251,6 +34949,7 @@ Rothmanpark=NNP=za # South Africa, placename?
 Rothschild=NNP=all
 Rothstein=NNP=all
 Rothwell=NNP=all
+Rotom=NNP=all
 Rotorua=NNP=all
 Rotterdam=NNP=all
 Rottweiler=Rottweiler/NNP,Rottweilers/NNPS=all
@@ -34281,6 +34980,7 @@ Rowena=NNP=all
 Rowhill=NNP=za # South Africa, placename?
 Rowland=NNP=all
 Rowlandson=NNP=all
+Rowlet=NNP=all
 Rowlett=NNP=all
 Rowley=NNP=all
 Rowling=NNP=all
@@ -34334,6 +35034,7 @@ Rueil-Malmaison=NNP=all
 Rufanevale=NNP=za # South Africa, placename?
 Ruff=NNP=all
 Ruffin=NNP=all
+Rufflet=NNP=all
 Rufford=NNP=all
 Ruffy=NNP=all
 Rufus=NNP=all
@@ -34356,6 +35057,7 @@ Rumney=NNP=all
 Rumpelstiltskin=NNP=all
 Rumsfeld=NNP=all
 Runcorn=NNP=all
+Runerigus=NNP=all
 Runnymede=NNP=all
 Runyon=NNP=all
 Rupert=NNP=all
@@ -34474,6 +35176,7 @@ Rāhu=NNP=all
 Rădulescu=NNP=all
 S&P=NNP=all
 S&W=NNP=all
+S-Bahn=FW=all
 S10=untagged=all
 S11=untagged=all
 S12=untagged=all
@@ -35245,6 +35948,7 @@ Sabina=NNP=all
 Sabine=JJ=all
 Sabine=Sabine/NNP,Sabines/NNPS=all
 Sable=NNP=all
+Sableye=NNP=all
 Sabrina=NNP=all
 Sac=Sac/NNP,Sacs/NNPS=all
 Saccarine=NNP=za # South Africa, placename?
@@ -35338,11 +36042,14 @@ Salado=NNP=all
 Salafism=NN:U=all
 Salah=NNP=all
 Salamanca=NNP=all
+Salamence=NNP=all
 Salaminian=JJ=all
 Salamis=NNP=all
+Salandit=NNP=all
 Salang=NNP=za # South Africa, placename?
 Salas=NNP=all
 Salazar=NNP=all
+Salazzle=NNP=all
 Salberau=NNP=za # South Africa, placename?
 Saldana=NNP=all
 Saldanha=NNP=za # South Africa, placename?
@@ -35422,6 +36129,7 @@ Samaritan=Samaritan/NNP,Samaritans/NNPS=all
 Samaritanism=noun_UN=all
 Samarkand=NNP=all
 Samarra=NNP=all
+Samarth=NNP=all
 Sambadrome=NNP=all
 Sambo=noun=all # derogatory
 Sambódromo=NNP=all
@@ -35459,6 +36167,7 @@ Samuel=NNP=all
 Samuelson=NNP=all
 Samundri=NNP=all
 Samungu=NNP=za # South Africa, placename?
+Samurott=NNP=all
 San=NNP=all
 SanDisk=NNP=all
 Sana=NNP=all
@@ -35468,6 +36177,7 @@ Sanchez=NNP=all
 Sancho=NNP=all
 Sanctor=NNP=za # South Africa, placename?
 Sand=NNP=all
+Sandaconda=NNP=all
 Sandakan=NNP=all
 Sandalwood=NNP=za # South Africa, placename?
 Sandanezwe=NNP=za # South Africa, placename?
@@ -35500,6 +36210,8 @@ Sandrine=NNP=all
 Sandringham=NNP=all
 Sandro=NNP=all
 Sandrocottus=NNP=all
+Sandshrew=NNP=all
+Sandslash=NNP=all
 Sandton=NNP=za # South Africa, placename?
 Sandusky=NNP=all
 Sandvine=NNP=all
@@ -35507,6 +36219,7 @@ Sandvlei=NNP=za # South Africa, placename?
 Sandwell=NNP=all
 Sandwich=NNP=all
 Sandy=NNP=all
+Sandygast=NNP=all
 Sanford=NNP=all
 Sanfori<ed|Sanforised=JJ=us,ca,gb|gb,au,nz,za
 Sanforize=verb=all
@@ -35679,7 +36392,9 @@ Savoyard=JJ=all
 Savoyard=Savoyard/NNP,Savoyards/NNPS=all
 Savulani=NNP=za # South Africa, placename?
 Sawfin=NNP=za # South Africa, placename?
+Sawk=NNP=all
 Sawley=NNP=all
+Sawsbuck=NNP=all
 Sawyer=NNP=all
 Sax=NNP=all
 Saxe-Coburg=NNP=all
@@ -35725,7 +36440,9 @@ Scarlett=NNP=all
 Scarron=NNP=all
 Scarsdale=NNP=all
 Scatman=NNP=all
+Scatterbug=NNP=all
 Scatty=NNP=za # South Africa, placename?
+Sceptile=NNP=all
 Schacht=NNP=all
 Schaefer=NNP=all
 Schaeffer=NNP=all
@@ -35848,11 +36565,14 @@ Scissortail=NNP=za # South Africa, placename?
 Scituate=NNP=all
 Sciuridae=NNP=all
 Sciurus=NNP=all
+Scizor=NNP=all
+Scolipede=NNP=all
 Scooby-Doo=NNP=all
 Scooby=NNP=all
 Scopas=NNP=all
 Scopes=NNP=all
 Scopus=NNP=all
+Scorbunny=NNP=all
 Scoresby=NNP=all
 Scorpio=JJ=all
 Scorpio=Scorpio/NNP,Scorpios/NNPS=all
@@ -35890,8 +36610,11 @@ Scottsdene=NNP=za # South Africa, placename?
 Scottsville=NNP=all
 Scotty=Scotty/NNP,Scotties/NNPS=all
 Scotus=NNP=all
+Scovillain=NNP=all
 Scoville=NNP=all
 Scrabble=Scrabble/NNP,Scrabbles/NNPS=all
+Scrafty=NNP=all
+Scraggy=NNP=all
 Scranton=NNP=all
 Screencastify=NNP=all
 Screven=NNP=all
@@ -35921,12 +36644,15 @@ Seabee=Seabee/NNP,Seabees/NNPS=all
 Seaborg=NNP=all
 Seabrook=NNP=all
 Seabury=NNP=all
+Seadra=NNP=all
 Seaford=NNP=all
 Seagate=NNP=all
 Seagrave=NNP=all
 Seagulls=NNP=za # South Africa, placename?
 Seahawks=NNPS=all
+Seaking=NNP=all
 Seale=NNP=all
+Sealeo=NNP=all
 Sealyham=NNP=all
 Seaman=NNP=all
 Seamoth=NNP=za # South Africa, placename?
@@ -35969,6 +36695,7 @@ Sedna=NNP=all
 Sedro-Woolley=NNP=all
 Seebeck=NNP=all
 Seed=NNP=all
+Seedot=NNP=all
 Seeger=NNP=all
 Seely=NNP=all
 Seemeeupark=NNP=za # South Africa, placename?
@@ -35992,6 +36719,7 @@ Seiko=NNP=all
 Seine-Maritime=NNP=all
 Seine=NNP=all
 Seinfeld=NNP=all
+Seismitoad=NNP=all
 Seisoville=NNP=za # South Africa, placename?
 Sejm=NNP=all
 Sekama=NNP=za # South Africa, placename?
@@ -36071,6 +36799,7 @@ Sennheiser=NNP=all
 Senoane=NNP=za # South Africa, placename?
 Sentech=NNP=za # South Africa, placename?
 Sentrarand=NNP=za # South Africa, placename?
+Sentret=NNP=all
 Sentrum=NNP=za # South Africa, placename?
 Senusian=JJ=all
 Senussian=JJ=all
@@ -36121,12 +36850,14 @@ Serlio=NNP=all
 Seroquel=NNP=all
 Serpasil=NNP=all
 Serpens=NNP=all
+Serperior=NNP=all
 Serra=NNP=all
 Serrano=NNP=all
 Servetus=NNP=all
 Servia=NNP=all
 ServiceNow=NNP=all
 Servillo=NNP=all
+Servine=NNP=all
 Sesamum=NNP=all
 Seseng=NNP=za # South Africa, placename?
 Sesfontein=NNP=za # South Africa, placename?
@@ -36159,6 +36890,8 @@ Severn=NNP=all
 Seversky=NNP=all
 Severus=NNP=all
 Seville=NNP=all
+Seviper=NNP=all
+Sewaddle=NNP=all
 Seward=NNP=all
 Sewell=NNP=all
 Sexagesima=Sexagesima/NNP,Sexagesimas/NNPS=all
@@ -36271,6 +37004,7 @@ Sharonlea=NNP=za # South Africa, placename?
 Sharonville=NNP=all
 Sharp=NNP=all
 Sharpe=NNP=all
+Sharpedo=NNP=all
 Sharpeville=NNP=all
 Sharpsburg=NNP=all
 Sharpton=NNP=all
@@ -36295,6 +37029,7 @@ Shay=NNP=all
 Shayamoya=NNP=za # South Africa, placename?
 Shayandima=NNP=za # South Africa, placename?
 Shaylin=NNP=all
+Shaymin=NNP=all
 Shayna=NNP=all
 Shays=NNP=all
 Shcherbakov=NNP=all
@@ -36304,6 +37039,7 @@ Sheba=NNP=all
 Sheboygan=NNP=all
 Shechem=NNP=all
 Shedd=NNP=all
+Shedinja=NNP=all
 Sheehan=NNP=all
 Sheen=NNP=all
 Sheena=NNP=all
@@ -36322,12 +37058,16 @@ Shelagh=NNP=all
 Shelby=NNP=all
 Shelbyville=NNP=all
 Sheldon=NNP=all
+Shelgon=NNP=all
 Shelia=NNP=all
 Shell=NNP=all
+Shellder=NNP=all
 Shelley=NNP=all
 Shelleyan=JJ=all
 Shellie=NNP=all
+Shellos=NNP=all
 Shelly=NNP=all
+Shelmet=NNP=all
 Shelta=NNP=all
 Shelton=NNP=all
 Shem=NNP=all
@@ -36378,7 +37118,10 @@ Shi'ite=noun=all
 Shi=NNP=all
 Shia=Shia/NNP,Shias/NNPS=all
 Shibuya=NNP=all
+Shieldon=NNP=all
 Shields=NNP=all
+Shiftry=NNP=all
+Shiinotic=NNP=all
 Shiite=JJ=all
 Shiite=Shiite/NNP,Shiites/NNPS=all
 Shijiazhuang=NNP=all
@@ -36403,6 +37146,7 @@ Shinto=Shinto/NNP,Shintos/NNPS=all
 Shintoism=Shintoism/NNP,Shintoisms/NNPS=all
 Shintoist=JJ=all
 Shintoist=Shintoist/NNP,Shintoists/NNPS=all
+Shinx=NNP=all
 Shipley=NNP=all
 Shipos=NNP=all
 Shira=NNP=all
@@ -36451,15 +37195,19 @@ Shrewsbury=NNP=all
 Shreya=NNP=all
 Shrimpfish=NNP=za # South Africa, placename?
 Shriner=Shriner/NNP,Shriners/NNPS=all
+Shroodle=NNP=all
+Shroomish=NNP=all
 Shropshire=Shropshire/NNP,Shropshires/NNPS=all
 Shrovetide=Shrovetide/NNP,Shrovetides/NNPS=all
 Shtokavian=NNP=all
 Shubham=NNP=all
+Shuckle=NNP=all
 Shufu=NNP=all
 Shukron=NNP=za # South Africa, placename?
 Shulamite=NNP=all
 Shulchan=NNP=all
 Shuping=NNP=all
+Shuppet=NNP=all
 Shushan=NNP=all
 Shute=NNP=all
 Shutterstock=NNP=all
@@ -36526,6 +37274,7 @@ Sievierodonetsk=NNP=all
 Sifahla=NNP=za # South Africa, placename?
 Sig=NNP=all
 Siga=NNP=za # South Africa, placename?
+Sigilyph=NNP=all
 Sigingqini=NNP=za # South Africa, placename?
 Sigismund=NNP=all
 Sigmund=NNP=all
@@ -36551,9 +37300,11 @@ Sikobobo=NNP=za # South Africa, placename?
 Sikorsky=NNP=all
 Silas=NNP=all
 Silberman=NNP=all
+Silcoon=NNP=all
 Silesia=NNP=all
 Silesian=JJ=all
 Silesian=Silesian/NNP,Silesians/NNPS=all
+Silicobra=NNP=all
 Silkaatskop=NNP=za # South Africa, placename?
 Silkeborg=NNP=all
 Sillery=NNP=za # South Africa, placename?
@@ -36564,6 +37315,7 @@ Silumaville=NNP=za # South Africa, placename?
 Silurian=JJ=all
 Silurian=Silurian/NNP,Silurians/NNPS=all
 Silva=NNP=all
+Silvally=NNP=all
 Silvamonte=NNP=za # South Africa, placename?
 Silvan=NNP=all
 Silvana=NNP=all
@@ -36602,6 +37354,9 @@ Simeticone=NNP=all
 Simferopol=NNP=all
 Simfonie=NNP=za # South Africa, placename?
 Simile=NNP=za # South Africa, placename?
+Simipour=NNP=all
+Simisage=NNP=all
+Simisear=NNP=all
 Simla=NNP=all
 Simmel=NNP=all
 Simmerfield=NNP=za # South Africa, placename?
@@ -36658,6 +37413,8 @@ Sinhalese=JJ=all
 Sinhalese=Sinhalese/NN:U,Sinhalese/NNP=all
 Sinicization|Sinicisation=noun_UN=us,ca,gb|gb,au,nz,za
 Sining=NNP=all
+Sinistcha=NNP=all
+Sinistea=NNP=all
 Sinitic=JJ=all
 Sinkiang=NNP=all
 Sinksabrug=NNP=za # South Africa, placename?
@@ -36731,6 +37488,7 @@ Siyathemba=NNP=za # South Africa, placename?
 Siyathuthuka=NNP=za # South Africa, placename?
 Sizakancane=NNP=za # South Africa, placename?
 Sizamele=NNP=za # South Africa, placename?
+Sizzlipede=NNP=all
 Sjaelland=NNP=all
 Sjambokzynoudekraal=NNP=za # South Africa, placename?
 Skagerrak=NNP=all
@@ -36738,11 +37496,14 @@ Skagit=NNP=all
 Skagway=NNP=all
 Skanda=NNP=all
 Skanskop=NNP=za # South Africa, placename?
+Skarmory=NNP=all
 Skaw=NNP=all
 Skeerpoort=NNP=za # South Africa, placename?
+Skeledirge=NNP=all
 Skelmersdale=NNP=all
 Skelton=NNP=all
 Skema=NNP=za # South Africa, placename?
+Skiddo=NNP=all
 Skidmore=NNP=all
 Skilletskate=NNP=za # South Africa, placename?
 Skilling=NNP=all
@@ -36750,19 +37511,25 @@ Skillman=NNP=all
 Skilpadfontein=NNP=za # South Africa, placename?
 Skinner=NNP=all
 Skipjack=NNP=za # South Africa, placename?
+Skiploom=NNP=all
 Skippy=NNP=all
 Skipton=NNP=all
 Skittles=NNP=all
+Skitty=NNP=all
 Skoda=NNP=all
 Skokie=NNP=all
 Skoonspruit=NNP=za # South Africa, placename?
 Skopje=NNP=all
 Skoplje=NNP=all
+Skorupi=NNP=all
+Skrelp=NNP=all
 Skrikfontein=NNP=za # South Africa, placename?
 Skrillex=NNP=all
 Skuinsdrif=NNP=za # South Africa, placename?
 Skukuza=NNP=za # South Africa, placename?
 Skuld=NNP=all
+Skuntank=NNP=all
+Skwovet=NNP=all
 Skye=NNP=all
 Skylab=NNP=all
 Skylar=NNP=all
@@ -36779,6 +37546,8 @@ Slack=NNP=all
 Slackware=NNP=all
 Slade=NNP=all
 Slagboom=NNP=za # South Africa, placename?
+Slaking=NNP=all
+Slakoth=NNP=all
 Slangkop=NNP=za # South Africa, placename?
 Slangspruit=NNP=za # South Africa, placename?
 SlashGear=NNP=all
@@ -36803,6 +37572,7 @@ Slemmer=NNP=all
 Slesvig=NNP=all
 Sleutelfontein=NNP=za # South Africa, placename?
 Slidesgo=NNP=all
+Sliggoo=NNP=all
 Sligo=NNP=all
 Slimy=NNP=za # South Africa, placename?
 Slinger=NNP=za # South Africa, placename?
@@ -36825,12 +37595,18 @@ Slovenian=Slovenian/NN:U,Slovenian/NNP,Slovenians/NNPS=all
 Slovo=NNP=za # South Africa, placename?
 Slovoville=NNP=za # South Africa, placename?
 Slovyansk=NNP=all
+Slowbro=NNP=all
+Slowking=NNP=all
+Slowpoke=NNP=all
+Slugma=NNP=all
+Slurpuff=NNP=all
 Slurry=NNP=za # South Africa, placename?
 Slytherin=NNP=all
 Sm=NNP=all
 Small=NNP=all
 Smalley=NNP=all
 Smallwood=NNP=all
+Smeargle=NNP=all
 Smeaton=NNP=all
 Smedley=NNP=all
 Smeroe=NNP=za # South Africa, placename?
@@ -36845,7 +37621,9 @@ Smithsonian=NNP=all
 Smithville=NNP=all
 Smitty=NNP=all
 Smolensk=NNP=all
+Smoliv=NNP=all
 Smollett=NNP=all
+Smoochum=NNP=all
 Smoot=NNP=all
 Smooth-hound=NNP=za # South Africa, placename?
 Smurfette=NNP=all
@@ -36864,20 +37642,28 @@ Snakefield=NNP=za # South Africa, placename?
 Snakelet=NNP=za # South Africa, placename?
 Snap=NNP=all
 Snapchat=NNP=all
+Sneasel=NNP=all
+Sneasler=NNP=all
 Sneed=NNP=all
 Sneezy=NNP=all
 Snell=NNP=all
 Snickers=NNP=all
 Snickers=NNPS=all
 Snider=NNP=all
+Snivy=NNP=all
 Snodgrass=NNP=all
 Snoek=NNP=za # South Africa, placename?
 Snohomish=NNP=all
+Snom=NNP=all
+Snorlax=NNP=all
+Snorunt=NNP=all
+Snover=NNP=all
 Snow=NNP=all
 Snowden=NNP=all
 Snowdon=NNP=all
 Snowdonia=NNP=all
 Snowman=NNP=all
+Snubbull=NNP=all
 Snyder=NNP=all
 Snæfellsjökull=NNP=all
 So=NNP=all
@@ -36887,6 +37673,7 @@ Soacha=NNP=all
 Soares=NNP=all
 Sobabili=NNP=za # South Africa, placename?
 Sobantu=NNP=za # South Africa, placename?
+Sobble=NNP=all
 Sobranje=NNP=all
 Socha=NNP=all
 Soche=NNP=all
@@ -36937,6 +37724,7 @@ Soleimani=NNP=all
 Solent=NNP=all
 Soleure=NNP=all
 Solferino=NNP=all
+Solgaleo=NNP=all
 SolidWorks=NNP=all
 Solidaridad=NNP=all
 Solihull=NNP=all
@@ -36947,8 +37735,10 @@ Solomon=Solomon/NNP,Solomons/NNPS=all
 Solomonic=JJ=all
 Solon=NNP=all
 Solonian=JJ=all
+Solosis=NNP=all
 Solothurn=NNP=all
 Solridge=NNP=za # South Africa, placename?
+Solrock=NNP=all
 Solutrean=JJ=all
 Solvay=NNP=all
 Solzhenitsyn=NNP=all
@@ -37125,10 +37915,12 @@ Spartanburg=NNP=all
 Spartiate=NNP=all
 Spaulding=NNP=all
 Spearman=NNP=all
+Spearow=NNP=all
 Spears=NNP=all
 Spearville=NNP=za # South Africa, placename?
 Specht=NNP=all
 Spector=NNP=all
+Spectrier=NNP=all
 Spectrum=NNP=all
 Speedwriting=NNP=all
 Speer=NNP=all
@@ -37143,13 +37935,16 @@ Spenserian=JJ=all
 Spenserian=Spenserian/NNP,Spenserians/NNPS=all
 Spermophilus=NNP=all
 Sperry=NNP=all
+Spewpa=NNP=all
 Speyer=NNP=all
+Spheal=NNP=all
 Sphingidae=NNP=all
 Sphinx=NNP=all
 Sphyraenidae=NNP=all
 Spica=NNP=all
 Spicer=NNP=all
 Spider-Man=NNP=all
+Spidops=NNP=all
 Spiegel=NNP=all
 Spiegelman=NNP=all
 Spiekermann=NNP=all
@@ -37157,12 +37952,16 @@ Spielberg=NNP=all
 Spiers=NNP=all
 Spijkenisse=NNP=all
 Spinacia=NNP=all
+Spinarak=NNP=all
+Spinda=NNP=all
 Spindler=NNP=all
 Spinelli=NNP=all
 Spinoza=NNP=all
 Spinozism=Spinozism/NNP,Spinozisms/NNPS=all
 Spinozist=Spinozist/NNP,Spinozists/NNPS=all
 Spinozistic=JJ=all
+Spirigatito=NNP=all
+Spiritomb=NNP=all
 Spiro=NNP=all
 Spithead=NNP=all
 Spitsbergen=NNP=all
@@ -37171,6 +37970,7 @@ Spitzkop=NNP=za # South Africa, placename?
 Split=NNP=all
 Spock=NNP=all
 Spode=Spode/NNP,Spodes/NNPS=all
+Spoink=NNP=all
 Spokane=NNP=all
 SpongeBob=NNP=all
 Spookmill=NNP=za # South Africa, placename?
@@ -37201,13 +38001,16 @@ Springtown=NNP=za # South Africa, placename?
 Springvale=NNP=za # South Africa, placename?
 Springville=NNP=all
 Sprint=NNP=all
+Spritzee=NNP=all
 Spruitview=NNP=za # South Africa, placename?
 Spur=NNP=za # South Africa, placename?
 Spurgeon=NNP=all
 Sputnik=Sputnik/NNP,Sputniks/NNPS=all
 Spätlese=Spätlese/NN:U,Spätlesen/NNS=all
 Squarespace=NNP=all
+Squawkabilly=NNP=all
 Squidward=NNP=all
+Squirtle=NNP=all
 Sr=NNP=all
 Sra=NNP=all
 Srebrenica=NNP=all
@@ -37237,6 +38040,7 @@ Stagg=NNP=all
 Stahl=NNP=all
 Staines=NNP=all
 Stainton=NNP=all
+Stakataka=NNP=all
 Stakhanovism=Stakhanovism/NNP,Stakhanovisms/NNPS=all
 Stakhanovite=JJ=all
 Staley=NNP=all
@@ -37270,6 +38074,7 @@ Stannington=NNP=all
 Stans=NNP=all
 Stansberry=NNP=all
 Stansted=NNP=all
+Stantler=NNP=all
 Stanton=NNP=all
 Stanway=NNP=all
 Stanwood=NNP=all
@@ -37277,6 +38082,8 @@ Stanworth=NNP=all
 Staphylinidae=NNP=all
 Stapleton=NNP=all
 Star=NNP=all
+Staraptor=NNP=all
+Staravia=NNP=all
 Starbucks=NNP=all
 Stargate=NNP=all
 Stargazer=NNP=za # South Africa, placename?
@@ -37289,9 +38096,11 @@ Starks=NNP=all
 Starkville=NNP=all
 Starliner=NNP=all
 Starlink=NNP=all
+Starly=NNP=all
 Starman=NNP=all
 Starr=NNP=all
 Starwood=NNP=all
+Staryu=NNP=all
 Stasoft=NNP=za # South Africa, placename?
 State=NNP=all
 Statehouse=Statehouse/NNP,Statehouses/NNPS=all
@@ -37316,6 +38125,7 @@ Steel=NNP=all
 Steele=NNP=all
 Steeledale=NNP=za # South Africa, placename?
 Steeler=Steeler/NNP,Steelers/NNPS=all
+Steelix=NNP=all
 Steelpoort=NNP=za # South Africa, placename?
 Steen=NNP=all
 Steenberg=NNP=za # South Africa, placename?
@@ -37323,6 +38133,7 @@ Steenbok=NNP=za # South Africa, placename?
 Steenbokpan=NNP=za # South Africa, placename?
 Steenbras=NNP=za # South Africa, placename?
 Steenbuck=NNP=za # South Africa, placename?
+Steenee=NNP=all
 Steentjie=NNP=za # South Africa, placename?
 Steenvliet=NNP=za # South Africa, placename?
 Steere=NNP=all
@@ -37452,6 +38263,7 @@ Stonehouse=NNP=all
 Stoneman=NNP=all
 Stoneville=NNP=all
 Stoneydrift=NNP=za # South Africa, placename?
+Stonjourner=NNP=all
 Stonyridge=NNP=za # South Africa, placename?
 Stoppard=NNP=all
 Storm=NNP=all
@@ -37467,6 +38279,7 @@ Stouffer=NNP=all
 Stoughton=NNP=all
 Stourbridge=NNP=all
 Stout=NNP=all
+Stoutland=NNP=all
 Stover=NNP=all
 Stow=NNP=all
 Stowe=NNP=all
@@ -37530,7 +38343,10 @@ Stuart=Stuart/NNP,Stuarts/NNPS=all
 Stubblefield=NNP=all
 Stubbs=NNP=all
 Studtis=NNP=za # South Africa, placename?
+Stufful=NNP=all
 Stuirmanspan=NNP=za # South Africa, placename?
+Stunfisk=NNP=all
+Stunky=NNP=all
 Sturgess=NNP=all
 Sturmabteilung=NNP=all
 Sturrock=NNP=all
@@ -37567,6 +38383,7 @@ Sudetenland=NNP=all
 Sudhakar=NNP=all
 Sudhir=NNP=all
 Sudoku=noun=all
+Sudowoodo=NNP=all
 Sudra=Sudra/NNP,Sudras/NNPS=all
 Sue=NNP=all
 Suellen=NNP=all
@@ -37583,6 +38400,7 @@ Sugar=NNP=all
 Sugden=NNP=all
 Suharto=NNP=all
 Sui=NNP=all
+Suicune=NNP=all
 Suideinde=NNP=za # South Africa, placename?
 Suider-paarl=NNP=za # South Africa, placename?
 Suiderberg=NNP=za # South Africa, placename?
@@ -37658,12 +38476,14 @@ Sundumbili=NNP=za # South Africa, placename?
 Sunduzwayo=NNP=za # South Africa, placename?
 Sundwana=NNP=za # South Africa, placename?
 Sundyside=NNP=za # South Africa, placename?
+Sunflora=NNP=all
 Sunford=NNP=za # South Africa, placename?
 Sung=NNP=all
 Sungari=NNP=all
 Sungkiang=NNP=all
 Sunil=NNP=all
 Sunita=NNP=all
+Sunkern=NNP=all
 Sunlands=NNP=za # South Africa, placename?
 Sunna=Sunna/NNP,Sunnas/NNPS=all
 Sunnah=Sunnah/NNP,Sunnahs/NNPS=all
@@ -37705,6 +38525,7 @@ Surinam=NNP=all
 Suriname=NNP=all
 Surratt=NNP=all
 Surrey=NNP=all
+Surskit=NNP=all
 Suruhanjaya=NNP=all
 SurveyMonkey=NNP=all
 Surwell=NNP=za # South Africa, placename?
@@ -37768,20 +38589,25 @@ Sw=NNP=all
 Swabia=NNP=all
 Swabian=JJ=all
 Swabian=Swabian/NNP,Swabians/NNPS=all
+Swablu=NNP=all
+Swadloon=NNP=all
 Swahili=Swahili/NN:U,Swahili/NNP,Swahilis/NNPS=all
 Swahilis=NNPS=all
 Swain=NNP=all
 Swakopmund=NNP=all
 Swalala=NNP=za # South Africa, placename?
 Swalestown=NNP=za # South Africa, placename?
+Swalot=NNP=all
 Swalwell=NNP=all
 Swaminathan=NNP=all
 Swammerdam=NNP=all
 Swamp=NNP=za # South Africa, placename?
+Swampert=NNP=all
 Swampscott=NNP=all
 Swan=NNP=all
 Swanee=NNP=all
 Swanepoel=NNP=all
+Swanna=NNP=all
 Swansea=NNP=all
 Swanson=NNP=all
 Swanton=NNP=all
@@ -37819,6 +38645,7 @@ Sweet=NNP=all
 Sweetwater=NNP=all
 Sweetwaters=NNP=za # South Africa, placename?
 Swellendam=NNP=za # South Africa, placename?
+Swellow=NNP=all
 Swempoort=NNP=za # South Africa, placename?
 Swenson=NNP=all
 Swerzbin=NNP=all
@@ -37827,12 +38654,15 @@ Swilly=NNP=all
 Swinburne=NNP=all
 Swindon=NNP=all
 Swinton=NNP=all
+Swinub=NNP=all
+Swirlix=NNP=all
 Swiss=JJ=all
 Swiss=Swiss/NNP,Swisses/NNPS=all
 Swithin=NNP=all
 Switz=NNP=all
 Switzer=Switzer/NNP,Switzers/NNPS=all
 Switzerland=NNP=all
+Swoobat=NNP=all
 Swordfish=NNP=za # South Africa, placename?
 Swordtails=NNP=za # South Africa, placename?
 Sybaris=NNP=all
@@ -37857,6 +38687,7 @@ Sylvain=NNP=all
 Sylvan=NNP=all
 Sylvania=NNP=all
 Sylvanus=NNP=all
+Sylveon=NNP=all
 Sylvester=NNP=all
 Sylvia=NNP=all
 Sylvie=NNP=all
@@ -37893,6 +38724,7 @@ Sándor=NNP=all
 Sápara=NNP=all
 São=NNP=all
 Sébastien=NNP=all
+Séjourné=NNP=all
 Sémillon=NNP=all
 Sérgio=NNP=all
 Södertälje=NNP=all
@@ -38340,6 +39172,7 @@ Tacitus=NNP=all
 Tacna=NNP=all
 Tacoma=NNP=all
 Tad=NNP=all
+Tadbulb=NNP=all
 Tae-hyun=NNP=all
 Taegu=NNP=all
 Taehyung=NNP=all
@@ -38368,6 +39201,7 @@ Tai=Tai/NNP,Tais/NNPS=all
 Taichung=NNP=all
 Taif=NNP=all
 Taihoku=NNP=all
+Taillow=NNP=all
 Tainan=NNP=all
 Taine=NNP=all
 Taino=Taino/NNP,Taino/NNPS,Tainos/NNPS=all
@@ -38420,6 +39254,8 @@ Talmadge=NNP=all
 Talmud=Talmud/NNP,Talmuds/NNPS=all
 Talmudic=JJ=all
 Talmudist=Talmudist/NNP,Talmudists/NNPS=all
+Talon=NNP=all
+Talonflame=NNP=all
 Talos=NNP=all
 Tam=NNP=all
 Tama=NNP=all
@@ -38458,13 +39294,16 @@ Tanaka=NNP=all
 Tanana=NNP=all
 Tananarive=NNP=all
 Tancred=NNP=all
+Tandemaus=NNP=all
 Tandridge=NNP=all
 Tandy=NNP=all
 Taney=NNP=all
 Tanganyika=NNP=all
 Tanganyikan=JJ=all
+Tangela=NNP=all
 Tangier=JJ=all
 Tangier=Tangier/NNP,Tangiers/NNPS=all
+Tangrowth=NNP=all
 Tangshan=NNP=all
 Tanguy=NNP=all
 Tania=NNP=all
@@ -38515,6 +39354,7 @@ Tarkington=NNP=all
 Tarleton=NNP=all
 Tarlton=NNP=all
 Tarnopol=NNP=all
+Tarountula=NNP=all
 Tarpeia=NNP=all
 Tarpenning=NNP=all
 Tarragona=NNP=all
@@ -38550,6 +39390,7 @@ Tate=NNP=all
 Tatiana=NNP=all
 Tatoeba=NNP=all
 Tatra=NNP=all
+Tatsugiri=NNP=all
 Tatum=NNP=all
 Tatyana=NNP=all
 Taubaté=NNP=all
@@ -38559,6 +39400,7 @@ Taunton=NNP=all
 Taunus=NNP=all
 Taupo=NNP=all
 Tauranga=NNP=all
+Tauros=NNP=all
 Taurus=JJ=all
 Taurus=Taurus/NNP,Tauruses/NNPS=all
 Tavares=NNP=all
@@ -38599,6 +39441,7 @@ Tecoma=NNP=za # South Africa, placename?
 Tecumseh=NNP=all
 Ted=NNP=all
 TedTalk=NNP=all
+Teddiursa=NNP=all
 Teddy=NNP=all
 Tedelex=NNP=za # South Africa, placename?
 Tedstoneville=NNP=za # South Africa, placename?
@@ -38680,13 +39523,17 @@ Tennysonian=NNP=all
 Tenochtitlan=NNP=all
 Tenpounder=NNP=za # South Africa, placename?
 TensorFlow=NNP=all
+Tentacool=NNP=all
+Tentacruel=NNP=all
 Teotihuacan=NNP=all
 Tepelenë=NNP=all
 Tepetitán=NNP=all
 Tepexpan=NNP=all
 Tepic=NNP=all
+Tepig=NNP=all
 Terabithia=NNP=all
 Terai=NNP=all
+Terapagos=NNP=all
 Terceira=NNP=all
 Terence=NNP=all
 Tereno=NNP=za # South Africa, placename?
@@ -38706,6 +39553,7 @@ Terpsichorean=JJ=all
 Terr=NNP=all
 Terra=NNP=all
 Terraform=NNP=all
+Terrakion=NNP=all
 Terran=Terran/NNP,Terrans/NNPS=all # science fiction
 Terrance=NNP=all
 Terrassa=NNP=all
@@ -38886,6 +39734,7 @@ Thiel=NNP=all
 Thiensville=NNP=all
 Thierry=NNP=all
 Thies=NNP=all
+Thievul=NNP=all
 Thimbu=NNP=all
 Thimphu=NNP=all
 ThinkPad=ThinkPad/NNP,ThinkPads/NNPS=all
@@ -38939,6 +39788,7 @@ Thracian=JJ=all
 Thracian=Thracian/NNP,Thracians/NNPS=all
 Thrasio=NNP=all
 Threlkeld=NNP=all
+Throh=NNP=all
 Thubalethu=NNP=za # South Africa, placename?
 Thubelihle=NNP=za # South Africa, placename?
 Thucydidean=JJ=all
@@ -38951,6 +39801,7 @@ Thulwe=NNP=za # South Africa, placename?
 Thun=NNP=all
 Thunberg=NNP=all
 Thunderbird=NNP=all
+Thundurus=NNP=all
 Thur=NNP=all
 Thurber=NNP=all
 Thurgau=NNP=all
@@ -38971,6 +39822,7 @@ Thushanang=NNP=za # South Africa, placename?
 Thusong=NNP=za # South Africa, placename?
 Thuthuka=NNP=za # South Africa, placename?
 Thuthukani=NNP=za # South Africa, placename?
+Thwackey=NNP=all
 Thwing=NNP=all
 Thyestes=NNP=all
 Thysanoptera=NNP=all
@@ -39041,6 +39893,7 @@ Timberlake=NNP=all
 Timberlane=NNP=all
 Timberwolves=NNPS=all
 Timbuktu=NNP=all
+Timburr=NNP=all
 TimeDoc=NNP=all
 Timisoara=NNP=all
 Timişoara=NNP=all
@@ -39062,8 +39915,12 @@ Timur=NNP=all
 Tina=NNP=all
 Tinaruste=NNP=za # South Africa, placename?
 Tindal=NNP=all
+Ting-Lu=NNP=all
 Tingey=NNP=all
 Tingley=NNP=all
+Tinkatink=NNP=all
+Tinkaton=NNP=all
+Tinkatuff=NNP=all
 Tinkercad=NNP=all
 Tinmyne=NNP=za # South Africa, placename?
 Tinselfish=NNP=za # South Africa, placename?
@@ -39089,6 +39946,7 @@ Tirolean=Tirolean/NNP,Tiroleans/NNPS=all
 Tiros=NNP=all
 Tirpitz=NNP=all
 Tirthankara=NNP=all
+Tirtouga=NNP=all
 Tiruchirapalli=NNP=all
 Tiruchirappalli=NNP=all
 Tirunelveli=NNP=all
@@ -39159,9 +40017,15 @@ Tocharian=Tocharian/NNP,Tocharians/NNPS=all
 Tocqueville=NNP=all
 Tod=NNP=all
 Todd=NNP=all
+Toedscool=NNP=all
+Toedscruel=NNP=all
 Toekomsrus=NNP=za # South Africa, placename?
 Toemaskop=NNP=za # South Africa, placename?
 Toft=NNP=all
+Togedemaru=NNP=all
+Togekiss=NNP=all
+Togepi=NNP=all
+Togetic=NNP=all
 Togliatti=NNP=all
 Togo=NNP=all
 Togoland=NNP=all
@@ -39247,16 +40111,20 @@ Topol=NNP=all
 Tor=NNP=all
 Torah=Torah/NNP,Torahs/NNPS=all
 Torbay=NNP=all
+Torchic=NNP=all
 Tordesillas=NNP=all
 Torfaen=NNP=all
 Tori=NNP=all
 Torino=NNP=all
+Torkoal=NNP=all
 Tornadoville=NNP=za # South Africa, placename?
+Tornadus=NNP=all
 Tornaka=NNP=za # South Africa, placename?
 Toronto=NNP=all
 Torontonian=JJ=all
 Torquay=NNP=all
 Torquemada=NNP=all
+Torracat=NNP=all
 Torrance=NNP=all
 Torre=NNP=all
 Torrence=NNP=all
@@ -39269,6 +40137,7 @@ Torricellian=JJ=all
 Torrington=NNP=all
 Torry=NNP=all
 Torsten=NNP=all
+Torterra=NNP=all
 Tortola=NNP=all
 Tortuga=NNP=all
 Tortuguero=NNP=all
@@ -39284,7 +40153,9 @@ Toscanini=NNP=all
 Toshiba=NNP=all
 Total=NNP=za # South Africa, placename?
 Totiusdal=NNP=za # South Africa, placename?
+Totodile=NNP=all
 Tottenham=NNP=all
+Toucannon=NNP=all
 Toul=NNP=all
 Toulon=NNP=all
 Toulouse=NNP=all
@@ -39307,6 +40178,10 @@ Townsview=NNP=za # South Africa, placename?
 Townsville=NNP=all
 Townview=NNP=za # South Africa, placename?
 Towson=NNP=all
+Toxapex=NNP=all
+Toxel=NNP=all
+Toxicroak=NNP=all
+Toxtricity=NNP=all
 Toyama=NNP=all
 Toynbee=NNP=all
 Toyota=NNP=all
@@ -39325,6 +40200,7 @@ Traherne=NNP=all
 Trajan=NNP=all
 Tralee=NNP=all
 Tran=NNP=all
+Tranquill=NNP=all
 TransUnion=NNP=all
 Transactie=NNP=za # South Africa, placename?
 Transcaucasia=NNP=all
@@ -39345,6 +40221,7 @@ Transwestern=NNP=all
 Transylvania=NNP=all
 Transylvanian=Transylvanian/NNP,Transylvanians/NNPS=all
 Trapani=NNP=all
+Trapinch=NNP=all
 Trappist=Trappist/NNP,Trappists/NNPS=all
 Trautman=NNP=all
 Travancore=NNP=all
@@ -39356,6 +40233,7 @@ Trayvon=NNP=all
 Trebizond=NNP=all
 Treblinka=NNP=all
 Tree=NNP=all
+Treecko=NNP=all
 Treehaven=NNP=za # South Africa, placename?
 Trejo=NNP=all
 Trekker=NNP=za # South Africa, placename?
@@ -39369,6 +40247,7 @@ Trembley=NNP=all
 Tremont=NNP=all
 Trenchard=NNP=all
 Trendelenburg=NNP=all
+Trendyol=NNP=all
 Trengganu=NNP=all
 Trennerys=NNP=za # South Africa, placename?
 Trent=NNP=all
@@ -39379,6 +40258,7 @@ Trenton=NNP=all
 Trentonian=NNP=all
 Trethewey=NNP=all
 Trevelyan=NNP=all
+Trevenant=NNP=all
 Trevenna=NNP=za # South Africa, placename?
 Trever=NNP=all
 Treves=NNP=all
@@ -39441,6 +40321,7 @@ Trollopian=JJ=all
 Trombley=NNP=all
 Trompsburg=NNP=za # South Africa, placename?
 Trondheim=NNP=all
+Tropius=NNP=all
 Trossachs=NNPS=all
 Trot=NNP=all
 Trotsky=NNP=all
@@ -39454,6 +40335,7 @@ Trowbridge=NNP=all
 Troy=Troy/NNP,Troyes/NNPS=all
 Troyes=NNP=all
 Troyeville=NNP=za # South Africa, placename?
+Trubbish=NNP=all
 Trude=NNP=all
 Trudeau=NNP=all
 Trudi=NNP=all
@@ -39462,6 +40344,7 @@ True=NNP=all
 Trujillo=NNP=all
 Truman=NNP=all
 Trumann=NNP=all
+Trumbeak=NNP=all
 Trump=NNP=all
 Trumpeter=NNP=za # South Africa, placename?
 Trumpetfish=NNP=za # South Africa, placename?
@@ -39477,6 +40360,7 @@ Trussville=NNP=all
 Tsai=NNP=all
 Tsakane=NNP=za # South Africa, placename?
 Tsana=NNP=all
+Tsareena=NNP=all
 Tsaritsyn=NNP=all
 Tsate=NNP=za # South Africa, placename?
 Tsatsana=NNP=za # South Africa, placename?
@@ -39639,6 +40523,8 @@ Turnhout=NNP=all
 Turnitin=NNP=all
 Turnstone=NNP=za # South Africa, placename?
 Turpin=NNP=all
+Turtonator=NNP=all
+Turtwig=NNP=all
 Tuscan-Emilian=JJ=all
 Tuscan=JJ=all
 Tuscan=Tuscan/NNP,Tuscans/NNPS=all
@@ -39698,6 +40584,8 @@ Tyira=NNP=za # South Africa, placename?
 Tylden=NNP=za # South Africa, placename?
 Tylenol=NNP=all
 Tyler=NNP=all
+Tympole=NNP=all
+Tynamo=NNP=all
 Tynan=NNP=all
 Tyndale=NNP=all
 Tyndall=NNP=all
@@ -39709,13 +40597,17 @@ Tyneside=NNP=all
 Tynwald=NNP=all
 Tyoksvalley=NNP=za # South Africa, placename?
 Tyoksville=NNP=za # South Africa, placename?
+Type: Null=NNP=all
 TypeScript=NNP=all
 Typeform=NNP=all
 Typepad=NNP=all
+Typhlosion=NNP=all
 Typhoean=JJ=all
 Typhoeus=NNP=all
 Tyr=NNP=all
 Tyra=NNP=all
+Tyranitar=NNP=all
+Tyrantrum=NNP=all
 Tyre=NNP=all
 Tyree=NNP=all
 Tyrell=NNP=all
@@ -39723,6 +40615,7 @@ Tyrian=JJ=all
 Tyrian=Tyrian/NNP,Tyrians/NNPS=all
 Tyringham=NNP=all
 Tyrion=NNP=all
+Tyrogue=NNP=all
 Tyrol=NNP=all
 Tyrolean=JJ=all
 Tyrolean=Tyrolean/NNP,Tyroleans/NNPS=all
@@ -39733,6 +40626,7 @@ Tyron=NNP=all
 Tyrone=NNP=all
 Tyrr=NNP=all
 Tyrrhenian=JJ=all
+Tyrunt=NNP=all
 Tyson=NNP=all
 Tyumen=NNP=all
 Tzaneen=NNP=za # South Africa, placename?
@@ -39741,6 +40635,7 @@ Téllez=NNP=all
 Tübingen=NNP=all
 Türkiye=NNP=all
 Tōkaidō=NNP=all
+U-Bahn=FW=all
 U-bend=noun=all
 U-boat=NNP=all
 U-boat=noun=all
@@ -40294,6 +41189,7 @@ Umberto=NNP=all
 Umbhedula=NNP=za # South Africa, placename?
 Umbilo=NNP=za # South Africa, placename?
 Umbogintwini=NNP=za # South Africa, placename?
+Umbreon=NNP=all
 Umbria=NNP=all
 Umbrian=JJ=all
 Umbrian=Umbrian/NNP,Umbrians/NNPS=all
@@ -40335,6 +41231,7 @@ Unathi=NNP=za # South Africa, placename?
 Underberg=NNP=za # South Africa, placename?
 Underwood=NNP=all
 Undetermined=NNP=za # South Africa, placename?
+Unfezant=NNP=all
 Ungava=NNP=all
 Unger=NNP=all
 Uniat=JJ=all
@@ -40366,6 +41263,7 @@ Universitasrif=NNP=za # South Africa, placename?
 Universiteitsoord=NNP=za # South Africa, placename?
 Univision=NNP=all
 Unix=Unix/NNP,Unixes/NNPS=all
+Unown=NNP=all
 Unsplash=NNP=all
 Unterwalden=NNP=all
 Upanishad=Upanishad/NNP,Upanishads/NNPS=all
@@ -40407,6 +41305,9 @@ Urochordata=NNP=all
 Urquhart=NNP=all
 Urs=NNP=all
 Ursa=NNP=all
+Ursaluna=NNP=all
+Ursaring=NNP=all
+Urshifu=NNP=all
 Ursidae=NNP=all
 Ursula=NNP=all
 Ursuline=Ursuline/NNP,Ursulines/NNPS=all
@@ -40455,6 +41356,7 @@ Uvalde=NNP=all
 Uvongo=NNP=za # South Africa, placename?
 Uwe=NNP=all
 Uxbridge=NNP=all
+Uxie=NNP=all
 Uxmal=NNP=all
 Uyaya=NNP=za # South Africa, placename?
 Uyghur=Uyghur/NNP,Uyghurs/NNPS=all
@@ -40744,6 +41646,9 @@ Vanes=NNP=za # South Africa, placename?
 Vanessa=NNP=all
 Vange=NNP=all
 Vania=NNP=all
+Vanillish=NNP=all
+Vanillite=NNP=all
+Vanilluxe=NNP=all
 Vanir=NNP=all
 Vanrhynsdorp=NNP=za # South Africa, placename?
 Vanriebeeckshof=NNP=za # South Africa, placename?
@@ -40751,6 +41656,7 @@ Vanuatu=NNP=all
 Vanwyksdorp=NNP=za # South Africa, placename?
 Vanwyksvlei=NNP=za # South Africa, placename?
 Vanzetti=NNP=all
+Vaporeon=NNP=all
 Vapotherm=NNP=all
 Varadero=NNP=all
 Varadkar=NNP=all
@@ -40766,6 +41672,7 @@ Vargas=NNP=all
 Varian=NNP=all
 Varityper=NNP=all
 Varney=NNP=all
+Varoom=NNP=all
 Varro=NNP=all
 Varuna=NNP=all
 Vary=NNP=all
@@ -40825,6 +41732,7 @@ Velddrif=NNP=za # South Africa, placename?
 Velihill=NNP=za # South Africa, placename?
 Velma=NNP=all
 Velsen-Zuid=NNP=all
+Veluza=NNP=all
 Velveeta=NNP=all
 Velásquez=NNP=all
 Velázquez=NNP=all
@@ -40844,6 +41752,7 @@ Venezuela=NNP=all
 Venezuelan=JJ=all
 Venezuelan=Venezuelan/NNP,Venezuelans/NNPS=all
 Venice=NNP=all
+Venipede=NNP=all
 Venite=Venite/NNP,Venites/NNPS=all
 Venkatesh=NNP=all
 Venkateswara=NNP=all
@@ -40851,7 +41760,9 @@ Venlo=NNP=all
 Venmo=NNP=all
 Venn=NNP=all
 Vennemann=NNP=all
+Venomoth=NNP=all
 Venona=NNP=all
+Venonat=NNP=all
 Venora=NNP=all
 Ventersburg=NNP=za # South Africa, placename?
 Ventersdorp=NNP=za # South Africa, placename?
@@ -40864,6 +41775,7 @@ Ventura=NNP=all
 VentureBeat=NNP=all
 Ventôse=NNP=all
 Venus=Venus/NNP,Venuses/NNPS=all
+Venusaur=NNP=all
 Venusberg=NNP=all
 Venuses=NNPS=all
 Venusian=JJ=all
@@ -40935,6 +41847,7 @@ Verónica=NNP=all
 Vesalius=NNP=all
 Vespa=NNP=all
 Vespasian=NNP=all
+Vespiquen=NNP=all
 Vespucci=NNP=all
 Vesta=NNP=all
 Vestager=NNP=all
@@ -40952,6 +41865,7 @@ Viagra=NNP=all
 Viasat=NNP=all
 Viber=NNP=all
 Viborg=NNP=all
+Vibrava=NNP=all
 Vic=NNP=all
 Vice=NNP=all
 Vicente=NNP=all
@@ -40966,12 +41880,14 @@ Vico=NNP=all
 Vicodin=NNP=all
 Viconian=JJ=all
 Victaulic=NNP=all
+Victini=NNP=all
 Victor=NNP=all
 Victoria=NNP=all
 Victorian=JJ=all
 Victorian=Victorian/NNP,Victorians/NNPS=all
 Victorianism=Victorianism/NNP,Victorianisms/NNPS=all
 Victoriano=NNP=all
+Victreebel=NNP=all
 Vida=NNP=all
 Vidal=NNP=all
 Vidalia=NNP=all
@@ -40995,12 +41911,14 @@ Viewcrest=NNP=za # South Africa, placename?
 Vigna=NNP=all
 Vignola=NNP=all
 Vigo=NNP=all
+Vigoroth=NNP=all
 Viipuri=NNP=all
 Vijay=NNP=all
 Vijaya=NNP=all
 Vijayawada=NNP=all
 Vikas=NNP=all
 Vikash=NNP=all
+Vikavolt=NNP=all
 Viking=Viking/NNP,Vikings/NNPS=all
 Vikingvale=NNP=za # South Africa, placename?
 Vikram=NNP=all
@@ -41008,6 +41926,7 @@ Viktor=NNP=all
 Viktoria=NNP=all
 Vila=NNP=all
 Vilcabamba=NNP=all
+Vileplume=NNP=all
 Viljoenskroon=NNP=za # South Africa, placename?
 Villa=NNP=all
 Villach=NNP=all
@@ -41075,6 +41994,7 @@ Virginian=JJ=all
 Virginian=Virginian/NNP,Virginians/NNPS=all
 Virginius=NNP=all
 Virgo=Virgo/NNP,Virgos/NNPS=all
+Virizion=NNP=all
 VirtualBox=NNP=all
 Visa=NNP=all
 Visagiepark=NNP=za # South Africa, placename?
@@ -41117,6 +42037,7 @@ Viviane=NNP=all
 Vivianne=NNP=all
 Vivien=NNP=all
 Vivienne=NNP=all
+Vivillon=NNP=all
 Vivo=NNP=za # South Africa, placename?
 VivoBook=VivoBook/NNP,VivoBooks/NNPS=all
 Vizcaíno=NNP=all
@@ -41153,6 +42074,9 @@ Voight=NNP=all
 Volans=NNP=all
 Volapuk=NNP=all
 Volapük=Volapük/NN:U,Volapük/NNP=all
+Volbeat=NNP=all
+Volcanion=NNP=all
+Volcarona=NNP=all
 Volga=NNP=all
 Volgograd=NNP=all
 Volker=NNP=all
@@ -41239,7 +42163,9 @@ Vulcania=NNP=za # South Africa, placename?
 Vuleka=NNP=za # South Africa, placename?
 Vulgate=Vulgate/NNP,Vulgates/NNPS=all
 Vulikwapa=NNP=za # South Africa, placename?
+Vullaby=NNP=all
 Vulpecula=NNP=all
+Vulpix=NNP=all
 Vumanhlamvu=NNP=za # South Africa, placename?
 Vumbeka=NNP=za # South Africa, placename?
 Vundu=NNP=za # South Africa, placename?
@@ -41529,6 +42455,8 @@ Wahoo=NNP=za # South Africa, placename?
 Waianae=NNP=all
 Waikato=NNP=all
 Waikiki=NNP=all
+Wailmer=NNP=all
+Wailord=NNP=all
 Wailuku=NNP=all
 Wain=NNP=all
 Wainwright=NNP=all
@@ -41595,6 +42523,7 @@ Walmart=NNP=all
 Walmsley=NNP=all
 Walpole=NNP=all
 Walpurgis=NNP=all
+Walrein=NNP=all
 Walsall=NNP=all
 Walsh=NNP=all
 Walsingham=NNP=all
@@ -41660,6 +42589,7 @@ Warta=NNP=all
 Wartburg=NNP=all
 Warthog=NNP=za # South Africa, placename?
 Warton=NNP=all
+Wartortle=NNP=all
 Warwick=NNP=all
 Warwickshire=NNP=all
 Wasatch=NNP=all
@@ -41677,6 +42607,7 @@ Wasserman=NNP=all
 Wassermann=Wassermann/NNP,Wassermanns/NNPS=all
 Watanabe=NNP=all
 Watchet=NNP=all
+Watchog=NNP=all
 Waterbury=NNP=all
 Waterford=NNP=all
 Watergate=Watergate/NNP,Watergates/NNPS=all
@@ -41707,6 +42638,7 @@ Watteau=NNP=all
 Wattenberg=NNP=all
 Watterson=NNP=all
 Wattpad=NNP=all
+Wattrel=NNP=all
 Watts=NNP=all
 Wattville=NNP=za # South Africa, placename?
 Watusi=Watusi/NNP,Watusis/NNPS=all
@@ -41740,6 +42672,7 @@ Wear=NNP=all
 Weasley=NNP=all
 Weatherford=NNP=all
 Weaver=NNP=all
+Weavile=NNP=all
 Web=NNP=all
 WebDriver=NNP=all
 WebEx=NNP=all
@@ -41766,11 +42699,14 @@ Wedgwood=Wedgwood/NNP,Wedgwoods/NNPS=all
 Wednesbury=NNP=all
 Wednesday=WEDNESDAY/NNP,Wednesday/NNP,Wednesdays/NNPS=all
 Weebly=NNP=all
+Weedle=NNP=all
 Weedsucker=NNP=za # South Africa, placename?
 Weegee=NNP=all
 Weekley=NNP=all
 Weeks=NNP=all
 Weenen=NNP=za # South Africa, placename?
+Weepinbell=NNP=all
+Weezing=NNP=all
 Weezy=NNP=all
 Wefox=NNP=all
 Wegdraai=NNP=za # South Africa, placename?
@@ -41991,10 +42927,14 @@ Whiggishly=RB=all
 Whiggishness=NN:U=all
 Whiggism=Whiggism/NNP,Whiggisms/NNPS=all
 Whimbrel=NNP=za # South Africa, placename?
+Whimsicott=NNP=all
 Whinchat=NNP=za # South Africa, placename?
 Whipple=NNP=all
+Whirlipede=NNP=all
 Whirlowdale=NNP=all
+Whiscash=NNP=all
 Whishaw=NNP=all
+Whismur=NNP=all
 Whispers=NNP=za # South Africa, placename?
 Whistlerian=JJ=all
 Whit=JJ=all
@@ -42062,7 +43002,9 @@ Wierdapark=NNP=za # South Africa, placename?
 Wiesbaden=NNP=all
 Wiggins=NNP=all
 Wigglesworth=NNP=all
+Wigglytuff=NNP=all
 Wight=NNP=all
+Wiglett=NNP=all
 Wigner=NNP=all
 Wigtown=NNP=all
 Wii=NNP=all
@@ -42175,6 +43117,7 @@ Wilsonville=NNP=all
 Wilton=Wilton/NNP,Wiltons/NNPS=all
 Wiltshire=Wiltshire/NNP,Wiltshires/NNPS=all
 Wimbledon=NNP=all
+Wimpod=NNP=all
 Wimpy=NNP=all
 WinDNS=NNP=all
 Winburg=NNP=za # South Africa, placename?
@@ -42201,6 +43144,7 @@ Winfried=NNP=all
 Wing=NNP=all
 WingStreet=NNP=all
 Wingfield=NNP=all
+Wingull=NNP=all
 Winifred=NNP=all
 Winkler=NNP=all
 Winklespruit=NNP=za # South Africa, placename?
@@ -42249,6 +43193,7 @@ Wisdom=NNP=all
 Wise=NNP=all
 Wiseman=NNP=all
 Wish=NNP=all
+Wishiwashi=NNP=all
 Wisla=NNP=all
 Wismar=NNP=all
 Witbank=NNP=za # South Africa, placename?
@@ -42285,7 +43230,9 @@ Witzenville=NNP=za # South Africa, placename?
 Wix=NNP=all
 Wiśniowski=NNP=all
 Wladimir=NNP=all
+Wo-Chien=NNP=all
 WoW=NNP=all
+Wobbuffet=NNP=all
 Wobegon=NNP=all
 Woburn=NNP=all
 Wodehouse=NNP=all
@@ -42335,6 +43282,7 @@ Wong=NNP=all
 Wongalethu=NNP=za # South Africa, placename?
 Wonsan=NNP=all
 WooCommerce=NNP=all
+Woobat=NNP=all
 Wood=NNP=all
 Woodall=NNP=all
 Woodberry=NNP=all
@@ -42363,10 +43311,12 @@ Woodward=NNP=all
 Woody=NNP=all
 Woolf=NNP=all
 Woolley=NNP=all
+Wooloo=NNP=all
 Woolwich=NNP=all
 Woolworth=NNP=all
 Woolworths=NNP=all
 Woonsocket=NNP=all
+Wooper=NNP=all
 Wooster=NNP=all
 Wootton=NNP=all
 Worcester=Worcester/NNP,Worcesters/NNPS=all
@@ -42380,6 +43330,7 @@ Wordsworthian=JJ=all
 Worksop=NNP=all
 WorldCom=NNP=all
 Worldpay=NNP=all
+Wormadam=NNP=all
 Worrall=NNP=all
 Worsley=NNP=all
 Worth=NNP=all
@@ -42404,6 +43355,7 @@ Writings=Writings/NNP,Writings/NNPS=all
 Wroclaw=NNP=all
 Wrocław=NNP=all
 Wu=NNP=all
+Wugtrio=NNP=all
 Wuhan=NNP=all
 Wuhsien=NNP=all
 Wuhu=NNP=all
@@ -42411,6 +43363,7 @@ Wulfila=NNP=all
 Wunderlist=NNP=all
 Wundt=NNP=all
 Wuppertal=NNP=all
+Wurmple=NNP=all
 Wusih=NNP=all
 Wvf=NNP=za # South Africa, placename?
 Wyandot=Wyandot/NNP,Wyandots/NNPS=all
@@ -42435,6 +43388,7 @@ Wyeth=NNP=all
 Wykeham=NNP=all
 Wylie=NNP=all
 Wyllie=NNP=all
+Wynaut=NNP=all
 Wynberg=NNP=za # South Africa, placename?
 Wyndham=NNP=all
 Wynn=NNP=all
@@ -42443,6 +43397,7 @@ Wynnewood=NNP=all
 Wyo=NNP=all
 Wyoming=NNP=all
 Wyomissing=NNP=all
+Wyrdeer=NNP=all
 Wythoff=NNP=all
 Württemberg=NNP=all
 Würzburg=NNP=all
@@ -42550,6 +43505,7 @@ Xanax=NNP=all
 Xander=NNP=all
 Xanthippe=Xanthippe/NNP,Xanthippes/NNPS=all
 Xanthus=NNP=all
+Xatu=NNP=all
 Xavi=NNP=all
 Xavier=NNP=all
 Xbox=NNP=all
@@ -42566,6 +43522,7 @@ Xenophon=NNP=all
 Xenophontean=JJ=all
 Xenopus=NNP=all
 Xeres=NNP=all
+Xerneas=NNP=all
 Xerox=Xerox/NNP,Xeroxes/NNPS=all
 Xerxes=NNP=all
 Xfce=NNP=all
@@ -42601,6 +43558,7 @@ Xsolla=NNP=all
 Xt=NNP=all
 Xuan=NNP=all
 Xuanzong=NNP=all
+Xurkitree=NNP=all
 Xuthus=NNP=all
 Xuzhou=NNP=all
 Xylocaine=Xylocaine/NNP,Xylocaines/NNPS=all
@@ -42695,9 +43653,11 @@ Yamaha=NNP=all
 Yamamoto=NNP=all
 Yamashina=NNP=all
 Yamashita=NNP=all
+Yamask=NNP=all
 Yamato=Yamato/NNP,Yamato/NNPS=all
 Yamazaki=NNP=all
 Yamoussoukro=NNP=all
+Yamper=NNP=all
 Yancey=NNP=all
 Yang=NNP=all
 Yangon=NNP=all
@@ -42710,6 +43670,8 @@ Yank=Yank/NNP,Yanks/NNPS=all
 Yankee=JJ=all
 Yankee=Yankee/NNP,Yankees/NNPS=all
 Yankeeism=Yankeeism/NNP,Yankeeisms/NNPS=all
+Yanma=NNP=all
+Yanmega=NNP=all
 Yann=NNP=all
 Yannick=NNP=all
 Yanomamö=NNP=all
@@ -42862,6 +43824,7 @@ Yulianna=NNP=all
 Yuma=Yuma/NNP,Yumas/NNPS=all
 Yuman=JJ=all
 Yumiko=NNP=all
+Yungoos=NNP=all
 Yunnan=NNP=all
 Yurev=NNP=all
 Yuri=NNP=all
@@ -42873,6 +43836,7 @@ Yushchenko=NNP=all
 Yusuf=NNP=all
 Yuyun=NNP=all
 Yuzuki=NNP=all
+Yveltal=NNP=all
 Yverdon-les-Bains=NNP=all
 Yves=NNP=all
 Yvette=NNP=all
@@ -42954,6 +43918,7 @@ Zachariah=NNP=all
 Zacharias=NNP=all
 Zachary=NNP=all
 Zachery=NNP=all
+Zacian=NNP=all
 Zack=NNP=all
 Zacynthus=NNP=all
 Zagazig=NNP=all
@@ -42971,6 +43936,7 @@ Zalu=NNP=za # South Africa, placename?
 Zama=NNP=all
 Zamakuhle=NNP=za # South Africa, placename?
 Zamane=NNP=za # South Africa, placename?
+Zamazenta=NNP=all
 Zambada=NNP=all
 Zambezi=NNP=all
 Zambia=NNP=all
@@ -42986,11 +43952,13 @@ Zanaflex=NNP=all
 Zandspruit=NNP=za # South Africa, placename?
 Zandt=NNP=all
 Zane=NNP=all
+Zangoose=NNP=all
 Zante=NNP=all
 Zanuck=NNP=all
 Zanzibar=NNP=all
 Zapata=NNP=all
 Zapatero=NNP=all
+Zapdos=NNP=all
 Zapier=NNP=all
 Zapopan=NNP=all
 Zaporizhia=NNP=all
@@ -43002,6 +43970,7 @@ Zara=NNP=all
 Zaragoza=NNP=all
 Zarathustra=NNP=all
 Zaroff=NNP=all
+Zarude=NNP=all
 Zastron=NNP=za # South Africa, placename?
 Zavala=NNP=all
 Zaventem=NNP=all
@@ -43012,6 +43981,7 @@ Zealander=NNP=all
 Zealandia=NNP=all
 Zealot=Zealot/NNP,Zealots/NNPS=all
 Zebedee=NNP=all
+Zebstrika=NNP=all
 Zebulon=NNP=all
 Zebulun=NNP=all
 Zech=NNP=all
@@ -43027,6 +43997,7 @@ Zeffirelli=NNP=all
 Zeist=NNP=all
 Zeitgeist=Zeitgeist/NNP,Zeitgeists/NNPS=all
 Zeke=NNP=all
+Zekrom=NNP=all
 Zelda=NNP=all
 Zelenskiy=NNP=all
 Zelensky=NNP=all
@@ -43049,6 +44020,7 @@ Zephyr=NNP=all
 Zephyrhills=NNP=all
 Zephyrus=NNP=all
 Zeppelin=Zeppelin/NNP,Zeppelins/NNPS=all
+Zeraora=NNP=all
 Zermatt=NNP=all
 Zerubbabel=NNP=all
 Zestril=NNP=all
@@ -43074,6 +44046,7 @@ Zidane=NNP=all
 Ziegfeld=NNP=all
 Ziegler=NNP=all
 Zigudu=NNP=za # South Africa, placename?
+Zigzagoon=NNP=all
 Zihuatanejo=NNP=all
 Zika=NNP=all
 Zikri=JJ=all
@@ -43151,17 +44124,20 @@ Zope=NNP=za # South Africa, placename?
 Zora=NNP=all
 Zoran=NNP=all
 Zorn=NNP=all
+Zoroark=NNP=all
 Zoroaster=NNP=all
 Zoroastrian=JJ=all
 Zoroastrian=Zoroastrian/NNP,Zoroastrians/NNPS=all
 Zoroastrianism=Zoroastrianism/NN:U,Zoroastrianism/NNP,Zoroastrianisms/NNPS=all
 Zorro=NNP=all
+Zorua=NNP=all
 Zoé=NNP=all
 Zoë=NNP=all
 Zr=NNP=all
 Zs=symbol=all
 Zsigmondy=NNP=all
 Zubane=NNP=za # South Africa, placename?
+Zubat=NNP=all
 Zubaydah=NNP=all
 Zuck=NNP=all
 Zuckerberg=NNP=all
@@ -43187,6 +44163,7 @@ Zwaveldspoort=NNP=za # South Africa, placename?
 Zwavelpoort=NNP=za # South Africa, placename?
 Zweig=NNP=all
 Zweihänder=noun=all
+Zweilous=NNP=all
 Zweletemba=NNP=za # South Africa, placename?
 Zwelethu=NNP=za # South Africa, placename?
 Zwelibomvu=NNP=za # South Africa, placename?
@@ -43204,6 +44181,7 @@ Zwinglian=JJ=all
 Zwinglian=Zwinglian/NNP,Zwinglians/NNPS=all
 Zwolle=NNP=all
 Zworykin=NNP=all
+Zygarde=NNP=all
 Zyprexa=NNP=all
 Zyrian=JJ=all
 Zyrian=Zyrian/NNP,Zyrians/NNPS=all
@@ -63930,6 +64908,7 @@ cross-party=JJ=all
 cross-platform=JJ=all
 cross-ply=RB=all
 cross-pollinate=verb=all
+cross-pollination=noun_UN=all
 cross-question=noun=all
 cross-question=verb=all
 cross-ratio=JJ=all
@@ -108197,18 +109176,26 @@ overcommercialization|overcommercialisation=noun_UN=us,ca,gb|gb,au,nz,za
 overcommit [-tt-]=verb=all
 overcommitment=noun=all
 overcommunicate=verb=all
+overcommunication=NN:U=all
+overcommunicative=JJ=all
 overcompensate=verb=all
 overcompensation=noun_U=all
 overcompetitive=JJ=all
+overcompetitively=RB=all
 overcompetitiveness=NN:U=all
+overcomplacence=NN:U=all
+overcomplacency=NN:U=all
 overcomplacent=JJ=all
 overcomplacently=RB=all
 overcomplex=JJ=all
+overcomplexity=NN:U=all
+overcompliance=NN:U=all
 overcompliant=JJ=all
 overcomplicate=verb=all
 overcomplicated=JJ=all
 overcompress=verb=all
 overcompression=NN:U=all
+overconcentration=NN:U=all
 overconfidence=noun_U=all
 overconfident=JJ=all
 overconfidently=RB=all
@@ -110824,6 +111811,7 @@ pebbling=noun_UN=all
 pebbly=pebbly/JJ,pebblier/JJR,pebbliest/JJS=all
 pebibit=noun=all
 pebibyte=noun=all
+pec=noun=all # colloquial
 pecan=noun=all
 peccable=JJ=all
 peccadillo=peccadillo/NN,peccadilloes/NNS,peccadillos/NNS=all
@@ -131821,6 +132809,7 @@ spry=spry/JJ,sprier/JJR,spryer/JJR,spriest/JJS,spryest/JJS=all
 spryly=RB=all
 spryness=NN:U=all
 spud=noun=all
+spud=verb=all
 spume=noun_U=all
 spume=verb=all
 spumoni=noun_UN=all

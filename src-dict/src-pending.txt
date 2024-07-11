@@ -19943,7 +19943,6 @@ Glendene=UNTAGGED=gb
 Glendevon=UNTAGGED=gb,za
 Glendive=NNP=none
 Glendowie=UNTAGGED=gb,nz
-Glenelg=UNTAGGED=gb
 Glenfarg=UNTAGGED=gb
 Glenfield=UNTAGGED=gb,nz
 Glenfields=UNTAGGED=gb
@@ -46314,7 +46313,6 @@ Snopek=UNTAGGED=gb
 Snoqualmie=UNTAGGED=gb
 Snoreham=UNTAGGED=gb
 Snoring=UNTAGGED=gb
-Snover=UNTAGGED=gb
 Snowbelt=Snowbelt/NNP,Snowbelts/NNPS=au,ca,us
 Snowber=NNP=none
 Snowmen=UNTAGGED=gb
@@ -73927,7 +73925,6 @@ cross-over=NN=none
 cross-pawl=NN=none
 cross-point=UNTAGGED=gb
 cross-polar=UNTAGGED=gb,nz,za
-cross-pollination=NN:U=none
 cross-post=UNTAGGED=gb
 cross-posted=UNTAGGED=gb
 cross-posting=UNTAGGED=gb
@@ -117876,15 +117873,7 @@ overcomits=UNTAGGED=nz,za
 overcommon=JJ=none
 overcommonly=RB=none
 overcommonness=NN=none
-overcommunication=noun_UN=none
-overcommunicative=JJ=none
 overcompetetive=UNTAGGED=us-large
-overcompetitively=RB=none
-overcomplacence=NN=none
-overcomplacency=NN=us-large
-overcomplexity=NN:UN=gb,nz,za
-overcompliance=noun=none
-overconcentration=noun_UN=none
 overconcern=UNTAGGED=us-large
 overcondensation=NN:UN=none
 overconscientiously=RB=none
@@ -120465,7 +120454,6 @@ peba=noun=us-large
 pebble-dashed=JJ=none
 pebrine=NN=gb
 pebrines=UNTAGGED=gb
-pec=UNTAGGED=us-large
 peccability=noun_UN=gb
 peccant=JJ=us-large
 peccantness=NN=none
@@ -120476,7 +120464,6 @@ pechan=noun=none
 peckerwood=noun=none
 pecky=pecky/JJ,peckier/JJR,peckiest/JJS=none
 pecopteris=NN=none
-pecs=NN=au,ca,us
 pectate=noun=gb
 pecteniform=UNTAGGED=gb
 pectenoid=UNTAGGED=gb
@@ -141706,9 +141693,7 @@ spruiker=noun=none
 spruit=NN=za
 spruits=UNTAGGED=za
 spud-bashing=NN:UN=none
-spudded=UNTAGGED=gb,nz,za
 spudder=noun=none
-spudding=UNTAGGED=gb,nz,za
 spue=verb=us-large
 spuggy=NN=none
 spulebane=noun=none
