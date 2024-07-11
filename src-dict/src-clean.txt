@@ -19785,6 +19785,7 @@ ISME=untagged=all
 ISMEA=untagged=all
 ISMRA=untagged=all
 ISN=NNP=all
+ISO=NNP=all
 ISO=noun=all
 ISOC=untagged=all
 ISP=noun=all
@@ -111728,7 +111729,8 @@ payslip=noun=all
 paywall=noun=all
 paywall=verb=all
 paywalled=JJ=all
-pc=noun=all
+pc=abbreviation=all
+pcs=abbreviation=all
 pct=abbreviation=all
 pe=noun_U=all
 pea=JJ=all
