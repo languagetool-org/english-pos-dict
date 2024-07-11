@@ -128892,12 +128892,11 @@ sixty=JJ=all
 sixty=noun=all
 sizableness|sizeableness=NN:U=us|au,ca,gb,za
 sizable|sizeable=JJ=us|au,ca,gb,za
-sizably=RB=all
+sizably|sizeably=RB=us|au,ca,gb,za
 sizar=noun=all
 size=noun_UN=all
 size=size/JJ,sizer/JJR=all
 size=verb=all
-sizeably=RB=all
 sized=JJ=all
 sizer=noun=all
 siziness=NN:U=all
