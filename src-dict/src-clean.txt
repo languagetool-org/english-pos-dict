@@ -60214,7 +60214,7 @@ cleanse=noun=all
 cleanse=verb=all
 cleanser=noun_UN=all
 cleansing=noun_UN=all
-cleantech [pl. cleantechs]=noun=all
+cleantech [pl. cleantechs]=noun_UN=all
 cleanup|clean-up=noun=au,ca,us|gb,nz,za
 clear-cut [clear-cuts;clear-cut;clear-cut;clear-cutting]=verb=all
 clear-cut=JJ=all
