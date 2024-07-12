@@ -138072,10 +138072,11 @@ teatime=teatime/NN,teatime/NN:U,teatimes/NNS=all
 teaware=noun=all
 tebibit=noun=all
 tebibyte=noun=all
-tech [pl. techs]=noun_UN=all
+tech [pl. techs]=noun=all
 tech-heavy=JJ=all
 tech-savvy=JJ=all
 tech=JJ=all
+tech=NN:U=all
 techie=noun=all
 techie=techie/JJ,techier/JJR,techiest/JJS=all
 techily=RB=all
