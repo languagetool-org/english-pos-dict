@@ -19787,8 +19787,8 @@ ISMEA=untagged=all
 ISMRA=untagged=all
 ISN=NNP=all
 ISO=NNP=all
-ISO=noun=all
 ISOC=untagged=all
+ISOs=NNPS=all
 ISP=noun=all
 ISPS=untagged=all
 ISR=untagged=all
@@ -53763,7 +53763,8 @@ biosystem=noun=all
 biosystematic=JJ=all
 biosystematic=noun=all
 biota=noun=all
-biotech=biotech/NN,biotechs/NNS=all
+biotech [pl. biotechs]=noun=all
+biotech=NN:U=all
 biotechnical=JJ=all
 biotechnological=JJ=all
 biotechnologically=RB=all
@@ -60213,7 +60214,7 @@ cleanse=noun=all
 cleanse=verb=all
 cleanser=noun_UN=all
 cleansing=noun_UN=all
-cleantech=cleantech/NN:UN,cleantechs/NNS=all
+cleantech [pl. cleantechs]=noun=all
 cleanup|clean-up=noun=au,ca,us|gb,nz,za
 clear-cut [clear-cuts;clear-cut;clear-cut;clear-cutting]=verb=all
 clear-cut=JJ=all
@@ -72060,7 +72061,7 @@ editorially=RB=all
 editorship=noun_U=all
 editress=noun=all
 eds=abbreviation=all
-edtech=NN:U=all
+edtech [pl. edtechs]=noun_UN=all
 educ=NN=all
 educability=noun_U=all
 educable=JJ=all
@@ -77266,7 +77267,7 @@ finlike=JJ=all
 finned=JJ=all
 finny=finny/JJ,finnier/JJR,finniest/JJS=all
 fino=noun=all
-fintech=fintech/NN,fintech/NN:U,fintechs/NNS=all
+fintech [pl. fintechs]=noun_UN=all
 fioritura=NN=all
 fipple=noun=all
 fiqh=NN=all
@@ -85210,8 +85211,8 @@ high-stepping=JJ=all
 high-street=JJ=all
 high-strength=JJ=all
 high-strung=JJ=all
+high-tech [pl. high-techs]=noun_UN=all
 high-tech=JJ=all
-high-tech=high-tech/NN:UN,high-techs/NNS=all
 high-technology=JJ=all
 high-temperature=JJ=all
 high-tension=JJ=all
@@ -89688,7 +89689,7 @@ infosec=NN:U=all
 infosphere=noun=all
 infosystem=noun=all
 infotainment=noun_U=all
-infotech=infotech/NN:U,infotech/NN:UN,infotechs/NNS=all
+infotech [pl. infotechs]=noun_UN=all
 infowar=noun_UN=all
 infra-red=JJ=all
 infra=JJ=all
@@ -90363,7 +90364,7 @@ insurrectionally=RB=all
 insurrectionary=JJ=all
 insurrectionary=noun=all
 insurrectionist=noun=all
-insurtech=noun=all
+insurtech [pl. insurtechs]=noun=all
 insusceptible=JJ=all
 insusceptibly=RB=all
 inswept=JJ=all
@@ -94547,7 +94548,7 @@ legalization|legalisation=noun_UN=us,ca,gb|gb,au,nz,za
 legalizer|legaliser=noun=us,ca,gb|gb,au,nz,za
 legalize|legalise=verb=us,ca,gb|gb,au,nz,za
 legally=RB=all
-legaltech=legaltech/NN:U,legaltechs/NNS=all
+legaltech [pl. legaltechs]=noun_UN=all
 legate=noun=all
 legatee=noun=all
 legateship=noun=all
@@ -138071,10 +138072,10 @@ teatime=teatime/NN,teatime/NN:U,teatimes/NNS=all
 teaware=noun=all
 tebibit=noun=all
 tebibyte=noun=all
+tech [pl. techs]=noun_UN=all
 tech-heavy=JJ=all
 tech-savvy=JJ=all
 tech=JJ=all
-tech=tech/NN,tech/NN:UN,techs/NNS=all
 techie=noun=all
 techie=techie/JJ,techier/JJR,techiest/JJS=all
 techily=RB=all
@@ -138953,6 +138954,7 @@ themeless=JJ=all
 themself=PRP=all
 themselves=PRP=all
 then=JJ=all
+then=NN:U=all
 then=RB=all
 thenar=JJ=all
 thenar=noun=all

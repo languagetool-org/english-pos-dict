@@ -80131,6 +80131,7 @@ editresses
 edits
 eds
 edtech
+edtechs
 educ
 educabilities
 educability
@@ -106132,7 +106133,7 @@ insurrectionist
 insurrectionists
 insurrections
 insurtech
-insurteches
+insurtechs
 insusceptible
 insusceptibly
 inswept
