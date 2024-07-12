@@ -980,6 +980,10 @@ bolshevize
 bolshevized
 bolshevizes
 bolshevizing
+bondman
+bondmen
+booger
+boogers
 bookstore
 bookstores
 botanize
@@ -1032,10 +1036,16 @@ burnettize
 burnettized
 burnettizes
 burnettizing
+busboy
+busboys
 buss
 bussed
 busses
 bussing
+butthead
+buttheads
+buzzkill
+buzzkills
 calcitization
 calcitizations
 calendarize
@@ -1051,6 +1061,8 @@ calorize
 calorized
 calorizes
 calorizing
+campground
+campgrounds
 canadianization
 canadianizations
 canalization
@@ -1334,6 +1346,10 @@ chronologize
 chronologized
 chronologizes
 chronologizing
+chunder
+chundered
+chundering
+chunders
 cicatrization
 cicatrizations
 cicatrize
@@ -1405,6 +1421,8 @@ climatize
 climatized
 climatizes
 climatizing
+clingfilm
+clingfilms
 cliticization
 cliticizations
 close-fertilization
@@ -1650,6 +1668,8 @@ conveyorize
 conveyorized
 conveyorizes
 conveyorizing
+cookout
+cookouts
 copolymerization
 copolymerizations
 copolymerize
@@ -1690,6 +1710,8 @@ counter-coloured
 countercoloured
 countermobilization
 countermobilizations
+cowlick
+cowlicks
 cozied
 cozier
 cozies
@@ -1727,6 +1749,8 @@ cross-fertilization
 cross-fertilizations
 cross-town
 crosstown
+crosswalk
+crosswalks
 crystallizable
 crystallization
 crystallizations
@@ -1777,6 +1801,10 @@ cyclize
 cyclized
 cyclizes
 cyclizing
+dang
+danged
+danging
+dangs
 dapple-grey
 dappled-grey
 dark-coloured
@@ -2549,11 +2577,18 @@ dolomitizes
 dolomitizing
 dolour
 dolours
+doohickey
+doohickeys
 dorize
 dorized
 dorizes
 dorizing
 dove-coloured
+downdraft
+downdrafts
+draftier
+draftiest
+drafty
 dramatizable
 dramatization
 dramatizations
@@ -2582,6 +2617,8 @@ duelling
 duellings
 duellist
 duellists
+dweeb
+dweebs
 dynamization
 dynamizations
 dynamize
@@ -2638,6 +2675,10 @@ elasticizes
 elasticizing
 electrocauterization
 electrocauterizations
+electrolyze
+electrolyzed
+electrolyzes
+electrolyzing
 elegize
 elegized
 elegizes
@@ -3163,6 +3204,8 @@ functionalize
 functionalized
 functionalizes
 functionalizing
+furor
+furors
 fustianize
 fustianized
 fustianizes
@@ -3326,6 +3369,8 @@ grammaticizes
 grammaticizing
 gramme
 grammes
+grandmom
+grandmoms
 grangerization
 grangerizations
 grangerize
@@ -3399,7 +3444,6 @@ gynecomorphous
 gyrostabilizer
 gyrostabilizers
 haem
-haemal
 haemolytic
 haems
 half-coloured
@@ -3456,6 +3500,7 @@ hektolitre
 hektolitres
 hellenization
 hellenizations
+hemal
 hematite
 hematites
 hematitic
@@ -3466,6 +3511,8 @@ hematologist
 hematologists
 hematology
 hematolysis
+hematoma
+hematomas
 hemorrhage
 hemorrhaged
 hemorrhages
@@ -3537,6 +3584,8 @@ homemaker
 homemakers
 homeroom
 homerooms
+homie
+homies
 hominization
 hominizations
 hominize
@@ -4010,6 +4059,8 @@ jasperize
 jasperized
 jasperizes
 jasperizing
+jello
+jellos
 jeopardize
 jeopardized
 jeopardizes
@@ -9001,6 +9052,7 @@ xeroxing
 yarovization
 yarovizations
 yellow-coloured
+yer
 yoctogramme
 yoctogrammes
 yoctolitre

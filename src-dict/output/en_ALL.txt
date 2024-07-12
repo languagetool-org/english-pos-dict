@@ -3399,6 +3399,7 @@ Assyriological
 Assyriologies
 Assyriology
 Astaire
+Astana
 Astarte
 Asteraceae
 Asterix
@@ -25852,6 +25853,7 @@ Mwanza
 Mweru
 MyISAM
 MySQL
+MySpace
 Myanmar
 Mycenae
 Mycenaean
@@ -29008,6 +29010,7 @@ Pelagianism
 Pelagianisms
 Pelagians
 Pelasgian
+Pele
 Pelegrín
 Pelham
 Pelias
@@ -45100,6 +45103,7 @@ antagonists
 antalgic
 antalgics
 antalkaline
+antarctic
 antarthritic
 antasthmatic
 ante
@@ -49674,6 +49678,7 @@ azygos
 azygoses
 azygous
 açai
+açaí
 b
 b-day
 b-days
@@ -54865,6 +54870,8 @@ boomsets
 boomtown
 boomtowns
 boon
+boondock
+boondocks
 boondoggle
 boondoggled
 boondoggles
@@ -57158,6 +57165,8 @@ businessperson
 businesspersons
 businesswoman
 businesswomen
+busing
+busings
 busk
 busked
 busker
@@ -61169,6 +61178,7 @@ chickenpox
 chickenpoxes
 chickens
 chickenshit
+chickenshits
 chickpea
 chickpeas
 chicks
@@ -61933,7 +61943,9 @@ chumpish
 chumpishness
 chumps
 chums
+chunder
 chunderous
+chunders
 chunk
 chunked
 chunker
@@ -63144,6 +63156,8 @@ closet
 closeted
 closeting
 closets
+closeup
+closeups
 closing
 closings
 clostridia
@@ -63915,6 +63929,8 @@ coffeehouse
 coffeehouses
 coffeemaker
 coffeemakers
+coffeepot
+coffeepots
 coffees
 coffer
 cofferdam
@@ -68033,6 +68049,10 @@ costae
 costal
 costally
 costals
+costar
+costarred
+costarring
+costars
 costed
 costermonger
 costermongers
@@ -68154,6 +68174,8 @@ coulombmeters
 coulombs
 coulometer
 coulometers
+coulrophobia
+coulrophobias
 coulé
 coulés
 council
@@ -68537,6 +68559,8 @@ counterthreat
 counterthreats
 counterthrust
 counterthrusts
+countertop
+countertops
 countertrade
 countertraded
 countertrades
@@ -68857,6 +68881,8 @@ cracker
 crackerjack
 crackerjacks
 crackers
+crackhead
+crackheads
 cracking
 crackings
 crackjaw
@@ -71361,7 +71387,6 @@ dandy
 dandyish
 dandyism
 dandyisms
-danged
 danger
 dangerless
 dangerous
@@ -76430,6 +76455,10 @@ dishonest
 dishonesties
 dishonestly
 dishonesty
+dishrag
+dishrags
+dishtowel
+dishtowels
 dishware
 dishwares
 dishwash
@@ -77717,6 +77746,8 @@ dollar
 dollars
 dollarwise
 dolled
+dollhouse
+dollhouses
 dollies
 dolling
 dollish
@@ -77845,6 +77876,8 @@ donning
 donnish
 donnishly
 donnishness
+donnybrook
+donnybrooks
 donné
 donnée
 données
@@ -77858,6 +77891,8 @@ donzella
 donzellas
 doo-doo
 doo-wop
+doodad
+doodads
 doodah
 doodahs
 doodle
@@ -78561,6 +78596,8 @@ dreadfully
 dreadfulness
 dreading
 dreadless
+dreadlock
+dreadlocks
 dreadness
 dreadnought
 dreadnoughts
@@ -82437,6 +82474,8 @@ entozoic
 entr
 entr'acte
 entr'actes
+entrail
+entrails
 entrain
 entrained
 entraining
@@ -87838,6 +87877,8 @@ fishery
 fishes
 fisheye
 fisheyes
+fishhook
+fishhooks
 fishier
 fishiest
 fishily
@@ -88248,6 +88289,8 @@ flatfootedness
 flatfoots
 flathead
 flatheads
+flatiron
+flatirons
 flatland
 flatlander
 flatlanders
@@ -89297,8 +89340,10 @@ footfall
 footfalls
 footgear
 footgears
+footgolf
 footgolfer
 footgolfers
+footgolfs
 foothill
 foothills
 foothold
@@ -90319,6 +90364,7 @@ frapping
 frappé
 frappés
 fraps
+frat
 frater
 fraternal
 fraternalism
@@ -90330,6 +90376,7 @@ fraters
 fratricidal
 fratricide
 fratricides
+frats
 fraud
 fraudfully
 frauds
@@ -91971,6 +92018,8 @@ garagings
 garb
 garbage
 garbages
+garbanzo
+garbanzos
 garbed
 garbing
 garble
@@ -93275,6 +93324,7 @@ ginkgos
 ginned
 ginning
 ginnings
+ginormous
 gins
 ginseng
 ginsengs
@@ -93798,6 +93848,8 @@ glowers
 glowing
 glowingly
 glows
+glowworm
+glowworms
 glowy
 gloxinia
 gloxinias
@@ -93855,12 +93907,14 @@ glutamine
 glutamines
 glutathione
 glutathiones
+glute
 gluteal
 glutei
 gluten
 gluten-free
 glutenous
 glutens
+glutes
 gluteus
 glutinous
 glutinously
@@ -94078,6 +94132,8 @@ goddammit
 goddamn
 goddamned
 goddamnedest
+goddaughter
+goddaughters
 goddess
 goddesses
 godfather
@@ -94269,6 +94325,8 @@ goodly
 goodman
 goodmen
 goodness
+goodnight
+goodnights
 goods
 goodwife
 goodwill
@@ -94280,6 +94338,8 @@ goody-goody
 gooey
 gooeyness
 goof
+goofball
+goofballs
 goofed
 goofier
 goofiest
@@ -95307,6 +95367,8 @@ gristlier
 gristliest
 gristliness
 gristly
+gristmill
+gristmills
 grists
 grit
 gritless
@@ -95368,6 +95430,8 @@ groomers
 grooming
 groomings
 grooms
+groomsman
+groomsmen
 groove
 grooved
 grooveless
@@ -95445,6 +95509,8 @@ grounded
 groundedness
 grounder
 grounders
+groundhog
+groundhogs
 grounding
 groundings
 groundless
@@ -95734,6 +95800,8 @@ guesthouse
 guesthouses
 guesting
 guestless
+guestroom
+guestrooms
 guests
 guff
 guffaw
@@ -95879,6 +95947,10 @@ gumptionless
 gumptions
 gumptious
 gums
+gumshoe
+gumshoed
+gumshoes
+gumshoing
 gumtree
 gumtrees
 gun
@@ -95958,6 +96030,8 @@ gurgling
 gurglingly
 gurnard
 gurnards
+gurney
+gurneys
 guru
 gurus
 gush
@@ -96158,6 +96232,10 @@ gyrostatic
 gyrostatically
 gyrus
 gyruses
+gyve
+gyved
+gyves
+gyving
 gâteau
 gâteaus
 gâteaux
@@ -96234,6 +96312,8 @@ hackers
 hackery
 hackfest
 hackfests
+hackier
+hackiest
 hacking
 hackingly
 hackings
@@ -96253,6 +96333,7 @@ hacktivist
 hacktivists
 hackwork
 hackworks
+hacky
 had
 hadal
 haddock
@@ -99641,6 +99722,8 @@ holdouts
 holdover
 holdovers
 holds
+holdup
+holdups
 hole
 hole-and-corner
 hole-in-one
@@ -99759,6 +99842,8 @@ home-made
 homebodies
 homebody
 homebound
+homeboy
+homeboys
 homebred
 homebreds
 homebrew
@@ -100009,6 +100094,8 @@ homuncular
 homunculi
 homunculus
 hon
+honcho
+honchos
 hone
 honed
 honer
@@ -100643,6 +100730,8 @@ houserooms
 houses
 housetop
 housetops
+houseware
+housewares
 housewarming
 housewarmings
 housewife
@@ -102319,6 +102408,8 @@ identifiers
 identifies
 identify
 identifying
+identikit
+identikits
 identities
 identity
 ideogram
@@ -108959,6 +109050,8 @@ jitteriness
 jittering
 jitters
 jittery
+jiu-jitsu
+jiu-jitsus
 jiujitsu
 jiujitsus
 jivanmukta
@@ -123952,6 +124045,7 @@ neoliberals
 neolibertarianism
 neolibertarianisms
 neolith
+neolithic
 neoliths
 neolocal
 neolocality
@@ -129810,6 +129904,8 @@ opaquest
 opaquing
 opcode
 opcodes
+ope
+oped
 open
 open-air
 open-and-shut
@@ -129903,6 +129999,7 @@ operons
 operose
 operosely
 operoseness
+opes
 ophicleide
 ophicleides
 ophidian
@@ -129947,6 +130044,7 @@ opiates
 opine
 opined
 opines
+oping
 opining
 opinion
 opinionated
@@ -138412,6 +138510,8 @@ pisé
 pisés
 pit
 pit-a-pat
+pita
+pitas
 pitch
 pitch-black
 pitch-dark
@@ -157027,6 +157127,8 @@ schnauzer
 schnauzers
 schnitzel
 schnitzels
+schnook
+schnooks
 scholar
 scholarless
 scholarliness
@@ -170203,6 +170305,8 @@ sunglass
 sunglasses
 sungrazer
 sungrazers
+sunhat
+sunhats
 suni
 sunis
 sunk

@@ -66301,7 +66301,6 @@ bushwalking=NN=au,nz
 bushwhackings=UNTAGGED=gb
 bushwillow=UNTAGGED=za
 bushy-bearded=JJ=none
-busing=noun_U=ca,us
 busload=noun=au,ca,us
 bussu=noun=none
 bustee=noun=us-large
@@ -66365,8 +66364,6 @@ butterscotchisable=UNTAGGED=gb
 butterscotchiser=UNTAGGED=gb
 butterscotchisers=UNTAGGED=gb
 butterweed=noun=none
-butthead=UNTAGGED=ca,us
-buttheads=UNTAGGED=ca,us
 buttings=UNTAGGED=gb
 buttinski=buttinski/NN,buttinskies/NNS,buttinskis/NNS=none
 buttling=buttling/NN,buttling/NNS=none
@@ -69928,11 +69925,8 @@ chummage=noun=none
 chumped=UNTAGGED=gb,nz,za
 chumping=NN=gb,nz,za
 chumship=noun=none
-chundered=UNTAGGED=au,ca,nz,us
 chunderer=UNTAGGED=nz
 chunderers=UNTAGGED=nz
-chundering=UNTAGGED=au,ca,nz,us
-chunders=UNTAGGED=au,ca,nz,us
 chunga=NN=none
 chunnel=noun=none
 chupati=noun=none
@@ -81064,12 +81058,10 @@ electroluminescenction=UNTAGGED=gb
 electroluminescenctions=UNTAGGED=gb
 electroluminescenctiveness=UNTAGGED=gb
 electrolysation=NN:UN=gb
-electrolyse=verb=gb,nz,za
 electrolyser=NN=gb
 electrolysers=UNTAGGED=gb
 electrolytical=UNTAGGED=gb
 electrolyzation=NN:UN=us
-electrolyze=verb=us
 electrolyzer=NN=us
 electrolyzers=UNTAGGED=us
 electromagnetist=NN=none
@@ -89006,7 +88998,6 @@ gluteiisable=UNTAGGED=gb
 gluteiiser=UNTAGGED=gb
 glutelin=noun_U=us-large
 glutenin=noun=none
-glutes=UNTAGGED=all
 glutethimide=noun=none
 glutin=NN:U=none
 glutinant=NN=none
@@ -89756,7 +89747,6 @@ grandeeship=NN=none
 grandiflora=noun=gb
 grandmama=noun=none
 grandmamma=noun=us-large
-grandmoms=UNTAGGED=ca,us
 grandmotherhood=UNTAGGED=gb
 grandmotherhoodably=UNTAGGED=gb
 grandmotherhoodally=UNTAGGED=gb
@@ -90728,8 +90718,6 @@ hackerspaces=UNTAGGED=gb
 hackeryible=UNTAGGED=gb
 hackette=noun=gb
 hackie=noun=us-large
-hackier=UNTAGGED=gb
-hackiest=UNTAGGED=gb
 hackily=UNTAGGED=gb
 hackishly=UNTAGGED=gb
 hackleback=NN=none
@@ -90742,7 +90730,6 @@ hackneyism=noun_UN=none
 hackneyman=hackneyman/NN,hackneymen/NNS=none
 hacksawed=UNTAGGED=gb,nz,za
 hacksawing=UNTAGGED=gb,nz,za
-
 hacqueton=noun=none
 hadaway=UH=none
 haddie=noun=none
@@ -90792,7 +90779,6 @@ haematocyte=NN=none
 haematogenesis=NN=none
 haematogenously=UNTAGGED=gb
 haematoidin=JJ=none
-haematoma=noun=gb,nz,za
 haematomata=UNTAGGED=gb
 haematophagous=UNTAGGED=gb
 haematophyte=NN=none
@@ -93806,7 +93792,6 @@ homeward-bounders=UNTAGGED=gb
 homewardly=UNTAGGED=gb
 homeware=UNTAGGED=gb
 homewares=UNTAGGED=gb
-homie=homie/JJ,homier/JJR,homiest/JJS=us
 homiliaries=UNTAGGED=gb
 homiliary=NN=gb
 homilist=noun=us-large
@@ -116682,7 +116667,6 @@ opalite=UNTAGGED=gb
 opanci=UNTAGGED=gb
 opanka=UNTAGGED=gb
 opankas=UNTAGGED=gb
-oped=UNTAGGED=us-large
 opeidoscope=noun=none
 open-airishness=NN=none
 open-collared=JJ=none
@@ -116731,7 +116715,6 @@ opercular=noun=gb
 operculates=UNTAGGED=gb
 opercule=noun=none
 operettist=noun=none
-opes=UNTAGGED=us-large
 opex=UNTAGGED=all
 opheodrys=NN=none
 ophicleidean=JJ=none
@@ -116777,7 +116760,6 @@ opiated=UNTAGGED=gb,nz,za
 opiating=UNTAGGED=gb,nz,za
 opificer=noun=none
 opiliones=NN=none
-oping=UNTAGGED=us-large
 opinicus=NN=us-large
 opinioned=UNTAGGED=gb
 opinionist=noun=none

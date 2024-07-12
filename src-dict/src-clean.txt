@@ -43,7 +43,6 @@
 #anes=RB=all # ??
 #angerly=RB=all archaic
 #anotherArtificialTestWordForLanguageTool=UNTAGGED=all
-antarctic=JJ=all # often capitalized but not obligatorily
 #anyways=RB=au,ca,us # informal
 #aport=RB=all # archaic
 #aposiopesis [pl. aposiopeses]=noun=all # Obsolete
@@ -47959,6 +47958,7 @@ antagonize|antagonise=verb=us,ca,gb|gb,au,nz,za
 antalgic=JJ=all
 antalgic=noun=all
 antalkaline=JJ=all
+antarctic=JJ=all # often capitalized but not obligatorily
 antarthritic=JJ=all
 antasthmatic=JJ=all
 ante [antes;anted,anteed;anted,anteed;anteing]=verb=all
@@ -59639,8 +59639,8 @@ chummy=noun=all
 chump=noun=all
 chumpish=JJ=all
 chumpishness=NN:U=all
-chunder=verb=au,ca,gb,nz
 chunder=noun=all
+chunder=verb=au,ca,gb,nz
 chunderous=JJ=all
 chunk=noun=all
 chunk=verb=all
@@ -72453,12 +72453,12 @@ electrolier=noun=all
 electrologist=noun=all
 electroluminescence=noun=all
 electroluminescent=JJ=all
-electrolyze|electrolyse=verb=ca,gb,us|au,gb,nz,za
 electrolysis=electrolysis/NN:U,electrolyses/NNS=all
 electrolyte=noun=all
 electrolytic=JJ=all
 electrolytic=NN=all
 electrolytically=RB=all
+electrolyze|electrolyse=verb=ca,gb,us|au,gb,nz,za
 electromagnet=noun=all
 electromagnetic=JJ=all
 electromagnetic=noun=all
@@ -77662,8 +77662,8 @@ flatfooted=JJ=all
 flatfootedly=RB=all
 flatfootedness=NN:U=all
 flathead=noun=all
-flatiron=noun=all
 flatiron=JJ=all
+flatiron=noun=all
 flatland=noun_U=all
 flatlander=noun=all
 flatling=RB=gb # dialectal
@@ -81501,11 +81501,11 @@ glut=verb=all
 glutamate=noun_U=all
 glutamine=noun_U=all
 glutathione=glutathione/NN,glutathione/NN:U,glutathiones/NNS=all
+glute=noun=all
 gluteal=JJ=all
 gluten-free=JJ=all
 gluten=noun_U=all
 glutenous=JJ=all
-glute=noun=all
 gluteus=gluteus/NN,glutei/NNS=all
 glutinous=JJ=all
 glutinously=RB=all
@@ -82546,7 +82546,7 @@ groom=verb=all
 groomed=JJ=all
 groomer=noun=all
 grooming=noun_U=all
-groomsman [pl.groomsmen]=noun=all
+groomsman [pl. groomsmen]=noun=all
 groove=noun=all
 groove=verb=all
 grooveless=JJ=all
@@ -82879,8 +82879,8 @@ gummy=noun=all
 gumption=noun_U=all
 gumptionless=JJ=all
 gumptious=JJ=all
-gumshoe=verb=all
 gumshoe=noun=all
+gumshoe=verb=all
 gumtree=noun=all
 gun-shy=JJ=all
 gun-toting=JJ=all
@@ -156901,8 +156901,8 @@ yeomanry=noun_U=all
 yep=JJ=all
 yep=RB=all
 yep=noun=all
-yer=contraction=gb
 yer=DT=au,ca,gb,us
+yer=contraction=gb
 yerba=noun=all
 yersiniosis [pl. yersinioses]=noun=all
 yes [-ss-,-s-]=verb=all # colloquial, slang

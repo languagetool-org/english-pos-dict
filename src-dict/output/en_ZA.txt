@@ -8152,6 +8152,10 @@ elasticises
 elasticising
 electrocauterisation
 electrocauterisations
+electrolyse
+electrolysed
+electrolyses
+electrolysing
 elegise
 elegised
 elegises
@@ -8922,6 +8926,7 @@ gynaecomorphous
 gyrostabiliser
 gyrostabilisers
 haem
+haemal
 haematite
 haematites
 haematitic
@@ -8932,6 +8937,8 @@ haematologist
 haematologists
 haematology
 haematolysis
+haematoma
+haematomas
 haemorrhage
 haemorrhaged
 haemorrhages
@@ -8996,7 +9003,6 @@ hektolitre
 hektolitres
 hellenisation
 hellenisations
-hemal
 hemolytic
 heparinisation
 heparinisations
@@ -9520,6 +9526,8 @@ jasperise
 jasperised
 jasperises
 jasperising
+jello
+jellos
 jeopardise
 jeopardised
 jeopardises
@@ -10954,6 +10962,7 @@ officialise
 officialised
 officialises
 officialising
+oi
 oligomerisation
 oligomerisations
 oligomerise

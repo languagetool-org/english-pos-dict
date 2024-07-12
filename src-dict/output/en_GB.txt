@@ -2402,6 +2402,10 @@ chronologize
 chronologized
 chronologizes
 chronologizing
+chunder
+chundered
+chundering
+chunders
 chunter
 chuntered
 chuntering
@@ -4380,6 +4384,7 @@ dichotomize
 dichotomized
 dichotomizes
 dichotomizing
+diddums
 dieselisation
 dieselisations
 dieselise
@@ -4787,6 +4792,14 @@ electrocauterisation
 electrocauterisations
 electrocauterization
 electrocauterizations
+electrolyse
+electrolysed
+electrolyses
+electrolysing
+electrolyze
+electrolyzed
+electrolyzes
+electrolyzing
 elegise
 elegised
 elegises
@@ -6130,6 +6143,7 @@ gyrostabilisers
 gyrostabilizer
 gyrostabilizers
 haem
+haemal
 haematite
 haematites
 haematitic
@@ -6140,6 +6154,8 @@ haematologist
 haematologists
 haematology
 haematolysis
+haematoma
+haematomas
 haemorrhage
 haemorrhaged
 haemorrhages
@@ -6225,7 +6241,6 @@ hellenisation
 hellenisations
 hellenization
 hellenizations
-hemal
 hemolytic
 heparinisation
 heparinisations
@@ -8506,6 +8521,8 @@ modularize
 modularized
 modularizes
 modularizing
+moggies
+moggy
 moisturise
 moisturised
 moisturiser
@@ -9568,6 +9585,7 @@ officialize
 officialized
 officializes
 officializing
+oi
 oligomerisation
 oligomerisations
 oligomerise
@@ -15893,6 +15911,7 @@ yarovisations
 yarovization
 yarovizations
 yellow-coloured
+yer
 yestreen
 yoctogramme
 yoctogrammes

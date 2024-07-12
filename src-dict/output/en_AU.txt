@@ -985,6 +985,10 @@ bolshevise
 bolshevised
 bolshevises
 bolshevising
+bondman
+bondmen
+booger
+boogers
 bookstore
 bookstores
 botanise
@@ -1037,10 +1041,14 @@ burnettise
 burnettised
 burnettises
 burnettising
+busboy
+busboys
 buss
 bussed
 busses
 bussing
+buzzkill
+buzzkills
 caesium
 caesiums
 calcitisation
@@ -1058,6 +1066,8 @@ calorise
 calorised
 calorises
 calorising
+campground
+campgrounds
 canadianisation
 canadianisations
 canalisation
@@ -1335,6 +1345,10 @@ chronologise
 chronologised
 chronologises
 chronologising
+chunder
+chundered
+chundering
+chunders
 cicatrisation
 cicatrisations
 cicatrise
@@ -1406,6 +1420,8 @@ climatise
 climatised
 climatises
 climatising
+clingfilm
+clingfilms
 cliticisation
 cliticisations
 close-fertilisation
@@ -1697,6 +1713,8 @@ counter-coloured
 countercoloured
 countermobilisation
 countermobilisations
+cowlick
+cowlicks
 cream-coloured
 creolisation
 creolisations
@@ -1726,6 +1744,8 @@ cross-fertilisation
 cross-fertilisations
 cross-town
 crosstown
+crosswalk
+crosswalks
 crystallisable
 crystallisation
 crystallisations
@@ -2551,6 +2571,8 @@ domesticise
 domesticised
 domesticises
 domesticising
+doohickey
+doohickeys
 dorise
 dorised
 dorises
@@ -2586,6 +2608,8 @@ duelling
 duellings
 duellist
 duellists
+dweeb
+dweebs
 dynamisation
 dynamisations
 dynamise
@@ -2638,6 +2662,10 @@ elasticises
 elasticising
 electrocauterisation
 electrocauterisations
+electrolyse
+electrolysed
+electrolyses
+electrolysing
 elegise
 elegised
 elegises
@@ -3405,6 +3433,7 @@ gynaecomorphous
 gyrostabiliser
 gyrostabilisers
 haem
+haemal
 haematite
 haematites
 haematitic
@@ -3415,6 +3444,8 @@ haematologist
 haematologists
 haematology
 haematolysis
+haematoma
+haematomas
 haemorrhage
 haemorrhaged
 haemorrhages
@@ -3480,7 +3511,6 @@ hektolitre
 hektolitres
 hellenisation
 hellenisations
-hemal
 hemolytic
 heparinisation
 heparinisations
@@ -4018,6 +4048,8 @@ jasperise
 jasperised
 jasperises
 jasperising
+jello
+jellos
 jeopardise
 jeopardised
 jeopardises
@@ -4739,6 +4771,8 @@ modularise
 modularised
 modularises
 modularising
+moggies
+moggy
 moisturise
 moisturised
 moisturiser
@@ -5453,6 +5487,7 @@ officialise
 officialised
 officialises
 officialising
+oi
 oligomerisation
 oligomerisations
 oligomerise
@@ -9047,6 +9082,7 @@ xeroxing
 yarovisation
 yarovisations
 yellow-coloured
+yer
 yoctogramme
 yoctogrammes
 yoctolitre
