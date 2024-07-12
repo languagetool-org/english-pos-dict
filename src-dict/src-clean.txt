@@ -71415,7 +71415,7 @@ electrolier=noun=all
 electrologist=noun=all
 electroluminescence=noun=all
 electroluminescent=JJ=all
-electrolyze|electrolyse=verb=us|au,ca,gb,nz,za
+electrolyze|electrolyse=verb=ca,gb,us|au,gb,nz,za
 electrolysis=electrolysis/NN:U,electrolyses/NNS=all
 electrolyte=noun=all
 electrolytic=JJ=all
@@ -81502,7 +81502,7 @@ groom=verb=all
 groomed=JJ=all
 groomer=noun=all
 grooming=noun_U=all
-groomsman [pl.groomsmen]=nooun=all
+groomsman [pl.groomsmen]=noun=all
 groove=noun=all
 groove=verb=all
 grooveless=JJ=all
