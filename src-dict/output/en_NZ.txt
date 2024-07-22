@@ -811,6 +811,10 @@ autoimmunisation
 autoimmunisations
 autoionisation
 autoionisations
+autolyse
+autolysed
+autolyses
+autolysing
 automatisation
 automatisations
 automatise
@@ -7371,6 +7375,7 @@ semimineralised
 seminationalised
 semiosisation
 semiosisations
+semiparalysed
 sensationalisation
 sensationalisations
 sensationalise
@@ -8351,6 +8356,7 @@ underutilised
 underutilises
 underutilising
 undervitalised
+undialysed
 undiscoloured
 undishonoured
 undisorganised
@@ -8479,6 +8485,7 @@ unoxidisable
 unoxidised
 unoxygenised
 unpanegyrised
+unparalysed
 unparenthesised
 unparticularised
 unpasteurised

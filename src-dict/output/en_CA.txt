@@ -823,6 +823,10 @@ autoimmunization
 autoimmunizations
 autoionization
 autoionizations
+autolyze
+autolyzed
+autolyzes
+autolyzing
 automatization
 automatizations
 automatize
@@ -7473,6 +7477,7 @@ semimineralized
 seminationalized
 semiosization
 semiosizations
+semiparalyzed
 sensationalization
 sensationalizations
 sensationalize
@@ -8478,6 +8483,7 @@ underutilized
 underutilizes
 underutilizing
 undervitalized
+undialyzed
 undiscoloured
 undishonoured
 undisorganized
@@ -8610,6 +8616,7 @@ unoxidizable
 unoxidized
 unoxygenized
 unpanegyrized
+unparalyzed
 unparenthesized
 unparticularized
 unpasteurized

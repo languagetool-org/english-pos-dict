@@ -159137,7 +159137,6 @@ semiovate
 semioviparous
 semipagan
 semipalmate
-semiparalyzed
 semiparasitic
 semipastoral
 semipatriotic
@@ -182840,7 +182839,6 @@ undiagnosable
 undiagnosed
 undialed
 undialled
-undialyzed
 undiaphanous
 undiatonic
 undichotomous
@@ -186449,8 +186447,6 @@ unparadoxically
 unparagraphed
 unparallel
 unparalleled
-unparalysed
-unparalyzed
 unparaphrased
 unparasitic
 unparasitical

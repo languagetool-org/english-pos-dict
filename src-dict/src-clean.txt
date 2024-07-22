@@ -47448,11 +47448,11 @@ analytical=JJ=all
 analytically=RB=all
 analyticity=noun_U=all
 analytics=NN:U=all
-analyzability|analysability=noun_UN=us,ca,gb|gb,au,nz,za
-analyzable|analysable=JJ=us,ca,gb|gb,au,nz,za
+analyzability|analysability=noun_UN=us,ca|gb,au,nz,za
+analyzable|analysable=JJ=us,ca|gb,au,nz,za
 analyzation=noun_UN=all
-analyzer|analyser=noun=us,ca,gb|gb,au,nz,za
-analyze|analyse=verb=us,ca,gb|gb,au,nz,za
+analyzer|analyser=noun=us,ca|gb,au,nz,za
+analyze|analyse=verb=us,ca|gb,au,nz,za
 anamnesis=anamnesis/NN,anamneses/NNS=all
 anamnestic=JJ=all
 anamnestically=RB=all
@@ -50997,7 +50997,7 @@ auto-tune=noun_UN=all
 auto-tune=verb=all
 auto=noun=all
 autoanalysis [pl. autoanalyses]=noun_UN=all
-autoanalyzer|autoanalyser=noun=us,ca,gb|gb,au,nz,za
+autoanalyzer|autoanalyser=noun=us,ca|gb,au,nz,za
 autoantibody=noun_U=all
 autobahn=autobahn/NN,autobahnen/NNS,autobahns/NNS=all
 autobid=noun=all
@@ -51098,6 +51098,7 @@ autologous=JJ=all
 autolysin=noun=all
 autolysis=autolysis/NN:U,autolyses/NNS=all
 autolytic=JJ=all
+autolyze|autolyse=verb=us,ca|gb,au,nz,za
 automagically=RB=all
 automaker=noun=all
 automat=noun=all
@@ -53539,7 +53540,7 @@ bioanalysis [pl. bioanalyses]=noun_UN=all
 bioanalyst=noun=all
 bioanalytic=JJ=all
 bioanalytical=JJ=all
-bioanalyzer|bioanalyser=noun=us,ca,gb|gb,au,nz,za
+bioanalyzer|bioanalyser=noun=us,ca|gb,au,nz,za
 bioavailability=noun_UN=all
 bioavailable=JJ=all
 biobank=noun=all
@@ -55484,8 +55485,8 @@ breath-taking=JJ=all
 breath=noun_UN=all
 breathability=noun_UN=all
 breathable=JJ=all
-breathalyzer|breathalyser=noun=us,ca,gb|gb,au,nz,za
-breathalyze|breathalyse=verb=us,ca,gb|gb,au,nz,za
+breathalyzer|breathalyser=noun=us,ca|gb,au,nz,za
+breathalyze|breathalyse=verb=us,ca|gb,au,nz,za
 breathe=verb=all
 breathed=JJ=all
 breather=noun=all
@@ -57919,8 +57920,8 @@ catalytic=JJ=all
 catalytic=noun=all
 catalytical=JJ=all
 catalytically=RB=all
-catalyzer|catalyser=noun=ca,us,gb|au,gb,nz,za
-catalyze|catalyse=verb=ca,us,gb|au,gb,nz,za
+catalyzer|catalyser=noun=ca,us|au,gb,nz,za
+catalyze|catalyse=verb=ca,us|au,gb,nz,za
 catamaran=noun=all
 catamenial=JJ=all
 catamnestic=JJ=all
@@ -72501,7 +72502,7 @@ electrolyte=noun=all
 electrolytic=JJ=all
 electrolytic=NN=all
 electrolytically=RB=all
-electrolyze|electrolyse=verb=ca,gb,us|au,gb,nz,za
+electrolyze|electrolyse=verb=ca,us|au,gb,nz,za
 electromagnet=noun=all
 electromagnetic=JJ=all
 electromagnetic=noun=all
@@ -88046,7 +88047,7 @@ immunity=noun_U=all
 immunization|immunisation=noun_UN=us,ca,gb|gb,au,nz,za
 immunizer|immuniser=noun=us,ca,gb|gb,au,nz,za
 immunize|immunise=verb=us,ca,gb|gb,au,nz,za
-immunoanalyzer|immunoanalyser=noun=us,ca,gb|gb,au,nz,za
+immunoanalyzer|immunoanalyser=noun=us,ca|gb,au,nz,za
 immunoassay=noun=all
 immunoblot=noun=all
 immunochemistry=noun=all
@@ -99074,7 +99075,7 @@ microanalysis [pl. microanalyses]=noun_UN=all
 microanalyst=noun=all
 microanalytic=JJ=all
 microanalytical=JJ=all
-microanalyzer|microanalyser=noun=us,ca,gb|gb,au,nz,za
+microanalyzer|microanalyser=noun=us,ca|gb,au,nz,za
 microangiopathic=JJ=all
 microarchitecture=noun=all
 microarray=noun=all
@@ -99889,8 +99890,8 @@ misalliance=noun=all
 misallocate=verb=all
 misallocation=noun_UN=all
 misanalysis [pl. misanalyses]=noun_UN=all
-misanalyzed|misanalysed=JJ=us,ca,gb|gb,au,nz,za
-misanalyze|misanalyse=verb=us,ca,gb|gb,au,nz,za
+misanalyzed|misanalysed=JJ=us,ca|gb,au,nz,za
+misanalyze|misanalyse=verb=us,ca|gb,au,nz,za
 misandrist=JJ=all
 misandrist=noun=all
 misandry=noun_U=all
@@ -109186,7 +109187,7 @@ overambitiousness=NN:U=all
 overanalysis [pl. overanalyses]=noun_UN=all
 overanalytical=JJ=all
 overanalytically=RB=all
-overanalyze|overanalyse=verb=us,ca,gb|gb,au,nz,za
+overanalyze|overanalyse=verb=us,ca|gb,au,nz,za
 overanxious=JJ=all
 overanxiously=RB=all
 overanxiousness=NN:U=all
@@ -111065,14 +111066,14 @@ paralytic=JJ=all
 paralytic=noun=all
 paralytical=JJ=gb # unusual?
 paralytically=RB=all
-paralyzant|paralysant=JJ=ca,us,gb|au,gb,nz,za
-paralyzant|paralysant=NN=ca,us,gb|au,gb,nz,za
-paralyzedly|paralysedly=RB=ca,us,gb|au,gb,nz,za
-paralyzed|paralysed=JJ=ca,us,gb|au,gb,nz,za
-paralyzer|paralyser=noun=ca,us,gb|au,gb,nz,za
-paralyze|paralyse=verb=ca,us,gb|au,gb,nz,za
-paralyzingly|paralysingly=RB=ca,us,gb|au,gb,nz,za
-paralyzing|paralysing=JJ=ca,us,gb|au,gb,nz,za
+paralyzant|paralysant=JJ=ca,us|au,gb,nz,za
+paralyzant|paralysant=NN=ca,us|au,gb,nz,za
+paralyzedly|paralysedly=RB=ca,us|au,gb,nz,za
+paralyzed|paralysed=JJ=ca,us|au,gb,nz,za
+paralyzer|paralyser=noun=ca,us|au,gb,nz,za
+paralyze|paralyse=verb=ca,us|au,gb,nz,za
+paralyzingly|paralysingly=RB=ca,us|au,gb,nz,za
+paralyzing|paralysing=JJ=ca,us|au,gb,nz,za
 paramagnet=noun=all
 paramagnetic=JJ=all
 paramagnetism=noun_UN=all
@@ -119129,8 +119130,8 @@ psychoanalyst=noun=all
 psychoanalytic=JJ=all
 psychoanalytical=JJ=all
 psychoanalytically=RB=all
-psychoanalyzer|psychoanalyser=noun=us,ca,gb|gb,au,nz,za
-psychoanalyze|psychoanalyse=verb=us,ca,gb|gb,au,nz,za
+psychoanalyzer|psychoanalyser=noun=us,ca|gb,au,nz,za
+psychoanalyze|psychoanalyse=verb=us,ca|gb,au,nz,za
 psychobabble=noun_U=all
 psychobabbler=noun=all
 psychobiologic=JJ=all
@@ -121365,8 +121366,8 @@ ream=noun=all
 ream=verb=all
 reamer=noun=all
 reanalysis [pl. reanalyses]=noun_UN=all
-reanalyzable|reanalysable=JJ=us,ca,gb|gb,au,nz,za
-reanalyze|reanalyse=verb=us,ca,gb|gb,au,nz,za
+reanalyzable|reanalysable=JJ=us,ca|gb,au,nz,za
+reanalyze|reanalyse=verb=us,ca|gb,au,nz,za
 reanimate=verb=all
 reanimated=JJ=all
 reanimation=noun_U=all
@@ -127499,7 +127500,7 @@ self-aggrandizement|self-aggrandisement=NN:U=us,ca,gb|gb,au,nz,za
 self-aggrandizing|self-aggrandising=JJ=us,ca,gb|gb,au,nz,za
 self-analysis [pl. self-analyses]=noun_UN=all
 self-analytical=JJ=all
-self-analyzed|self-analysed=JJ=us,ca,gb|gb,au,nz,za
+self-analyzed|self-analysed=JJ=us,ca|gb,au,nz,za
 self-appointed=JJ=all
 self-assembly=NN:U=all
 self-asserting=JJ=all
@@ -128086,7 +128087,7 @@ semiovate=JJ=all
 semioviparous=JJ=all
 semipagan=JJ=all
 semipalmate=JJ=all
-semiparalyzed=JJ=all
+semiparalyzed|semiparalysed=JJ=ca,us|au,gb,nz,za
 semiparasitic=JJ=all
 semipastoral=JJ=all
 semipatriotic=JJ=all
@@ -139109,7 +139110,7 @@ thermionically=RB=all
 thermionics=NN:U=all
 thermistor=noun=all
 thermoacidophile=NN=all
-thermoanalyzer|thermoanalyser=noun=us,ca,gb|gb,au,nz,za
+thermoanalyzer|thermoanalyser=noun=us,ca|gb,au,nz,za
 thermobaric=JJ=all
 thermobarometer=noun=all
 thermochemical=JJ=all
@@ -145533,7 +145534,7 @@ undiagnosable=JJ=all
 undiagnosed=JJ=all
 undialed=JJ=all
 undialled=JJ=all
-undialyzed=JJ=all
+undialyzed|undialysed=JJ=us,ca|gb,au,nz,za
 undiaphanous=JJ=all
 undiatonic=JJ=all
 undichotomous=JJ=all
@@ -149029,8 +149030,7 @@ unparadoxically=RB=all
 unparagraphed=JJ=all
 unparallel=JJ=all
 unparalleled=JJ=all
-unparalysed=JJ=all
-unparalyzed=JJ=all
+unparalyzed|unparalysed=JJ=us,ca|gb,au,nz,za
 unparaphrased=JJ=all
 unparasitic=JJ=all
 unparasitical=JJ=all
@@ -155180,7 +155180,7 @@ well-adapted=JJ=all
 well-adjusted=JJ=all
 well-advised=JJ=all
 well-aimed=JJ=all
-well-analyzed|well-analysed=JJ=us,ca,gb|gb,au,nz,za
+well-analyzed|well-analysed=JJ=us,ca|gb,au,nz,za
 well-appointed=JJ=all
 well-armed=JJ=all
 well-armored|well-armoured=JJ=us|gb,ca,au,nz,za
