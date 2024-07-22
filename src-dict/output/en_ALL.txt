@@ -2012,6 +2012,7 @@ Aisha
 Aishwarya
 Aisling
 Aisne
+Aisne-Marne
 Aitcheson
 Aitken
 Aix-en-Provence
@@ -53436,8 +53437,6 @@ bistred
 bistro
 bistros
 bisulcate
-bisulfate
-bisulfates
 bisymmetric
 bisymmetrical
 bit
@@ -57857,10 +57856,6 @@ californium
 californiums
 caliginously
 caliginousness
-caliper
-calipered
-calipering
-calipers
 caliph
 caliphal
 caliphate
@@ -63990,9 +63985,6 @@ cognitive
 cognitively
 cognitivism
 cognitivisms
-cognizance
-cognizances
-cognizant
 cognomen
 cognomens
 cognomina
@@ -74963,12 +74955,10 @@ dialoguers
 dialogues
 dialoguing
 dials
-dialysable
 dialyses
 dialysis
 dialytic
 dialytically
-dialyzable
 diam
 diamagnetic
 diamagnetically
@@ -88630,6 +88620,8 @@ flip
 flip-book
 flip-books
 flip-flap
+flipchart
+flipcharts
 flippancies
 flippancy
 flippant
@@ -109290,6 +109282,8 @@ journalist
 journalistic
 journalistically
 journalists
+journalled
+journalling
 journals
 journey
 journeyed
@@ -149298,8 +149292,6 @@ reclusive
 reclusiveness
 recognition
 recognitions
-recognizance
-recognizances
 recoil
 recoiled
 recoiling
@@ -154876,6 +154868,7 @@ ropily
 ropiness
 roping
 ropings
+ropy
 rorqual
 rorquals
 rosacea
@@ -170145,8 +170138,6 @@ sulci
 sulcus
 sulfa
 sulfapyridine
-sulfate
-sulfates
 sulfenyl
 sulfenyls
 sulfhydryl
@@ -174833,8 +174824,6 @@ thiomersal
 thionic
 thiophene
 thiophenes
-thiosulfate
-thiosulfates
 thiourea
 thioureas
 third

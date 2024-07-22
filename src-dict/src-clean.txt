@@ -2147,6 +2147,7 @@ Airy=NNP=all
 Aisha=NNP=all
 Aishwarya=NNP=all
 Aisling=NNP=all
+Aisne-Marne=NNP=all
 Aisne=NNP=all
 Aitcheson=NNP=all
 Aitken=NNP=all
@@ -47528,6 +47529,7 @@ anatomically=RB=all
 anatomicopathological=JJ=all
 anatomist=noun=all
 anatomization|anatomisation=noun_UN=us,ca,gb|gb,au,nz,za
+anatomizer|anatomiser=noun=us,ca,gb|gb,au,nz,za
 anatomize|anatomise=verb=us,ca,gb|gb,au,nz,za
 anatomy=noun_U=all
 anatropous=JJ=all
@@ -47820,6 +47822,7 @@ annexable=JJ=all
 annexation=noun_UN=all
 annexational=JJ=all
 annexationist=noun=all
+annexe=noun=gb,nz,za
 annihilable=JJ=all
 annihilate=verb=all
 annihilation=noun_U=all
@@ -49955,6 +49958,7 @@ arsphenamine=arsphenamine/NN,arsphenamine/NN:U,arsphenamines/NNS=all
 arsy-versy=RB=all
 art-deco=JJ=all
 art=noun_UN=all
+artefact=noun=au,gb,nz,za
 artefactual=JJ=all
 artemisia=noun=all
 arterial=JJ=all
@@ -53912,7 +53916,7 @@ bistoury=noun=all
 bistred=JJ=all
 bistro=noun=all
 bisulcate=JJ=all
-bisulfate=noun=all
+bisulfate|bisulphate=noun=us|au,ca,gb,nz,za
 bisymmetric=JJ=all
 bisymmetrical=JJ=all
 bit=noun=all
@@ -54470,6 +54474,7 @@ blowy=noun=all
 blowzed=JJ=all
 blowzily=RB=all
 blowzy=blowzy/JJ,blowzier/JJR,blowziest/JJS=all
+blub=verb=gb
 blubber=noun_U=all
 blubber=verb=all
 blubberingly=RB=all
@@ -56870,14 +56875,14 @@ calicoed=JJ=all
 californium=noun_U=all
 caliginously=RB=all
 caliginousness=NN:U=all
-caliper=noun=all
-caliper=verb=all
+caliper|calliper=noun=us|au,ca,gb,nz,za
+caliper|calliper=verb=us|au,ca,gb,nz,za
 caliph=noun=all
 caliphal=JJ=all
 caliphate=noun=all
 calisthenical=JJ=all
-calisthenics|callisthenics=NN:U=au,gb,nz,za|ca,us
-calisthenic|callisthenic=JJ=au,gb,nz,za|ca,us
+calisthenics|callisthenics=NN:U=ca,us|au,gb,nz,za
+calisthenic|callisthenic=JJ=ca,us|au,gb,nz,za
 calk=noun=us
 calk=verb=us
 call-in=JJ=all
@@ -57190,6 +57195,7 @@ canonicity=noun_U=all
 canonist=JJ=all
 canonist=noun=all
 canonization|canonisation=noun_UN=us,ca,gb|gb,au,nz,za
+canonizer|canoniser=noun=us,ca,gb|gb,au,nz,za
 canonize|canonise=verb=us,ca,gb|gb,au,nz,za
 canonlike=JJ=all
 canonry=noun=all
@@ -61037,8 +61043,9 @@ cognitivism=noun_UN=all
 cognizableness|cognisableness=NN:U=us,ca,gb|gb,au,nz,za
 cognizable|cognisable=JJ=us,ca,gb|gb,au,nz,za
 cognizably|cognisably=RB=us,ca,gb|gb,au,nz,za
-cognizance=noun_U=all
-cognizant=JJ=all
+cognizance|cognisance=noun_U=us,ca,gb|gb,au,nz,za
+cognizantly|cognisantly=RB=us,ca,gb|gb,au,nz,za
+cognizant|cognisant=JJ=us,ca,gb|gb,au,nz,za
 cognize|cognise=verb=us,ca,gb|gb,au,nz,za
 cognomen=cognomen/NN,cognomens/NNS,cognomina/NNS=all
 cognominal=JJ=all
@@ -61299,6 +61306,7 @@ colonic=noun=all
 colonist=noun=all
 colonizable|colonisable=JJ=us,ca,gb|gb,au,nz,za
 colonizationist=noun=all
+colonizationist|colonisationist=noun=us,ca,gb|gb,au,nz,za
 colonization|colonisation=noun_UN=us,ca,gb|gb,au,nz,za
 colonizer|coloniser=noun=us,ca,gb|gb,au,nz,za
 colonize|colonise=verb=us,ca,gb|gb,au,nz,za
@@ -65266,9 +65274,11 @@ crystalline=noun=all
 crystallinity=noun_UN=all
 crystallite=noun=all
 crystallitic=JJ=all
+crystallizability|crystallisability=NN:U=us,ca,gb|gb,au,nz,za
 crystallizable|crystallisable=JJ=us,ca,gb|gb,au,nz,za
 crystallization|crystallisation=noun_UN=us,ca,gb|gb,au,nz,za
 crystallized|crystallised=JJ=us,ca,gb|gb,au,nz,za
+crystallizer|crystalliser=noun=us,ca,gb|gb,au,nz,za
 crystallize|crystallise=verb=us,ca,gb|gb,au,nz,za
 crystallographer=noun=all
 crystallographic=JJ=all
@@ -67567,6 +67577,7 @@ demyelination=noun_U=all
 demystification=noun_U=all
 demystify=verb=all
 demythologization|demythologisation=noun_UN=us,ca,gb|gb,au,nz,za
+demythologizer|demythologiser=noun=us,ca,gb|gb,au,nz,za
 demythologize|demythologise=verb=us,ca,gb|gb,au,nz,za
 den=noun=all
 denarius=denarius/NN,denarii/NNS=all
@@ -67761,6 +67772,7 @@ deploy=verb=all
 deployable=JJ=all
 deployment=noun_UN=all
 depolarization|depolarisation=noun_UN=us,ca,gb|gb,au,nz,za
+depolarizer|depolariser=noun=us,ca,gb|gb,au,nz,za
 depolarize|depolarise=verb=us,ca,gb|gb,au,nz,za
 depoliticization|depoliticisation=noun_UN=us,ca,gb|gb,au,nz,za
 depoliticize|depoliticise=verb=us,ca,gb|gb,au,nz,za
@@ -68543,11 +68555,15 @@ dialogue=verb=all
 dialoguer=noun=all # unusual
 dialogue|dialog=noun=all|ca,us
 dialogue|dialog=noun_UN=all|ca,us
-dialysable=JJ=all
 dialysis=dialysis/NN:UN,dialyses/NNS=all
 dialytic=JJ=all
 dialytically=RB=all
-dialyzable=JJ=all
+dialyzability|dialysability=noun_UN=us,ca|gb,au,nz,za
+dialyzable|dialysable=JJ=us,ca|gb,au,nz,za
+dialyzate|dialysate=noun=us,ca|gb,au,nz,za
+dialyzation|dialysation=noun_UN=us,ca|gb,au,nz,za
+dialyzer|dialyser=noun=us,ca|gb,au,nz,za
+dialyze|dialyse=verb=us,ca|gb,au,nz,za
 diam=NN=all
 diamagnetic=JJ=all
 diamagnetically=RB=all
@@ -71361,6 +71377,7 @@ dueness=NN:U=all
 duenna=noun=all
 duet [-tt-]=verb=all
 duet=noun=all
+duff=duff/JJ,duffer/JJR,duffest/JJS=gb
 duff=noun=all
 duffel=noun_U=all
 duffer=noun=all
@@ -72502,6 +72519,8 @@ electrolyte=noun=all
 electrolytic=JJ=all
 electrolytic=NN=all
 electrolytically=RB=all
+electrolyzation|electrolysation=noun_UN=ca,us|au,gb,nz,za
+electrolyzer|electrolyser=noun=ca,us|au,gb,nz,za
 electrolyze|electrolyse=verb=ca,us|au,gb,nz,za
 electromagnet=noun=all
 electromagnetic=JJ=all
@@ -73951,6 +73970,7 @@ epitomic=JJ=all
 epitomical=JJ=all
 epitomist=noun=all
 epitomization|epitomisation=noun_UN=us,ca,gb|gb,au,nz,za
+epitomizer|epitomiser=noun=us,ca,gb|gb,au,nz,za
 epitomize|epitomise=verb=us,ca,gb|gb,au,nz,za
 epitope=noun=all
 epixylous=JJ=all
@@ -74549,6 +74569,7 @@ euphemist=noun=all
 euphemistic=JJ=all
 euphemistically=RB=all
 euphemization|euphemisation=noun_UN=us,ca,gb|gb,au,nz,za
+euphemizer|euphemiser=noun=us,ca,gb|gb,au,nz,za
 euphemize|euphemise=verb=us,ca,gb|gb,au,nz,za
 euphonic=JJ=all
 euphonically=RB=all
@@ -76112,6 +76133,7 @@ familiar=noun=all
 familiarisingly=RB=all
 familiarity=noun_U=all
 familiarization|familiarisation=noun_UN=us,ca,gb|gb,au,nz,za
+familiarizer|familiariser=noun=us,ca,gb|gb,au,nz,za
 familiarize|familiarise=verb=us,ca,gb|gb,au,nz,za
 familiarizingly|familiarisingly=RB=us,ca,gb|gb,au,nz,za
 familiarly=RB=all
@@ -77236,6 +77258,7 @@ finalism=noun_UN=all
 finalist=noun=all
 finality=noun_U=all
 finalization|finalisation=noun_UN=us,ca,gb|gb,au,nz,za
+finalizer|finaliser=noun=us,ca,gb|gb,au,nz,za
 finalize|finalise=verb=us,ca,gb|gb,au,nz,za
 finally=RB=all
 finance=noun_UN=all
@@ -77908,6 +77931,7 @@ flip-flap=RB=all
 flip=flip/JJ,flipper/JJR,flippest/JJS=all
 flip=noun=all
 flip=verb=all
+flipchart=noun=all
 flippancy=noun_U=all
 flippant=JJ=all
 flippant=NN=all
@@ -82830,6 +82854,8 @@ guest=noun=all
 guest=verb=all
 guestbook=noun=all
 guesthouse=noun=all
+guestimate=noun=gb,nz,za
+guestimate=verb=gb,nz,za
 guestless=JJ=all
 guestroom=noun=all
 guff=noun_U=all
@@ -84662,6 +84688,8 @@ hemolysis=hemolysis/NN:U,hemolyses/NNS=all
 hemolytic=JJ=all
 hemophiliac=JJ=all
 hemophiliac=noun=all
+hemophiliac|haemophiliac=noun=ca,us|au,gb,nz,za
+hemophilia|haemophilia=noun_U=ca,us|au,gb,nz,za
 hemophilic=JJ=all
 hemophobia=NN=all
 hemopoiesis=hemopoiesis/NN:U,hemopoieses/NNS=all
@@ -86800,6 +86828,9 @@ hydrolysis=hydrolysis/NN:U,hydrolyses/NNS=all
 hydrolytic=JJ=all
 hydrolytically=RB=all
 hydrolyzable=JJ=all
+hydrolyzation|hydrolysation=noun_UN=us,ca|gb,au,nz,za
+hydrolyzer|hydrolyser=noun=us,ca|gb,au,nz,za
+hydrolyze|hydrolyse=verb=us,ca|gb,au,nz,za
 hydromagnetic=noun=all
 hydromagnetics=NN:U=all
 hydromantic=JJ=all
@@ -86861,6 +86892,7 @@ hydrostatic=JJ=all
 hydrostatic=noun=all
 hydrostatically=RB=all
 hydrostatics=NN:U=all
+hydrosulfate|hydrosulphate=noun=us|au,ca,gb,nz,za
 hydrosulfurous=JJ=all
 hydrotactic=JJ=all
 hydrothecal=JJ=all
@@ -92630,8 +92662,8 @@ joule=noun=all
 jounce=noun=all
 jounce=verb=all
 jour=NN=all # unusual abbreviation
+journal [-ll-,-l-]=verb=all
 journal=noun=all
-journal=verb=all
 journalese=noun_U=all
 journalism=noun_U=all
 journalist=noun=all
@@ -113376,6 +113408,9 @@ phoneticist=noun=all
 phoneticize|phoneticise=verb=us,ca,gb|gb,au,nz,za
 phonetics=NN:U=all
 phonetist=noun=all
+phoney=noun=au,gb,nz,za
+phoney=phoney/JJ,phonier/JJR,phoniest/JJS=au,gb,nz,za
+phoney=verb=au,gb,nz,za
 phoniatric=JJ=all
 phonic=JJ=all
 phonic=noun=all
@@ -113533,6 +113568,8 @@ photoluminescent=JJ=all
 photolysis=photolysis/NN:U,photolyses/NNS=all
 photolytic=JJ=all
 photolytically=RB=all
+photolyzable|photolysable=JJ=us,ca|gb,au,nz,za
+photolyze|photolyse=verb=us,ca|gb,au,nz,za
 photomechanical=JJ=all
 photomechanically=RB=all
 photometer=noun=all
@@ -114516,6 +114553,7 @@ plasmoid=noun=all
 plasmolysis=plasmolysis/NN,plasmolyses/NNS=all
 plasmolytic=JJ=all
 plasmolytic=NN=all
+plasmolyze|plasmolyse=verb=us,ca|gb,au,nz,za
 plasmon=noun=all
 plasmonic=JJ=all
 plaster=noun_UN=all
@@ -115400,6 +115438,7 @@ polysepalous=JJ=all
 polysomic=JJ=all
 polysomnography=noun_UN=all
 polystyrene=noun_U=all
+polysulfate|polysulphate=noun=us|au,ca,gb,nz,za
 polysulfide=noun=all
 polysyllabic=JJ=all
 polysyllabically=RB=all
@@ -117877,6 +117916,7 @@ privative=JJ=all
 privative=noun=all
 privatively=RB=all
 privatization|privatisation=noun_UN=us,ca,gb|gb,au,nz,za
+privatizer|privatiser=noun=us,ca,gb|gb,au,nz,za
 privatize|privatise=verb=us,ca,gb|gb,au,nz,za
 privet=noun_U=all
 privies=JJ=all
@@ -121668,7 +121708,7 @@ recognition=noun_U=all
 recognizability|recognisability=noun_UN=us,ca,gb|gb,au,nz,za
 recognizable|recognisable=JJ=us,ca,gb|gb,au,nz,za
 recognizably|recognisably=RB=us,ca,gb|gb,au,nz,za
-recognizance=noun_U=all
+recognizance|recognisance=noun_U=us,ca,gb|gb,au,nz,za
 recognizer|recogniser=noun=us,ca,gb|gb,au,nz,za
 recognize|recognise=verb=us,ca,gb|gb,au,nz,za
 recoil=noun=all
@@ -124960,6 +125000,7 @@ ropey=ropey/JJ,ropier/JJR,ropiest/JJS=all
 ropily=RB=all
 ropiness=NN:U=all
 roping=noun_UN=all
+ropy=ropy/JJ,ropier/JJR,ropiest/JJS=all # informal
 rorqual=noun=all
 rosacea=noun_U=all
 rosaniline=noun=all
@@ -128369,8 +128410,8 @@ septic=JJ=all
 septic=noun=all
 septicaemic=JJ=all
 septically=RB=all
-septicemia=noun_U=all
-septicemic=JJ=all
+septicemia|septicaemia=noun_U=all|au,gb,nz,za
+septicemic|septicaemic=JJ=all|au,gb,nz,za
 septicidal=JJ=all
 septicity=septicity/NN,septicity/NN:U,septicities/NNS=all
 septifragal=JJ=all
@@ -135888,13 +135929,14 @@ sulcate=JJ=all
 sulcus=sulcus/NN,sulci/NNS=all
 sulfa=JJ=all
 sulfapyridine=sulfapyridine/NN,sulfapyridine/NN:U=all
-sulfate=noun_U=all
+sulfate|sulphate=noun_U=us|au,ca,gb,nz,za
 sulfenyl=noun=all
 sulfhydryl=noun=all
 sulfitic=JJ=all
 sulfonamide=noun=all
 sulfonate=noun_U=all
 sulfonate=verb=all
+sulfonation|sulphonation=noun_UN=us|au,ca,gb,nz,za
 sulfone=noun=all
 sulfonic=NN=all
 sulfonyl=JJ=all
@@ -139285,7 +139327,7 @@ thiolic=JJ=all
 thiomersal=JJ=all
 thionic=JJ=all
 thiophene=noun=all
-thiosulfate=noun=all
+thiosulfate|thiosulphate=noun=us|au,ca,gb,nz,za
 thiourea=noun=all
 third-class=JJ=all
 third-degree=JJ=all
@@ -154517,6 +154559,7 @@ wakefulness=NN:U=all
 wakeless=JJ=all
 waken=verb=all
 wakening=noun_UN=all
+wakey-wakey=UH=gb
 waking=JJ=all
 waking=noun_UN=all
 waldo [pl. waldoes,waldos]=noun=all

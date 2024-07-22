@@ -57803,9 +57803,7 @@ anatidae=NN=none
 anatman=NN=none
 anatomicals=UNTAGGED=nz
 anatomisable=JJ=none
-anatomiser=noun=gb
 anatomizable=JJ=none
-anatomizer=noun=none
 anatotitan=NN=none
 anatoxin=noun=none
 anatta=anatta/NN,anatta/NN:U,anattas/NNS=gb
@@ -58150,7 +58148,6 @@ annexa=NN=none
 annexal=JJ=none
 annexationism=noun_UN=us-large
 annexationistic=UNTAGGED=gb
-annexe=noun=gb,nz,za
 annexion=noun=none
 annexment=noun=none
 annexure=noun=za
@@ -60011,7 +60008,6 @@ arsonite=noun=none
 artal=NN=none
 artamidae=NN=none
 artamus=NN=none
-artefact=noun=au,gb,nz,za
 artefactually=UNTAGGED=gb
 artel=noun=us-large
 artemia=NN=none
@@ -60961,7 +60957,6 @@ autolysisible=UNTAGGED=gb
 autolysision=UNTAGGED=gb
 autolysisiveness=UNTAGGED=gb
 autolyzate=noun=none
-autolyzes=UNTAGGED=us-large
 automan=automan/NN,automen/NNS=none
 automatictacessing=NN=none
 automatist=noun=gb
@@ -63798,8 +63793,6 @@ bistre=noun=none
 bistroic=JJ=none
 bisulfide=noun=none
 bisulfite=noun=none
-bisulphate=NN=gb
-bisulphates=UNTAGGED=gb
 bisulphide=NN=none
 bisulphite=NN=none
 bisyllabic=UNTAGGED=gb,nz,za
@@ -64222,7 +64215,6 @@ blowvalve=noun=none
 blowze=noun=none
 blowziness=noun=none
 blt=NN=none
-blub=verb=gb
 blubberer=noun=gb,nz,za
 blubberhead=NN=us-large
 blubberings=UNTAGGED=gb
@@ -66853,8 +66845,6 @@ calliophis=NN=none
 calliopsis=noun=us-large
 callipash=NN=us-large
 callipee=noun=none
-calliper=noun=gb,nz,za
-calliper=verb=gb,nz,za
 calliperer=NN=none
 calliphora=NN=none
 calliphoridae=NN=none
@@ -67170,10 +67160,8 @@ cannulae=UNTAGGED=gb,us-large
 cannular=JJ=us-large
 canoewood=NN=us-large
 canonicate=NN=us-large
-canoniser=noun=gb
 canonistic=JJ=none
 canonistical=JJ=none
-canonizer=noun=gb
 canonship=NN=none
 canoodler=NN=none
 canoodlings=UNTAGGED=gb
@@ -71344,9 +71332,6 @@ cogitability=NN:UN=none
 cogito=noun=none
 cognatenesses=UNTAGGED=gb
 cognisability=NN:UN=none
-cognisance=NN=au,gb,nz,za
-cognisances=UNTAGGED=gb
-cognisantly=UNTAGGED=gb
 cogniser=NN=none
 cognitives=UNTAGGED=gb,nz,za
 cognitivist=UNTAGGED=gb
@@ -71548,7 +71533,6 @@ colonelship=noun=none
 colonette=NN=none
 coloni=coloni/NN,colonies/NNS=none
 colonisability=NN:UN=none
-colonisationist=colonisationist/NN,colonisationists/NN=gb
 colonitis=noun=none
 colonizability=NN:UN=none
 colonoscopically=UNTAGGED=gb
@@ -74215,11 +74199,7 @@ crystalized=JJ=none
 crystall=NN=none
 crystallike=JJ=none
 crystalling=crystalling/NN,crystalling/NNS=none
-crystallisability=NN:UN=gb
-crystalliser=noun=gb,nz,za
 crystallitis=crystallitis/NN,crystallites/NNS=none
-crystallizability=noun_UN=gb
-crystallizer=noun=gb,nz,za
 crystallographically=UNTAGGED=gb
 crzette=NN=none
 cs=UNTAGGED=au,ca,us
@@ -76938,8 +76918,6 @@ demultiplexing=UNTAGGED=gb,nz,za
 demy=noun=us-large
 demyship=noun=none
 demystifier=noun=none
-demythologiser=noun=gb
-demythologizer=noun=none
 denar=noun=us-large
 denari=denari/NN,denaries/NNS=us-large
 denationaliser=UNTAGGED=gb,nz,za
@@ -77081,9 +77059,6 @@ deployer=noun=none
 deplumate=deplumate/VB,deplumate/VBP=none
 deplumation=noun_UN=none
 deplume=verb=us-large
-depolariser=NN=gb,nz,za
-depolarisers=NNS=gb,nz,za
-depolarizer=noun=gb,nz,za
 depollute=UNTAGGED=gb
 depolluted=UNTAGGED=gb
 depollutes=UNTAGGED=gb
@@ -77625,16 +77600,6 @@ dialist=noun=none
 diallage=noun=us-large
 dialler=noun=gb,nz,za
 diallist=noun=none
-dialysability=NN:UN=gb
-dialysate=noun=gb
-dialysation=NN:UN=gb
-dialyse=verb=gb,nz,za
-dialyser=noun=none
-dialyzability=noun_UN=us
-dialyzate=noun=us
-dialyzation=noun_UN=none
-dialyze=verb=us
-dialyzer=noun=us-large
 diamagnet=noun=us-large
 diamagnetics=UNTAGGED=gb
 diamant=JJ=none
@@ -81014,13 +80979,6 @@ electroluminescencisers=UNTAGGED=gb
 electroluminescenction=UNTAGGED=gb
 electroluminescenctions=UNTAGGED=gb
 electroluminescenctiveness=UNTAGGED=gb
-electrolysation=NN:UN=gb
-electrolyser=NN=gb
-electrolysers=UNTAGGED=gb
-electrolytical=UNTAGGED=gb
-electrolyzation=NN:UN=us
-electrolyzer=NN=us
-electrolyzers=UNTAGGED=us
 electromagnetist=NN=none
 electromatic=UNTAGGED=gb
 electromechanically=UNTAGGED=gb
@@ -82618,8 +82576,6 @@ epithem=noun=none
 epithetically=UNTAGGED=gb,us-large
 epitheton=noun=none
 epitomically=UNTAGGED=gb
-epitomiser=noun=gb,nz,za
-epitomizer=noun=gb,nz,za
 epitrachelion=noun=none
 epitrite=noun=none
 epitrochoid=noun=none
@@ -83305,9 +83261,7 @@ euphausiacea=NN=none
 euphausiid=noun=none
 euphemious=JJ=none
 euphemiously=RB=none
-euphemiser=noun=gb
 euphemistical=JJ=none
-euphemizer=noun=none
 euphemizings=UNTAGGED=gb
 euphenic=noun=none
 euphon=noun=none
@@ -84227,8 +84181,6 @@ famacide=NN=none
 famatinite=NN=none
 familia=familia/NN,familiae/NNS=none
 familially=UNTAGGED=gb
-familiariser=noun=gb,nz,za
-familiarizer=noun=gb,nz,za
 familist=noun=none
 famille=NN=gb
 famishment=noun=none
@@ -85032,9 +84984,7 @@ fimbriation=noun_UN=us-large
 fimbrillate=JJ=none
 finableness=NN=none
 finalis=NN=none
-finaliser=noun=gb
 finalistic=UNTAGGED=gb
-finalizer=noun=gb
 financialist=noun=none
 financials=UNTAGGED=all
 financiare=JJ=none
@@ -85551,7 +85501,6 @@ flip-flop=noun=gb,nz,za
 flipboard=UNTAGGED=gb
 flipboards=UNTAGGED=gb
 flipbook=noun=none
-flipchart=noun=gb
 flippable=UNTAGGED=gb,nz,za
 flippy=noun=au,ca,us
 flir=noun=none
@@ -90270,8 +90219,6 @@ guess-warp=NN=none
 guest-rope=NN:U=none
 guest-starred=UNTAGGED=all
 guest-warp=NN=none
-guestimate=noun=gb,nz,za
-guestimate=verb=gb,nz,za
 guestworker=NN=none
 guevina=NN=none
 guffie=noun=none
@@ -90809,8 +90756,6 @@ haemolysis=NN=gb
 haemony=noun=none
 haemophil=NN=none
 haemophile=NN=none
-haemophilia=noun_U=au,gb,nz,za
-haemophiliac=noun=au,gb,nz,za
 haemophobia=UNTAGGED=gb
 haemopis=NN=none
 haemopneumothorax=UNTAGGED=gb
@@ -92685,7 +92630,6 @@ hemolymph=noun=none
 hemolysin=noun_U=us-large
 hemophile=JJ=none
 hemophile=NN=none
-hemophilia=noun_U=ca,us
 hemophilioid=JJ=none
 hemosiderin=noun=none
 hemosiderosis=NN:U=none
@@ -94655,17 +94599,8 @@ hydrogeologically=UNTAGGED=gb
 hydrokineter=NN=none
 hydrokinetics=NN:U=us-large
 hydrolant=NN=none
-hydrolise=hydrolise/VB,hydrolise/VBP=none
 hydrolith=NN=none
 hydrolysate=noun=none
-hydrolysation=NN:UN=gb
-hydrolyse=verb=au,gb,nz,za
-hydrolyser=noun=gb
-hydrolyte=noun=us-large
-hydrolyzate=noun=us-large
-hydrolyzation=noun_UN=us
-hydrolyze=verb=ca,us
-hydrolyzer=noun=us
 hydromagnetically=UNTAGGED=gb
 hydromancer=noun=none
 hydromancy=noun_U=us-large
@@ -94741,10 +94676,8 @@ hydrosome=noun=us-large
 hydrospace=noun=none
 hydrostat=noun=us-large
 hydrostatical=UNTAGGED=gb,us-large
-hydrosulfate=NN=none
 hydrosulfide=noun=none
 hydrosulfite=noun=none
-hydrosulphate=NN=none
 hydrosulphidably=UNTAGGED=gb
 hydrosulphidally=UNTAGGED=gb
 hydrosulphidation=UNTAGGED=gb
@@ -98880,8 +98813,6 @@ journalish=JJ=none
 journalistical=UNTAGGED=gb
 journalistics=UNTAGGED=gb
 journalizer=noun=gb,nz,za
-journalled=UNTAGGED=nz,za
-journalling=journalling/NN,journalling/NNS=nz,za
 journeyings=UNTAGGED=gb,nz,za
 journeywork=noun=us-large
 jovialty=noun=none
@@ -121672,9 +121603,6 @@ phoner=noun=none
 phonet=NN=none
 phoneticism=noun_UN=gb
 phonetism=noun_UN=none
-phoney=noun=au,gb,nz,za
-phoney=phoney/JJ,phonier/JJR,phoniest/JJS=au,gb,nz,za
-phoney=verb=au,gb,nz,za
 phonily=UNTAGGED=gb
 phono=noun=none
 phonoautograph=UNTAGGED=gb
@@ -123149,10 +123077,6 @@ plasmodiidae=NN=none
 plasmodiophora=NN=none
 plasmodiophoraceae=NN=none
 plasmogamy=noun=none
-plasmolyse=UNTAGGED=gb
-plasmolysed=UNTAGGED=gb
-plasmolysing=UNTAGGED=gb
-plasmolyzes=UNTAGGED=us-large
 plasmoquine=NN=none
 plasmosoma=noun=none
 plasmosome=noun=us-large
@@ -124185,9 +124109,7 @@ polyspermia=JJ=none
 polyspermy=noun_U=gb
 polyspermyible=UNTAGGED=gb
 polystichum=NN=none
-polysulfate=UNTAGGED=all
 polysulfonate=NN=none
-polysulphate=UNTAGGED=all
 polysulphide=noun=gb
 polysuspensoid=NN=none
 polysyllogism=noun=none
@@ -127052,11 +126974,9 @@ privacy-friendly=JJ=none
 privatdocent=noun=none
 privatdozent=noun=none
 private-enterprise=JJ=none
-privatiser=noun=gb
 privatism=noun_UN=gb
 privatist=noun=gb
 privatistic=UNTAGGED=gb
-privatizer=noun=gb
 privileger=NN=none
 prize-giving=noun_UN=none
 prize-money=NN:U=none
@@ -132034,8 +131954,6 @@ recoded=UNTAGGED=gb,nz,us-large,za
 recodes=UNTAGGED=gb,nz,us-large,za
 recodification=noun=none
 recoding=UNTAGGED=gb,nz,us-large,za
-recognisance=NN=au,gb
-recognisances=UNTAGGED=gb,nz,za
 recognizant=UNTAGGED=gb,nz,us-large,za
 recognizee=NN=us-large
 recognizor=NN=us-large
@@ -133912,7 +133830,6 @@ ropiniroleably=UNTAGGED=gb
 ropinirolible=UNTAGGED=gb
 ropinirolisability=UNTAGGED=gb
 ropinirolisable=UNTAGGED=gb
-ropy=ropy/JJ,ropier/JJR,ropiest/JJS=au,ca,us
 roque=noun=us-large
 roquelaure=noun=us-large
 roquette=noun=none
@@ -137923,8 +137840,6 @@ septennate=noun=none
 septennium=septennium/NN,septennia/NNS=none
 septentrion=noun=none
 septette=noun=none
-septicaemia=NN:U=au,gb,nz,za
-septicaemias=UNTAGGED=gb
 septicityible=UNTAGGED=gb
 septillionfold=UNTAGGED=gb,nz,za
 septimana=NN=none
@@ -144356,7 +144271,6 @@ sulfinyl=JJ=none
 sulfinyl=noun=none
 sulfisoxazole=NN=none
 sulfite=noun=us-large
-sulfonation=noun=us-large
 sulfonium=noun=none
 sulfonmethane=noun=us-large
 sulfonylurea=noun=none
@@ -144396,7 +144310,6 @@ sulphapyridinisable=UNTAGGED=gb
 sulpharsenide=NN=none
 sulphasalazine=UNTAGGED=gb
 sulphasalazines=UNTAGGED=gb
-sulphate=noun_UN=au,ca,gb,nz,za
 sulphated=UNTAGGED=gb,nz,za
 sulphathiazole=NN=us-large
 sulphating=UNTAGGED=gb,nz,za
@@ -144411,7 +144324,6 @@ sulphonate=UNTAGGED=gb,us-large
 sulphonated=UNTAGGED=gb
 sulphonates=UNTAGGED=gb
 sulphonating=UNTAGGED=gb
-sulphonation=NN:U=gb
 sulphonium=NN=none
 sulphonmethane=NN=none
 sulphonyl=NN=gb
@@ -148276,7 +148188,6 @@ thiophen=noun=none
 thiophenol=NN=none
 thioridazine=noun=none
 thiosinamine=NN=us-large
-thiosulphate=noun=gb
 thiotepa=noun=none
 thiouracil=noun_U=us-large
 thir=PRP=none
@@ -158068,7 +157979,6 @@ wakerife=JJ=us-large
 wakerifeness=NN=none
 wakeup=UNTAGGED=gb,nz,za
 wakeups=UNTAGGED=gb
-wakey-wakey=UNTAGGED=gb
 wakey=UNTAGGED=gb
 wakiki=noun=none
 wakil=noun=none
