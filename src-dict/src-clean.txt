@@ -5199,7 +5199,7 @@ Beardsley=NNP=all
 Beare=NNP=all
 Beartic=NNP=all
 Beasley=NNP=all
-Beatlemania=NNP=all
+Beatlemania=NN:U=all
 Beatles=NNPS=all
 Beaton=NNP=all
 Beatrice=NNP=all
@@ -6452,6 +6452,7 @@ Brea=NNP=all
 Bream=NNP=all
 Breanna=NNP=all
 Breanne=NNP=all
+Breathalyzer=NNP=all
 Breaunanda=NNP=za # South Africa, placename?
 Brecht=NNP=all
 Breckenridge=NNP=all
@@ -51197,7 +51198,7 @@ autumn=noun_UN=all
 autumnal=JJ=all
 autumnally=RB=all
 autunite=noun=all
-aux=abbreviation=all
+aux=JJ=all
 auxanometer=noun=all
 auxesis [pl. auxeses]=noun=all # obsolete
 auxetic=JJ=all
@@ -51533,7 +51534,7 @@ backbreaking=JJ=all
 backchat=noun_U=all
 backcloth=noun=all
 backcomb=verb=all
-backcountry=noun_U=all
+backcountry=noun_U=us,nz
 backcourt=noun=all
 backcross=verb=all
 backdate=verb=all
@@ -55615,12 +55616,12 @@ brigandishly=RB=all
 brigantine=noun=all
 bright-colored|bright-coloured=JJ=us|gb,ca,au,nz,za
 bright=bright/JJ,brighter/JJR,brightest/JJS=all
-bright=noun=all
 brighten=verb=all
 brightener=noun=all
 brightish=JJ=all
 brightly=RB=all
 brightness=NN:U=all
+brights=NNS=us
 brightwork=noun=all
 brill=noun=all
 brilliance=noun_U=all
@@ -56300,7 +56301,7 @@ burgher=noun=all
 burglar=noun=all
 burglarious=JJ=all
 burglariously=RB=all
-burglarize|burglarise=verb=us,ca,gb|gb,au,nz,za
+burglarize=verb=us,ca # burgle in other variants
 burglarproof=JJ=all
 burglarproof=verb=all
 burglary=noun_UN=all
@@ -56429,6 +56430,7 @@ buskined=JJ=all
 busking=busking/NN,busking/NN:U,buskings/NNS=all
 busman [pl. busmen]=noun=all
 buspirone=buspirone/NN,buspirone/NN:U=all
+buss=noun=au,ca,us # dialectal?
 buss=verb=au,ca,us # dialectal?
 bussing=noun_U=all
 bust [busts;bust,busted;bust,busted;busting]=verb=all

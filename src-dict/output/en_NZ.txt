@@ -858,6 +858,8 @@ axiomatises
 axiomatising
 babelisation
 babelisations
+backcountries
+backcountry
 bacterisation
 bacterisations
 bacterise
@@ -1002,10 +1004,6 @@ bureaucratise
 bureaucratised
 bureaucratises
 bureaucratising
-burglarise
-burglarised
-burglarises
-burglarising
 burnettise
 burnettised
 burnettises

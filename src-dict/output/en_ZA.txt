@@ -6574,10 +6574,6 @@ bureaucratise
 bureaucratised
 bureaucratises
 bureaucratising
-burglarise
-burglarised
-burglarises
-burglarising
 burnettise
 burnettised
 burnettises
