@@ -816,6 +816,8 @@ attitudinizes
 attitudinizing
 attoliter
 attoliters
+attometer
+attometers
 authorizable
 authorization
 authorizations
@@ -1341,6 +1343,9 @@ centerpins
 centers
 centiliter
 centiliters
+centimeter
+centimeter-gram-second
+centimeters
 centralization
 centralizations
 centralize
@@ -1396,6 +1401,10 @@ chemicalize
 chemicalized
 chemicalizes
 chemicalizing
+cherub
+cherubim
+cherubims
+cherubs
 child-centered
 chili
 chilies
@@ -1846,6 +1855,9 @@ cross-town
 crosstown
 crosswalk
 crosswalks
+cruel
+crueler
+cruelest
 crystallizability
 crystallizable
 crystallization
@@ -1945,6 +1957,8 @@ deanonymization
 deanonymizations
 decaliter
 decaliters
+decameter
+decameters
 decapitalize
 decapitalized
 decapitalizes
@@ -1995,6 +2009,8 @@ decimalize
 decimalized
 decimalizes
 decimalizing
+decimeter
+decimeters
 decitizenize
 decitizenized
 decitizenizes
@@ -3139,6 +3155,8 @@ evolutionizes
 evolutionizing
 exaliter
 exaliters
+exameter
+exameters
 exorcize
 exorcized
 exorcizes
@@ -3247,6 +3265,8 @@ feminizes
 feminizing
 femtoliter
 femtoliters
+femtometer
+femtometers
 feralize
 feralized
 feralizes
@@ -3545,6 +3565,8 @@ ghettoizes
 ghettoizing
 gigaliter
 gigaliters
+gigameter
+gigameters
 glamor
 glamored
 glamoring
@@ -3748,6 +3770,8 @@ hebraization
 hebraizations
 hectoliter
 hectoliters
+hectometer
+hectometers
 hegemonize
 hegemonized
 hegemonizes
@@ -4395,8 +4419,12 @@ keratinizing
 kerplunk
 kickoff
 kickoffs
+kilogram-meter
+kilogram-meters
 kiloliter
 kiloliters
+kilometer
+kilometers
 kinestheses
 kinesthesia
 kinesthesias
@@ -4816,6 +4844,8 @@ megacenter
 megacenters
 megaliter
 megaliters
+megameter
+megameters
 melanization
 melanizations
 melanize
@@ -4918,6 +4948,9 @@ metathesize
 metathesized
 metathesizes
 metathesizing
+meter-candle
+meter-candle-second
+meter-kilogram-second
 methodization
 methodizations
 methodize
@@ -4945,6 +4978,10 @@ microanalyzer
 microanalyzers
 microliter
 microliters
+micrometer
+micrometers
+micromillimeter
+micromillimeters
 microminiaturization
 microminiaturizations
 microminiaturize
@@ -4969,6 +5006,8 @@ militarizes
 militarizing
 milliliter
 milliliters
+millimeter
+millimeters
 mineralizable
 mineralization
 mineralizations
@@ -5254,6 +5293,8 @@ mylonitizes
 mylonitizing
 myrialiter
 myrialiters
+myriameter
+myriameters
 mythicization
 mythicizations
 mythicize
@@ -5272,6 +5313,8 @@ nanofiber
 nanofibers
 nanoliter
 nanoliters
+nanometer
+nanometers
 naphthalize
 naphthalized
 naphthalizes
@@ -6492,6 +6535,8 @@ pessimizing
 petaled
 petaliter
 petaliters
+petameter
+petameters
 phagocytize
 phagocytized
 phagocytizes
@@ -6561,6 +6606,8 @@ physicalizes
 physicalizing
 picoliter
 picoliters
+picometer
+picometers
 pictorialization
 pictorializations
 pictorialize
@@ -7044,8 +7091,12 @@ quasi-honorable
 quasi-honorably
 quectoliter
 quectoliters
+quectometer
+quectometers
 quettaliter
 quettaliters
+quettameter
+quettameters
 r-color
 r-colored
 r-colors
@@ -7606,8 +7657,12 @@ romanticizes
 romanticizing
 ronnaliter
 ronnaliters
+ronnameter
+ronnameters
 rontoliter
 rontoliters
+rontometer
+rontometers
 rose-colored
 routinization
 routinizations
@@ -8298,6 +8353,8 @@ sublimize
 sublimized
 sublimizes
 sublimizing
+submicrometer
+submicrometers
 subminiaturization
 subminiaturizations
 suboptimization
@@ -8608,6 +8665,8 @@ tenderizes
 tenderizing
 teraliter
 teraliters
+terameter
+terameters
 territorialization
 territorializations
 territorialize
@@ -9560,6 +9619,8 @@ yellow-colored
 yer
 yoctoliter
 yoctoliters
+yoctometer
+yoctometers
 yodel
 yodeled
 yodeler
@@ -9569,10 +9630,16 @@ yodelings
 yodels
 yottaliter
 yottaliters
+yottameter
+yottameters
 zen
 zeptoliter
 zeptoliters
+zeptometer
+zeptometers
 zeroization
 zeroizations
 zettaliter
 zettaliters
+zettameter
+zettameters

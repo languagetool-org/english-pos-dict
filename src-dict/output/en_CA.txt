@@ -1771,6 +1771,9 @@ cross-town
 crosstown
 crosswalk
 crosswalks
+cruel
+crueller
+cruellest
 crystallizability
 crystallizable
 crystallization

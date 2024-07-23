@@ -48647,8 +48647,6 @@ attokelvins
 attolumen
 attolumens
 attolux
-attometer
-attometers
 attomole
 attomoles
 attonewton
@@ -51262,6 +51260,7 @@ beachcombs
 beached
 beaches
 beachfront
+beachfronts
 beachhead
 beachheads
 beachier
@@ -59990,9 +59989,6 @@ centilumens
 centilux
 centime
 centimes
-centimeter
-centimeter-gram-second
-centimeters
 centimole
 centimoles
 centinewton
@@ -61073,7 +61069,6 @@ cherub
 cherubic
 cherubically
 cherubim
-cherubims
 cherubs
 chervil
 chervils
@@ -69870,11 +69865,7 @@ crudity
 crudités
 cruds
 cruel
-crueler
-cruelest
 cruelhearted
-crueller
-cruellest
 cruelly
 cruelness
 cruels
@@ -72038,8 +72029,6 @@ decalumen
 decalumens
 decalux
 decamerous
-decameter
-decameters
 decamole
 decamoles
 decamp
@@ -72227,8 +72216,6 @@ decimates
 decimating
 decimation
 decimations
-decimeter
-decimeters
 decimole
 decimoles
 decimus
@@ -84259,8 +84246,6 @@ exalux
 exam
 examen
 examens
-exameter
-exameters
 examinable
 examination
 examinational
@@ -86890,8 +86875,6 @@ femtokelvins
 femtolumen
 femtolumens
 femtolux
-femtometer
-femtometers
 femtomole
 femtomoles
 femtonewton
@@ -93233,8 +93216,6 @@ gigakelvins
 gigalumen
 gigalumens
 gigalux
-gigameter
-gigameters
 gigamole
 gigamoles
 giganewton
@@ -98060,8 +98041,6 @@ hectokelvins
 hectolumen
 hectolumens
 hectolux
-hectometer
-hectometers
 hectomole
 hectomoles
 hectonewton
@@ -110188,8 +110167,6 @@ kilocycles
 kilofarad
 kilofarads
 kilogram
-kilogram-meter
-kilogram-meters
 kilograms
 kilogray
 kilograys
@@ -110208,8 +110185,6 @@ kilokelvins
 kilolumen
 kilolumens
 kilolux
-kilometer
-kilometers
 kilometric
 kilomole
 kilomoles
@@ -117489,8 +117464,6 @@ megamarket
 megamarkets
 megamerger
 megamergers
-megameter
-megameters
 megamillion
 megamillions
 megamix
@@ -118396,9 +118369,6 @@ meteorologists
 meteorology
 meteors
 meter
-meter-candle
-meter-candle-second
-meter-kilogram-second
 metered
 metering
 meters
@@ -118885,8 +118855,6 @@ micrometrical
 micrometrically
 micrometries
 micrometry
-micromillimeter
-micromillimeters
 micromobility
 micromolar
 micromole
@@ -119440,8 +119408,6 @@ millilumen
 millilumens
 millilux
 milliluxes
-millimeter
-millimeters
 millimicron
 millimicrons
 millimole
@@ -123081,8 +123047,6 @@ myrcenes
 myriad
 myriadly
 myriads
-myriameter
-myriameters
 myriapod
 myriapods
 myrmecological
@@ -123354,8 +123318,6 @@ nanolux
 nanomaterial
 nanomaterials
 nanomedicine
-nanometer
-nanometers
 nanomole
 nanomoles
 nanonewton
@@ -136757,8 +136719,6 @@ petals
 petalumen
 petalumens
 petalux
-petameter
-petameters
 petamole
 petamoles
 petanewton
@@ -137927,8 +137887,6 @@ picolinic
 picolumen
 picolumens
 picolux
-picometer
-picometers
 picomole
 picomoles
 piconewton
@@ -146765,8 +146723,6 @@ quectokelvins
 quectolumen
 quectolumens
 quectolux
-quectometer
-quectometers
 quectomole
 quectomoles
 quectonewton
@@ -146917,8 +146873,6 @@ quettakelvins
 quettalumen
 quettalumens
 quettalux
-quettameter
-quettameters
 quettamole
 quettamoles
 quettanewton
@@ -154704,8 +154658,6 @@ ronnakelvins
 ronnalumen
 ronnalumens
 ronnalux
-ronnameter
-ronnameters
 ronnamole
 ronnamoles
 ronnanewton
@@ -154759,8 +154711,6 @@ rontokelvins
 rontolumen
 rontolumens
 rontolux
-rontometer
-rontometers
 rontomole
 rontomoles
 rontonewton
@@ -169299,8 +169249,6 @@ submetacentrics
 submetallic
 submeter
 submeters
-submicrometer
-submicrometers
 submicroscopic
 submicroscopically
 submiliary
@@ -173943,8 +173891,6 @@ terakelvins
 teralumen
 teralumens
 teralux
-terameter
-terameters
 teramole
 teramoles
 teranewton
@@ -196235,8 +196181,6 @@ yoctokelvins
 yoctolumen
 yoctolumens
 yoctolux
-yoctometer
-yoctometers
 yoctomole
 yoctomoles
 yoctonewton
@@ -196330,8 +196274,6 @@ yottakelvins
 yottalumen
 yottalumens
 yottalux
-yottameter
-yottameters
 yottamole
 yottamoles
 yottanewton
@@ -196527,8 +196469,6 @@ zeptokelvins
 zeptolumen
 zeptolumens
 zeptolux
-zeptometer
-zeptometers
 zeptomole
 zeptomoles
 zeptonewton
@@ -196608,8 +196548,6 @@ zettakelvins
 zettalumen
 zettalumens
 zettalux
-zettameter
-zettameters
 zettamole
 zettamoles
 zettanewton
