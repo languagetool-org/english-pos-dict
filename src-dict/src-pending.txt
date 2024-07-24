@@ -4314,7 +4314,6 @@ Balog=UNTAGGED=gb
 Balornock=UNTAGGED=gb
 Balough=NNP=none
 Balquhidder=UNTAGGED=gb
-Balrog=UNTAGGED=gb
 Balsall=UNTAGGED=gb
 Balsam=NNP=none
 Balsaminaceae=NNP=none
@@ -107301,8 +107300,6 @@ monopolylogue=NN=none
 monoprint=UNTAGGED=gb
 monoprints=UNTAGGED=gb
 monopropellant=noun=none
-monopsonist=noun=none
-monopsony=noun=gb
 monopsychism=UNTAGGED=gb
 monopteron=noun=none
 monopteros=noun=us-large

@@ -1392,9 +1392,12 @@ characterizes
 characterizing
 checkbook
 checkbooks
+checker
 checkerboard
 checkerboards
 checkered
+checkering
+checkers
 chemicalization
 chemicalizations
 chemicalize

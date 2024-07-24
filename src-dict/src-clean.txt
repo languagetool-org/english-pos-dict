@@ -4841,6 +4841,8 @@ Balmoral=Balmoral/NNP,Balmorals/NNPS=all
 Balmung=NNP=all
 Balochistan=NNP=all
 Balopa=NNP=za # South Africa, placename?
+Balrog=NNP=all
+Balrogs=NNPS=all
 Balt=NNP=all
 Balthasar=NNP=all
 Baltic=JJ=all
@@ -56377,7 +56379,7 @@ bursectomy=noun=all
 burseraceous=JJ=all
 bursiform=JJ=all
 bursitis=noun_U=all
-burst [bursts;burst,bursted;burst,bursted;bursting]=verb=all
+burst [bursts;burst;burst;bursting]=verb=all # bursted is nonstandard
 burst=noun=all
 burthensome=JJ=all
 burweed=noun=all
@@ -58925,13 +58927,14 @@ checkable=JJ=all
 checkbook|chequebook=noun=us|au,ca,gb,nz,za
 checkbox=noun=all
 checked=JJ=all
-checker=noun=all
-checker=verb=all
 checkerberry=noun=all
 checkerbloom=noun=all
 checkerboard|chequerboard=noun=us|au,ca,gb,nz,za
+checkered|chequered=JJ=ca,us|au,gb,nz,za
 checkerspot=noun=all
 checkerwork=noun=all
+checker|chequer=noun=all|au,gb,nz,za
+checker|chequer=verb=ca,us|au,gb,nz,za
 checkhook=noun=all
 checking=NN:U=all
 checkless=JJ=all
@@ -59072,8 +59075,6 @@ chenopodiaceous=JJ=all
 cheongsam=noun=all
 cheque=noun=au,ca,gb,nz,za
 chequeless=JJ=au,ca,gb,nz,za
-chequer=verb=au,ca,gb,nz,za
-chequered|checkered=JJ=au,gb,nz,za|ca,us
 chequy=JJ=all
 cherish=verb=all
 cherishable=JJ=all
@@ -65573,7 +65574,7 @@ curry=verb=all
 currycomb=noun=all
 currycomb=verb=all
 currying=noun_UN=all
-curse [curses;cursed,curst;cursed,curst;cursing]=verb=all
+curse [curses;cursed;cursed;cursing]=verb=all # curst is archaic
 curse=noun=all
 cursed=cursed/JJ,curseder/JJR,cursedest/JJS=all
 cursedly=RB=all
@@ -100806,6 +100807,8 @@ monopolizer|monopoliser=noun=us,ca,gb|gb,au,nz,za
 monopolize|monopolise=verb=us,ca,gb|gb,au,nz,za
 monopoly=noun=all
 monoprotic=JJ=all
+monopsonist=noun=all
+monopsony=noun=all
 monopteral=JJ=all
 monorail=noun=all
 monorepository=noun=all

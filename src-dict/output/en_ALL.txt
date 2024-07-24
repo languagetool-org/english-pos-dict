@@ -4664,6 +4664,8 @@ Balmoral
 Balmorals
 Balmung
 Balochistan
+Balrog
+Balrogs
 Balt
 Balthasar
 Baltic
@@ -57089,7 +57091,6 @@ bursiform
 bursitis
 bursitises
 burst
-bursted
 bursting
 bursts
 burthensome
@@ -60827,8 +60828,6 @@ checkerberries
 checkerberry
 checkerbloom
 checkerblooms
-checkered
-checkering
 checkers
 checkerspot
 checkerspots
@@ -70568,7 +70567,6 @@ cursorily
 cursoriness
 cursors
 cursory
-curst
 curstly
 curstness
 cursus
@@ -121150,6 +121148,10 @@ monopolistically
 monopolists
 monopoly
 monoprotic
+monopsonies
+monopsonist
+monopsonists
+monopsony
 monopteral
 monorail
 monorails

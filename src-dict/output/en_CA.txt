@@ -1319,7 +1319,10 @@ characterizer
 characterizers
 characterizes
 characterizing
+checker
 checkered
+checkering
+checkers
 chemicalization
 chemicalizations
 chemicalize
@@ -1330,12 +1333,8 @@ cheque
 chequebook
 chequebooks
 chequeless
-chequer
 chequerboard
 chequerboards
-chequered
-chequering
-chequers
 cheques
 child-centred
 chili
