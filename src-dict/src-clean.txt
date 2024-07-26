@@ -63591,6 +63591,7 @@ creature=noun=all
 creaturehood=noun=all
 creatureliness=NN:U=all
 creaturely=JJ=all
+cred=noun_U=all
 credal=JJ=all
 credence=noun_U=all
 credent=JJ=all
@@ -74162,7 +74163,7 @@ exorcismal=JJ=all
 exorcist=noun=all
 exorcistic=JJ=all
 exorcistical=JJ=all
-exorcize|exorcise=verb=us,ca,gb|gb,au,nz,za
+exorcize|exorcise=verb=us,ca,gb|gb,au,nz,us,za
 exordial=JJ=all
 exordium=noun=all
 exoskeletal=JJ=all
@@ -84008,6 +84009,7 @@ hiccup [-pp-,-p-]=verb=all
 hiccup=noun_U=all
 hick=JJ=all
 hick=noun=all
+hickey=noun=all
 hickory=noun=all
 hidable=JJ=all
 hidalgo=noun=all
@@ -153892,6 +153894,7 @@ weekly=JJ=all
 weekly=RB=all
 weekly=noun=all
 weeknight=noun=all
+ween=verb=all # archaic
 weeness=NN:U=all
 weenie=noun=all
 weenie=weenie/JJ,weenier/JJR,weeniest/JJS=all
