@@ -44590,7 +44590,7 @@ abysmal=JJ=all
 abysmally=RB=all
 abyss=noun=all
 abyssal=JJ=all
-ac=abbreviation=all
+ac=abbreviation=us,ca,au,nz,za
 acacia=noun_UN=all
 academe=noun_U=all
 academia=noun_U=all
@@ -61413,7 +61413,7 @@ columned=JJ=all
 columniform=JJ=all
 columnist=noun=all
 columnlike=JJ=all
-com=abbreviation=all
+com=abbreviation=us,ca,au,nz,za
 coma=coma/NN,coma/NN:U,comae/NNS,comas/NNS=all
 comaker=noun=all
 comanage=verb=all
@@ -94600,6 +94600,7 @@ left-of-center|left-of-centre=JJ=us|au,ca,gb,nz,za
 left-wing=left-wing/JJ,leftwing/JJ=all
 left-winger=noun=all
 left-wingy=RB=all
+left=RB=all
 left=left/JJ,lefter/JJR,leftest/JJS=all
 left=noun_UN=all
 lefthand=JJ=all

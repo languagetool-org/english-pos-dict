@@ -40496,7 +40496,6 @@ abysms
 abyss
 abyssal
 abysses
-ac
 acacia
 acacias
 academe
@@ -64459,7 +64458,6 @@ columnist
 columnists
 columnlike
 columns
-com
 coma
 comae
 comaker
