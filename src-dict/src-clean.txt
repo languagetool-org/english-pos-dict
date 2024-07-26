@@ -1997,6 +1997,7 @@ Afghan=JJ=all
 Afghani=Afghani/NNP,Afghanis/NNPS=all
 Afghanistan=NNP=all
 Afguns=NNP=za # South Africa, placename?
+Afonso=NNP=gb
 Aframerican=JJ=all
 Afrasian=JJ=all
 Afric=JJ=all
@@ -2125,6 +2126,7 @@ Aileen=NNP=all
 Ailsa=NNP=all
 Ailton=NNP=all
 Aimee=NNP=all
+Aimer=NNP=all
 Ain=NNP=all
 Ainsley=NNP=all
 Ainsworth=NNP=all
@@ -2182,6 +2184,7 @@ Akkerman=NNP=all
 Akmal=NNP=all
 Akmolinsk=NNP=all
 Akron=NNP=all
+Akrotiri=NNP=all
 Akshay=NNP=all
 Aksum=NNP=all
 Akthar=NNP=all
@@ -3077,6 +3080,7 @@ Anápolis=NNP=all
 Aomori=NNP=all
 Aon=NNP=all
 Aorangi=NNP=all
+Aoyama=NNP=all
 Apache=Apache/NNP,Apaches/NNPS=all
 Apalachicola=NNP=all
 Aparri=NNP=all
@@ -3683,6 +3687,7 @@ Aubervilliers=NNP=all
 Aubrey=NNP=all
 Auburn=NNP=all
 Aubusson=JJ=all
+Auchan=NNP=all # brand name
 Auckland=NNP=all
 Audas=NNP=za # South Africa, placename?
 Aude=NNP=all
@@ -3791,6 +3796,7 @@ Avalon=NNP=all
 Avalos=NNP=all
 Avalugg=NNP=all
 Avar=NNP=all
+Avarua=NNP=NNP
 Avaya=NNP=all
 Avebury=NNP=all
 Aveiro=NNP=all
@@ -3875,6 +3881,8 @@ Azeem=NNP=all
 Azelf=NNP=all
 Azerbaijan=NNP=all
 Azerbaijani=Azerbaijani/NN:U,Azerbaijani/NNP,Azerbaijanis/NNPS=all
+Azeri=Azeri/NNP,Azeris/NNPS=all
+Azeri=JJ=all
 Azikiwe=NNP=all
 Azilian=JJ=all
 Azilian=NNP=all
@@ -3903,6 +3911,7 @@ Azzopardi=NNP=all
 Azzurri=NNP=all
 Aëtius=NNP=all
 Aífe=NNP=all
+B=noun=all
 B&W=NNP=all
 B-film=noun=all
 B-movie=noun=all
@@ -5252,6 +5261,7 @@ Beckstein=NNP=all
 Becky=NNP=all
 Becquerel=NNP=all
 Bed-Stuy=NNP=all
+Beddington=NNP=all
 Bede=NNP=all
 Bedelia=NNP=all
 Bedell=NNP=all
@@ -5511,6 +5521,7 @@ Bergmann=NNP=all
 Bergmanshoogte=NNP=za # South Africa, placename?
 Bergmite=NNP=all
 Bergnek=NNP=za # South Africa, placename?
+Bergoglio=NNP=all
 Bergshoop=NNP=za # South Africa, placename?
 Bergsig=NNP=za # South Africa, placename?
 Bergson=NNP=all
@@ -5682,6 +5693,7 @@ Bhaskar=NNP=all
 Bhatia=NNP=all
 Bhatnagar=NNP=all
 Bhatpara=NNP=all
+Bhavani=NNP=all
 Bhavesh=NNP=all
 Bhavnagar=NNP=all
 Bhekabezayo=NNP=za # South Africa, placename?
@@ -6229,6 +6241,7 @@ Bosniak=JJ=all
 Bosnian=Bosnian/NN:U,Bosnian/NNP,Bosnians/NNPS=all
 Bosnian=JJ=all
 Bosonia=NNP=za # South Africa, placename?
+Bosphorus=NNP=all
 Bosplaas=NNP=za # South Africa, placename?
 Bospoort=NNP=za # South Africa, placename?
 Bosporan=JJ=all
@@ -6312,6 +6325,7 @@ Bowland=NNP=all
 Bowlby=NNP=all
 Bowles=NNP=all
 Bowman=NNP=all
+Bowser=NNP=all
 Boxy=NNP=za # South Africa, placename?
 Boy=NNP=all
 Boyce=NNP=all
@@ -6514,6 +6528,7 @@ Brevard=NNP=all
 Brewer=NNP=all
 Brewster=NNP=all
 Brexit=NNP=all
+Brexiteer=Brexiteer/NNP,Brexiteers/NNPS=all
 Breyer=NNP=all
 Breyten=NNP=za # South Africa, placename?
 Brezhnev=NNP=all
@@ -6717,6 +6732,7 @@ Bruma=NNP=za # South Africa, placename?
 Brumaire=NNP=all
 Brummell=NNP=all
 Brummeria=NNP=za # South Africa, placename?
+Brummie=Brummie/NNP,Brummies/NNPS=gb
 Brundisium=NNP=all
 Bruneau=NNP=all
 Brunei=NNP=all
@@ -6796,6 +6812,7 @@ Buddha=Buddha/NNP,Buddhas/NNPS=all
 Buddhism=Buddhism/NNP,Buddhisms/NNPS=all
 Buddhist=Buddhist/NNP,Buddhists/NNPS=all
 Buddhist=JJ=all
+Buddhistic=JJ=all
 Buddhistical=JJ=all
 Buddhistically=RB=all
 Buddhology=NNP=all
@@ -8374,6 +8391,7 @@ Cann=NNP=all
 Cannae=NNP=all
 Cannes=NNP=all
 Canning=NNP=all
+Cannington=NNP=all
 Cannizzaro=NNP=all
 Cannock=NNP=all
 Cannon=NNP=all
@@ -8579,6 +8597,7 @@ Carrefour=NNP=all
 Carrel=NNP=all
 Carrera=NNP=all
 Carrick=NNP=all
+Carrickfergus=NNP=all
 Carrie=NNP=all
 Carrigan=NNP=all
 Carrigtwohill=NNP=all
@@ -9202,6 +9221,7 @@ Chiclayo=NNP=all
 Chico=NNP=all
 Chicoloapan=NNP=all
 Chicopee=NNP=all
+Chicxulub=NNP=all
 Chief=Chief/NNP,Chiefs/NNPS=all
 Chiellini=NNP=all
 Chien-Pao=NNP=all
@@ -9417,6 +9437,7 @@ Châtelet=NNP=all
 Châtillon-sur-Seine=NNP=all
 Chéticamp=NNP=all
 Ci=NNP=all
+Cialis=NNP=all
 Ciara=NNP=all
 Ciaran=NNP=all
 Cibber=NNP=all
@@ -9610,6 +9631,7 @@ Cline=NNP=all
 Clinique=NNP=all
 Clint=NNP=all
 Clinton=NNP=all
+Clintons=NNPS=all
 Clio=Clio/NNP,Clios/NNPS=all
 Clisthenes=NNP=all
 Clive=NNP=all
@@ -9833,6 +9855,7 @@ Comecon=NNP=all
 Comenius=NNP=all
 Comerica=NNP=all
 Comet=NNP=za # South Africa, placename?
+Comey=NNP=all
 Comfey=NNP=all
 Comines=NNP=all
 Cominform=NNP=all
@@ -10502,6 +10525,7 @@ Cyndi=NNP=all
 Cynewulf=NNP=all
 Cynic=Cynic/NNP,Cynics/NNPS=all
 Cynthia=NNP=all
+Cynthus=NNP=all
 Cyprian=Cyprian/NNP,Cyprians/NNPS=all
 Cyprian=JJ=all
 Cyprinidae=NNP=all
@@ -11105,6 +11129,7 @@ Daedalian=JJ=all
 Daedalus=NNP=all
 Daegu=NNP=all
 Daenerys=NNP=all
+Daesh=NNP=all
 Daewoo=NNP=all
 Dafeleni=NNP=za # South Africa, placename?
 Daffodil=NNP=all
@@ -11115,6 +11140,8 @@ Dagda=NNP=all
 Dagenham=NNP=all
 Dageraad=NNP=za # South Africa, placename?
 Dagestan=NNP=all
+Dagestani=Dagestani/NNP,Dagestanis/NNPS=all
+Dagestani=JJ=all
 Daggafontein=NNP=za # South Africa, placename?
 Dagmar=NNP=all
 Dagon=NNP=all
@@ -11151,6 +11178,7 @@ Daliwe=NNP=za # South Africa, placename?
 Daliyah=NNP=all
 Dallapiccola=NNP=all
 Dallas=NNP=all
+Dalloway=NNP=all
 Dalmatia=NNP=all
 Dalmatian=Dalmatian/NNP,Dalmatians/NNPS=all
 Dalmatian=JJ=all
@@ -11440,6 +11468,7 @@ Deidre=NNP=all
 Deimos=NNP=all
 Deino=NNP=all
 Deinze=NNP=all
+Deiphobus=NNP=all
 Deirdre=NNP=all
 Dekalb=NNP=all
 Dekameelskuil=NNP=za # South Africa, placename?
@@ -12393,6 +12422,7 @@ Dyophysite=NNP=all
 Dyophysitic=JJ=all
 Dyott=NNP=all
 Dysart=NNP=all
+Dysnomia=NNP=all
 Dyson=NNP=all
 Dysselsdorp=NNP=za # South Africa, placename?
 Dzanani=NNP=za # South Africa, placename?
@@ -13727,6 +13757,7 @@ Erin=NNP=all
 Erinvale=NNP=za # South Africa, placename?
 Erinys=NNP=all
 Eris=Eris/NNP,Erises/NNPS=all
+Eriskay=NNP=all
 Eritrea=NNP=all
 Eritrean=Eritrean/NNP,Eritreans/NNPS=all
 Eritrean=JJ=all
@@ -13987,6 +14018,8 @@ Europocentrism=Europocentrism/NNP,Europocentrisms/NNPS=all
 Europol=NNP=all
 Europoort=NNP=all
 Eurorail=NNP=all
+Eurosceptic=Eurosceptic/NNP,Eurosceptics/NNPS=noun=au,gb,nz,za
+Eurosceptic=JJ=au,gb,nz,za
 Euroscepticism=noun_UN=all
 Euroskepticism|Euroscepticism=NN:UN=ca,us|au,gb,nz,za
 Eurostar=NNP=all
@@ -14678,6 +14711,7 @@ Fahrenheit=Fahrenheit/NNP,Fahrenheits/NNPS=all
 Fahrenheit=JJ=all
 Fahrvergnügen=NN:U=all
 Fair=NNP=all
+Fairbairn=NNP=all
 Fairbanks=NNP=all
 Fairborn=NNP=all
 Fairbreeze=NNP=za # South Africa, placename?
@@ -14710,6 +14744,7 @@ Faiyum=NNP=all
 Faizabad=NNP=all
 Falange=JJ=all
 Falange=NNP=all
+Falangist=Falangist/NNP,Falangists/NNPS=all
 Falckvlei=NNP=za # South Africa, placename?
 Falco=NNP=all
 Falconridge=NNP=za # South Africa, placename?
@@ -14749,6 +14784,7 @@ Fanti=Fanti/NN:U,Fanti/NNP=all
 Faraday=NNP=all
 Farah=NNP=all
 Faramarz=NNP=all
+Farber=NNP=all
 Fareed=NNP=all
 Fareham=NNP=all
 Farewell=NNP=all
@@ -14975,6 +15011,7 @@ Figueroa=NNP=all
 Fiji=Fiji/NNP,Fijis/NNPS=all
 Fijian=Fijian/NN:U,Fijian/NNP,Fijians/NNPS=all
 Fijian=JJ=all
+Filby=NNP=all
 Filho=NNP=all
 Filiberto=NNP=all
 Filip=NNP=all
@@ -15995,6 +16032,7 @@ Gaelic-speaking=JJ=all
 Gaelic=Gaelic/NN:U,Gaelic/NNP=all
 Gaelic=JJ=all
 Gaelle=NNP=all
+Gaeltacht=Gaeltacht/NNP,Gaeltachts/NNPS=all
 Gaeta=NNP=all
 Gagarin=NNP=all
 Gage=NNP=all
@@ -16045,6 +16083,7 @@ Galician=Galician/NN:U,Galician/NNP,Galicians/NNPS=all
 Galician=JJ=all
 Galilean=Galilean/NNP,Galileans/NNPS=all
 Galilean=JJ=all
+Galilei=NNP=all
 Galileo=NNP=all
 Galindo=NNP=all
 Galjoen=NNP=za # South Africa, placename?
@@ -16637,6 +16676,7 @@ Glarus=NNP=all
 Glaser=NNP=all
 Glasgow=NNP=all
 Glass=NNP=all
+Glassboro=NNP=all
 Glassdoor=NNP=all
 Glasser=NNP=all
 Glastonbury=NNP=all
@@ -16795,6 +16835,7 @@ Golbat=NNP=all
 Golconda=Golconda/NNP,Golcondas/NNPS=all
 Gold=NNP=all
 Golda=NNP=all
+Goldbach=NNP=all
 Goldberg=NNP=all
 Goldblum=NNP=all
 Goldeen=NNP=all
@@ -16809,6 +16850,7 @@ Goldsboro=NNP=all
 Goldschmidt=NNP=all
 Goldsmith=NNP=all
 Goldstein=NNP=all
+Goldstone=NNP=all
 Goldsworthy=NNP=all
 Goldthorpe=NNP=all
 Golduck=NNP=all
@@ -16888,6 +16930,7 @@ Gorbals=NNP=all
 Gordian=JJ=all
 Gordie=NNP=all
 Gordillo=NNP=all
+Gordo=NNP=all
 Gordon=NNP=all
 Gordy=NNP=all
 Gore-Tex=NNP=all
@@ -17120,6 +17163,7 @@ Gretel=NNP=all
 Gretna=NNP=all
 Greuze=NNP=all
 Greville=NNP=all
+Grexit=NNP=all
 Grey=NNP=all
 Greylingstad=NNP=za # South Africa, placename?
 Greymont=NNP=za # South Africa, placename?
@@ -17241,6 +17285,7 @@ Guanacaste=NNP=all
 Guanajuato=NNP=all
 Guangdong=NNP=all
 Guangzhou=NNP=all
+Guangxi=NNP=all
 Guantanamo=NNP=all
 Guantánamo=NNP=all
 Guarani=Guarani/NN:U,Guarani/NNP,Guaranis/NNPS=all
@@ -18039,6 +18084,7 @@ Harwell=NNP=all
 Harwich=NNP=all
 Harwood=NNP=all
 Haryana=NNP=all
+Harz=NNPS=all
 Hasa=NNP=all
 Hasan=NNP=all
 Hasdrubal=NNP=all
@@ -18085,6 +18131,7 @@ Haudenosaunee=NNP=all
 Haugeland=NNP=all
 Haugen=NNP=all
 Haughton=NNP=all
+Haumea=NNP=all
 Haunter=NNP=all
 Hauptmann=NNP=all
 Hausa=Hausa/NN:U,Hausa/NNP,Hausas/NNPS=all
@@ -18145,6 +18192,7 @@ Hayne=NNP=all
 Haynes=NNP=all
 Hays=NNP=all
 Haysville=NNP=all
+Hayter=NNP=all
 Hayton=NNP=all
 Hayward=NNP=all
 Haywood=NNP=all
@@ -18686,7 +18734,9 @@ Hippopotas=NNP=all
 Hipposideridae=NNP=all
 Hippowdon=NNP=all
 Hiram=NNP=all
+Hirayama=NNP=all
 Hirohito=NNP=all
+Hiroki=NNP=all
 Hiroshi=NNP=all
 Hiroshige=NNP=all
 Hiroshima=NNP=all
@@ -18877,6 +18927,7 @@ Holyhead=NNP=all
 Holyhill=NNP=all
 Holyoake=NNP=all
 Holyoke=NNP=all
+Holyrood=NNP=all
 Holzman=NNP=all
 Homburg=Homburg/NNP,Homburgs/NNPS=all
 Home=NNP=all
@@ -19864,6 +19915,8 @@ Iapetus=NNP=all
 Iasi=NNP=all
 Ibadan=NNP=all
 Ibagué=NNP=all
+Iban=Iban/NNP,Ibans/NNPS=all
+Iban=JJ=all
 Ibaraki=NNP=all
 Ibarra=NNP=all
 Ibaxa=NNP=za # South Africa, placename?
@@ -20024,6 +20077,7 @@ Incan=JJ=all
 Incan=NNP=all
 Incarnation=NNP=all
 Inchanga=NNP=za # South Africa, placename?
+Incheon=NNP=all
 Inchon=NNP=all
 Incineroar=NNP=all
 Indeedee=NNP=all
@@ -20278,6 +20332,8 @@ Isfahan=NNP=all
 Ish-bosheth=NNP=all
 Ishaan=NNP=all
 Isherwood=NNP=all
+Ishiguro=NNP=all
+Ishikawa=NNP=all
 Ishmael=Ishmael/NNP,Ishmaels/NNPS=all
 Ishmaelite=Ishmaelite/NNP,Ishmaelites/NNPS=all
 Ishpeming=NNP=all
@@ -20719,6 +20775,7 @@ Janie=NNP=all
 Janina=NNP=all
 Janine=NNP=all
 Janis=NNP=all
+Janksy=NNP=all
 Janmashtami=NNP=all
 Janna=NNP=all
 Janos=NNP=all
@@ -20918,6 +20975,7 @@ Jerusalem=NNP=all
 Jerusalemite=JJ=all
 Jervis=NNP=all
 Jerónimo=NNP=all
+Jerzy=NNP=all
 Jeshua=NNP=all
 Jesper=NNP=all
 Jespersen=NNP=all
@@ -21620,6 +21678,7 @@ Kanoneiland=NNP=za # South Africa, placename?
 Kanonierspark=NNP=za # South Africa, placename?
 Kanonkop=NNP=za # South Africa, placename?
 Kanpur=NNP=all
+Kansai=NNP=all
 Kansan=JJ=all
 Kansas=NNP=all
 Kansu=NNP=all
@@ -21908,7 +21967,7 @@ Kenna=NNP=all
 Kennan=NNP=all
 Kennebec=NNP=all
 Kennebunk=NNP=all
-Kennedy=NNP=all
+Kennedy=Kennedy/NNP,Kennedys/NNPS=all
 Kenner=NNP=all
 Kennesaw=NNP=all
 Kennet=NNP=all
@@ -22459,6 +22518,7 @@ Korematsu=NNP=all
 Koringberg=NNP=za # South Africa, placename?
 Koringpunt=NNP=za # South Africa, placename?
 Kornberg=NNP=all
+Korolev=NNP=all
 Koroseal=NNP=all
 Korsten=NNP=za # South Africa, placename?
 Kortrijk=NNP=all
@@ -23318,6 +23378,7 @@ Lakeview=NNP=all
 Lakeville=NNP=all
 Lakewood=NNP=all
 Lakota=Lakota/NNP,Lakotas/NNPS=all
+Lakshadweep=NNP=all
 Lakshmana=NNP=all
 Lakshmi=NNP=all
 Lala=NNP=all
@@ -23726,6 +23787,7 @@ Leibnitzian=JJ=all
 Leibniz=NNP=all
 Leibnizian=JJ=all
 Leibowitz=NNP=all
+Leica=NNP=all
 Leicester=Leicester/NNP,Leicesters/NNPS=all
 Leicestershire=NNP=all
 Leiden=NNP=all
@@ -24137,6 +24199,7 @@ Linköping=NNP=all
 Linlithgow=NNP=all
 Linmeyer=NNP=za # South Africa, placename?
 Linn=NNP=all
+Linnaean=JJ=all
 Linnaeus=NNP=all
 Linnean=JJ=all
 Linnell=NNP=all
@@ -24250,6 +24313,7 @@ Lochinvar=NNP=all
 Locke=NNP=all
 Lockean=JJ=all
 Lockett=NNP=all
+Lockerbie=NNP=all
 Lockhart=NNP=all
 Lockheed=NNP=all
 Lockport=NNP=all
@@ -24660,6 +24724,7 @@ Luxembourg=NNP=all
 Luxembourger=Luxembourger/NNP,Luxembourgers/NNPS=all
 Luxembourgian=JJ=all
 Luxembourgian=noun=all
+Luxembourgish=JJ=all
 Luxemburger=Luxemburger/NNP,Luxemburgers/NNPS=all
 Luxio=NNP=all
 Luxmi=NNP=za # South Africa, placename?
@@ -50073,6 +50138,7 @@ arythmic=JJ=all
 as=CC=all
 as=IN=all
 as=RB=all
+asana=noun=all
 asap=RB=all
 asbestine=JJ=all
 asbestoid=JJ=all
@@ -50457,6 +50523,7 @@ astringent=JJ=all
 astringent=noun=all
 astringently=RB=all
 astro-archaeology|astro-archeology=NN:U=all|us
+astrobiologist=noun=all
 astrobiology=noun_UN=all
 astrochemist=noun=all
 astrochemistry=noun_U=all
@@ -54505,6 +54572,8 @@ bluebill=noun=all
 bluebird=noun=all
 bluebonnet=noun=all
 bluebottle=noun=all
+bluefin=JJ=all
+bluefin=noun=all
 bluefish=bluefish/NN,bluefish/NNS,bluefishes/NNS=all
 bluegill=noun=all
 bluegrass=noun_U=all
@@ -55678,6 +55747,7 @@ briskly=RB=all
 briskness=NN:U=all
 bristle=noun=all
 bristle=verb=all
+bristlecone=noun=all
 bristleless=JJ=all
 bristlelike=JJ=all
 bristletail=noun=all
@@ -59218,6 +59288,7 @@ chill=verb=all
 chillax=verb=all
 chilled=JJ=all
 chiller=noun=all
+chilli=chilli/NN:UN,chillies/NNS,chillis/NNS=au,gb,nz,za
 chilliness=NN:U=all
 chilling=JJ=all
 chilling=noun_UN=all
@@ -72737,6 +72808,7 @@ elusiveness=NN:U=all
 elute=verb=all
 elution=noun_UN=all
 eluvial=JJ=all
+elven=JJ=gb,nz,za
 elver=noun=all
 elvish=JJ=all
 elvish=noun=all
@@ -73254,6 +73326,7 @@ endolymph=noun=all
 endomembrane=noun=all
 endometrial=JJ=all
 endometriosis=endometriosis/NN:U,endometrioses/NNS=all
+endometritis=noun_U=all
 endometrium=noun=all
 endomorph=noun=all
 endomorphic=JJ=all
@@ -74159,6 +74232,7 @@ eristic=JJ=all
 eristic=noun=all
 eristically=RB=all
 erk=noun=all
+erm=UH=gb
 ermine=ermine/NN:U,ermine/NNS,ermines/NNS=all
 ermined=JJ=all
 erne=noun=all
@@ -75237,6 +75311,7 @@ existing=JJ=all
 exit=noun=all
 exit=verb=all
 exitless=JJ=all
+exobiological=JJ=all
 exobiologist=noun=all
 exobiology=noun_U=all
 exocentric=JJ=all
@@ -79229,6 +79304,7 @@ freediver=noun=all
 freediving=NN:U=all
 freedman [pl. freedmen]=noun=all
 freedom=noun_UN=all
+freegan=noun=all
 freeganism=noun_UN=all
 freehand=JJ=all
 freehand=RB=all
@@ -80567,6 +80643,7 @@ gel=noun=all
 gel=verb=all
 gelati=noun=all
 gelatin=noun_U=all
+gelatine=noun_U=gb,nz,za
 gelatinization|gelatinisation=noun_UN=us,ca,gb|gb,au,nz,za
 gelatinizer|gelatiniser=noun=us,ca,gb|gb,au,nz,za
 gelatinize|gelatinise=verb=us,ca,gb|gb,au,nz,za
@@ -85121,6 +85198,7 @@ hexing=noun_UN=all
 hexose=noun_U=all
 hexylic=JJ=all
 hey=UH=all
+heya=UH=all
 heyday=noun=all
 hgt=NN=all
 hi-fi=JJ=all
@@ -90868,6 +90946,7 @@ interline=verb=all
 interlinear=JJ=all
 interlinearly=RB=all
 interlingual=JJ=all
+interlinguistics=noun_U=all
 interlining=noun_UN=all
 interlink=verb=all
 interlinkage=noun_UN=all
