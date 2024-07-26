@@ -64632,6 +64632,7 @@ creature=noun=all
 creaturehood=noun=all
 creatureliness=NN:U=all
 creaturely=JJ=all
+cred=noun_U=all
 credal=JJ=all
 credence=noun_U=all
 credent=JJ=all
@@ -85142,6 +85143,7 @@ hiccup [-pp-,-p-]=verb=all
 hiccup=noun_U=all
 hick=JJ=all
 hick=noun=all
+hickey=noun=all
 hickory=noun=all
 hidable=JJ=all
 hidalgo=noun=all
@@ -155157,6 +155159,7 @@ weekly=JJ=all
 weekly=RB=all
 weekly=noun=all
 weeknight=noun=all
+ween=verb=all # archaic
 weeness=NN:U=all
 weenie=noun=all
 weenie=weenie/JJ,weenier/JJR,weeniest/JJS=all

@@ -73576,7 +73576,6 @@ creatress=noun=none
 creatrix=creatrix/NN,creatrices/NNS,creatrixes/NNS=none
 creche=noun=au,ca,us
 crecy=NN=none
-cred=UNTAGGED=au,ca,us
 credendum=credendum/NN,credenda/NNS=us-large
 credentialism=noun_UN=gb
 creditorship=NN=none
@@ -93084,7 +93083,6 @@ hic=noun=us-large
 hicatee=noun=none
 hiccoughy=UNTAGGED=gb
 hiccupy=UNTAGGED=gb
-hickey=noun=au,ca,us
 hickie=noun=none
 hickwall=noun=none
 hidage=noun=none
@@ -158467,7 +158465,6 @@ week-over-week=RB=none
 weel=noun=none
 weeloo=noun=none
 weem=noun=none
-ween=verb=au,ca,us
 weeny-bopper=NN=none
 weephole=noun=none
 weepily=UNTAGGED=gb
