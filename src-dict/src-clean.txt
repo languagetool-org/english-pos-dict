@@ -65551,7 +65551,6 @@ curlike=JJ=all
 curliness=NN:U=all
 curling=JJ=all
 curling=NN:U=all
-curly=RB=all
 curly=curly/JJ,curlier/JJR,curliest/JJS=all
 curmudgeon=noun=all
 curmudgeonliness=NN:U=all
