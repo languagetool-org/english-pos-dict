@@ -96,6 +96,6 @@ prepone=verb=none # Indian English
 
 
 ## Scripts
-* Script to make tests
-* Script to build the dictionaries
+* Script to make tests: `src-dict/check-syntax.py`
+* Script to build the dictionaries: `./build-dicts-from-src.sh`
 
