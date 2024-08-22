@@ -357,7 +357,6 @@ Acherman=NNP=none
 Acherontia=NNP=none
 Acheta=NNP=none
 Achilleas=UNTAGGED=all
-Achillobator=UNTAGGED=all
 Achimaas=NNP=none
 Achimelech=NNP=none
 Achinese=NN:U=za
@@ -779,9 +778,6 @@ Aganus=NNP=none
 Agape=NNP=none
 Agapemone=UNTAGGED=gb
 Agapornis=NNP=none
-Agaricomycetes=UNTAGGED=gb
-Agaricomycetidae=UNTAGGED=gb
-Agaricomycotina=UNTAGGED=gb
 Agaricus=NNP=none
 Agastache=NNP=none
 Agastrophus=NNP=none
@@ -1242,7 +1238,6 @@ Alecia=NNP=none
 Alectis=NNP=none
 Alectoria=NNP=none
 Alectoris=NNP=none
-Alectrosaurus=UNTAGGED=all
 Alectura=NNP=none
 Aleda=NNP=none
 Aledo=NNP=none
@@ -1550,7 +1545,6 @@ Alphaea=NNP=none
 Alphagan=UNTAGGED=gb
 Alphage=UNTAGGED=gb
 Alphamstone=UNTAGGED=gb
-Alphatetraviridae=UNTAGGED=all
 Alphecca=UNTAGGED=au,ca,us
 Alphege=UNTAGGED=gb
 Alpheratz=UNTAGGED=au,ca,us
@@ -1641,7 +1635,6 @@ Alveley=UNTAGGED=gb
 Alver=NNP=none
 Alvera=NNP=none
 Alverdiscott=UNTAGGED=gb
-Alvernaviridae=UNTAGGED=all
 Alverno=NNP=none
 Alverson=NNP=none
 Alverstoke=UNTAGGED=gb
@@ -1670,7 +1663,6 @@ Alwinton=UNTAGGED=gb
 Alwitt=NNP=none
 Alwoodley=UNTAGGED=gb
 Alwyn=NNP=none
-Alxasaurus=UNTAGGED=all
 Alyattes=NNP=none
 Alyda=NNP=none
 Alyose=NNP=none
@@ -1715,7 +1707,6 @@ Amandie=NNP=none
 Amando=NNP=none
 Amandy=NNP=none
 Amanist=NNP=none
-Amanitaceae=UNTAGGED=gb
 Amann=NNP=none
 Amap=NNP=none
 Amapc=NNP=none
@@ -2032,7 +2023,6 @@ Anchie=NNP=none
 Anchinoae=NNP=none
 Ancholme=UNTAGGED=gb
 Anchorsholme=UNTAGGED=gb
-Anchusa=UNTAGGED=gb
 Ancienne-Lorette=UNTAGGED=gb
 Ancier=NNP=none
 Ancilin=NNP=none
@@ -2584,7 +2574,6 @@ Arabically=UNTAGGED=gb
 Arabicism=UNTAGGED=gb
 Arabicisms=UNTAGGED=gb
 Arabidopsis=UNTAGGED=all
-Arabis=Arabis/NNP,Arabises/NNPS=gb
 Arabism=Arabism/NNP,Arabisms/NNPS=gb
 Aracaj=NNP=none
 Araceae=NNP=none
@@ -3081,7 +3070,6 @@ Artzybashev=NNP=none
 Aruabea=NNP=none
 Aruban=Aruban/NNP,Arubans/NNPS=none
 Arulo=NNP=none
-Arum=UNTAGGED=gb
 Aruna=UNTAGGED=gb
 Arundell=NNP=none
 Arundinaria=NNP=none
@@ -3139,7 +3127,6 @@ Aschaffenburg=NNP=none
 Aschelminthes=NNP=none
 Ascher=UNTAGGED=gb
 Aschim=NNP=none
-Ascidiacea=UNTAGGED=gb
 Ascidiaceae=NNP=none
 Asclepi=NNP=none
 Asclepiadaceae=NNP=none
@@ -3266,7 +3253,6 @@ Aspal=UNTAGGED=gb
 Aspalathus=NNP=none
 Aspall=UNTAGGED=gb
 Asparagaceae=NNP=none
-Asparagus=UNTAGGED=gb
 Aspatria=UNTAGGED=gb
 AspectJ=UNTAGGED=gb
 Aspenden=UNTAGGED=gb
@@ -3331,7 +3317,6 @@ Asterope=NNP=none
 Asthall=UNTAGGED=gb
 Asthana=UNTAGGED=gb
 Asthanas=UNTAGGED=gb
-Astilbe=UNTAGGED=gb
 Astley=UNTAGGED=gb
 Astrabacus=NNP=none
 Astraea=NNP=none
@@ -3354,7 +3339,6 @@ Astronium=NNP=none
 Astrophyton=NNP=none
 Astropogon=NNP=none
 Astroturf=NNP=none
-Astroviridae=UNTAGGED=all
 Astto=NNP=none
 Astwick=UNTAGGED=gb
 Astwood=UNTAGGED=gb
@@ -3635,7 +3619,6 @@ Auston=NNP=none
 Australiana=NNP=none
 Australianism=Australianism/NNP,Australianisms/NNPS=gb
 Australis=UNTAGGED=gb,nz,za
-Australosphenida=UNTAGGED=all
 Austrasian=Austrasian/NNP,Austrasians/NNPS=none
 Austreng=NNP=none
 Austrey=UNTAGGED=gb
@@ -4387,7 +4370,6 @@ Bankfoot=UNTAGGED=gb
 Bankia=NNP=none
 Banknock-Haggs=UNTAGGED=gb
 Banknock=UNTAGGED=gb
-Banksia=UNTAGGED=gb
 Bankside=NNP=none
 Banky=NNP=none
 Banna=NNP=none
@@ -4525,7 +4507,6 @@ Barnacle=UNTAGGED=gb
 Barnacre-with-Bonds=UNTAGGED=gb
 Barnaise=NNP=none
 Barnardiston=UNTAGGED=gb
-Barnaviridae=UNTAGGED=all
 Barnbrough=UNTAGGED=gb
 Barnburgh=UNTAGGED=gb
 Barnburner=NNP=none
@@ -5040,7 +5021,6 @@ Beighton=UNTAGGED=gb
 Beilul=NNP=none
 Beim=UNTAGGED=gb
 Bein=NNP=none
-Beipiaosaurus=UNTAGGED=all
 Beirdd=UNTAGGED=gb
 Beiruti=Beiruti/NNP,Beirutis/NNPS=none
 Beisel=NNP=none
@@ -5295,7 +5275,6 @@ Benwick=UNTAGGED=gb
 Benwood=NNP=none
 Benxi=UNTAGGED=us-large
 Benyamin=NNP=none
-Benyviridae=UNTAGGED=all
 Benzel=NNP=none
 Benzie=UNTAGGED=gb
 Benzoin=NNP=none
@@ -5760,7 +5739,6 @@ Biles=NNP=none
 Bilhah=NNP=none
 Bili=NNP=none
 Bilicki=NNP=none
-Biliphyta=UNTAGGED=all
 BillGuard=UNTAGGED=all
 Billabong=NNP=none
 Billat=NNP=none
@@ -6424,7 +6402,6 @@ Boles=NNP=none
 Boleskine=UNTAGGED=gb
 Boleslaw=NNP=none
 Boletaceae=NNP=none
-Boletales=UNTAGGED=all
 Boletellus=NNP=none
 Boletus=NNP=none
 Bolitho=NNP=none
@@ -6856,8 +6833,6 @@ Bracebridge=UNTAGGED=gb
 Braceby=UNTAGGED=gb
 Bracewell=UNTAGGED=gb
 Brachinus=NNP=none
-Brachiosaurus=UNTAGGED=gb
-Brachycera=UNTAGGED=gb
 Brachychiton=NNP=none
 Brachycome=NNP=none
 Brachystegia=NNP=none
@@ -7075,7 +7050,6 @@ Brear=NNP=none
 Brearton=UNTAGGED=gb
 Breasted=NNP=none
 Breaston=UNTAGGED=gb
-Breathalyzer=Breathalyzer/NNP,Breathalyzers/NNPS=au,ca,us
 Breathitt=UNTAGGED=gb
 Breban=NNP=none
 Brebner=NNP=none
@@ -7424,7 +7398,6 @@ Bromius=NNP=none
 Bromleigh=NNP=none
 Bromo=Bromo/NNP,Bromos/NNPS=none
 Bromont=UNTAGGED=gb
-Bromoviridae=UNTAGGED=all
 Brompton-on-Swale=UNTAGGED=gb
 Brompton=UNTAGGED=gb
 Bromsberrow=UNTAGGED=gb
@@ -8181,7 +8154,6 @@ Caeneus=NNP=none
 Caenis=NNP=none
 Caenolestes=NNP=none
 Caenolestidae=NNP=none
-Caenorhabditis=UNTAGGED=all
 Caerau=UNTAGGED=gb
 Caereinion=UNTAGGED=gb
 Caerhays=UNTAGGED=gb
@@ -8305,7 +8277,6 @@ Caletor=NNP=none
 Caley=UNTAGGED=gb
 Calia=NNP=none
 Calica=NNP=none
-Caliciviridae=UNTAGGED=all
 Calida=NNP=none
 Calidris=NNP=none
 Calie=NNP=none
@@ -8373,7 +8344,6 @@ Calondra=NNP=none
 Caloocan=UNTAGGED=au,ca,us
 Calophyllum=NNP=none
 Calopogon=NNP=none
-Calopterygidae=UNTAGGED=all
 Calor=UNTAGGED=gb
 Calore=NNP=none
 Calorie=NNP=none
@@ -8836,7 +8806,6 @@ Carmina=NNP=none
 Carmita=NNP=none
 Carmon=NNP=none
 Carmona=UNTAGGED=gb
-Carmotetraviridae=UNTAGGED=all
 Carmunnock=UNTAGGED=gb
 Carmyle=UNTAGGED=gb
 Carmyllie=UNTAGGED=gb
@@ -9244,7 +9213,6 @@ Ccuta=NNP=none
 Cdenas=NNP=none
 Cdiz=NNP=none
 Cdoba=NNP=none
-Ceanothus=UNTAGGED=gb
 Cear=NNP=none
 Cearc=NNP=none
 Ceb$=NNP=none
@@ -9473,7 +9441,6 @@ Cetorhinidae=NNP=none
 Cetorhinus=NNP=none
 Cetraria=NNP=none
 Cetura=NNP=none
-Cetus=UNTAGGED=all
 Ceulanamaesmawr=UNTAGGED=gb
 Ceylonite=NNP=none
 CfIT=UNTAGGED=gb,nz,za
@@ -10786,7 +10753,6 @@ Clewer=UNTAGGED=gb,za
 Clewiston=NNP=none
 Cley=UNTAGGED=gb
 Cleyre=NNP=none
-Clianthus=UNTAGGED=gb
 ClickBank=NNP=none
 Cliddesden=UNTAGGED=gb
 Clide=NNP=none
@@ -10865,7 +10831,6 @@ Clorinde=NNP=none
 Cloris=NNP=none
 Closeburn=UNTAGGED=gb
 Closter=NNP=none
-Closteroviridae=UNTAGGED=all
 Closure=UNTAGGED=au,ca,us
 Closworth=UNTAGGED=gb
 Clothall=UNTAGGED=gb
@@ -11059,7 +11024,6 @@ Coedffranc=UNTAGGED=gb
 Coedkernew=UNTAGGED=gb
 Coedkernyw=UNTAGGED=gb
 Coedpoeth=UNTAGGED=gb
-Coelacanthidae=UNTAGGED=gb
 Coelbren=UNTAGGED=gb
 Coelhas=UNTAGGED=gb
 Coeloglossum=NNP=none
@@ -11684,7 +11648,6 @@ Coroebus=NNP=none
 Coroglen=UNTAGGED=gb
 Coromandel=UNTAGGED=nz
 Corona=UNTAGGED=gb
-Coronaviridae=UNTAGGED=all
 Coronis=NNP=none
 Coronus=NNP=none
 Coropuna=NNP=none
@@ -12567,7 +12530,6 @@ Cyamus=NNP=none
 Cyanamid=UNTAGGED=gb,nz,za
 Cyane=NNP=none
 Cyaneae=NNP=none
-Cyanobacteria=UNTAGGED=all
 Cyanocitta=NNP=none
 Cyanogen=NNP=none
 Cyanophyceae=NNP=none
@@ -13521,7 +13483,6 @@ Delphina=NNP=none
 Delphinapterus=NNP=none
 Delphinia=NNP=none
 Delphinidae=NNP=none
-Delphinium=UNTAGGED=gb
 Delphinius=NNP=none
 Delphos=NNP=none
 Delphus=NNP=none
@@ -14087,7 +14048,6 @@ Dinornis=NNP=none
 Dinornithidae=NNP=none
 Dinornithiformes=NNP=none
 Dinorwic=UNTAGGED=gb
-Dinosauria=UNTAGGED=all
 Dinse=NNP=none
 Dinsmore=NNP=none
 Dinton-with-Ford=UNTAGGED=gb
@@ -15358,7 +15318,6 @@ Echinoderma=Echinoderma/NNP,Echinodermata/NNPS=none
 Echinoidea=NNP=none
 Echinops=NNP=none
 Echion=NNP=none
-Echiura=UNTAGGED=all
 Echt=UNTAGGED=gb
 Echuca-Moama=UNTAGGED=gb
 Echuca=UNTAGGED=au
@@ -15839,7 +15798,6 @@ Elke=NNP=none
 Elkesley=UNTAGGED=gb
 Elkin=NNP=none
 Elkington=UNTAGGED=gb
-Elkinsia=UNTAGGED=all
 Elksley=UNTAGGED=gb
 Elkstone=UNTAGGED=gb
 Elkstones=UNTAGGED=gb
@@ -16216,7 +16174,6 @@ Enson=UNTAGGED=gb
 Enstone=UNTAGGED=gb
 Entandrophragma=NNP=none
 Enterobacter=UNTAGGED=all
-Enterobacterales=UNTAGGED=gb
 Enterobius=NNP=none
 Enterolobium=NNP=none
 Entoloma=NNP=none
@@ -16318,7 +16275,6 @@ Equinix=NNP=none
 Equisetaceae=NNP=none
 Equisetales=NNP=none
 Equisetatae=NNP=none
-Equisetopsida=UNTAGGED=gb
 Equisetum=NNP=none
 Equity=UNTAGGED=us-large
 Eradis=NNP=none
@@ -16411,7 +16367,6 @@ Eriswell=UNTAGGED=gb
 Erith=UNTAGGED=gb
 Erithacus=NNP=none
 Erkan=NNP=none
-Erketu=UNTAGGED=all
 Erl=NNP=none
 Erland=NNP=none
 Erlander=NNP=none
@@ -16422,8 +16377,6 @@ Erlene=NNP=none
 Erlenmeyer=UNTAGGED=all
 Erlestoke=UNTAGGED=gb
 Erlewine=NNP=none
-Erliansaurus=UNTAGGED=all
-Erlikosaurus=UNTAGGED=all
 Erlin=NNP=none
 Erlina=NNP=none
 Erline=NNP=none
@@ -16505,7 +16458,6 @@ Eryx=NNP=none
 Erzgebirge=NNPS=us-large
 Esbensen=NNP=none
 Esbenshade=NNP=none
-Escallonia=UNTAGGED=gb
 Escambia=UNTAGGED=gb
 Escamilla=UNTAGGED=gb
 Esch=NNP=none
@@ -16682,7 +16634,6 @@ Etwall=UNTAGGED=gb
 Etz=NNP=none
 Euaechme=NNP=none
 Euan=UNTAGGED=gb
-Euarchontoglires=UNTAGGED=gb
 Euarctos=NNP=none
 Euascomycetes=NNP=none
 Eubacteriales=NNP=none
@@ -17098,7 +17049,6 @@ FMk=NNP=none
 FPUs=UNTAGGED=gb
 FTIR=NN:U=none
 Fab=UNTAGGED=gb
-Fabales=UNTAGGED=gb
 Fabbri=NNP=none
 Fabe=NNP=none
 Fabens=NNP=none
@@ -17115,7 +17065,6 @@ Fabius=UNTAGGED=gb
 Fabián=UNTAGGED=gb
 Fablan=NNP=none
 Fables=NNP=none
-Faboideae=UNTAGGED=gb
 Fabozzi=NNP=none
 Fabri=NNP=none
 Fabria=NNP=none
@@ -17920,7 +17869,6 @@ Flaubertian=Flaubertian/NNP,Flaubertians/NNPS=none
 Flaunden=UNTAGGED=gb
 Flavell=UNTAGGED=gb
 Flavian=NNP=none
-Flaviviridae=UNTAGGED=all
 Flawborough=UNTAGGED=gb
 Flawith=UNTAGGED=gb
 Flax=UNTAGGED=gb
@@ -18624,7 +18572,6 @@ Fucaceae=NNP=none
 Fucales=NNP=none
 Fuchou=UNTAGGED=us-large
 Fuchsia=UNTAGGED=gb
-Fucus=UNTAGGED=gb
 Fue=NNP=none
 Fuehrer=NNP=none
 Fuentes=UNTAGGED=au,ca,us
@@ -18947,7 +18894,6 @@ Gamescom=NNP=none
 Gamin=NNP=none
 Gamla=UNTAGGED=gb
 Gamlingay=UNTAGGED=gb
-Gammaproteobacteria=UNTAGGED=gb
 Gammexane=NNP=none
 Gamow=UNTAGGED=au,ca,us
 Gamrie=UNTAGGED=gb
@@ -19102,7 +19048,6 @@ Garthrod=NNP=none
 Gartly=UNTAGGED=gb
 Gartocharn=UNTAGGED=gb
 Garton=UNTAGGED=gb
-Garudimimus=UNTAGGED=all
 Garv=NNP=none
 Garvagh=UNTAGGED=gb
 Garvaghey=UNTAGGED=gb
@@ -19154,7 +19099,6 @@ Gastroenterology=UNTAGGED=au,ca,us
 Gastromycetes=NNP=none
 Gastroparesis=UNTAGGED=all
 Gastrophryne=NNP=none
-Gastrotricha=UNTAGGED=all
 Gat=NNP=none
 Gatcombe=UNTAGGED=gb
 Gate=UNTAGGED=gb
@@ -21261,7 +21205,6 @@ Haddingtonshire=UNTAGGED=gb
 Haddiscoe=UNTAGGED=gb
 Haddlesey=UNTAGGED=gb
 Haden=NNP=none
-Hadesarchaea=UNTAGGED=gb
 Hadham=UNTAGGED=gb
 Hadid=UNTAGGED=gb
 Hadik=NNP=none
@@ -21705,7 +21648,6 @@ Haphsiba=NNP=none
 Haphtaroth=NNPS=none
 Hapi=NNP=none
 Haplopappus=NNP=none
-Haplorrhini=UNTAGGED=gb
 Haplosporidia=NNP=none
 Happ=NNP=none
 Happisburgh=UNTAGGED=gb
@@ -22404,7 +22346,6 @@ Heliamphora=NNP=none
 Helicaon=NNP=none
 Helice=NNP=none
 Helicidae=NNP=none
-Helicobacter=UNTAGGED=all
 Helicteres=NNP=none
 Helier=UNTAGGED=gb
 Heliers=UNTAGGED=gb,nz
@@ -22502,7 +22443,6 @@ Hemerocallidaceae=NNP=none
 Hemerocallis=NNP=none
 Hemet=UNTAGGED=gb,us
 Hemiascomycetes=NNP=none
-Hemichordata=UNTAGGED=all
 Hemigalus=NNP=none
 Hemigrammus=NNP=none
 Hemimetabola=NNP=none
@@ -22587,9 +22527,7 @@ Henstridge=UNTAGGED=gb
 Hentland=UNTAGGED=gb
 Henton=NNP=none
 Hentrich=NNP=none
-Hepatica=Hepatica/NNP,Hepaticae/NNPS=gb
 Hepaticopsida=NNP=none
-Hepeviridae=UNTAGGED=all
 Hephaistos=NNP=none
 Hephzibah=NNP=none
 Hephzipa=NNP=none
@@ -23429,11 +23367,8 @@ Homet=UNTAGGED=gb
 Hometown=NNP=none
 Homicide=UNTAGGED=us-large
 Homington=UNTAGGED=gb
-Homininae=UNTAGGED=gb
-Hominini=UNTAGGED=gb
 Hominoidea=NNP=none
 Hommel=NNP=none
-Homo=UNTAGGED=gb,us-large
 Homobasidiomycetes=NNP=none
 Homogyne=NNP=none
 Homoiousianism=NNP=none
@@ -23688,7 +23623,6 @@ Hoxne=UNTAGGED=gb
 Hoxsey=UNTAGGED=gb
 Hoxsie=NNP=none
 Hoxton=UNTAGGED=gb
-Hoya=UNTAGGED=gb
 Hoye=NNP=none
 Hoylake=NNP=none
 Hradec=UNTAGGED=gb
@@ -23989,7 +23923,6 @@ Hydnaceae=NNP=none
 Hydnocarpus=NNP=none
 Hydnum=NNP=none
 Hydon=UNTAGGED=gb
-Hydrangea=UNTAGGED=gb
 Hydrangeaceae=NNP=none
 Hydrastis=NNP=none
 Hydriot=Hydriot/NNP,Hydriots/NNPS=none
@@ -24015,7 +23948,6 @@ Hyemoschus=NNP=none
 Hygiea=UNTAGGED=gb
 Hyginus=NNP=none
 Hygrocybe=NNP=none
-Hygrophila=UNTAGGED=gb
 Hygrophoraceae=NNP=none
 Hygrophorus=NNP=none
 Hygrotrama=NNP=none
@@ -25582,7 +25514,6 @@ Jezabelle=NNP=none
 Jezreelite=NNP=none
 Jfnger=NNP=none
 Jiafu=UNTAGGED=gb
-Jianchangosaurus=UNTAGGED=all
 Jianghan=UNTAGGED=gb
 Jiangyin=UNTAGGED=gb
 Jibouti=NNP=none
@@ -29332,7 +29263,6 @@ Levisticum=NNP=none
 Levitan=NNP=none
 Levitically=RB=none
 Levitra=UNTAGGED=gb
-Leviviridae=UNTAGGED=all
 Levon=NNP=none
 Levona=NNP=none
 Levophed=NNP=none
@@ -30906,7 +30836,6 @@ Lustleigh=UNTAGGED=gb
 Luston=UNTAGGED=gb
 Lusty=NNP=none
 Lutcher=NNP=none
-Luteoviridae=UNTAGGED=all
 Lutero=NNP=none
 Luthanen=NNP=none
 Lutheranise=UNTAGGED=gb
@@ -31307,7 +31236,6 @@ Macrocheira=NNP=none
 Macroclemys=NNP=none
 Macrodactylus=NNP=none
 Macrodantin=NNP=none
-Macroglossinae=UNTAGGED=gb
 Macronectes=NNP=none
 Macropodidae=NNP=none
 Macropus=NNP=none
@@ -32945,7 +32873,6 @@ Mecklenburg-Schwerin=NNP=none
 Mecklenburg-Strelitz=NNP=none
 Meclomen=NNP=none
 Meconopsis=NNP=none
-Mecoptera=UNTAGGED=gb
 Mecosta=UNTAGGED=gb
 MedScD=NNP=none
 MedWatcher=UNTAGGED=all
@@ -33019,7 +32946,6 @@ Megaloptera=NNP=none
 Megalosauridae=NNP=none
 Megamede=NNP=none
 Megapenthes=NNP=none
-Megapodidae=UNTAGGED=gb
 Megapodiidae=NNP=none
 Megapodius=NNP=none
 Megapolis=UNTAGGED=all
@@ -35387,7 +35313,6 @@ Nari=NNP=none
 Nariko=NNP=none
 Narine=NNP=none
 Narita=NNP=none
-Narnaviridae=UNTAGGED=all
 Narotam=UNTAGGED=gb
 Narra=NNP=none
 Narraganset=Narraganset/NNP,Narragansets/NNPS=au,ca,us
@@ -35610,7 +35535,6 @@ Neillsville=NNP=none
 Neils=NNP=none
 Neilston=UNTAGGED=gb
 Neiman=NNP=none
-Neimongosaurus=UNTAGGED=all
 Neisa=NNP=none
 Neison=NNP=none
 Neisser=UNTAGGED=gb
@@ -35641,7 +35565,6 @@ Nema=NNP=none
 Nemaha=UNTAGGED=gb
 Nemasket=UNTAGGED=gb
 Nematocera=NNP=none
-Nematomorpha=UNTAGGED=gb
 Nembutsu=NNP=none
 Nemean=UNTAGGED=gb,us-large
 Nemechek=UNTAGGED=gb
@@ -36077,7 +36000,6 @@ Nidd=UNTAGGED=gb
 Niddry=UNTAGGED=gb
 Nidia=NNP=none
 Nidorf=NNP=none
-Nidovirales=UNTAGGED=all
 Nidularia=NNP=none
 Nidulariaceae=NNP=none
 Nidulariales=NNP=none
@@ -36270,7 +36192,6 @@ Nod=NNP=none
 Nodab=NNP=none
 Nodababus=NNP=none
 Nodarse=NNP=none
-Nodaviridae=UNTAGGED=all
 Nodaway=UNTAGGED=gb
 Noddack=UNTAGGED=gb
 Noel-Baker=NNP=none
@@ -37439,7 +37360,6 @@ Orneus=NNP=none
 Ornie=NNP=none
 Ornithogalum=NNP=none
 Ornithomimida=NNP=none
-Ornithomimosauria=UNTAGGED=all
 Ornithopoda=NNP=none
 Ornithoptera=UNTAGGED=all
 Ornithorhynchidae=NNP=none
@@ -37485,7 +37405,6 @@ Orthaea=NNP=none
 Orthia=NNP=none
 Orthman=NNP=none
 Ortho=UNTAGGED=gb
-Orthocoronavirinae=UNTAGGED=gb
 Orthodoxy=Orthodoxy/NNP,Orthodoxies/NNPS=none
 Orthopristis=NNP=none
 Orthoptera=NNP=none
@@ -38203,7 +38122,6 @@ Panola=UNTAGGED=gb
 Panonychus=NNP=none
 Panopeus=NNP=none
 Panoptes=NNP=none
-Panorpida=UNTAGGED=gb
 Panpipe=Panpipe/NNP,Panpipes/NNPS=none
 Pansie=NNP=none
 Pansil=NNP=none
@@ -39018,7 +38936,6 @@ Perlethorpe=UNTAGGED=gb
 Perlie=NNP=none
 Perlin=NNP=none
 Permians=UNTAGGED=gb
-Permutotetraviridae=UNTAGGED=all
 Pernas=NNP=none
 Pernell=NNP=none
 Perni=NNP=none
@@ -39272,7 +39189,6 @@ Phasmidia=NNP=none
 Phaye=NNP=none
 Pheb=NNP=none
 Phecda=UNTAGGED=us-large
-Phedina=UNTAGGED=all
 Phedra=NNP=none
 Phegeus=NNP=none
 Phegopteris=NNP=none
@@ -39503,7 +39419,6 @@ Pickwick=UNTAGGED=au,ca,us
 Pickworth=UNTAGGED=gb
 Pico=UNTAGGED=gb
 Picoides=NNP=none
-Picornavirales=UNTAGGED=all
 Picrasma=NNP=none
 Picris=NNP=none
 Pictet=NNP=none
@@ -39722,7 +39637,6 @@ Pissis=NNP=none
 Pistacia=NNP=none
 Pistorius=NNP=none
 Pistyll=UNTAGGED=gb
-Pisum=Pisum/NNP,Pisa/NNPS=gb
 Pita=UNTAGGED=gb
 Pitaka=NNP=none
 Pitana=NNP=none
@@ -39791,7 +39705,6 @@ Placido=NNP=none
 Placidyl=NNP=none
 Plackett=UNTAGGED=gb
 Placodermi=NNP=none
-Placozoa=UNTAGGED=gb
 Placuna=NNP=none
 Plafker=NNP=none
 Plagianthus=NNP=none
@@ -40406,7 +40319,6 @@ Potto=UNTAGGED=gb
 Potton=UNTAGGED=gb
 Pottsgrove=UNTAGGED=gb
 Potyomkin=NNP=none
-Potyviridae=UNTAGGED=all
 Poucher=NNP=none
 Poughill=UNTAGGED=gb
 Pouhgill=UNTAGGED=gb
@@ -40572,7 +40484,6 @@ Prezista=UNTAGGED=gb
 Pri=NNP=none
 Priacanthidae=NNP=none
 Priacanthus=NNP=none
-Priapulida=UNTAGGED=all
 Pribilof=UNTAGGED=au,ca,us
 Pricilla=NNP=none
 Priddy=UNTAGGED=gb
@@ -40675,7 +40586,6 @@ Pros=NNP=none
 Prosauropoda=NNP=none
 Prosclystius=NNP=none
 Prosimii=NNP=none
-Prosobranchia=UNTAGGED=all
 Prosopis=NNP=none
 Prosopium=NNP=none
 Prospect=UNTAGGED=gb
@@ -40688,7 +40598,6 @@ Protector=UNTAGGED=us-large
 Protectorate=Protectorate/NNP,Protectorates/NNPS=us-large
 Proteidae=NNP=none
 Proteles=NNP=none
-Proteobacteria=UNTAGGED=gb
 Proterochampsa=NNP=none
 Protesilaus=NNP=none
 Prothoaenor=NNP=none
@@ -40845,12 +40754,10 @@ Pterodactylidae=NNP=none
 Pterodactylus=NNP=none
 Pterois=NNP=none
 Pteropoda=UNTAGGED=all
-Pteropodidae=UNTAGGED=all
 Pteropsida=NNP=none
 Pterosauria=NNP=none
 Pterospermum=NNP=none
 Pterostylis=NNP=none
-Pterygota=UNTAGGED=gb
 Ptilocercus=NNP=none
 Ptilocrinus=NNP=none
 Ptilonorhynchidae=NNP=none
@@ -42215,7 +42122,6 @@ Rhineland-Palatinate=NNP=none
 Rhiner=UNTAGGED=gb
 Rhinobatidae=NNP=none
 Rhinocerotidae=NNP=none
-Rhinolophus=UNTAGGED=all
 Rhinonicteris=NNP=none
 Rhinoptera=NNP=none
 Rhinotermitidae=NNP=none
@@ -42225,7 +42131,6 @@ Rhiw=UNTAGGED=gb
 Rhiwbina=UNTAGGED=gb
 Rhizobiaceae=NNP=none
 Rhizobium=NNP=none
-Rhizocephala=UNTAGGED=all
 Rhizophora=NNP=none
 Rhizophoraceae=NNP=none
 Rhizopoda=NNP=none
@@ -42315,7 +42220,6 @@ Ribena=UNTAGGED=nz
 Ribes=NNP=none
 Ribhus=NNP=none
 Ribicoff=NNP=none
-Riboviria=UNTAGGED=all
 Ribston=UNTAGGED=gb
 Riby=UNTAGGED=gb
 Ric=NNP=none
@@ -42868,7 +42772,6 @@ Rosaleen=NNP=none
 Rosalia=NNP=none
 Rosalinde=NNP=none
 Rosalynd=NNP=none
-Rosanae=UNTAGGED=gb
 Rosane=NNP=none
 Rosary=Rosary/NNP,Rosaries/NNPS=none
 Rosati=NNP=none
@@ -44041,7 +43944,6 @@ Saretta=NNP=none
 Sarette=NNP=none
 Sargasso=UNTAGGED=all
 Sargassos=UNTAGGED=gb
-Sargassum=UNTAGGED=gb
 Sarge=NNP=none
 Sargent=UNTAGGED=us-large
 Sargon=UNTAGGED=all
@@ -44745,7 +44647,6 @@ Sedlik=NNP=none
 Sedona=UNTAGGED=gb
 Sedrah=NNP=none
 Sedroth=NNPS=none
-Sedum=UNTAGGED=gb
 See=NNP=none
 SeeClickFix=UNTAGGED=all
 Seeadler=UNTAGGED=gb
@@ -45969,7 +45870,6 @@ Siouxie=NNP=none
 Siphnos=NNP=none
 Siphonaptera=NNP=none
 Sipple=NNP=none
-Sipunculus=UNTAGGED=gb
 Siqi=UNTAGGED=gb
 Sir=Sir/NNP,Sirs/NNPS=au,ca,us
 Siraj-ud-daula=NNP=none
@@ -46723,7 +46623,6 @@ Sphaerocarpales=NNP=none
 Sphaerocarpos=NNP=none
 Sphaerocarpus=NNP=none
 Sphagnales=NNP=none
-Sphagnum=UNTAGGED=gb
 Sphecidae=NNP=none
 Sphecius=NNP=none
 Sphecoidea=NNP=none
@@ -46760,7 +46659,6 @@ Spiraea=NNP=none
 Spiranthes=NNP=none
 Spires=NNP=none
 Spirillaceae=NNP=none
-Spirillum=UNTAGGED=gb
 Spirit=Spirit/NNP,Spirits/NNPS=us-large
 Spiritual=Spiritual/NNP,Spirituals/NNPS=none
 Spiritualism=Spiritualism/NNP,Spiritualisms/NNPS=none
@@ -47002,7 +46900,6 @@ Stanwix=UNTAGGED=gb
 Stanzel=NNP=none
 Stape=UNTAGGED=gb
 Stapeley=UNTAGGED=gb
-Stapelia=UNTAGGED=gb
 Stapenhill=UNTAGGED=gb
 Staphylaceae=NNP=none
 Staphylea=NNP=none
@@ -48942,7 +48839,6 @@ Tetranychidae=NNP=none
 Tetrao=NNP=none
 Tetraodontidae=NNP=none
 Tetraonidae=NNP=none
-Tetrapoda=UNTAGGED=all
 Tetrapturus=NNP=none
 Tetrarchy=UNTAGGED=gb
 Tetrazzini=NNP=none
@@ -49106,7 +49002,6 @@ Theresita=NNP=none
 Theressa=NNP=none
 Therezina=NNP=none
 Therfield=UNTAGGED=gb
-Theria=UNTAGGED=gb
 Theriault=UNTAGGED=gb
 Theridiidae=NNP=none
 Therine=NNP=none
@@ -49740,7 +49635,6 @@ Tofieldia=NNP=none
 Toftrees=UNTAGGED=gb
 Tofts=UNTAGGED=gb
 Tofutti=Tofutti/NNP,Tofuttis/NNPS=none
-Togaviridae=UNTAGGED=all
 Toggenburg=Toggenburg/NNP,Toggenburgs/NNPS=none
 Tognazzini=UNTAGGED=gb
 Togolander=Togolander/NNP,Togolanders/NNPS=none
@@ -49815,7 +49709,6 @@ Tombalbaye=NNP=none
 Tomball=UNTAGGED=gb
 Tombigbee=NNP=none
 Tombland=UNTAGGED=gb
-Tombusviridae=UNTAGGED=all
 Tomchay=NNP=none
 Tomdoun=UNTAGGED=gb
 Tome=NNP=none
@@ -50023,7 +49916,6 @@ Towton=UNTAGGED=gb
 Towyn=UNTAGGED=gb
 Toxeus=NNP=none
 Toxicodendron=NNP=none
-Toxocaridae=UNTAGGED=all
 Toxostoma=NNP=none
 Toxotes=NNP=none
 Toxotidae=NNP=none
@@ -50737,7 +50629,6 @@ Tymes=NNP=none
 Tymn=UNTAGGED=gb
 Tymon=NNP=none
 Tymothy=NNP=none
-Tymovirales=UNTAGGED=all
 Tympanuchus=NNP=none
 Tyndaridae=NNP=none
 Tynecastle=UNTAGGED=gb
@@ -51847,7 +51738,6 @@ Viren=NNP=none
 Virendra=NNP=none
 Vireonidae=NNP=none
 Virg=NNP=none
-Virgaviridae=UNTAGGED=all
 Virge=NNP=none
 Virgel=NNP=none
 Virgilia=NNP=none
@@ -54676,7 +54566,6 @@ Zarqa=UNTAGGED=us-large
 Zashin=NNP=none
 Zaslow=NNP=none
 Zasuwa=NNP=none
-Zatheria=UNTAGGED=gb
 Zavras=NNP=none
 Zawadski=UNTAGGED=gb
 Zawde=NNP=none
@@ -54838,7 +54727,6 @@ Zingiberaceae=NNP=none
 Zinjanthropus=Zinjanthropus/NNP,Zinjanthropuses/NNPS=none
 Zink=NNP=none
 Zinnes=NNP=none
-Zinnia=UNTAGGED=gb
 Zinoviev=NNP=none
 Zins=NNP=none
 Zinzendorf=NNP=none
