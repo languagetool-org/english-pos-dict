@@ -2046,7 +2046,6 @@ Agadir=NNP=all
 Agamemnon=NNP=all
 Agana=NNP=all
 Agaricaceae=NNP=all
-Agaricales=NNP=all
 Agaricales=NNP=all # taxonomic terms
 Agaricomycetes=NNP=all # taxonomic terms
 Agaricomycetidae=NNP=all # taxonomic terms
@@ -2087,7 +2086,6 @@ Agricola=NNP=all
 Agrigento=NNP=all
 Agrippa=NNP=all
 Agrippina=NNP=all
-Agrobacterium=NNP=all
 Agrobacterium=NNP=all # taxonomic terms
 Aguadilla=NNP=all
 Aguascalientes=NNP=all
@@ -2529,7 +2527,6 @@ Alpena=NNP=all
 Alpert=NNP=all
 Alpes-Maritimes=NNP=all
 Alpha=Alpha/NNP,Alphas/NNPS=all
-Alphacoronavirus=NNP=all
 Alphacoronavirus=NNP=all # taxonomic terms
 Alpharabius=NNP=all
 Alphard=NNP=all
@@ -2621,7 +2618,6 @@ Amandelbult=NNP=za # South Africa, placename?
 Amandelrug=NNP=za # South Africa, placename?
 Amandelsig=NNP=za # South Africa, placename?
 Amandine=NNP=all
-Amanita=NNP=all
 Amanita=NNP=all # taxonomic terms
 Amanitaceae=NNP=all # taxonomic terms
 Amanyati=NNP=za
@@ -2658,7 +2654,6 @@ Ambergate=NNP=za # South Africa, placename?
 Amberley=NNP=all
 Ambert=NNP=all
 Ambipom=NNP=all
-Amblyrhynchus=NNP=all
 Amblyrhynchus=NNP=all # taxonomic terms
 Amboina=NNP=all
 Amboise=NNP=all
@@ -2730,9 +2725,7 @@ Amos=NNP=all
 Amoy=NNP=all
 Amperian=JJ=all
 Ampharos=NNP=all
-Amphibia=NNP=all
 Amphibia=NNP=all # taxonomic terms
-Amphipoda=NNP=all
 Amphipoda=NNP=all # taxonomic terms
 Amphisbaenia=NNP=all
 Amphitrite=NNP=all
@@ -2935,7 +2928,6 @@ Anhwei=NNP=all
 Aniakchak=NNP=all
 Anika=NNP=all
 Anil=NNP=all
-Animalia=NNP=all
 Animalia=NNP=all # taxonomic terms
 Animesh=NNP=all
 Anirudh=NNP=all
@@ -2974,7 +2966,6 @@ Anne-Sophie=NNP=all
 Anne=NNP=all
 Annecy=NNP=all
 Annegret=NNP=all
-Annelida=NNP=all
 Annelida=NNP=all # taxonomic terms
 Anneliese=NNP=all
 Annemarie=NNP=all
@@ -2988,10 +2979,8 @@ Anning=NNP=all
 Anniston=NNP=all
 Annlin=NNP=za # South Africa, placename?
 Annmarie=NNP=all
-Annonaceae=NNP=all
 Annonaceae=NNP=all # taxonomic terms
 Anoosha=NNP=all
-Anopheles=NNP=all
 Anopheles=NNP=all # taxonomic terms
 Anorith=NNP=all
 Anouchka=NNP=all
@@ -3184,7 +3173,6 @@ Arabize|Arabise=verb=us,ca,gb|gb,au,nz,za
 Araby=NNP=all
 Aracaju=NNP=all
 Arachne=NNP=all
-Arachnida=NNP=all
 Arachnida=NNP=all # taxonomic terms
 Arad=NNP=all
 Arafat=NNP=all
@@ -3433,13 +3421,11 @@ Artem=NNP=all
 Artemidorus=NNP=all
 Artemis=NNP=all
 Artesia=NNP=all
-Arthropoda=NNP=all
 Arthropoda=NNP=all # taxonomic terms
 Arthur=NNP=all
 Arthurian=JJ=all
 Articuno=NNP=all
 Artie=NNP=all
-Artiodactyla=NNP=all
 Artiodactyla=NNP=all # taxonomic terms
 Artnet=NNP=all
 Artois=NNP=all
@@ -3598,7 +3584,6 @@ Astana=NNP=all
 Astarte=NNP=all
 Asteraceae=NNP=all
 Asterix=NNP=all
-Asteroidea=NNP=all
 Asteroidea=NNP=all # taxonomic terms
 Asti=NNP=all
 Astilbe=NNP=all # taxonomic terms
@@ -3610,7 +3595,6 @@ Astra=NNP=all
 AstraZeneca=NNP=all
 Astraean=JJ=all
 Astraeus=NNP=all
-Astragalus=NNP=all
 Astragalus=NNP=all # taxonomic terms
 Astrakhan=Astrakhan/NNP,Astrakhans/NNPS=all
 Astrid=NNP=all
@@ -3785,7 +3769,6 @@ Australian=Australian/NNP,Australians/NNPS=all
 Australian=JJ=all
 Australianize|Australianise=verb=us,ca,gb|gb,au,nz,za
 Australoid=JJ=all
-Australopithecus=NNP=all
 Australopithecus=NNP=all # taxonomic terms
 Australorp=NNP=all
 Australosphenida=NNP=all # taxonomic terms
@@ -5104,7 +5087,6 @@ Bashir=NNP=all
 Bashkir=Bashkir/NN:U,Bashkir/NNP,Bashkirs/NNPS=all
 Basho=NNP=all
 Bashundhara=NNP=all
-Basidiomycota=NNP=all
 Basidiomycota=NNP=all # taxonomic terms
 Basie=NNP=all
 Basil=NNP=all
@@ -5659,7 +5641,6 @@ Bester=NNP=za # South Africa, placename?
 Besters=NNP=za # South Africa, placename?
 Beta=Beta/NNP,Betas/NNPS=all
 Beta=NNP=all # taxonomic terms
-Betacoronavirus=NNP=all
 Betacoronavirus=NNP=all # taxonomic terms
 Betadine=NNP=all
 Betamax=Betamax/NNP,Betamaxes/NNPS=all
@@ -6377,7 +6358,6 @@ Braamfontein=NNP=za # South Africa, placename?
 Brabant=NNP=all
 Brabantine=JJ=all
 Brace=NNP=all
-Brachiopoda=NNP=all
 Brachiopoda=NNP=all # taxonomic terms
 Brachiosaurus=NNP=all # taxonomic terms
 Brachycera=NNP=all # taxonomic terms
@@ -6801,7 +6781,6 @@ Brynn=NNP=all
 Bryntirion=NNP=za # South Africa, placename?
 Bryon=NNP=all
 Bryophyta=NNP=all
-Bryozoa=NNP=all
 Bryozoa=NNP=all # taxonomic terms
 Bryson=NNP=all
 Brythonic=JJ=all
@@ -8484,7 +8463,6 @@ Capricornus=NNP=all
 Capris=NNP=all
 Capsakid=NNP=all
 Capsian=JJ=all
-Capsidae=NNP=all
 Capsidae=NNP=all # taxonomic terms
 Capt=NNP=all
 Captricity=NNP=all
@@ -8596,7 +8574,6 @@ Carney=NNP=all
 Carniola=NNP=all
 Carniolan=JJ=all
 Carnivine=NNP=all
-Carnivora=NNP=all
 Carnivora=NNP=all # taxonomic terms
 Carnot=NNP=all
 Caro=NNP=all
@@ -8900,17 +8877,14 @@ Centreville=NNP=all
 Centrex=Centrex/NNP,Centrexes/NNPS=all
 Centuli=NNP=za # South Africa, placename?
 Centurion=NNP=za # South Africa, placename?
-Cephalochordata=NNP=all
 Cephalochordata=NNP=all # taxonomic terms
 Cephalonia=NNP=all
-Cephalopoda=NNP=all
 Cephalopoda=NNP=all # taxonomic terms
 Cepheid=Cepheid/NNP,Cepheids/NNPS=all
 Cepheid=JJ=all
 Cepheus=NNP=all
 Ceram=NNP=all
 Cerberean=JJ=all
-Cerberus=NNP=all
 Cerberus=NNP=all # taxonomic terms
 Ceredigion=NNP=all
 Cerenkov=NNP=all
@@ -8920,7 +8894,6 @@ Cerro=NNP=all
 Ceruledge=NNP=all
 Cerutiville=NNP=za # South Africa, placename?
 Cervantes=NNP=all
-Cervidae=NNP=all
 Cervidae=NNP=all # taxonomic terms
 Cervin=NNP=all
 Cerys=NNP=all
@@ -8930,7 +8903,6 @@ Cesarean=JJ=all
 Cesario=NNP=all
 Cesena=NNP=all
 Cessna=NNP=all
-Cetacea=NNP=all
 Cetacea=NNP=all # taxonomic terms
 Cetinje=NNP=all
 Cetitan=NNP=all
@@ -8957,7 +8929,6 @@ Chadic=JJ=all
 Chadic=NNP=all
 Chadwick=NNP=all
 Chaeronea=NNP=all
-Chaetognatha=NNP=all
 Chaetognatha=NNP=all # taxonomic terms
 Chaffee=NNP=all
 Chaffinch=NNP=all
@@ -9160,7 +9131,6 @@ Chekhov=NNP=all
 Chekhovian=JJ=all
 Chekiang=NNP=all
 Chekov=NNP=all
-Chelicerata=NNP=all
 Chelicerata=NNP=all # taxonomic terms
 Chellean=JJ=all
 Chellean=NNP=all
@@ -9287,7 +9257,6 @@ Chillum=NNP=all
 Chillán=NNP=all
 Chilmark=NNP=all
 Chilon=NNP=all
-Chilopoda=NNP=all
 Chilopoda=NNP=all # taxonomic terms
 Chilpancingo=NNP=all
 Chilson=NNP=all
@@ -9334,7 +9303,6 @@ Chiquita=NNP=all
 Chirac=NNP=all
 Chirico=NNP=all
 Chiron=NNP=all
-Chiroptera=NNP=all
 Chiroptera=NNP=all # taxonomic terms
 Chiselhurst=NNP=za # South Africa, placename?
 Chishima=NNP=all
@@ -9347,7 +9315,6 @@ Chiu=NNP=all
 Chivers=NNP=all
 Chișinău=NNP=all
 Chkalov=NNP=all
-Chlamydomonas=NNP=all
 Chlamydomonas=NNP=all # taxonomic terms
 Chlodwig=NNP=all
 Chloe=NNP=all
@@ -9372,7 +9339,6 @@ Chongjin=NNP=all
 Chongqing=NNP=all
 Chonju=NNP=all
 Chopin=NNP=all
-Chordata=NNP=all
 Chordata=NNP=all # taxonomic terms
 Chorley=NNP=all
 Chornobyl=NNP=all
@@ -9723,7 +9689,6 @@ Cláudia=NNP=all
 Clémence=NNP=all
 Cm=NNP=all
 Cmdr=NNP=all
-Cnidaria=NNP=all
 Cnidaria=NNP=all # taxonomic terms
 Cnidus=NNP=all
 Cnossian=JJ=all
@@ -9774,7 +9739,6 @@ Coe=NNP=all
 Coega=NNP=za # South Africa, placename?
 Coelacanth=NNP=za # South Africa, placename?
 Coelacanthidae=NNP=all # taxonomic terms
-Coelenterata=NNP=all
 Coelenterata=NNP=all # taxonomic terms
 Coelho=NNP=all
 Coetzersdam=NNP=za # South Africa, placename?
@@ -9817,7 +9781,6 @@ Cole=NNP=all
 Coleen=NNP=all
 Coleman=NNP=all
 Colenso=NNP=za # South Africa, placename?
-Coleoptera=NNP=all
 Coleoptera=NNP=all # taxonomic terms
 Coleraine=NNP=all
 Coleridge-Taylor=NNP=all
@@ -10357,9 +10320,7 @@ Creuse=NNP=all
 Creutzfeldt-Jakob=NNP=all
 Creutzfeldt=NNP=all
 Crewe=NNP=all
-Crex=NNP=all
 Crex=NNP=all # taxonomic terms
-Cricetidae=NNP=all
 Cricetidae=NNP=all # taxonomic terms
 Crichton=NNP=all
 Crick=NNP=all
@@ -10438,7 +10399,6 @@ Cruickshank=NNP=all
 Cruikshank=NNP=all
 Cruise=NNP=all
 Crusoe=NNP=all
-Crustacea=NNP=all
 Crustacea=NNP=all # taxonomic terms
 Crutcher=NNP=all
 Crux=NNP=all
@@ -10452,7 +10412,6 @@ Crysbestos=NNP=za # South Africa, placename?
 Crystal=NNP=all
 Créteil=NNP=all
 Cs=symbol=all
-Ctenophora=NNP=all
 Ctenophora=NNP=all # taxonomic terms
 Ctesias=NNP=all
 Ctesiphon=NNP=all
@@ -11391,7 +11350,6 @@ Dassierand=NNP=za # South Africa, placename?
 Databricks=NNP=all
 Datadog=NNP=all
 Datamation=Datamation/NNP,Datamations/NNPS=all
-Datura=NNP=all
 Datura=NNP=all # taxonomic terms
 Daubigny=NNP=all
 Daudet=NNP=all
@@ -11546,7 +11504,6 @@ Delian=Delian/NNP,Delians/NNPS=all
 Delian=JJ=all
 Delibes=NNP=all
 Delibird=NNP=all
-Delichon=NNP=all
 Delichon=NNP=all # taxonomic terms
 Delicias=NNP=all
 Delilah=Delilah/NNP,Delilahs/NNPS=all
@@ -11577,7 +11534,6 @@ Delportshoop=NNP=za # South Africa, placename?
 Delropark=NNP=za # South Africa, placename?
 Delsartian=JJ=all
 Delta=NNP=all
-Deltacoronavirus=NNP=all
 Deltacoronavirus=NNP=all # taxonomic terms
 Deluge=NNP=all
 Delville=NNP=za # South Africa, placename?
@@ -11593,7 +11549,6 @@ Demetrius=NNP=all
 Demi=NNP=all
 Deming=NNP=all
 Democritus=NNP=all
-Demodex=NNP=all
 Demodex=NNP=all # taxonomic terms
 Demogorgon=NNP=all
 Demosthenes=NNP=all
@@ -11886,7 +11841,6 @@ Dipelaneng=NNP=za # South Africa, placename?
 Dipetleloane=NNP=za # South Africa, placename?
 Dipitsing=NNP=za # South Africa, placename?
 Dipplin=NNP=all
-Diptera=NNP=all
 Diptera=NNP=all # taxonomic terms
 Diqhobong=NNP=za # South Africa, placename?
 Dirac=NNP=all
@@ -12249,7 +12203,6 @@ Drobný=NNP=all
 Drogheda=NNP=all
 Droogefontein=NNP=za # South Africa, placename?
 Dropbox=NNP=all
-Drosophilidae=NNP=all
 Drosophilidae=NNP=all # taxonomic terms
 Drowzee=NNP=all
 Druddigon=NNP=all
@@ -12268,7 +12221,6 @@ Dry=NNP=all
 Dryden=NNP=all
 Drydenian=JJ=all
 Dryfsand=NNP=za # South Africa, placename?
-Dryopithecus=NNP=all
 Dryopithecus=NNP=all # taxonomic terms
 Drysdale=NNP=all
 Drägerwerk=NNP=all
@@ -13160,11 +13112,8 @@ Ecclesiasticus=NNP=all
 Ecclestone=NNP=all
 Ecclus=NNP=all
 Echibini=NNP=za # South Africa, placename?
-Echinacea=NNP=all
 Echinacea=NNP=all # taxonomic terms
-Echinodermata=NNP=all
 Echinodermata=NNP=all # taxonomic terms
-Echium=NNP=all
 Echium=NNP=all # taxonomic terms
 Echiura=NNP=all # taxonomic terms
 Echo=NNP=all
@@ -13179,7 +13128,6 @@ Eckleburg=NNP=all
 EcoRI=NNP=all
 Ecole=NNP=all
 Ecstasy=Ecstasy/NNP,Ecstasies/NNPS=all
-Ectoprocta=NNP=all
 Ectoprocta=NNP=all # taxonomic terms
 Ecua=NNP=all
 Ecuador=NNP=all
@@ -13207,7 +13155,6 @@ Edenburg=NNP=za # South Africa, placename?
 Edenhill=NNP=za # South Africa, placename?
 Edenhoogte=NNP=za # South Africa, placename?
 Edenic=JJ=all
-Edentata=NNP=all
 Edentata=NNP=all # taxonomic terms
 Edenvale=NNP=za # South Africa, placename?
 Edenville=NNP=za # South Africa, placename?
@@ -13721,7 +13668,6 @@ Entei=NNP=all
 Enterobacterales=NNP=all # taxonomic terms
 Enterobacteriaceae=Enterobacteriaceae/NNP,Enterobacteriaceae/NNPS=all
 Enterobacteriaceae=NNP=all # taxonomic terms
-Entoprocta=NNP=all
 Entoprocta=NNP=all # taxonomic terms
 Entshonalanga=NNP=za # South Africa, placename?
 Entshongwe=NNP=za # South Africa, placename?
@@ -13779,7 +13725,6 @@ Equiano=NNP=all
 Equisetopsida=NNP=all # taxonomic terms
 Equthubeni=NNP=za # South Africa, placename?
 Equuleus=NNP=all
-Equus=NNP=all
 Equus=NNP=all # taxonomic terms
 Eqwabe=NNP=za # South Africa, placename?
 Er=NNP=all
@@ -13871,7 +13816,6 @@ Escanaba=NNP=all
 Escaut=NNP=all
 Escavalier=NNP=all
 Escher=NNP=all
-Escherichia=NNP=all
 Escherichia=NNP=all # taxonomic terms
 Eschscholtz=NNP=all
 Escitalopram=NNP=all
@@ -14111,7 +14055,6 @@ Eustachian=JJ=all
 Eustachio=NNP=all
 Eustis=NNP=all
 Euterpe=NNP=all
-Eutheria=NNP=all
 Eutheria=NNP=all # taxonomic terms
 Eutopia=NNP=all
 Euxine=JJ=all
@@ -14742,7 +14685,6 @@ FY=untagged=all
 FYE=untagged=all
 FYI=NNP=all
 FYROM=untagged=all
-Fabaceae=NNP=all
 Fabaceae=NNP=all # taxonomic terms
 Fabales=NNP=all # taxonomic terms
 Faber=NNP=all
@@ -15150,7 +15092,6 @@ Fishhoek=NNP=za # South Africa, placename?
 Fishman=NNP=all
 Fisk=NNP=all
 Fiske=NNP=all
-Fissurella=NNP=all
 Fissurella=NNP=all # taxonomic terms
 Fitbit=NNP=all
 Fitchburg=NNP=all
@@ -16224,7 +16165,6 @@ Gambleville=NNP=za # South Africa, placename?
 Gambrinus=NNP=all
 GameStop=NNP=all
 Gamka=NNP=za # South Africa, placename?
-Gammacoronavirus=NNP=all
 Gammacoronavirus=NNP=all # taxonomic terms
 Gammaproteobacteria=NNP=all # taxonomic terms
 Gamoduana=NNP=za # South Africa, placename?
@@ -16336,7 +16276,6 @@ Gasser=NNP=all
 Gaston=NNP=all
 Gastonia=NNP=all
 Gastrodon=NNP=all
-Gastropoda=NNP=all
 Gastropoda=NNP=all # taxonomic terms
 Gastrotricha=NNP=all # taxonomic terms
 Gastrow=NNP=za # South Africa, placename?
@@ -17524,7 +17463,6 @@ Gyeongsang=NNP=all
 Gyges=NNP=all
 Gyllenhaal=NNP=all
 Gymnogene=NNP=za # South Africa, placename?
-Gypsophila=NNP=all
 Gypsophila=NNP=all # taxonomic terms
 Gálvez=NNP=all
 Gérard=NNP=all
@@ -18422,7 +18360,6 @@ Heliozoa=NNP=all
 Helladic=JJ=all
 Hellas=NNP=all
 Helle=NNP=all
-Helleborus=NNP=all
 Helleborus=NNP=all # taxonomic terms
 Hellen=NNP=all
 Hellene=Hellene/NNP,Hellenes/NNPS=all
@@ -18463,7 +18400,6 @@ Helvetic=JJ=all
 Helvetica=NNP=all
 Hemichordata=NNP=all # taxonomic terms
 Hemingway=NNP=all
-Hemiptera=NNP=all
 Hemiptera=NNP=all # taxonomic terms
 Hemminger=NNP=all
 Hempfield=NNP=all
@@ -18659,7 +18595,6 @@ Heteromeles=NNP=all
 Heteroousian=JJ=all
 Hetherington=NNP=all
 Hettie=NNP=all
-Heuchera=NNP=all
 Heuchera=NNP=all # taxonomic terms
 Heunaar=NNP=za # South Africa, placename?
 Heuningklip=NNP=za # South Africa, placename?
@@ -18673,7 +18608,6 @@ Hevesy=NNP=all
 Hewett=NNP=all
 Hewitt=NNP=all
 Hewlett=NNP=all
-Hexapoda=NNP=all
 Hexapoda=NNP=all # taxonomic terms
 Hexateuch=NNP=all
 Hexateuchal=JJ=all
@@ -18813,7 +18747,6 @@ Hippolytus=NNP=all
 Hippomenes=NNP=all
 Hippomere=NNP=za # South Africa, placename?
 Hippopotas=NNP=all
-Hipposideridae=NNP=all
 Hipposideridae=NNP=all # taxonomic terms
 Hippowdon=NNP=all
 Hiram=NNP=all
@@ -19024,14 +18957,12 @@ Homestead=NNP=all
 Homevale=NNP=za # South Africa, placename?
 Homevalley=NNP=za # South Africa, placename?
 Homewood=NNP=all
-Hominidae=NNP=all
 Hominidae=NNP=all # taxonomic terms
 Homininae=NNP=all # taxonomic terms
 Hominini=NNP=all # taxonomic terms
 Homo=NNP=all # taxonomic terms
 Homoiousian=JJ=all
 Homoousian=JJ=all
-Homoptera=NNP=all
 Homoptera=NNP=all # taxonomic terms
 Homs=NNP=all
 Honan=NNP=all
@@ -19143,7 +19074,6 @@ Hospitalet=NNP=all
 Hossain=NNP=all
 Hossein=NNP=all
 Hosseini=NNP=all
-Hosta=NNP=all
 Hosta=NNP=all # taxonomic terms
 Hostinger=NNP=all
 Hotazel=NNP=za # South Africa, placename?
@@ -19342,7 +19272,6 @@ Huysmans=NNP=all
 Huánuco=NNP=all
 Hwang=NNP=all
 Hwibi=NNP=za # South Africa, placename?
-Hyacinthus=NNP=all
 Hyacinthus=NNP=all # taxonomic terms
 Hyades=Hyades/NNP,Hyades/NNPS=all
 Hyatt=NNP=all
@@ -19355,7 +19284,6 @@ Hydrangea=NNP=all # taxonomic terms
 Hydrapple=NNP=all
 Hydreigon=NNP=all
 Hydromys=NNP=all
-Hydrozoa=NNP=all
 Hydrozoa=NNP=all # taxonomic terms
 Hydrus=NNP=all
 Hyeseong=NNP=all
@@ -19366,7 +19294,6 @@ Hyksos=NNP=all
 Hylton=NNP=all
 Hyman=NNP=all
 Hymen=NNP=all
-Hymenoptera=NNP=all
 Hymenoptera=NNP=all # taxonomic terms
 Hymettian=JJ=all
 Hymettic=JJ=all
@@ -19383,11 +19310,9 @@ Hypno=NNP=all
 Hypnos=NNP=all
 HypoVereinsbank=NNP=all
 Hypodorian=JJ=all
-Hyracoidea=NNP=all
 Hyracoidea=NNP=all # taxonomic terms
 Hyrcania=NNP=all
 Hyrcanian=JJ=all
-Hyssopus=NNP=all
 Hyssopus=NNP=all # taxonomic terms
 Hyundai=NNP=all
 Hyung=NNP=all
@@ -20270,9 +20195,7 @@ InnoGames=NNP=all
 Innsbruck=NNP=all
 Inoue=NNP=all
 Inquisition=Inquisition/NNP,Inquisitions/NNPS=all
-Insecta=NNP=all
 Insecta=NNP=all # taxonomic terms
-Insectivora=NNP=all
 Insectivora=NNP=all # taxonomic terms
 Inslee=NNP=all
 InstaCal=NNP=all
@@ -20469,7 +20392,6 @@ Ismail=NNP=all
 Ismaël=NNP=all
 Isocrates=NNP=all
 Isolde=NNP=all
-Isopoda=NNP=all
 Isopoda=NNP=all # taxonomic terms
 Israel=Israel/NNP,Israels/NNPS=all
 Israeli=Israeli/NNP,Israelis/NNPS=all
@@ -23439,7 +23361,6 @@ Lagabuya=NNP=za # South Africa, placename?
 Lagerfeld=NNP=all
 Lagerkvist=NNP=all
 Lagoa=NNP=all
-Lagomorpha=NNP=all
 Lagomorpha=NNP=all # taxonomic terms
 Lagos=NNP=all
 Lagrange=NNP=all
@@ -23987,7 +23908,6 @@ Lepanto=NNP=all
 Lepelsfontein=NNP=za # South Africa, placename?
 Lephalala=NNP=za # South Africa, placename?
 Lephoi=NNP=za # South Africa, placename?
-Lepidoptera=NNP=all
 Lepidoptera=NNP=all # taxonomic terms
 Lepidus=NNP=all
 Lepus=NNP=all
@@ -24843,7 +24763,6 @@ Lycaonia=NNP=all
 Lycia=NNP=all
 Lycian=JJ=all
 Lycian=Lycian/NNP,Lycians/NNPS=all
-Lycopodium=NNP=all
 Lycopodium=NNP=all # taxonomic terms
 Lycra=Lycra/NNP,Lycras/NNPS=all
 Lycurgus=NNP=all
@@ -25541,7 +25460,6 @@ MacPhail=NNP=all
 MacPherson=NNP=all
 MacRae=NNP=all
 MacRumors=NNP=all
-Macaca=NNP=all
 Macaca=NNP=all # taxonomic terms
 Macao=NNP=all
 Macapá=NNP=all
@@ -25737,11 +25655,8 @@ Magneton=NNP=all
 Magnezone=NNP=all
 Magnificat=Magnificat/NNP,Magnificats/NNPS=all
 Magnitogorsk=NNP=all
-Magnolia=NNP=all
 Magnolia=NNP=all # taxonomic terms
-Magnoliophyta=NNP=all
 Magnoliophyta=NNP=all # taxonomic terms
-Magnoliopsida=NNP=all
 Magnoliopsida=NNP=all # taxonomic terms
 Magnus=NNP=all
 Magnuson=NNP=all
@@ -25988,7 +25903,6 @@ Malthusian=Malthusian/NNP,Malthusians/NNPS=all
 Malthusianism=Malthusianism/NNP,Malthusianisms/NNPS=all
 Malukazi=NNP=za # South Africa, placename?
 Maluti=NNP=za # South Africa, placename?
-Malva=NNP=all
 Malva=NNP=all # taxonomic terms
 Malvaceae=NNP=all
 Malvern=NNP=all
@@ -26006,7 +25920,6 @@ Mamelodi=NNP=za # South Africa, placename?
 Mameluke=Mameluke/NNP,Mamelukes/NNPS=all
 Mametlhake=NNP=za # South Africa, placename?
 Mamie=NNP=all
-Mammalia=NNP=all
 Mammalia=NNP=all # taxonomic terms
 Mammon=Mammon/NNP,Mammons/NNPS=all
 Mamogaleskraal=NNP=za # South Africa, placename?
@@ -27162,7 +27075,6 @@ Meerland=NNP=za # South Africa, placename?
 Meerlus=NNP=za # South Africa, placename?
 Meerut=NNP=all
 Meg=NNP=all
-Megachiroptera=NNP=all
 Megachiroptera=NNP=all # taxonomic terms
 Megaera=NNP=all
 Megamillions=NNP=za # South Africa, placename?
@@ -27404,7 +27316,6 @@ Metairie=NNP=all
 Metallica=NNP=all
 Metang=NNP=all
 Metapod=NNP=all
-Metatheria=NNP=all
 Metatheria=NNP=all # taxonomic terms
 Metchnikoff=NNP=all
 Methedrine=NNP=all
@@ -28017,7 +27928,6 @@ Molière=NNP=all
 Moll=NNP=all
 Mollie=NNP=all
 Mollison=NNP=all
-Mollusca=NNP=all
 Mollusca=NNP=all # taxonomic terms
 Molly=NNP=all
 Moloch=Moloch/NNP,Molochs/NNPS=all
@@ -28679,11 +28589,9 @@ Mylitta=NNP=all
 Mylor=NNP=all
 Mylène=NNP=all
 Myntra=NNP=all
-Myomorpha=NNP=all
 Myomorpha=NNP=all # taxonomic terms
 Myra=NNP=all
 Myriam=NNP=all
-Myriapoda=NNP=all
 Myriapoda=NNP=all # taxonomic terms
 Myrna=NNP=all
 Myron=NNP=all
@@ -29296,7 +29204,6 @@ Narbada=NNP=all
 Narberth=NNP=all
 Narbonne=NNP=all
 Narcissa=NNP=all
-Narcissus=NNP=all
 Narcissus=NNP=all # taxonomic terms
 Narendra=NNP=all
 Naresh=NNP=all
@@ -29501,7 +29408,6 @@ Nelsville=NNP=za # South Africa, placename?
 Nelverton=NNP=za # South Africa, placename?
 Neman=NNP=all
 Nemato=NNP=za # South Africa, placename?
-Nematoda=NNP=all
 Nematoda=NNP=all # taxonomic terms
 Nematomorpha=NNP=all # taxonomic terms
 Nembutal=Nembutal/NNP,Nembutals/NNPS=all
@@ -30199,7 +30105,6 @@ Ntywenka=NNP=za # South Africa, placename?
 Nubian=JJ=all
 Nubian=Nubian/NNP,Nubians/NNPS=all
 Nucam=NNP=za # South Africa, placename?
-Nudibranchia=NNP=all
 Nudibranchia=NNP=all # taxonomic terms
 Nueces=NNP=all
 Nuffield=NNP=all
@@ -30942,12 +30847,10 @@ Opensource=NNP=za # South Africa, placename?
 Opera=NNP=all
 Ophansi=NNP=za # South Africa, placename?
 Ophelia=NNP=all
-Ophidia=NNP=all
 Ophidia=NNP=all # taxonomic terms
 Ophir=NNP=all
 Ophirton=NNP=za # South Africa, placename?
 Ophiuchus=NNP=all
-Ophiuroidea=NNP=all
 Ophiuroidea=NNP=all # taxonomic terms
 Ophokweni=NNP=za # South Africa, placename?
 Ophélie=NNP=all
@@ -31042,7 +30945,6 @@ Ormsby=NNP=all
 Ormskirk=NNP=all
 Ormuz=NNP=all
 Ornihaven=NNP=za # South Africa, placename?
-Ornithischia=NNP=all
 Ornithischia=NNP=all # taxonomic terms
 Ornithomimosauria=NNP=all # taxonomic terms
 Orono=NNP=all
@@ -31187,7 +31089,6 @@ Overton=NNP=all
 Ovid=NNP=all
 Ovidian=JJ=all
 Oviedo=NNP=all
-Ovis=NNP=all
 Ovis=NNP=all # taxonomic terms
 Oviston=NNP=za # South Africa, placename?
 Owain=NNP=all
@@ -32594,12 +32495,10 @@ Pholaman=NNP=za # South Africa, placename?
 Pholamen=NNP=za # South Africa, placename?
 Pholatiser=NNP=za # South Africa, placename?
 Pholatisers=NNP=za # South Africa, placename?
-Pholidota=NNP=all
 Pholidota=NNP=all # taxonomic terms
 Pholile=NNP=za # South Africa, placename?
 Phomalong=NNP=za # South Africa, placename?
 Phomolong=NNP=za # South Africa, placename?
-Phoronida=NNP=all
 Phoronida=NNP=all # taxonomic terms
 Photoshop=NNP=all
 Photsaneng=NNP=za # South Africa, placename?
@@ -32619,7 +32518,6 @@ Phuthanang=NNP=za # South Africa, placename?
 Phyfe=NNP=all
 Phylicia=NNP=all
 Phyllis=NNP=all
-Phylloxeridae=NNP=all
 Phylloxeridae=NNP=all # taxonomic terms
 Pia=NNP=all
 Piacenza=NNP=all
@@ -32819,7 +32717,6 @@ Platte=NNP=all
 Plattekloof=NNP=za # South Africa, placename?
 Plattsburgh=NNP=all
 Platwal=NNP=za # South Africa, placename?
-Platyhelminthes=NNP=all
 Platyhelminthes=NNP=all # taxonomic terms
 Plauen=NNP=all
 Plautus=NNP=all
@@ -33008,7 +32905,6 @@ Porbeagle=NNP=za # South Africa, placename?
 Porcupinefish=NNP=za # South Africa, placename?
 Porcupineray=NNP=za # South Africa, placename?
 Pori=NNP=all
-Porifera=NNP=all
 Porifera=NNP=all # taxonomic terms
 Porirua=NNP=all
 Porky=NNP=za # South Africa, placename?
@@ -33207,7 +33103,6 @@ ProNutro=NNP=za # South Africa, placename?
 ProQuest=NNP=all
 ProSieben=NNP=all
 Probopass=NNP=all
-Proboscidea=NNP=all
 Proboscidea=NNP=all # taxonomic terms
 Proclus=NNP=all
 Procne=NNP=all
@@ -33243,10 +33138,8 @@ Prosus=NNP=all
 Prot=NNP=all
 Protagoras=NNP=all
 Protagorean=JJ=all
-Proteaceae=NNP=all
 Proteaceae=NNP=all # taxonomic terms
 Proteahof=NNP=za # South Africa, placename?
-Proteales=NNP=all
 Proteales=NNP=all # taxonomic terms
 Proteapark=NNP=za # South Africa, placename?
 Proteaville=NNP=za # South Africa, placename?
@@ -33317,7 +33210,6 @@ Psyduck=NNP=all
 Pt=NNP=all
 Ptah=NNP=all
 Pteropodidae=NNP=all # taxonomic terms
-Pteropus=NNP=all
 Pteropus=NNP=all # taxonomic terms
 Pterygota=NNP=all # taxonomic terms
 Ptolemaeus=NNP=all
@@ -33603,7 +33495,6 @@ Quellerina=NNP=za # South Africa, placename?
 Quelpart=NNP=all
 Quemoy=NNP=all
 Quentin=NNP=all
-Quercus=NNP=all
 Quercus=NNP=all # taxonomic terms
 Querétaro=NNP=all
 Quesnay=NNP=all
@@ -34288,7 +34179,6 @@ Rant-en-dal=NNP=za # South Africa, placename?
 Rantebeng=NNP=za # South Africa, placename?
 Rantjiepan=NNP=za # South Africa, placename?
 Rantoul=NNP=all
-Ranunculus=NNP=all
 Ranunculus=NNP=all # taxonomic terms
 Rao=NNP=all
 Raoul=NNP=all
@@ -34547,7 +34437,6 @@ Renzo=NNP=all
 René=NNP=all
 Renée=NNP=all
 Repentigny=NNP=all
-Reptilia=NNP=all
 Reptilia=NNP=all # taxonomic terms
 Republican=Republican/NNP,Republicans/NNPS=all
 Reseda=NNP=all
@@ -34642,7 +34531,6 @@ Rhine=NNP=all
 Rhineland=NNP=all
 Rhinelander=Rhinelander/NNP,Rhinelanders/NNPS=all
 Rhines=NNP=all
-Rhinolophidae=NNP=all
 Rhinolophidae=NNP=all # taxonomic terms
 Rhinolophus=NNP=all # taxonomic terms
 Rhizocephala=NNP=all # taxonomic terms
@@ -34854,7 +34742,6 @@ Robillard=NNP=all
 Robin=NNP=all
 Robindale=NNP=za # South Africa, placename?
 Robinette=NNP=all
-Robinia=NNP=all
 Robinia=NNP=all # taxonomic terms
 Robinpark=NNP=za # South Africa, placename?
 Robins=NNP=all
@@ -34904,7 +34791,6 @@ Rodd=NNP=all
 Roddenberry=NNP=all
 Roddick=NNP=all
 Rodenbeck=NNP=za # South Africa, placename?
-Rodentia=NNP=all
 Rodentia=NNP=all # taxonomic terms
 Roderick=NNP=all
 Roderigo=NNP=all
@@ -36522,7 +36408,6 @@ Sarawak=NNP=all
 Sarawakian=JJ=all
 Sarawakian=noun=all
 Sarbanes-Oxley=NNP=all
-Sarbecovirus=NNP=all
 Sarbecovirus=NNP=all # taxonomic terms
 Sarcelles=NNP=all
 Sardanapalus=NNP=all
@@ -36598,7 +36483,6 @@ Saundershoogte=NNP=za # South Africa, placename?
 Saunderson=NNP=all
 Saundra=NNP=all
 Saurabh=NNP=all
-Saurischia=NNP=all
 Saurischia=NNP=all # taxonomic terms
 Sauron=NNP=all
 Saussure=NNP=all
@@ -36654,7 +36538,6 @@ Scandinavia=NNP=all
 Scandinavian=JJ=all
 Scandinavian=Scandinavian/NNP,Scandinavians/NNPS=all
 Scannell=NNP=all
-Scaphopoda=NNP=all
 Scaphopoda=NNP=all # taxonomic terms
 Scarabaeidae=NNP=all
 Scaramouch=NNP=all
@@ -36856,7 +36739,6 @@ Scully=NNP=all
 Scunthorpe=NNP=all
 Scutari=NNP=all
 Scylla=NNP=all
-Scyphozoa=NNP=all
 Scyphozoa=NNP=all # taxonomic terms
 Scyros=NNP=all
 Scythia=NNP=all
@@ -37671,14 +37553,12 @@ Sipetu=NNP=za # South Africa, placename?
 Siphonophora=NNP=all
 Siphosabadletshe=NNP=za # South Africa, placename?
 Siple=NNP=all
-Sipuncula=NNP=all
 Sipuncula=NNP=all # taxonomic terms
 Sipunculus=NNP=all # taxonomic terms
 Siqueiros=NNP=all
 Siqungweni=NNP=za # South Africa, placename?
 Sirach=NNP=all
 Siracusa=NNP=all
-Sirenia=NNP=all
 Sirenia=NNP=all # taxonomic terms
 Siret=NNP=all
 Siri=NNP=all
@@ -38132,7 +38012,6 @@ Spanish=JJ=all
 Spanish=Spanish/NN:U,Spanish/NNP,Spanish/NNPS=all
 Spanishness=NN:U=all
 Sparaxis=NNP=all
-Sparidae=NNP=all
 Sparidae=NNP=all # taxonomic terms
 SparkNotes=NNP=all
 Sparkasse=NNP=all
@@ -38171,7 +38050,6 @@ Spewpa=NNP=all
 Speyer=NNP=all
 Sphagnum=NNP=all # taxonomic terms
 Spheal=NNP=all
-Sphingidae=NNP=all
 Sphingidae=NNP=all # taxonomic terms
 Sphinx=NNP=all
 Sphyraenidae=NNP=all
@@ -39943,7 +39821,6 @@ Thermos=Thermos/NNP,Thermoses/NNPS=all
 Theron=NNP=all
 Theronsville=NNP=za # South Africa, placename?
 Theronville=NNP=za # South Africa, placename?
-Theropoda=NNP=all
 Theropoda=NNP=all # taxonomic terms
 Theroux=NNP=all
 Thersites=NNP=all
@@ -40064,7 +39941,6 @@ Thuthukani=NNP=za # South Africa, placename?
 Thwackey=NNP=all
 Thwing=NNP=all
 Thyestes=NNP=all
-Thysanoptera=NNP=all
 Thysanoptera=NNP=all # taxonomic terms
 Thyssenkrupp=NNP=all
 Théo=NNP=all
@@ -40672,7 +40548,6 @@ Tu=NNP=all
 Tualatin=NNP=all
 Tuareg=Tuareg/NNP,Tuaregs/NNPS=all
 Tubman=NNP=all
-Tubulidentata=NNP=all
 Tubulidentata=NNP=all # taxonomic terms
 Tucana=NNP=all
 Tuck=NNP=all
@@ -40731,7 +40606,6 @@ Tupungato=NNP=all
 Turandot=NNP=all
 Turanian=JJ=all
 Turanian=Turanian/NNP,Turanians/NNPS=all
-Turbellaria=NNP=all
 Turbellaria=NNP=all # taxonomic terms
 Turberville=NNP=all
 Turco=Turco/NNP,Turcos/NNPS=all
@@ -41547,7 +41421,6 @@ Uriah=NNP=all
 Uriel=NNP=all
 Urmia=NNP=all
 Urmston=NNP=all
-Urochordata=NNP=all
 Urochordata=NNP=all # taxonomic terms
 Urquhart=NNP=all
 Urs=NNP=all
@@ -42081,7 +41954,6 @@ Verrocchio=NNP=all
 Versace=NNP=all
 Versailles=NNP=all
 Verstappen=NNP=all
-Vertebrata=NNP=all
 Vertebrata=NNP=all # taxonomic terms
 Vertumnus=NNP=all
 Verulam=NNP=za # South Africa, placename?
@@ -42224,7 +42096,6 @@ Vinod=NNP=all
 Vinson=NNP=all
 Vinton=NNP=all
 Vinícius=NNP=all
-Viola=NNP=all
 Viola=NNP=all # taxonomic terms
 Violet=NNP=all
 Violeta=NNP=all
@@ -43761,7 +43632,6 @@ Xavier=NNP=all
 Xbox=NNP=all
 Xcential=NNP=all
 Xcode=NNP=all
-Xenarthra=NNP=all
 Xenarthra=NNP=all # taxonomic terms
 Xenia=NNP=all
 Xenocratean=JJ=all
@@ -44264,7 +44134,6 @@ Zenger=NNP=all
 Zenist=NNP=all
 Zennex=NNP=za # South Africa, placename?
 Zeno=NNP=all
-Zenobia=NNP=all
 Zenobia=NNP=all # taxonomic terms
 Zenzele=NNP=za # South Africa, placename?
 Zeph=NNP=all
