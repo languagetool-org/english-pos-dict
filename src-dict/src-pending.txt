@@ -86049,7 +86049,6 @@ formoterollably=UNTAGGED=gb
 formoterollation=UNTAGGED=gb
 formoterollations=UNTAGGED=gb
 formoterollativeness=UNTAGGED=gb
-formulaize=formulaize/VB,formulaize/VBP=none
 formulariser=NN=none
 formularizer=noun=none
 formuliser=NN=none
