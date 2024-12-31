@@ -90036,8 +90036,6 @@ gs=UNTAGGED=au,ca,us
 gsm=UNTAGGED=gb
 gt=UNTAGGED=au,ca,us
 gtd=NN=us
-gtd=gtd/VBD,gtd/VBN=us
-gteau=NN=none
 gtt=NN=none
 gu=NN=none
 guacin=NN=us-large

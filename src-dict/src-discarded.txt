@@ -942,6 +942,8 @@ disXGAisers=UNTAGGED=gb
 disXGAless=UNTAGGED=gb
 disXGAry=UNTAGGED=gb
 formulaize=formulaize/VB,formulaize/VBP=none
+gtd=gtd/VBD,gtd/VBN=us
+gteau=NN=none
 inADHD=UNTAGGED=gb
 inADHDably=UNTAGGED=gb
 inADHDally=UNTAGGED=gb
