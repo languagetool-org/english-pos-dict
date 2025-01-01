@@ -108241,7 +108241,7 @@ onlooker=noun=all
 onlooking=JJ=all
 only-begotten=JJ=all
 only=RB=all
-only=only/JJ,onliest/JJR=all
+only=only/JJ,onliest/JJS=all
 onomasiological=JJ=all
 onomasiology=NN:UN=all
 onomastic=JJ=all
