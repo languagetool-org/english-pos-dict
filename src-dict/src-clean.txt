@@ -626,6 +626,7 @@ AAAAA=untagged=all
 AAAACG=untagged=all
 AAAAEP=untagged=all
 AAAF=untagged=all
+AAAI=NNP=all
 AAAL=NNP=all
 AAAS=NNP=all
 AAAW=untagged=all
