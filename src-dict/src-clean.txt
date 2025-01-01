@@ -142582,7 +142582,7 @@ tweezer=noun=all
 tweezer=verb=all
 twelfth=JJ=all
 twelfth=noun=all
-twelve-month-old=eleven-month-old/NN,eleven-month-olds/NNS=all
+twelve-month-old=noun=all
 twelve-month=JJ=all
 twelve-tone=JJ=all
 twelve-year-old=noun=all
