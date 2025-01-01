@@ -102499,7 +102499,7 @@ nanobot=noun=all
 nanocandela=noun=all
 nanocatalyst=noun=all
 nanocephalic=JJ=all
-nanocomposite=nanocomposite/NN,nanocomposites/NN=all
+nanocomposite=noun=all
 nanocoulomb=noun=all
 nanodot=noun=all
 nanoelectronic=JJ=all
