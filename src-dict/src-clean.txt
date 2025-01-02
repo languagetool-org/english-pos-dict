@@ -138151,10 +138151,11 @@ tauten=verb=all
 tautly=RB=all
 tautness=NN:U=all
 tautog=noun=all
-tautologic=tautologic/JJ,tautologous/JJ=all
+tautologic=JJ=all
 tautological=JJ=all
 tautologically=RB=all
 tautologist=noun=all
+tautologous=JJ=all
 tautologously=RB=all
 tautology=noun_UN=all
 tautomer=noun=all
