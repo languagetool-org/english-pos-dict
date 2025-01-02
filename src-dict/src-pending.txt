@@ -145906,7 +145906,6 @@ synchytriaceae=NN=none
 synchytrium=NN=none
 synclinorium=noun=none
 syncom=noun=none
-syncopic=syncopal/JJ,syncopic/JJ=none
 syncretistic=UNTAGGED=all
 syncrisis=NN=us-large
 synd=NN=us-large

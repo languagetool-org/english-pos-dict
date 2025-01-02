@@ -137471,10 +137471,12 @@ synchrotron=noun=all
 synclastic=JJ=all
 synclinal=JJ=all
 syncline=noun=all
+syncopal=JJ=all
 syncopate=verb=all
 syncopated=JJ=all
 syncopation=noun_U=all
 syncopator=noun=all
+syncopic=JJ=all
 syncope=noun_U=all
 syncretic=JJ=all
 syncretism=noun_UN=all
