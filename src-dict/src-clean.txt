@@ -1,4 +1,3 @@
-
 !=punctuation=all
 "=''=all
 "=``=all
@@ -2541,7 +2540,7 @@ Alphonso=NNP=all
 Alphonsus=NNP=all
 Alpina=NNP=all
 Alpine=JJ=all
-Alps=Alps/NNP,Alps/NNPS=all
+Alps=NNPS=all
 Alrapark=NNP=za # South Africa, placename?
 Alrode=NNP=za # South Africa, placename?
 Alsace=NNP=all
@@ -3497,9 +3496,8 @@ Ashgate=NNP=all
 Ashikaga=NNP=all
 Ashish=NNP=all
 Ashkelon=NNP=all
-Ashkenazi=NNP=all
+Ashkenazi=Ashkenazi/NNP,Ashkenazim/NNPS=all
 Ashkenazic=JJ=all
-Ashkenazim=NNPS=all
 Ashkhabad=NNP=all
 Ashland=NNP=all
 Ashlee=NNP=all
@@ -9276,7 +9274,6 @@ Chimu=JJ=all
 Chin=NNP=all
 China=NNP=all
 Chinaman=Chinaman/NNP,Chinamen/NNPS=all
-Chinamen=NNPS=all
 Chinatown=Chinatown/NNP,Chinatowns/NNPS=all
 Chinchou=NNP=all
 Chindwin=NNP=all
@@ -9325,7 +9322,7 @@ Chlorophyceae=NNP=all
 Chlorophyta=NNP=all
 Chloé=NNP=all
 Choboza=NNP=za # South Africa, placename?
-Choctaw=Choctaw/NN:U,Choctaw/NNP,Choctaws/NNPS,Choctaw/NNS=all
+Choctaw=Choctaw/NNP,Choctaws/NNPS,Choctaw/NNPS=all
 Choctawhatchee=NNP=all
 Choctaws=NNPS=all
 Choiseul=NNP=all
@@ -10105,10 +10102,12 @@ Cornelius=NNP=all
 Cornell=NNP=all
 Corner=NNP=all
 Corney=NNP=all
-Cornhuskers=NNPS=all
+Cornhusker=Cornhusker/NNP,Cornhuskers/NNPS=none
 Corning=NNP=all
 Cornish=Cornish/NN:U,Cornish/NNP,Cornishes/NNPS=all
 Cornish=JJ=all
+Cornishman=Cornishman/NNP,Cornishmen/NNPS=all
+Cornishwoman=Cornishwoman/NNP,Cornishwomen/NNPS=all
 Cornuta=NNP=za # South Africa, placename?
 Cornwall=NNP=all
 Cornwallis=NNP=all
@@ -13632,7 +13631,6 @@ Englishly=RB=all
 Englishman=Englishman/NNP,Englishmen/NNPS=all
 Englishness=NN:U=all
 Englishwoman=Englishwoman/NNP,Englishwomen/NNPS=all
-Englishwomen=NNPS=all
 Engonyameni=NNP=za # South Africa, placename?
 Enhlalakahle=NNP=za # South Africa, placename?
 Enhlanzeni=NNP=za # South Africa, placename?
@@ -15470,7 +15468,6 @@ Frenchman=Frenchman/NNP,Frenchmen/NNPS=all
 Frenchmen=NNPS=all
 Frenchness=NN:U=all
 Frenchwoman=Frenchwoman/NNP,Frenchwomen/NNPS=all
-Frenchwomen=NNPS=all
 Frenchy=Frenchy/JJ,Frenchier/JJR,Frenchiest/JJS=all
 Frenchy=Frenchy/NNP,Frenchies/NNPS=all
 Frescobaldi=NNP=all
@@ -16799,6 +16796,7 @@ Gobi=NNP=all
 God-awful=JJ=all
 God-fearing=JJ=all
 God-forsaken=JJ=all
+God-man [pl. God-men]=noun=all
 God=NNP=all
 God=UH=all
 Godard=NNP=all
@@ -18107,9 +18105,8 @@ Haseeb=NNP=all
 Hashem=NNP=all
 Hashemite=Hashemite/NNP,Hashemites/NNPS=all
 Hashimoto=NNP=all
-Hasid=NNP=all
+Hasid=Hasid/NNP,Hasidim/NNPS=all
 Hasidic=JJ=all
-Hasidim=NNPS=all
 Hasidism=Hasidism/NNP,Hasidisms/NNPS=all
 Haskell=NNP=all
 Haskins=NNP=all
@@ -19996,7 +19993,7 @@ Ieyasu=NNP=all
 Ifafi=NNP=za # South Africa, placename?
 Ifni=NNP=all
 Ifugao=NNP=all
-Igbo=Igbo/NN:U,Igbo/NNP,Igbo/NNPS,Igbos/NNPS,Igbo/NNS=all
+Igbo=Igbo/NNP,Igbo/NNPS,Igbos/NNPS=all
 Igglybuff=NNP=all
 Iggy=NNP=all
 Iglesias=NNP=all
@@ -20104,7 +20101,6 @@ Independent=JJ=all
 Indermark=NNP=za # South Africa, placename?
 India=NNP=all
 Indiaman=Indiaman/NNP,Indiamen/NNPS=all
-Indiamen=NNPS=all
 Indian=Indian/NNP,Indians/NNPS=all
 Indian=JJ=all
 Indiana=NNP=all
@@ -20290,16 +20286,14 @@ Irenepark=NNP=za # South Africa, placename?
 Ireton=NNP=all
 Irina=NNP=all
 Iris=NNP=all
-Irish=Irish/JJ,Irisher/JJR=all
-Irish=Irish/NN:U,Irish/NNP,Irish/NNPS,Irish/NNS=all
+Irish=JJ=all
+Irish=Irish/NN:U,Irish/NNP,Irish/NNPS=all
 Irisher=Irisher/NNP,Irishers/NNPS=all
 Irishism=Irishism/NNP,Irishisms/NNPS=all
 Irishly=RB=all
 Irishman=Irishman/NNP,Irishmen/NNPS=all
-Irishmen=NNPS=all
 Irishness=NN:U=all
 Irishwoman=Irishwoman/NNP,Irishwomen/NNPS=all
-Irishwomen=NNPS=all
 Irkutsk=NNP=all
 Irma=NNP=all
 Irondale=NNP=all
@@ -21999,6 +21993,7 @@ Kenterton=NNP=za # South Africa, placename?
 Kentfield=NNP=all
 Kentish=JJ=all
 Kentish=NNP=all
+Kentishman=Kentishman/NNP,Kentishmen/NNPS=all # rare
 Kenton=NNP=all
 Kentuckian=JJ=all
 Kentuckian=Kentuckian/NNP,Kentuckians/NNPS=all
@@ -25945,12 +25940,11 @@ Manaus=NNP=all
 Mancam=NNP=za # South Africa, placename?
 Manchester=NNP=all
 Manchu=JJ=all
-Manchu=Manchu/NN:U,Manchu/NNP,Manchus/NNPS,Manchu/NNS=all
+Manchu=Manchu/NN:U,Manchu/NNP,Manchus/NNPS=all
 Manchukuo=NNP=all
 Manchuria=NNP=all
 Manchurian=JJ=all
 Manchurian=Manchurian/NNP,Manchurians/NNPS=all
-Manchus=JJ=all
 Mancinza=NNP=za # South Africa, placename?
 Mancunian=JJ=all
 Mancunian=Mancunian/NNP,Mancunians/NNPS=all
@@ -30874,7 +30868,6 @@ Orange=NNP=all
 Orangeburg=NNP=all
 Orangeism=Orangeism/NNP,Orangeisms/NNPS=all
 Orangeman=Orangeman/NNP,Orangemen/NNPS=all
-Orangemen=NNPS=all
 Oranguru=NNP=all
 Orania=NNP=za # South Africa, placename?
 Oranjehof=NNP=za # South Africa, placename?
@@ -36702,7 +36695,6 @@ Scotland=NNP=all
 Scots=JJ=all
 Scots=Scots/NN:U,Scots/NNP=all
 Scotsman=Scotsman/NNP,Scotsmen/NNPS=all
-Scotsmen=NNPS=all
 Scotswoman=Scotswoman/NNP,Scotswomen/NNPS=all
 Scott=NNP=all
 Scottburgh=NNP=za # South Africa, placename?
@@ -42896,7 +42888,6 @@ Welobie=NNP=za # South Africa, placename?
 Welsh=JJ=all
 Welsh=Welsh/NN:U,Welsh/NNP,Welsh/NNPS,Welsh/NNS=all
 Welshman=Welshman/NNP,Welshmen/NNPS=all
-Welshmen=NNPS=all
 Welshness=NN:U=all
 Welshwoman=Welshwoman/NNP,Welshwomen/NNPS=all
 Weltanschauung=Weltanschauung/NNP,Weltanschauungs/NNPS,Weltanschauungen/NNS=all
@@ -45753,6 +45744,7 @@ aerie=aerie/JJ,aerier/JJR,aeriest/JJS=all
 aerie=noun=all
 aeriferous=JJ=all
 aeriform=JJ=all
+aero-engine=noun=gb,nz,za
 aero=JJ=all
 aero=NN=all
 aeroacoustic=JJ=all
@@ -51244,7 +51236,6 @@ automatous=JJ=all
 automize|automise=verb=us,ca,gb|gb,au,nz,za
 automobile=noun=all
 automobile=verb=all
-automobubble=NNS=all
 automorphic=JJ=all
 automorphically=RB=all
 automorphism=noun_UN=all
@@ -51998,6 +51989,7 @@ ballpark=verb=all
 ballplayer=noun=all
 ballpoint=noun=all
 ballroom=noun=all
+balls-up=noun=all
 balls=UH=all
 ballsy=ballsy/JJ,ballsier/JJR,ballsiest/JJS=all
 bally=RB=all
@@ -58488,8 +58480,7 @@ centipascal=noun=all
 centipedal=JJ=all
 centipede=noun=all
 centiradian=noun=all
-centisecond=NN=all
-centiseconds=NNS=all
+centisecond=noun=all
 centisiemens=centisiemens/NN,centisiemens/NNS=all
 centisievert=noun=all
 centisteradian=noun=all
@@ -66714,8 +66705,7 @@ decarburization|decarburisation=noun_UN=us,ca,gb|gb,au,nz,za
 decarburize|decarburise=verb=us,ca,gb|gb,au,nz,za
 decartelization|decartelisation=noun_UN=us,ca,gb|gb,au,nz,za
 decartelize|decartelise=verb=us,ca,gb|gb,au,nz,za
-decasecond=NN=all
-decaseconds=NNS=all
+decasecond=noun=all
 decasiemens=decasiemens/NN,decasiemens/NNS=all
 decastere=noun=all
 decastyle=noun=all
@@ -66836,8 +66826,7 @@ decipherably=RB=all
 deciphered=JJ=all
 decipherment=noun=all
 deciradian=noun=all
-decisecond=NN=all
-deciseconds=NNS=all
+decisecond=noun=all
 decisiemens=decisiemens/NN,decisiemens/NNS=all
 decisievert=noun=all
 decision-making=NN:UN=all
@@ -75022,8 +75011,7 @@ exarch=exarch/NN,exarchs/NNS=all
 exarchal=JJ=all
 exarchate=noun=all
 exarchy=noun=all
-exasecond=NN=all
-exaseconds=NNS=all
+exasecond=noun=all
 exasiemens=exasiemens/NN,exasiemens/NNS=all
 exasievert=noun=all
 exasperate=verb=all
@@ -78226,6 +78214,7 @@ flowerless=JJ=all
 flowerlessness=NN:U=all
 flowerlike=JJ=all
 flowerpot=noun=all
+flower-of-Jove [pl. flowers-ofJove]=noun=all
 flowery=flowery/JJ,flowerier/JJR,floweriest/JJS=all
 flowing=JJ=all
 flowing=NN:UN=all
@@ -79965,6 +79954,8 @@ funnily=RB=all
 funniness=NN:U=all
 funny=funny/JJ,funnier/JJR,funniest/JJS=all
 funny=noun=all
+funnyman [pl. funnymen]=noun=all
+funnywoman [pl. funnywomen]=noun=all
 fur=JJ=all
 fur=noun_U=all
 fur=verb=all
@@ -80107,6 +80098,7 @@ féerie=noun=all
 fête=noun=all
 fête=verb=all
 führer=noun=all
+G-man=G-man/NNP,G-men/NNPS=all
 g=abbreviation=all
 gRPC=NNP=all
 gab=noun_U=all
@@ -81220,8 +81212,7 @@ gigaohm=noun=all
 gigapascal=noun=all
 gigapixel=noun=all
 gigaradian=noun=all
-gigasecond=NN=all
-gigaseconds=NNS=all
+gigasecond=noun=all
 gigasiemens=gigasiemens/NN,gigasiemens/NNS=all
 gigasievert=noun=all
 gigasteradian=noun=all
@@ -84531,8 +84522,7 @@ hector=verb=all
 hectoradian=noun=all
 hectoring=JJ=all
 hectoringly=RB=all
-hectosecond=NN=all
-hectoseconds=NNS=all
+hectosecond=noun=all
 hectosiemens=hectosiemens/NN,hectosiemens/NNS=all
 hectosievert=noun=all
 hectosteradian=noun=all
@@ -91706,7 +91696,6 @@ inventorial=JJ=all
 inventorially=RB=all
 inventory=noun_UN=all
 inventory=verb=all
-inventorying=NNS=all
 inveracity=noun=all
 inverness=NN:U=all
 inverse=JJ=all
@@ -93376,8 +93365,7 @@ kilomole=noun=all
 kilonewton=noun=all
 kilopascal=noun=all
 kiloradian=noun=all
-kilosecond=NN=all
-kiloseconds=NNS=all
+kilosecond=noun=all
 kilosiemens=kilosiemens/NN,kilosiemens/NNS=all
 kilosievert=noun=all
 kilosteradian=noun=all
@@ -98451,8 +98439,7 @@ megaprofit=noun=all
 megaproject=noun=all
 megaradian=noun=all
 megascopic=JJ=all
-megasecond=NN=all
-megaseconds=NNS=all
+megasecond=noun=all
 megaseller=noun=all
 megasiemens=megasiemens/NN,megasiemens/NNS=all
 megasievert=noun=all
@@ -103858,6 +103845,7 @@ non-French=NNP=all
 non-German=JJ=all
 non-German=NNP=all
 non-Germanic=JJ=all
+non-Gypsy [pl. non-Gypsies]=noun=none
 non-Hellenic=JJ=all
 non-Indian=JJ=all
 non-Indian=NNP=all
@@ -103871,8 +103859,10 @@ non-Latin=JJ=all
 non-Latin=NNP=all
 non-Mexican=JJ=all
 non-Mexican=noun=all
-non-Muslim=NNPS=all
-non-Muslims=NNPS=all
+non-Muslim [pl. non-Muslims]=noun=all
+non-Moslem [pl. non-Moslems]=noun=all
+non-Muslem [pl. non-Muslems]=noun=none
+non-Negro [pl. non-Negroes]=noun=none
 non-Newtonian=JJ=all
 non-Portuguese=JJ=all
 non-Roman=JJ=all
@@ -113192,8 +113182,7 @@ petaohm=noun=all
 petapascal=noun=all
 petaradian=noun=all
 petard=noun=all
-petasecond=NN=all
-petaseconds=NNS=all
+petasecond=noun=all
 petasiemens=petasiemens/NN,petasiemens/NNS=all
 petasievert=noun=all
 petasteradian=noun=all
@@ -120301,8 +120290,7 @@ quectoampere=noun=all
 quectobecquerel=noun=all
 quectocandela=noun=all
 quectocoulomb=noun=all
-quectoelectronvolt=NN=all
-quectoelectronvolts=NNS=all
+quectoelectronvolt=noun=all
 quectofarad=noun=all
 quectogram=noun=all
 quectogray=noun=all
@@ -120398,8 +120386,7 @@ quettabit=noun=all
 quettabyte=noun=all
 quettacandela=noun=all
 quettacoulomb=noun=all
-quettaelectronvolt=NN=all
-quettaelectronvolts=NNS=all
+quettaelectronvolt=noun=all
 quettafarad=noun=all
 quettagram=noun=all
 quettagray=noun=all
@@ -125018,8 +125005,7 @@ ronnabit=noun=all
 ronnabyte=noun=all
 ronnacandela=noun=all
 ronnacoulomb=noun=all
-ronnaelectronvolt=NN=all
-ronnaelectronvolts=NNS=all
+ronnaelectronvolt=noun=all
 ronnafarad=noun=all
 ronnagram=noun=all
 ronnagray=noun=all
@@ -125049,8 +125035,7 @@ rontoampere=noun=all
 rontobecquerel=noun=all
 rontocandela=noun=all
 rontocoulomb=noun=all
-rontoelectronvolt=NN=all
-rontoelectronvolts=NNS=all
+rontoelectronvolt=noun=all
 rontofarad=noun=all
 rontogram=noun=all
 rontogray=noun=all
@@ -137632,6 +137617,7 @@ systolic=JJ=all
 syzygial=JJ=all
 syzygy=noun=all
 séance=noun=all
+T-man [pl. T-men]=noun=us-large
 t=abbreviation=all
 tRNA=tRNA/NN,tRNA/NNP,tRNAs/NNS=all
 ta-da=UH=all
@@ -138789,8 +138775,7 @@ teraohm=noun=all
 terapascal=noun=all
 terapixel=noun=all
 teraradian=noun=all
-terasecond=NN=all
-teraseconds=NNS=all
+terasecond=noun=all
 terasiemens=terasiemens/NN,terasiemens/NNS=all
 terasievert=noun=all
 terasteradian=noun=all
@@ -152768,6 +152753,8 @@ uppercase=JJ=all
 uppercase=noun_U=all
 uppercase=verb=all
 upperclass=JJ=all
+upperclassman [pl. upperclassmen]=noun=au,ca,us
+upperclasswoman [pl. upperclasswomen]=noun=au,ca,us
 uppercut [uppercuts;uppercut;uppercut;uppercutting]=verb=all
 uppercut=noun=all
 uppermost=JJ=all
@@ -157177,8 +157164,7 @@ yoctonewton=noun=all
 yoctoohm=noun=all
 yoctopascal=noun=all
 yoctoradian=noun=all
-yoctosecond=NN=all
-yoctoseconds=NNS=all
+yoctosecond=noun=all
 yoctosiemens=yoctosiemens/NN,yoctosiemens/NNS=all
 yoctosievert=noun=all
 yoctosteradian=noun=all
@@ -157236,8 +157222,7 @@ yottanewton=noun=all
 yottaohm=noun=all
 yottapascal=noun=all
 yottaradian=noun=all
-yottasecond=NN=all
-yottaseconds=NNS=all
+yottasecond=noun=all
 yottasiemens=yottasiemens/NN,yottasiemens/NNS=all
 yottasievert=noun=all
 yottasteradian=noun=all
@@ -157413,8 +157398,7 @@ zettanewton=noun=all
 zettaohm=noun=all
 zettapascal=noun=all
 zettaradian=noun=all
-zettasecond=NN=all
-zettaseconds=NNS=all
+zettasecond=noun=all
 zettasiemens=zettasiemens/NN,zettasiemens/NNS=all
 zettasievert=noun=all
 zettasteradian=noun=all

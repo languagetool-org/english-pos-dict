@@ -258,7 +258,6 @@ Abkhasian=Abkhasian/NNP,Abkhasians/NNPS=none
 Abkhaz=Abkhaz/NN:U,Abkhaz/NNP=none
 Abkhazian=Abkhazian/NNP,Abkhazians/NNPS=us-large,za
 Abnaki=Abnaki/NNP,Abnakis/NNPS=none
-Abnakis=NNPS=none
 Abney=UNTAGGED=gb
 Abo=Abo/NNP,Abos/NNPS=gb
 Aboite=UNTAGGED=gb
@@ -11629,13 +11628,9 @@ Cornelle=NNP=none
 Cornelly=UNTAGGED=gb
 Cornew=NNP=none
 Cornhill=UNTAGGED=gb
-Cornhusker=Cornhusker/NNP,Cornhuskers/NNPS=none
 Cornia=NNP=none
 Cornichon=NNP=none
 Cornie=NNP=none
-Cornishman=Cornishman/NNP,Cornishmen/NNPS=us-large
-Cornishmen=NNPS=us-large
-Cornishwoman=Cornishwoman/NNP,Cornishwomen/NNS=us-large
 Corno=NNP=none
 Cornopion=NNP=none
 Cornu=UNTAGGED=gb
@@ -18688,8 +18683,6 @@ Führer=UNTAGGED=us-large
 Führerbunker=NNP=none
 G-Star=NNP=none
 G-Suite=NNP=none
-G-man=NNP=none
-G-men=NNPS=none
 G-strings=UNTAGGED=gb,nz,za
 G-strophanthin=NNP=none
 G-suits=UNTAGGED=gb
@@ -20027,9 +20020,7 @@ God-fearers=UNTAGGED=gb
 God-fearingly=UNTAGGED=gb
 God-given=UNTAGGED=gb
 God-loving=UNTAGGED=gb
-God-man=NNP=none
 God-manhood=UNTAGGED=gb
-God-men=NNPS=none
 God-shaped=UNTAGGED=gb
 Goda=NNP=none
 Godalming=UNTAGGED=gb
@@ -26606,8 +26597,6 @@ Kentigern=UNTAGGED=gb
 Kentiggerma=NNP=none
 Kentisbeare=UNTAGGED=gb
 Kentisbury=UNTAGGED=gb
-Kentishman=NNP=none
-Kentishmen=NNPS=none
 Kentmere=UNTAGGED=gb
 Kents=UNTAGGED=gb
 Kenvue=NNP=none
@@ -47982,8 +47971,6 @@ T-bar=NNP=none
 T-bevel=NNP=none
 T-group=NNP=none
 T-junctions=UNTAGGED=gb,nz,za
-T-man=NNP=none
-T-men=NNPS=none
 T-number=NNP=none
 T-shaped=UNTAGGED=gb
 T-shirts=UNTAGGED=gb,nz,za
@@ -55935,8 +55922,6 @@ aeriality=NN:UN=gb
 aerides=NN=none
 aerification=NN:UN=us-large
 aerify=verb=us-large
-aero-engine=UNTAGGED=gb,nz,za
-aero-engines=UNTAGGED=gb,nz,za
 aerobacter=NN=none
 aerobacteriological=JJ=none
 aerobacteriologically=RB=none
@@ -61668,8 +61653,6 @@ ballottement=noun=us-large
 ballottine=NN=none
 ballow=noun=none
 ballpen=noun=none
-balls-up=NN=none
-balls-ups=NNS=none
 ballsed=UNTAGGED=au,ca,us
 ballses=UNTAGGED=au,ca,us
 ballsing=UNTAGGED=au,ca,us
@@ -85502,7 +85485,6 @@ flowerette=noun=none
 flowerlet=NN=none
 flowerpecker=NN=gb
 flowerpeckers=UNTAGGED=gb
-flowers-of-Jove=NNPS=none
 flowers-of-an-hour=NN=none
 flowstone=noun=gb,nz,za
 flrie=NN=none
@@ -86757,9 +86739,6 @@ funniment=UNTAGGED=gb
 funniments=UNTAGGED=gb
 funniosities=UNTAGGED=gb
 funniosity=UNTAGGED=gb
-funnyman=funnyman/NN,funnymen/NNS=au,ca,us
-funnywoman=NN=none
-funnywomen=NNS=none
 funster=noun=none
 fur-piece=NN=none
 furacious=UNTAGGED=gb
@@ -110256,8 +110235,6 @@ non-Gothic=JJ=none
 non-Gothically=RB=none
 non-Greek=JJ=none
 non-Greek=NNP=none
-non-Gypsies=NNPS=none
-non-Gypsy=NNP=none
 non-Hamitic=JJ=none
 non-Hebraic=JJ=none
 non-Hebraically=RB=none
@@ -110306,18 +110283,12 @@ non-Mongolian=NNP=none
 non-Mormon=JJ=none
 non-Mormon=NNP=none
 non-Moslem=JJ=none
-non-Moslem=NNP=none
-non-Moslems=NNPS=none
 non-Muhammadan=JJ=none
 non-Muhammadan=NNP=none
 non-Muhammedan=JJ=none
 non-Muhammedan=NNP=none
 non-Muslem=JJ=none
-non-Muslem=NNP=none
-non-Muslems=NNPS=none
 non-Negritic=JJ=none
-non-Negro=NNP=none
-non-Negroes=NNPS=none
 non-Nicene=JJ=none
 non-Nordic=JJ=none
 non-Nordic=NNP=none
@@ -142187,8 +142158,7 @@ stigmarian=noun=none
 stigmasterol=noun=us-large
 stigmatically=UNTAGGED=gb
 stigmatics=UNTAGGED=gb
-stigmatiser=NN=gb
-stigmatisers=NNS=gb
+stigmatiser=noun=gb
 stigmatism=noun_UN=us-large
 stigmatist=noun=gb
 stigmatizer=noun=gb
@@ -156003,9 +155973,6 @@ upper-casing=JJ=gb,nz,za
 upper-classes=UNTAGGED=gb,nz,za
 upper-lower-class=JJ=none
 upper-normandy=NN=none
-upperclassman=upperclassman/NN,upperclassmen/NNS=au,ca,us
-upperclasswoman=NN=au,ca,us
-upperclasswomen=NNS=au,ca,us
 upperpart=noun=none
 upregulate=UNTAGGED=gb
 upregulated=UNTAGGED=gb
@@ -159586,7 +159553,7 @@ windchest=NN=none
 windflaw=noun=none
 windgall=noun=us-large
 windigo=windigo/NN:UN,windigoes/NNS,windigos/NNS=us-large
-winding-clothes=winding-clothes/NN,winding-clothes/NNS=none
+winding-clothes=NNS=none
 winding-sheet=NN=nz,za
 windjamming=noun=none
 windlassed=UNTAGGED=gb,nz,za

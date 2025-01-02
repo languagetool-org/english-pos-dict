@@ -1,3 +1,5 @@
+Abnakis=NNPS=none
+automobubble=NNS=all
 conBFI=UNTAGGED=gb
 conBFIability=UNTAGGED=gb
 conBFIable=UNTAGGED=gb
@@ -251,6 +253,7 @@ conWRAFisers=UNTAGGED=gb
 conWRAFman=UNTAGGED=gb
 conWRAFmen=UNTAGGED=gb
 conWRAFry=UNTAGGED=gb
+Cornishmen=NNPS=us-large
 deASCII=UNTAGGED=gb
 deASCIIability=UNTAGGED=gb
 deASCIIably=UNTAGGED=gb

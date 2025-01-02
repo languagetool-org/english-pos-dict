@@ -8841,6 +8841,10 @@ unwesternised
 unwilful
 unwilfully
 unwilfulness
+upperclassman
+upperclassmen
+upperclasswoman
+upperclasswomen
 upstate
 upstates
 uraemia

@@ -9275,6 +9275,10 @@ uplevel
 upleveled
 upleveling
 uplevels
+upperclassman
+upperclassmen
+upperclasswoman
+upperclasswomen
 upstate
 upstates
 uralitize

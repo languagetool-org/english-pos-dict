@@ -476,6 +476,7 @@ AAAAA
 AAAACG
 AAAAEP
 AAAF
+AAAI
 AAAL
 AAAS
 AAAW
@@ -9593,10 +9594,13 @@ Cornelius
 Cornell
 Corner
 Corney
-Cornhuskers
 Corning
 Cornish
 Cornishes
+Cornishman
+Cornishmen
+Cornishwoman
+Cornishwomen
 Cornwall
 Cornwallis
 Cornwell
@@ -14665,6 +14669,8 @@ Félix
 Fürth
 G
 G-Eazy
+G-man
+G-men
 G-string
 G-suit
 G0
@@ -15716,6 +15722,8 @@ God
 God-awful
 God-fearing
 God-forsaken
+God-man
+God-men
 Godard
 Godavari
 Godber
@@ -20558,6 +20566,8 @@ Kensington
 Kent
 Kentfield
 Kentish
+Kentishman
+Kentishmen
 Kenton
 Kentuckian
 Kentuckians
@@ -81010,8 +81020,6 @@ elevations
 elevator
 elevators
 eleven
-eleven-month-old
-eleven-month-olds
 eleven-year-old
 eleven-year-olds
 elevenfold
@@ -91486,6 +91494,10 @@ funnily
 funniness
 funning
 funny
+funnyman
+funnymen
+funnywoman
+funnywomen
 funs
 fur
 furan
@@ -162055,7 +162067,6 @@ six-year
 sixer
 sixes
 sixfold
-sixpacks
 sixpence
 sixpences
 sixpennies
@@ -162063,7 +162074,6 @@ sixpenny
 sixteen
 sixteen-year-old
 sixteen-year-olds
-sixteener
 sixteenfold
 sixteenpenny
 sixteens
@@ -162591,7 +162601,6 @@ slay
 slayed
 slayer
 slayers
-slayes
 slaying
 slayings
 slays
@@ -172143,6 +172152,7 @@ synclastic
 synclinal
 syncline
 synclines
+syncopal
 syncopate
 syncopated
 syncopates
@@ -172153,6 +172163,7 @@ syncopator
 syncopators
 syncope
 syncopes
+syncopic
 syncretic
 syncretism
 syncretisms
@@ -179260,6 +179271,8 @@ twelfth
 twelfths
 twelve
 twelve-month
+twelve-month-old
+twelve-month-olds
 twelve-tone
 twelve-year-old
 twelve-year-olds

@@ -695,6 +695,8 @@ adulterized
 adulterizes
 adulterizing
 aerie
+aero-engine
+aero-engines
 aerobicise
 aerobicised
 aerobicises
