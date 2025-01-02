@@ -140201,7 +140201,7 @@ titanomagnetite=noun=all
 titanomagnetitic=JJ=all
 titanous=JJ=all
 titbit|tidbit=noun=au,gb,nz,za|us,ca
-titchy=titchier/JJ,titchiest/JJ,titchy/JJ=all
+titchy=titchier/JJR,titchiest/JJS,titchy/JJ=all
 titfer=noun=all
 tithable=JJ=all
 tithe=noun=all
@@ -155841,7 +155841,7 @@ whistle=verb=all
 whistleable=JJ=all
 whistleblower=noun=all
 whistleblowing=JJ=all
-whistleblowing=whistleblowing/NN,whistleblowing/NN:U,whistleblowings/NNS=all
+whistleblowing=noun_UN=all
 whistler=noun=all
 whistling=NN:UN=all
 whistlingly=RB=all
@@ -155891,12 +155891,12 @@ whither=JJ=all
 whither=RB=all
 whithersoever=RB=all # archaic
 whitherward=RB=all # archaic
-whiting=whiting/NN,whiting/NNS,whitings/NNS=all
+whiting=noun_UN=all
 whitish=JJ=all
 whitishness=NN:U=all
 whitlow=noun=all
 whittle=verb=all
-whittle=whittle/NN,whittles/NN=all
+whittle=noun=all
 whittler=noun=all
 whittling=JJ=all
 whittling=noun_UN=all
