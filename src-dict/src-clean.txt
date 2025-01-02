@@ -116371,7 +116371,7 @@ powerhouse=noun=all
 powerless=JJ=all
 powerlessly=RB=all
 powerlessness=NN:U=all
-powerlifter=powerlifter/NN,powerlifters/NN=all
+powerlifter=noun=all
 powerlifting=powerlifting/NN,powerlifting/NN:U,powerliftings/NNS=all
 powertrain=noun=all
 powwow=noun=all
@@ -124360,6 +124360,7 @@ rewrite [rewrites;rewrote;rewritten;rewriting]=verb=all
 rewrite=noun=all
 rewriter=noun=all
 rewriting=noun_UN=all
+rex=rex/NN,rexes/NNS=none
 rezone=verb=all
 rhabdomancy=noun_U=all
 rhabdovirus=noun=all
@@ -130272,7 +130273,7 @@ six-man=JJ=all
 six-member=JJ=all
 six-month-old=noun=all
 six-month=JJ=all
-six-pack=six-pack/NN,six-packs/NNS,sixpacks/NNS=all
+six-pack=noun=all
 six-page=JJ=all
 six-point=JJ=all
 six-shooter=noun=all
@@ -130292,7 +130293,7 @@ sixpenny=noun=all
 sixteen-year-old=noun=all
 sixteen=CD=all
 sixteen=noun=all
-sixteen=sixteen/JJ,sixteener/JJR=all
+sixteen=JJ=all
 sixteenfold=JJ=all
 sixteenfold=RB=all
 sixteenpenny=JJ=all
@@ -130655,7 +130656,7 @@ slavishly=RB=all
 slavishness=NN:U=all
 slavocratic=JJ=all
 slay [slays;slew,slayed;slain;slaying]=verb=all
-slay=slay/NN,slayes/NN=all
+slay=noun=all
 slayer=noun=all
 slaying=noun_UN=all
 sleaze=noun_UN=all

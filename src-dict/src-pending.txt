@@ -132833,7 +132833,6 @@ rewarder=noun=none
 rewarewa=noun=none
 rewinder=noun=none
 rewon=rewon/NN,rewon/NNS=none
-rex=rex/NN,rexes/NNS,rices/NNS=none
 rexine=noun=none
 reynard=noun=none
 rfb=NN=none
