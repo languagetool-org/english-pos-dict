@@ -3482,6 +3482,7 @@ Athlon
 Athol
 Athos
 Atkins
+Atkinses
 Atkinson
 Atkinson-Shiffrin
 Atlanta
@@ -8654,6 +8655,7 @@ Chee
 Cheektowaga
 Cheema
 Cheetham
+Cheeto
 Cheetos
 Chefchaouen
 Chefoo
@@ -8720,6 +8722,7 @@ Chester
 Chesterfield
 Chesterfieldian
 Chesterton
+Chestertons
 Cheswick
 Chetnik
 Chetumal
@@ -12929,6 +12932,7 @@ Erika
 Erikson
 Eriksson
 Erin
+Erinyes
 Erinys
 Eris
 Erises
@@ -14652,6 +14656,7 @@ Funafuti
 Funchal
 Fundy
 Furfrou
+Furies
 Furman
 Furness
 Furnivall
@@ -17359,6 +17364,7 @@ Hesketh
 Hesper
 Hesperia
 Hesperian
+Hesperid
 Hesperides
 Hesperidian
 Hesperus
@@ -19384,7 +19390,9 @@ Jagataic
 Jagellonian
 Jaggard
 Jagger
+Jagiello
 Jagiellonian
+Jagiellos
 Jahangir
 Jahveh
 Jahvistic
@@ -20202,6 +20210,7 @@ Kadabra
 Kadar
 Kaddish
 Kaddishes
+Kaddishim
 Kadiwéu
 Kadiyevka
 Kaduna
@@ -49365,7 +49374,6 @@ automobile
 automobiled
 automobiles
 automobiling
-automobubble
 automorphic
 automorphically
 automorphism
@@ -50499,6 +50507,8 @@ ballpoints
 ballroom
 ballrooms
 balls
+balls-up
+balls-ups
 ballsier
 ballsiest
 ballsy
@@ -87255,6 +87265,7 @@ fettles
 fettling
 fettlings
 fettuccine
+fettuccines
 fetus
 fetuses
 feud
@@ -88959,6 +88970,7 @@ flowchart
 flowcharts
 flowed
 flower
+flower-of-Jove
 flowerbed
 flowerbeds
 flowered
@@ -88978,6 +88990,7 @@ flowerlike
 flowerpot
 flowerpots
 flowers
+flowers-ofJove
 flowery
 flowing
 flowingly
@@ -91882,6 +91895,8 @@ galiots
 galipot
 galipots
 gall
+gall-flies
+gall-fly
 gallant
 gallanter
 gallantest
@@ -125266,6 +125281,8 @@ non-Jewish
 non-Latin
 non-Mexican
 non-Mexicans
+non-Moslem
+non-Moslems
 non-Muslim
 non-Muslims
 non-Newtonian
@@ -131760,6 +131777,7 @@ overconsumption
 overconsumptions
 overcontented
 overcontrolling
+overcontrollings
 overcook
 overcooked
 overcooking
@@ -139376,6 +139394,7 @@ plicate
 plication
 plications
 plied
+plier
 pliers
 plies
 plight
@@ -139737,7 +139756,6 @@ poetry
 poets
 pogrom
 pogroms
-poi
 poignancies
 poignancy
 poignant
@@ -147354,6 +147372,7 @@ rabidity
 rabidly
 rabidness
 rabies
+rabieses
 raccoon
 raccoons
 race
@@ -154637,6 +154656,8 @@ rogered
 rogering
 rogers
 rogue
+roguelike
+roguelikes
 rogueries
 roguery
 rogues
@@ -166470,6 +166491,7 @@ stablers
 stables
 stablest
 stabling
+stablings
 stably
 stabs
 staccati
@@ -191459,7 +191481,6 @@ verities
 verity
 verklempt
 vermicelli
-vermicellis
 vermicidal
 vermicide
 vermicides

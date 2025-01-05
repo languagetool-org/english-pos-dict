@@ -16349,7 +16349,6 @@ Erinaceus=NNP=none
 Erine=NNP=none
 Erinn=NNP=none
 Erinna=NNP=none
-Erinyes=Erinyes/NNP,Erinyes/NNPS=gb
 Eriobotrya=NNP=none
 Eriocaulaceae=NNP=none
 Eriocaulon=NNP=none
@@ -17101,7 +17100,7 @@ Fadus=UNTAGGED=gb
 Fae=NNP=none
 Faedor=NNP=none
 Faenor=UNTAGGED=gb
-Faeroes=Faeroes/NNP,Faeroes/NNPS=none
+Faeroes=NNPS=none
 Fagales=NNP=none
 Fagaly=NNP=none
 Fagans=UNTAGGED=gb
@@ -17501,7 +17500,7 @@ Fennic=NNP=none
 Fennie=NNP=none
 Fennoscandia=UNTAGGED=gb
 Fenris=UNTAGGED=gb
-Fenriswolf=Fenriswolf/NNP,Fenriswolf/NNPS=none
+Fenriswolf=NNP=none
 Fens=NNPS=gb
 Fensal=UNTAGGED=gb
 Fenstanton=UNTAGGED=gb
@@ -18636,7 +18635,6 @@ Furey=NNP=none
 Furgeson=NNP=none
 Furiae=NNPS=none
 Furie=NNP=none
-Furies=Furies/NNP,Furies/NNPS=au,ca,us
 Furiya=NNP=none
 Furkan=UNTAGGED=gb
 Furlani=NNP=none
@@ -20552,7 +20550,7 @@ Grecize=UNTAGGED=us-large
 Greco-Egyptian=UNTAGGED=all
 Gredel=NNP=none
 Greekdom=NNP=none
-Greekling=Greekling/NNP,Greekling/NNPS=none
+Greekling=Greekling/NNP,Greeklings/NNPS=all # rare
 Greeknessably=UNTAGGED=gb
 Greeknessally=UNTAGGED=gb
 Greeknessation=UNTAGGED=gb
@@ -25072,15 +25070,12 @@ Jagannatha=NNP=none
 Jagdamba=UNTAGGED=gb
 Jagello=NNP=none
 Jagellon=JJ=none
-Jagellos=NNPS=none
 Jagex=UNTAGGED=gb
 Jagganath=NNP=none
 Jaghatai=NNP=none
-Jagiello=NNP=none
 Jagiellon=UNTAGGED=au,ca,us
-Jagiellos=NNPS=none
 Jagielon=JJ=none
-Jagielski=UNTAGGED=gb
+Jagielski=NNP=gb
 Jagir=NNP=none
 Jago=NNP=none
 Jags=UNTAGGED=gb
@@ -25920,7 +25915,6 @@ Kaczer=NNP=none
 Kaczorowski=UNTAGGED=gb
 Kadai=JJ=none
 Kadai=NNP=none
-Kaddishim=NNPS=gb
 Kaden=NNP=none
 Kadlec=UNTAGGED=gb
 Kadner=NNP=none
@@ -86977,8 +86971,6 @@ galimatias=noun=us-large
 galiongee=noun=none
 galium=NN=none
 galjoen=UNTAGGED=za
-gall-flies=NNS=none
-gall-fly=NN=none
 gallamine=noun=none
 gallanted=UNTAGGED=gb,nz,za
 gallanting=UNTAGGED=gb,nz,za
@@ -133514,8 +133506,6 @@ roentgenoscopy=NN=none
 roentgenotherapy=noun=us-large
 roestone=noun=none
 rogaine=NN=none
-roguelike=JJ=none
-roguelike=noun=none
 rojak=NN=none
 roke=NN=none
 rokelay=noun=none
