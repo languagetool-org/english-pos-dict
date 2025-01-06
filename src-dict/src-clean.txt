@@ -15616,6 +15616,7 @@ Fábio=NNP=all
 Félix=NNP=all
 Fürth=NNP=all
 G-Eazy=NNP=all
+G-man=G-man/NNP,G-men/NNPS=all
 G-string=NNP=all
 G-suit=NNP=all
 G0=untagged=all
@@ -20286,8 +20287,8 @@ Irenepark=NNP=za # South Africa, placename?
 Ireton=NNP=all
 Irina=NNP=all
 Iris=NNP=all
-Irish=JJ=all
 Irish=Irish/NN:U,Irish/NNP,Irish/NNPS=all
+Irish=JJ=all
 Irisher=Irisher/NNP,Irishers/NNPS=all
 Irishism=Irishism/NNP,Irishisms/NNPS=all
 Irishly=RB=all
@@ -20711,11 +20712,11 @@ Jagannath=NNP=all
 Jagatai=NNP=all
 Jagataic=JJ=all
 Jagellonian=JJ=all
-Jagiello=Jagiello/NNP,Jagiellos/NNPS=all
 Jagersfontein=NNP=za # South Africa, placename?
 Jagersrust=NNP=za # South Africa, placename?
 Jaggard=NNP=all
 Jagger=NNP=all
+Jagiello=Jagiello/NNP,Jagiellos/NNPS=all
 Jagiellonian=JJ=all
 Jagtershof=NNP=za # South Africa, placename?
 Jahangir=NNP=all
@@ -38846,6 +38847,7 @@ T-Systems=NNP=all
 T-bone=noun=all
 T-bone=verb=all
 T-junction=NNP=all
+T-man [pl. T-men]=noun=us-large
 T-shirt=NNP=all
 T-shirted=JJ=all
 T10=untagged=all
@@ -54557,7 +54559,6 @@ blouselike=JJ=all
 blousily=RB=all
 blouson=noun=all
 blow [blows;blew,blowed;blowed,blown;blowing]=verb=all
-blow=noun=all
 blow-by-blow=JJ=all
 blow-dry=verb=all
 blow-dryer=noun=all
@@ -77553,8 +77554,8 @@ fisc=noun=all
 fiscal=JJ=all
 fiscal=noun=all
 fiscally=RB=all
-fish-bellied=JJ=all
 fish [pl. fish, fishes]=noun_UN=all # all fish/zero-plural anima terms should be like this
+fish-bellied=JJ=all
 fish=verb=all
 fishable=JJ=all
 fishbowl=noun=all
@@ -78202,6 +78203,7 @@ flow=noun_UN=all
 flow=verb=all
 flowable=JJ=all
 flowchart=noun=all
+flower-of-Jove [pl. flowers-ofJove]=noun=all
 flower=noun=all
 flower=verb=all
 flowerbed=noun=all
@@ -78216,7 +78218,6 @@ flowerless=JJ=all
 flowerlessness=NN:U=all
 flowerlike=JJ=all
 flowerpot=noun=all
-flower-of-Jove [pl. flowers-ofJove]=noun=all
 flowery=flowery/JJ,flowerier/JJR,floweriest/JJS=all
 flowing=JJ=all
 flowing=NN:UN=all
@@ -80100,7 +80101,6 @@ féerie=noun=all
 fête=noun=all
 fête=verb=all
 führer=noun=all
-G-man=G-man/NNP,G-men/NNPS=all
 g=abbreviation=all
 gRPC=NNP=all
 gab=noun_U=all
@@ -88777,6 +88777,7 @@ inaptly=RB=all
 inaptness=NN:U=all
 inarguable=JJ=all
 inarguably=RB=all
+inarticulable=JJ=all
 inarticulacy=noun=all
 inarticulate=JJ=all
 inarticulate=noun=all
@@ -103861,9 +103862,9 @@ non-Latin=JJ=all
 non-Latin=NNP=all
 non-Mexican=JJ=all
 non-Mexican=noun=all
-non-Muslim [pl. non-Muslims]=noun=all
 non-Moslem [pl. non-Moslems]=noun=all
 non-Muslem [pl. non-Muslems]=noun=none
+non-Muslim [pl. non-Muslims]=noun=all
 non-Negro [pl. non-Negroes]=noun=none
 non-Newtonian=JJ=all
 non-Portuguese=JJ=all
@@ -113795,6 +113796,7 @@ phugoid=JJ=all
 phycological=JJ=all
 phycologist=noun=all
 phycology=noun_UN=all
+phygital=JJ=all
 phyla=phyla/NN,phylae/NNS=all
 phylacteric=JJ=all
 phylacterical=JJ=all
@@ -130279,8 +130281,8 @@ sixpenny=JJ=all
 sixpenny=noun=all
 sixteen-year-old=noun=all
 sixteen=CD=all
-sixteen=noun=all
 sixteen=JJ=all
+sixteen=noun=all
 sixteenfold=JJ=all
 sixteenfold=RB=all
 sixteenpenny=JJ=all
@@ -137463,8 +137465,8 @@ syncopate=verb=all
 syncopated=JJ=all
 syncopation=noun_U=all
 syncopator=noun=all
-syncopic=JJ=all
 syncope=noun_U=all
+syncopic=JJ=all
 syncretic=JJ=all
 syncretism=noun_UN=all
 syncretist=noun=all
@@ -137619,7 +137621,6 @@ systolic=JJ=all
 syzygial=JJ=all
 syzygy=noun=all
 séance=noun=all
-T-man [pl. T-men]=noun=us-large
 t=abbreviation=all
 tRNA=tRNA/NN,tRNA/NNP,tRNAs/NNS=all
 ta-da=UH=all
@@ -155884,8 +155885,8 @@ whiting=noun_UN=all
 whitish=JJ=all
 whitishness=NN:U=all
 whitlow=noun=all
-whittle=verb=all
 whittle=noun=all
+whittle=verb=all
 whittler=noun=all
 whittling=JJ=all
 whittling=noun_UN=all

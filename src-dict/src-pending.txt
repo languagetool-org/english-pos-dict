@@ -96211,7 +96211,6 @@ inarched=UNTAGGED=gb
 inarches=UNTAGGED=gb
 inarching=UNTAGGED=gb
 inarchings=UNTAGGED=gb
-inarticulable=UNTAGGED=gb,nz,za
 inartificiality=NN:UN=none
 inauguratory=UNTAGGED=gb
 inband=UNTAGGED=gb
