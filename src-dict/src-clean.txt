@@ -50851,6 +50851,7 @@ attoampere=noun=all
 attobecquerel=noun=all
 attocandela=noun=all
 attocoulomb=noun=all
+attoelectronvolt=noun=all
 attofarad=noun=all
 attogram|attogramme=noun=all|au,ca,gb,nz,za
 attogray=noun=all
@@ -58457,6 +58458,7 @@ centiampere=noun=all
 centibecquerel=noun=all
 centicandela=noun=all
 centicoulomb=noun=all
+centielectronvolt=noun=all
 centifarad=noun=all
 centigrade=JJ=all
 centigrade=NN=all
@@ -66654,6 +66656,7 @@ decadently=RB=all
 decades-long=JJ=all
 decadeslong=JJ=all
 decadrachm=NN=all
+decaelectronvolt=noun=all
 decaf=noun_UN=all
 decafarad=noun=all
 decaff=noun_UN=all
@@ -66794,6 +66797,7 @@ deciduate=JJ=all
 deciduous=JJ=all
 deciduously=RB=all
 deciduousness=NN:U=all
+decielectronvolt=noun=all
 decifarad=noun=all
 decigram|decigramme=noun=all|au,ca,gb,nz,za
 decigray=noun=all
@@ -72662,6 +72666,7 @@ electronic=noun=all
 electronica=NN:U=all
 electronically=RB=all
 electronics=NN:U=all
+electronvolt=noun=all
 electroosmosis [pl. electroosmoses]=noun_U=all
 electroosmotic=JJ=all
 electroosmotically=RB=all
@@ -74962,6 +74967,7 @@ exactly=RB=all
 exactly=UH=all
 exactness=NN:U=all
 exactor=noun=all
+exaelectronvolt=noun=all
 exafarad=noun=all
 exaggerate=verb=all
 exaggerated=JJ=all
@@ -76838,6 +76844,7 @@ femtobecquerel=noun=all
 femtocandela=noun=all
 femtochemistry=NN:U=all
 femtocoulomb=noun=all
+femtoelectronvolt=noun=all
 femtofarad=noun=all
 femtogram|femtogramme=noun=all|au,ca,gb,nz,za
 femtogray=noun=all
@@ -81190,6 +81197,7 @@ gigabit=noun=all
 gigabyte=noun=all
 gigacandela=noun=all
 gigacoulomb=noun=all
+gigaelectronvolt=noun=all
 gigafactory=noun=all
 gigafarad=noun=all
 gigagram|gigagramme=noun=all|au,ca,gb,nz,za
@@ -84500,6 +84508,7 @@ hectobecquerel=noun=all
 hectocandela=noun=all
 hectocotylus=hectocotylus/NN,hectocotyli/NNS=all
 hectocoulomb=noun=all
+hectoelectronvolt=noun=all
 hectofarad=noun=all
 hectogram|hectogramme=noun=all|au,ca,gb,nz,za
 hectograph=noun=all
@@ -93349,6 +93358,7 @@ kilocalorie=noun=all
 kilocandela=noun=all
 kilocoulomb=noun=all
 kilocycle=noun=all
+kiloelectronvolt=noun=all
 kilofarad=noun=all
 kilogram-meter|kilogram-metre=noun=us|au,ca,gb,nz,za
 kilogram|kilogramme=noun=all|au,ca,gb,nz,za
@@ -98387,6 +98397,7 @@ megadeath=noun=all
 megadonor=noun=all
 megadont=JJ=all
 megadose=noun=all
+megaelectronvolt=noun=all
 megafarad=noun=all
 megafauna=megafauna/NN,megafauna/NNS,megafaunae/NNS,megafaunas/NNS=all
 megafaunal=JJ=all
@@ -99312,6 +99323,7 @@ microeconomics=NN:U=all
 microelectronic=JJ=all
 microelectronic=noun=all
 microelectronics=NN:U=all
+microelectronvolt=noun=all
 microelectrophoresis [pl. microelectrophoreses]=noun=all
 microelectrophoretic=JJ=all
 microencapsulate=verb=all
@@ -99755,6 +99767,7 @@ millibecquerel=noun=all
 millibitcoin=noun=all
 millicandela=noun=all
 millicoulomb=noun=all
+millielectronvolt=noun=all
 millifarad=noun=all
 millifold=RB=all
 milligram|milligramme=noun=all|au,ca,gb,nz,za
@@ -102493,6 +102506,7 @@ nanocomposite=noun=all
 nanocoulomb=noun=all
 nanodot=noun=all
 nanoelectronic=JJ=all
+nanoelectronvolt=noun=all
 nanofarad=noun=all
 nanofiber|nanofibre=noun_UN=us|au,ca,gb,nz,za
 nanogram|nanogramme=noun=all|au,ca,gb,nz,za
@@ -113158,6 +113172,7 @@ petabit=noun=all
 petabyte=noun=all
 petacandela=noun=all
 petacoulomb=noun=all
+petaelectronvolt=noun=all
 petafarad=noun=all
 petagram|petagramme=noun=all|au,ca,gb,nz,za
 petagray=noun=all
@@ -113972,6 +113987,7 @@ picobecquerel=noun=all
 picocandela=noun=all
 picocoulomb=noun=all
 picocurie=NN=all
+picoelectronvolt=noun=all
 picofarad=noun=all
 picogram|picogramme=noun=all|au,ca,gb,nz,za
 picogray=noun=all
@@ -138759,6 +138775,7 @@ terabit=noun=all
 terabyte=noun=all
 teracandela=noun=all
 teracoulomb=noun=all
+teraelectronvolt=noun=all
 terafarad=noun=all
 teraflop=noun=all
 teragram|teragramme=noun=all|au,ca,gb,nz,za
@@ -157150,6 +157167,7 @@ yoctoampere=noun=all
 yoctobecquerel=noun=all
 yoctocandela=noun=all
 yoctocoulomb=noun=all
+yoctoelectronvolt=noun=all
 yoctofarad=noun=all
 yoctogram|yoctogramme=noun=all|au,ca,gb,nz,za
 yoctogray=noun=all
@@ -157208,6 +157226,7 @@ yottabecquerel=noun=all
 yottabit=noun=all
 yottacandela=noun=all
 yottacoulomb=noun=all
+yottaelectronvolt=noun=all
 yottafarad=noun=all
 yottagram|yottagramme=noun=all|au,ca,gb,nz,za
 yottagray=noun=all
@@ -157335,6 +157354,7 @@ zeptoampere=noun=all
 zeptobecquerel=noun=all
 zeptocandela=noun=all
 zeptocoulomb=noun=all
+zeptoelectronvolt=noun=all
 zeptofarad=noun=all
 zeptogram|zeptogramme=noun=all|au,ca,gb,nz,za
 zeptogray=noun=all
@@ -157384,6 +157404,7 @@ zettabit=noun=all
 zettabyte=noun=all
 zettacandela=noun=all
 zettacoulomb=noun=all
+zettaelectronvolt=noun=all
 zettafarad=noun=all
 zettagram|zettagramme=noun=all|au,ca,gb,nz,za
 zettagray=noun=all

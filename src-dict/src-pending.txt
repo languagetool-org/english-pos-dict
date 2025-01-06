@@ -80886,7 +80886,6 @@ electronications=UNTAGGED=gb
 electronicatisability=UNTAGGED=gb
 electronicatisable=UNTAGGED=gb
 electronicativeness=UNTAGGED=gb
-electronvolt=noun=gb
 electrooculogram=noun=none
 electrooculography=noun=none
 electrooptic=noun=none
@@ -99567,8 +99566,6 @@ kilobuck=UNTAGGED=gb,nz,za
 kilobucks=UNTAGGED=gb
 kilocurie=noun=none
 kilodyne=NN=none
-kiloelectronvolt=UNTAGGED=gb
-kiloelectronvolts=UNTAGGED=gb
 kilogauss=noun=gb,nz,za
 kilograin=NN=none
 kilogram-force=NN:UN=none
@@ -104594,8 +104591,6 @@ megadermatidae=NN=none
 megadiverse=UNTAGGED=all
 megadontia=NN=none
 megadyne=noun=none
-megaelectronvolt=UNTAGGED=gb
-megaelectronvolts=UNTAGGED=gb
 megaflop=noun=gb
 megafog=noun=none
 megagamete=noun=us-large

@@ -48760,6 +48760,8 @@ attocandela
 attocandelas
 attocoulomb
 attocoulombs
+attoelectronvolt
+attoelectronvolts
 attofarad
 attofarads
 attogram
@@ -60096,6 +60098,8 @@ centicandela
 centicandelas
 centicoulomb
 centicoulombs
+centielectronvolt
+centielectronvolts
 centifarad
 centifarads
 centigrade
@@ -72109,6 +72113,8 @@ decades
 decades-long
 decadeslong
 decadrachm
+decaelectronvolt
+decaelectronvolts
 decaf
 decafarad
 decafarads
@@ -72311,6 +72317,8 @@ deciduate
 deciduous
 deciduously
 deciduousness
+decielectronvolt
+decielectronvolts
 decifarad
 decifarads
 decigram
@@ -80911,6 +80919,8 @@ electronica
 electronically
 electronics
 electrons
+electronvolt
+electronvolts
 electroosmoses
 electroosmosis
 electroosmotic
@@ -84329,6 +84339,8 @@ exactness
 exactor
 exactors
 exacts
+exaelectronvolt
+exaelectronvolts
 exafarad
 exafarads
 exaggerate
@@ -86982,6 +86994,8 @@ femtocandelas
 femtochemistry
 femtocoulomb
 femtocoulombs
+femtoelectronvolt
+femtoelectronvolts
 femtofarad
 femtofarads
 femtogram
@@ -93329,6 +93343,8 @@ gigacandela
 gigacandelas
 gigacoulomb
 gigacoulombs
+gigaelectronvolt
+gigaelectronvolts
 gigafactories
 gigafactory
 gigafarad
@@ -98152,6 +98168,8 @@ hectocotyli
 hectocotylus
 hectocoulomb
 hectocoulombs
+hectoelectronvolt
+hectoelectronvolts
 hectofarad
 hectofarads
 hectogram
@@ -110299,6 +110317,8 @@ kilocoulomb
 kilocoulombs
 kilocycle
 kilocycles
+kiloelectronvolt
+kiloelectronvolts
 kilofarad
 kilofarads
 kilogram
@@ -117545,6 +117565,8 @@ megadonors
 megadont
 megadose
 megadoses
+megaelectronvolt
+megaelectronvolts
 megafarad
 megafarads
 megafauna
@@ -118851,6 +118873,8 @@ microeconomic
 microeconomics
 microelectronic
 microelectronics
+microelectronvolt
+microelectronvolts
 microelectrophoreses
 microelectrophoresis
 microelectrophoretic
@@ -119521,6 +119545,8 @@ millicandela
 millicandelas
 millicoulomb
 millicoulombs
+millielectronvolt
+millielectronvolts
 millifarad
 millifarads
 millifold
@@ -123433,6 +123459,8 @@ nanocoulombs
 nanodot
 nanodots
 nanoelectronic
+nanoelectronvolt
+nanoelectronvolts
 nanofarad
 nanofarads
 nanogram
@@ -136834,6 +136862,8 @@ petacandela
 petacandelas
 petacoulomb
 petacoulombs
+petaelectronvolt
+petaelectronvolts
 petafarad
 petafarads
 petagram
@@ -138009,6 +138039,8 @@ picocandelas
 picocoulomb
 picocoulombs
 picocurie
+picoelectronvolt
+picoelectronvolts
 picofarad
 picofarads
 picogram
@@ -174017,6 +174049,8 @@ teracandela
 teracandelas
 teracoulomb
 teracoulombs
+teraelectronvolt
+teraelectronvolts
 terafarad
 terafarads
 teraflop
@@ -196310,6 +196344,8 @@ yoctocandela
 yoctocandelas
 yoctocoulomb
 yoctocoulombs
+yoctoelectronvolt
+yoctoelectronvolts
 yoctofarad
 yoctofarads
 yoctogram
@@ -196403,6 +196439,8 @@ yottacandela
 yottacandelas
 yottacoulomb
 yottacoulombs
+yottaelectronvolt
+yottaelectronvolts
 yottafarad
 yottafarads
 yottagram
@@ -196598,6 +196636,8 @@ zeptocandela
 zeptocandelas
 zeptocoulomb
 zeptocoulombs
+zeptoelectronvolt
+zeptoelectronvolts
 zeptofarad
 zeptofarads
 zeptogram
@@ -196677,6 +196717,8 @@ zettacandela
 zettacandelas
 zettacoulomb
 zettacoulombs
+zettaelectronvolt
+zettaelectronvolts
 zettafarad
 zettafarads
 zettagram
