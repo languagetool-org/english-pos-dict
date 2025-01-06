@@ -61978,6 +61978,7 @@ complement=noun_U=all
 complement=verb=all
 complemental=JJ=all
 complementally=RB=all
+complementarily=RB=all
 complementariness=NN:U=all
 complementarity=noun_UN=all
 complementary=JJ=all
@@ -62082,6 +62083,7 @@ compounder=noun=all
 compounding=NN:UN=all
 comprehend=verb=all
 comprehended=JJ=all
+comprehendible=JJ=all
 comprehendingly=RB=all
 comprehensibility=noun_U=all
 comprehensible=JJ=all
@@ -62204,6 +62206,8 @@ conceivably=RB=all
 conceive=verb=all
 conceiver=noun=all
 concelebrant=noun=all
+concelebrate=verb=all
+concelebration=noun_UN=all
 concenter=verb=us
 concentrate=noun_UN=all
 concentrate=verb=all
@@ -62245,16 +62249,19 @@ concernment=noun=all
 concert=noun_UN=all
 concert=verb=all
 concertante=JJ=all
-concertante=concertante/NN,concertantes/NNS,concertanti/NNS=all
+concertante=noun=all
 concerted=JJ=all
 concertedly=RB=all
 concertedness=NN:U=all
 concertgoer=noun=all
+concertgoing=JJ=all
+concertgoing=NN:U=all
 concertina=noun=all
 concertina=verb=all
-concertino=concertino/NN,concertini/NNS,concertinos/NNS=all
+concertino [pl. concertinos,concertini]=noun=all
 concertize|concertise=verb=us,ca,gb|gb,au,nz,za
 concertmaster=noun=all
+concertmeister=noun=all
 concertmistress=noun=all
 concerto=concerto/NN,concerti/NNS,concertos/NNS=all
 concessible=JJ=all
@@ -64201,11 +64208,13 @@ counterguerilla=noun=all
 counterhegemonic=JJ=all
 counterhypothesis [pl. counterhypotheses]=noun=all
 counterimage=noun=all
+counterincentive=noun=all
 counterinstance=noun=all
 counterinsurgency=noun=all
 counterinsurgent=JJ=all
 counterinsurgent=noun=all
 counterintelligence=noun_UN=all
+counterinterpretation=noun_UN=all
 counterintuitive=JJ=all
 counterintuitively=RB=all
 counterirritant=JJ=all
@@ -64318,10 +64327,14 @@ countertrade=verb=all
 countertrend=noun=all
 countervail=verb=all
 countervailing=JJ=all
+countervalue=JJ=all
 counterview=noun=all
 counterviolence=noun=all
+counterweigh=verb=all
 counterweight=noun=all
+counterweight=verb=all
 counterweighted=JJ=all
+counterword=noun=all
 counterworld=noun=all
 countess=noun=all
 counting=NN:UN=all
@@ -65046,6 +65059,7 @@ cross-fade=verb=all
 cross-feed=NN:UN=all
 cross-fertilization|cross-fertilisation=noun_UN=us,ca,gb|gb,au,nz,za
 cross-functional=JJ=all
+cross-generational=JJ=all
 cross-grain=JJ=all
 cross-grained=JJ=all
 cross-handed=RB=all
@@ -65903,7 +65917,12 @@ cyberstalking=NN:U=all
 cyberterrorism=NN:U=all
 cyberterrorist=noun=all
 cyberthreat=noun=all
+cybervigilante=noun=all
+cybervulnerability=noun=all
 cyberwar=noun_UN=all
+cyberwarfare=NN:U=all
+cyberwarrior=noun=all
+cyberweapon=noun=all
 cyborg=noun=all
 cycad=noun=all
 cycadaceous=JJ=all
@@ -142361,7 +142380,7 @@ tumidly=RB=all
 tumidness=NN:U=all
 tummy=noun=all
 tumoral=JJ=all
-tumorigenesis=tumorigenesis/NN,tumorigeneses/NNS=all
+tumorigenesis [pl. tumorigeneses]=noun=all
 tumorigenic=JJ=all
 tumorigenicity=noun_UN=all
 tumorlike=JJ=all
@@ -142376,7 +142395,7 @@ tumult=noun_UN=all
 tumultuous=JJ=all
 tumultuously=RB=all
 tumultuousness=NN:U=all
-tumulus=tumulus/NN,tumuli/NNS,tumuluses/NNS=all
+tumulus [pl. tumuli]=noun=all
 tun=noun=all
 tuna=tuna/NN,tuna/NNS,tunas/NNS=all
 tunableness=NN:U=all
