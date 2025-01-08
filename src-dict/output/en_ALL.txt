@@ -48760,6 +48760,8 @@ attocandela
 attocandelas
 attocoulomb
 attocoulombs
+attoelectronvolt
+attoelectronvolts
 attofarad
 attofarads
 attogram
@@ -60096,6 +60098,8 @@ centicandela
 centicandelas
 centicoulomb
 centicoulombs
+centielectronvolt
+centielectronvolts
 centifarad
 centifarads
 centigrade
@@ -65235,6 +65239,7 @@ complected
 complement
 complemental
 complementally
+complementarily
 complementariness
 complementarities
 complementarity
@@ -65381,6 +65386,7 @@ compounding
 compounds
 comprehend
 comprehended
+comprehendible
 comprehending
 comprehendingly
 comprehends
@@ -65549,6 +65555,12 @@ conceives
 conceiving
 concelebrant
 concelebrants
+concelebrate
+concelebrated
+concelebrates
+concelebrating
+concelebration
+concelebrations
 concentrate
 concentrated
 concentrates
@@ -65594,12 +65606,12 @@ concerns
 concert
 concertante
 concertantes
-concertanti
 concerted
 concertedly
 concertedness
 concertgoer
 concertgoers
+concertgoing
 concerti
 concertina
 concertinaed
@@ -65611,6 +65623,8 @@ concertino
 concertinos
 concertmaster
 concertmasters
+concertmeister
+concertmeisters
 concertmistress
 concertmistresses
 concerto
@@ -68450,6 +68464,8 @@ counterhypotheses
 counterhypothesis
 counterimage
 counterimages
+counterincentive
+counterincentives
 countering
 counterinstance
 counterinstances
@@ -68459,6 +68475,8 @@ counterinsurgent
 counterinsurgents
 counterintelligence
 counterintelligences
+counterinterpretation
+counterinterpretations
 counterintuitive
 counterintuitively
 counterirritant
@@ -68684,13 +68702,21 @@ countervail
 countervailed
 countervailing
 countervails
+countervalue
 counterview
 counterviews
 counterviolence
 counterviolences
+counterweigh
+counterweighed
+counterweighing
+counterweighs
 counterweight
 counterweighted
+counterweighting
 counterweights
+counterword
+counterwords
 counterworld
 counterworlds
 countess
@@ -69749,6 +69775,7 @@ cross-fades
 cross-fading
 cross-feed
 cross-functional
+cross-generational
 cross-grain
 cross-grained
 cross-handed
@@ -70976,8 +71003,17 @@ cyberterrorist
 cyberterrorists
 cyberthreat
 cyberthreats
+cybervigilante
+cybervigilantes
+cybervulnerabilities
+cybervulnerability
 cyberwar
+cyberwarfare
+cyberwarrior
+cyberwarriors
 cyberwars
+cyberweapon
+cyberweapons
 cyborg
 cyborgs
 cycad
@@ -72109,6 +72145,8 @@ decades
 decades-long
 decadeslong
 decadrachm
+decaelectronvolt
+decaelectronvolts
 decaf
 decafarad
 decafarads
@@ -72311,6 +72349,8 @@ deciduate
 deciduous
 deciduously
 deciduousness
+decielectronvolt
+decielectronvolts
 decifarad
 decifarads
 decigram
@@ -80911,6 +80951,8 @@ electronica
 electronically
 electronics
 electrons
+electronvolt
+electronvolts
 electroosmoses
 electroosmosis
 electroosmotic
@@ -84329,6 +84371,8 @@ exactness
 exactor
 exactors
 exacts
+exaelectronvolt
+exaelectronvolts
 exafarad
 exafarads
 exaggerate
@@ -86982,6 +87026,8 @@ femtocandelas
 femtochemistry
 femtocoulomb
 femtocoulombs
+femtoelectronvolt
+femtoelectronvolts
 femtofarad
 femtofarads
 femtogram
@@ -93329,6 +93375,8 @@ gigacandela
 gigacandelas
 gigacoulomb
 gigacoulombs
+gigaelectronvolt
+gigaelectronvolts
 gigafactories
 gigafactory
 gigafarad
@@ -98152,6 +98200,8 @@ hectocotyli
 hectocotylus
 hectocoulomb
 hectocoulombs
+hectoelectronvolt
+hectoelectronvolts
 hectofarad
 hectofarads
 hectogram
@@ -103962,6 +104012,7 @@ inaptly
 inaptness
 inarguable
 inarguably
+inarticulable
 inarticulacies
 inarticulacy
 inarticulate
@@ -110298,6 +110349,8 @@ kilocoulomb
 kilocoulombs
 kilocycle
 kilocycles
+kiloelectronvolt
+kiloelectronvolts
 kilofarad
 kilofarads
 kilogram
@@ -117544,6 +117597,8 @@ megadonors
 megadont
 megadose
 megadoses
+megaelectronvolt
+megaelectronvolts
 megafarad
 megafarads
 megafauna
@@ -118850,6 +118905,8 @@ microeconomic
 microeconomics
 microelectronic
 microelectronics
+microelectronvolt
+microelectronvolts
 microelectrophoreses
 microelectrophoresis
 microelectrophoretic
@@ -119520,6 +119577,8 @@ millicandela
 millicandelas
 millicoulomb
 millicoulombs
+millielectronvolt
+millielectronvolts
 millifarad
 millifarads
 millifold
@@ -123432,6 +123491,8 @@ nanocoulombs
 nanodot
 nanodots
 nanoelectronic
+nanoelectronvolt
+nanoelectronvolts
 nanofarad
 nanofarads
 nanogram
@@ -136833,6 +136894,8 @@ petacandela
 petacandelas
 petacoulomb
 petacoulombs
+petaelectronvolt
+petaelectronvolts
 petafarad
 petafarads
 petagram
@@ -137753,6 +137816,7 @@ phycologies
 phycologist
 phycologists
 phycology
+phygital
 phyla
 phylacteric
 phylacterical
@@ -138007,6 +138071,8 @@ picocandelas
 picocoulomb
 picocoulombs
 picocurie
+picoelectronvolt
+picoelectronvolts
 picofarad
 picofarads
 picogram
@@ -174015,6 +174081,8 @@ teracandela
 teracandelas
 teracoulomb
 teracoulombs
+teraelectronvolt
+teraelectronvolts
 terafarad
 terafarads
 teraflop
@@ -178969,7 +179037,6 @@ tumultuous
 tumultuously
 tumultuousness
 tumulus
-tumuluses
 tun
 tuna
 tunableness
@@ -196308,6 +196375,8 @@ yoctocandela
 yoctocandelas
 yoctocoulomb
 yoctocoulombs
+yoctoelectronvolt
+yoctoelectronvolts
 yoctofarad
 yoctofarads
 yoctogram
@@ -196401,6 +196470,8 @@ yottacandela
 yottacandelas
 yottacoulomb
 yottacoulombs
+yottaelectronvolt
+yottaelectronvolts
 yottafarad
 yottafarads
 yottagram
@@ -196596,6 +196667,8 @@ zeptocandela
 zeptocandelas
 zeptocoulomb
 zeptocoulombs
+zeptoelectronvolt
+zeptoelectronvolts
 zeptofarad
 zeptofarads
 zeptogram
@@ -196675,6 +196748,8 @@ zettacandela
 zettacandelas
 zettacoulomb
 zettacoulombs
+zettaelectronvolt
+zettaelectronvolts
 zettafarad
 zettafarads
 zettagram

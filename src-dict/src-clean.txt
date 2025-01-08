@@ -15616,6 +15616,7 @@ Fábio=NNP=all
 Félix=NNP=all
 Fürth=NNP=all
 G-Eazy=NNP=all
+G-man=G-man/NNP,G-men/NNPS=all
 G-string=NNP=all
 G-suit=NNP=all
 G0=untagged=all
@@ -20286,8 +20287,8 @@ Irenepark=NNP=za # South Africa, placename?
 Ireton=NNP=all
 Irina=NNP=all
 Iris=NNP=all
-Irish=JJ=all
 Irish=Irish/NN:U,Irish/NNP,Irish/NNPS=all
+Irish=JJ=all
 Irisher=Irisher/NNP,Irishers/NNPS=all
 Irishism=Irishism/NNP,Irishisms/NNPS=all
 Irishly=RB=all
@@ -20711,11 +20712,11 @@ Jagannath=NNP=all
 Jagatai=NNP=all
 Jagataic=JJ=all
 Jagellonian=JJ=all
-Jagiello=Jagiello/NNP,Jagiellos/NNPS=all
 Jagersfontein=NNP=za # South Africa, placename?
 Jagersrust=NNP=za # South Africa, placename?
 Jaggard=NNP=all
 Jagger=NNP=all
+Jagiello=Jagiello/NNP,Jagiellos/NNPS=all
 Jagiellonian=JJ=all
 Jagtershof=NNP=za # South Africa, placename?
 Jahangir=NNP=all
@@ -38846,6 +38847,7 @@ T-Systems=NNP=all
 T-bone=noun=all
 T-bone=verb=all
 T-junction=NNP=all
+T-man [pl. T-men]=noun=us-large
 T-shirt=NNP=all
 T-shirted=JJ=all
 T10=untagged=all
@@ -50849,6 +50851,7 @@ attoampere=noun=all
 attobecquerel=noun=all
 attocandela=noun=all
 attocoulomb=noun=all
+attoelectronvolt=noun=all
 attofarad=noun=all
 attogram|attogramme=noun=all|au,ca,gb,nz,za
 attogray=noun=all
@@ -54557,7 +54560,6 @@ blouselike=JJ=all
 blousily=RB=all
 blouson=noun=all
 blow [blows;blew,blowed;blowed,blown;blowing]=verb=all
-blow=noun=all
 blow-by-blow=JJ=all
 blow-dry=verb=all
 blow-dryer=noun=all
@@ -58456,6 +58458,7 @@ centiampere=noun=all
 centibecquerel=noun=all
 centicandela=noun=all
 centicoulomb=noun=all
+centielectronvolt=noun=all
 centifarad=noun=all
 centigrade=JJ=all
 centigrade=NN=all
@@ -61975,6 +61978,7 @@ complement=noun_U=all
 complement=verb=all
 complemental=JJ=all
 complementally=RB=all
+complementarily=RB=all
 complementariness=NN:U=all
 complementarity=noun_UN=all
 complementary=JJ=all
@@ -62079,6 +62083,7 @@ compounder=noun=all
 compounding=NN:UN=all
 comprehend=verb=all
 comprehended=JJ=all
+comprehendible=JJ=all
 comprehendingly=RB=all
 comprehensibility=noun_U=all
 comprehensible=JJ=all
@@ -62201,6 +62206,8 @@ conceivably=RB=all
 conceive=verb=all
 conceiver=noun=all
 concelebrant=noun=all
+concelebrate=verb=all
+concelebration=noun_UN=all
 concenter=verb=us
 concentrate=noun_UN=all
 concentrate=verb=all
@@ -62242,16 +62249,19 @@ concernment=noun=all
 concert=noun_UN=all
 concert=verb=all
 concertante=JJ=all
-concertante=concertante/NN,concertantes/NNS,concertanti/NNS=all
+concertante=noun=all
 concerted=JJ=all
 concertedly=RB=all
 concertedness=NN:U=all
 concertgoer=noun=all
+concertgoing=JJ=all
+concertgoing=NN:U=all
 concertina=noun=all
 concertina=verb=all
-concertino=concertino/NN,concertini/NNS,concertinos/NNS=all
+concertino [pl. concertinos,concertini]=noun=all
 concertize|concertise=verb=us,ca,gb|gb,au,nz,za
 concertmaster=noun=all
+concertmeister=noun=all
 concertmistress=noun=all
 concerto=concerto/NN,concerti/NNS,concertos/NNS=all
 concessible=JJ=all
@@ -64198,11 +64208,13 @@ counterguerilla=noun=all
 counterhegemonic=JJ=all
 counterhypothesis [pl. counterhypotheses]=noun=all
 counterimage=noun=all
+counterincentive=noun=all
 counterinstance=noun=all
 counterinsurgency=noun=all
 counterinsurgent=JJ=all
 counterinsurgent=noun=all
 counterintelligence=noun_UN=all
+counterinterpretation=noun_UN=all
 counterintuitive=JJ=all
 counterintuitively=RB=all
 counterirritant=JJ=all
@@ -64315,10 +64327,14 @@ countertrade=verb=all
 countertrend=noun=all
 countervail=verb=all
 countervailing=JJ=all
+countervalue=JJ=all
 counterview=noun=all
 counterviolence=noun=all
+counterweigh=verb=all
 counterweight=noun=all
+counterweight=verb=all
 counterweighted=JJ=all
+counterword=noun=all
 counterworld=noun=all
 countess=noun=all
 counting=NN:UN=all
@@ -65043,6 +65059,7 @@ cross-fade=verb=all
 cross-feed=NN:UN=all
 cross-fertilization|cross-fertilisation=noun_UN=us,ca,gb|gb,au,nz,za
 cross-functional=JJ=all
+cross-generational=JJ=all
 cross-grain=JJ=all
 cross-grained=JJ=all
 cross-handed=RB=all
@@ -65900,7 +65917,12 @@ cyberstalking=NN:U=all
 cyberterrorism=NN:U=all
 cyberterrorist=noun=all
 cyberthreat=noun=all
+cybervigilante=noun=all
+cybervulnerability=noun=all
 cyberwar=noun_UN=all
+cyberwarfare=NN:U=all
+cyberwarrior=noun=all
+cyberweapon=noun=all
 cyborg=noun=all
 cycad=noun=all
 cycadaceous=JJ=all
@@ -66653,6 +66675,7 @@ decadently=RB=all
 decades-long=JJ=all
 decadeslong=JJ=all
 decadrachm=NN=all
+decaelectronvolt=noun=all
 decaf=noun_UN=all
 decafarad=noun=all
 decaff=noun_UN=all
@@ -66793,6 +66816,7 @@ deciduate=JJ=all
 deciduous=JJ=all
 deciduously=RB=all
 deciduousness=NN:U=all
+decielectronvolt=noun=all
 decifarad=noun=all
 decigram|decigramme=noun=all|au,ca,gb,nz,za
 decigray=noun=all
@@ -72661,6 +72685,7 @@ electronic=noun=all
 electronica=NN:U=all
 electronically=RB=all
 electronics=NN:U=all
+electronvolt=noun=all
 electroosmosis [pl. electroosmoses]=noun_U=all
 electroosmotic=JJ=all
 electroosmotically=RB=all
@@ -74961,6 +74986,7 @@ exactly=RB=all
 exactly=UH=all
 exactness=NN:U=all
 exactor=noun=all
+exaelectronvolt=noun=all
 exafarad=noun=all
 exaggerate=verb=all
 exaggerated=JJ=all
@@ -76837,6 +76863,7 @@ femtobecquerel=noun=all
 femtocandela=noun=all
 femtochemistry=NN:U=all
 femtocoulomb=noun=all
+femtoelectronvolt=noun=all
 femtofarad=noun=all
 femtogram|femtogramme=noun=all|au,ca,gb,nz,za
 femtogray=noun=all
@@ -77553,8 +77580,8 @@ fisc=noun=all
 fiscal=JJ=all
 fiscal=noun=all
 fiscally=RB=all
-fish-bellied=JJ=all
 fish [pl. fish, fishes]=noun_UN=all # all fish/zero-plural anima terms should be like this
+fish-bellied=JJ=all
 fish=verb=all
 fishable=JJ=all
 fishbowl=noun=all
@@ -78202,6 +78229,7 @@ flow=noun_UN=all
 flow=verb=all
 flowable=JJ=all
 flowchart=noun=all
+flower-of-Jove [pl. flowers-ofJove]=noun=all
 flower=noun=all
 flower=verb=all
 flowerbed=noun=all
@@ -78216,7 +78244,6 @@ flowerless=JJ=all
 flowerlessness=NN:U=all
 flowerlike=JJ=all
 flowerpot=noun=all
-flower-of-Jove [pl. flowers-ofJove]=noun=all
 flowery=flowery/JJ,flowerier/JJR,floweriest/JJS=all
 flowing=JJ=all
 flowing=NN:UN=all
@@ -80100,7 +80127,6 @@ féerie=noun=all
 fête=noun=all
 fête=verb=all
 führer=noun=all
-G-man=G-man/NNP,G-men/NNPS=all
 g=abbreviation=all
 gRPC=NNP=all
 gab=noun_U=all
@@ -81190,6 +81216,7 @@ gigabit=noun=all
 gigabyte=noun=all
 gigacandela=noun=all
 gigacoulomb=noun=all
+gigaelectronvolt=noun=all
 gigafactory=noun=all
 gigafarad=noun=all
 gigagram|gigagramme=noun=all|au,ca,gb,nz,za
@@ -84502,6 +84529,7 @@ hectobecquerel=noun=all
 hectocandela=noun=all
 hectocotylus=hectocotylus/NN,hectocotyli/NNS=all
 hectocoulomb=noun=all
+hectoelectronvolt=noun=all
 hectofarad=noun=all
 hectogram|hectogramme=noun=all|au,ca,gb,nz,za
 hectograph=noun=all
@@ -88779,6 +88807,7 @@ inaptly=RB=all
 inaptness=NN:U=all
 inarguable=JJ=all
 inarguably=RB=all
+inarticulable=JJ=all
 inarticulacy=noun=all
 inarticulate=JJ=all
 inarticulate=noun=all
@@ -93350,6 +93379,7 @@ kilocalorie=noun=all
 kilocandela=noun=all
 kilocoulomb=noun=all
 kilocycle=noun=all
+kiloelectronvolt=noun=all
 kilofarad=noun=all
 kilogram-meter|kilogram-metre=noun=us|au,ca,gb,nz,za
 kilogram|kilogramme=noun=all|au,ca,gb,nz,za
@@ -98388,6 +98418,7 @@ megadeath=noun=all
 megadonor=noun=all
 megadont=JJ=all
 megadose=noun=all
+megaelectronvolt=noun=all
 megafarad=noun=all
 megafauna=megafauna/NN,megafauna/NNS,megafaunae/NNS,megafaunas/NNS=all
 megafaunal=JJ=all
@@ -99313,6 +99344,7 @@ microeconomics=NN:U=all
 microelectronic=JJ=all
 microelectronic=noun=all
 microelectronics=NN:U=all
+microelectronvolt=noun=all
 microelectrophoresis [pl. microelectrophoreses]=noun=all
 microelectrophoretic=JJ=all
 microencapsulate=verb=all
@@ -99756,6 +99788,7 @@ millibecquerel=noun=all
 millibitcoin=noun=all
 millicandela=noun=all
 millicoulomb=noun=all
+millielectronvolt=noun=all
 millifarad=noun=all
 millifold=RB=all
 milligram|milligramme=noun=all|au,ca,gb,nz,za
@@ -102494,6 +102527,7 @@ nanocomposite=noun=all
 nanocoulomb=noun=all
 nanodot=noun=all
 nanoelectronic=JJ=all
+nanoelectronvolt=noun=all
 nanofarad=noun=all
 nanofiber|nanofibre=noun_UN=us|au,ca,gb,nz,za
 nanogram|nanogramme=noun=all|au,ca,gb,nz,za
@@ -103863,9 +103897,9 @@ non-Latin=JJ=all
 non-Latin=NNP=all
 non-Mexican=JJ=all
 non-Mexican=noun=all
-non-Muslim [pl. non-Muslims]=noun=all
 non-Moslem [pl. non-Moslems]=noun=all
 non-Muslem [pl. non-Muslems]=noun=none
+non-Muslim [pl. non-Muslims]=noun=all
 non-Negro [pl. non-Negroes]=noun=none
 non-Newtonian=JJ=all
 non-Portuguese=JJ=all
@@ -113159,6 +113193,7 @@ petabit=noun=all
 petabyte=noun=all
 petacandela=noun=all
 petacoulomb=noun=all
+petaelectronvolt=noun=all
 petafarad=noun=all
 petagram|petagramme=noun=all|au,ca,gb,nz,za
 petagray=noun=all
@@ -113797,6 +113832,7 @@ phugoid=JJ=all
 phycological=JJ=all
 phycologist=noun=all
 phycology=noun_UN=all
+phygital=JJ=all
 phyla=phyla/NN,phylae/NNS=all
 phylacteric=JJ=all
 phylacterical=JJ=all
@@ -113972,6 +114008,7 @@ picobecquerel=noun=all
 picocandela=noun=all
 picocoulomb=noun=all
 picocurie=NN=all
+picoelectronvolt=noun=all
 picofarad=noun=all
 picogram|picogramme=noun=all|au,ca,gb,nz,za
 picogray=noun=all
@@ -130281,8 +130318,8 @@ sixpenny=JJ=all
 sixpenny=noun=all
 sixteen-year-old=noun=all
 sixteen=CD=all
-sixteen=noun=all
 sixteen=JJ=all
+sixteen=noun=all
 sixteenfold=JJ=all
 sixteenfold=RB=all
 sixteenpenny=JJ=all
@@ -137465,8 +137502,8 @@ syncopate=verb=all
 syncopated=JJ=all
 syncopation=noun_U=all
 syncopator=noun=all
-syncopic=JJ=all
 syncope=noun_U=all
+syncopic=JJ=all
 syncretic=JJ=all
 syncretism=noun_UN=all
 syncretist=noun=all
@@ -137621,7 +137658,6 @@ systolic=JJ=all
 syzygial=JJ=all
 syzygy=noun=all
 séance=noun=all
-T-man [pl. T-men]=noun=us-large
 t=abbreviation=all
 tRNA=tRNA/NN,tRNA/NNP,tRNAs/NNS=all
 ta-da=UH=all
@@ -138760,6 +138796,7 @@ terabit=noun=all
 terabyte=noun=all
 teracandela=noun=all
 teracoulomb=noun=all
+teraelectronvolt=noun=all
 terafarad=noun=all
 teraflop=noun=all
 teragram|teragramme=noun=all|au,ca,gb,nz,za
@@ -142345,7 +142382,7 @@ tumidly=RB=all
 tumidness=NN:U=all
 tummy=noun=all
 tumoral=JJ=all
-tumorigenesis=tumorigenesis/NN,tumorigeneses/NNS=all
+tumorigenesis [pl. tumorigeneses]=noun=all
 tumorigenic=JJ=all
 tumorigenicity=noun_UN=all
 tumorlike=JJ=all
@@ -142360,7 +142397,7 @@ tumult=noun_UN=all
 tumultuous=JJ=all
 tumultuously=RB=all
 tumultuousness=NN:U=all
-tumulus=tumulus/NN,tumuli/NNS,tumuluses/NNS=all
+tumulus [pl. tumuli]=noun=all
 tun=noun=all
 tuna=tuna/NN,tuna/NNS,tunas/NNS=all
 tunableness=NN:U=all
@@ -155886,8 +155923,8 @@ whiting=noun_UN=all
 whitish=JJ=all
 whitishness=NN:U=all
 whitlow=noun=all
-whittle=verb=all
 whittle=noun=all
+whittle=verb=all
 whittler=noun=all
 whittling=JJ=all
 whittling=noun_UN=all
@@ -157151,6 +157188,7 @@ yoctoampere=noun=all
 yoctobecquerel=noun=all
 yoctocandela=noun=all
 yoctocoulomb=noun=all
+yoctoelectronvolt=noun=all
 yoctofarad=noun=all
 yoctogram|yoctogramme=noun=all|au,ca,gb,nz,za
 yoctogray=noun=all
@@ -157209,6 +157247,7 @@ yottabecquerel=noun=all
 yottabit=noun=all
 yottacandela=noun=all
 yottacoulomb=noun=all
+yottaelectronvolt=noun=all
 yottafarad=noun=all
 yottagram|yottagramme=noun=all|au,ca,gb,nz,za
 yottagray=noun=all
@@ -157336,6 +157375,7 @@ zeptoampere=noun=all
 zeptobecquerel=noun=all
 zeptocandela=noun=all
 zeptocoulomb=noun=all
+zeptoelectronvolt=noun=all
 zeptofarad=noun=all
 zeptogram|zeptogramme=noun=all|au,ca,gb,nz,za
 zeptogray=noun=all
@@ -157385,6 +157425,7 @@ zettabit=noun=all
 zettabyte=noun=all
 zettacandela=noun=all
 zettacoulomb=noun=all
+zettaelectronvolt=noun=all
 zettafarad=noun=all
 zettagram|zettagramme=noun=all|au,ca,gb,nz,za
 zettagray=noun=all
