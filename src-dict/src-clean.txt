@@ -52731,7 +52731,7 @@ bedazzlement=noun_U=all
 bedazzlingly=RB=all
 bedbug=noun=all
 bedchamber=noun=all
-bedclothes=bedclothes/NN,bedclothes/NNS=all
+bedclothes=NNS=all
 beddable=JJ=all
 bedder=noun=all
 bedding=noun_U=all
@@ -54917,7 +54917,7 @@ bonhomous=JJ=all
 boniface=noun=all
 boniness=NN:U=all
 boning=noun_UN=all
-bonito=bonito/NN,bonito/NNS,bonitoes/NNS,bonitos/NNS=all
+bonito [pl. bonito,bonitoes,bonitos]=noun_UN=all # fish
 bonjour=UH=all
 bonk=noun=all
 bonk=verb=all
@@ -61187,7 +61187,7 @@ cohesionless=JJ=all
 cohesive=JJ=all
 cohesively=RB=all
 cohesiveness=NN:U=all
-coho=coho/NN,coho/NNS,cohos/NNS=all
+coho [pl. coho, cohos]=noun_UN=all # fish
 cohomological=JJ=all
 cohomology=noun_UN=all
 cohort=noun=all
@@ -78180,7 +78180,7 @@ flounce=noun=all
 flounce=verb=all
 flouncing=noun_UN=all
 flouncy=flouncy/JJ,flouncier/JJR,flounciest/JJS=all
-flounder=flounder/NN,flounder/NNS,flounders/NNS=all
+flounder [pl. flounder,flounders]=noun_UN=all # fish
 flounder=verb=all
 flounderingly=RB=all
 flour-dusted=JJ=all
@@ -82804,7 +82804,7 @@ group=noun=all
 group=verb=all
 groupable=JJ=all
 grouped=JJ=all
-grouper=grouper/NN,grouper/NNS,groupers/NNS=all
+grouper [pl. grouper,groupers]=noun_UN=all # fish
 groupie=noun=all
 grouping=noun_UN=all
 groupoid=noun=all
@@ -82813,7 +82813,8 @@ groupware=noun_U=all
 groupwide=JJ=all
 groupwise=JJ=all
 grouse=JJ=all
-grouse=grouse/NN,grouse/NNS,grouses/NNS=all
+grouse [pl. grouse,grouses]=noun_UN=all # bird
+grouse=noun=all # a cause for complaint
 grouse=verb=all
 grouseless=JJ=all
 grouselike=JJ=all
@@ -83328,7 +83329,7 @@ hacktivist=noun=all
 hackwork=noun_U=all
 hacky=hacky/JJ,hackier/JJR,hackiest/JJS=all
 hadal=JJ=all
-haddock=haddock/NN,haddock/NNS,haddocks/NNS=all
+haddock [pl. haddock,haddocks]=noun_UN=all
 hadith=hadith/NN,hadith/NNS,hadiths/NNS=all
 hadn't=contraction=all
 hadron=noun=all
@@ -83443,7 +83444,8 @@ hajj=hajj/NN,hajjes/NNS=all
 hajji=noun=all
 hajjis=hajjis/NN,hajjes/NNS=all
 hakama=hakama/NN,hakama/NNS=all
-hake=hake/NN,hake/NNS,hakes/NNS=all
+hake [pl. hake,hakes]=noun_UN=all # fish
+hake=noun=all # hook
 hakim=noun=all
 halachic=JJ=all
 halal=JJ=all
@@ -83547,7 +83549,7 @@ halfway=RB=all
 halfwit=noun=all
 halfwittedly=RB=all
 halfwittedness=NN:U=all
-halibut=halibut/NN,halibut/NNS,halibuts/NNS=all
+halibut [pl. halibut, halibuts]=noun=all
 halide=noun_U=all
 haling=haling/NN:UN,haling/NNS=all
 halite=noun_U=all
@@ -83939,7 +83941,7 @@ hardwood=JJ=all
 hardwood=noun_U=all
 hardworking=JJ=all
 hardy=hardy/JJ,hardier/JJR,hardiest/JJS=all
-hare=hare/NN,hare/NNS,hares/NNS=all
+hare [pl. hare,hares]=noun_UN=all
 hare=verb=all
 harebell=noun=all
 harebrained=JJ=all
@@ -84026,7 +84028,7 @@ harsh=harsh/JJ,harsher/JJR,harshest/JJS=all
 harshen=verb=all
 harshly=RB=all
 harshness=NN:U=all
-hart=hart/NN,hart/NNS,harts/NNS=all
+hart [pl. hart,harts]=noun_UN=all
 hartal=noun=all
 hartebeest=noun=all
 hartshorn=noun=all
@@ -85042,7 +85044,7 @@ herpetological=JJ=all
 herpetologically=RB=all
 herpetologist=noun=all
 herpetology=noun_U=all
-herring=herring/NN,herring/NNS,herrings/NNS=all
+herring [pl. herring,herrings]=noun_UN=all
 herringbone=noun_U=all
 herringbone=verb=all
 herringlike=JJ=all
@@ -85484,7 +85486,7 @@ hilum=hilum/NN,hila/NNS=all
 himation=noun_UN=all
 himself=PRP=all
 hind=hind/JJ,hinder/JJR=all
-hind=hind/NN,hind/NNS,hinds/NNS=all
+hind [pl. hind,hinds]=noun_UN=all
 hindbrain=noun=all
 hinder=verb=all
 hinderer=noun=all
@@ -85547,7 +85549,7 @@ hiragana=noun=all
 hircine=JJ=all
 hire=noun_UN=all
 hire=verb=all
-hireling=hireling/NN,hireling/NNS,hirelings/NNS=all
+hireling=noun=all
 hirer=noun=all
 hiring=noun_UN=all
 hirsute=JJ=all
@@ -156452,7 +156454,7 @@ wombed=JJ=all
 womblike=JJ=all
 womenfolk=womenfolk/NN,womenfolk/NNS,womenfolks/NNS=all
 won't=contraction=all
-won=won/NN,won/NNS=all
+won=won/NN,won/NNS=all # Korean currency
 wonder=noun_UN=all
 wonder=verb=all
 wonderful=JJ=all
