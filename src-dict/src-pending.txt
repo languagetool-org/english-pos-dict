@@ -22661,7 +22661,6 @@ Heslington=UNTAGGED=gb
 Hespera=NNP=none
 Hespere=NNP=none
 Hesperians=UNTAGGED=gb
-Hesperid=Hesperid/NNP,Hesperides/NNPS=none
 Hesperiphona=NNP=none
 Hesperis=NNP=none
 Hesperornis=NNP=none
@@ -34194,7 +34193,6 @@ Mompus=NNP=none
 Mon-Khmer=JJ=none
 Mon-Khmer=NNP=none
 Monaca=NNP=none
-Monacan=Monacan/NNP,Monacans/NNPS=au,ca,us
 Monachorum=UNTAGGED=gb
 Monafo=NNP=none
 Monagan=NNP=none
@@ -49944,16 +49942,10 @@ Tranent=UNTAGGED=gb
 Tranmere=UNTAGGED=gb,nz,za
 Tranquada=NNP=none
 Tranquillity=NNP=none
-Trans-Jordan=NNP=none
-TransJordan=NNP=none
 Transandinomys=UNTAGGED=gb
 Transcaucasian=Transcaucasian/NNP,Transcaucasians/NNPS=us-large
 Transcendentalism=Transcendentalism/NNP,Transcendentalisms/NNPS=us-large
 Transcendentalist=UNTAGGED=us-large
-Transdanubian=UNTAGGED=all
-Transifex=UNTAGGED=gb
-Transjordan=UNTAGGED=gb
-Transjordanian=Transjordanian/NNP,Transjordanians/NNPS=none
 Transkeian=Transkeian/NNP,Transkeians/NNPS=none
 TransparaGov=UNTAGGED=all
 Transportation=NNP=none
@@ -55596,7 +55588,6 @@ activewearisable=UNTAGGED=gb
 activewears=UNTAGGED=all
 activin=UNTAGGED=gb
 activins=UNTAGGED=gb
-actomyosin=noun_U=us-large
 acton=noun=none
 actressy=UNTAGGED=gb
 actualism=NN:UN=none
@@ -73529,8 +73520,6 @@ crickle-crackle=UNTAGGED=gb
 crickle=UNTAGGED=gb
 crickling=UNTAGGED=gb
 cricoarytaenoid=UNTAGGED=gb
-cricoarytenoid=UNTAGGED=gb
-cricoarytenoids=UNTAGGED=gb
 cricoidal=UNTAGGED=gb
 crim=UNTAGGED=us-large
 crimed=UNTAGGED=gb,nz,za
@@ -82002,7 +81991,6 @@ enteropathy=noun_U=none
 enteropneust=noun=gb
 enterorrhexis=NN=none
 enterotoxemia=NN:U=none
-enteroviral=UNTAGGED=gb
 enterozoan=JJ=none
 enterozoan=NN=none
 enterprised=UNTAGGED=gb
@@ -85442,7 +85430,6 @@ flowage=noun=us-large
 flowback=noun=none
 flowcharting=noun=gb,nz,za
 flower-de-luce=NN=none
-flower-of-Jove=NNP=none
 flower-of-an-hour=NN=none
 flower-pecker=NN=none
 flowerage=noun=us-large
@@ -96389,9 +96376,6 @@ indefinability=noun_UN=us-large
 indefinity=NN:UN=none
 indehiscence=noun=gb
 indeliberation=NN:UN=none
-indemnitee=NN=none
-indemnitor=NN=none
-indemonstrability=noun_UN=none
 indene=noun_U=us-large
 indenter=noun=gb,nz,za
 indentor=noun=gb
@@ -96780,7 +96764,6 @@ ingraftment=NN=none
 ingravescence=NN=gb
 ingrian=NN=none
 inground=UNTAGGED=all
-ingroup=noun=us-large
 inguinally=UNTAGGED=gb
 ingulf=UNTAGGED=us-large
 ingulfment=NN=none
@@ -100394,8 +100377,6 @@ lackaday=UH=us-large
 lackaday=noun=us-large
 lacker=NN=us-large
 lackerer=NN=none
-lackeyed=UNTAGGED=gb,nz,za
-lackeying=UNTAGGED=gb,nz,za
 lackland=noun=none
 laconical=JJ=none
 laconicum=NN=none
@@ -104435,7 +104416,6 @@ mechanochemistryible=UNTAGGED=gb
 mechanomorphic=JJ=none
 mechanomorphically=RB=none
 mechanomorphism=NN:UN=none
-mechanoreceptive=UNTAGGED=all
 mechanotherapist=noun=none
 mechanotherapy=noun=us-large
 mechas=UNTAGGED=gb
@@ -107923,7 +107903,6 @@ multimember=UNTAGGED=us
 multimillennial=UNTAGGED=us
 multimillionairess=UNTAGGED=us
 multimineral=UNTAGGED=gb
-multimodality=UNTAGGED=gb
 multimodally=UNTAGGED=gb
 multimode=UNTAGGED=gb,us
 multimorph=UNTAGGED=gb
@@ -108703,7 +108682,6 @@ naiadales=NN=none
 naias=NN=none
 naik=noun=none
 naiki=NN=none
-nail-biting=NN:UN=gb,nz,za
 nail-sick=JJ=none
 nailbitingly=RB=none
 nailbrush=noun=au,ca,nz,us,za
@@ -110240,12 +110218,10 @@ non-Mongolian=JJ=none
 non-Mongolian=NNP=none
 non-Mormon=JJ=none
 non-Mormon=NNP=none
-non-Moslem=JJ=none
 non-Muhammadan=JJ=none
 non-Muhammadan=NNP=none
 non-Muhammedan=JJ=none
 non-Muhammedan=NNP=none
-non-Muslem=JJ=none
 non-Negritic=JJ=none
 non-Nicene=JJ=none
 non-Nordic=JJ=none
@@ -117108,7 +117084,6 @@ otiosity=noun_UN=gb
 oto=NN=none
 otoganglion=NN=none
 otohemineurasthenia=NN=none
-otolaryngologic=UNTAGGED=gb
 otolithic=UNTAGGED=gb
 otologic=UNTAGGED=all
 otoneurasthenia=NN=none
@@ -117161,7 +117136,6 @@ oustiti=noun=none
 out-and-outer=NN=none
 out-basket=NN=none
 out-country=NN:UN=none
-out-group=NN=gb
 out-migration=NN:UN=none
 out-of-court=UNTAGGED=gb,nz,za
 out-of-dateness=NN=none
@@ -117198,14 +117172,12 @@ outeyed=JJ=none
 outflanker=NN=none
 outflatter=UNTAGGED=us-large
 outfling=noun=none
-outflux=NN=gb
 outfoot=UNTAGGED=gb,us-large
 outgate=noun=none
 outgeneralling=outgeneralling/NN,outgeneralling/NNS=gb
 outgiving=noun=none
 outgoer=noun=none
 outgrip=UNTAGGED=gb,nz,za
-outgroup=noun=none
 outguard=noun=us-large
 outhaul=noun=us-large
 outhauler=noun=none
@@ -123114,7 +123086,6 @@ plicateness=noun=none
 plicatoperipatus=NN=none
 plicature=noun=none
 plie=NN=none
-plier=UNTAGGED=us-large
 plimsol=noun=none
 plimsole=noun=none
 pling=noun=none
@@ -123540,7 +123511,6 @@ polarographisable=UNTAGGED=gb
 polarographiser=UNTAGGED=gb
 polarographisers=UNTAGGED=gb
 polarographs=UNTAGGED=gb
-polarography=noun_U=gb,nz,za
 polarographyible=UNTAGGED=gb
 polarographyry=UNTAGGED=gb
 polaron=noun=gb
@@ -129285,7 +129255,6 @@ pyrogallate=NN=us-large
 pyrogen=noun=us-large
 pyrogenicity=noun=gb
 pyrognostic=noun=none
-pyrographer=noun=none
 pyrola=noun=none
 pyrolaceae=NN=none
 pyrolater=noun=none
@@ -132171,7 +132140,6 @@ reinfuse=UNTAGGED=us-large
 reinfusion=NN=us-large
 reinjection=noun_UN=gb
 reinjury=noun=none
-reinnervation=noun_UN=gb
 reinquiry=NN=none
 reinsman=reinsman/NN,reinsmen/NNS=none
 reinspection=noun_UN=gb
@@ -137782,8 +137750,6 @@ serotherapist=NN=none
 serotherapy=NN=us-large
 serotinal=JJ=none
 serotinous=UNTAGGED=gb
-serotype=UNTAGGED=gb
-serotypes=UNTAGGED=gb
 serotypic=UNTAGGED=gb
 serousness=NN=none
 serovar=noun=none
@@ -140569,7 +140535,6 @@ spaeing=noun=gb
 spaeman=spaeman/NN,spaemen/NNS=none
 spaer=noun=none
 spaes=UNTAGGED=gb
-spaetzle=noun=us-large
 spaewife=spaewife/NN,spaewives/NNS=gb
 spaghettiably=UNTAGGED=gb
 spaghettially=UNTAGGED=gb
@@ -142545,7 +142510,6 @@ strobilomyces=NN=none
 strobilus=strobilus/NN,strobili/NNS=gb
 stroboradiograph=NN=none
 stroboscopically=UNTAGGED=gb
-stroboscopy=NN=none
 strobotron=noun=us-large
 stroker=noun=gb
 strokesman=strokesman/NN,strokesmen/NNS=none

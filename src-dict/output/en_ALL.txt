@@ -6048,6 +6048,7 @@ Brandon
 Brandt
 Brandy
 Brandywine
+Brangelina
 Brannon
 Bransford
 Branson
@@ -6065,6 +6066,7 @@ Bratislava
 Brattain
 Brattleboro
 Bratton
+Braudelian
 Braun
 Braunschweig
 Braunstein
@@ -11290,10 +11292,6 @@ Dobruja
 Dobrzynski
 Dobson
 Docebo
-Docetism
-Docetisms
-Docetist
-Docetists
 Dockery
 Doctor
 Doctorow
@@ -12404,6 +12402,10 @@ Eberhardt
 Eberhart
 Eberle
 Ebert
+Ebionism
+Ebionisms
+Ebionite
+Ebionites
 Eblis
 Ebner
 Ebola
@@ -15698,6 +15700,7 @@ Glomma
 Gloom
 Gloria
 Glorias
+Glossopteris
 Gloucester
 Gloucestershire
 Glover
@@ -20324,6 +20327,7 @@ Kantian
 Kantianism
 Kantianisms
 Kantians
+Kanto
 Kantor
 Kantrowitz
 Kanye
@@ -23786,6 +23790,7 @@ Majid
 Major
 Majorca
 Majorcan
+Majorcans
 Majunga
 Majuro
 Makalu
@@ -25505,6 +25510,8 @@ Momus
 Momuses
 Mon
 Mona
+Monacan
+Monacans
 Monaco
 Monaghan
 Monash
@@ -30049,6 +30056,7 @@ Psalms
 Psalter
 Psalters
 Pseudo-Isidorian
+Pseudomonadota
 Pskov
 Psyche
 Psyduck
@@ -36463,11 +36471,15 @@ Tranquill
 TransUnion
 Transcaucasia
 Transcom
+Transdanubian
 Transdniestria
 TransferWise
 Transferwise
 Transfiguration
 Transfigurations
+Transifex
+Transjordan
+Transjordanian
 Transkei
 Transnistria
 Transsmart
@@ -37276,6 +37288,7 @@ UUP
 UUS
 UUU
 UV
+UV-degradable
 UVA
 UVB
 UVC
@@ -38105,6 +38118,7 @@ Vishnu
 Visigoth
 Visigothic
 Visigoths
+VisionTek
 Vistaprint
 Vistaril
 Vistula
@@ -40335,6 +40349,7 @@ aboriginals
 aborigine
 aborigines
 abort
+abortable
 aborted
 aborticide
 aborticides
@@ -40695,6 +40710,8 @@ accelerates
 accelerating
 acceleratingly
 acceleration
+accelerationist
+accelerationists
 accelerations
 accelerative
 accelerator
@@ -41399,6 +41416,8 @@ activistic
 activists
 activities
 activity
+actomyosin
+actomyosins
 actor
 actor-proof
 actorly
@@ -49172,6 +49191,10 @@ auto-tune
 auto-tuned
 auto-tunes
 auto-tuning
+autoaccept
+autoaccepted
+autoaccepting
+autoaccepts
 autoanalyses
 autoanalysis
 autoantibodies
@@ -53254,6 +53277,8 @@ bionomical
 bionomically
 bionomics
 bioorganic
+bioorganometallic
+bioorganometallics
 biopharma
 biopharmaceutic
 biopharmaceutical
@@ -61120,6 +61145,7 @@ chemokines
 chemokineses
 chemokinesis
 chemokinetic
+chemolithotrophic
 chemonuclear
 chemopreventive
 chemoprophylactic
@@ -61893,6 +61919,7 @@ christening
 christenings
 christens
 chroma
+chromable
 chromas
 chromate
 chromates
@@ -63003,6 +63030,7 @@ click-clacking
 click-clacks
 click-through
 click-throughs
+clickability
 clickable
 clickbait
 clickbaits
@@ -63548,7 +63576,6 @@ co-morbidities
 co-morbidity
 co-official
 co-op
-co-operation
 co-operative
 co-operatively
 co-ops
@@ -64614,6 +64641,8 @@ comatose
 comatosely
 comatoseness
 comb
+comb-over
+comb-overs
 combat
 combat-ready
 combatant
@@ -64655,6 +64684,8 @@ combless
 comblessness
 combo
 combos
+combover
+combovers
 combs
 comburent
 combust
@@ -69283,6 +69314,7 @@ creakingly
 creaks
 creaky
 cream
+creamable
 creamed
 creamer
 creameries
@@ -69519,6 +69551,8 @@ cricketlike
 crickets
 cricking
 cricks
+cricoarytenoid
+cricoarytenoids
 cricoid
 cricoids
 cricopharyngeal
@@ -70456,6 +70490,7 @@ culture
 cultured
 cultureless
 cultures
+culturewise
 culturing
 cultus
 cultuses
@@ -74815,9 +74850,11 @@ developer-friendly
 developers
 developing
 development
+development-wise
 developmental
 developmentally
 developments
+developmentwise
 develops
 deviable
 deviance
@@ -77706,6 +77743,9 @@ dobras
 dobutamine
 doc
 docetaxel
+docetism
+docetist
+docetists
 docile
 docilely
 dociler
@@ -82563,6 +82603,7 @@ enterotomies
 enterotomy
 enterotoxin
 enterotoxins
+enteroviral
 enterovirus
 enteroviruses
 enterprise
@@ -83710,6 +83751,7 @@ estaminets
 estate
 estates
 esteem
+esteemable
 esteemed
 esteeming
 esteems
@@ -100954,6 +100996,7 @@ hove
 hovel
 hovels
 hover
+hoverability
 hoverboard
 hoverboards
 hovercraft
@@ -102038,6 +102081,12 @@ hyperresponsiveness
 hyperromantic
 hypersalivation
 hypersalivations
+hyperscale
+hyperscaled
+hyperscaler
+hyperscalers
+hyperscales
+hyperscaling
 hyperscholastic
 hyperscrupulous
 hypersensitive
@@ -103891,6 +103940,7 @@ in-ear
 in-flight
 in-ground
 in-group
+in-groups
 in-home
 in-hospital
 in-house
@@ -103969,6 +104019,7 @@ inanely
 inaneness
 inaner
 inanest
+inanimacy
 inanimate
 inanimately
 inanimateness
@@ -104666,8 +104717,11 @@ indemnifiers
 indemnifies
 indemnify
 indemnifying
+indemnitee
 indemnities
+indemnitor
 indemnity
+indemonstrability
 indemonstrable
 indemonstrableness
 indemonstrably
@@ -105228,7 +105282,6 @@ infatuates
 infatuating
 infatuation
 infatuations
-infeasibilities
 infeasibility
 infeasible
 infeasibleness
@@ -105627,6 +105680,8 @@ ingressions
 ingressive
 ingressiveness
 ingressives
+ingroup
+ingroups
 ingrowing
 ingrown
 ingrownness
@@ -111090,6 +111145,8 @@ lackadaisically
 lackadaisicalness
 lacked
 lackey
+lackeyed
+lackeying
 lackeys
 lacking
 lacks
@@ -117378,9 +117435,13 @@ mechanists
 mechanochemically
 mechanoreception
 mechanoreceptions
+mechanoreceptive
 mechanoreceptor
 mechanoreceptors
+mechanoresponsive
 mechanosensory
+mechanostat
+mechanostats
 mechanotransduction
 mechanotransductions
 mechatronic
@@ -120001,9 +120062,13 @@ misallocation
 misallocations
 misanalyses
 misanalysis
+misandric
 misandries
+misandrism
 misandrist
+misandristic
 misandrists
+misandrous
 misandry
 misanthrope
 misanthropes
@@ -122543,6 +122608,8 @@ multimillionaire
 multimillionaires
 multimillions
 multimodal
+multimodalities
+multimodality
 multimodel
 multimodular
 multimodule
@@ -123392,6 +123459,9 @@ naiant
 naif
 naifs
 nail
+nail-biter
+nail-biters
+nail-biting
 nailed
 nailer
 nailers
@@ -125402,6 +125472,7 @@ non-disjunctional
 non-dominant
 non-durable
 non-educationally
+non-enveloped
 non-essential
 non-established
 non-executive
@@ -125480,6 +125551,7 @@ non-specific
 non-steroidal
 non-stop
 non-strategic
+non-sublicensable
 non-techie
 non-techies
 non-technically
@@ -126379,6 +126451,7 @@ nonentity
 nonentomological
 nonenumerated
 nonenumerative
+nonenveloped
 nonenvious
 nonenvironmental
 nonenvironmentally
@@ -127228,6 +127301,7 @@ nonpolar
 nonpolarizing
 nonpolemic
 nonpolemical
+nonpolio
 nonpolitically
 nonponderous
 nonpopular
@@ -127714,6 +127788,7 @@ nonstructured
 nonstudied
 nonstudious
 nonsubjective
+nonsublicensable
 nonsubmerged
 nonsubmersible
 nonsubmissive
@@ -130591,6 +130666,10 @@ organisms
 organist
 organists
 organoarsenic
+organocatalyses
+organocatalysis
+organocatalyst
+organocatalysts
 organochlorine
 organochlorines
 organogeneses
@@ -131040,7 +131119,9 @@ otitis
 otocyst
 otocystic
 otocysts
+otolaryngologic
 otolaryngological
+otolaryngologically
 otolaryngologies
 otolaryngologist
 otolaryngologists
@@ -131052,6 +131133,9 @@ otologies
 otologist
 otologists
 otology
+otorhinolaryngologic
+otorhinolaryngological
+otorhinolaryngologically
 otorhinolaryngologies
 otorhinolaryngologist
 otorhinolaryngologists
@@ -131090,6 +131174,8 @@ ousting
 ousts
 out
 out-and-out
+out-group
+out-groups
 out-of-bounds
 out-of-date
 out-of-door
@@ -131236,6 +131322,7 @@ outflanks
 outflow
 outflowing
 outflows
+outflux
 outfought
 outfox
 outfoxed
@@ -131252,6 +131339,8 @@ outgoingness
 outgoings
 outgone
 outgrew
+outgroup
+outgroups
 outgrow
 outgrowing
 outgrown
@@ -132007,6 +132096,12 @@ overemphases
 overemphasis
 overemphatic
 overemphatically
+overenforce
+overenforced
+overenforcement
+overenforcements
+overenforces
+overenforcing
 overengineer
 overengineered
 overengineering
@@ -133223,6 +133318,7 @@ oxpecker
 oxpeckers
 oxtail
 oxtails
+oxy-degradable
 oxyacetylene
 oxyacetylenes
 oxyacid
@@ -139916,6 +140012,9 @@ polariscopes
 polarities
 polarity
 polarographic
+polarographically
+polarographies
+polarography
 polars
 polder
 polders
@@ -143749,6 +143848,8 @@ prioresses
 priories
 priorities
 priority
+priority-wise
+prioritywise
 priorly
 priors
 priorship
@@ -144716,6 +144817,10 @@ proprioceptors
 props
 proptoses
 proptosis
+propulse
+propulsed
+propulses
+propulsing
 propulsion
 propulsions
 propulsive
@@ -146476,8 +146581,15 @@ pyrogallol
 pyrogallols
 pyrogenic
 pyrogenous
+pyrograph
+pyrographed
+pyrographer
+pyrographers
 pyrographic
+pyrographically
 pyrographies
+pyrographing
+pyrographs
 pyrography
 pyroligneous
 pyrological
@@ -147046,6 +147158,8 @@ questionless
 questionnaire
 questionnaires
 questions
+questline
+questlines
 questorial
 quests
 quettaampere
@@ -151102,6 +151216,12 @@ reinitiated
 reinitiates
 reinitiating
 reinless
+reinnervate
+reinnervated
+reinnervates
+reinnervating
+reinnervation
+reinnervations
 reinoculate
 reinoculated
 reinoculates
@@ -159804,6 +159924,8 @@ serotonergic
 serotonin
 serotoninergic
 serotonins
+serotype
+serotypes
 serous
 serpent
 serpentiform
@@ -161630,6 +161752,8 @@ signifyings
 signing
 signings
 signless
+signoff
+signoffs
 signor
 signora
 signoras
@@ -164885,6 +165009,8 @@ spadices
 spading
 spadix
 spadixes
+spaetzle
+spaetzles
 spaghetti
 spaghettification
 spaghettis
@@ -165025,6 +165151,7 @@ spatially
 spatio-temporal
 spatio-temporally
 spatiotemporal
+spatiotemporally
 spats
 spatted
 spatter
@@ -166301,6 +166428,8 @@ spyings
 spymaster
 spymasters
 spyware
+spätzle
+spätzles
 sq
 squab
 squabble
@@ -168214,7 +168343,6 @@ stratovolcanos
 stratum
 stratums
 stratus
-stratuses
 straw
 strawberries
 strawberry
@@ -168502,6 +168630,7 @@ stroboscope
 stroboscopes
 stroboscopic
 stroboscopical
+stroboscopy
 strode
 stroganoff
 stroganoffs
@@ -168584,12 +168713,14 @@ structurally
 structuration
 structurations
 structure
+structure-wise
 structured
 structureless
 structurelessness
 structurer
 structurers
 structures
+structurewise
 structuring
 strudel
 strudels
@@ -169363,6 +169494,7 @@ subletting
 sublettings
 sublevel
 sublevels
+sublicensable
 sublicense
 sublicensed
 sublicensee
@@ -169629,6 +169761,8 @@ subprimary
 subprime
 subproblem
 subproblems
+subprocessor
+subprocessors
 subprofessional
 subprofessionals
 subprofitable
@@ -174628,6 +174762,7 @@ thematic
 thematically
 thematics
 theme
+themeable
 themed
 themeless
 themes
@@ -175469,6 +175604,7 @@ thymuses
 thyristor
 thyristors
 thyroarytenoid
+thyroarytenoids
 thyroid
 thyroidal
 thyroidectomies
@@ -175476,6 +175612,8 @@ thyroidectomy
 thyroiditis
 thyroiditises
 thyroids
+thyroplasties
+thyroplasty
 thyrotoxic
 thyrotoxicoses
 thyrotoxicosis
@@ -175717,9 +175855,11 @@ timelessness
 timelier
 timeliest
 timeline
+timeline-wise
 timelines
 timeliness
 timelinesses
+timelinewise
 timely
 timeous
 timeously
@@ -177222,6 +177362,7 @@ transannular
 transarctic
 transatlantic
 transatlantically
+transatlanticism
 transatlanticist
 transatlanticists
 transaudient
@@ -177493,6 +177634,7 @@ transmigrations
 transmigrator
 transmigrators
 transmigratory
+transmisandry
 transmissibilities
 transmissibility
 transmissible
