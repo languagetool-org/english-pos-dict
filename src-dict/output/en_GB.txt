@@ -5958,6 +5958,10 @@ gigalitre
 gigalitres
 gigametre
 gigametres
+gipsies
+gipsy
+gipsyish
+gipsylike
 glamorisation
 glamorisations
 glamorise

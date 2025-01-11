@@ -81351,8 +81351,6 @@ ginormous=JJ=all
 ginseng=noun_U=all
 giocoso=JJ=all # Italian
 giocoso=RB=all # Italian
-gipsyish=JJ=all
-gipsylike=JJ=all
 giraffe=noun=all
 girandole=noun=all
 girasol=noun=all
@@ -82878,8 +82876,8 @@ groupthink=noun=all
 groupware=noun_U=all
 groupwide=JJ=all
 groupwise=JJ=all
-grouse=JJ=all
 grouse [pl. grouse,grouses]=noun_UN=all # bird
+grouse=JJ=all
 grouse=noun=all # a cause for complaint
 grouse=verb=all
 grouseless=JJ=all
@@ -83301,10 +83299,10 @@ gypsiferous=JJ=all
 gypsophila=noun=all
 gypster=noun=all
 gypsum=noun_U=all
-gypsy=noun=all
 gypsyesque=JJ=all
-gypsyish=JJ=all
-gypsylike=JJ=all
+gypsyish|gipsyish=JJ=all|gb
+gypsylike|gipsylike=JJ=all|gb
+gypsy|gipsy=noun=all|gb
 gyral=JJ=all
 gyrally=RB=all
 gyrate=verb=all
@@ -85552,8 +85550,8 @@ hiltless=JJ=all
 hilum=hilum/NN,hila/NNS=all
 himation=noun_UN=all
 himself=PRP=all
-hind=hind/JJ,hinder/JJR=all
 hind [pl. hind,hinds]=noun_UN=all
+hind=hind/JJ,hinder/JJR=all
 hindbrain=noun=all
 hinder=verb=all
 hinderer=noun=all

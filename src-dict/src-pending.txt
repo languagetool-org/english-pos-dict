@@ -19708,7 +19708,6 @@ Gipps=NNP=none
 Gippsland=NNP=none
 Gipsies=NNPS=none
 Gipson=NNP=none
-Gipsy=Gipsy/NNP,Gipsies/NNPS=none
 Gipuzkoan=UNTAGGED=gb
 Giraffa=NNP=none
 Giraffidae=NNP=none
@@ -21103,8 +21102,6 @@ Gyor=NNP=none
 Gypaetus=NNP=none
 Gyps=NNP=none
 Gypsie=NNP=none
-Gypsies=NNPS=au,ca,us
-Gypsy=Gypsy/NNP,Gypsies/NNPS=au,ca,us
 Gyrinidae=NNP=none
 Gyro=Gyro/NNP,Gyros/NNPS=none
 Gytle=NNP=none
