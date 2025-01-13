@@ -56743,11 +56743,12 @@ buxom=buxom/JJ,buxomer/JJR,buxomest/JJS=all
 buxomly=RB=all
 buxomness=NN:U=all
 buy [buys;bought;bought;buying]=verb=all
+buy-out=noun=all
 buy=noun=all
 buyable=JJ=all
 buyback=noun=all
 buyer=noun=all
-buyout=buy-out/NN,buyout/NN,buy-outs/NNS,buyouts/NNS=all
+buyout=noun=all
 buzz [buzzes;buzzed;buzzed;buzzing]=verb=all
 buzz=buzz/NN,buzz/NN:UN,buzzes/NNS=all
 buzzard=noun=all
@@ -60899,6 +60900,7 @@ co-manager=noun=all
 co-morbidity=noun_UN=all
 co-official=JJ=all
 co-op=noun_U=all
+co-operative=JJ=all
 co-operatively=RB=all
 co-opt=verb=all
 co-optative=JJ=all
@@ -63646,7 +63648,7 @@ cooperage=noun_U=all
 cooperate=verb=all
 cooperation=noun_UN=all
 cooperationist=noun=all
-cooperative=co-operative/JJ,cooperative/JJ=all
+cooperative=JJ=all
 cooperative=noun=all
 cooperatively=RB=all
 cooperativeness=NN:U=all
@@ -76243,7 +76245,7 @@ fagging=noun_UN=all
 faggot=noun=all
 faggoting=noun_U=all
 faience=noun_UN=all
-fail-safe=fail-safe/JJ,failsafe/JJ=all
+fail-safe=JJ=all
 fail-safe=noun=all
 fail=noun_U=all
 fail=verb=all
@@ -76254,6 +76256,7 @@ failingness=NN:U=all
 faille=noun_U=all
 failover=noun_UN=all
 failsafe=JJ=all
+failsafe=noun=all
 failure=noun_UN=all
 fain=RB=all
 fain=fain/JJ,fainer/JJR,fainest/JJS=all
@@ -94083,7 +94086,7 @@ ladler=noun=all
 ladling=ladling/NN:UN,ladling/NNS=all
 lady-in-waiting [pl. ladies-in-waiting]=noun=all
 lady-killer=JJ=all
-lady-killer=lady-killer/NN,lady-killers/NNS,ladykiller/NNS=all
+lady-killer=noun=all
 lady-killing=JJ=all
 lady=noun=all
 ladybird=noun=all
@@ -94857,15 +94860,16 @@ left-handed=JJ=all
 left-handed=RB=all
 left-handedly=RB=all
 left-handedness=NN:U=all
-left-hander=left-hander/NN,left-handers/NNS,lefthanders/NNS=all
+left-hander=noun=all
 left-of-center|left-of-centre=JJ=us|au,ca,gb,nz,za
-left-wing=left-wing/JJ,leftwing/JJ=all
+left-wing=JJ=all
 left-winger=noun=all
 left-wingy=RB=all
 left=RB=all
 left=left/JJ,lefter/JJR,leftest/JJS=all
 left=noun_UN=all
 lefthand=JJ=all
+lefthander=noun=all
 leftish=JJ=all
 leftism=noun_U=all
 leftist=JJ=all
@@ -94878,6 +94882,7 @@ leftward=RB=all
 leftward=noun=all
 leftwardly=RB=all
 leftwards=RB=all
+leftwing=JJ=all
 lefty=noun=all
 leg=noun_UN=all
 leg=verb=all
@@ -96255,7 +96260,7 @@ long-haired=JJ=all
 long-headed=JJ=all
 long-lasting=JJ=all
 long-legged=JJ=all
-long-lived=long-lived/JJ,longlived/JJ=all
+long-lived=JJ=all
 long-livedness=NN:U=all
 long-necked=JJ=all
 long-overdue=JJ=all
@@ -96320,6 +96325,7 @@ longitude=longitude/NN,longitude/NN:U,longitudes/NNS=all
 longitudinal=JJ=all
 longitudinally=RB=all
 longline=noun=all
+longlived=JJ=all
 longly=RB=all
 longness=NN:U=all
 longship=noun=all
@@ -97481,7 +97487,7 @@ man-at-arms [pl. men-at-arms]=noun=all
 man-eater=noun=all
 man-eating=JJ=all
 man-hour=noun=all
-man-made=man-made/JJ,manmade/JJ=all
+man-made=JJ=all
 man-of-war [pl. men-of-war]=noun=all
 man-powered=JJ=all
 man-size=JJ=all
@@ -97634,6 +97640,7 @@ manlikeness=NN:U=all
 manliness=NN:U=all
 manly=RB=all
 manly=manly/JJ,manlier/JJR,manliest/JJS=all
+manmade=JJ=all
 manna=noun_U=all
 manned=JJ=all
 mannequin=noun=all
@@ -100009,13 +100016,14 @@ mind-bending=JJ=all
 mind-bendingly=RB=all
 mind-blowing=JJ=all
 mind-boggler=noun=all
-mind-boggling=mind-boggling/JJ,mindboggling/JJ=all
+mind-boggling=JJ=all
 mind-bogglingly=RB=all
 mind-expanding=JJ=all
 mind-numbing=JJ=all
 mind-numbingly=RB=all
 mind=noun_UN=all
 mind=verb=all
+mindboggling=JJ=all
 mindbogglingly=RB=all
 minded=JJ=all
 mindedly=RB=all
@@ -102769,7 +102777,7 @@ narrator=noun=all
 narrow-fisted=JJ=all
 narrow-gage=JJ=all
 narrow-gauge=JJ=all
-narrow-minded=narrow-minded/JJ,narrowminded/JJ=all
+narrow-minded=JJ=all
 narrow-mindedly=RB=all
 narrow-mindedness=NN:U=all
 narrow=narrow/JJ,narrower/JJR,narrowest/JJS=all
@@ -102780,6 +102788,7 @@ narrowed=JJ=all
 narrowing=JJ=all
 narrowing=noun_UN=all
 narrowly=RB=all
+narrowminded=JJ=all
 narrowness=NN:U=all
 narthecal=JJ=all
 narthex=noun=all
@@ -107916,7 +107925,7 @@ off-piste=JJ=all
 off-piste=RB=all
 off-put [off-puts;off-put;off-put;off-putting]=verb=all
 off-put=JJ=all
-off-putting=off-putting/JJ,offputting/JJ=all
+off-putting=JJ=all
 off-ramp=noun=all
 off-road=JJ=all
 off-roader=noun=all
@@ -108007,6 +108016,7 @@ offload=noun=all
 offload=verb=all
 offpeak=JJ=all
 offprint=noun=all
+offputting=JJ=all
 offscreen=JJ=all
 offscreen=RB=all
 offseason=noun=all
@@ -108373,7 +108383,7 @@ one-to-one=noun=all
 one-track=JJ=all
 one-trillionth=NN:U=all
 one-up=JJ=all
-one-upmanship=one-upmanship/NN:U,one-upmanship/NN:UN,one-upmanships/NNS,oneupmanship/NNS=all
+one-upmanship=noun_UN=all
 one-vote=JJ=all
 one-way=JJ=all
 one-week=JJ=all
@@ -108397,6 +108407,7 @@ onerousness=NN:U=all
 oneself=PRP=all
 onesie=noun=all
 onetime=JJ=all
+oneupmanship=noun_UN=all
 ongoing=JJ=all
 ongoing=noun=all
 ongoingness=NN:U=all
@@ -124775,7 +124786,7 @@ right-down=RB=all
 right-hand=JJ=all
 right-handed=JJ=all
 right-handedness=NN:U=all
-right-hander=right-hander/NN,right-handers/NNS,righthanders/NNS=all
+right-hander=noun=all
 right-minded=JJ=all
 right-mindedly=RB=all
 right-mindedness=NN:U=all
@@ -124799,6 +124810,7 @@ rightfully=RB=all
 rightfulness=NN:U=all
 righthand=JJ=all
 righthanded=JJ=all
+righthander=noun=all
 righting=noun_UN=all
 rightish=JJ=all
 rightism=noun_U=all
@@ -130215,11 +130227,12 @@ simper=noun=all
 simper=verb=all
 simperingly=RB=all
 simple-hearted=JJ=all
-simple-minded=simple-minded/JJ,simpleminded/JJ=all
+simple-minded=JJ=all
 simple-mindedly=RB=all
 simple-mindedness=NN:U=all
 simple=NN=all
 simple=simple/JJ,simpler/JJR,simplest/JJS=all
+simpleminded=JJ=all
 simplemindedness=NN:U=all
 simpleness=NN:U=all
 simpler=noun=all
@@ -131167,7 +131180,7 @@ smackingly=RB=all
 small-bore=JJ=all
 small-business=JJ=all
 small-cap=JJ=all
-small-minded=small-minded/JJ,smallminded/JJ=all
+small-minded=JJ=all
 small-mindedly=RB=all
 small-mindedness=NN:U=all
 small-scale=JJ=all
@@ -131180,6 +131193,7 @@ smallage=noun=all
 smallholder=noun=all
 smallholding=noun=all
 smallish=JJ=all
+smallminded=JJ=all
 smallness=NN:U=all
 smallpox=noun_U=all
 smalt=smalt/NN,smalt/NN:U,smalts/NNS=all
@@ -131591,7 +131605,7 @@ snowsport=noun=all
 snowstorm=noun=all
 snowsuit=noun=all
 snowy=snowy/JJ,snowier/JJR,snowiest/JJS=all
-snub-nosed=snub-nosed/JJ,snubnosed/JJ=all
+snub-nosed=JJ=all
 snub=noun=all
 snub=snub/JJ,snubber/JJR=all
 snub=verb=all
@@ -131599,6 +131613,7 @@ snubbiness=NN:U=all
 snubbing=noun_UN=all
 snubbingly=RB=all
 snubness=NN:U=all
+snubnosed=JJ=all
 snuff-color|snuff-colour=noun=us|gb,ca,au,nz,za
 snuff=noun_UN=all
 snuff=snuff/JJ,snuffer/JJR=all
@@ -136453,7 +136468,7 @@ sunwise=JJ=all
 sunwise=RB=all
 sup=noun=all
 sup=verb=all
-super-duper=super-duper/JJ,superduper/JJ=all
+super-duper=JJ=all
 super-intelligent=JJ=all
 super-spreader=noun=all
 super-spreading=NN:U=all
@@ -136568,6 +136583,7 @@ superdifficult=JJ=all
 superdivision=noun=all
 superdoctor=noun=all
 superdubious=JJ=all
+superduper=JJ=all
 superearthly=RB=all
 supereducated=JJ=all
 supereducation=NN:U=all
@@ -137058,7 +137074,7 @@ surculose=JJ=all
 surd=JJ=all
 surd=noun=all
 sure-enough=JJ=all
-sure-fire=sure-fire/JJ,surefire/JJ=all
+sure-fire=JJ=all
 sure-footed=JJ=all
 sure-footedly=RB=all
 sure-footedness=NN:U=all
@@ -137066,6 +137082,7 @@ sure=PDT=all
 sure=RB=all
 sure=noun=all
 sure=sure/JJ,surer/JJR,surest/JJS=all
+surefire=JJ=all
 surefooted=JJ=all
 surefootedness=NN:U=all
 surely=RB=all
@@ -140121,7 +140138,7 @@ tie-dye=noun_UN=all
 tie-dye=verb=all
 tie-in=JJ=all
 tie-in=NN=all
-tie-up=tie-up/NN,tieups/NNS=all
+tie-up=noun=all
 tie=noun=all
 tieback=noun=all
 tiebreaker=noun=all
@@ -155182,8 +155199,8 @@ water-free=JJ=all
 water-laid=JJ=all
 water-repellent=JJ=all
 water-resistant=JJ=all
+water-ski=noun=all
 water-ski=verb=all
-water-ski=water-ski/NN,waterski/NNS,waterskis/NNS=all
 water-soluble=JJ=all
 water=noun_U=all
 water=verb=all
@@ -157300,7 +157317,7 @@ yelled=JJ=all
 yeller=noun=all
 yelling=JJ=all
 yelling=noun_UN=all
-yellow-bellied=yellow-bellied/JJ,yellowbellied/JJ=all
+yellow-bellied=JJ=all
 yellow-brown=JJ=all
 yellow-colored|yellow-coloured=JJ=us|gb,ca,au,nz,za
 yellow-green=JJ=all

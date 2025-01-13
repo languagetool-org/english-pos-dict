@@ -86153,6 +86153,7 @@ failover
 failovers
 fails
 failsafe
+failsafes
 failure
 failures
 fain
@@ -112451,6 +112452,7 @@ left-wingy
 lefter
 leftest
 lefthand
+lefthander
 lefthanders
 lefties
 leftish
@@ -130110,6 +130112,7 @@ onesie
 onesies
 onetime
 oneupmanship
+oneupmanships
 ongoing
 ongoingness
 ongoings
@@ -154424,6 +154427,7 @@ rightfully
 rightfulness
 righthand
 righthanded
+righthander
 righthanders
 righting
 rightings
@@ -175761,6 +175765,7 @@ tie-dyes
 tie-dying
 tie-in
 tie-up
+tie-ups
 tieback
 tiebacks
 tiebreaker
@@ -175774,7 +175779,6 @@ tiered
 tiering
 tiers
 ties
-tieups
 tiff
 tiffed
 tiffin
@@ -196476,7 +196480,6 @@ yellow
 yellow-bellied
 yellow-brown
 yellow-green
-yellowbellied
 yellowed
 yellower
 yellowest
