@@ -1865,6 +1865,7 @@ Afghani
 Afghanis
 Afghanistan
 Afghans
+Afonso
 Aframerican
 Afrasian
 Afric
@@ -1994,6 +1995,7 @@ Aileen
 Ailsa
 Ailton
 Aimee
+Aimer
 Ain
 Ainsley
 Ainsworth
@@ -2050,6 +2052,7 @@ Akkerman
 Akmal
 Akmolinsk
 Akron
+Akrotiri
 Akshay
 Aksum
 Akthar
@@ -2923,6 +2926,7 @@ Anápolis
 Aomori
 Aon
 Aorangi
+Aoyama
 Apache
 Apaches
 Apalachicola
@@ -3529,6 +3533,7 @@ Aubervilliers
 Aubrey
 Auburn
 Aubusson
+Auchan
 Auckland
 Aude
 Auden
@@ -3633,6 +3638,7 @@ Avalon
 Avalos
 Avalugg
 Avar
+Avarua
 Avaya
 Avebury
 Aveiro
@@ -3716,6 +3722,8 @@ Azelf
 Azerbaijan
 Azerbaijani
 Azerbaijanis
+Azeri
+Azeris
 Azikiwe
 Azilian
 Aziz
@@ -5058,6 +5066,7 @@ Beckstein
 Becky
 Becquerel
 Bed-Stuy
+Beddington
 Bede
 Bedelia
 Bedell
@@ -5298,6 +5307,7 @@ Berglund
 Bergman
 Bergmann
 Bergmite
+Bergoglio
 Bergson
 Bergsonian
 Bergstrom
@@ -5449,6 +5459,7 @@ Bhaskar
 Bhatia
 Bhatnagar
 Bhatpara
+Bhavani
 Bhavesh
 Bhavnagar
 Bhili
@@ -5881,6 +5892,7 @@ Bosniak
 Bosniaks
 Bosnian
 Bosnians
+Bosphorus
 Bosporan
 Bosporus
 Bossuet
@@ -5955,6 +5967,7 @@ Bowland
 Bowlby
 Bowles
 Bowman
+Bowser
 Boy
 Boyce
 Boyd
@@ -6138,6 +6151,8 @@ Brevard
 Brewer
 Brewster
 Brexit
+Brexiteer
+Brexiteers
 Breyer
 Brezhnev
 Brian
@@ -6357,6 +6372,7 @@ Brythonic
 Brzezinski
 Brønsted
 Brāhmaṇa
+Bs
 Bt
 Bt-containing
 Btu
@@ -6394,6 +6410,7 @@ Buddhas
 Buddhism
 Buddhisms
 Buddhist
+Buddhistic
 Buddhistical
 Buddhistically
 Buddhists
@@ -7962,6 +7979,7 @@ Cann
 Cannae
 Cannes
 Canning
+Cannington
 Cannizzaro
 Cannock
 Cannon
@@ -8161,6 +8179,7 @@ Carrefour
 Carrel
 Carrera
 Carrick
+Carrickfergus
 Carrie
 Carrigan
 Carrigtwohill
@@ -8774,6 +8793,7 @@ Chiclayo
 Chico
 Chicoloapan
 Chicopee
+Chicxulub
 Chief
 Chiefs
 Chiellini
@@ -8986,6 +9006,7 @@ Châtelet
 Châtillon-sur-Seine
 Chéticamp
 Ci
+Cialis
 Ciara
 Ciaran
 Cibber
@@ -9163,6 +9184,7 @@ Cline
 Clinique
 Clint
 Clinton
+Clintons
 Clio
 Clios
 Clisthenes
@@ -9369,6 +9391,7 @@ Comdt
 Comecon
 Comenius
 Comerica
+Comey
 Comfey
 Comines
 Cominform
@@ -10007,6 +10030,7 @@ Cynewulf
 Cynic
 Cynics
 Cynthia
+Cynthus
 Cyprian
 Cyprians
 Cyprinidae
@@ -10624,6 +10648,7 @@ Daedalian
 Daedalus
 Daegu
 Daenerys
+Daesh
 Daewoo
 Daffodil
 Dag
@@ -10631,6 +10656,8 @@ Dagan
 Dagda
 Dagenham
 Dagestan
+Dagestani
+Dagestanis
 Dagmar
 Dagon
 Daguerre
@@ -10662,6 +10689,7 @@ Dalian
 Daliyah
 Dallapiccola
 Dallas
+Dalloway
 Dalmatia
 Dalmatian
 Dalmatians
@@ -10935,6 +10963,7 @@ Deidre
 Deimos
 Deino
 Deinze
+Deiphobus
 Deirdre
 Dekalb
 Dekker
@@ -11744,6 +11773,7 @@ Dyophysite
 Dyophysitic
 Dyott
 Dysart
+Dysnomia
 Dyson
 Dzerzhinsk
 Dziemianowicz
@@ -12938,6 +12968,7 @@ Erinyes
 Erinys
 Eris
 Erises
+Eriskay
 Eritrea
 Eritrean
 Eritreans
@@ -13170,8 +13201,6 @@ Europol
 Europoort
 Eurorail
 Euros
-Euroscepticism
-Euroscepticisms
 Eurostar
 Eurostat
 Eurotunnel
@@ -13851,6 +13880,7 @@ Fahrenheit
 Fahrenheits
 Fahrvergnügen
 Fair
+Fairbairn
 Fairbanks
 Fairborn
 Fairchild
@@ -13871,6 +13901,8 @@ Faith
 Faiyum
 Faizabad
 Falange
+Falangist
+Falangists
 Falco
 Falernian
 Falernum
@@ -13905,6 +13937,7 @@ Fanti
 Faraday
 Farah
 Faramarz
+Farber
 Fareed
 Fareham
 Farewell
@@ -14124,6 +14157,7 @@ Fiji
 Fijian
 Fijians
 Fijis
+Filby
 Filho
 Filiberto
 Filip
@@ -15092,6 +15126,8 @@ Gaelic
 Gaelic-speaking
 Gaelle
 Gaels
+Gaeltacht
+Gaeltachts
 Gaeta
 Gagarin
 Gage
@@ -15135,6 +15171,7 @@ Galician
 Galicians
 Galilean
 Galileans
+Galilei
 Galileo
 Galindo
 Gall
@@ -15652,6 +15689,7 @@ Glarus
 Glaser
 Glasgow
 Glass
+Glassboro
 Glassdoor
 Glasser
 Glastonbury
@@ -15779,6 +15817,7 @@ Golconda
 Golcondas
 Gold
 Golda
+Goldbach
 Goldberg
 Goldblum
 Goldeen
@@ -15792,6 +15831,7 @@ Goldsboro
 Goldschmidt
 Goldsmith
 Goldstein
+Goldstone
 Goldsworthy
 Goldthorpe
 Golduck
@@ -15857,6 +15897,7 @@ Gorbals
 Gordian
 Gordie
 Gordillo
+Gordo
 Gordon
 Gordy
 Gore
@@ -16071,6 +16112,7 @@ Gretel
 Gretna
 Greuze
 Greville
+Grexit
 Grey
 Greyson
 Gridley
@@ -16169,6 +16211,7 @@ Guanabara
 Guanacaste
 Guanajuato
 Guangdong
+Guangxi
 Guangzhou
 Guantanamo
 Guantánamo
@@ -16934,6 +16977,7 @@ Harwell
 Harwich
 Harwood
 Haryana
+Harz
 Hasa
 Hasan
 Hasdrubal
@@ -16980,6 +17024,7 @@ Haudenosaunee
 Haugeland
 Haugen
 Haughton
+Haumea
 Haunter
 Hauptmann
 Hausa
@@ -17036,6 +17081,7 @@ Hayne
 Haynes
 Hays
 Haysville
+Hayter
 Hayton
 Hayward
 Haywood
@@ -17517,7 +17563,9 @@ Hippopotas
 Hipposideridae
 Hippowdon
 Hiram
+Hirayama
 Hirohito
+Hiroki
 Hiroshi
 Hiroshige
 Hiroshima
@@ -17672,6 +17720,7 @@ Holyhead
 Holyhill
 Holyoake
 Holyoke
+Holyrood
 Holzman
 Homburg
 Homburgs
@@ -18665,6 +18714,8 @@ Iapetus
 Iasi
 Ibadan
 Ibagué
+Iban
+Ibans
 Ibaraki
 Ibarra
 Iberia
@@ -18799,6 +18850,7 @@ Incaic
 Incan
 Incarnation
 Incas
+Incheon
 Inchon
 Incineroar
 Indeedee
@@ -19027,6 +19079,8 @@ Isfahan
 Ish-bosheth
 Ishaan
 Isherwood
+Ishiguro
+Ishikawa
 Ishmael
 Ishmaelite
 Ishmaelites
@@ -19459,6 +19513,7 @@ Janie
 Janina
 Janine
 Janis
+Janksy
 Janmashtami
 Janna
 Janos
@@ -19657,6 +19712,7 @@ Jerseys
 Jerusalem
 Jerusalemite
 Jervis
+Jerzy
 Jerónimo
 Jeshua
 Jesper
@@ -20319,6 +20375,7 @@ Kannada
 Kannapolis
 Kano
 Kanpur
+Kansai
 Kansan
 Kansas
 Kansu
@@ -20565,6 +20622,7 @@ Kennan
 Kennebec
 Kennebunk
 Kennedy
+Kennedys
 Kenner
 Kennesaw
 Kennet
@@ -20979,6 +21037,7 @@ Koreans
 Koreatown
 Korematsu
 Kornberg
+Korolev
 Koroseal
 Kortrijk
 Kory
@@ -21671,6 +21730,7 @@ Lakeville
 Lakewood
 Lakota
 Lakotas
+Lakshadweep
 Lakshmana
 Lakshmi
 Lala
@@ -22029,6 +22089,7 @@ Leibnitzian
 Leibniz
 Leibnizian
 Leibowitz
+Leica
 Leicester
 Leicesters
 Leicestershire
@@ -22384,6 +22445,7 @@ LinkedIn
 Linköping
 Linlithgow
 Linn
+Linnaean
 Linnaeus
 Linnean
 Linnell
@@ -22490,6 +22552,7 @@ Lochearn
 Lochinvar
 Locke
 Lockean
+Lockerbie
 Lockett
 Lockhart
 Lockheed
@@ -22845,6 +22908,7 @@ Luxembourger
 Luxembourgers
 Luxembourgian
 Luxembourgians
+Luxembourgish
 Luxemburger
 Luxemburgers
 Luxio
@@ -47860,6 +47924,8 @@ arytenoidal
 arytenoids
 arythmic
 as
+asana
+asanas
 asap
 asbestine
 asbestoid
@@ -48405,6 +48471,8 @@ astringes
 astringing
 astro-archaeology
 astrobiologies
+astrobiologist
+astrobiologists
 astrobiology
 astrochemist
 astrochemistries
@@ -54416,6 +54484,8 @@ bluebonnets
 bluebottle
 bluebottles
 blued
+bluefin
+bluefins
 bluefish
 bluefishes
 bluegill
@@ -56187,6 +56257,8 @@ briskness
 brisks
 brisses
 bristle
+bristlecone
+bristlecones
 bristled
 bristleless
 bristlelike
@@ -69371,6 +69443,7 @@ creaturehoods
 creatureliness
 creaturely
 creatures
+cred
 credal
 credence
 credences
@@ -82063,6 +82136,8 @@ endomembranes
 endometrial
 endometrioses
 endometriosis
+endometritis
+endometritises
 endometrium
 endometriums
 endomorph
@@ -84996,6 +85071,7 @@ exited
 exiting
 exitless
 exits
+exobiological
 exobiologies
 exobiologist
 exobiologists
@@ -90708,8 +90784,10 @@ freedman
 freedmen
 freedom
 freedoms
+freegan
 freeganism
 freeganisms
+freegans
 freehand
 freehanded
 freehandedly
@@ -99226,6 +99304,7 @@ hexose
 hexoses
 hexylic
 hey
+heya
 heyday
 heydays
 hgt
@@ -99259,6 +99338,8 @@ hiccupped
 hiccupping
 hiccups
 hick
+hickey
+hickeys
 hickories
 hickory
 hicks
@@ -107029,6 +107110,7 @@ interlinearly
 interlined
 interlines
 interlingual
+interlinguistics
 interlining
 interlinings
 interlink
@@ -193933,11 +194015,15 @@ weekly
 weeknight
 weeknights
 weeks
+ween
+weened
 weeness
 weenie
 weenier
 weenies
 weeniest
+weening
+weens
 weensier
 weensiest
 weensy

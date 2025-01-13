@@ -88269,7 +88269,6 @@ gippy=JJ=none
 gippy=noun=none
 gipseian=JJ=none
 gipsen=noun=none
-gipsy=noun=gb,nz,za
 gipsydom=NN=none
 gipsyesque=JJ=none
 gipsyhood=NN=none
