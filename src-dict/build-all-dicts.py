@@ -43,6 +43,7 @@ for file_path in ["./src-dict/src-clean.txt"]:  # ,"./src-dict/src-pending.txt"
                         if tag not in tags_to_avoid:
                             tagger_file.write(form + "\t" + lemma + "\t" + tag + "\n")
                         for variant in variants.split(","):
+                            variant = variant.strip()
                             # if variant == "all":
                             #  for myvariant in all_variants:
                             #    spelling_dicts[myvariant][form] = ""

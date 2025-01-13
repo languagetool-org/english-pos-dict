@@ -65,6 +65,12 @@ do
 	java -cp $lt_tools org.languagetool.tools.SpellDictionaryBuilder -i ./tmp/en_${variant}.txt  -freq ${freqlist} -info ${target_dir}/hunspell/en_${variant}.info -o ${target_dir}/hunspell/en_${variant}.dict
 done
 
+# Check if there are spaces inside output files
+if grep -q " " ./src-dict/output/* ; then
+    echo "Error: There are output files that contain some white space."
+    grep " " ./src-dict/output/*
+fi
+
 rm -rf tmp
 
 mvn install

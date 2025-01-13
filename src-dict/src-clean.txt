@@ -40792,7 +40792,6 @@ Tyneside=NNP=all
 Tynwald=NNP=all
 Tyoksvalley=NNP=za # South Africa, placename?
 Tyoksville=NNP=za # South Africa, placename?
-Type: Null=NNP=all
 TypeScript=NNP=all
 Typeform=NNP=all
 Typepad=NNP=all
