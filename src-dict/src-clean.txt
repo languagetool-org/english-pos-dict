@@ -149095,7 +149095,7 @@ unmythological=JJ=all
 unnagged=JJ=all
 unnagging=JJ=all
 unnaked=JJ=all
-unnamable|unnameable=JJ=all|au,ca,gb,za
+unnamable|unnameable=JJ=all|all
 unnamed=JJ=all
 unnapped=JJ=all
 unnarratable=JJ=all
