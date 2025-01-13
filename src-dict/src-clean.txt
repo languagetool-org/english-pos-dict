@@ -3138,7 +3138,7 @@ Applewhite=NNP=all
 Applin=NNP=all
 Appomattox=NNP=all
 Apr=NNP=all
-April=APRIL/NNP,April/NNP,Aprils/NNPS=all
+April=April/NNP,Aprils/NNPS=all
 Apuleius=NNP=all
 Apulia=NNP=all
 Apulian=Apulian/NNP,Apulians/NNPS=all
@@ -3724,7 +3724,7 @@ Augeas=NNP=all
 Auggie=NNP=all
 Augrabies=NNP=za # South Africa, placename?
 Augsburg=NNP=all
-August=AUGUST/NNP,August/NNP,Augusts/NNPS=all
+August=August/NNP,Augusts/NNPS=all
 Augusta=NNP=all
 Augustan=Augustan/NNP,Augustans/NNPS=all
 Augustan=JJ=all
@@ -8385,7 +8385,7 @@ Canaanite=Canaanite/NNP,Canaanites/NNPS=all
 Canaanitic=JJ=all
 Canaanitish=JJ=all
 Canad=NNP=all
-Canada=CANADA/NNP,Canada/NNP=all
+Canada=NNP=all
 Canadian=Canadian/NNP,Canadians/NNPS=all
 Canadian=JJ=all
 Canadianism=Canadianism/NNP,Canadianisms/NNPS=all
@@ -11478,7 +11478,7 @@ Decathlon=NNP=all
 Decatur=NNP=all
 Decca=NNP=all
 Deccan=NNP=all
-December=DECEMBER/NNP,December/NNP,Decembers/NNPS=all
+December=December/NNP,Decembers/NNPS=all
 Decius=NNP=all
 Decker=NNP=all
 Declan=NNP=all
@@ -14928,7 +14928,7 @@ Fearow=NNP=all
 Featherstone=NNP=all
 Feb=NNP=all
 Februaries=NNPS=all
-February=FEBRUARY/NNP,February/NNP,Februaries/NNPS,Februarys/NNPS=all
+February=February/NNP,Februaries/NNPS,Februarys/NNPS=all
 Fechner=NNP=all
 Fed=Fed/NNP,Feds/NNPS=all
 FedEx=NNP=all
@@ -15530,7 +15530,7 @@ Fri=NNP=all
 Fribourg=NNP=all
 Frick=NNP=all
 Frida=NNP=all
-Friday=FRIDAY/NNP,Friday/NNP,Fridays/NNPS=all
+Friday=Friday/NNP,Fridays/NNPS=all
 Fridays=RB=all
 Fridericus=NNP=all
 Fridley=NNP=all
@@ -20860,7 +20860,7 @@ Jansenpark=NNP=za # South Africa, placename?
 Jansenville=NNP=za # South Africa, placename?
 Janssen=NNP=all
 Januaries=NNPS=all
-January=JANUARY/NNP,January/NNP,Januaries/NNPS,Januarys/NNPS=all
+January=January/NNP,Januaries/NNPS,Januarys/NNPS=all
 Janus-faced=JJ=all
 Janus=NNP=all
 Janusz=NNP=all
@@ -21369,14 +21369,14 @@ Julissa=NNP=all
 Julius=NNP=all
 Julián=NNP=all
 Jullundur=NNP=all
-July=JULY/NNP,July/NNP,Julies/NNPS=all
+July=July/NNP,Julies/NNPS=all
 Jumanji=NNP=all
 Jumeirah=NNP=all
 Jumna=NNP=all
 Jumpluff=NNP=all
 Jun=NNP=all
 Jundiaí=NNP=all
-June=JUNE/NNP,June/NNP,Junes/NNPS=all
+June=June/NNP,Junes/NNPS=all
 Juneau=NNP=all
 Juneteenth=NNP=all
 Jung=NNP=all
@@ -26204,7 +26204,7 @@ Marcelle=NNP=all
 Marcello=NNP=all
 Marcellus=NNP=all
 Marcelo=NNP=all
-March=MARCH/NNP,March/NNP,Marches/NNPS=all
+March=March/NNP,Marches/NNPS=all
 Marchand=NNP=all
 Marches=NNP=all
 Marcheshvan=NNP=all
@@ -26712,7 +26712,7 @@ Maxine=NNP=all
 Maxtor=NNP=all
 Maxwell=NNP=all
 May-bird=noun=all
-May=MAY/NNP,May/NNP,Mays/NNPS=all
+May=May/NNP,Mays/NNPS=all
 Maya=Maya/NNP,Mayas/NNPS=all
 Mayaguez=NNP=all
 Mayakovski=NNP=all
@@ -28038,7 +28038,7 @@ Monck=NNP=all
 Monclova=NNP=all
 Moncton=NNP=all
 Mondale=NNP=all
-Monday=MONDAY/NNP,Monday/NNP,Mondays/NNPS=all
+Monday=Monday/NNP,Mondays/NNPS=all
 Mondays=RB=all
 Mondeo=NNP=all
 Mondeor=NNP=za # South Africa, placename?
@@ -30088,7 +30088,7 @@ Novak=NNP=all
 Novara=NNP=all
 Novartis=NNP=all
 Novato=NNP=all
-November=NOVEMBER/NNP,November/NNP,Novembers/NNPS=all
+November=November/NNP,Novembers/NNPS=all
 Novgorod=NNP=all
 Novi=NNP=all
 Novichok=NNP=all
@@ -30672,7 +30672,7 @@ Octavia=NNP=all
 Octavian=NNP=all
 Octavius=NNP=all
 Octillery=NNP=all
-October=OCTOBER/NNP,October/NNP,Octobers/NNPS=all
+October=October/NNP,Octobers/NNPS=all
 Octobrist=NNP=all
 Océane=NNP=all
 Oddfellow=NNP=all
@@ -35258,7 +35258,7 @@ Russ=Russ/NNP,Russes/NNPS=all
 Russel=NNP=all
 Russell=NNP=all
 Russellville=NNP=all
-Russia=RUSSIA/NNP,Russia/NNP=all
+Russia=NNP=all
 Russian-speaking=JJ=all
 Russian=JJ=all
 Russian=Russian/NN:U,Russian/NNP,Russians/NNPS=all
@@ -36533,7 +36533,7 @@ Satoshi=NNP=all
 Satsuma=Satsuma/NNP,Satsumas/NNPS=all
 Satterfield=NNP=all
 Satudarah=NNP=all
-Saturday=SATURDAY/NNP,Saturday/NNP,Saturdays/NNPS=all
+Saturday=Saturday/NNP,Saturdays/NNPS=all
 Saturdays=RB=all
 Saturn=NNP=all
 Saturnalia=Saturnalia/NNP,Saturnalias/NNPS=all
@@ -36997,7 +36997,7 @@ Sephora=NNP=all
 Sephukubje=NNP=za # South Africa, placename?
 Seplan=NNP=za # South Africa, placename?
 Sept=NNP=all
-September=SEPTEMBER/NNP,September/NNP,Septembers/NNPS=all
+September=September/NNP,Septembers/NNPS=all
 Septuagesima=Septuagesima/NNP,Septuagesimas/NNPS=all
 Septuagint=Septuagint/NNP,Septuagints/NNPS=all
 Septuagintal=JJ=all
@@ -38646,7 +38646,7 @@ Sunda=NNP=all
 Sundanese=Sundanese/NN:U,Sundanese/NNP=all
 Sunday-go-to-meeting=JJ=all
 Sunday=JJ=all
-Sunday=SUNDAY/NNP,Sunday/NNP,Sundays/NNPS=all
+Sunday=Sunday/NNP,Sundays/NNPS=all
 Sundaylike=JJ=all
 Sundays=RB=all
 Sundberg=NNP=all
@@ -40000,7 +40000,7 @@ Thurmond=NNP=all
 Thurmont=NNP=all
 Thurs=NNP=all
 Thursby=NNP=all
-Thursday=THURSDAY/NNP,Thursday/NNP,Thursdays/NNPS=all
+Thursday=Thursday/NNP,Thursdays/NNPS=all
 Thursdays=RB=all
 Thurston=NNP=all
 Thusang=NNP=za # South Africa, placename?
@@ -40633,7 +40633,7 @@ Tucuman=NNP=all
 Tudor=JJ=all
 Tudor=Tudor/NNP,Tudors/NNPS=all
 Tues=NNP=all
-Tuesday=TUESDAY/NNP,Tuesday/NNP,Tuesdays/NNPS=all
+Tuesday=Tuesday/NNP,Tuesdays/NNPS=all
 Tuesdays=RB=all
 Tugela=NNP=all
 Tuileries=NNP=all
@@ -42894,7 +42894,7 @@ Wedela=NNP=za # South Africa, placename?
 Wedgwood=JJ=all
 Wedgwood=Wedgwood/NNP,Wedgwoods/NNPS=all
 Wednesbury=NNP=all
-Wednesday=WEDNESDAY/NNP,Wednesday/NNP,Wednesdays/NNPS=all
+Wednesday=Wednesday/NNP,Wednesdays/NNPS=all
 Weebly=NNP=all
 Weedle=NNP=all
 Weedsucker=NNP=za # South Africa, placename?
