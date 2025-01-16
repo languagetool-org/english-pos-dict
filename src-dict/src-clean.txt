@@ -85893,7 +85893,7 @@ homegirl=noun=all
 homegrown=JJ=all
 homeland=noun=all
 homeless=JJ=all
-homeless=homeless/NN,homeless/NNS=all
+homeless=homeless/NN,homelesses/NNS=none # offensive
 homelessly=RB=all
 homelessness=NN:U=all
 homelike=JJ=all
@@ -126765,6 +126765,7 @@ schmancy=JJ=all # informal
 schmooze=verb=all
 schmoozer=noun=all # informal, mostly US
 schmuck=noun=all # informal, mostly US
+schnaps=schnaps/NN:UN,schnaps/NNS,schnapses/NNS=all
 schnapps=schnapps/NN:UN,schnapps/NNS,schnappses/NNS=all
 schnauzer=noun=all
 schnitzel=noun_UN=all
@@ -134492,7 +134493,7 @@ strap=noun_UN=all
 strap=verb=all
 straphanger=noun=all
 strapless=JJ=all
-strapless=strapless/NN,strapless/NNS,straplesses/NNS=all
+strapless=strapless/NN,straplesses/NNS=none # slang
 straplike=JJ=all
 strapped=JJ=all
 strapper=noun=all
@@ -142297,7 +142298,6 @@ tube-shaped=JJ=all
 tube=noun_UN=all
 tube=verb=all
 tubeless=JJ=all
-tubeless=tubeless/NN,tubeless/NNS=all
 tubelike=JJ=all
 tuber=noun=all
 tubercle=noun=all
@@ -152706,6 +152706,7 @@ unyielding=JJ=all
 unyieldingly=RB=all
 unyieldingness=NN:U=all
 unyoke=verb=all
+unyoung=JJ=all
 unyouthful=JJ=all
 unyouthfully=RB=all
 unyouthfulness=NN:U=all
@@ -156300,7 +156301,7 @@ wired=JJ=all
 wireframe=noun=all
 wirehaired=JJ=all
 wireless=JJ=all
-wireless=wireless/NN,wireless/NNS,wirelesses/NNS=all
+wireless=wireless/NN:UN,wirelesses/NNS=all # plural is dated
 wirelessly=RB=all
 wirelessness=NN:U=all
 wirelike=JJ=all
@@ -157352,11 +157353,11 @@ zealously=RB=all
 zealousness=NN:U=all
 zebibit=noun=all
 zebibyte=noun=all
-zebra=zebra/NN,zebra/NNS,zebras/NNS=all
-zebrafish=zebrafish/NN,zebrafish/NNS=all
+zebra [pl. zebra,zebras]=noun=all
+zebrafish [pl. zebrafish,zebrafishes]=noun_UN=all
 zebraic=JJ=all
 zebralike=JJ=all
-zebras=zebras/NN,zebrasses/NNS=all
+zebrass [pl. zebrasses]=noun=all # rare
 zebrawood=noun=all
 zebrine=JJ=all
 zebu=noun=all

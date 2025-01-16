@@ -57046,7 +57046,7 @@ almner=noun=none
 almon=NN=none
 almous=NN=none
 alms-giving=NN:UN=none
-almsfolk=almsfolk/NN,almsfolk/NNS=gb
+almsfolk=NNS=gb
 almsgiver=noun=us-large
 almswoman=almswoman/NN,almswomen/NNS=us-large
 almuce=noun=us-large
@@ -133309,8 +133309,8 @@ ritz=noun=none
 riv=NN=au,ca,us
 riva=noun=none
 rivage=noun=us-large
-rivaless=rivaless/NN,rivaless/NNS=none
-rivalless=rivalless/NN,rivalless/NNS=none
+rivaless=rivaless/NN,rivalesses/NNS=none
+rivalless=rivalless/NN,rivallesses/NNS=none
 rivalship=noun=none
 rivaroxaban=NN:U=gb
 rivelling=rivelling/NN,rivelling/NNS=none
@@ -135304,7 +135304,6 @@ schnappsiser=UNTAGGED=gb
 schnappsisers=UNTAGGED=gb
 schnappsiveness=UNTAGGED=gb
 schnappsory=UNTAGGED=gb
-schnaps=schnaps/NN,schnaps/NNS,schnapses/NNS=none
 schnecken=schnecken/NN,schnecken/NNS=none
 schnittlaugh=NN=none
 schnorchel=NN=none
@@ -155861,7 +155860,6 @@ unwrinkled=UNTAGGED=all
 unwrongfully=RB=none
 unwrongfulness=NN=none
 unyearned=JJ=none
-unyoung=unyoung/NN,unyoung/NNS=none
 up-anchor=UNTAGGED=za
 up-and-comer=UNTAGGED=za
 up-and-downness=NN=none
