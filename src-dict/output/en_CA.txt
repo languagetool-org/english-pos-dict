@@ -74,7 +74,9 @@ Europeanize
 Europeanized
 Europeanizes
 Europeanizing
+Euroskeptic
 Euroskepticism
+Euroskeptics
 Finlandization
 Finlandizations
 Finlandize
@@ -8686,7 +8688,6 @@ unmotorized
 unmouldy
 unmunicipalized
 unmutualized
-unnameable
 unnationalized
 unnaturalize
 unnaturalized
@@ -9134,6 +9135,8 @@ womanizes
 womanizing
 woollen
 woollens
+workcation
+workcations
 workweek
 workweeks
 worship

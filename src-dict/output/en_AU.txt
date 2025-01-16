@@ -74,7 +74,9 @@ Europeanise
 Europeanised
 Europeanises
 Europeanising
+Eurosceptic
 Euroscepticism
+Eurosceptics
 Finlandisation
 Finlandisations
 Finlandise
@@ -1339,6 +1341,9 @@ chequering
 chequers
 cheques
 child-centred
+chilli
+chillies
+chillis
 chloridise
 chloridised
 chloridises
@@ -8715,7 +8720,6 @@ unmotorised
 unmouldy
 unmunicipalised
 unmutualised
-unnameable
 unnationalised
 unnaturalise
 unnaturalised

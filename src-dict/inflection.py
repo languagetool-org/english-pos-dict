@@ -150,6 +150,7 @@ def getFormTagLemma(forms_tags, lemma, variants):
     inflected_forms = []
     if "/" in forms_tags:
         for form_tag in forms_tags.split(","):
+            form_tag = form_tag.strip()
             form, tag = tuple(form_tag.split("/"))
             inflected_forms.append(form + "\t" + lemma + "\t" + tag + "\t" + variants)
         return inflected_forms
@@ -227,6 +228,7 @@ def parseVerbalForms(line):
     if lemmas in ["do", "have", "methinks", "be"]:
         return line
     for form_tag in forms_tags.split(","):
+        form_tag = form_tag.strip()
         form, tag = tuple(form_tag.split("/"))
         if tag in tag_forms_dict:
             tag_forms_dict[tag].append(form)

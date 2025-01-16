@@ -74,7 +74,9 @@ Europeanize
 Europeanized
 Europeanizes
 Europeanizing
+Euroskeptic
 Euroskepticism
+Euroskeptics
 Finlandization
 Finlandizations
 Finlandize
@@ -9609,6 +9611,8 @@ woolens
 woolier
 wooliest
 wooly
+workcation
+workcations
 workweek
 workweeks
 worship

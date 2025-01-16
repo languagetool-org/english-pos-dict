@@ -1226,7 +1226,9 @@ Europeanise
 Europeanised
 Europeanises
 Europeanising
+Eurosceptic
 Euroscepticism
+Eurosceptics
 Evaton
 Eveleigh
 Eventide
@@ -6858,6 +6860,9 @@ chequering
 chequers
 cheques
 child-centred
+chilli
+chillies
+chillis
 chloridise
 chloridised
 chloridises
@@ -8211,6 +8216,7 @@ elegise
 elegised
 elegises
 elegising
+elven
 emblematise
 emblematised
 emblematises
@@ -8774,6 +8780,8 @@ gaolers
 gaoling
 gaols
 garlic-flavoured
+gelatine
+gelatines
 gelatinisation
 gelatinisations
 gelatinise
@@ -14140,7 +14148,6 @@ unmotorised
 unmouldy
 unmunicipalised
 unmutualised
-unnameable
 unnationalised
 unnaturalise
 unnaturalised
