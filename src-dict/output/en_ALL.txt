@@ -46245,6 +46245,7 @@ antiques
 antiquing
 antiquities
 antiquity
+antirabies
 antirachitic
 antirachitically
 antiracial
@@ -50488,11 +50489,13 @@ balefuller
 balefullest
 balefully
 balefulness
+balefulnesses
 baleless
 baler
 balers
 bales
 baling
+balings
 balk
 balked
 balkily
@@ -50544,6 +50547,7 @@ ballgirls
 ballgown
 ballgowns
 balling
+ballings
 ballista
 ballistae
 ballistas
@@ -51077,6 +51081,7 @@ barrelhead
 barrelheads
 barrelled
 barrelling
+barrellings
 barrels
 barren
 barrener
@@ -51842,6 +51847,7 @@ beetleheaded
 beetler
 beetles
 beetling
+beetlings
 beetroot
 beetroots
 beets
@@ -52079,6 +52085,7 @@ belligerent
 belligerently
 belligerents
 belling
+bellings
 bellman
 bellmen
 bellow
@@ -53682,6 +53689,7 @@ bitterest
 bittering
 bitterish
 bitterling
+bitterlings
 bitterly
 bittern
 bitterness
@@ -55441,7 +55449,9 @@ bow
 bowed
 bowedness
 bowel
+bowelled
 bowelless
+bowelling
 bowels
 bower
 bowerbird
@@ -55628,6 +55638,7 @@ braille
 brailled
 brailles
 brailling
+braillings
 brails
 brain
 brain-dead
@@ -55757,6 +55768,8 @@ brassware
 brasswares
 brassy
 brat
+bratling
+bratlings
 brats
 brattice
 bratticed
@@ -56249,11 +56262,13 @@ bristling
 bristly
 britches
 brittle
+brittled
 brittlely
 brittleness
 brittler
 brittles
 brittlest
+brittling
 britzka
 britzkas
 bro
@@ -56831,6 +56846,7 @@ bugler
 buglers
 bugles
 bugling
+buglings
 bugs
 build
 buildable
@@ -57083,6 +57099,7 @@ bungles
 bunglesome
 bungling
 bunglingly
+bunglings
 bungs
 bunion
 bunionectomies
@@ -57138,6 +57155,7 @@ burble
 burbled
 burbles
 burbling
+burblings
 burbly
 burbot
 burbots
@@ -57192,6 +57210,7 @@ burgle
 burgled
 burgles
 burgling
+burglings
 burgomaster
 burgomasters
 burgonet
@@ -57226,6 +57245,7 @@ burlier
 burliest
 burlily
 burliness
+burling
 burls
 burly
 burn
@@ -122772,6 +122792,7 @@ multiramified
 multiramose
 multiramous
 multiregional
+multireligious
 multiresistant
 multirole
 multirooted
@@ -157506,6 +157527,8 @@ schmuck
 schmucks
 schnapps
 schnappses
+schnaps
+schnapses
 schnauzer
 schnauzers
 schnitzel
@@ -190370,6 +190393,7 @@ unyoke
 unyoked
 unyokes
 unyoking
+unyoung
 unyouthful
 unyouthfully
 unyouthfulness
@@ -196839,9 +196863,11 @@ zebibyte
 zebibytes
 zebra
 zebrafish
+zebrafishes
 zebraic
 zebralike
 zebras
+zebrass
 zebrasses
 zebrawood
 zebrawoods

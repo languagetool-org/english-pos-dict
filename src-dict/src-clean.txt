@@ -1,4 +1,3 @@
-
 !=punctuation=all
 "=''=all
 "=``=all
@@ -49019,6 +49018,7 @@ antique=verb=all
 antiquely=RB=all
 antiqueness=NN:U=all
 antiquity=noun_UN=all
+antirabies=JJ=all
 antirachitic=JJ=all
 antirachitically=RB=all
 antiracial=JJ=all
@@ -52014,10 +52014,10 @@ bale=verb=all
 baleen=noun_U=all
 baleful=baleful/JJ,balefuller/JJR,balefullest/JJS=all
 balefully=RB=all
-balefulness=NN:U=all
+balefulness=noun_U=all
 baleless=JJ=all
 baler=noun=all
-baling=baling/NN:UN,baling/NNS=all
+baling=noun_UN=all
 balk=noun=all
 balk=verb=all
 balkanization|balkanisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -52056,7 +52056,7 @@ balletically=RB=all
 ballgame=noun=all
 ballgirl=noun=all
 ballgown=noun=all
-balling=balling/NN:UN,balling/NNS=all
+balling=balling/NN:UN,ballings/NNS=all
 ballista=ballista/NN,ballistae/NNS,ballistas/NNS=all
 ballistic=JJ=all
 ballistic=noun=all
@@ -52285,6 +52285,7 @@ bard=noun=all
 bardic=JJ=all
 bardish=JJ=all
 bardlike=JJ=all
+bardling=noun=none
 bardy=JJ=all
 bare-assed=JJ=all
 bare-boned=JJ=all
@@ -52419,7 +52420,7 @@ barrel-chested=JJ=all
 barrel-vaulted=JJ=all
 barrel=noun=all
 barrelhead=noun=all
-barrelling=barrelling/NN:UN,barrelling/NNS=all
+barrelling=noun_UN=all
 barren=barren/JJ,barrener/JJR,barrenest/JJS=all
 barren=noun=all
 barrenly=RB=all
@@ -52810,6 +52811,7 @@ becoming=noun_UN=all
 becomingly=RB=all
 becomingness=NN:U=all
 becquerel=noun=all
+becudgel [-ll-]=verb=none
 bed-wetting=NN:UN=all
 bed=noun_UN=all
 bed=verb=all
@@ -52905,7 +52907,7 @@ beetle=beetle/JJ,beetler/JJR=all
 beetle=noun=all
 beetle=verb=all
 beetleheaded=JJ=all
-beetling=beetling/NN:UN,beetling/NNS=all
+beetling=noun_UN=all
 beetroot=noun=all
 beeyard=noun=all
 beezer=noun=all
@@ -52945,6 +52947,7 @@ beginning=JJ=all
 beginning=noun_UN=all
 beginningless=JJ=all
 begird [begirds;begirded,begirt;begirded,begirt;begirding]=verb=all
+begirdle=verb=none
 begone=UH=all
 begonia=noun=all
 begorra=UH=all
@@ -53053,7 +53056,7 @@ belligerency=noun_U=all
 belligerent=JJ=all
 belligerent=noun=all
 belligerently=RB=all
-belling=belling/NN:UN,belling/NNS=all
+belling=noun_UN=all
 bellman [pl. bellmen]=noun=all
 bellow=noun=all
 bellow=verb=all
@@ -54153,7 +54156,7 @@ bitter=bitter/JJ,bitterer/JJR,bitterest/JJS=all
 bitter=noun_UN=all
 bitter=verb=all
 bitterish=JJ=all
-bitterling=bitterling/NN,bitterling/NNS=all
+bitterling=noun_UN=all
 bitterly=RB=all
 bittern=noun=all
 bitterness=NN:U=all
@@ -55363,6 +55366,7 @@ bowdlerize|bowdlerise=verb=us,ca,gb|gb,au,nz,za
 bowed=JJ=all
 bowedness=NN:U=all
 bowel=noun=all
+bowel [-ll-]=verb=all
 bowelless=JJ=all
 bower=noun=all
 bowerbird=noun=all
@@ -55491,7 +55495,7 @@ braiding=noun_U=all
 brail=verb=all
 braille=noun_U=all
 braille=verb=all
-brailling=brailling/NN,brailling/NNS=all
+brailling=noun_U=all
 brain-dead=JJ=all
 brain=noun_UN=all
 brain=verb=all
@@ -55576,6 +55580,7 @@ brasslike=JJ=all
 brassware=noun=all
 brassy=brassy/JJ,brassier/JJR,brassiest/JJS=all
 brat=noun=all
+bratling=noun=all
 brattice=verb=all
 brattiness=NN:U=all
 brattishness=NN:U=all
@@ -55889,6 +55894,7 @@ bristly=bristly/JJ,bristlier/JJR,bristliest/JJS=all
 britches=britches/NN,britches/NNS=all
 brittle=brittle/JJ,brittler/JJR,brittlest/JJS=all
 brittle=noun_U=all
+brittle=verb=all
 brittlely=RB=all
 brittleness=NN:U=all
 britzka=noun=all
@@ -56281,7 +56287,7 @@ bughouse=JJ=all
 bugle=noun=all
 bugle=verb=all
 bugler=noun=all
-bugling=bugling/NN:UN,bugling/NNS=all
+bugling=noun_UN=all
 build [builds;built;built;building]=verb=all
 build=noun_U=all
 buildable=JJ=all
@@ -56443,7 +56449,7 @@ bungle=noun=all
 bungle=verb=all
 bungler=noun=all
 bunglesome=JJ=all
-bungling=bungling/NN:UN,bungling/NNS=all
+bungling=noun_UN=all
 bunglingly=RB=all
 bunion=noun=all
 bunionectomy=noun_UN=all
@@ -56478,7 +56484,7 @@ bupropion=bupropion/NN,bupropion/NN:U=all
 bur=noun=all
 burble=noun=all
 burble=verb=all
-burbling=burbling/NN:UN,burbling/NNS=all
+burbling=noun_UN=all
 burbly=RB=all
 burbot=noun=all
 burden=noun_UN=all
@@ -56513,7 +56519,7 @@ burglarproof=JJ=all
 burglarproof=verb=all
 burglary=noun_UN=all
 burgle=verb=all
-burgling=burgling/NN:UN,burgling/NNS=all
+burgling=noun_UN=all
 burgomaster=noun=all
 burgonet=noun=all
 burgrave=noun=all
@@ -56524,6 +56530,7 @@ burier=noun=all
 burin=noun=all
 burka=noun=all
 burl=noun=all
+burl=verb=all
 burlap=noun_U=all
 burled=JJ=all
 burlesque=JJ=all
@@ -56677,6 +56684,7 @@ butcherliness=NN:U=all
 butcherly=RB=all
 butchery=noun_U=all
 butene=noun=all
+butle=verb=none
 butler=noun=all
 butlerlike=JJ=all
 butt=noun=all
@@ -56710,6 +56718,7 @@ butthead=noun=ca,us
 butthole=noun=all
 butting=NN:UN=all
 buttinsky=noun=all
+buttle=verb=none
 buttock=noun=all
 buttocked=JJ=all
 button-down=JJ=all
@@ -56811,6 +56820,7 @@ cabala=noun_U=all
 cabalist=noun=all
 cabalistic=JJ=all
 cabalistically=RB=all
+caballing=noun_UN=gb,nz,za
 caballero=noun=all
 cabana=noun=all
 cabaret=noun=all
@@ -91365,7 +91375,6 @@ interrelatedness=NN:U=all
 interrelation=noun_UN=all
 interrelationship=noun_UN=all
 interreligious=JJ=all
-interreligious=interreligious/NN,interreligious/NNS=all
 interrenal=JJ=all
 interrepellent=JJ=all
 interroad=JJ=all
@@ -102058,6 +102067,7 @@ multiradical=JJ=all
 multiramified=JJ=all
 multiramose=JJ=all
 multiramous=JJ=all
+multireligious=JJ=all
 multiregional=JJ=all
 multiresistant=JJ=all
 multirole=JJ=all
@@ -104162,6 +104172,7 @@ non-protein=JJ=all
 non-public=JJ=all
 non-recoverable=JJ=all
 non-refundable=JJ=all
+non-religious=JJ=gb,nz,za
 non-renewability=NN:U=all
 non-renewable=noun=all
 non-renewing=JJ=all
@@ -123086,7 +123097,6 @@ religionless=JJ=all
 religiose=JJ=all
 religiosity=noun_UN=all
 religious=JJ=all
-religious=religious/NN,religious/NNS=all
 religiously=RB=all
 religiousness=NN:U=all
 reline=verb=all
@@ -146394,7 +146404,6 @@ unemployability=noun_UN=all
 unemployable=JJ=all
 unemployable=noun=all
 unemployed=JJ=all
-unemployed=unemployed/NN,unemployed/NNS=all
 unemployment=noun_U=all
 unempoisoned=JJ=all
 unempowered=JJ=all
@@ -150458,7 +150467,6 @@ unrelievable=JJ=all
 unrelieved=JJ=all
 unrelieving=JJ=all
 unreligious=JJ=all
-unreligious=unreligious/NN,unreligious/NNS=all
 unreligiously=RB=all
 unrelinquishable=JJ=all
 unrelinquished=JJ=all

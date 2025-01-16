@@ -58777,7 +58777,6 @@ antiquationiser=UNTAGGED=gb
 antiquationisers=UNTAGGED=gb
 antiquer=noun=us-large
 antiquitarian=noun=none
-antirabies=antirabies/NN,antirabies/NNS=none
 antiracially=RB=none
 antiradiant=JJ=none
 antiradiating=JJ=none
@@ -59720,7 +59719,7 @@ arithmancy=NN:U=none
 arithmomancy=NN:U=us-large
 arkansawyer=NN=none
 arkite=noun=none
-arling=arling/NN,arling/NNS=none
+arling=noun=none # rare & archaic
 arm-twisting=NN:UN=none
 arm-wrestle=UNTAGGED=gb
 arm-wrestling=UNTAGGED=gb
@@ -61782,7 +61781,7 @@ bant=NN=us-large
 banteng=noun=none
 banterer=noun=gb,nz,za
 banting=noun_U=us-large
-bantling=bantling/NN,bantling/NNS=us-large
+bantling=noun=us-large,gb
 banty=noun=none
 banxring=noun=none
 baozi=baozi/NN,baozi/NNS=none
@@ -61840,7 +61839,6 @@ bardiest=JJ=none
 bardily=RB=none
 bardiness=NN=none
 barding=UNTAGGED=gb,nz,za
-bardling=bardling/NN,bardling/NNS=none
 bardolater=noun=gb
 bardolator=UNTAGGED=gb
 bardolators=UNTAGGED=gb
@@ -62362,7 +62360,6 @@ beclomethasone=NN:U=gb
 beclomethasonible=UNTAGGED=gb
 beclomethasonisability=UNTAGGED=gb
 beclomethasonisable=UNTAGGED=gb
-becudgelling=becudgelling/NN,becudgelling/NNS=none
 bed-and-breakfast=NN=none
 bed-sitter=NN=none
 bed-wettingiser=UNTAGGED=gb
@@ -62410,7 +62407,7 @@ bedrail=noun=us-large
 bedral=noun=none
 bedrest=NN=none
 bedrid=JJ=none
-bedrivelling=bedrivelling/NN,bedrivelling/NNS=none
+bedrivel [-ll-]=verb=none
 bedroomed=UNTAGGED=gb,nz,za
 bedsock=noun=gb
 bedsonia=noun=none
@@ -62477,7 +62474,6 @@ beggarweed=noun=us-large
 beggarwoman=beggarwoman/NN,beggarwomen/NNS=none
 beghard=noun=none
 begild=begild/VB,begild/VBP=none
-begirdling=begirdling/NN,begirdling/NNS=none
 beglerbeg=noun=none
 begones=UNTAGGED=nz,za
 begoniaceae=NN=none
@@ -64879,8 +64875,6 @@ bow-window=UNTAGGED=nz,za
 bow-windowed=JJ=none
 bowdlerism=noun_UN=us-large
 bowdrill=NN=none
-bowelled=UNTAGGED=gb,nz,za
-bowelling=bowelling/NN,bowelling/NNS=gb,nz,za
 bowenite=NN=none
 bowered=UNTAGGED=gb,nz,za
 bowering=UNTAGGED=gb,nz,za
@@ -65157,7 +65151,6 @@ brassing=UNTAGGED=gb,nz,za
 brassish=JJ=none
 bratchet=noun=none
 bratina=NN=none
-bratling=bratling/NN,bratling/NNS=none
 bratpacker=noun=none
 brattish=JJ=none
 brattishing=noun=us-large
@@ -65446,10 +65439,8 @@ britt=noun=none
 brittanic=NN=none
 brittle-star=NN=none
 brittlebush=noun=none
-brittled=UNTAGGED=gb,nz,za
 brittlestar=NN=gb
 brittlestars=UNTAGGED=gb
-brittling=brittling/NN,brittling/NNS=gb,nz,za
 brittly=UNTAGGED=gb
 britzska=noun=gb
 briza=NN=none
@@ -66044,7 +66035,6 @@ burler=noun=gb,nz,za
 burlesk=noun=none
 burlesquer=noun=gb,nz,za
 burletta=noun=us-large
-burling=burling/NN,burling/NNS=none
 burmannia=NN=none
 burmanniaceae=NN=none
 burmeisteria=NN=none
@@ -66174,7 +66164,6 @@ butlered=UNTAGGED=gb,nz,za
 butlering=UNTAGGED=gb,nz,za
 butlership=noun=none
 butlery=noun=us-large
-butling=butling/NN,butling/NNS=none
 butment=noun=none
 butt-dial=UNTAGGED=us
 butt-dialed=UNTAGGED=us
@@ -66209,7 +66198,6 @@ butterscotchisers=UNTAGGED=gb
 butterweed=noun=none
 buttings=UNTAGGED=gb
 buttinski=buttinski/NN,buttinskies/NNS,buttinskis/NNS=none
-buttling=buttling/NN,buttling/NNS=none
 buttocking=UNTAGGED=gb,nz,za
 button-eared=JJ=none
 button-quail=UNTAGGED=gb
@@ -66333,7 +66321,6 @@ cabalette=UNTAGGED=gb
 cabalism=noun_UN=us-large
 caballed=UNTAGGED=gb,nz,za
 caballer=noun=none
-caballing=caballing/NN,caballing/NNS=gb,nz,za
 caballo=NN=none
 cabane=NN=none
 cabas=noun=none
@@ -82877,7 +82864,7 @@ ethmoidal=UNTAGGED=gb
 ethmoturbinal=UNTAGGED=gb
 ethmoturbinals=UNTAGGED=gb
 ethnarchy=noun=gb
-ethno-religious=UNTAGGED=all
+ethno-religious=JJ=all
 ethnoarchaeological=UNTAGGED=gb
 ethnoarchaeologist=UNTAGGED=gb
 ethnoarchaeologists=UNTAGGED=gb
@@ -107954,7 +107941,6 @@ multiproduct=UNTAGGED=us
 multiracialism=noun_UN=none
 multirange=UNTAGGED=gb,us
 multireflex=NN=none
-multireligious=multireligious/NN,multireligious/NNS=us
 multiroom=UNTAGGED=us
 multisacculate=JJ=none
 multiselect=UNTAGGED=gb
@@ -110582,7 +110568,6 @@ non-reciprocating=UNTAGGED=gb,nz,za
 non-redeemable=UNTAGGED=gb,nz,za
 non-reducing=UNTAGGED=gb,nz,za
 non-relative=UNTAGGED=gb
-non-religious=UNTAGGED=gb,nz,za
 non-residual=UNTAGGED=gb,nz,za
 non-resistant=NN=gb,nz,za
 non-resistants=UNTAGGED=gb,nz,za
@@ -131620,7 +131605,7 @@ reannouncement=NN=none
 reanointment=NN=none
 reaphook=noun=none
 reapology=NN=none
-reapparelling=reapparelling/NN,reapparelling/NNS=none
+reapparelling=noun=none
 reappliance=NN=none
 reapprehension=NN=none
 reapproachable=JJ=none
@@ -139919,7 +139904,7 @@ sociate=noun=none
 societarian=noun=none
 socio-cognitive=UNTAGGED=all
 socio-economics=UNTAGGED=gb,nz,za
-socio-religious=UNTAGGED=all
+socio-religious=JJ=all
 socio=UNTAGGED=all
 sociobiologic=JJ=none
 sociocybernetics=UNTAGGED=gb
