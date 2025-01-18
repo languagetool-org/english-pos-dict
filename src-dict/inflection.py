@@ -130,6 +130,8 @@ def getInflectedFormsAndTags(lemma, pos, extra=""):
             forms = lemma + "/NN," + lemma + "s/NNS"
         if add_string != "":
             forms = forms.replace("NN,", "NN" + add_string + ",")
+        if add_string == ":U": # absolutely uncountable nouns have no plurals
+            forms = remove_plural_form(forms)
     if forms == "":
         if extra != "":
             print(
@@ -253,6 +255,11 @@ def parseVerbalForms(line):
     return "ERROR: " + line
 
 
+def remove_plural_form(s: str) -> str:
+    comma_pos = s.find(',')
+    return s[:comma_pos] if comma_pos != -1 else s
+
+
 # examples
 assert (
     getInflectedFormsAndTags("add", "verb")
@@ -297,6 +304,11 @@ assert getInflectedFormsAndTags("kiss", "noun") == "kiss/NN,kisses/NNS"
 assert getInflectedFormsAndTags("fox", "noun") == "fox/NN,foxes/NNS"
 assert getInflectedFormsAndTags("topaz", "noun") == "topaz/NN,topazes/NNS"
 assert getInflectedFormsAndTags("buzz", "noun") == "buzz/NN,buzzes/NNS"
+
+# no plural form
+assert getInflectedFormsAndTags("caviar", "noun_U") == "caviar/NN:U"
+
+
 
 # doesn't work for irregular nouns
 assert getInflectedFormsAndTags("man", "noun") != "man/NN,men/NNS"

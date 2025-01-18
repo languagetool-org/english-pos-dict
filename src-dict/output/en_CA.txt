@@ -389,13 +389,11 @@ ages
 aggrandize
 aggrandized
 aggrandizement
-aggrandizements
 aggrandizer
 aggrandizers
 aggrandizes
 aggrandizing
 aging
-agings
 agnize
 agnized
 agnizes
@@ -477,7 +475,6 @@ aluminized
 aluminizes
 aluminizing
 aluminum
-aluminums
 amber-coloured
 amortizable
 amortization
@@ -488,7 +485,6 @@ amortizes
 amortizing
 amphitheatre
 amphitheatres
-anaesthesiologies
 anaesthesiology
 anagrammatization
 anagrammatizations
@@ -536,11 +532,9 @@ androgenized
 androgenizes
 androgenizing
 anemia
-anemias
 anemic
 anemically
 anesthesia
-anesthesias
 anesthesiologist
 anesthesiologists
 anesthetic
@@ -652,7 +646,6 @@ aphorized
 aphorizes
 aphorizing
 apnea
-apneas
 apocentre
 apocentres
 apologize
@@ -690,7 +683,6 @@ appetizing
 appetizingly
 appetizingness
 applesauce
-applesauces
 arabicization
 arabicizations
 arabicize
@@ -1300,7 +1292,6 @@ cephalizations
 cesarean
 cesareans
 cesium
-cesiums
 channelization
 channelizations
 channelize
@@ -1438,7 +1429,6 @@ climatized
 climatizes
 climatizing
 clingfilm
-clingfilms
 cliticization
 cliticizations
 close-fertilization
@@ -1461,7 +1451,6 @@ cognizable
 cognizableness
 cognizably
 cognizance
-cognizances
 cognizant
 cognizantly
 cognize
@@ -1998,7 +1987,6 @@ deemphasized
 deemphasizes
 deemphasizing
 deescalation
-deescalations
 defamiliarization
 defamiliarizations
 defamiliarize
@@ -2460,7 +2448,6 @@ diarizes
 diarizing
 diarrhea
 diarrheal
-diarrheas
 diarrheic
 diarrhetic
 diazotizable
@@ -2875,7 +2862,6 @@ estrogenic
 estrogenically
 estrogens
 estrone
-estrones
 estrous
 eternalize
 eternalized
@@ -3112,11 +3098,8 @@ fiberizing
 fibre
 fibre-optic
 fibreboard
-fibreboards
 fibrefill
-fibrefills
 fibreglass
-fibreglasses
 fibres
 fictionalization
 fictionalizations
@@ -3254,7 +3237,6 @@ fulfill
 fulfilled
 fulfilling
 fulfillment
-fulfillments
 fulfills
 functionalization
 functionalizations
@@ -3383,7 +3365,6 @@ gold-coloured
 gonadectomized
 gonorrhea
 gonorrheal
-gonorrheas
 gonorrheic
 good-humoured
 good-humouredly
@@ -3481,7 +3462,6 @@ gutturalize
 gutturalized
 gutturalizes
 gutturalizing
-gynecocracies
 gynecocracy
 gynecocrat
 gynecocratic
@@ -3490,7 +3470,6 @@ gynecoid
 gynecologic
 gynecological
 gynecologically
-gynecologies
 gynecologist
 gynecologists
 gynecology
@@ -3508,7 +3487,6 @@ half-coloured
 half-litre
 half-litres
 halftime
-halftimes
 hand-coloured
 haply
 harbour
@@ -3574,7 +3552,6 @@ hematomas
 hemophilia
 hemophiliac
 hemophiliacs
-hemophilias
 hemorrhage
 hemorrhaged
 hemorrhages
@@ -4138,7 +4115,6 @@ jeopardized
 jeopardizes
 jeopardizing
 jeweller
-jewelleries
 jewellers
 jewellery
 journalization
@@ -4293,7 +4269,6 @@ lemmatized
 lemmatizes
 lemmatizing
 leukemia
-leukemias
 leukemic
 leveller
 levellers
@@ -4443,7 +4418,6 @@ majorizes
 majorizing
 malodour
 malodours
-manoeuvrabilities
 manoeuvrability
 manoeuvrable
 manoeuvre
@@ -4715,7 +4689,6 @@ micronized
 micronizes
 micronizing
 midtown
-midtowns
 militarization
 militarizations
 militarize
@@ -5173,7 +5146,6 @@ nonabrasive
 nonabsorbent
 nonabsorbents
 nonacceptance
-nonacceptances
 nonacid
 nonacids
 nonadaptive
@@ -5182,7 +5154,6 @@ nonadhesive
 nonadjacent
 nonadjustable
 nonaggression
-nonaggressions
 nonalcoholic
 nonalcoholics
 nonanalyzable
@@ -5192,7 +5163,6 @@ nonappearance
 nonappearances
 nonathletic
 nonattendance
-nonattendances
 nonbeliever
 nonbelievers
 nonbelligerent
@@ -5230,7 +5200,6 @@ nonconstructive
 noncontagious
 noncontinuous
 noncooperation
-noncooperations
 noncorroding
 noncorrodings
 noncorrosive
@@ -5251,7 +5220,6 @@ nondestructive
 nondesulfurization
 nondesulfurizations
 nondiscrimination
-nondiscriminations
 nondiscriminatory
 nondistinctive
 nondrinker
@@ -5273,7 +5241,6 @@ nonexclusive
 nonexempt
 nonexempts
 nonexistence
-nonexistences
 nonexplosive
 nonexplosives
 nonfarm
@@ -5309,9 +5276,7 @@ noninstitutionalized
 nonintellectual
 nonintellectuals
 noninterference
-noninterferences
 nonintervention
-noninterventions
 nonintoxicant
 nonintoxicating
 noniodized
@@ -5321,7 +5286,6 @@ nonirritating
 nonlegal
 nonlethal
 nonliving
-nonlivings
 nonlocalizable
 nonlocalized
 nonlogical
@@ -5342,7 +5306,6 @@ nonnationalization
 nonnationalizations
 nonnitrogenized
 nonobservance
-nonobservances
 nonoccurrence
 nonoccurrences
 nonofficial
@@ -5364,7 +5327,6 @@ nonpayment
 nonpayments
 nonpenalized
 nonperformance
-nonperformances
 nonperishable
 nonperishables
 nonperson
@@ -5388,7 +5350,6 @@ nonrealizations
 nonreciprocal
 nonreciprocals
 nonrecognition
-nonrecognitions
 nonrecognized
 nonrecurrent
 nonrecurring
@@ -5397,7 +5358,6 @@ nonresidence
 nonresidences
 nonresidential
 nonresistance
-nonresistances
 nonrestricted
 nonreversible
 nonruminant
@@ -5440,7 +5400,6 @@ nonsubsidized
 nonsuccess
 nonsuccesses
 nonsupport
-nonsupports
 nonsurgical
 nonsynthesized
 nontautomerizable
@@ -5464,7 +5423,6 @@ nonvenomous
 nonverbal
 nonverbalized
 nonviolence
-nonviolences
 nonvisual
 nonvisualized
 nonvocal
@@ -6745,7 +6703,6 @@ putzed
 putzes
 putzing
 pyorrhea
-pyorrheas
 pyritize
 pyritized
 pyritizes
@@ -6811,7 +6768,6 @@ radiosterilization
 radiosterilizations
 rainbow-coloured
 rancour
-rancours
 randomization
 randomizations
 randomize
@@ -6918,7 +6874,6 @@ recognizability
 recognizable
 recognizably
 recognizance
-recognizances
 recognize
 recognized
 recognizer
@@ -7485,7 +7440,6 @@ scrutinizes
 scrutinizing
 scrutinizingly
 seborrhea
-seborrheas
 sectarianize
 sectarianized
 sectarianizes
@@ -7694,7 +7648,6 @@ skeptic
 skeptical
 skeptically
 skepticism
-skepticisms
 skeptics
 skilful
 skilfully
@@ -7836,7 +7789,6 @@ spiritualizers
 spiritualizes
 spiritualizing
 splendour
-splendours
 splenectomize
 splenectomized
 splenectomizes
@@ -8021,7 +7973,6 @@ sulfurized
 sulfurizes
 sulfurizing
 sulphate
-sulphates
 sulphatization
 sulphatizations
 sulphonation
@@ -8292,7 +8243,6 @@ theatre-in-the-round
 theatregoer
 theatregoers
 theatregoing
-theatregoings
 theatres
 theatres-in-the-round
 theatricalization
@@ -8383,7 +8333,6 @@ traditionalized
 traditionalizes
 traditionalizing
 tranquil
-tranquilities
 tranquility
 tranquilization
 tranquilizations
@@ -8823,7 +8772,6 @@ upperclassmen
 upperclasswoman
 upperclasswomen
 upstate
-upstates
 uralitize
 uralitized
 uralitizes
@@ -8835,7 +8783,6 @@ urbanized
 urbanizes
 urbanizing
 uremia
-uremias
 uremic
 urgicentre
 urgicentres
@@ -8865,7 +8812,6 @@ valorized
 valorizes
 valorizing
 valour
-valours
 vampirize
 vampirized
 vampirizes
@@ -8968,7 +8914,6 @@ victimizes
 victimizing
 vigour
 vigourless
-vigours
 villainize
 villainized
 villainizes

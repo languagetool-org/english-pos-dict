@@ -58349,7 +58349,6 @@ anticlassicism=NN:UN=none
 anticlassicist=JJ=none
 anticlassicist=NN=none
 anticlericalist=noun=gb
-anticling=anticling/NN,anticling/NNS=none
 anticlinorium=noun=us-large
 anticoagulantly=UNTAGGED=gb
 anticoagulations=UNTAGGED=all
@@ -58959,8 +58958,6 @@ antwerpen=NN=none
 anu=noun=none
 anulus=NN=none
 anura=NN=none
-anvilled=UNTAGGED=gb,nz,za
-anvilling=anvilling/NN,anvilling/NNS=gb,nz,za
 anviltop=noun=none
 anxiety-ridden=UNTAGGED=gb
 anxiogenics=UNTAGGED=gb
@@ -66503,7 +66500,7 @@ cafila=noun=none
 cag-handed=JJ=none
 cagebird=noun=none
 cageful=noun=none
-cageling=cageling/NN,cageling/NNS=us-large
+cageling=noun=us-large
 cageyly=RB=none
 cagmag=JJ=none
 cagot=noun=none
@@ -66964,7 +66961,7 @@ canework=noun=none
 canfield=noun=us-large
 canful=noun=none
 cang=noun=none
-cangling=cangling/NN,cangling/NNS=none
+cangle=verb=none # very rare
 cangue=noun=us-large
 canicular=JJ=us-large
 canicule=noun=none
@@ -67059,7 +67056,6 @@ cantillate=verb=us-large
 cantillation=noun_UN=none
 cantimo=NN=none
 cantion=noun_UN=none
-cantling=cantling/NN,cantling/NNS=none
 cantonalism=NN:UN=none
 cantoned=UNTAGGED=gb,nz,za
 cantoning=UNTAGGED=gb,nz,za
@@ -67502,7 +67498,6 @@ caritative=JJ=none
 carkingly=RB=none
 carle=noun=none
 carlin=noun=none
-carling=carling/NN,carling/NNS=us-large
 carlishness=NN=none
 carloading=UNTAGGED=gb,nz,za
 carloadings=NN=none
@@ -67931,7 +67926,6 @@ catjang=noun=none
 catkinate=JJ=none
 catlick=UNTAGGED=gb
 catlin=noun=none
-catling=catling/NN,catling/NNS=us-large
 catlinite=UNTAGGED=gb
 catlinites=UNTAGGED=gb
 catnaper=noun=none
@@ -68141,7 +68135,6 @@ cellaret=noun=none
 cellarette=noun=us-large
 cellarist=noun=none
 cellarman=cellarman/NN,cellarmen/NNS=none
-celling=celling/NN,celling/NNS=gb,nz,za
 cellobiose=noun=us-large
 celloidin=noun=us-large
 cellotape=UNTAGGED=nz

@@ -1,4 +1,5 @@
 Abnakis=NNPS=none
+aneling=aneling/NN:UN,aneling/NNS=all
 automobubble=NNS=all
 conBFI=UNTAGGED=gb
 conBFIability=UNTAGGED=gb

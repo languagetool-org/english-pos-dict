@@ -45432,7 +45432,7 @@ addle=JJ=all
 addle=verb=all
 addlebrained=JJ=all
 addlepated=JJ=all
-addling=addling/NN:UN,addling/NNS=all
+addling=noun=all
 addorsed=JJ=all
 address=noun_UN=all
 address=verb=all
@@ -46381,7 +46381,7 @@ ail=verb=all
 ailanthus=noun=all
 aileron=noun=all
 ailing=JJ=all
-ailing=ailing/NN:UN,ailing/NNS=all
+ailing=noun=all
 ailment=noun=all
 ailurophile=noun=all
 ailurophilic=JJ=all
@@ -47804,7 +47804,6 @@ anekāntavāda=NN:U=all
 anelastic=JJ=all
 anele=verb=all
 anelectric=JJ=all
-aneling=aneling/NN:UN,aneling/NNS=all
 anemochore=NN=all
 anemochorous=JJ=all
 anemographic=JJ=all
@@ -48642,6 +48641,7 @@ anticlimactically=RB=all
 anticlimax=noun=all
 anticlinal=JJ=all
 anticline=noun=all
+anticling=JJ=none
 anticlockwise=JJ=all
 anticlockwise=RB=all
 anticlogging=JJ=all
@@ -49219,6 +49219,7 @@ anuric=JJ=all
 anurous=JJ=all
 anus=anus/NN,ani/NNS,anuses/NNS=all
 anvil=noun=all
+anvil [-ll-]=verb=gb,nz,za
 anxiety-free=JJ=all
 anxiety=noun_UN=all
 anxiogenic=JJ=all
@@ -57278,6 +57279,7 @@ can=noun=all
 can=verb=all
 canadianization|canadianisation=noun_UN=us,ca,gb|gb,au,nz,za
 canal=noun=all
+canal [-ll-,-l-]=verb=all
 canalicular=JJ=all
 canaliculate=JJ=all
 canaliculated=JJ=all
@@ -57454,6 +57456,7 @@ cantingly=RB=all
 cantingness=NN:U=all
 cantish=JJ=all
 cantle=noun=all
+cantle=verb=none # rare & obsolete
 canto=noun=all
 canton=noun=all
 cantonal=JJ=all
@@ -57613,8 +57616,10 @@ carabiner=noun=all
 carabiniere=NN=all
 caracal=noun=all
 caracara=noun=all
+caracol [-ll-,-l-]=verb=all
 caracole=noun=all
-caracole=verb=all
+caracole=noun=all
+caracole=caracoles/VBZ,caracoled/VBD,caracolled/VBD,caracoled/VBN,caracolled/VBN,caracoling/VBG,caracolling/VBG=all
 caracul=noun=all
 carafe=noun=all
 carambola=noun=all
@@ -57815,6 +57820,7 @@ carking=JJ=all
 carl=noun=all
 carless=JJ=all
 carline=noun=all
+carling=noun=all
 carlish=JJ=all
 carload=noun=all
 carmaker=noun=all
@@ -58282,6 +58288,7 @@ catholicness=NN:U=all
 cation=noun_UN=all
 cationic=JJ=all
 catkin=noun=all
+catling=noun=all
 catlike=JJ=all
 catmint=noun=all
 catnap [-pp-]=verb=all
@@ -58466,6 +58473,7 @@ cellarer=noun=all
 cellarless=JJ=all
 cellblock=noun=all
 celled=JJ=all
+celling=noun_U=gb,nz,za
 cellist=noun=all
 cellmate=noun=all
 cello=cello/NN,celli/NNS,cellos/NNS=all
