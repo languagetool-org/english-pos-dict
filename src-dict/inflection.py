@@ -256,9 +256,9 @@ def parseVerbalForms(line):
 
 
 def remove_plural_form(s: str) -> str:
-    comma_pos = s.find(',')
-    return s[:comma_pos] if comma_pos != -1 else s
-
+    forms = s.split(',')
+    singular_forms = [form for form in forms if not form.endswith('/NNS')]
+    return ','.join(singular_forms)
 
 # examples
 assert (
