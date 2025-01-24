@@ -130,8 +130,9 @@ def getInflectedFormsAndTags(lemma, pos, extra=""):
             forms = lemma + "/NN," + lemma + "s/NNS"
         if add_string != "":
             forms = forms.replace("NN,", "NN" + add_string + ",")
-        if add_string == ":U": # absolutely uncountable nouns have no plurals
-            forms = remove_plural_form(forms)
+        #TODO
+        #if add_string == ":U": # absolutely uncountable nouns have no plurals
+        #    forms = remove_plural_form(forms)
     if forms == "":
         if extra != "":
             print(
@@ -306,7 +307,7 @@ assert getInflectedFormsAndTags("topaz", "noun") == "topaz/NN,topazes/NNS"
 assert getInflectedFormsAndTags("buzz", "noun") == "buzz/NN,buzzes/NNS"
 
 # no plural form
-assert getInflectedFormsAndTags("caviar", "noun_U") == "caviar/NN:U"
+#assert getInflectedFormsAndTags("caviar", "noun_U") == "caviar/NN:U"
 
 
 

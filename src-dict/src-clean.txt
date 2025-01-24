@@ -2038,7 +2038,7 @@ Afro=noun=all
 Afroasiatic=noun=all
 Afrocentric=JJ=all
 Afrocentricity=NN:U=all
-Afrocentrism=noun_U=all
+Afrocentrism=NN:U=all
 Afrocentrist=noun=all
 Afrofuturism=NN:U=all
 Afrofuturist=noun=all
@@ -14096,7 +14096,7 @@ Evan=Evan/NNP,Evans/NNPS=all
 Evander=NNP=all
 Evangelical=JJ=all
 Evangelical=noun=all
-Evangelicalism=noun_U=all
+Evangelicalism=noun_UN=all
 Evangelina=NNP=all
 Evangeline=NNP=all
 Evangelist=Evangelist/NNP,Evangelists/NNPS=all
@@ -20436,7 +20436,7 @@ Islamite=NNP=all
 Islamization|Islamisation=noun_UN=us,ca,gb|gb,au,nz,za
 Islamize|Islamise=verb=us,ca,gb|gb,au,nz,za
 Islamophobe=noun=all
-Islamophobia=noun_U=all
+Islamophobia=noun_UN=all
 Islamophobic=JJ=all
 Island=NNP=all
 Islay=NNP=all
@@ -27388,7 +27388,7 @@ Metatheria=NNP=all # taxonomic terms
 Metchnikoff=NNP=all
 Methedrine=NNP=all
 Methodism=NNP=all
-Methodism=noun_U=all
+Methodism=noun_UN=all
 Methodist=JJ=all
 Methodist=noun=all
 Methodius=NNP=all
@@ -31546,7 +31546,7 @@ PPD=untagged=all
 PPDA=untagged=all
 PPDF=untagged=all
 PPDS=untagged=all
-PPE=noun_U=all
+PPE=noun_UN=all
 PPG=untagged=all
 PPH=untagged=all
 PPI=NNP=all
@@ -33636,7 +33636,7 @@ Qwaninga=NNP=za # South Africa, placename?
 Qwayinduku=NNP=za # South Africa, placename?
 Qwilfish=NNP=all
 R&B=NN:U=all
-R&D=noun_U=all
+R&D=NN:U=all
 R10=untagged=all
 R11=untagged=all
 R12=untagged=all
@@ -43598,7 +43598,9 @@ Württemberg=NNP=all
 Würzburg=NNP=all
 Władysław=NNP=all
 X-rated=JJ=all
-X-ray=noun_U=all
+X-ray=JJ=all
+X-ray=noun=all
+X-ray=verb=all
 X10=untagged=all
 X11=untagged=all
 X13=untagged=all
@@ -44403,24 +44405,24 @@ abaft=IN=all
 abaft=JJ=all
 abaft=RB=all
 abalone=abalone/NN,abalone/NN:U,abalones/NNS=all
-abandon=noun_U=all
+abandon=noun_UN=all
 abandon=verb=all
 abandonable=JJ=all
 abandoned=JJ=all
 abandonedly=RB=all
-abandonment=noun_U=all
+abandonment=noun_UN=all
 abandonware=NN:U=all
 abase=verb=all
-abasement=noun_U=all
+abasement=noun_UN=all
 abash=verb=all
 abashed=JJ=all
 abashedly=RB=all
 abashedness=NN:U=all
 abashless=JJ=all
-abashment=noun_U=all
+abashment=noun_UN=all
 abatable=JJ=all
 abate=verb=all
-abatement=noun_U=all
+abatement=noun_UN=all
 abatic=JJ=all
 abatis=noun=all
 abattoir=noun=all
@@ -44476,15 +44478,15 @@ abet [-tt-]=verb=all
 abetment=noun=all
 abetter=noun=all
 abettor=noun=all
-abeyance=noun_U=all
+abeyance=noun_UN=all
 abeyant=JJ=all
 abhominable=JJ=all
 abhor [-rr-]=verb=all
-abhorrence=noun_U=all
+abhorrence=noun_UN=all
 abhorrent=JJ=all
 abhorrently=RB=all
 abhorrer=noun=all
-abidance=noun_U=all
+abidance=noun_UN=all
 abide [abides;abided,abode;abided,abode;abiding]=verb=all
 abider=noun=all
 abiding=JJ=all
@@ -44498,7 +44500,7 @@ abiogenetic=JJ=all
 abiogenetically=RB=all
 abiogenic=JJ=all
 abiogenically=RB=all
-abiosis [pl. abioses]=noun_U=all
+abiosis [pl. abioses]=noun_UN=all
 abiotic=JJ=all
 abiotically=RB=all
 abiotrophic=JJ=all
@@ -44506,7 +44508,7 @@ abirritant=JJ=all
 abirritative=JJ=all
 abject=JJ=all
 abjectedness=NN:U=all
-abjection=noun_U=all
+abjection=noun_UN=all
 abjective=JJ=all
 abjectly=RB=all
 abjectness=NN:U=all
@@ -44541,7 +44543,7 @@ ablution=noun=all
 ablutionary=JJ=all
 ably=RB=all
 abnegate=verb=all
-abnegation=noun_U=all
+abnegation=noun_UN=all
 abnegator=noun=all
 abnormal=JJ=all
 abnormality=noun_UN=all
@@ -44558,9 +44560,9 @@ abolishable=JJ=all
 abolisher=noun=all
 abolishment=abolishment/NN,abolishment/NN:UN,abolishments/NNS=all
 abolition=JJ=all
-abolition=noun_U=all
+abolition=noun_UN=all
 abolitionary=JJ=all
-abolitionism=noun_U=all
+abolitionism=noun_UN=all
 abolitionist=noun=all
 abomasal=JJ=all
 abomasum=abomasum/NN,abomasa/NNS=all
@@ -44612,7 +44614,7 @@ aboveground=JJ=all
 abovementioned=JJ=all
 abox=JJ=all
 abracadabra=UH=all
-abracadabra=noun_U=all
+abracadabra=noun_UN=all
 abradant=JJ=all
 abrade=verb=all
 abrader=noun=all
@@ -44653,7 +44655,7 @@ abscess=verb=all
 abscessed=JJ=all
 abscise=verb=all
 abscissa=abscissa/NN,abscissae/NNS,abscissas/NNS=all
-abscission=noun_U=all
+abscission=noun_UN=all
 abscond=verb=all
 absconder=noun=all
 abseil=noun=all
@@ -44668,21 +44670,21 @@ absent=IN=all
 absent=absent/JJ,absenter/JJR=all
 absent=verb=all
 absentee=noun=all
-absenteeism=noun_U=all
+absenteeism=noun_UN=all
 absently=RB=all
 absentminded=JJ=all
 absentmindedly=RB=all
 absentmindedness=NN:U=all
 absentness=NN:U=all
-absinthe=noun_U=all
+absinthe=noun_UN=all
 absinthial=JJ=all
 absinthism=noun_UN=all
 absolute=absolute/JJ,absoluter/JJR,absolutest/JJS=all
 absolute=noun=all
 absolutely=RB=all
 absoluteness=NN:U=all
-absolution=noun_U=all
-absolutism=noun_U=all
+absolution=noun_UN=all
+absolutism=noun_UN=all
 absolutist=JJ=all
 absolutist=noun=all
 absolutistic=JJ=all
@@ -44702,7 +44704,7 @@ absorbed=JJ=all
 absorbedly=RB=all
 absorbedness=NN:U=all
 absorbefacient=JJ=all
-absorbency=noun_U=all
+absorbency=noun_UN=all
 absorbent=JJ=all
 absorbent=noun=all
 absorber=noun=all
@@ -44711,7 +44713,7 @@ absorbingly=RB=all
 absorptance=noun=all
 absorptiometer=noun=all
 absorptiometric=JJ=all
-absorption=noun_U=all
+absorption=noun_UN=all
 absorptive=JJ=all
 absorptiveness=NN:U=all
 absorptivity=noun_UN=all
@@ -44727,7 +44729,7 @@ abstentious=JJ=all
 abstergent=JJ=all
 abstergent=noun=all
 abstersiveness=NN:U=all
-abstinence=noun_U=all
+abstinence=noun_UN=all
 abstinent=JJ=all
 abstinent=NN=all
 abstinently=RB=all
@@ -44759,7 +44761,7 @@ absurdly=RB=all
 absurdness=NN:U=all
 abulia=noun=all
 abulic=JJ=all
-abundance=noun_U=all
+abundance=noun_UN=all
 abundant=JJ=all
 abundantly=RB=all
 abusable=JJ=all
@@ -44782,8 +44784,8 @@ abyss=noun=all
 abyssal=JJ=all
 ac=abbreviation=us,ca,au,nz,za
 acacia=noun_UN=all
-academe=noun_U=all
-academia=noun_U=all
+academe=noun_UN=all
+academia=noun_UN=all
 academic=JJ=all
 academic=noun=all
 academical=JJ=all
@@ -44834,7 +44836,7 @@ accelerate=verb=all
 acceleratedly=RB=all
 accelerating=JJ=all
 acceleratingly=RB=all
-acceleration=noun_U=all
+acceleration=noun_UN=all
 accelerationist=noun=all
 accelerative=JJ=all
 accelerator=noun=all
@@ -44850,9 +44852,9 @@ accentuable=JJ=all
 accentual=JJ=all
 accentually=RB=all
 accentuate=verb=all
-accentuation=noun_U=all
+accentuation=noun_UN=all
 accept=verb=all
-acceptability=noun_U=all
+acceptability=noun_UN=all
 acceptable=JJ=all
 acceptableness=NN:U=all
 acceptably=RB=all
@@ -44867,12 +44869,12 @@ accepting=JJ=all
 acceptingly=RB=all
 acceptingness=NN:U=all
 acceptive=JJ=all
-acceptor=noun_U=all
+acceptor=noun=all
 access=noun_UN=all
 access=verb=all
 accessarily=RB=all
 accessariness=NN:U=all
-accessibility=noun_U=all
+accessibility=noun_UN=all
 accessible=JJ=all
 accessibleness=NN:U=all
 accessibly=RB=all
@@ -44886,7 +44888,7 @@ accessorize|accessorise=verb=us,ca,gb|gb,au,nz,za
 accessory=JJ=all
 accessory=noun=all
 acciaccatura=noun=all
-accidence=noun_U=all
+accidence=noun_UN=all
 accident-prone=JJ=all
 accident=noun_UN=all
 accidental=JJ=all
@@ -44899,11 +44901,11 @@ accipitrine=JJ=all
 acclaim=noun_UN=all
 acclaim=verb=all
 acclaimer=noun=all
-acclamation=noun_U=all
+acclamation=noun_UN=all
 acclamatory=JJ=all
 acclimatable=JJ=all
 acclimate=verb=all
-acclimation=noun_U=all
+acclimation=noun_UN=all
 acclimatizable|acclimatisable=JJ=us,ca,gb|gb,au,nz,za
 acclimatization|acclimatisation=noun_UN=us,ca,gb|gb,au,nz,za
 acclimatizer|acclimatiser=noun=us,ca,gb|gb,au,nz,za
@@ -44937,7 +44939,7 @@ accomplishment=noun_UN=all
 accord=noun_UN=all
 accord=verb=all
 accordable=JJ=all
-accordance=noun_U=all
+accordance=noun_UN=all
 accordant=JJ=all
 accordantly=RB=all
 according=JJ=all
@@ -44952,24 +44954,24 @@ accouchement=noun=all
 accoucheur=noun=all
 account=noun_UN=all
 account=verb=all
-accountability=noun_U=all
+accountability=noun_UN=all
 accountable=JJ=all
 accountableness=NN:U=all
 accountably=RB=all
-accountancy=noun_U=all
+accountancy=noun_UN=all
 accountant=noun=all
-accounting=noun_U=all
+accounting=noun_UN=all
 accoutre=verb=all
 accoutrement=noun=all
 accredit=verb=all
-accreditation=noun_U=all
+accreditation=noun_UN=all
 accredited=JJ=all
 accrescent=JJ=all
 accrete=verb=all
 accretion=noun_UN=all
 accretionary=JJ=all
 accretive=JJ=all
-accrual=accrual/NN,accrual/NN:U,accruals/NNS=all
+accrual=noun_UN=all
 accrue=verb=all
 acct=NN=all
 acculturate=verb=all
@@ -44984,7 +44986,7 @@ accumulative=JJ=all
 accumulatively=RB=all
 accumulativeness=NN:U=all
 accumulator=noun=all
-accuracy=noun_U=all
+accuracy=noun_UN=all
 accurate=JJ=all
 accurately=RB=all
 accurateness=NN:U=all
@@ -45033,15 +45035,15 @@ acescent=noun=all
 acetabular=JJ=all
 acetabuliform=JJ=all
 acetabulum=noun=all
-acetaldehyde=noun_U=all
-acetaminophen=noun_U=all
+acetaldehyde=noun_UN=all
+acetaminophen=noun=all
 acetanilide=noun=all
 acetate=noun_U=all
 acetated=JJ=all
 acetic=JJ=all
 acetimeter=noun=all
 acetometer=noun=all
-acetone=noun_U=all
+acetone=noun_UN=all
 acetonic=JJ=all
 acetonitrile=noun=all
 acetose=JJ=all
@@ -45151,7 +45153,7 @@ acknowledge=verb=all
 acknowledgeable=JJ=all
 acknowledgedly=RB=all
 acknowledger=noun=all
-acknowledgment|acknowledgement=noun_U=all|all
+acknowledgment|acknowledgement=noun_UN=all|all
 acme=noun=all
 acmic=JJ=all
 acne=noun_U=all
@@ -45275,7 +45277,7 @@ actin=noun_U=all
 actinal=JJ=all
 actinally=RB=all
 acting=JJ=all
-acting=noun_U=all
+acting=noun_UN=all
 actinia=noun=all
 actinic=JJ=all
 actinically=RB=all
@@ -45775,7 +45777,7 @@ advertisable=JJ=all
 advertise=verb=all
 advertisement=noun_UN=all
 advertiser=noun=all
-advertising=noun_U=all
+advertising=noun_UN=all
 advice=noun_U=all
 advisability=noun_U=all
 advisable=JJ=all
@@ -46220,7 +46222,7 @@ agilely=RB=all
 agileness=NN:U=all
 agility=noun_U=all
 aging|ageing=JJ=us,ca,au|au,gb,nz,za
-aging|ageing=noun_U=us,ca,au|au,gb,nz,za
+aging|ageing=noun_UN=us,ca,au|au,gb,nz,za
 agio=noun=all
 agitable=JJ=all
 agitate=verb=all
@@ -47885,7 +47887,7 @@ angleworm=noun=all
 anglicism=noun=all
 anglicization|anglicisation=noun_UN=us,ca,gb|gb,au,nz,za
 anglicize|anglicise=verb=us,ca,gb|gb,au,nz,za
-angling=noun_U=all
+angling=noun_UN=all
 anglo-jewish=JJ=all
 anglophilic=JJ=all
 anglophone=JJ=all
@@ -51677,7 +51679,7 @@ babylike=JJ=all
 babyproof=JJ=all
 babysit [babysits;babysat;babysat;babysitting]=verb=all
 babysitter=noun=all
-babysitting=noun_U=all
+babysitting=noun_UN=all
 baccalaureate=noun=all
 baccarat=noun_U=all
 baccate=JJ=all
@@ -51789,7 +51791,7 @@ backorder=verb=all
 backpack=noun=all
 backpack=verb=all
 backpacker=noun=all
-backpacking=noun_U=all
+backpacking=NN:U=all
 backpedal [-ll-]|backpedal=verb=all|us
 backplate=noun=all
 backport=noun=all
@@ -51805,7 +51807,7 @@ backseat=noun=all
 backside=noun=all
 backsight=noun=all
 backslapper=noun=all
-backslapping=noun_U=all
+backslapping=noun_UN=all
 backslash=noun=all
 backslid=NN=all
 backslide [backslides;backslid;backslid,backslidden;backsliding]=verb=all
@@ -52190,7 +52192,7 @@ bankable=JJ=all
 bankbook=noun=all
 bankcard=noun=all
 banker=noun=all
-banking=noun_U=all
+banking=noun_UN=all
 banknote=noun=all
 bankroll=noun=all
 bankroll=verb=all
@@ -52402,7 +52404,7 @@ barrable=JJ=all
 barrack=noun=all
 barrack=verb=all
 barracker=noun=all
-barracking=noun_U=all
+barracking=noun_UN=all
 barracks=barracks/NN,barracks/NNS=all
 barracuda=barracuda/NN,barracuda/NNS,barracudas/NNS=all
 barrage=noun=all
@@ -52484,7 +52486,7 @@ basher=noun=all
 bashful=JJ=all
 bashfully=RB=all
 bashfulness=NN:U=all
-bashing=noun_U=all
+bashing=noun_UN=all
 bashless=JJ=all
 basic=JJ=all
 basic=noun=all
@@ -52562,7 +52564,7 @@ bathe=verb=all
 bather=noun=all
 bathetic=JJ=all
 bathhouse=noun=all
-bathing=noun_U=all
+bathing=noun_UN=all
 bathless=JJ=all
 bathmat=noun=all
 batholith=noun=all
@@ -52608,7 +52610,7 @@ battery-operated=JJ=all
 battery-powered=JJ=all
 battery=noun_UN=all
 battiness=NN:U=all
-batting=noun_U=all
+batting=noun_UN=all
 battle-scarred=JJ=all
 battle=noun_UN=all
 battle=verb=all
@@ -58393,7 +58395,7 @@ cavern=noun=all
 cavernous=JJ=all
 cavernously=RB=all
 cavesson=noun=all
-caviar=noun_U=all
+caviar=noun_UN=all
 cavicorn=JJ=all
 cavil [-ll-]|cavil=verb=all|us
 cavil=noun=all
@@ -65007,7 +65009,7 @@ crier=noun=all
 crikey=UH=all
 crikey=noun=all
 crime-ridden=JJ=all
-crime=noun_U=all
+crime=noun_UN=all
 crimeless=JJ=all
 crimelessness=NN:U=all
 criminal=JJ=all
@@ -74925,7 +74927,7 @@ evangel=noun=all
 evangelic=JJ=all
 evangelical=JJ=all
 evangelical=noun=all
-evangelicalism=noun_U=all
+evangelicalism=noun_UN=all
 evangelically=RB=all
 evangelicalness=NN:U=all
 evangelion=noun=all
@@ -81567,7 +81569,7 @@ glaring=JJ=all
 glaringly=RB=all
 glaringness=NN:U=all
 glary=glary/JJ,glarier/JJR,glariest/JJS=all
-glasnost=noun_U=all
+glasnost=noun_UN=all
 glass=JJ=all
 glass=glass/NN,glass/NN:U,glasses/NNS=all
 glass=verb=all
@@ -81591,7 +81593,7 @@ glasswort=noun=all
 glassy-eyed=JJ=all
 glassy=glassy/JJ,glassier/JJR,glassiest/JJS=all
 glaucescent=JJ=all
-glaucoma=noun_U=all
+glaucoma=noun_UN=all
 glaucomatous=JJ=all
 glauconite=noun=all
 glauconitic=JJ=all

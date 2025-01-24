@@ -387,6 +387,7 @@ agatising
 age
 aged
 ageing
+ageings
 agenise
 agenised
 agenises
@@ -395,11 +396,13 @@ ages
 aggrandise
 aggrandised
 aggrandisement
+aggrandisements
 aggrandiser
 aggrandisers
 aggrandises
 aggrandising
 aging
+agings
 agnise
 agnised
 agnises
@@ -479,6 +482,7 @@ aluminised
 aluminises
 aluminising
 aluminium
+aluminiums
 amber-coloured
 amortisable
 amortisation
@@ -490,9 +494,11 @@ amortising
 amphitheatre
 amphitheatres
 anaemia
+anaemias
 anaemic
 anaemically
 anaesthesia
+anaesthesias
 anaesthesiologist
 anaesthesiologists
 anaesthetic
@@ -553,6 +559,7 @@ androgenise
 androgenised
 androgenises
 androgenising
+anesthesiologies
 anesthesiology
 anesthetisation
 anesthetisations
@@ -654,6 +661,7 @@ aphorised
 aphorises
 aphorising
 apnea
+apneas
 apocentre
 apocentres
 apologise
@@ -691,6 +699,7 @@ appetising
 appetisingly
 appetisingness
 applesauce
+applesauces
 arabicisation
 arabicisations
 arabicise
@@ -1050,6 +1059,7 @@ bussing
 buzzkill
 buzzkills
 caesium
+caesiums
 calcitisation
 calcitisations
 calendarise
@@ -1429,6 +1439,7 @@ climatised
 climatises
 climatising
 clingfilm
+clingfilms
 cliticisation
 cliticisations
 close-fertilisation
@@ -1451,6 +1462,7 @@ cognisable
 cognisableness
 cognisably
 cognisance
+cognisances
 cognisant
 cognisantly
 cognise
@@ -1979,6 +1991,7 @@ deemphasised
 deemphasises
 deemphasising
 deescalation
+deescalations
 defamiliarisation
 defamiliarisations
 defamiliarise
@@ -2438,6 +2451,7 @@ diarises
 diarising
 diarrhoea
 diarrhoeal
+diarrhoeas
 diarrhoeic
 diarrhoetic
 diazotisable
@@ -3044,6 +3058,7 @@ federalised
 federalises
 federalising
 felspar
+felspars
 feminisation
 feminisations
 feminise
@@ -3092,8 +3107,11 @@ fiberising
 fibre
 fibre-optic
 fibreboard
+fibreboards
 fibrefill
+fibrefills
 fibreglass
+fibreglasses
 fibres
 fictionalisation
 fictionalisations
@@ -3230,6 +3248,7 @@ freeway
 freeways
 french
 fulfilment
+fulfilments
 functionalisation
 functionalisations
 functionalise
@@ -3357,6 +3376,7 @@ gold-coloured
 gonadectomised
 gonorrhoea
 gonorrhoeal
+gonorrhoeas
 gonorrhoeic
 good-humoured
 good-humouredly
@@ -3452,6 +3472,7 @@ gutturalise
 gutturalised
 gutturalises
 gutturalising
+gynaecocracies
 gynaecocracy
 gynaecocrat
 gynaecocratic
@@ -3460,6 +3481,7 @@ gynaecoid
 gynaecologic
 gynaecological
 gynaecologically
+gynaecologies
 gynaecologist
 gynaecologists
 gynaecology
@@ -3487,6 +3509,7 @@ haematomas
 haemophilia
 haemophiliac
 haemophiliacs
+haemophilias
 haemorrhage
 haemorrhaged
 haemorrhages
@@ -3502,6 +3525,7 @@ half-coloured
 half-litre
 half-litres
 halftime
+halftimes
 hand-coloured
 haply
 harbour
@@ -4105,6 +4129,7 @@ jeopardised
 jeopardises
 jeopardising
 jeweller
+jewelleries
 jewellers
 jewellery
 journalisation
@@ -4266,6 +4291,7 @@ lemmatised
 lemmatises
 lemmatising
 leukaemia
+leukaemias
 leukaemic
 leveller
 levellers
@@ -4359,6 +4385,7 @@ logicises
 logicising
 loveable
 lucerne
+lucernes
 lunchroom
 lunchrooms
 lustre
@@ -4418,6 +4445,7 @@ majorises
 majorising
 malodour
 malodours
+manoeuvrabilities
 manoeuvrability
 manoeuvrable
 manoeuvre
@@ -4689,6 +4717,7 @@ micronised
 micronises
 micronising
 midtown
+midtowns
 militarisation
 militarisations
 militarise
@@ -5144,6 +5173,7 @@ nonabrasive
 nonabsorbent
 nonabsorbents
 nonacceptance
+nonacceptances
 nonacid
 nonacids
 nonadaptive
@@ -5152,6 +5182,7 @@ nonadhesive
 nonadjacent
 nonadjustable
 nonaggression
+nonaggressions
 nonalcoholic
 nonalcoholics
 nonanaesthetised
@@ -5159,6 +5190,7 @@ nonappearance
 nonappearances
 nonathletic
 nonattendance
+nonattendances
 nonbeliever
 nonbelievers
 nonbelligerent
@@ -5196,6 +5228,7 @@ nonconstructive
 noncontagious
 noncontinuous
 noncooperation
+noncooperations
 noncorroding
 noncorrodings
 noncorrosive
@@ -5216,6 +5249,7 @@ nondestructive
 nondesulfurisation
 nondesulfurisations
 nondiscrimination
+nondiscriminations
 nondiscriminatory
 nondistinctive
 nondrinker
@@ -5237,6 +5271,7 @@ nonexclusive
 nonexempt
 nonexempts
 nonexistence
+nonexistences
 nonexplosive
 nonexplosives
 nonfarm
@@ -5272,7 +5307,9 @@ noninstitutionalised
 nonintellectual
 nonintellectuals
 noninterference
+noninterferences
 nonintervention
+noninterventions
 nonintoxicant
 nonintoxicating
 noniodised
@@ -5283,6 +5320,7 @@ nonjudgemental
 nonlegal
 nonlethal
 nonliving
+nonlivings
 nonlocalisable
 nonlocalised
 nonlogical
@@ -5303,6 +5341,7 @@ nonnationalisation
 nonnationalisations
 nonnitrogenised
 nonobservance
+nonobservances
 nonoccurrence
 nonoccurrences
 nonofficial
@@ -5324,6 +5363,7 @@ nonpayment
 nonpayments
 nonpenalised
 nonperformance
+nonperformances
 nonperishable
 nonperishables
 nonperson
@@ -5348,6 +5388,7 @@ nonreciprocal
 nonreciprocals
 nonrecognised
 nonrecognition
+nonrecognitions
 nonrecurrent
 nonrecurring
 nonrefillable
@@ -5355,6 +5396,7 @@ nonresidence
 nonresidences
 nonresidential
 nonresistance
+nonresistances
 nonrestricted
 nonreversible
 nonruminant
@@ -5397,6 +5439,7 @@ nonsubsidised
 nonsuccess
 nonsuccesses
 nonsupport
+nonsupports
 nonsurgical
 nonsynthesised
 nontautomerisable
@@ -5420,6 +5463,7 @@ nonvenomous
 nonverbal
 nonverbalised
 nonviolence
+nonviolences
 nonvisual
 nonvisualised
 nonvocal
@@ -5503,6 +5547,7 @@ oestrogenisation
 oestrogenisations
 oestrogens
 oestrone
+oestrones
 oestrous
 off-centre
 off-colour
@@ -6715,6 +6760,7 @@ purple-coloured
 pyjama
 pyjamas
 pyorrhoea
+pyorrhoeas
 pyritise
 pyritised
 pyritises
@@ -6780,6 +6826,7 @@ radiosterilisation
 radiosterilisations
 rainbow-coloured
 rancour
+rancours
 randomisation
 randomisations
 randomise
@@ -6886,6 +6933,7 @@ recognisability
 recognisable
 recognisably
 recognisance
+recognisances
 recognise
 recognised
 recogniser
@@ -7420,6 +7468,7 @@ sceptic
 sceptical
 sceptically
 scepticism
+scepticisms
 sceptics
 sceptre
 sceptred
@@ -7458,6 +7507,7 @@ scrutinises
 scrutinising
 scrutinisingly
 seborrhoea
+seborrhoeas
 sectarianise
 sectarianised
 sectarianises
@@ -7560,6 +7610,7 @@ sentimentalised
 sentimentalises
 sentimentalising
 septicaemia
+septicaemias
 septicaemic
 sepulchre
 sepulchred
@@ -7808,6 +7859,7 @@ spirted
 spirting
 spirts
 splendour
+splendours
 splenectomise
 splenectomised
 splenectomises
@@ -7986,6 +8038,7 @@ succours
 sulfurisation
 sulfurisations
 sulphate
+sulphates
 sulphatisation
 sulphatisations
 sulphonation
@@ -8268,6 +8321,7 @@ theatre-in-the-round
 theatregoer
 theatregoers
 theatregoing
+theatregoings
 theatres
 theatres-in-the-round
 theatricalisation
@@ -8372,6 +8426,7 @@ tranquilliser
 tranquillisers
 tranquillises
 tranquillising
+tranquillities
 tranquillity
 transcendentalisation
 transcendentalisations
@@ -8795,7 +8850,9 @@ upperclassmen
 upperclasswoman
 upperclasswomen
 upstate
+upstates
 uraemia
+uraemias
 uraemic
 uralitise
 uralitised
@@ -8835,6 +8892,7 @@ valorised
 valorises
 valorising
 valour
+valours
 vampirise
 vampirised
 vampirises
@@ -8937,6 +8995,7 @@ victimises
 victimising
 vigour
 vigourless
+vigours
 villainise
 villainised
 villainises
