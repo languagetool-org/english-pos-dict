@@ -51774,7 +51774,7 @@ backhaul=NN=all
 backhaul=verb=all
 backhoe=noun=all
 backing=noun_UN=all
-backlash=backlash/NN,backlash/NN:U,backlashes/NNS=all
+backlash=noun_UN=all
 backlash=verb=all
 backless=JJ=all
 backlight [backlights;backlighted,backlit;backlighted,backlit;backlighting]=verb=all
@@ -58380,7 +58380,7 @@ cavaliere [pl. cavalieri]=noun=all
 cavalierly=JJ=all
 cavalierly=RB=all
 cavalierness=NN:U=all
-cavalry=cavalry/NN:UN,cavalries/NNS=all
+cavalry=noun_UN=all
 cavalryman [pl. cavalrymen]=noun=all
 cavatina=noun=all
 cave-in=noun=all
@@ -65459,7 +65459,7 @@ cryosphere=noun=all
 cryospheric=JJ=all
 cryostat=noun=all
 cryosurgery=noun_U=all
-cryotherapy=cryotherapy/NN,cryotherapy/NN:UN,cryotherapies/NNS=all
+cryotherapy=noun_UN=all
 cryovolcanism=NN:U=all
 crypt=noun=all
 cryptal=JJ=all
@@ -80150,7 +80150,7 @@ furnish=verb=all
 furnished=JJ=all
 furnisher=noun=all
 furnishing=noun_UN=all
-furniture=noun_U=all
+furniture=NN:U=all
 furnitureless=JJ=all
 furor=noun=ca,us
 furore=noun=gb,au,nz,za
@@ -103477,7 +103477,7 @@ neuropathic=JJ=all
 neuropathically=RB=all
 neuropathological=JJ=all
 neuropathologically=RB=all
-neuropathy=neuropathy/NN,neuropathy/NN:UN,neuropathies/NNS=all
+neuropathy=noun_UN=all
 neuropeptide=noun=all
 neuropharmacologic=JJ=all
 neuropharmacological=JJ=all
@@ -108096,7 +108096,7 @@ oidioid=JJ=all
 oik=noun=all
 oil-bearing=JJ=all
 oil-fired=JJ=all
-oil=oil/NN,oil/NN:U,oils/NNS=all
+oil=noun_UN=all
 oil=verb=all
 oilbird=noun=all
 oilcan=noun=all
@@ -113814,7 +113814,7 @@ phosphorization|phosphorisation=noun_UN=us,ca,gb|gb,au,nz,za
 phosphorolysis [pl. phosphorolyses]=noun=all
 phosphorous=JJ=all
 phosphorrösslerite=NN:U=all
-phosphorus=phosphorus/NN:U,phosphori/NNS,phosphoruses/NNS=all
+phosphorus [pl. phosphoruses,phosphori]=noun_UN=all
 phosphorylate=verb=all
 phosphorylation=noun_UN=all
 phosphotungstic=JJ=all
@@ -123820,7 +123820,7 @@ reshuffling=NN:UN=all
 reshuffling=RB=all
 reside=verb=all
 residence=noun_UN=all
-residency=residency/NN,residency/NN:UN,residencies/NNS=all
+residency=noun_UN=all
 resident=JJ=all
 resident=noun=all
 residential=JJ=all
@@ -138772,7 +138772,7 @@ tellurite=noun=all
 tellurium=noun_U=all
 tellurometer=noun=all
 tellurous=JJ=all
-telly=telly/NN:UN,tellies/NNS,tellys/NNS=all
+telly [pl. tellys,tellies]=noun_UN=all
 telnet=noun=all
 telnet=verb=all
 telocentric=JJ=all
