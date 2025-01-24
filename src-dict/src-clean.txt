@@ -49218,8 +49218,8 @@ anuria=anuria/NN,anuria/NN:U,anurias/NNS=all
 anuric=JJ=all
 anurous=JJ=all
 anus=anus/NN,ani/NNS,anuses/NNS=all
-anvil=noun=all
 anvil [-ll-]=verb=gb,nz,za
+anvil=noun=all
 anxiety-free=JJ=all
 anxiety=noun_UN=all
 anxiogenic=JJ=all
@@ -55366,8 +55366,8 @@ bowdlerizer|bowdleriser=noun=us,ca,gb|gb,au,nz,za
 bowdlerize|bowdlerise=verb=us,ca,gb|gb,au,nz,za
 bowed=JJ=all
 bowedness=NN:U=all
-bowel=noun=all
 bowel [-ll-]=verb=all
+bowel=noun=all
 bowelless=JJ=all
 bower=noun=all
 bowerbird=noun=all
@@ -56821,8 +56821,8 @@ cabala=noun_U=all
 cabalist=noun=all
 cabalistic=JJ=all
 cabalistically=RB=all
-caballing=noun_UN=gb,nz,za
 caballero=noun=all
+caballing=noun_UN=gb,nz,za
 cabana=noun=all
 cabaret=noun=all
 cabbage=noun_U=all
@@ -57278,8 +57278,8 @@ can=can/MD,cannot/MD,canst/MD,could/MD,couldest/MD,couldst/MD=all
 can=noun=all
 can=verb=all
 canadianization|canadianisation=noun_UN=us,ca,gb|gb,au,nz,za
-canal=noun=all
 canal [-ll-,-l-]=verb=all
+canal=noun=all
 canalicular=JJ=all
 canaliculate=JJ=all
 canaliculated=JJ=all
@@ -57617,9 +57617,8 @@ carabiniere=NN=all
 caracal=noun=all
 caracara=noun=all
 caracol [-ll-,-l-]=verb=all
-caracole=noun=all
-caracole=noun=all
 caracole=caracoles/VBZ,caracoled/VBD,caracolled/VBD,caracoled/VBN,caracolled/VBN,caracoling/VBG,caracolling/VBG=all
+caracole=noun=all
 caracul=noun=all
 carafe=noun=all
 carambola=noun=all
@@ -58288,8 +58287,8 @@ catholicness=NN:U=all
 cation=noun_UN=all
 cationic=JJ=all
 catkin=noun=all
-catling=noun=all
 catlike=JJ=all
+catling=noun=all
 catmint=noun=all
 catnap [-pp-]=verb=all
 catnap=noun=all
@@ -77703,7 +77702,7 @@ first=JJ=all
 first=RB=all
 first=noun_UN=all
 firstborn=JJ=all
-firstborn=firstborn/NN,firstborn/NNS,firstborns/NNS=all
+firstborn=noun=all
 firsthand=JJ=all
 firsthand=RB=all
 firstly=RB=all
@@ -77736,7 +77735,7 @@ fishplate=noun=all
 fishpond=noun=all
 fishtail=noun=all
 fishtail=verb=all
-fishwife=fishwife/NN,fishwives/NNS=all
+fishwife [pl. fishwives]=noun=all
 fishy=fishy/JJ,fishier/JJR,fishiest/JJS=all
 fissile=JJ=all
 fissility=noun_UN=all
@@ -77761,7 +77760,7 @@ fistful=noun=all
 fistic=JJ=all
 fisticuff=noun=all
 fistnote=noun=all
-fistula=fistula/NN:U,fistulae/NNS,fistulas/NNS=all
+fistula [pl. fistulae,fistulas]=noun=all
 fistular=JJ=all
 fistulate=JJ=all
 fistulization|fistulisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -102075,8 +102074,8 @@ multiradical=JJ=all
 multiramified=JJ=all
 multiramose=JJ=all
 multiramous=JJ=all
-multireligious=JJ=all
 multiregional=JJ=all
+multireligious=JJ=all
 multiresistant=JJ=all
 multirole=JJ=all
 multirooted=JJ=all
@@ -126960,8 +126959,8 @@ schmancy=JJ=all # informal
 schmooze=verb=all
 schmoozer=noun=all # informal, mostly US
 schmuck=noun=all # informal, mostly US
-schnaps=schnaps/NN:UN,schnaps/NNS,schnapses/NNS=all
 schnapps=schnapps/NN:UN,schnapps/NNS,schnappses/NNS=all
+schnaps=schnaps/NN:UN,schnaps/NNS,schnapses/NNS=all
 schnauzer=noun=all
 schnitzel=noun_UN=all
 schnook=noun=all
