@@ -51744,6 +51744,7 @@ backdate=verb=all
 backdoor=JJ=all
 backdoor=noun=all
 backdoor=verb=all
+backdown=noun=all
 backdrop [-pp-]=verb=all
 backdrop=noun=all
 backed=JJ=all
@@ -60596,9 +60597,10 @@ climatology=noun_U=all
 climax=noun=all
 climax=verb=all
 climaxless=JJ=all
-climb=climb/NN,climbdown/NNS,climbs/NNS=all
+climb=noun=all
 climb=verb=all
 climbable=JJ=all
+climbdown=noun=all
 climber=noun=all
 climbing=JJ=all
 climbing=noun_U=all
@@ -109314,6 +109316,7 @@ outcast=JJ=all
 outcast=noun=all
 outclass=verb=all
 outclassed=JJ=all
+outclimb=verb=all
 outcome=noun=all
 outcompete=verb=all
 outcrop [-pp-]=verb=all

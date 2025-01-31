@@ -61290,7 +61290,6 @@ backchannel=UNTAGGED=gb
 backchannels=UNTAGGED=gb
 backcourtman=backcourtman/NN,backcourtmen/NNS=none
 backcrawl=NN:U=gb
-backdown=noun=none
 backdraft=UNTAGGED=us
 backdraught=UNTAGGED=gb
 backdraughts=UNTAGGED=gb
