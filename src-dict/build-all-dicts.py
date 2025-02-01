@@ -23,13 +23,10 @@ all_variants = ["us", "gb", "ca", "nz", "au", "za", "all"]
 tags_to_avoid = ["untagged", "punctuation", "abbreviation", "symbol", "contraction"]
 spelling_dicts = {}
 for myvariant in all_variants:
-    spelling_dicts[myvariant] = {}
-
+    spelling_dicts[myvariant] = set()
+to_tagger_file = set()
 for file_path in ["./src-dict/src-clean.txt"]:  # ,"./src-dict/src-pending.txt"
     with open(file_path, "r", encoding='utf-8') as file:
-        tagger_file.write("#\t#\t#\n")
-        tagger_file.write(",\t,\t,\n")
-        tagger_file.write(".\t.\t.\n")
         for line in file.readlines():
             form_lines = inflection.getFormsFromLine(line)
             if len(form_lines) > 0:
@@ -41,21 +38,35 @@ for file_path in ["./src-dict/src-clean.txt"]:  # ,"./src-dict/src-pending.txt"
                         tag = parts[2]
                         variants = parts[3]
                         if tag not in tags_to_avoid:
-                            tagger_file.write(form + "\t" + lemma + "\t" + tag + "\n")
+                            to_tagger_file.add(form + "\t" + lemma + "\t" + tag)
                         for variant in variants.split(","):
                             variant = variant.strip()
                             # if variant == "all":
                             #  for myvariant in all_variants:
                             #    spelling_dicts[myvariant][form] = ""
                             if variant in all_variants:
-                                spelling_dicts[variant][form] = ""
+                                spelling_dicts[variant].add(form)
             # else:
             # print ("Cannot build from line:" + line)
+#write tagger file
+to_tagger_file.add("#\t#\t#")
+to_tagger_file.add(",\t,\t,")
+to_tagger_file.add(".\t.\t.")
+for line in sorted(to_tagger_file):
+    tagger_file.write(line + "\n")
+
+# move common words to "all"
+common_words = set(spelling_dicts["us"]) 
+for variant in ["gb", "ca", "nz", "au", "za"]:
+    common_words.intersection_update(spelling_dicts[variant])
+spelling_dicts["all"].update(common_words)
+for variant in ["us", "gb", "ca", "nz", "au", "za"]:
+    spelling_dicts[variant].difference_update(common_words)
+
 
 for myvariant in all_variants:
-    spell_dict = dict(sorted(spelling_dicts[myvariant].items()))
-
+    spell_dict = sorted(spelling_dicts[myvariant])
     output_file = open("./src-dict/output/en_" + myvariant.upper() + ".txt", "w", encoding="utf-8")
-    for key in spell_dict.keys():
+    for key in spell_dict:
         output_file.write(key + "\n")
     output_file.close()

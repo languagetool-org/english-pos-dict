@@ -46203,13 +46203,13 @@ agatize|agatise=verb=us,ca,gb|gb,au,nz,za
 agave=noun_U=all
 agaze=JJ=all
 age [ages;aged;aged;ageing]=verb=au,gb,nz,za
+age [ages;aged;aged;aging]=verb=us,ca,au
 age-dependent=JJ=all
 age-long=JJ=all
 age-old=JJ=all
 age-related=JJ=all
 age-specific=JJ=all
 age=noun_UN=all
-age=verb=us,ca,au
 aged=JJ=all
 aged=NN=all
 agedly=RB=all

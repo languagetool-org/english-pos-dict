@@ -379,13 +379,10 @@ agatize
 agatized
 agatizes
 agatizing
-age
-aged
 agenize
 agenized
 agenizes
 agenizing
-ages
 aggrandize
 aggrandized
 aggrandizement
@@ -678,8 +675,6 @@ apotheosized
 apotheosizes
 apotheosizing
 appall
-appalled
-appalling
 appalls
 appetize
 appetized
@@ -1774,7 +1769,6 @@ cross-town
 crosstown
 crosswalk
 crosswalks
-cruel
 crueller
 cruellest
 crystallizability
@@ -2532,8 +2526,6 @@ discretized
 discretizes
 discretizing
 disenrol
-disenrolled
-disenrolling
 disenrolment
 disenrolments
 disenrols
@@ -2583,8 +2575,6 @@ dissocialized
 dissocializes
 dissocializing
 distill
-distilled
-distilling
 distills
 disulphate
 disulphates
@@ -2796,14 +2786,10 @@ enolizable
 enolization
 enolizations
 enrol
-enrolled
-enrolling
 enrolment
 enrolments
 enrols
 enthrall
-enthralled
-enthralling
 enthralls
 enthronization
 enthronizations
@@ -3998,8 +3984,6 @@ insolubilizations
 instalment
 instalments
 instill
-instilled
-instilling
 instills
 institutionalization
 institutionalizations
@@ -4782,8 +4766,6 @@ misemphasized
 misemphasizes
 misemphasizing
 misenrol
-misenrolled
-misenrolling
 misenrolment
 misenrolments
 misenrols
@@ -6973,8 +6955,6 @@ recrystallizes
 recrystallizing
 red-coloured
 redistill
-redistilled
-redistilling
 redistills
 reemphasize
 reemphasized
@@ -8398,7 +8378,6 @@ traditionalize
 traditionalized
 traditionalizes
 traditionalizing
-tranquil
 tranquilities
 tranquility
 tranquilization
@@ -9155,12 +9134,10 @@ workcation
 workcations
 workweek
 workweeks
-worship
 worshipped
 worshipper
 worshippers
 worshipping
-worships
 writeable
 xerox
 xeroxed

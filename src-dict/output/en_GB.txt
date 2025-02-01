@@ -741,8 +741,6 @@ agatize
 agatized
 agatizes
 agatizing
-age
-aged
 ageing
 ageings
 agenise
@@ -753,7 +751,6 @@ agenize
 agenized
 agenizes
 agenizing
-ages
 aggrandise
 aggrandised
 aggrandisement
@@ -1293,8 +1290,6 @@ apotheosized
 apotheosizes
 apotheosizing
 appal
-appalled
-appalling
 appals
 appetise
 appetised
@@ -3110,7 +3105,6 @@ cross-fertilisation
 cross-fertilisations
 cross-fertilization
 cross-fertilizations
-cruel
 crueller
 cruellest
 cryptical
@@ -4539,8 +4533,6 @@ discretized
 discretizes
 discretizing
 disenrol
-disenrolled
-disenrolling
 disenrolment
 disenrolments
 disenrols
@@ -4620,8 +4612,6 @@ dissocialized
 dissocializes
 dissocializing
 distil
-distilled
-distilling
 distils
 disulphate
 disulphates
@@ -4979,14 +4969,10 @@ enolizations
 enquiries
 enquiry
 enrol
-enrolled
-enrolling
 enrolment
 enrolments
 enrols
 enthral
-enthralled
-enthralling
 enthrals
 enthronisation
 enthronisations
@@ -7080,8 +7066,6 @@ instalment
 instalments
 instals
 instil
-instilled
-instilling
 instils
 institutionalisation
 institutionalisations
@@ -8493,8 +8477,6 @@ misemphasized
 misemphasizes
 misemphasizing
 misenrol
-misenrolled
-misenrolling
 misenrolment
 misenrolments
 misenrols
@@ -12178,8 +12160,6 @@ recrystallizes
 recrystallizing
 red-coloured
 redistil
-redistilled
-redistilling
 redistils
 reemphasise
 reemphasised
@@ -14705,7 +14685,6 @@ traditionalize
 traditionalized
 traditionalizes
 traditionalizing
-tranquil
 tranquiler
 tranquilest
 tranquillisation
@@ -16010,12 +15989,10 @@ womanizes
 womanizing
 woollen
 woollens
-worship
 worshipped
 worshipper
 worshippers
 worshipping
-worships
 writeable
 yarovisation
 yarovisations
