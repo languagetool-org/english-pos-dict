@@ -1663,6 +1663,7 @@ Aarush=NNP=all
 Aaryan=NNP=all
 Aashni=NNP=all
 Ab=Ab/NNP,Abs/NNPS=all
+Aba=NNP=all
 Ababa=NNP=all
 Abadan=NNP=all
 Abaddon=NNP=all
@@ -2091,8 +2092,10 @@ Agrippina=NNP=all
 Agrobacterium=NNP=all # taxonomic terms
 Aguadilla=NNP=all
 Aguascalientes=NNP=all
+Aguilar=NNP=all
 Aguilera=NNP=all
 Aguinaldo=NNP=all
+Aguirre=NNP=all
 Agulhas=NNP=all
 Agustin=NNP=all
 Agustina=NNP=all
@@ -3801,6 +3804,7 @@ Austronesian=noun=all
 AutoCAD=NNP=all
 Autodesk=NNP=all
 Autolycus=NNP=all
+Automattic=NNP=all
 Autumn=NNP=all
 Auvergne-Rhône-Alpes=NNP=all
 Auvergne=NNP=all
@@ -4799,6 +4803,7 @@ Baillie=NNP=all
 Bailly=NNP=all
 Bain=NNP=all
 Bainbridge=NNP=all
+Baines=NNP=all
 Bairam=NNP=all
 Baird=NNP=all
 Baja=NNP=all
@@ -5374,6 +5379,7 @@ Bella=NNP=all
 Bellair=NNP=za # South Africa, placename?
 Bellaire=NNP=all
 Bellamy=NNP=all
+Bellarmine=NNP=all
 Bellatrix=NNP=all
 Bellavista=NNP=za # South Africa, placename?
 Bellay=NNP=all
@@ -5423,6 +5429,7 @@ Belushi=NNP=all
 Belvenie=NNP=za # South Africa, placename?
 Belvidere=NNP=all
 Belville=NNP=all
+Belzoni=NNP=all
 Belém=NNP=all
 Bemba=Bemba/NN:U,Bemba/NNP,Bembas/NNPS=all
 Bemidji=NNP=all
@@ -5543,6 +5550,7 @@ Bergmanshoogte=NNP=za # South Africa, placename?
 Bergmite=NNP=all
 Bergnek=NNP=za # South Africa, placename?
 Bergoglio=NNP=all
+Bergren=NNP=all
 Bergshoop=NNP=za # South Africa, placename?
 Bergsig=NNP=za # South Africa, placename?
 Bergson=NNP=all
@@ -5689,6 +5697,7 @@ Beverley=NNP=all
 Beverly=NNP=all
 Beverwijk=NNP=all
 Bevin=NNP=all
+Bevington=NNP=all
 Bewear=NNP=all
 Bewick=NNP=all
 Bexley=NNP=all
@@ -6009,6 +6018,8 @@ Boanerges=NNP=all
 Boardman=NNP=all
 Boardwalk=NNP=za # South Africa, placename?
 Boarfish=NNP=za # South Africa, placename?
+Boas=NNP=all
+Boasson=NNP=all
 Boaz=NNP=all
 Bob=NNP=all
 Bobbi=NNP=all
@@ -6111,6 +6122,7 @@ Bolivian=JJ=all
 Bolla-ntlokwe=NNP=za # South Africa, placename?
 Bolland=NNP=all
 Bollinger=NNP=all
+Bollman=NNP=all
 Bollywood=NNP=all
 Bologna=NNP=all
 Bolognese=NNPS=all
@@ -6328,6 +6340,7 @@ Bourges=NNP=all
 Bourgogne-Franche-Comté=NNP=all
 Bourgogne=NNP=all
 Bourguiba=NNP=all
+Bourke=NNP=all
 Bourn=NNP=all
 Bourne=NNP=all
 Bournemouth=NNP=all
@@ -6995,6 +7008,7 @@ Burn=NNP=all
 Burnaby=NNP=all
 Burnby=NNP=all
 Burne=NNP=all
+Burnet=NNP=all
 Burnett=NNP=all
 Burney=NNP=all
 Burnham=NNP=all
@@ -8468,6 +8482,7 @@ Capetonian=Capetonian/NNP,Capetonians/NNPS=all
 Capgemini=NNP=all
 Capitol=Capitol/NNP,Capitols/NNPS=all
 Capitoline=NNP=all
+Caplan=NNP=all
 Capone=NNP=all
 Caporetto=NNP=all
 Capote=NNP=all
@@ -9764,6 +9779,7 @@ Coelacanth=NNP=za # South Africa, placename?
 Coelacanthidae=NNP=all # taxonomic terms
 Coelenterata=NNP=all # taxonomic terms
 Coelho=NNP=all
+Coen=NNP=all
 Coetzersdam=NNP=za # South Africa, placename?
 Cofagrigus=NNP=all
 Coffee=NNP=all
@@ -10394,6 +10410,7 @@ Crofton=NNP=all
 Croghan=NNP=all
 Crohn=NNP=all
 Croix=NNP=all
+Crombie=NNP=all
 Cromer=NNP=all
 Cromeville=NNP=za # South Africa, placename?
 Crompton=NNP=all
@@ -10470,6 +10487,7 @@ Culiacán=NNP=all
 Cullan=NNP=all
 Culldene=NNP=za # South Africa, placename?
 Cullen=NNP=all
+Culley=NNP=all
 Cullinan=NNP=za # South Africa, placename?
 Cullis-Suzuki=NNP=all
 Cullman=NNP=all
@@ -13157,6 +13175,7 @@ Eckel=NNP=all
 Eckford=NNP=all
 Eckhart=NNP=all
 Eckleburg=NNP=all
+Eckmann=NNP=all
 EcoRI=NNP=all
 Ecole=NNP=all
 Ecstasy=Ecstasy/NNP,Ecstasies/NNPS=all
@@ -13518,6 +13537,7 @@ Elsey=NNP=all
 Elsie=NNP=all
 Elsieshof=NNP=za # South Africa, placename?
 Elsinore=NNP=all
+Elson=NNP=all
 Elspark=NNP=za # South Africa, placename?
 Elston=NNP=all
 Elsworth=NNP=all
@@ -14941,6 +14961,7 @@ Federighi=NNP=all
 Federigo=NNP=all
 Fedora=NNP=all
 Feebas=NNP=all
+Feeley=NNP=all
 Feigenbaum=NNP=all
 Feigin=NNP=all
 Fein=NNP=all
@@ -15120,6 +15141,8 @@ Firgrove=NNP=za # South Africa, placename?
 FirstEnergy=NNP=all
 Firwood=NNP=za # South Africa, placename?
 Fisantekraal=NNP=za # South Africa, placename?
+Fisch=NNP=all
+Fischer-Dieskau=NNP=all
 Fischer=NNP=all
 Fish=NNP=all
 Fishburne=NNP=all
@@ -15634,6 +15657,7 @@ Fumani=NNP=za # South Africa, placename?
 Funafuti=NNP=all
 Funchal=NNP=all
 Fundy=NNP=all
+Funston=NNP=all
 Furfrou=NNP=all
 Furies=NNPS=all
 Furman=NNP=all
@@ -17374,6 +17398,7 @@ Guelph=Guelph/NNP,Guelphs/NNPS=all
 Guelphic=JJ=all
 Guenevere=NNP=all
 Guenther=NNP=all
+Guerin=NNP=all
 Guernica=NNP=all
 Guernsey=Guernsey/NNP,Guernseys/NNPS=all
 Guernseys=NNPS=all
@@ -17485,6 +17510,7 @@ Guyenne=NNP=all
 Guymon=NNP=all
 Guzmán=NNP=all
 Guzzlord=NNP=all
+Guérin=NNP=all
 Gwadana=NNP=za # South Africa, placename?
 Gwadu=NNP=za # South Africa, placename?
 Gwalana=NNP=za # South Africa, placename?
@@ -18067,6 +18093,7 @@ Harish=NNP=all
 Harivansh=NNP=all
 Hariyama=NNP=all
 Harkerville=NNP=za # South Africa, placename?
+Harkins=NNP=all
 Harkness=NNP=all
 Harlan=NNP=all
 Harland=NNP=all
@@ -18479,6 +18506,7 @@ Henke=NNP=all
 Henkel=NNP=all
 Henley-on-Thames=NNP=all
 Henley=NNP=all
+Henn=NNP=all
 Hennenman=NNP=za # South Africa, placename?
 Hennepin=NNP=all
 Hennessey=NNP=all
@@ -18503,6 +18531,7 @@ Henshaw=NNP=all
 Hensley=NNP=all
 Henslowe=NNP=all
 Henson=NNP=all
+Henton=NNP=all
 Henty=NNP=all
 Henville=NNP=za # South Africa, placename?
 Henze=NNP=all
@@ -19059,6 +19088,7 @@ Hookskate=NNP=za # South Africa, placename?
 Hoon=NNP=all
 Hoopa=NNP=all
 Hooper=NNP=all
+Hoopes=NNP=all
 Hoopoe=NNP=za # South Africa, placename?
 Hoopstad=NNP=za # South Africa, placename?
 Hoosier=Hoosier/NNP,Hoosiers/NNPS=all
@@ -19100,6 +19130,7 @@ Hornbuckle=NNP=all
 Hornby=NNP=all
 Horne=NNP=all
 Horney=NNP=all
+Hornick=NNP=all
 Hornlee=NNP=za # South Africa, placename?
 Hornsby=NNP=all
 Horowitz=NNP=all
@@ -21737,6 +21768,7 @@ Kandinsky=NNP=all
 Kandy=NNP=all
 Kane=NNP=all
 Kaneohe=NNP=all
+Kang=NNP=all
 Kangaskhan=NNP=all
 Kangchenjunga=NNP=all
 Kanhym=NNP=za # South Africa, placename?
@@ -21810,6 +21842,7 @@ Karkloof=NNP=za # South Africa, placename?
 Karl=NNP=all
 Karla=NNP=all
 Karlienpark=NNP=za # South Africa, placename?
+Karlin=NNP=all
 Karloff=NNP=all
 Karlsbad=NNP=all
 Karlskrona=NNP=all
@@ -21840,6 +21873,7 @@ Kasia=NNP=all
 Kasich=NNP=all
 Kaskaskia=NNP=all
 Kasparov=NNP=all
+Kasper=NNP=all
 Kaspersky=NNP=all
 Kasprowicz=NNP=all
 Kassa=NNP=all
@@ -21960,6 +21994,7 @@ Kee=NNP=all
 Keegan=NNP=all
 Keelby=NNP=all
 Keele=NNP=all
+Keeley=NNP=all
 Keelung=NNP=all
 Keenan=NNP=all
 Keene=NNP=all
@@ -22136,6 +22171,7 @@ Keynes=NNP=all
 Keynesian=JJ=all
 Keynesian=Keynesian/NNP,Keynesians/NNPS=all
 Keynesianism=Keynesianism/NNP,Keynesianisms/NNPS=all
+Keyser=NNP=all
 Kgabaltsane=NNP=za # South Africa, placename?
 Kgakala=NNP=za # South Africa, placename?
 Kgatelopele=NNP=za # South Africa, placename?
@@ -22414,6 +22450,7 @@ Klerksoord=NNP=za # South Africa, placename?
 Kleurlingwoonbuurt=NNP=za # South Africa, placename?
 Klimt=NNP=all
 Kline=NNP=all
+Klinger=NNP=all
 Klingon=Klingon/NN:U,Klingon/NNP,Klingons/NNPS=all
 Klink=NNP=all
 Klinklang=NNP=all
@@ -22589,6 +22626,7 @@ Korean=JJ=all
 Korean=Korean/NN:U,Korean/NNP,Koreans/NNPS=all
 Koreatown=NNP=all
 Korematsu=NNP=all
+Koren=NNP=all
 Koringberg=NNP=za # South Africa, placename?
 Koringpunt=NNP=za # South Africa, placename?
 Kornberg=NNP=all
@@ -24040,6 +24078,7 @@ Levant=NNP=all
 Levantine=JJ=all
 Levantine=Levantine/NNP,Levantines/NNPS=all
 Leven=NNP=all
+Levenson=NNP=all
 Lever=NNP=all
 Leverhulme=NNP=all
 Leverkusen=NNP=all
@@ -25513,6 +25552,7 @@ MacGregor=NNP=all
 MacGuffin=noun=all
 MacIntosh=NNP=all
 MacIntyre=NNP=all
+MacKay=NNP=all
 MacKenzie=NNP=all
 MacKinnon=NNP=all
 MacLain=NNP=all
@@ -25942,6 +25982,7 @@ Malian=noun=all
 Malibu=NNP=all
 Malik=NNP=all
 Malika=NNP=all
+Malina=NNP=all
 Malinda=NNP=all
 Malinowski=NNP=all
 Malkin=NNP=all
@@ -26168,6 +26209,7 @@ Maqongqo=NNP=za # South Africa, placename?
 Maquis=NNP=all
 Maqwakazi=NNP=za # South Africa, placename?
 Mar-a-Lago=NNP=all
+Mar=NNP=all # abbreviation of March
 Mara=NNP=all
 Marabastad=NNP=za # South Africa, placename?
 Maracaibo=NNP=all
@@ -26507,6 +26549,7 @@ Masitshaba=NNP=za # South Africa, placename?
 Maskahane=NNP=za # South Africa, placename?
 Maskamsig=NNP=za # South Africa, placename?
 Maskelyne=NNP=all
+Maslin=NNP=all
 Maslow=NNP=all
 Masodi=NNP=za # South Africa, placename?
 Masoheng=NNP=za # South Africa, placename?
@@ -26944,6 +26987,7 @@ McGillvray=NNP=all
 McGinley=NNP=all
 McGinn=NNP=all
 McGinnis=NNP=all
+McGinty=NNP=all
 McGirk=NNP=all
 McGirr=NNP=all
 McGlin=NNP=all
@@ -27085,6 +27129,7 @@ Mdwebu=NNP=za # South Africa, placename?
 MeV=NNP=all
 Mead=NNP=all
 Meade=NNP=all
+Meador=NNP=all
 Meadow=NNP=all
 Meadowbrook=NNP=za # South Africa, placename?
 Meadowdale=NNP=za # South Africa, placename?
@@ -28315,6 +28360,7 @@ Mosenthalville=NNP=za # South Africa, placename?
 Moser=NNP=all
 Moses=NNP=all
 Moshe=NNP=all
+Mosier=NNP=all
 Moskovitz=NNP=all
 Moskowitz=NNP=all
 Moskva=NNP=all
@@ -28650,6 +28696,7 @@ Mycenaean=JJ=all
 Mycenaean=Mycenaean/NNP,Mycenaeans/NNPS=all
 Mycostatin=NNP=all
 Mycroft=NNP=all
+Myer=NNP=all
 Myers=NNP=all
 Mykolaiv=NNP=all
 Mykonos=NNP=all
@@ -30288,6 +30335,7 @@ O'Neill=NNP=all
 O'Reilly=NNP=all
 O'Rourke=NNP=all
 O'Shee=NNP=all
+O'Sullivan=NNP=all
 O'Toole=NNP=all
 O10=untagged=all
 O11=untagged=all
@@ -30645,6 +30693,7 @@ Occident=Occident/NNP,Occidents/NNPS=all
 Occidental=JJ=all
 Occidentalization|Occidentalisation=noun_UN=us,ca,gb|gb,au,nz,za
 Occidentalize|Occidentalise=verb=us,ca,gb|gb,au,nz,za
+Occitan=JJ=all
 Occitan=NNP=all
 Occitanian=JJ=all
 Occitanian=noun=all
@@ -32007,6 +32056,7 @@ Parnell=NNP=all
 Parookaville=NNP=all
 Paros=NNP=all
 Parow=NNP=za # South Africa, placename?
+Parra=NNP=all
 Parramatta=NNP=all
 Parrish=NNP=all
 Parry=NNP=all
@@ -32162,6 +32212,7 @@ Pearland=NNP=all
 Pearlfish=NNP=za # South Africa, placename?
 Pearlstine=NNP=all
 Pearsall=NNP=all
+Pearse=NNP=all
 Pearson=NNP=all
 Pearston=NNP=za # South Africa, placename?
 Peary=NNP=all
@@ -32239,6 +32290,7 @@ Pence=NNP=all
 Penderecki=NNP=all
 Pendle=NNP=all
 Pendleton=NNP=all
+Pendragon=NNP=all
 Penelope=NNP=all
 Peneus=NNP=all
 Penford=NNP=za # South Africa, placename?
@@ -34947,6 +34999,7 @@ Romberg=NNP=all
 Rome=Rome/NNP,Romes/NNPS=all
 Romeo=Romeo/NNP,Romeos/NNPS=all
 Romeoville=NNP=all
+Romero=NNP=all
 Romeward=RB=all
 Romina=NNP=all
 Romish=JJ=all
@@ -36635,14 +36688,17 @@ Schatz=NNP=all
 Schauderville=NNP=za # South Africa, placename?
 Schaumburg=NNP=all
 Schechter=NNP=all
+Scheel=NNP=all
 Scheepershoogte=NNP=za # South Africa, placename?
 Scheherazade=NNP=all
+Schein=NNP=all
 Scheldt=NNP=all
 Schelling=NNP=all
 Schematron=NNP=all
 Schenck=NNP=all
 Schenectady=NNP=all
 Schererville=NNP=all
+Scherman=NNP=all
 Schertz=NNP=all
 Scheveningen=NNP=all
 Schiaparelli=NNP=all
@@ -37141,6 +37197,7 @@ Shana=NNP=all
 Shanahan=NNP=all
 Shandong=NNP=all
 Shane=NNP=all
+Shaner=NNP=all
 Shang=JJ=all
 Shang=NNP=all
 Shangaan=NNP=all
@@ -37316,6 +37373,7 @@ Shiluvane=NNP=za # South Africa, placename?
 Shimange=NNP=za # South Africa, placename?
 Shimano=NNP=all
 Shimizu=NNP=all
+Shimoni=NNP=all
 Shinar=NNP=all
 Shingwedzi=NNP=za # South Africa, placename?
 Shinji=NNP=all
@@ -37385,6 +37443,7 @@ Shufu=NNP=all
 Shukron=NNP=za # South Africa, placename?
 Shulamite=NNP=all
 Shulchan=NNP=all
+Shulman=NNP=all
 Shuping=NNP=all
 Shuppet=NNP=all
 Shushan=NNP=all
@@ -37438,6 +37497,7 @@ Sidumela=NNP=za # South Africa, placename?
 Sidumo=NNP=za # South Africa, placename?
 Sidwadweni=NNP=za # South Africa, placename?
 Sidwell=NNP=all
+Siebert=NNP=all
 Sieg=NNP=all
 Siegbahn=NNP=all
 Siegel=NNP=all
@@ -37478,6 +37538,7 @@ Sikkim=NNP=all
 Sikobobo=NNP=za # South Africa, placename?
 Sikorsky=NNP=all
 Silas=NNP=all
+Silber=NNP=all
 Silberman=NNP=all
 Silcoon=NNP=all
 Silesia=NNP=all
@@ -40899,6 +40960,7 @@ U87=untagged=all
 U96=untagged=all
 U99=untagged=all
 U=JJ=all
+U=NN=all
 UA=untagged=all
 UAA=untagged=all
 UAB=untagged=all
@@ -42706,6 +42768,7 @@ Walldorf=NNP=all
 Wallenberg=NNP=all
 Wallenstein=NNP=all
 Waller=NNP=all
+Wallick=NNP=all
 Wallingford=NNP=all
 Wallington=NNP=all
 Wallis=NNP=all
@@ -42801,6 +42864,7 @@ Washita=NNP=all
 Washougal=NNP=all
 Wasserman=NNP=all
 Wassermann=Wassermann/NNP,Wassermanns/NNPS=all
+Wasson=NNP=all
 Watanabe=NNP=all
 Watchet=NNP=all
 Watchog=NNP=all
@@ -42908,6 +42972,7 @@ Wefox=NNP=all
 Wegdraai=NNP=za # South Africa, placename?
 Wegener=NNP=all
 Wegner=NNP=all
+Wehner=NNP=all
 Wehrmacht=NNP=all
 Wei=NNP=all
 Weibo=NNP=all
@@ -43253,6 +43318,7 @@ Wilkeville=NNP=za # South Africa, placename?
 Wilkie=NNP=all
 Wilkins=NNP=all
 Wilkinson=NNP=all
+Wilkison=NNP=all
 Wilkoppies=NNP=za # South Africa, placename?
 Will=NNP=all
 Willa=NNP=all
@@ -43277,6 +43343,7 @@ Willie=NNP=all
 Willimantic=NNP=all
 Willingboro=NNP=all
 Willis=NNP=all
+Willison=NNP=all
 Williston=NNP=all
 Willougbhy=NNP=all
 Willoughby=NNP=all
@@ -49440,6 +49507,7 @@ apostate=JJ=all
 apostate=noun=all
 apostatically=RB=all
 apostatize|apostatise=verb=us,ca,gb|gb,au,nz,za
+apostille=noun=all
 apostille=verb=all
 apostle=noun=all
 apostleship=noun_U=all
@@ -52454,7 +52522,7 @@ barycenter|barycentre=noun=us|au,ca,gb,nz,za
 baryon=noun=all
 barytic=JJ=all
 barège=NN:U=all
-bas-relief=NN:UN=all
+bas-relief=noun_UN=all
 basad=RB=all
 basal=JJ=all
 basally=RB=all
@@ -53297,7 +53365,7 @@ bet=noun=all
 beta-adrenergic=JJ=all
 beta-carotene=NN:U=all
 beta-exotoxin=noun=all
-beta-lactamase=NN=all
+beta-lactamase=noun=all
 beta=noun_UN=all
 betacoronavirus=noun_UN=all
 betaine=noun_U=all
@@ -55110,6 +55178,7 @@ boomtown=noun=all
 boon=JJ=all
 boon=noun=all
 boondock=noun=all
+boondoggle=noun=all
 boondoggle=verb=all
 boonies=NN=all
 boonless=JJ=all
@@ -56553,6 +56622,7 @@ burnable=noun=all
 burned-out=JJ=all
 burned=JJ=all
 burner=noun=all
+burnet=noun=all
 burnettize|burnettise=verb=us,ca,gb|gb,au,nz,za
 burning=JJ=all
 burning=noun_UN=all
@@ -57228,6 +57298,7 @@ camerlengo=noun=all
 camiknickers=NNS=all
 camion=noun=all
 camisole=noun=all
+camlet=noun=all
 camo=noun=all
 camomile=noun_U=all
 camouflage=noun_U=all
@@ -63145,6 +63216,7 @@ consubstantiality=noun_UN=all
 consubstantially=RB=all
 consubstantiation=noun_U=all
 consuetudinary=JJ=all
+consuetudinary=noun=all
 consul=noun=all
 consular=JJ=all
 consular=noun=all
@@ -63730,6 +63802,7 @@ copraemic=JJ=all
 copremic=JJ=all
 coprimality=NN:U=all
 coprocessor=noun=all
+coproduction=noun=all
 coprolalia=noun=all
 coprolaliac=JJ=all
 coprolite=noun=all
@@ -64239,7 +64312,7 @@ councilmanic=JJ=all
 councilperson=noun=all
 councilwoman [pl. councilwomen]=noun=all
 counsel [-ll-]|counsel=verb=all|us
-counsel=noun_UN=all
+counsel [pl. counsel,counsels]=noun_UN=all
 counselable=JJ=all
 counsellable=JJ=all
 counselling=noun_UN=all
@@ -64502,6 +64575,7 @@ courseware=noun=all
 coursework=NN:U=all
 coursing=noun_UN=all
 court-martial [-ll-]|court-martial=verb=all|us
+court-martial=noun=all
 court-ordered=JJ=all
 court=noun_UN=all
 court=verb=all
@@ -64600,6 +64674,7 @@ cowling=noun=all
 cowman [pl. cowmen]=noun=all
 coworker=noun=all
 coworking=NN:U=all
+cowpat=noun=all
 cowpox=noun_U=all
 cowrie=noun=all
 cowrite [cowrites;cowrote;cowritten;cowriting]=verb=all
@@ -65086,6 +65161,7 @@ crisply=RB=all
 crispness=NN:U=all
 crispy=crispy/JJ,crispier/JJR,crispiest/JJS=all
 crissal=JJ=all
+crisscross=noun_UN=all
 crisscross=verb=all
 cristate=JJ=all
 cristobalite=NN=all
@@ -70685,7 +70761,7 @@ dogmatizer|dogmatiser=noun=us,ca,gb|gb,au,nz,za
 dogmatize|dogmatise=verb=us,ca,gb|gb,au,nz,za
 dognapper=noun=all
 dogsbody=noun=all
-dogtooth=dogtooth/NN:U,dogteeth/NNS=all
+dogtooth [pl. dogtooths,dogteeth]|dog-tooth [pl. dog-teeth]=noun=all|gb
 dogtrot [-tt-]=verb=all
 dogtrot=noun=all
 dogwatch=noun=all
@@ -71461,6 +71537,8 @@ drop-ship=JJ=all
 drop=noun=all
 drop=verb=all
 dropdown=noun=all
+dropkick=noun=all
+dropkicker=noun=none
 droplet=noun=all
 droplike=JJ=all
 dropoff=noun=all
@@ -77025,7 +77103,7 @@ femtotesla=noun=all
 femtovolt=noun=all
 femtowatt=noun=all
 femtoweber=noun=all
-femur=femur/NN,femora/NNS,femurs/NNS=all
+femur [pl. femurs,femora]=noun=all
 fen=noun=all
 fence=noun=all
 fence=verb=all
@@ -81948,6 +82026,7 @@ gnu=gnu/NN,gnu/NNS,gnus/NNS=all
 go [goes;went;gone;going]=verb=all
 go-ahead=JJ=all
 go-ahead=noun=all
+go-around=noun=all
 go-between=noun=all
 go-kart=noun=all
 go-to-meeting=JJ=all
@@ -85503,6 +85582,7 @@ high-fashion=JJ=all
 high-fat=JJ=all
 high-fiber=JJ=all
 high-fidelity=JJ=all
+high-five=noun=all
 high-five=verb=all
 high-flown=JJ=all
 high-flying=JJ=all
@@ -93721,6 +93801,7 @@ kleptomania=noun_U=all
 kleptomaniac=noun=all
 klipspringer=noun=all
 kloof=noun=all
+kludge=noun=all
 kludge=verb=all
 klutz=noun=au,ca,nz,us,za
 klutziness=NN:U=all
@@ -94819,7 +94900,7 @@ leatherlike=JJ=all
 leathern=JJ=all
 leatherneck=noun=all
 leathery=JJ=all
-leave [leaves;leaved,left;leaved,left;leaving]=verb=all
+leave [leaves;left;left;leaving]=verb=all
 leave-taking=noun_UN=all
 leave=noun_UN=all
 leaved=JJ=all # unusual
@@ -96125,6 +96206,7 @@ locknut=noun=all
 lockout=noun=all
 locksmith=noun=all
 lockstep=noun_U=all
+lockup=noun=au,ca,us
 lockwire=NN:U=all
 loco=JJ=all
 loco=noun=all
@@ -97470,6 +97552,7 @@ maltreat=verb=all
 maltreated=JJ=all
 maltreatment=noun_U=all
 malty=malty/JJ,maltier/JJR,maltiest/JJS=all
+malus=noun=all
 malvaceous=JJ=all
 malversation=noun_UN=all
 malvertising=NN:U=all
@@ -99685,6 +99768,7 @@ microtonality=noun_UN=all
 microtonally=RB=all
 microtone=noun=all
 microtransaction=noun=all
+microtrauma=noun=all
 microtubule=noun=all
 microturbine=noun=all
 microvascular=JJ=all
@@ -101992,6 +102076,7 @@ multimillion=noun=all
 multimillionaire=noun=all
 multimodal=JJ=all
 multimodality=noun_UN=all
+multimode=JJ=all
 multimodel=JJ=all
 multimodular=JJ=all
 multimodule=JJ=all
@@ -104116,6 +104201,7 @@ non-deterministic=JJ=all
 non-deterministically=RB=all
 non-disciplinary=JJ=all
 non-disclosure=JJ=all
+non-disclosure=noun=all
 non-disjunction=NN:UN=all
 non-disjunctional=JJ=all
 non-dominant=JJ=all
@@ -104145,6 +104231,7 @@ non-hispanic=JJ=all
 non-human=JJ=all
 non-human=noun=all
 non-industrialization|non-industrialisation=noun_UN=us,ca,gb|gb,au,nz,za
+non-integer=noun=all
 non-intercourse=JJ=all
 non-intrusive=JJ=all
 non-invasive=JJ=all
@@ -104160,6 +104247,7 @@ non-linearly=RB=all
 non-linguistic=JJ=all
 non-literal=JJ=all
 non-literary=JJ=all
+non-local=JJ=all
 non-manual=JJ=all
 non-material=JJ=all
 non-materialistic=JJ=all
@@ -104172,6 +104260,7 @@ non-operationally=RB=all
 non-oxidization|non-oxidisation=noun_UN=us,ca,gb|gb,au,nz,za
 non-physically=RB=all
 non-polar=JJ=all
+non-polluting=JJ=all
 non-price=JJ=all
 non-procedurally=RB=all
 non-professionally=RB=all
@@ -105010,6 +105099,7 @@ nondischarging=JJ=all
 nondisciplinary=JJ=all
 nondisciplined=JJ=all
 nondisclosure=JJ=all
+nondisclosure=noun=all
 nondiscordant=JJ=all
 nondiscountable=JJ=all
 nondiscretionary=JJ=all
@@ -105583,7 +105673,7 @@ noninstitutionalized|noninstitutionalised=JJ=us,ca,gb|gb,au,nz,za
 noninstructional=JJ=all
 noninstructive=JJ=all
 noninstrumental=JJ=all
-noninteger=JJ=all
+noninteger=noun=all
 nonintegrable=JJ=all
 nonintegrated=JJ=all
 nonintellectual|non-intellectual=noun=au,ca,us|gb,nz,za
@@ -106073,6 +106163,7 @@ nonpolemical=JJ=all
 nonpolio=JJ=all
 nonpolitically=RB=all
 nonpolitical|non-political=JJ=au,ca,us|gb,nz,za
+nonpolluting=JJ=all
 nonponderous=JJ=all
 nonpopular=JJ=all
 nonpornographic=JJ=all
@@ -107366,6 +107457,7 @@ nunlike=JJ=all
 nunnery=noun=all
 nuptial=JJ=all
 nuptial=noun=all
+nuptiality=noun_UN=all
 nurdle=noun=all
 nuroblastoma=nuroblastoma/NN:UN,nuroblastomata/NNS=all
 nurse=noun_UN=all
@@ -110519,6 +110611,7 @@ overvigorously=RB=all
 overvigorousness=NN:U=all
 overviolent=JJ=all
 overvoltage=noun=all
+overvote=noun=all
 overvote=verb=all
 overwary=JJ=all
 overwash=noun=all
@@ -116837,9 +116930,9 @@ pre-op=noun=all
 pre-open=JJ=all
 pre-opening=JJ=all
 pre-operational=JJ=all
-pre-order=noun=all
-pre-order=verb=all
 pre-orderable=JJ=all
+pre-order|preorder=noun=all|us,ca
+pre-order|preorder=verb=all|us,ca
 pre-owned=JJ=all
 pre-package=verb=all
 pre-pandemic=JJ=all
@@ -118978,6 +119071,9 @@ prosodic=JJ=all
 prosodical=JJ=all
 prosodist=noun=all
 prosody=noun_U=all
+prosopographical=JJ=all
+prosopographically=RB=all
+prosopography=noun=all
 prosopopoeia=noun=all
 prospect=noun_UN=all
 prospect=verb=all
@@ -121043,7 +121139,9 @@ radiosurgery=NN:U=all
 radiosymmetrical=JJ=all
 radiotelegraphic=JJ=all
 radiotelegraphy=NN:U=all
+radiotelephone=noun=all
 radiotelephonic=JJ=all
+radiotelephony=NN:U=all
 radioteletype=NN:U=all
 radiotherapeutic=JJ=all
 radiotherapist=noun=all
@@ -123108,6 +123206,7 @@ religionistic=JJ=all
 religionless=JJ=all
 religiose=JJ=all
 religiosity=noun_UN=all
+religious [pl. religious]=noun=all
 religious=JJ=all
 religiously=RB=all
 religiousness=NN:U=all
@@ -124781,11 +124880,13 @@ rife=RB=all
 rife=rife/JJ,rifer/JJR,rifest/JJS=all
 rifely=RB=all
 rifeness=NN:U=all
+riff-raff=noun=all
 riff=noun=all
 riff=verb=all
 riffle=noun=all
 riffle=verb=all
 riffling=riffling/NN:UN,riffling/NNS=all
+riffraff=noun=all
 rifle=noun=all
 rifle=verb=all
 riflebird=noun=all
@@ -124883,6 +124984,7 @@ rinderpest=noun_U=all
 rindless=JJ=all
 rindy=JJ=all
 ring [rings;rang,ringed;rung;ringing]=verb=all
+ring-fence=verb=all
 ring-necked=JJ=all
 ring-shaped=JJ=all
 ring-tailed=JJ=all
@@ -124891,6 +124993,8 @@ ringed=JJ=all
 ringent=JJ=all
 ringer=noun=all
 ringette=NN:U=all
+ringfence=noun=all
+ringfence=verb=all
 ringgit=noun=all
 ringing=noun_UN=all
 ringingly=RB=all
@@ -129516,6 +129620,7 @@ shimmy=noun=all
 shimmy=verb=all
 shin=noun=all
 shin=verb=all
+shinbone=noun=all
 shindig=noun=all
 shindy=shindy/NN,shindies/NNS,shindys/NNS=all
 shine [shines;shined,shone;shined,shone;shining]=verb=all
@@ -130468,6 +130573,7 @@ sisterly=JJ=all
 sisterly=RB=all
 sistrum=sistrum/NN,sistra/NNS,sistrums/NNS=all
 sit [sits;sat;sat;sitting]=verb=all
+sit-down=noun=all
 sit-in=noun=all
 sit=noun=all
 sitar=noun=all
@@ -131239,8 +131345,10 @@ smartly=RB=all
 smartness=NN:U=all
 smartphone=noun=all
 smartwatch=noun=all
+smarty-pants [pl. smarty-pants]=noun=all
 smarty=JJ=all
 smarty=noun=all
+smartypants [pl. smartypants]=noun=all
 smash=noun=all
 smash=smash/JJ,smasher/JJR=all
 smash=verb=all
@@ -133583,7 +133691,7 @@ stadimeter=noun=all
 stadiometer=noun=all
 stadium=stadium/NN,stadia/NNS,stadiums/NNS=all
 stadtholder=noun=all
-staff [pl. staffs,staves]=noun_UN=all
+staff [pl. staff,staffs,staves]=noun_UN=all
 staff=verb=all
 staffer=noun=all
 staffing=noun_U=all
@@ -135279,6 +135387,7 @@ subaxillary=JJ=all
 subbasal=JJ=all
 subbasement=noun=all
 subbing=noun_UN=all
+subbranch=noun=all
 subbronchial=JJ=all
 subcaecal=JJ=all
 subcalcareous=JJ=all
@@ -135629,6 +135738,7 @@ sublunary=JJ=all
 sublunate=JJ=all
 sublustrous=JJ=all
 subluxation=noun_UN=all
+submachine=noun=all
 submammary=JJ=all
 submandibular=JJ=all
 submandibular=noun=all
@@ -136298,6 +136408,7 @@ sulfapyridine=sulfapyridine/NN,sulfapyridine/NN:U=all
 sulfate|sulphate=noun_U=us|au,ca,gb,nz,za
 sulfenyl=noun=all
 sulfhydryl=noun=all
+sulfide|sulphide=noun_UN=us|au,ca,gb,nz,za
 sulfitic=JJ=all
 sulfonamide=noun=all
 sulfonate=noun_U=all
@@ -136334,7 +136445,6 @@ sulliable=JJ=all
 sully=verb=all
 sulpha=JJ=all
 sulphatization|sulphatisation=noun_UN=us,ca,gb|gb,au,nz,za
-sulphide=noun_UN=all
 sulphonamide=noun=all
 sulphone=noun=all
 sulphonic=JJ=all
@@ -139657,6 +139767,7 @@ thievish=JJ=all
 thievishly=RB=all
 thievishness=NN:U=all
 thigh=noun=all
+thighbone=noun=all
 thigmotactic=JJ=all
 thigmotropic=JJ=all
 thigmotropism=noun_UN=all
@@ -140133,6 +140244,7 @@ ticklishly=RB=all
 ticklishness=NN:U=all
 tickly=JJ=all
 ticktacktoe=NN:U=all
+ticktock=noun=all
 ticky=noun=none # unusual
 tidal=JJ=all
 tidally=RB=all
@@ -140254,6 +140366,7 @@ time-limited=JJ=all
 time-out=noun=all
 time-saving=JJ=all
 time-sensitive=JJ=all
+time-server=noun=all
 time-share=noun=all
 time-share=verb=all
 time-sharing=noun=all
@@ -140286,6 +140399,7 @@ timepiece=noun=all
 timer=noun=all
 timesaving=JJ=all
 timescale=noun=all
+timeserver=noun=all
 timeserving=JJ=all
 timeservingness=NN:U=all
 timeshare=noun=all
@@ -140883,7 +140997,7 @@ torporific=JJ=all
 torque [torques;torqued;torqued;torqueing,torquing]=verb=all
 torque=noun_UN=all
 torques=noun=all
-torr=noun=all
+torr [pl. torr,torrs]=noun=all
 torrent=JJ=all
 torrent=noun=all
 torrential=JJ=all
@@ -145496,6 +145610,8 @@ undeputized|undeputised=JJ=us,ca,gb|gb,au,nz,za
 under-age=JJ=all
 under-recover=verb=all
 under-recovery=noun=all
+under-represent=verb=all
+under-representation=noun_UN=all
 under-represented=JJ=all
 under-resourced=JJ=all
 under-responsivity=NN:U=all
@@ -145734,6 +145850,8 @@ underrating=NN:UN=all
 underrecover=verb=all
 underrecovery=noun=all
 underreport=verb=all
+underrepresent=verb=all
+underrepresentation=noun_UN=all
 underrepresented=JJ=all
 underresource=verb=all
 underresourced=JJ=all
@@ -145835,6 +145953,7 @@ undervalue=verb=all
 undervalued=JJ=all
 undervest=noun=all
 undervitalized|undervitalised=JJ=us,ca,gb|gb,au,nz,za
+undervote=noun=all
 undervote=verb=all
 underwaist=noun=all
 underwater=JJ=all
@@ -156105,6 +156224,7 @@ white-haired=JJ=all
 white-hot=JJ=all
 white-knuckle=JJ=all
 white-lipped=JJ=all
+white-out=noun_UN=all
 white-tie=JJ=all
 white=noun_UN=all
 white=white/JJ,whiter/JJR,whitest/JJS=all
@@ -156125,6 +156245,7 @@ whitened=JJ=all
 whitener=noun=all
 whiteness=NN:U=all
 whitening=noun_U=all
+whiteout=noun_UN=all
 whitespace=NN:U=all
 whitethorn=noun_UN=all
 whiteware=noun=all
@@ -157554,6 +157675,7 @@ z=abbreviation=all
 zabaglione=noun=all
 zaftig=JJ=all
 zaibatsu=NN=all
+zander [pl. zander,zanders]=noun=all
 zanies=JJ=all
 zanily=RB=all
 zaniness=NN:U=all

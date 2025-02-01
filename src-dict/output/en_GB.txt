@@ -4650,6 +4650,8 @@ divisionalize
 divisionalized
 divisionalizes
 divisionalizing
+dog-teeth
+dog-tooth
 dogmatisation
 dogmatisations
 dogmatise
@@ -14036,6 +14038,8 @@ sulphatisation
 sulphatisations
 sulphatization
 sulphatizations
+sulphide
+sulphides
 sulphonation
 sulphonations
 sulphur

@@ -7926,6 +7926,8 @@ sulphate
 sulphates
 sulphatisation
 sulphatisations
+sulphide
+sulphides
 sulphonation
 sulphonations
 sulphur
