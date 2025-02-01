@@ -46823,7 +46823,6 @@ apothem
 apothems
 apotheoses
 apotheosis
-apotheosises
 apotropaic
 apotropaically
 app
@@ -46915,7 +46914,6 @@ appertain
 appertained
 appertaining
 appertains
-appetisingly
 appetite
 appetites
 appetitive
@@ -69841,7 +69839,6 @@ criticalities
 criticality
 critically
 criticalness
-criticisingly
 criticism
 criticisms
 critics
@@ -86451,7 +86448,6 @@ fameless
 fames
 familial
 familiar
-familiarisingly
 familiarities
 familiarity
 familiarly
@@ -105099,7 +105095,6 @@ indium
 indiums
 indivertible
 individual
-individualisingly
 individualism
 individualisms
 individualist
@@ -118475,7 +118470,6 @@ mesially
 mesic
 mesmeric
 mesmerically
-mesmerisingly
 mesmerism
 mesmerisms
 mesmerist
@@ -119282,8 +119276,6 @@ micrometeorites
 micrometeoritic
 micrometeoroid
 micrometeoroids
-micrometer
-micrometers
 micrometric
 micrometrical
 micrometrically
@@ -122316,7 +122308,6 @@ movably
 move
 moveability
 moveable
-moveableness
 moveables
 moveably
 moved
@@ -138034,7 +138025,6 @@ photostatted
 photostatting
 photosyntheses
 photosynthesis
-photosynthesises
 photosynthetic
 photosynthetically
 photosystem
@@ -159967,7 +159957,6 @@ septentrional
 septet
 septets
 septic
-septicaemic
 septically
 septicemia
 septicemias
@@ -172517,7 +172506,6 @@ sympathetic
 sympathetically
 sympathetics
 sympathies
-sympathisingly
 sympathoadrenal
 sympatholytic
 sympathomimetic
@@ -174207,7 +174195,6 @@ temporaries
 temporarily
 temporariness
 temporary
-temporisingly
 temporomandibular
 tempos
 temps

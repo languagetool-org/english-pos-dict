@@ -62,7 +62,7 @@ for variant in ["gb", "ca", "nz", "au", "za"]:
 spelling_dicts["all"].update(common_words)
 for variant in ["us", "gb", "ca", "nz", "au", "za"]:
     spelling_dicts[variant].difference_update(common_words)
-
+    spelling_dicts[variant].difference_update(spelling_dicts["all"])
 
 for myvariant in all_variants:
     spell_dict = sorted(spelling_dicts[myvariant])

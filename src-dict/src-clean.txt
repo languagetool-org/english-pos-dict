@@ -49527,7 +49527,7 @@ apothegmatic=JJ=all
 apothegmatical=JJ=all
 apothegmatically=RB=all
 apothem=noun=all
-apotheosis=apotheosis/NN,apotheoses/NNS,apotheosises/NNS=all
+apotheosis [pl. apotheoses]=noun=all
 apotheosize|apotheosise=verb=us,ca,gb|gb,au,nz,za
 apotropaic=JJ=all
 apotropaically=RB=all
@@ -49591,7 +49591,6 @@ apperception=noun_UN=all
 apperceptive=JJ=all
 apperceptively=RB=all
 appertain=verb=all
-appetisingly=RB=all
 appetite=noun_UN=all
 appetitive=JJ=all
 appetizer|appetiser=noun=us,ca,gb|gb,au,nz,za
@@ -65174,7 +65173,6 @@ critical=JJ=all
 criticality=noun_UN=all
 critically=RB=all
 criticalness=NN:U=all
-criticisingly=RB=all
 criticism=noun_UN=all
 criticizable|criticisable=JJ=us,ca,gb|gb,au,nz,za
 criticizer|criticiser=noun=us,ca,gb|gb,au,nz,za
@@ -76194,7 +76192,7 @@ eyewitnessed=JJ=all
 eyot=noun=all
 eyra=noun=all
 eyre=noun=all
-eyrie=aerie/JJ,eyrier/JJR,eyriest/JJS=au,gb,nz,za  # aery
+eyrie=eyrie/JJ,eyrier/JJR,eyriest/JJS=au,gb,nz,za  # aery
 eyrie|aery=noun=au,gb,nz,za|au,ca,us
 f=abbreviation=all
 fMRI=NN:U=all
@@ -76482,7 +76480,6 @@ fameless=JJ=all
 familial=JJ=all
 familiar=JJ=all
 familiar=noun=all
-familiarisingly=RB=all
 familiarity=noun_U=all
 familiarization|familiarisation=noun_UN=us,ca,gb|gb,au,nz,za
 familiarizer|familiariser=noun=us,ca,gb|gb,au,nz,za
@@ -87186,7 +87183,7 @@ hydrologically=RB=all
 hydrologist=noun=all
 hydrology=noun_U=all
 hydrolysable=JJ=all
-hydrolysis=hydrolysis/NN:U,hydrolyses/NNS=all
+hydrolysis [pl. hydrolyses]=noun_UN=all
 hydrolytic=JJ=all
 hydrolytically=RB=all
 hydrolyzable=JJ=all
@@ -89680,7 +89677,6 @@ indium=noun_U=all
 indivertible=JJ=all
 individual=JJ=all
 individual=noun=all
-individualisingly=RB=all
 individualism=noun_U=all
 individualist=JJ=all
 individualist=noun=all
@@ -99095,7 +99091,6 @@ mesially=RB=all
 mesic=JJ=all
 mesmeric=JJ=all
 mesmerically=RB=all
-mesmerisingly=RB=all
 mesmerism=noun_U=all
 mesmerist=noun=all
 mesmerization|mesmerisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -99657,7 +99652,6 @@ micrometastasis [pl. micrometastases]=noun=all
 micrometeorite=noun=all
 micrometeoritic=JJ=all
 micrometeoroid=noun=all
-micrometer=noun=all
 micrometer|micrometre=noun=us|au,ca,gb,nz,za
 micrometric=JJ=all
 micrometrical=JJ=all
@@ -101690,7 +101684,6 @@ movably=RB=all
 move=noun=all
 move=verb=all
 moveability=NN:UN=all
-moveableness=NN:U=all
 moveably=RB=all
 moveless=JJ=all
 movelessly=RB=all
@@ -114051,7 +114044,7 @@ photostat [-tt-]=verb=all
 photostat=noun=all
 photostatic=JJ=all
 photostatically=RB=all
-photosynthesis=photosynthesis/NN:U,photosyntheses/NNS,photosynthesises/NNS=all
+photosynthesis [pl. photosyntheses]=noun_UN=all
 photosynthesize|photosynthesise=verb=us,ca,gb|gb,au,nz,za
 photosynthetic=JJ=all
 photosynthetically=RB=all
@@ -128864,7 +128857,6 @@ septentrional=JJ=all
 septet=noun=all
 septic=JJ=all
 septic=noun=all
-septicaemic=JJ=all
 septically=RB=all
 septicemia|septicaemia=noun_U=all|au,gb,nz,za
 septicemic|septicaemic=JJ=all|au,gb,nz,za
@@ -137751,7 +137743,6 @@ symmetry=noun_U=all
 sympathetic=JJ=all
 sympathetic=noun=all
 sympathetically=RB=all
-sympathisingly=RB=all
 sympathizer|sympathiser=noun=us,ca,gb|gb,au,nz,za
 sympathize|sympathise=verb=us,ca,gb|gb,au,nz,za
 sympathizingly|sympathisingly=RB=us,ca,gb|gb,au,nz,za
@@ -138942,7 +138933,6 @@ temporarily=RB=all
 temporariness=NN:U=all
 temporary=JJ=all
 temporary=noun=all
-temporisingly=RB=all
 temporization|temporisation=noun_UN=us,ca,gb|gb,au,nz,za
 temporizer|temporiser=noun=us,ca,gb|gb,au,nz,za
 temporize|temporise=verb=us,ca,gb|gb,au,nz,za

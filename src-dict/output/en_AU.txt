@@ -357,10 +357,6 @@ adulterise
 adulterised
 adulterises
 adulterising
-aerie
-aerier
-aeries
-aeriest
 aerobicise
 aerobicised
 aerobicises
@@ -530,7 +526,6 @@ analyse
 analysed
 analyser
 analysers
-analyses
 analysing
 anathematisation
 anathematisations
@@ -747,7 +742,6 @@ aromatises
 aromatising
 arse
 arsed
-arses
 arsing
 artefact
 artefacts
@@ -834,7 +828,6 @@ autoionisation
 autoionisations
 autolyse
 autolysed
-autolyses
 autolysing
 automatisation
 automatisations
@@ -1048,9 +1041,7 @@ burnettising
 busboy
 busboys
 buss
-bussed
 busses
-bussing
 buzzkill
 buzzkills
 caesium
@@ -1172,7 +1163,6 @@ carnalises
 carnalising
 caroller
 carollers
-carolling
 carollings
 cartelisation
 cartelisations
@@ -1198,7 +1188,6 @@ catalyse
 catalysed
 catalyser
 catalysers
-catalyses
 catalysing
 catastrophise
 catastrophised
@@ -1242,7 +1231,6 @@ cauterising
 caviller
 cavillers
 ceca
-cecal
 cecally
 cecum
 cellularisation
@@ -1337,7 +1325,6 @@ chequers
 cheques
 child-centred
 chilli
-chillies
 chillis
 chloridise
 chloridised
@@ -1358,10 +1345,8 @@ chronologise
 chronologised
 chronologises
 chronologising
-chunder
 chundered
 chundering
-chunders
 cicatrisation
 cicatrisations
 cicatrise
@@ -1458,7 +1443,6 @@ cognisableness
 cognisably
 cognisance
 cognisances
-cognisant
 cognisantly
 cognise
 cognised
@@ -1714,7 +1698,6 @@ cosier
 cosies
 cosiest
 cosily
-cosiness
 cosmeticise
 cosmeticised
 cosmeticises
@@ -2393,7 +2376,6 @@ devalorise
 devalorised
 devalorises
 devalorising
-devilling
 devillings
 devitalisation
 devitalisations
@@ -2437,7 +2419,6 @@ dialyse
 dialysed
 dialyser
 dialysers
-dialyses
 dialysing
 diarise
 diarised
@@ -2471,7 +2452,6 @@ digitalisation
 digitalisations
 digitalise
 digitalised
-digitalises
 digitalising
 digitisation
 digitisations
@@ -2632,7 +2612,6 @@ dramatising
 driveable
 driveller
 drivellers
-drivelling
 drivellings
 drugstore
 drugstores
@@ -2644,7 +2623,6 @@ dualises
 dualising
 dueller
 duellers
-duelling
 duellings
 duellist
 duellists
@@ -2708,7 +2686,6 @@ electrolyse
 electrolysed
 electrolyser
 electrolysers
-electrolyses
 electrolysing
 elegise
 elegised
@@ -3267,7 +3244,6 @@ galvaniser
 galvanisers
 galvanises
 galvanising
-gambolling
 gambollings
 garlic-flavoured
 gelatinisation
@@ -3429,7 +3405,6 @@ graphitise
 graphitised
 graphitises
 graphitising
-gravelling
 gravellings
 grecianise
 grecianised
@@ -3440,8 +3415,6 @@ greisenisation
 greisenisations
 grey
 grey-haired
-greybeard
-greybeards
 greyed
 greyer
 greyest
@@ -3563,7 +3536,6 @@ hektolitre
 hektolitres
 hellenisation
 hellenisations
-hemolytic
 heparinisation
 heparinisations
 heparinise
@@ -3728,7 +3700,6 @@ hydrolyse
 hydrolysed
 hydrolyser
 hydrolysers
-hydrolyses
 hydrolysing
 hydropneumatisation
 hydropneumatisations
@@ -3787,7 +3758,6 @@ hypnotises
 hypnotising
 hypocentre
 hypocentres
-hypoglycaemia
 hypoglycaemias
 hypoglycaemic
 hypophysectomise
@@ -4235,7 +4205,6 @@ latinised
 latinises
 latinising
 lats
-latter
 laymanise
 laymanised
 laymanises
@@ -4279,7 +4248,6 @@ lemmatising
 leukaemia
 leukaemias
 leukaemic
-leveller
 levellers
 lexicalisation
 lexicalisations
@@ -4648,7 +4616,6 @@ metastasises
 metastasising
 metathesise
 metathesised
-metathesises
 metathesising
 methodisation
 methodisations
@@ -4749,7 +4716,6 @@ minimises
 minimising
 misanalyse
 misanalysed
-misanalyses
 misanalysing
 misauthorisation
 misauthorisations
@@ -4954,7 +4920,6 @@ multimerise
 multimerised
 multimerises
 multimerising
-mum
 mums
 municipalisation
 municipalisations
@@ -5666,7 +5631,6 @@ ovariectomises
 ovariectomising
 overanalyse
 overanalysed
-overanalyses
 overanalysing
 overbrutalisation
 overbrutalisations
@@ -5961,7 +5925,6 @@ panegyrise
 panegyrised
 panegyrises
 panegyrising
-panelling
 panellings
 panellisation
 panellisations
@@ -5993,7 +5956,6 @@ paralysed
 paralysedly
 paralyser
 paralysers
-paralyses
 paralysing
 paralysingly
 paralyzation
@@ -6016,7 +5978,6 @@ parasitise
 parasitised
 parasitises
 parasitising
-parcelling
 parcellings
 parenthesise
 parenthesised
@@ -6114,7 +6075,6 @@ paycheck
 paychecks
 peach-coloured
 pearlise
-pearlised
 pearlises
 pearlising
 pectisable
@@ -6183,7 +6143,6 @@ perennialising
 perfervour
 pericentre
 pericentres
-perilling
 perillings
 periodisation
 periodisations
@@ -6257,8 +6216,6 @@ phoney
 phoneyed
 phoneying
 phoneys
-phonier
-phoniest
 phosphatisation
 phosphatisations
 phosphatise
@@ -6276,7 +6233,6 @@ photoionising
 photolysable
 photolyse
 photolysed
-photolyses
 photolysing
 photopolymerise
 photopolymerised
@@ -6345,7 +6301,6 @@ plagiarises
 plagiarising
 plasmolyse
 plasmolysed
-plasmolyses
 plasmolysing
 plasticisation
 plasticisations
@@ -6370,8 +6325,6 @@ plebeianised
 plebeianises
 plebeianising
 plough
-ploughboy
-ploughboys
 ploughed
 plougher
 ploughers
@@ -6721,7 +6674,6 @@ psychoanalyse
 psychoanalysed
 psychoanalyser
 psychoanalysers
-psychoanalyses
 psychoanalysing
 psychologisation
 psychologisations
@@ -6846,7 +6798,6 @@ rationaliser
 rationalisers
 rationalises
 rationalising
-ravelling
 ravellings
 re-Germanisation
 re-Germanisations
@@ -6879,7 +6830,6 @@ realising
 reanalysable
 reanalyse
 reanalysed
-reanalyses
 reanalysing
 reauthorisation
 reauthorisations
@@ -7277,7 +7227,6 @@ rivalise
 rivalised
 rivalises
 rivalising
-rivalling
 rivallings
 robocall
 robocalled
@@ -7653,7 +7602,6 @@ shinny
 shinnying
 shootout
 shootouts
-shovelling
 shovellings
 shuck
 shucked
@@ -7830,7 +7778,6 @@ spiraliser
 spiralisers
 spiralises
 spiralising
-spiralling
 spirallings
 spirantisation
 spirantisations
@@ -8078,7 +8025,6 @@ susses
 sussing
 switchblade
 switchblades
-swivelling
 swivellings
 swop
 swopped
@@ -8143,7 +8089,6 @@ synonymises
 synonymising
 synopsise
 synopsised
-synopsises
 synopsising
 synthesisable
 synthesisation
@@ -8152,7 +8097,6 @@ synthesise
 synthesised
 synthesiser
 synthesisers
-synthesises
 synthesising
 synthetisation
 synthetisations
@@ -8209,7 +8153,6 @@ tartarise
 tartarised
 tartarises
 tartarising
-tasselling
 tassellings
 tautomerisable
 tautomerisation
@@ -8369,7 +8312,6 @@ thymectomises
 thymectomising
 tightwad
 tightwads
-time-honoured
 tiro
 tiroes
 tiros
@@ -8484,7 +8426,6 @@ tumourlike
 tumours
 tunneller
 tunnellers
-tunnelling
 tunnellings
 tuque
 tuques
@@ -9155,7 +9096,6 @@ winterises
 winterising
 wive
 wived
-wives
 wiving
 womanisation
 womanisations
@@ -9190,7 +9130,6 @@ yoctometre
 yoctometres
 yodeller
 yodellers
-yodelling
 yodellings
 yoghurt
 yoghurts

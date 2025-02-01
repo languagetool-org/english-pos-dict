@@ -698,7 +698,6 @@ adulterize
 adulterized
 adulterizes
 adulterizing
-aerie
 aero-engine
 aero-engines
 aerobicise
@@ -1000,7 +999,6 @@ analyse
 analysed
 analyser
 analysers
-analyses
 analysing
 anathematisation
 anathematisations
@@ -1081,7 +1079,6 @@ animalized
 animalizes
 animalizing
 annexe
-annexes
 annualisation
 annualisations
 annualise
@@ -1221,10 +1218,8 @@ antipopularisation
 antipopularization
 antitumour
 antitumoural
-anvil
 anvilled
 anvilling
-anvils
 aphetise
 aphetised
 aphetises
@@ -1389,7 +1384,6 @@ aromatizes
 aromatizing
 arse
 arsed
-arses
 arsing
 artefact
 artefacts
@@ -1542,7 +1536,6 @@ autoionization
 autoionizations
 autolyse
 autolysed
-autolyses
 autolysing
 automatisation
 automatisations
@@ -1773,7 +1766,6 @@ bituminizes
 bituminizing
 blag
 blagged
-blagging
 blags
 blameable
 blameableness
@@ -2101,7 +2093,6 @@ carnalizes
 carnalizing
 caroller
 carollers
-carolling
 carollings
 cartelisation
 cartelisations
@@ -2147,7 +2138,6 @@ catalyse
 catalysed
 catalyser
 catalysers
-catalyses
 catalysing
 catastrophise
 catastrophised
@@ -2370,7 +2360,6 @@ childminded
 childminding
 childminds
 chilli
-chillies
 chillis
 chloridise
 chloridised
@@ -2407,10 +2396,8 @@ chronologize
 chronologized
 chronologizes
 chronologizing
-chunder
 chundered
 chundering
-chunders
 chunter
 chuntered
 chuntering
@@ -2575,7 +2562,6 @@ cognisableness
 cognisably
 cognisance
 cognisances
-cognisant
 cognisantly
 cognise
 cognised
@@ -2653,8 +2639,6 @@ colonises
 colonising
 colonizable
 colonization
-colonizationist
-colonizationists
 colonizations
 colonize
 colonized
@@ -3021,7 +3005,6 @@ cosier
 cosies
 cosiest
 cosily
-cosiness
 cosmeticise
 cosmeticised
 cosmeticises
@@ -4277,7 +4260,6 @@ desynchronizations
 desynchronize
 desynchronized
 desynchronizes
-desynchronizing
 deterritorialisation
 deterritorialisations
 deterritorialise
@@ -4314,7 +4296,6 @@ devalorize
 devalorized
 devalorizes
 devalorizing
-devilling
 devillings
 devitalisation
 devitalisations
@@ -4389,7 +4370,6 @@ dialyse
 dialysed
 dialyser
 dialysers
-dialyses
 dialysing
 diarise
 diarised
@@ -4447,7 +4427,6 @@ digitalisation
 digitalisations
 digitalise
 digitalised
-digitalises
 digitalising
 digitalization
 digitalizations
@@ -4724,7 +4703,6 @@ dramatizing
 driveable
 driveller
 drivellers
-drivelling
 drivellings
 dualisation
 dualisations
@@ -4740,12 +4718,9 @@ dualizes
 dualizing
 dueller
 duellers
-duelling
 duellings
 duellist
 duellists
-duff
-duffer
 duffest
 dynamisation
 dynamisations
@@ -4847,7 +4822,6 @@ electrolyse
 electrolysed
 electrolyser
 electrolysers
-electrolyses
 electrolysing
 elegise
 elegised
@@ -5834,7 +5808,6 @@ galvanizer
 galvanizers
 galvanizes
 galvanizing
-gambolling
 gambollings
 gaol
 gaoled
@@ -6128,9 +6101,7 @@ granitises
 granitising
 granitization
 granitizations
-granitize
 granitized
-granitizes
 granitizing
 graphitisable
 graphitisation
@@ -6146,7 +6117,6 @@ graphitize
 graphitized
 graphitizes
 graphitizing
-gravelling
 gravellings
 grecianise
 grecianised
@@ -6163,8 +6133,6 @@ greisenization
 greisenizations
 grey
 grey-haired
-greybeard
-greybeards
 greyed
 greyer
 greyest
@@ -6318,7 +6286,6 @@ hellenisation
 hellenisations
 hellenization
 hellenizations
-hemolytic
 heparinisation
 heparinisations
 heparinise
@@ -6585,7 +6552,6 @@ hydrolyse
 hydrolysed
 hydrolyser
 hydrolysers
-hydrolyses
 hydrolysing
 hydropneumatisation
 hydropneumatisations
@@ -6694,7 +6660,6 @@ hypnotizes
 hypnotizing
 hypocentre
 hypocentres
-hypoglycaemia
 hypoglycaemias
 hypoglycaemic
 hypophysectomise
@@ -7060,8 +7025,6 @@ insolubilisations
 insolubilization
 insolubilizations
 instal
-installed
-installing
 instalment
 instalments
 instals
@@ -7391,10 +7354,7 @@ kinaesthetics
 kippah
 kippahs
 kippot
-knacker
-knackered
 knackering
-knackers
 kyanisation
 kyanisations
 kyanise
@@ -7593,7 +7553,6 @@ lemmatizing
 leukaemia
 leukaemias
 leukaemic
-leveller
 levellers
 lexicalisation
 lexicalisations
@@ -8271,7 +8230,6 @@ metastasizes
 metastasizing
 metathesise
 metathesised
-metathesises
 metathesising
 metathesize
 metathesized
@@ -8446,7 +8404,6 @@ minimizes
 minimizing
 misanalyse
 misanalysed
-misanalyses
 misanalysing
 misauthorisation
 misauthorisations
@@ -8793,7 +8750,6 @@ multimerize
 multimerized
 multimerizes
 multimerizing
-mum
 mums
 municipalisation
 municipalisations
@@ -8922,7 +8878,6 @@ narcotizations
 narcotize
 narcotized
 narcotizes
-narcotizing
 narrativise
 narrativised
 narrativises
@@ -9049,7 +9004,6 @@ nephrectomizes
 nephrectomizing
 nesh
 nett
-netter
 neurobehavioural
 neurohumour
 neurohumours
@@ -9383,7 +9337,6 @@ non-voting
 non-worker
 non-workers
 non-working
-non-zero
 nonanaesthetised
 nonanaesthetized
 noncapitalised
@@ -9506,7 +9459,6 @@ nontautomerisable
 nontautomerizable
 nontradeable
 nonunionised
-nonunionized
 nonutilised
 nonutilized
 nonverbalised
@@ -9882,7 +9834,6 @@ ovariectomizes
 ovariectomizing
 overanalyse
 overanalysed
-overanalyses
 overanalysing
 overbrutalisation
 overbrutalisations
@@ -10328,7 +10279,6 @@ panegyrize
 panegyrized
 panegyrizes
 panegyrizing
-panelling
 panellings
 panellisation
 panellisations
@@ -10384,7 +10334,6 @@ paralysed
 paralysedly
 paralyser
 paralysers
-paralyses
 paralysing
 paralysingly
 paralytical
@@ -10426,7 +10375,6 @@ parasitize
 parasitized
 parasitizes
 parasitizing
-parcelling
 parcellings
 parenthesise
 parenthesised
@@ -10604,11 +10552,9 @@ paviour
 paviours
 peach-coloured
 pearlise
-pearlised
 pearlises
 pearlising
 pearlize
-pearlized
 pearlizes
 pearlizing
 pectisable
@@ -10695,7 +10641,6 @@ penalize
 penalized
 penalizes
 penalizing
-penny-pinching
 penny-pinchings
 pentasulphide
 pentasulphides
@@ -10740,7 +10685,6 @@ perennializing
 perfervour
 pericentre
 pericentres
-perilling
 perillings
 periodisation
 periodisations
@@ -10876,8 +10820,6 @@ phoney
 phoneyed
 phoneying
 phoneys
-phonier
-phoniest
 phosphatisation
 phosphatisations
 phosphatise
@@ -10909,7 +10851,6 @@ photoionizing
 photolysable
 photolyse
 photolysed
-photolyses
 photolysing
 photopolymerise
 photopolymerised
@@ -11036,7 +10977,6 @@ plagiarizes
 plagiarizing
 plasmolyse
 plasmolysed
-plasmolyses
 plasmolysing
 plasticisation
 plasticisations
@@ -11083,8 +11023,6 @@ plebeianized
 plebeianizes
 plebeianizing
 plough
-ploughboy
-ploughboys
 ploughed
 plougher
 ploughers
@@ -11578,9 +11516,7 @@ professionalized
 professionalizes
 professionalizing
 programme
-programmed
 programmes
-programming
 proindustrialisation
 proindustrialization
 prolabour
@@ -11724,7 +11660,6 @@ psychoanalyse
 psychoanalysed
 psychoanalyser
 psychoanalysers
-psychoanalyses
 psychoanalysing
 psychologisation
 psychologisations
@@ -11745,7 +11680,6 @@ publicising
 publicize
 publicized
 publicizes
-publicizing
 pud
 puds
 pulverisable
@@ -11946,7 +11880,6 @@ rationalizer
 rationalizers
 rationalizes
 rationalizing
-ravelling
 ravellings
 re-Germanisation
 re-Germanisations
@@ -12007,7 +11940,6 @@ realizing
 reanalysable
 reanalyse
 reanalysed
-reanalyses
 reanalysing
 reauthorisation
 reauthorisations
@@ -12771,7 +12703,6 @@ rivalize
 rivalized
 rivalizes
 rivalizing
-rivalling
 rivallings
 robotisation
 robotisations
@@ -13384,7 +13315,6 @@ sherardize
 sherardized
 sherardizes
 sherardizing
-shovelling
 shovellings
 signalisation
 signalisations
@@ -13681,7 +13611,6 @@ spiralizer
 spiralizers
 spiralizes
 spiralizing
-spiralling
 spirallings
 spirantisation
 spirantisations
@@ -14102,7 +14031,6 @@ susses
 sussing
 switch-blade
 switch-blades
-swivelling
 swivellings
 swop
 swopped
@@ -14224,7 +14152,6 @@ synonymizes
 synonymizing
 synopsise
 synopsised
-synopsises
 synopsising
 synopsize
 synopsized
@@ -14237,7 +14164,6 @@ synthesise
 synthesised
 synthesiser
 synthesisers
-synthesises
 synthesising
 synthesizable
 synthesization
@@ -14359,7 +14285,6 @@ tartarize
 tartarized
 tartarizes
 tartarizing
-tasselling
 tassellings
 tautomerisable
 tautomerisation
@@ -14629,7 +14554,6 @@ thymectomize
 thymectomized
 thymectomizes
 thymectomizing
-time-honoured
 tiro
 tiroes
 tiros
@@ -14784,7 +14708,6 @@ trypsinise
 trypsinised
 trypsinises
 trypsinising
-trypsinize
 trypsinized
 trypsinizes
 trypsinizing
@@ -14808,7 +14731,6 @@ tumourlike
 tumours
 tunneller
 tunnellers
-tunnelling
 tunnellings
 tutorise
 tutorised
@@ -14914,7 +14836,6 @@ uncentreing
 uncentres
 uncentring
 uncharacterised
-uncharacterized
 uncircularised
 uncircularized
 uncivilisable
@@ -15252,7 +15173,6 @@ unpatronized
 unpatronizing
 unpatronizingly
 unpenalised
-unpenalized
 unpersonalised
 unpersonalized
 unphosphatised
@@ -15266,7 +15186,6 @@ unpoeticized
 unpolarisable
 unpolarised
 unpolarizable
-unpolarized
 unpolymerised
 unpolymerized
 unpopularised
@@ -16009,7 +15928,6 @@ yoctometre
 yoctometres
 yodeller
 yodellers
-yodelling
 yodellings
 yoghourt
 yoghourts

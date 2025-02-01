@@ -355,9 +355,6 @@ adulterize
 adulterized
 adulterizes
 adulterizing
-aerier
-aeries
-aeriest
 aerobicize
 aerobicized
 aerobicizes
@@ -738,7 +735,6 @@ aromatizes
 aromatizing
 arse
 arsed
-arses
 arsing
 arterialization
 arterializations
@@ -1045,9 +1041,7 @@ burnettizing
 busboy
 busboys
 buss
-bussed
 busses
-bussing
 butthead
 buttheads
 buzzkill
@@ -1169,7 +1163,6 @@ carnalizes
 carnalizing
 caroller
 carollers
-carolling
 carollings
 cartelization
 cartelizations
@@ -1239,7 +1232,6 @@ cauterizing
 caviller
 cavillers
 ceca
-cecal
 cecally
 cecum
 cellularization
@@ -1317,10 +1309,8 @@ characterizer
 characterizers
 characterizes
 characterizing
-checker
 checkered
 checkering
-checkers
 chemicalization
 chemicalizations
 chemicalize
@@ -1357,10 +1347,8 @@ chronologize
 chronologized
 chronologizes
 chronologizing
-chunder
 chundered
 chundering
-chunders
 cicatrization
 cicatrizations
 cicatrize
@@ -1489,8 +1477,6 @@ colonializes
 colonializing
 colonizable
 colonization
-colonizationist
-colonizationists
 colonizations
 colonize
 colonized
@@ -2381,7 +2367,6 @@ desynchronizations
 desynchronize
 desynchronized
 desynchronizes
-desynchronizing
 deterritorialization
 deterritorializations
 deterritorialize
@@ -2400,7 +2385,6 @@ devalorize
 devalorized
 devalorizes
 devalorizing
-devilling
 devillings
 devitalization
 devitalizations
@@ -2639,7 +2623,6 @@ dramatizing
 driveable
 driveller
 drivellers
-drivelling
 drivellings
 drugstore
 drugstores
@@ -2651,7 +2634,6 @@ dualizes
 dualizing
 dueller
 duellers
-duelling
 duellings
 duellist
 duellists
@@ -2858,10 +2840,7 @@ essentialize
 essentialized
 essentializes
 essentializing
-estrogen
-estrogenic
 estrogenically
-estrogens
 estrone
 estrones
 estrous
@@ -3239,8 +3218,6 @@ freeway
 freeways
 french
 fulfill
-fulfilled
-fulfilling
 fulfillment
 fulfillments
 fulfills
@@ -3274,7 +3251,6 @@ galvanizer
 galvanizers
 galvanizes
 galvanizing
-gambolling
 gambollings
 garlic-flavoured
 gelatinization
@@ -3427,9 +3403,7 @@ grangerizes
 grangerizing
 granitization
 granitizations
-granitize
 granitized
-granitizes
 granitizing
 graphitizable
 graphitization
@@ -3438,7 +3412,6 @@ graphitize
 graphitized
 graphitizes
 graphitizing
-gravelling
 gravellings
 grecianize
 grecianized
@@ -3449,8 +3422,6 @@ greisenization
 greisenizations
 grey
 grey-haired
-greybeard
-greybeards
 greyed
 greyer
 greyest
@@ -3560,8 +3531,6 @@ hematolysis
 hematoma
 hematomas
 hemophilia
-hemophiliac
-hemophiliacs
 hemophilias
 hemorrhage
 hemorrhaged
@@ -4237,7 +4206,6 @@ latinized
 latinizes
 latinizing
 lats
-latter
 laymanize
 laymanized
 laymanizes
@@ -4281,7 +4249,6 @@ lemmatizing
 leukemia
 leukemias
 leukemic
-leveller
 levellers
 lexicalization
 lexicalizations
@@ -4950,7 +4917,6 @@ multimerize
 multimerized
 multimerizes
 multimerizing
-mum
 mums
 municipalization
 municipalizations
@@ -5024,7 +4990,6 @@ narcotizations
 narcotize
 narcotized
 narcotizes
-narcotizing
 narrativize
 narrativized
 narrativizes
@@ -5442,7 +5407,6 @@ nontradeable
 nontransferable
 nontypical
 nonuniform
-nonunionized
 nonuser
 nonusers
 nonutilized
@@ -5941,7 +5905,6 @@ panegyrize
 panegyrized
 panegyrizes
 panegyrizing
-panelling
 panellings
 panellist
 panellists
@@ -5996,7 +5959,6 @@ parasitize
 parasitized
 parasitizes
 parasitizing
-parcelling
 parcellings
 parenthesize
 parenthesized
@@ -6098,7 +6060,6 @@ paycheck
 paychecks
 peach-coloured
 pearlize
-pearlized
 pearlizes
 pearlizing
 pectizable
@@ -6176,7 +6137,6 @@ perennializing
 perfervour
 pericentre
 pericentres
-perilling
 perillings
 periodization
 periodizations
@@ -6719,7 +6679,6 @@ psychologizing
 publicize
 publicized
 publicizes
-publicizing
 pulverizable
 pulverization
 pulverizations
@@ -6835,7 +6794,6 @@ rationalizer
 rationalizers
 rationalizes
 rationalizing
-ravelling
 ravellings
 re-Germanization
 re-Germanizations
@@ -7265,7 +7223,6 @@ rivalize
 rivalized
 rivalizes
 rivalizing
-rivalling
 rivallings
 robocall
 robocalled
@@ -7632,7 +7589,6 @@ shinny
 shinnying
 shootout
 shootouts
-shovelling
 shovellings
 shuck
 shucked
@@ -7815,7 +7771,6 @@ spiralizer
 spiralizers
 spiralizes
 spiralizing
-spiralling
 spirallings
 spirantization
 spirantizations
@@ -8057,7 +8012,6 @@ surgicentre
 surgicentres
 switchblade
 switchblades
-swivelling
 swivellings
 syllabize
 syllabized
@@ -8184,7 +8138,6 @@ tartarize
 tartarized
 tartarizes
 tartarizing
-tasselling
 tassellings
 tautomerizable
 tautomerization
@@ -8346,7 +8299,6 @@ tidbit
 tidbits
 tightwad
 tightwads
-time-honoured
 tokenization
 tokenizations
 tokenize
@@ -8441,7 +8393,6 @@ tropicalize
 tropicalized
 tropicalizes
 tropicalizing
-trypsinize
 trypsinized
 trypsinizes
 trypsinizing
@@ -8457,7 +8408,6 @@ tumourlike
 tumours
 tunneller
 tunnellers
-tunnelling
 tunnellings
 tuque
 tuques
@@ -8519,7 +8469,6 @@ uncentred
 uncentreing
 uncentres
 uncentring
-uncharacterized
 uncircularized
 uncivilizable
 uncivilized
@@ -8707,14 +8656,12 @@ unpatronizable
 unpatronized
 unpatronizing
 unpatronizingly
-unpenalized
 unpersonalized
 unphosphatized
 unplagiarized
 unpluralized
 unpoeticized
 unpolarizable
-unpolarized
 unpolymerized
 unpopularized
 unpressurized
@@ -9118,7 +9065,6 @@ winterizes
 winterizing
 wive
 wived
-wives
 wiving
 womanization
 womanizations
@@ -9155,7 +9101,6 @@ yoctometre
 yoctometres
 yodeller
 yodellers
-yodelling
 yodellings
 yogourt
 yogourts

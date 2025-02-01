@@ -30,3 +30,19 @@ done
 diff <(export LC_ALL=C &&  sort -u ../src-dict/output/en_ALL.txt) <(export LC_ALL=C && sort -u en_ALL.txt) > en_ALL.diff
 
 #TODO: create files added.txt, removed.txt. spelling.txt (for variants)
+
+# added.txt
+grep -E "^< " tagger-dictionary.diff > added.txt
+sed -i 's/^< //g' added.txt
+# removed.txt
+grep -E "^> " tagger-dictionary.diff > removed.txt
+sed -i 's/^> //g' removed.txt
+
+# spelling.txt
+grep -E "^< " en_ALL.diff > spelling.txt
+sed -i 's/^< //g' spelling.txt
+
+for country in AU CA GB NZ US ZA; do
+  grep -E "^< " en_${country}.diff > spelling_en-${country}.txt
+  sed -i 's/^< //g' spelling_en-${country}.txt
+done
