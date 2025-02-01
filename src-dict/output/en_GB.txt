@@ -4625,6 +4625,8 @@ distilling
 distils
 disulphate
 disulphates
+disulphide
+disulphides
 disulphuric
 divinisation
 divinisations
@@ -10713,6 +10715,8 @@ penalizes
 penalizing
 penny-pinching
 penny-pinchings
+pentasulphide
+pentasulphides
 peptisable
 peptisation
 peptisations
@@ -11267,6 +11271,8 @@ polymerizes
 polymerizing
 polysulphate
 polysulphates
+polysulphide
+polysulphides
 popularisation
 popularisations
 popularise
@@ -14534,6 +14540,8 @@ tetanize
 tetanized
 tetanizes
 tetanizing
+tetrasulphide
+tetrasulphides
 texturise
 texturised
 texturises

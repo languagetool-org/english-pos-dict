@@ -2755,6 +2755,8 @@ distilling
 distills
 disulfate
 disulfates
+disulfide
+disulfides
 disulfuric
 divinization
 divinizations
@@ -6481,6 +6483,8 @@ pencil
 penciled
 penciling
 pencils
+pentasulfide
+pentasulfides
 peptizable
 peptization
 peptizations
@@ -6779,6 +6783,8 @@ polymerizes
 polymerizing
 polysulfate
 polysulfates
+polysulfide
+polysulfides
 pommel
 pommeled
 pommeling
@@ -8706,6 +8712,8 @@ tetanize
 tetanized
 tetanizes
 tetanizing
+tetrasulfide
+tetrasulfides
 texturize
 texturized
 texturizes

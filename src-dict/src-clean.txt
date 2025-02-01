@@ -70459,8 +70459,8 @@ disturbingly=RB=all
 distyle=JJ=all
 disubstituted=JJ=all
 disulfate|disulphate=noun=us|au,ca,gb,nz,za
+disulfide|disulphide=noun=us|au,ca,gb,nz,za
 disulfuric|disulphuric=JJ=us|au,ca,gb,nz,za
-disulphide=noun=all
 disunion=noun_U=all
 disunite=verb=all
 disunity=noun_U=all
@@ -112772,7 +112772,7 @@ pentaprism=noun=all
 pentaquark=noun=all
 pentarchical=JJ=all
 pentarchy=noun=all
-pentasulfide=noun=all
+pentasulfide|pentasulphide=noun=us|au,ca,gb,nz,za
 pentasyllabic=JJ=all
 pentathlete=noun=all
 pentathlon=noun=all
@@ -115876,7 +115876,7 @@ polysomic=JJ=all
 polysomnography=noun_UN=all
 polystyrene=noun_U=all
 polysulfate|polysulphate=noun=us|au,ca,gb,nz,za
-polysulfide=noun=all
+polysulfide|polysulphide=noun=us|au,ca,gb,nz,za
 polysyllabic=JJ=all
 polysyllabically=RB=all
 polysyllable=noun=all
@@ -136404,7 +136404,7 @@ sukiyaki=noun_U=all
 sulcate=JJ=all
 sulcus=sulcus/NN,sulci/NNS=all
 sulfa=JJ=all
-sulfapyridine=sulfapyridine/NN,sulfapyridine/NN:U=all
+sulfapyridine=noun_UN=all
 sulfate|sulphate=noun_U=us|au,ca,gb,nz,za
 sulfenyl=noun=all
 sulfhydryl=noun=all
@@ -139389,7 +139389,7 @@ tetrasporic=JJ=all
 tetrastich=tetrastich/NN,tetrastichs/NNS=all
 tetrastichic=JJ=all
 tetrastichous=JJ=all
-tetrasulfide=noun=all
+tetrasulfide|tetrasulphide=noun=us|au,ca,gb,nz,za
 tetrasyllabic=JJ=all
 tetrasyllable=noun=all
 tetratomic=JJ=all

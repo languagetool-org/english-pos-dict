@@ -77638,8 +77638,6 @@ disturbingly
 disturbs
 distyle
 disubstituted
-disulphide
-disulphides
 disunion
 disunions
 disunite
@@ -136188,8 +136186,6 @@ pentaquarks
 pentarchical
 pentarchies
 pentarchy
-pentasulfide
-pentasulfides
 pentasyllabic
 pentathlete
 pentathletes
@@ -140624,8 +140620,6 @@ polysomnographies
 polysomnography
 polystyrene
 polystyrenes
-polysulfide
-polysulfides
 polysyllabic
 polysyllabically
 polysyllable
@@ -170654,6 +170648,7 @@ sulci
 sulcus
 sulfa
 sulfapyridine
+sulfapyridines
 sulfenyl
 sulfenyls
 sulfhydryl
@@ -174825,8 +174820,6 @@ tetrastich
 tetrastichic
 tetrastichous
 tetrastichs
-tetrasulfide
-tetrasulfides
 tetrasyllabic
 tetrasyllable
 tetrasyllables

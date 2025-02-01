@@ -2588,6 +2588,8 @@ distilling
 distills
 disulphate
 disulphates
+disulphide
+disulphides
 disulphuric
 divinization
 divinizations
@@ -6168,6 +6170,8 @@ penalize
 penalized
 penalizes
 penalizing
+pentasulphide
+pentasulphides
 peptizable
 peptization
 peptizations
@@ -6467,6 +6471,8 @@ polymerizes
 polymerizing
 polysulphate
 polysulphates
+polysulphide
+polysulphides
 popularization
 popularizations
 popularize
@@ -8291,6 +8297,8 @@ tetanize
 tetanized
 tetanizes
 tetanizing
+tetrasulphide
+tetrasulphides
 texturize
 texturized
 texturizes
