@@ -40603,6 +40603,7 @@ Trump=NNP=all
 Trumpeter=NNP=za # South Africa, placename?
 Trumpetfish=NNP=za # South Africa, placename?
 Trumpetsnout=NNP=za # South Africa, placename?
+Trumpian=JJ=all
 Trumpism=NN:U=all
 Trumpist=Trumpist/NNP,Trumpists/NNPS=all
 Trunkfish=NNP=za # South Africa, placename?
@@ -48652,6 +48653,7 @@ antibiotic=JJ=all
 antibiotic=noun=all
 antibiotically=RB=all
 antiblack=JJ=all
+antiblackness=NN:U=all
 antiblastic=JJ=all
 antibody-negative=JJ=all
 antibody-positive=JJ=all
@@ -49256,6 +49258,7 @@ antivivisectionist=noun=all
 antiwar=JJ=all
 antiwhaling=JJ=all
 antiwhite=JJ=all
+antiwhiteness=NN:U=all
 antiwoman=JJ=all
 antiworker=JJ=all
 antiworm=JJ=all
@@ -61882,6 +61885,7 @@ comment=noun_UN=all
 comment=verb=all
 commentable=JJ=all
 commentarial=JJ=all
+commentariat=noun=all
 commentary=commentary/NN,commentary/NN:U,commentaries/NNS=all
 commentate=verb=all
 commentative=JJ=all
@@ -76971,10 +76975,12 @@ feedlot=noun=all
 feedstock=feedstock/NN,feedstock/NN:U,feedstocks/NNS=all
 feedstuff=noun_UN=all
 feel [feels;felt;felt;feeling]=verb=all
+feel-good=JJ=all
 feel=noun=all
 feelable=JJ=all
 feeler=noun=all
 feeless=JJ=all
+feelgood=JJ=all
 feeling=JJ=all
 feeling=noun_UN=all
 feelingful=JJ=all
@@ -119953,6 +119959,7 @@ punctureless=JJ=all
 pundit=noun=all
 punditic=JJ=all
 punditically=RB=all
+punditocracy=noun=all
 punditry=noun_U=all
 pungency=noun_U=all
 pungent=JJ=all

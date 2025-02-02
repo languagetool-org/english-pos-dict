@@ -84144,7 +84144,6 @@ feedhole=noun=none
 feedthrough=noun=none
 feedwater=NN:U=none
 feedyard=noun=none
-feelgood=UNTAGGED=au,ca,us
 feelthy=UNTAGGED=gb
 feer=UNTAGGED=us-large
 feeze=UNTAGGED=us-large

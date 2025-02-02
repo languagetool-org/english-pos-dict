@@ -36708,6 +36708,7 @@ Truman
 Trumann
 Trumbeak
 Trump
+Trumpian
 Trumpism
 Trumpist
 Trumpists
@@ -45831,6 +45832,7 @@ antibiotic
 antibiotically
 antibiotics
 antiblack
+antiblackness
 antiblastic
 antibodies
 antibody
@@ -46494,6 +46496,7 @@ antivivisections
 antiwar
 antiwhaling
 antiwhite
+antiwhiteness
 antiwoman
 antiworker
 antiworm
@@ -65012,6 +65015,8 @@ commensurateness
 comment
 commentable
 commentarial
+commentariat
+commentariats
 commentaries
 commentary
 commentate
@@ -87091,10 +87096,12 @@ feedstuff
 feedstuffs
 feeing
 feel
+feel-good
 feelable
 feeler
 feelers
 feeless
+feelgood
 feelies
 feeling
 feelingful
@@ -146272,6 +146279,8 @@ puncturing
 pundit
 punditic
 punditically
+punditocracies
+punditocracy
 punditries
 punditry
 pundits
