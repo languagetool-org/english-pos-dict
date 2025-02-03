@@ -26256,7 +26256,8 @@ Marciano=NNP=all
 Marcie=NNP=all
 Marcin=NNP=all
 Marcion=NNP=all
-Marcionism=Marcionism/NNP,Marcionisms/NNPS=all
+Marcionism=NN:U=all
+Marcionite=noun=all
 Marco=NNP=all
 Marcomannic=JJ=all
 Marconi=NNP=all
@@ -33639,7 +33640,6 @@ Quigney=NNP=za # South Africa, placename?
 Quilava=NNP=all
 QuillBot=NNP=all
 Quilladin=NNP=all
-Quillbot=NNP=all
 Quilmes=NNP=all
 Quilpué=NNP=all
 Quimby=NNP=all
