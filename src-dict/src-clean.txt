@@ -26240,6 +26240,7 @@ Marcan=JJ=all
 Marceau=NNP=all
 Marcel=NNP=all
 Marcela=NNP=all
+Marcelino=NNP=all
 Marcella=NNP=all
 Marcelle=NNP=all
 Marcello=NNP=all
@@ -97874,6 +97875,7 @@ maraschino=noun=all
 marasmus=noun_U=all
 marathon=noun=all
 marathoner=noun=all
+marathoning=NN:U=all
 maraud=verb=all
 marauder=noun=all
 marauding=JJ=all

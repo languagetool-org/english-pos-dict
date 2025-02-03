@@ -103722,7 +103722,6 @@ marantaceae=NN=none
 marasca=noun=us-large
 marasmic=UNTAGGED=gb
 marasmius=NN=none
-marathoning=noun=us-large
 marattia=NN=none
 marattiaceae=NN=none
 marattiales=NN=none
