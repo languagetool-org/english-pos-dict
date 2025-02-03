@@ -40605,7 +40605,8 @@ Trumpetfish=NNP=za # South Africa, placename?
 Trumpetsnout=NNP=za # South Africa, placename?
 Trumpian=JJ=all
 Trumpism=NN:U=all
-Trumpist=Trumpist/NNP,Trumpists/NNPS=all
+Trumpist=JJ=all
+Trumpist=noun=all
 Trunkfish=NNP=za # South Africa, placename?
 Truong=NNP=all
 Truro=NNP=all
@@ -69114,7 +69115,12 @@ dietetic=JJ=all
 dietetic=noun=all
 dietetical=JJ=all
 dietetics=NN:U=all
+diethyl=noun_UN=all
+diethylamide=noun=all
 diethylcarbamazine=noun=all
+diethylethanolamine=noun=none
+diethylpropion=NN:U=all
+diethylstilbestrol|diethylstilboestrol=noun_UN=all|gb
 dietician=noun=all
 dietitian=noun=all
 diff=noun=all
@@ -69161,6 +69167,7 @@ diffuser=noun=all
 diffusible=JJ=all
 diffusibleness=NN:U=all
 diffusion=noun_U=all
+diffusional=JJ=all
 diffusionally=RB=all
 diffusive=JJ=all
 diffusively=RB=all
@@ -69317,6 +69324,7 @@ dimerous=JJ=all
 dimeter=noun=all
 dimethicone=noun=all
 dimethyl=dimethyl/NN,dimethyl/NN:U,dimethyls/NNS=all
+dimethylacetal=noun=all
 dimethylamine=NN:U=all
 dimethyltryptamine=noun=all
 dimetric=JJ=all
@@ -70238,6 +70246,7 @@ disruptive=JJ=all
 disruptively=RB=all
 disruptiveness=NN:U=all
 disruptor=noun=all
+diss=noun=all # slang
 dissatisfaction=noun_U=all
 dissatisfactoriness=NN:U=all
 dissatisfactory=JJ=all
@@ -73299,7 +73308,7 @@ empathize|empathise=verb=us,ca,gb|gb,au,nz,za
 empathy=noun_U=all
 empennage=noun=all
 emperor=noun=all
-emphasis [pl. emphases]=noun=all
+emphasis [pl. emphases]=noun_UN=all
 emphasizer|emphasiser=noun=us,ca,gb|gb,au,nz,za
 emphasize|emphasise=verb=us,ca,gb|gb,au,nz,za
 emphatic=JJ=all
@@ -121636,7 +121645,7 @@ re-embody=verb=all
 re-emerge=verb=all
 re-emergence=noun_U=all
 re-emission=noun=all
-re-emphasis [pl. re-emphases]=noun=all
+re-emphasis [pl. re-emphases]=noun_UN=all
 re-emphasize|re-emphasise=verb=us,ca,gb|gb,au,nz,za
 re-employ=verb=all
 re-employable=JJ=all
@@ -130459,6 +130468,10 @@ single=JJ=all
 single=noun_UN=all
 single=verb=all
 singled=JJ=all
+singlehanded=JJ=all
+singlehanded=RB=all
+singlehandedly=RB=all
+singlehandedness=NN:U=all
 singleness=NN:U=all
 singlet=noun=all
 singleton=noun=all
@@ -134379,6 +134392,7 @@ stigmatic=JJ=all
 stigmatic=NN=all
 stigmatization|stigmatisation=noun_UN=us,ca,gb|gb,au,nz,za
 stigmatize|stigmatise=verb=us,ca,gb|gb,au,nz,za
+stilbestrol|stilboestrol=noun_UN=all|gb
 stile=noun=all
 stiletto [stilettoes,stilettos;stilettoed;stilettoed;stilettoing]=verb=all
 stiletto=stiletto/NN,stilettoes/NNS,stilettos/NNS=all

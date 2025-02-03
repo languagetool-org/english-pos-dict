@@ -75597,8 +75597,15 @@ dieters
 dietetic
 dietetical
 dietetics
+diethyl
+diethylamide
+diethylamides
 diethylcarbamazine
 diethylcarbamazines
+diethylpropion
+diethyls
+diethylstilbestrol
+diethylstilbestrols
 dietician
 dieticians
 dieting
@@ -75673,6 +75680,7 @@ diffusible
 diffusibleness
 diffusing
 diffusion
+diffusional
 diffusionally
 diffusions
 diffusive
@@ -75885,6 +75893,8 @@ dimeters
 dimethicone
 dimethicones
 dimethyl
+dimethylacetal
+dimethylacetals
 dimethylamine
 dimethyls
 dimethyltryptamine
@@ -77323,6 +77333,7 @@ disruptiveness
 disruptor
 disruptors
 disrupts
+diss
 dissatisfaction
 dissatisfactions
 dissatisfactoriness
@@ -162280,6 +162291,9 @@ single-spaced
 single-stranded
 single-valued
 singled
+singlehanded
+singlehandedly
+singlehandedness
 singleness
 singles
 singlet
@@ -167894,6 +167908,8 @@ stigma
 stigmas
 stigmata
 stigmatic
+stilbestrol
+stilbestrols
 stile
 stiles
 stiletto

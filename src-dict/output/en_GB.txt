@@ -4423,6 +4423,8 @@ dieselize
 dieselized
 dieselizes
 dieselizing
+diethylstilboestrol
+diethylstilboestrols
 digitalisation
 digitalisations
 digitalise
@@ -13722,6 +13724,8 @@ stigmatize
 stigmatized
 stigmatizes
 stigmatizing
+stilboestrol
+stilboestrols
 stolonisation
 stolonisations
 stolonization
