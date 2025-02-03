@@ -65957,7 +65957,7 @@ curvy=curvy/JJ,curvier/JJR,curviest/JJS=all
 cusec=noun=all
 cushat=noun=all
 cushiness=NN:U=all
-cushion=noun=all
+cushion=noun_UN=all
 cushion=verb=all
 cushioned=JJ=all
 cushioning=NN:UN=all
@@ -71527,7 +71527,7 @@ drone=verb=all
 drongo=drongo/NN,drongoes/NNS,drongos/NNS=all
 droningly=RB=all
 dronish=JJ=all
-drool=noun=all
+drool=noun_UN=all
 drool=verb=all
 drooly=drooly/JJ,droolier/JJR,drooliest/JJS=all
 droop=noun=all
@@ -130680,7 +130680,7 @@ sized=JJ=all
 sizer=noun=all
 siziness=NN:U=all
 sizing=noun_U=all
-sizzle=noun=all
+sizzle=noun_UN=all
 sizzle=verb=all
 sizzler=noun=all
 sizzling=NN:UN=all
