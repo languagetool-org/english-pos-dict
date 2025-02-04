@@ -23822,6 +23822,7 @@ Leatheroid=NNP=all
 Leavanny=NNP=all
 Leavenworth=NNP=all
 Leavis=NNP=all
+Leavitt=NNP=all
 Leawood=NNP=all
 Lebalangwe=NNP=za # South Africa, placename?
 Lebaleng=NNP=za # South Africa, placename?
@@ -32376,6 +32377,7 @@ Pericles=NNP=all
 Perigordian=JJ=all
 Perigordian=noun=all
 Peripatetic=Peripatetic/NNP,Peripatetics/NNPS=all
+Perizzite=noun=all
 Perkins=NNP=all
 Perl=Perl/NNP,Perls/NNPS=all
 Perlis=NNP=all
@@ -33379,6 +33381,7 @@ Punjabi=JJ=all
 Punjabi=Punjabi/NNP,Punjabis/NNPS=all
 Punnett=NNP=all
 Punts=NNP=za # South Africa, placename?
+Punxsutawney=NNP=all
 Pupitar=NNP=all
 Puppis=NNP=all
 Purana=Purana/NNP,Puranas/NNPS=all
@@ -47132,6 +47135,7 @@ alphabetization|alphabetisation=noun_UN=us,ca,gb|gb,au,nz,za
 alphabetizer|alphabetiser=noun=us,ca,gb|gb,au,nz,za
 alphabetize|alphabetise=verb=us,ca,gb|gb,au,nz,za
 alphacoronavirus=noun=all
+alphaketoglutarate=noun=all
 alphameric=JJ=all
 alphamerical=JJ=all
 alphamerically=RB=all
@@ -66930,6 +66934,7 @@ decapodous=JJ=all
 decaradian=noun=all
 decarbonization|decarbonisation=noun_UN=us,ca,gb|gb,au,nz,za
 decarbonize|decarbonise=verb=us,ca,gb|gb,au,nz,za
+decarboxylation=noun_UN=all
 decarburization|decarburisation=noun_UN=us,ca,gb|gb,au,nz,za
 decarburize|decarburise=verb=us,ca,gb|gb,au,nz,za
 decartelization|decartelisation=noun_UN=us,ca,gb|gb,au,nz,za
@@ -79341,6 +79346,7 @@ four-in-hand=noun=all
 four-inch=JJ=all
 four-lane=JJ=all
 four-legged=JJ=all
+four-limbed=JJ=all
 four-line=JJ=all
 four-liter|four-litre=noun=us|au,ca,gb,nz,za
 four-man=JJ=all
@@ -92393,6 +92399,7 @@ isochronally=RB=all
 isochronous=JJ=all
 isochronously=RB=all
 isochroous=JJ=all
+isocitrate=noun=all
 isoclinal=JJ=all
 isoclinal=noun=all
 isocline=noun=all
@@ -135079,6 +135086,7 @@ strombolian=JJ=all
 strong-arm=JJ=all
 strong-arm=NN=all
 strong-arm=verb=all
+strong-limbed=JJ=all
 strong-minded=JJ=all
 strong-mindedly=RB=all
 strong-mindedness=NN:U=all
@@ -153339,6 +153347,8 @@ urnlike=JJ=all
 uroboros=NN=all
 urochordal=JJ=all
 urodynamic=JJ=all
+uroepithelial=JJ=all
+uroepithelium [pl. uroepithelia]=noun=all
 urogenital=JJ=all
 urogenous=JJ=all
 urolithic=JJ=all

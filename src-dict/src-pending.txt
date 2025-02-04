@@ -28695,7 +28695,6 @@ Leavelle=NNP=none
 Leavenheath=UNTAGGED=gb
 Leavening=UNTAGGED=gb
 Leavisite=Leavisite/NNP,Leavisites/NNPS=none
-Leavitt=NNP=none
 Leavy=NNP=none
 Leban=NNP=none
 Lebar=NNP=none
@@ -31854,7 +31853,6 @@ Marbut=NNP=none
 Marcantonio=NNP=none
 Marcelia=NNP=none
 Marceline=NNP=none
-Marcelino=UNTAGGED=au,ca,us
 Marcell=NNP=none
 Marcellian=UNTAGGED=gb
 Marcellina=NNP=none
@@ -31885,7 +31883,6 @@ Marcille=NNP=none
 Marcinkiewicz=UNTAGGED=gb
 Marcionist=UNTAGGED=gb
 Marcionists=UNTAGGED=gb
-Marcionite=Marcionite/NNP,Marcionites/NNPS=gb
 Marcionitism=UNTAGGED=gb
 Marcle=UNTAGGED=gb
 Marcon=UNTAGGED=gb
@@ -40731,7 +40728,6 @@ Punke=NNP=none
 Punt=NNP=none
 Punta=UNTAGGED=gb
 Puntarenas=NNP=none
-Punxsutawney=NNP=none
 Pupin=NNP=none
 Pupu=UNTAGGED=nz
 Pur$s=NNP=none
@@ -75927,7 +75923,6 @@ decarboxylate=UNTAGGED=gb
 decarboxylated=UNTAGGED=gb
 decarboxylates=UNTAGGED=gb
 decarboxylating=UNTAGGED=gb
-decarboxylation=noun_UN=gb
 decarburation=NN:UN=none
 decare=noun=us-large
 decasievert=noun=ca,gb

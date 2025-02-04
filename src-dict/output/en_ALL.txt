@@ -22066,6 +22066,7 @@ Leatheroid
 Leavanny
 Leavenworth
 Leavis
+Leavitt
 Leawood
 Lebanese
 Lebanon
@@ -29334,6 +29335,8 @@ Perigordian
 Perigordians
 Peripatetic
 Peripatetics
+Perizzite
+Perizzites
 Perkins
 Perl
 Perlis
@@ -30211,6 +30214,7 @@ Punjab
 Punjabi
 Punjabis
 Punnett
+Punxsutawney
 Pupitar
 Puppis
 Purana
@@ -43914,6 +43918,8 @@ alphabetically
 alphabets
 alphacoronavirus
 alphacoronaviruses
+alphaketoglutarate
+alphaketoglutarates
 alphameric
 alphamerical
 alphamerically
@@ -72433,6 +72439,8 @@ decapodous
 decapods
 decaradian
 decaradians
+decarboxylation
+decarboxylations
 decasecond
 decaseconds
 decasiemens
@@ -90564,6 +90572,7 @@ four-in-hands
 four-inch
 four-lane
 four-legged
+four-limbed
 four-line
 four-man
 four-masted
@@ -108730,6 +108739,8 @@ isochronally
 isochronous
 isochronously
 isochroous
+isocitrate
+isocitrates
 isoclinal
 isoclinals
 isocline
@@ -168902,6 +168913,7 @@ strong-arm
 strong-armed
 strong-arming
 strong-arms
+strong-limbed
 strong-minded
 strong-mindedly
 strong-mindedness
@@ -190960,6 +190972,9 @@ urns
 uroboros
 urochordal
 urodynamic
+uroepithelia
+uroepithelial
+uroepithelium
 urogenital
 urogenous
 urolithic
