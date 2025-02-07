@@ -104267,18 +104267,17 @@ non-fundable=JJ=all
 non-fungible=JJ=all
 non-gaming=JJ=all
 non-governmental=JJ=all
-non-hero=non-hero/NN,non-heroes/NNS=gb,nz,za
 non-hispanic=JJ=all
 non-human=JJ=all
 non-human=noun=all
-non-industrialization|non-industrialisation=noun_UN=us,ca,gb|gb,au,nz,za
+non-industrialization|non-industrialisation=noun_UN=all|all
 non-integer=noun=all
 non-intercourse=JJ=all
 non-intrusive=JJ=all
 non-invasive=JJ=all
 non-invasively=RB=all
 non-ionic=JJ=all
-non-ionizing|non-ionising=JJ=us,ca,gb|gb,au,nz,za
+non-ionizing|non-ionising=JJ=all|all
 non-iron=JJ=all
 non-judicial=JJ=all
 non-legislative=JJ=all
@@ -104298,7 +104297,7 @@ non-negotiable=JJ=all
 non-nuclear=JJ=all
 non-occupationally=RB=all
 non-operationally=RB=all
-non-oxidization|non-oxidisation=noun_UN=us,ca,gb|gb,au,nz,za
+non-oxidization|non-oxidisation=noun_UN=all|all
 non-physically=RB=all
 non-polar=JJ=all
 non-polluting=JJ=all
@@ -104342,12 +104341,12 @@ non-traditionally=RB=all
 non-traumatic=JJ=all
 non-trinitarianism=noun_UN=all
 non-union=JJ=all
-non-utilization|non-utilisation=noun_UN=us,ca,gb|gb,au,nz,za
+non-utilization|non-utilisation=noun_UN=all|all
 non-vascular=JJ=all
 non-verbally=RB=all
 non-viable=JJ=all
 non-violently=RB=all
-non-vocalization|non-vocalisation=noun_UN=us,ca,gb|gb,au,nz,za
+non-vocalization|non-vocalisation=noun_UN=all|all
 non-vocationally=RB=all
 non-zero=JJ=all
 non=JJ=all
@@ -105593,7 +105592,7 @@ nonhereditarily=RB=all
 nonhereditary|non-hereditary=JJ=all|all
 nonheretical=JJ=all
 nonheritable=JJ=all
-nonhero [pl. nonheroes]=noun=all
+nonhero [pl. nonheroes]|non-hero [pl. non-heroes]=noun=all|all
 nonheroic=JJ=all
 nonheterosexual=JJ=all
 nonheuristic=JJ=all
