@@ -104261,6 +104261,7 @@ non-figurative=JJ=all
 non-financial=JJ=all
 non-finite=JJ=all
 non-fluent=JJ=all
+non-fulfillment|non-fulfilment=noun_U=ca,us|au,gb,nz,za
 non-functional=JJ=all
 non-functionally=RB=all
 non-fundable=JJ=all
@@ -104270,14 +104271,14 @@ non-governmental=JJ=all
 non-hispanic=JJ=all
 non-human=JJ=all
 non-human=noun=all
-non-industrialization|non-industrialisation=noun_UN=all|all
+non-industrialization|non-industrialisation=noun_UN=us,ca,gb|gb,au,nz,za
 non-integer=noun=all
 non-intercourse=JJ=all
 non-intrusive=JJ=all
 non-invasive=JJ=all
 non-invasively=RB=all
 non-ionic=JJ=all
-non-ionizing|non-ionising=JJ=all|all
+non-ionizing|non-ionising=JJ=us,ca,gb|gb,au,nz,za
 non-iron=JJ=all
 non-judicial=JJ=all
 non-legislative=JJ=all
@@ -104297,7 +104298,7 @@ non-negotiable=JJ=all
 non-nuclear=JJ=all
 non-occupationally=RB=all
 non-operationally=RB=all
-non-oxidization|non-oxidisation=noun_UN=all|all
+non-oxidization|non-oxidisation=noun_UN=us,ca,gb|gb,au,nz,za
 non-physically=RB=all
 non-polar=JJ=all
 non-polluting=JJ=all
@@ -104341,12 +104342,12 @@ non-traditionally=RB=all
 non-traumatic=JJ=all
 non-trinitarianism=noun_UN=all
 non-union=JJ=all
-non-utilization|non-utilisation=noun_UN=all|all
+non-utilization|non-utilisation=noun_UN=us,ca,gb|gb,au,nz,za
 non-vascular=JJ=all
 non-verbally=RB=all
 non-viable=JJ=all
 non-violently=RB=all
-non-vocalization|non-vocalisation=noun_UN=all|all
+non-vocalization|non-vocalisation=noun_UN=us,ca,gb|gb,au,nz,za
 non-vocationally=RB=all
 non-zero=JJ=all
 non=JJ=all
@@ -105476,7 +105477,7 @@ nonflagellated=JJ=all
 nonflaky=JJ=all
 nonflammable=JJ=all
 nonflatulent=JJ=all
-nonflavored|nonflavoured=JJ=all|all
+nonflavored|nonflavoured=JJ=us|gb,ca,au,nz,za
 nonflexible=JJ=all
 nonfloating=JJ=all
 nonfloriferous=JJ=all
@@ -105500,7 +105501,7 @@ nonfragile=JJ=all
 nonfragmented=JJ=all
 nonfragrant=JJ=all
 nonfraternal=JJ=all
-nonfraternization|nonfraternisation=noun_UN=all|all
+nonfraternization|nonfraternisation=noun_UN=us,ca,gb|gb,au,nz,za
 nonfraudulent=JJ=all
 nonfreezable=JJ=all
 nonfreezing|non-freezing=JJ=all|all
@@ -105509,7 +105510,7 @@ nonfricative=JJ=all
 nonfrigid=JJ=all
 nonfrosted=JJ=all
 nonfugitive=JJ=all
-nonfulfillment|non-fulfillment=noun=all|all
+nonfulfillment|nonfulfilment=noun_U=ca,us|au,gb,nz,za
 nonfunctional=JJ=all
 nonfunctionally=RB=all
 nonfunctioning=JJ=all
@@ -105520,7 +105521,7 @@ nonfungible=JJ=all
 nonfused=JJ=all
 nonfuturistic=JJ=all
 nongalactic=JJ=all
-nongalvanized|nongalvanised=JJ=all|all
+nongalvanized|nongalvanised=JJ=us,ca,gb|gb,au,nz,za
 nonganglionic=JJ=all
 nongangrenous=JJ=all
 nongaseous=JJ=all
@@ -105529,7 +105530,7 @@ nongelatinizing=JJ=all
 nongelatinous=JJ=all
 nongelling=JJ=all
 nongenealogical=JJ=all
-nongeneralized|nongeneralised=JJ=all|all
+nongeneralized|nongeneralised=JJ=us,ca,gb|gb,au,nz,za
 nongenerative=JJ=all
 nongeneric=JJ=all
 nongenerically=RB=all
@@ -105644,8 +105645,8 @@ nonimbricating=JJ=all
 nonimitative=JJ=all
 nonimmanent=JJ=all
 nonimmune=JJ=all
-nonimmunization|nonimmunisation=noun_UN=all|all
-nonimmunized|nonimmunised=JJ=all|all
+nonimmunization|nonimmunisation=noun_UN=us,ca,gb|gb,au,nz,za
+nonimmunized|nonimmunised=JJ=us,ca,gb|gb,au,nz,za
 nonimpacted=JJ=all
 nonimperative=JJ=all
 nonimperial=JJ=all
