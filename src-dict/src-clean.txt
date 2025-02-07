@@ -1,3 +1,4 @@
+
 !=punctuation=all
 "=''=all
 "=``=all
@@ -2505,6 +2506,7 @@ Alloway=NNP=all
 Allport=NNP=all
 Allred=NNP=all
 Allstate=NNP=all
+Ally=NNP=all
 Allyn=NNP=all
 Allyson=NNP=all
 Alma=NNP=all
@@ -5095,6 +5097,7 @@ Basebo=NNP=za # South Africa, placename?
 Basecamp=NNP=all
 Basel=NNP=all
 Basford=NNP=all
+Bash=NNP=all
 Bashan=NNP=all
 Bashar=NNP=all
 Bashir=NNP=all
@@ -6450,6 +6453,7 @@ Bramvlei=NNP=za # South Africa, placename?
 Bran=NNP=all
 Branch=NNP=all
 Brancusi=NNP=all
+Brand=NNP=all
 Brandeis=NNP=all
 Branden=NNP=all
 Brandenburg=NNP=all
@@ -15411,6 +15415,9 @@ Francesca=NNP=all
 Francesco=NNP=all
 Franceville=NNP=all
 Franche-Comté=NNP=all
+Francia=NNP=all
+Francian=JJ=all
+Francian=noun=all
 Francine=NNP=all
 Francis=Francis/NNP,Frances/NNPS=all
 Francisca=NNP=all
@@ -18972,6 +18979,7 @@ Holcomb=NNP=all
 Holcombe=NNP=all
 Holden=NNP=all
 Holder=NNP=all
+Hole=NNP=all
 Holela=NNP=za # South Africa, placename?
 Holfontein=NNP=za # South Africa, placename?
 Holguín=NNP=all
@@ -20784,6 +20792,7 @@ Jacquelyn=NNP=all
 Jacques=NNP=all
 Jaczko=NNP=all
 Jada=NNP=all
+Jade=NNP=all
 Jadelle=NNP=all
 Jaden=NNP=all
 Jadhav=NNP=all
@@ -26745,6 +26754,7 @@ Maxence=NNP=all
 Maxey=NNP=all
 Maxfield=NNP=all
 Maxim=NNP=all
+Maxima=NNP=all
 Maxime=NNP=all
 Maximian=NNP=all
 Maximilian=NNP=all
@@ -30037,6 +30047,7 @@ Norfolk=NNP=all
 Norge=NNP=all
 Norina=NNP=all
 Norlim=NNP=za # South Africa, placename?
+Norm=NNP=all
 Norma=NNP=all
 Norman-French=JJ=all
 Norman=JJ=all
@@ -30788,6 +30799,8 @@ Ogygian=JJ=all
 Ohio=NNP=all
 Ohioan=Ohioan/NNP,Ohioans/NNPS=all
 Ohlange=NNP=za # South Africa, placename?
+Ohlone=NNP=all
+Ohlone=noun=all
 Ohm=NNP=all
 Ohrigstad=NNP=za # South Africa, placename?
 Ohwebede=NNP=za # South Africa, placename?
@@ -32335,6 +32348,7 @@ Penutian=NNP=all
 Penvaan=NNP=za # South Africa, placename?
 Penza=NNP=all
 Penzance=NNP=all
+Peoples=NNP=all
 Peoria=NNP=all
 Pepcid=NNP=all
 Pepcor=NNP=za # South Africa, placename?
@@ -34367,6 +34381,7 @@ Ravel=NNP=all
 Ravenclaw=NNP=all
 Ravenmoor=NNP=za # South Africa, placename?
 Ravenna=NNP=all
+Ravens=NNPS=all
 Ravensburg=NNP=all
 Ravenscraig=NNP=all
 Ravensklip=NNP=za # South Africa, placename?
@@ -40701,6 +40716,7 @@ Tudor=Tudor/NNP,Tudors/NNPS=all
 Tues=NNP=all
 Tuesday=Tuesday/NNP,Tuesdays/NNPS=all
 Tuesdays=RB=all
+Tufts=NNP=all
 Tugela=NNP=all
 Tuileries=NNP=all
 Tuinhof=NNP=za # South Africa, placename?
@@ -49730,6 +49746,7 @@ approving=JJ=all
 approvingly=RB=all
 approx=RB=all
 approximal=JJ=all
+approximant=noun=all
 approximate=JJ=all
 approximate=verb=all
 approximately=RB=all
@@ -57026,6 +57043,7 @@ caesarean|cesarean=JJ=all|au,ca,us
 caesarean|cesarean=noun=all|au,ca,us
 caesarian=JJ=all
 caesaropapist=JJ=all
+caesian=JJ=all
 caesium|cesium=noun_U=au,gb,nz,za|ca,us
 caespitose=JJ=all
 caesura=caesura/NN,caesurae/NNS,caesuras/NNS=all
@@ -58834,6 +58852,7 @@ cervicogenic=JJ=all
 cervine=JJ=all
 cervix=cervix/NN,cervices/NNS,cervixes/NNS=all
 cesarian=JJ=all
+cesian=JJ=all
 cespitose=JJ=all
 cespitosely=RB=all
 cessation=noun_UN=all
@@ -66015,6 +66034,8 @@ cut-glass=JJ=all
 cut-off=noun=all
 cut-price=JJ=all
 cut-rate=JJ=all
+cut-throat=JJ=all
+cut-throat=noun=all
 cut=cut/JJ,cutter/JJR,cutest/JJS=all
 cut=noun=all
 cutability=noun_UN=all
@@ -66048,6 +66069,7 @@ cutpurse=noun=all
 cutscene=noun=all
 cuttable=JJ=all
 cutter=noun=all
+cutthroat=JJ=all
 cutthroat=noun=all
 cutting-edge=JJ=all
 cutting=JJ=all
@@ -77787,6 +77809,7 @@ first-class=RB=all
 first-division=JJ=all
 first-ever=JJ=all
 first-generation=JJ=all
+first-hand=JJ=all
 first-hand=RB=all
 first-line=JJ=all
 first-moving=JJ=all
@@ -101422,6 +101445,7 @@ moreover=RB=all
 mores=NNS=all
 morganatic=JJ=all
 morganatically=RB=all
+morganite=noun_UN=all
 morgen=noun=all
 morgue=noun=all
 moribund=JJ=all
@@ -105254,7 +105278,7 @@ nonendemic=JJ=all
 nonenduring=JJ=all
 nonenergetic=JJ=all
 nonenforced=JJ=all
-nonenforcement|non-enforcement=noun=au,ca,us|gb,nz,za
+nonenforcement|non-enforcement=noun=all|all
 nonenforcing=JJ=all
 nonengineering=JJ=all
 nonenrolled=JJ=all
@@ -105307,7 +105331,7 @@ nonetheless=CC=all
 nonetheless=RB=all
 nonethereal=JJ=all
 nonethically=RB=all
-nonethical|non-ethical=JJ=au,ca,us|gb,nz,za
+nonethical|non-ethical=JJ=all|all
 nonethnic=JJ=all
 nonethnically=RB=all
 nonethnological=JJ=all
@@ -105320,7 +105344,7 @@ nonevaporating=JJ=all
 nonevaporation=noun_U=all
 nonevaporative=JJ=all
 nonevasive=JJ=all
-nonevent|non-event=noun=au,ca,us|gb,nz,za
+nonevent|non-event=noun=all|all
 nonevident=JJ=all
 nonevidential=JJ=all
 nonevil=JJ=all
@@ -105336,17 +105360,18 @@ nonexcitable=JJ=all
 nonexcitatory=JJ=all
 nonexciting=JJ=all
 nonexclamatory=JJ=all
-nonexclusive|non-exclusive=JJ=au,ca,us|gb,nz,za
+nonexclusive|non-exclusive=JJ=all|all
 nonexculpatory=JJ=all
 nonexcusable=JJ=all
 nonexecutable=JJ=all
 nonexecutive=JJ=all
 nonexemplary=JJ=all
-nonexempt|non-exempt=noun=au,ca,us|gb,nz,za
+nonexempt|non-exempt=JJ=all|all
+nonexempt|non-exempt=noun=all|all
 nonexercisable=JJ=all
 nonexhaustive=JJ=all
 nonexhibitionistic=JJ=all
-nonexistence|non-existence=noun_U=au,ca,us|gb,nz,za
+nonexistence|non-existence=noun_U=all|all
 nonexistent=JJ=all
 nonexistential=JJ=all
 nonexisting=JJ=all
@@ -105367,7 +105392,7 @@ nonexpiring=JJ=all
 nonexplainable=JJ=all
 nonexplanatory=JJ=all
 nonexploratory=JJ=all
-nonexplosive|non-explosive=noun=au,ca,us|gb,nz,za
+nonexplosive|non-explosive=noun=all|all
 nonexponential=JJ=all
 nonexponentially=RB=all
 nonexportable=JJ=all
@@ -105399,23 +105424,23 @@ nonfamiliar=JJ=all
 nonfamous=JJ=all
 nonfanatic=JJ=all
 nonfanatical=JJ=all
-nonfarm|non-farm=JJ=au,ca,us|gb,nz,za
+nonfarm|non-farm=JJ=all|all
 nonfascist=JJ=all
 nonfashionable=JJ=all
 nonfastidious=JJ=all
 nonfat=JJ=all
 nonfatalistic=JJ=all
 nonfatally=RB=all
-nonfatal|non-fatal=JJ=au,ca,us|gb,nz,za
+nonfatal|non-fatal=JJ=all|all
 nonfatigable=JJ=all
-nonfattening|non-fattening=JJ=au,ca,us|gb,nz,za
+nonfattening|non-fattening=JJ=all|all
 nonfaulty=JJ=all
 nonfavorable=JJ=all
 nonfeasible=JJ=all
 nonfeatured=JJ=all
 nonfebrile=JJ=all
 nonfederal=JJ=all
-nonfederated|non-federated=JJ=au,ca,us|gb,nz,za
+nonfederated|non-federated=JJ=all|all
 nonfeeding=JJ=all
 nonfeeling=JJ=all
 nonfeldspathic=JJ=all
@@ -105425,7 +105450,7 @@ nonfermentable=JJ=all
 nonfermentative=JJ=all
 nonfermented=JJ=all
 nonfermenting=JJ=all
-nonferrous|non-ferrous=JJ=au,ca,us|gb,nz,za
+nonferrous|non-ferrous=JJ=all|all
 nonfertile=JJ=all
 nonfestive=JJ=all
 nonfeudal=JJ=all
@@ -105435,9 +105460,9 @@ nonfictional=JJ=all
 nonfictive=JJ=all
 nonfiduciary=JJ=all
 nonfigurative=JJ=all
-nonfilamentous|non-filamentous=JJ=au,ca,us|gb,nz,za
+nonfilamentous|non-filamentous=JJ=all|all
 nonfilial=JJ=all
-nonfilterable|non-filterable=JJ=au,ca,us|gb,nz,za
+nonfilterable|non-filterable=JJ=all|all
 nonfimbriate=JJ=all
 nonfinancial=JJ=all
 nonfinishing=JJ=all
@@ -105452,17 +105477,17 @@ nonflagellated=JJ=all
 nonflaky=JJ=all
 nonflammable=JJ=all
 nonflatulent=JJ=all
-nonflavored|nonflavoured=JJ=us|gb,ca,au,nz,za
+nonflavored|nonflavoured=JJ=all|all
 nonflexible=JJ=all
 nonfloating=JJ=all
 nonfloriferous=JJ=all
-nonflowering|non-flowering=JJ=au,ca,us|gb,nz,za
+nonflowering|non-flowering=JJ=all|all
 nonfluctuating=JJ=all
 nonfluent=JJ=all
 nonfluidic=JJ=all
 nonfluorescent=JJ=all
 nonflying=JJ=all
-nonfood|non-food=noun=au,ca,us|gb,nz,za
+nonfood|non-food=noun=all|all
 nonforeign=JJ=all
 nonforested=JJ=all
 nonforfeitable=JJ=all
@@ -105476,16 +105501,16 @@ nonfragile=JJ=all
 nonfragmented=JJ=all
 nonfragrant=JJ=all
 nonfraternal=JJ=all
-nonfraternization|nonfraternisation=noun_UN=us,ca,gb|gb,au,nz,za
+nonfraternization|nonfraternisation=noun_UN=all|all
 nonfraudulent=JJ=all
 nonfreezable=JJ=all
-nonfreezing|non-freezing=JJ=au,ca,us|gb,nz,za
+nonfreezing|non-freezing=JJ=all|all
 nonfrequent=JJ=all
 nonfricative=JJ=all
 nonfrigid=JJ=all
 nonfrosted=JJ=all
 nonfugitive=JJ=all
-nonfulfillment|non-fulfillment=noun=au,ca,us|gb,nz,za
+nonfulfillment|non-fulfillment=noun=all|all
 nonfunctional=JJ=all
 nonfunctionally=RB=all
 nonfunctioning=JJ=all
@@ -105496,7 +105521,7 @@ nonfungible=JJ=all
 nonfused=JJ=all
 nonfuturistic=JJ=all
 nongalactic=JJ=all
-nongalvanized|nongalvanised=JJ=us,ca,gb|gb,au,nz,za
+nongalvanized|nongalvanised=JJ=all|all
 nonganglionic=JJ=all
 nongangrenous=JJ=all
 nongaseous=JJ=all
@@ -105505,7 +105530,7 @@ nongelatinizing=JJ=all
 nongelatinous=JJ=all
 nongelling=JJ=all
 nongenealogical=JJ=all
-nongeneralized|nongeneralised=JJ=us,ca,gb|gb,au,nz,za
+nongeneralized|nongeneralised=JJ=all|all
 nongenerative=JJ=all
 nongeneric=JJ=all
 nongenerically=RB=all
@@ -105536,7 +105561,7 @@ nongospel=JJ=all
 nongovernment=JJ=all
 nongovernmental=JJ=all
 nongraceful=JJ=all
-nongraded|non-graded=JJ=au,ca,us|gb,nz,za
+nongraded|non-graded=JJ=all|all
 nongraduated=JJ=all
 nongrammatical=JJ=all
 nongranular=JJ=all
@@ -105565,10 +105590,10 @@ nonhedonic=JJ=all
 nonhedonistic=JJ=all
 nonhepatic=JJ=all
 nonhereditarily=RB=all
-nonhereditary|non-hereditary=JJ=au,ca,us|gb,nz,za
+nonhereditary|non-hereditary=JJ=all|all
 nonheretical=JJ=all
 nonheritable=JJ=all
-nonhero=nonhero/NN,nonheroes/NNS=au,ca,us
+nonhero [pl. nonheroes]=noun=all
 nonheroic=JJ=all
 nonheterosexual=JJ=all
 nonheuristic=JJ=all
@@ -105579,7 +105604,7 @@ nonhistoric=JJ=all
 nonhistorical=JJ=all
 nonhistorically=RB=all
 nonhomogeneously=RB=all
-nonhomogeneous|non-homogeneous=JJ=au,ca,us|gb,nz,za
+nonhomogeneous|non-homogeneous=JJ=all|all
 nonhomogenous=JJ=all
 nonhomologous=JJ=all
 nonhostile=JJ=all
@@ -105600,7 +105625,7 @@ nonhypnotic=JJ=all
 nonhypostatic=JJ=all
 noniconoclastic=JJ=all
 nonideal=JJ=all
-nonidentical|non-identical=JJ=au,ca,us|gb,nz,za
+nonidentical|non-identical=JJ=all|all
 nonideological=JJ=all
 nonideologically=RB=all
 nonidiomatic=JJ=all
@@ -105620,8 +105645,8 @@ nonimbricating=JJ=all
 nonimitative=JJ=all
 nonimmanent=JJ=all
 nonimmune=JJ=all
-nonimmunization|nonimmunisation=noun_UN=us,ca,gb|gb,au,nz,za
-nonimmunized|nonimmunised=JJ=us,ca,gb|gb,au,nz,za
+nonimmunization|nonimmunisation=noun_UN=all|all
+nonimmunized|nonimmunised=JJ=all|all
 nonimpacted=JJ=all
 nonimperative=JJ=all
 nonimperial=JJ=all
@@ -105653,14 +105678,14 @@ noninductively=RB=all
 nonindulgent=JJ=all
 nonindurated=JJ=all
 nonindustrially=RB=all
-nonindustrial|non-industrial=JJ=au,ca,us|gb,nz,za
+nonindustrial|non-industrial=JJ=all|all
 noninert=JJ=all
 noninertial=JJ=all
 noninfallible=JJ=all
 noninfected=JJ=all
 noninfecting=JJ=all
 noninfectiously=RB=all
-noninfectious|non-infectious=JJ=au,ca,us|gb,nz,za
+noninfectious|non-infectious=JJ=all|all
 noninfective=JJ=all
 noninferential=JJ=all
 noninferentially=RB=all
@@ -105686,20 +105711,20 @@ noninquiring=JJ=all
 noninstinctive=JJ=all
 noninstinctual=JJ=all
 noninstitutional=JJ=all
-noninstitutionalized|noninstitutionalised=JJ=us,ca,gb|gb,au,nz,za
+noninstitutionalized|noninstitutionalised=JJ=all|all
 noninstructional=JJ=all
 noninstructive=JJ=all
 noninstrumental=JJ=all
 noninteger=noun=all
 nonintegrable=JJ=all
 nonintegrated=JJ=all
-nonintellectual|non-intellectual=noun=au,ca,us|gb,nz,za
+nonintellectual|non-intellectual=noun=all|all
 nonintelligent=JJ=all
 noninteractive=JJ=all
 noninterchangeable=JJ=all
 nonintercourse=noun=all
 noninterdependent=JJ=all
-noninterference|non-interference=noun_U=au,ca,us|gb,nz,za
+noninterference|non-interference=noun_U=all|all
 noninterfering=JJ=all
 nonintermittent=JJ=all
 noninternational=JJ=all
@@ -105712,9 +105737,9 @@ noninterruptedly=RB=all
 nonintersecting=JJ=all
 nonintersectional=JJ=all
 noninterventional=JJ=all
-nonintervention|non-intervention=noun_U=au,ca,us|gb,nz,za
-nonintoxicant|non-intoxicant=JJ=au,ca,us|gb,nz,za
-nonintoxicating|non-intoxicating=JJ=au,ca,us|gb,nz,za
+nonintervention|non-intervention=noun_U=all|all
+nonintoxicant|non-intoxicant=JJ=all|all
+nonintoxicating|non-intoxicating=JJ=all|all
 nonintrospective=JJ=all
 nonintrospectively=RB=all
 nonintroverted=JJ=all
@@ -105776,8 +105801,8 @@ nonliable=JJ=all
 nonliberal=JJ=all
 nonlicensed=JJ=all
 nonlicking=JJ=all
+nonlife [pl. nonlives]=noun_UN=all
 nonlife=JJ=all
-nonlife=nonlife/NN:UN,nonlives/NNS=all
 nonlimitative=JJ=all
 nonlimiting=JJ=all
 nonlineal=JJ=all
@@ -106074,6 +106099,7 @@ nonpartial=JJ=all
 nonparticipant|non-participant=noun=au,ca,us|gb,nz,za
 nonparticipating|non-participating=JJ=au,ca,us|gb,nz,za
 nonparticulate=JJ=all
+nonpartisan=JJ=all
 nonpartisan=noun=all
 nonpartizan=JJ=all
 nonparty=JJ=all
@@ -107019,6 +107045,7 @@ nonwatertight=JJ=all
 nonwavering=JJ=all
 nonwestern=JJ=all
 nonwetted=JJ=all
+nonwhite=JJ=all
 nonwhite=noun=all
 nonwinged=JJ=all
 nonwoody=JJ=all
@@ -108042,6 +108069,7 @@ off-color|off-colour=JJ=us|gb,ca,au,nz,za
 off-duty=JJ=all
 off-duty=RB=all
 off-guard=JJ=all
+off-hand=JJ=all
 off-hand=RB=all
 off-key=JJ=all
 off-key=RB=all
@@ -109449,6 +109477,7 @@ outdoorsmanship=noun=all
 outdoorsy=JJ=all
 outdraw [outdraws;outdrew;outdrawn;outdrawing]=verb=all
 outdrive [outdrives;outdrove;outdriven;outdriving]=verb=all
+outdrive=noun=all
 outer=JJ=all
 outer=noun=all
 outercourse=outercourse/NN,outercourse/NN:U=all
@@ -111710,6 +111739,7 @@ pardy=RB=all
 pare=verb=all
 paregoric=noun_U=all
 pareidolia=NN:U=all
+parenchyma [pl. parenchymas,parenchymata]=noun_UN=all
 parenchymal=JJ=all
 parenchymatous=JJ=all
 parent=noun=all
@@ -117748,7 +117778,7 @@ prepend=verb=all
 prepense=JJ=all
 preperitoneal=JJ=all
 prepersuasive=JJ=all
-prepetition=RB=all
+prepetition=JJ=all
 prephthisical=JJ=all
 preplace=verb=all
 preplacental=JJ=all
@@ -143016,6 +143046,7 @@ twi-night=JJ=all
 twibill=noun=all
 twice-married=JJ=all
 twice-told=JJ=all
+twice-weekly=JJ=all
 twice-weekly=RB=all
 twice=RB=all
 twiddle=noun=all
@@ -143149,6 +143180,7 @@ two-thirds=NN:U=all
 two-thousander=noun=all
 two-tier=JJ=all
 two-tiered=JJ=all
+two-time=JJ=all
 two-time=verb=all
 two-timer=noun=all
 two-tone=JJ=all

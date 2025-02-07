@@ -59136,8 +59136,6 @@ appropriacies=UNTAGGED=gb
 appropriacy=UNTAGGED=gb
 appropriative=JJ=gb,nz,za
 approvability=NN:UN=none
-approximant=UNTAGGED=gb
-approximants=UNTAGGED=gb
 appui=noun=none
 appulse=noun=us-large
 appulsive=JJ=none
@@ -107073,7 +107071,6 @@ moresque=noun=none
 morgan=noun=none
 morganatical=UNTAGGED=gb
 morganic=JJ=none
-morganite=noun=us-large
 morgantown=NN=none
 morgay=noun=none
 morgenstern=noun=none
@@ -119229,7 +119226,6 @@ pareira=noun=us-large
 parella=noun=none
 parencephala=UNTAGGED=gb
 parencephalon=noun=gb
-parenchyma=noun=gb
 parenchymatic=UNTAGGED=gb
 parenchymatously=UNTAGGED=gb
 parenchyme=UNTAGGED=gb
