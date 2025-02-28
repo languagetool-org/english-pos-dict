@@ -4849,6 +4849,7 @@ Barraskewda
 Barrasso
 Barrault
 Barren
+Barrera
 Barrett
 Barri
 Barrie
@@ -5840,6 +5841,7 @@ Bonney
 Bonnie
 Bonny
 Booker
+Bookmarksgrove
 Books-A-Million
 Boole
 Boolean
@@ -6059,6 +6061,7 @@ Bramah
 Bramante
 Brambleghast
 Bramblin
+Brampton
 Bran
 Branch
 Brancusi
@@ -8085,6 +8088,7 @@ Cardigan
 Cardigans
 Cardiganshire
 Cardin
+Cardona
 Cardoso
 Cardozo
 Carducci
@@ -9104,6 +9108,7 @@ Claremont
 Claremore
 Clarence
 Clarenceux
+Clarendon
 Claribel
 Clarice
 Clarinda
@@ -12938,6 +12943,8 @@ Epsom
 Epstein
 Epworth
 Equiano
+Equifax
+Equilar
 Equisetopsida
 Equuleus
 Equus
@@ -12994,6 +13001,7 @@ Erketu
 Erlang
 Erlangen
 Erlanger
+Erlenmeyer
 Erliansaurus
 Erlikosaurus
 Erma
@@ -13304,6 +13312,7 @@ Exmoors
 Exod
 Exodus
 Expedia
+Experian
 Exploratorium
 ExploreLearning
 Exploud
@@ -17123,6 +17132,7 @@ Healdsburg
 Healey
 HealthCorps
 Healthineers
+Healthline
 Healy
 Heaney
 Heard
@@ -17202,6 +17212,7 @@ Heinemann
 Heiner
 Heinlein
 Heinrich
+Heinsius
 Heinz
 Heisenberg
 Heist-op-den-Berg
@@ -17945,6 +17956,8 @@ Huberman
 Hubermann
 Hubert
 Hubli
+Huck
+Huckabee
 Hucknall
 Huddersfield
 Huddleston
@@ -25088,6 +25101,7 @@ Mercuries
 Mercurochrome
 Mercurochromes
 Mercury
+Mercutio
 Mercyhurst
 Meredith
 Merida
@@ -28119,6 +28133,7 @@ Orrin
 Orsay
 Orsini
 Orson
+Ortega
 Ortegal
 Orth
 Orthocoronavirinae
@@ -28825,6 +28840,7 @@ Paddington
 Paderborn
 Paderewski
 Padgett
+Padilla
 Padova
 Padraig
 Padre
@@ -29102,6 +29118,7 @@ Patagonians
 Patanjali
 Patchogue
 Pate
+Patel
 Paternoster
 Paternosters
 Paterson
@@ -30396,6 +30413,7 @@ Qin
 Qing
 Qinghai
 Qlik
+QoQ
 Qom
 Qq
 Quadragesima
@@ -31159,6 +31177,7 @@ Rayquaza
 Raytheon
 Raúl
 Rb
+Rd
 Re
 Rea
 Reacher
@@ -33283,6 +33302,7 @@ Schelling
 Schematron
 Schenck
 Schenectady
+Schengen
 Schererville
 Scherman
 Schertz
@@ -33965,6 +33985,7 @@ Shylock
 Shylocks
 Shōtoku
 Si
+SiC
 Sialkot
 Siam
 Siamese
@@ -34569,6 +34590,7 @@ Spithead
 Spitsbergen
 Spitzer
 Split
+Splunk
 Spock
 Spode
 Spodes
@@ -36848,6 +36870,7 @@ Tuscarora
 Tuscaroras
 Tuscola
 Tuscumbia
+Tuskegee
 Tussaud
 Tustin
 Tut
@@ -39090,6 +39113,8 @@ Widnes
 Wieland
 Wien
 Wiesbaden
+Wiesel
+Wiesenthal
 Wiggins
 Wigglesworth
 Wigglytuff
@@ -39785,6 +39810,7 @@ Yitzhak
 Yizkor
 Ymir
 Yo-jong
+YoY
 Yoda
 Yoder
 Yogesh
@@ -43925,6 +43951,9 @@ alpestrine
 alpha
 alpha-gal
 alpha-helical
+alpha-ketoglutarate
+alpha-ketoglutarates
+alpha-ketoglutaric
 alpha-linolenic
 alphabet
 alphabetic
@@ -53722,6 +53751,8 @@ bismuths
 bison
 bisons
 bisontine
+bispecific
+bispecifics
 bisphenol
 bisphosphate
 bisphosphates
@@ -58783,6 +58814,7 @@ capers
 capes
 capeskin
 capeskins
+capex
 capful
 capfuls
 capias
@@ -59117,6 +59149,7 @@ cardiologist
 cardiologists
 cardiology
 cardiomegaly
+cardiometabolic
 cardiomyopathies
 cardiomyopathy
 cardioprotective
@@ -63229,6 +63262,8 @@ clicks
 clickstream
 clickstreams
 client
+client-server
+client-side
 clientele
 clienteles
 clientless
@@ -71144,6 +71179,7 @@ cutworms
 cuvette
 cuvettes
 cwt
+cx
 cy-près
 cyan
 cyanamide
@@ -72068,6 +72104,10 @@ de-normalise
 de-normalised
 de-normalises
 de-normalising
+de-risk
+de-risked
+de-risking
+de-risks
 de-stress
 de-stressed
 de-stresses
@@ -79969,6 +80009,8 @@ dysmenorrhea
 dysmenorrheal
 dysmenorrheas
 dysmenorrhoeal
+dysmorphia
+dysmorphias
 dysmorphic
 dysmorphism
 dysmorphisms
@@ -81002,6 +81044,7 @@ elapsing
 elastane
 elastic
 elastically
+elasticated
 elasticities
 elasticity
 elastics
@@ -88053,6 +88096,7 @@ financed
 finances
 financial
 financially
+financials
 financier
 financiers
 financing
@@ -92997,6 +93041,7 @@ gender-normative
 gender-specific
 gendered
 gendering
+genderings
 genderless
 genderlessness
 genderqueer
@@ -102493,6 +102538,7 @@ hypodermis
 hypodermises
 hypoderms
 hypodynamic
+hypoechoic
 hypoellipticities
 hypoellipticity
 hypoeutectic
@@ -104497,6 +104543,7 @@ incitingly
 incitive
 incivilities
 incivility
+incl
 inclemencies
 inclemency
 inclement
@@ -110395,6 +110442,9 @@ ketogeneses
 ketogenesis
 ketogenetic
 ketogenic
+ketoglutarate
+ketoglutarates
+ketoglutaric
 ketolytic
 ketone
 ketones
@@ -115571,6 +115621,7 @@ löllingite
 m
 mAh
 mCi
+mL
 mRNA
 mRNAs
 mSATA
@@ -118645,6 +118696,9 @@ metacognition
 metacognitions
 metacognitive
 metadata
+metadescription
+metadescriptions
+metadescriptive
 metaethical
 metafiction
 metafictional
@@ -121172,6 +121226,8 @@ moire
 moires
 moiré
 moirés
+moissanite
+moissanites
 moist
 moisten
 moistened
@@ -124803,7 +124859,10 @@ neurochemists
 neurocognitive
 neurodegeneration
 neurodegenerative
+neurodevelopment
 neurodevelopmental
+neurodivergent
+neurodivergents
 neurodiverse
 neurodiversity
 neuroeconomic
@@ -145955,6 +146014,7 @@ psychodramas
 psychodynamic
 psychodynamically
 psychodynamics
+psychoeducation
 psychoeducational
 psychogalvanic
 psychogalvanometer
@@ -153250,12 +153310,14 @@ resounding
 resoundingly
 resounds
 resource
+resourced
 resourceful
 resourcefully
 resourcefulness
 resourceless
 resourcelessness
 resources
+resourcing
 resow
 resowed
 resowing
@@ -160310,7 +160372,9 @@ servants
 serve
 served
 server
+server-side
 serveries
+serverless
 servers
 servery
 serves
@@ -177991,6 +178055,7 @@ translunar
 translunary
 transmarginal
 transmarine
+transmembrane
 transmigrant
 transmigrants
 transmigrate
@@ -182007,6 +182072,7 @@ uncomminuted
 uncommiserated
 uncommiserating
 uncommissioned
+uncommittable
 uncommitted
 uncommodious
 uncommon

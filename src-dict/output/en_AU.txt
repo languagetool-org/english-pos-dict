@@ -5150,6 +5150,7 @@ nonbelligerent
 nonbelligerents
 nonbreakable
 noncancerous
+noncapitalisable
 noncapitalised
 noncartelised
 noncellular
@@ -8438,6 +8439,7 @@ unbowdlerises
 unbowdlerising
 uncanonisation
 uncanonisations
+uncapitalisable
 uncapitalised
 uncaramelised
 uncarbonised

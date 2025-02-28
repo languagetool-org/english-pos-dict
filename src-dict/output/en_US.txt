@@ -5331,6 +5331,7 @@ nonbelligerent
 nonbelligerents
 nonbreakable
 noncancerous
+noncapitalizable
 noncapitalized
 noncartelized
 noncellular
@@ -8673,6 +8674,7 @@ uncanceled
 uncanceling
 uncanonization
 uncanonizations
+uncapitalizable
 uncapitalized
 uncaramelized
 uncarbonized

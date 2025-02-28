@@ -1,3 +1,4 @@
+
 'strewth=UNTAGGED=gb
 'struth=UNTAGGED=gb
 -war=UNTAGGED=gb
@@ -4538,7 +4539,6 @@ Barras=NNP=none
 Barratt=UNTAGGED=gb
 Barraza=NNP=none
 Barrell=UNTAGGED=gb
-Barrera=UNTAGGED=all
 Barret=NNP=none
 Barreto=UNTAGGED=gb
 Barrhead=UNTAGGED=gb
@@ -6902,7 +6902,6 @@ Bramidae=NNP=none
 Bramlett=NNP=none
 Bramley=Bramley/NNP,Bramleys/NNPS=gb,za
 Brampford=UNTAGGED=gb
-Brampton=UNTAGGED=all
 Bramshall=UNTAGGED=gb
 Bramshaw=UNTAGGED=gb
 Bramshill=UNTAGGED=gb
@@ -8670,7 +8669,6 @@ Cardium=NNP=none
 Cardizem=NNP=none
 Cardle=UNTAGGED=gb
 Cardon=NNP=none
-Cardona=UNTAGGED=all
 Cardonald=UNTAGGED=gb
 Cardrona=UNTAGGED=nz
 Cardross=UNTAGGED=gb
@@ -10561,7 +10559,6 @@ Clarbeston=UNTAGGED=gb
 Clarborough=UNTAGGED=gb
 Clardy=NNP=none
 Clarence-Rockland=UNTAGGED=gb
-Clarendon=UNTAGGED=all
 Clareson=UNTAGGED=gb
 Claresta=NNP=none
 Clareta=NNP=none
@@ -16218,8 +16215,6 @@ Epwell=UNTAGGED=gb
 Equanil=NNP=none
 Equetus=NNP=none
 Equidae=NNP=none
-Equifax=UNTAGGED=all
-Equilar=UNTAGGED=all
 Equinix=NNP=none
 Equisetaceae=NNP=none
 Equisetales=NNP=none
@@ -16321,7 +16316,6 @@ Erlandson=NNP=none
 Erle=NNP=none
 Erleena=NNP=none
 Erlene=NNP=none
-Erlenmeyer=UNTAGGED=all
 Erlestoke=UNTAGGED=gb
 Erlewine=NNP=none
 Erlin=NNP=none
@@ -16930,7 +16924,6 @@ Exocycloida=NNP=none
 Exodusters=UNTAGGED=all
 Exopterygota=NNP=none
 Expeditionary=UNTAGGED=gb
-Experian=UNTAGGED=all
 Explorer=Explorer/NNP,Explorers/NNPS=us-large
 Expressionism=Expressionism/NNP,Expressionisms/NNPS=none
 Expressionist=Expressionist/NNP,Expressionists/NNPS=none
@@ -23575,8 +23568,6 @@ Hubsher=NNP=none
 Huby=UNTAGGED=gb
 Hucar=NNP=none
 Hucclecote=UNTAGGED=gb
-Huck=UNTAGGED=all
-Huckabee=UNTAGGED=gb
 Huckaby=NNP=none
 Hucking=UNTAGGED=gb
 Hucklow=UNTAGGED=gb
@@ -33168,7 +33159,6 @@ Mercurialis=NNP=none
 Mercurian=UNTAGGED=gb
 Mercurians=UNTAGGED=gb
 Mercurius=NNP=none
-Mercutio=UNTAGGED=all
 Mercy=NNP=none
 Merdith=NNP=none
 Mere=UNTAGGED=gb
@@ -37263,7 +37253,6 @@ Orstralian=UNTAGGED=au
 Orstrylia=UNTAGGED=au
 Orstrylian=UNTAGGED=au
 Ortalis=NNP=none
-Ortega=UNTAGGED=all
 Ortelius=UNTAGGED=gb
 Orten=NNP=none
 Ortensia=NNP=none
@@ -37729,7 +37718,6 @@ Padegs=NNP=none
 Paderna=NNP=none
 Padget=NNP=none
 Padiham=UNTAGGED=gb
-Padilla=UNTAGGED=all
 Padishah=Padishah/NNP,Padishahs/NNPS=us-large
 Padlesworth=UNTAGGED=gb
 Padlet=NNP=none
@@ -38276,7 +38264,6 @@ Patcham=UNTAGGED=gb
 Patching=UNTAGGED=gb
 Patchway=UNTAGGED=gb
 Patea=UNTAGGED=gb,nz
-Patel=UNTAGGED=all
 Pateley=UNTAGGED=gb
 Patella=NNP=none
 Patellidae=NNP=none
@@ -41580,7 +41567,6 @@ Raëlian=UNTAGGED=gb
 Raëlians=UNTAGGED=gb
 Raëlism=UNTAGGED=gb
 Rct=NNP=none
-Rd=UNTAGGED=all
 RdAc=NNP=none
 Rdhos=NNP=none
 Reace=NNP=none
@@ -44126,7 +44112,6 @@ Schellens=NNP=none
 Schellingianism=NNP=none
 Schellingism=NNP=none
 Schempp=UNTAGGED=gb
-Schengen=UNTAGGED=all
 Schenk=UNTAGGED=gb
 Schenkman=UNTAGGED=gb
 Scheol=NNP=none
@@ -46538,7 +46523,6 @@ Spitzenkandidaten=UNTAGGED=gb
 Spixworth=UNTAGGED=gb
 Spizella=NNP=none
 Splott=UNTAGGED=gb
-Splunk=UNTAGGED=all
 Spodoptera=NNP=none
 Spofforth=UNTAGGED=gb
 Spohr=NNP=none
@@ -50388,7 +50372,6 @@ Tuscarawas=UNTAGGED=gb
 Tuscon=UNTAGGED=au,ca,us
 Tusculum=NNP=none
 Tushingham-cum-Grindley=UNTAGGED=gb
-Tuskegee=UNTAGGED=all
 Tusmore=UNTAGGED=gb
 Tussauds=UNTAGGED=gb
 Tussilago=NNP=none
@@ -53025,9 +53008,7 @@ Wieren=NNP=none
 Wiersma=NNP=none
 Wiertz=UNTAGGED=gb
 Wiese=NNP=none
-Wiesel=UNTAGGED=au,ca,us
 Wiesenfeld=NNP=none
-Wiesenthal=UNTAGGED=au,ca,us
 Wiffle=Wiffle/NNP,Wiffles/NNPS=none
 Wigan=UNTAGGED=gb,nz,us-large,za
 Wigborough=UNTAGGED=gb
@@ -54143,7 +54124,6 @@ Ynysddu=UNTAGGED=gb
 Ynyshir=UNTAGGED=gb
 Ynysybwl=UNTAGGED=gb
 Yo-Yos=NNPS=none
-YoY=UNTAGGED=all
 Yoan=NNP=none
 Yockey=UNTAGGED=gb
 Yodel=NNP=none
@@ -66966,7 +66946,6 @@ capernoity=noun_UN=none
 capette=NN=none
 capeweed=NN=none
 capework=noun=none
-capex=UNTAGGED=all
 caph=noun=none
 capibara=NN=none
 capillaire=noun=none
@@ -70230,8 +70209,6 @@ clicket=UNTAGGED=gb
 clickets=UNTAGGED=gb
 clickety-clack=NN=none
 clickety-click=NN=none
-client-server=UNTAGGED=gb
-client-side=UNTAGGED=all
 clientage=noun=us-large
 cliental=JJ=none
 clientelism=UNTAGGED=gb
@@ -74162,8 +74139,6 @@ cut-down=UNTAGGED=gb,nz,za
 cut-grass=NN:U=none
 cut-in=NN=none
 cut-out=noun=gb,nz,za
-cut-throat=UNTAGGED=gb,nz,za
-cut-throats=UNTAGGED=gb,nz,za
 cutbank=noun=ca,us
 cutcherry=noun=us-large
 cutchery=noun=gb
@@ -74198,7 +74173,6 @@ cuz=UNTAGGED=gb
 cva=NN=none
 cw=UNTAGGED=all
 cwm=noun=us-large
-cx=UNTAGGED=all
 cyamopsis=NN=none
 cyamus=NN=none
 cyanamid=noun=none
@@ -79731,8 +79705,6 @@ dyslogia=NN=us-large
 dysmenorrhoea=noun=none
 dysmetria=NN=none
 dysmnesia=NN:U=none
-dysmorphia=UNTAGGED=all
-dysmorphias=UNTAGGED=gb
 dyspareunia=noun_U=gb
 dyspathy=noun_U=none
 dyspepsy=noun=none
@@ -80432,7 +80404,6 @@ elastanes=UNTAGGED=all
 elastase=noun_U=gb
 elastical=UNTAGGED=gb
 elasticate=UNTAGGED=gb
-elasticated=UNTAGGED=all
 elasticating=UNTAGGED=gb
 elastication=UNTAGGED=gb
 elastodynamic=UNTAGGED=gb
@@ -84606,7 +84577,6 @@ finableness=NN=none
 finalis=NN=none
 finalistic=UNTAGGED=gb
 financialist=noun=none
-financials=UNTAGGED=all
 financiare=JJ=none
 financiare=NN=none
 financiered=UNTAGGED=gb,nz,za
@@ -95050,7 +95020,6 @@ hypodescent=UNTAGGED=all
 hypodiegetic=UNTAGGED=gb
 hypodiploidy=noun=none
 hypodynamia=NN=none
-hypoechoic=UNTAGGED=all
 hypoed=UNTAGGED=gb,nz,za
 hypoelliptic=UNTAGGED=all
 hypoendocrinism=NN:UN=none
@@ -102863,8 +102832,6 @@ mA=mA/NN,mA/NNS=gb
 mGal=NNP=none
 mH=NNP=none
 mHealthCoach=UNTAGGED=all
-mIRC=UNTAGGED=gb
-mL=UNTAGGED=all
 mR=NNP=none
 mV=NNP=none
 maalox=NN=none
@@ -106571,8 +106538,6 @@ moiler=noun=us-large
 moilingly=RB=none
 moineau=noun=none
 moirae=NN=none
-moissanite=UNTAGGED=gb
-moissanites=UNTAGGED=gb
 moistful=JJ=none
 moistless=JJ=none
 moit=noun=none
@@ -109167,8 +109132,6 @@ neurocomputer=noun=gb
 neurocrine=UNTAGGED=all
 neurocrystalline=UNTAGGED=gb
 neurodegenerations=UNTAGGED=gb
-neurodevelopment=NN:U=none
-neurodivergent=UNTAGGED=all
 neuroembryological=NN=none
 neuroembryology=NN:UN=none
 neuroendocrinologist=noun=none
@@ -128343,7 +128306,6 @@ psychodramatic=UNTAGGED=us-large
 psychodramatics=UNTAGGED=gb
 psychodramatist=UNTAGGED=gb
 psychodramatists=UNTAGGED=gb
-psychoeducation=UNTAGGED=all
 psychogenically=UNTAGGED=us-large
 psychogeriatric=noun=gb
 psychogeriatrician=UNTAGGED=gb
@@ -132284,8 +132246,6 @@ resorbence=NN=none
 resorcin=noun=none
 resorcinolphthalein=NN=none
 resorter=noun=none
-resourced=UNTAGGED=all
-resourcing=UNTAGGED=all
 resp=NN=au,ca,us
 respirometry=noun=none
 respondence=noun=us-large
@@ -137544,8 +137504,6 @@ sertularia=NN=none
 sertularian=noun=none
 serum-free=JJ=none
 servantship=noun=none
-server-side=UNTAGGED=all
-serverless=UNTAGGED=all
 servibar=noun=none
 serviceperson=serviceperson/NN,servicepeople/NNS,servicepersons/NNS=none
 servitorship=noun=gb
@@ -149201,8 +149159,6 @@ transman=UNTAGGED=gb
 transmarginally=RB=none
 transmasculine=UNTAGGED=gb
 transmaterial=JJ=none
-transmembrane=UNTAGGED=all
-transmembranes=UNTAGGED=gb
 transmen=UNTAGGED=gb
 transmental=JJ=none
 transmentally=RB=none

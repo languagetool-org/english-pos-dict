@@ -42,7 +42,7 @@
 #anes=RB=all
 #anes=RB=all # ??
 #angerly=RB=all archaic
-#anotherArtificialTestWordForLanguageTool=UNTAGGED=all
+#anotherArtificialTestWordForLanguageTool=untagged=all
 #anyways=RB=au,ca,us # informal
 #aport=RB=all # archaic
 #aposiopesis [pl. aposiopeses]=noun=all # Obsolete
@@ -5047,6 +5047,7 @@ Barraskewda=NNP=all
 Barrasso=NNP=all
 Barrault=NNP=all
 Barren=NNP=all
+Barrera=NNP=all
 Barrett=NNP=all
 Barri=NNP=all
 Barrie=NNP=all
@@ -6198,6 +6199,7 @@ Bonsmara=NNP=za # South Africa, placename?
 Bontheuwel=NNP=za # South Africa, placename?
 Bontrug=NNP=za # South Africa, placename?
 Booker=NNP=all
+Bookmarksgrove=untagged=all
 Books-A-Million=NNP=all
 Boole=JJ=all
 Boole=NNP=all
@@ -6449,6 +6451,7 @@ Bramah=NNP=all
 Bramante=NNP=all
 Brambleghast=NNP=all
 Bramblin=NNP=all
+Brampton=NNP=all
 Bramvlei=NNP=za # South Africa, placename?
 Bran=NNP=all
 Branch=NNP=all
@@ -7212,7 +7215,7 @@ CANSSM=untagged=all
 CAP=NNP=all
 CAPASH=untagged=all
 CAPES=untagged=all
-CAPEX=untagged=all
+CAPEX=NN:U=all
 CAPO=untagged=all
 CAPOI=untagged=all
 CAPTCHA=noun=all
@@ -8533,6 +8536,7 @@ Cardiff=NNP=all
 Cardigan=Cardigan/NNP,Cardigans/NNPS=all
 Cardiganshire=NNP=all
 Cardin=NNP=all
+Cardona=NNP=all
 Cardoso=NNP=all
 Cardozo=NNP=all
 Carducci=NNP=all
@@ -9582,6 +9586,7 @@ Claremont=NNP=all
 Claremore=NNP=all
 Clarence=NNP=all
 Clarenceux=NNP=all
+Clarendon=NNP=all
 Clarens=NNP=za # South Africa, placename?
 Clarenspark=NNP=za # South Africa, placename?
 Claribel=NNP=all
@@ -13777,6 +13782,8 @@ Epworth=NNP=all
 Eqebe=NNP=za # South Africa, placename?
 Equestria=NNP=za # South Africa, placename?
 Equiano=NNP=all
+Equifax=NNP=all
+Equilar=NNP=all
 Equisetopsida=NNP=all # taxonomic terms
 Equthubeni=NNP=za # South Africa, placename?
 Equuleus=NNP=all
@@ -13836,6 +13843,7 @@ Erketu=NNP=all # taxonomic terms
 Erlang=NNP=all
 Erlangen=NNP=all
 Erlanger=NNP=all
+Erlenmeyer=NNP=all
 Erliansaurus=NNP=all # taxonomic terms
 Erlikosaurus=NNP=all # taxonomic terms
 Erma=NNP=all
@@ -14185,6 +14193,7 @@ Exmoor=Exmoor/NNP,Exmoors/NNPS=all
 Exod=NNP=all
 Exodus=NNP=all
 Expedia=NNP=all
+Experian=NNP=all
 Exploratorium=NNP=all
 ExploreLearning=NNP=all
 Exploud=NNP=all
@@ -18311,6 +18320,7 @@ Healdtown=NNP=za # South Africa, placename?
 Healey=NNP=all
 HealthCorps=HealthCorps/NNP,HealthCorps/NNPS=all
 Healthineers=NNP=all
+Healthline=NNP=all
 Healy=NNP=all
 Heaney=NNP=all
 Heard=NNP=all
@@ -18401,6 +18411,7 @@ Heinemann=NNP=all
 Heiner=NNP=all
 Heinlein=NNP=all
 Heinrich=NNP=all
+Heinsius=NNP=all
 Heinz=NNP=all
 Heisenberg=NNP=all
 Heist-op-den-Berg=NNP=all
@@ -19241,6 +19252,8 @@ Huberman=NNP=all
 Hubermann=NNP=all
 Hubert=NNP=all
 Hubli=NNP=all
+Huck=NNP=all
+Huckabee=NNP=all
 Hucknall=NNP=all
 Huddersfield=NNP=all
 Huddleston=NNP=all
@@ -27361,6 +27374,7 @@ Merck=NNP=all
 Mercosur=NNP=all
 Mercurochrome=Mercurochrome/NNP,Mercurochromes/NNPS=all
 Mercury=Mercury/NNP,Mercuries/NNPS=all
+Mercutio=NNP=all
 Mercyhurst=NNP=all
 Merebank=NNP=za # South Africa, placename?
 Meredale=NNP=za # South Africa, placename?
@@ -31096,6 +31110,7 @@ Orrin=NNP=all
 Orsay=NNP=all
 Orsini=NNP=all
 Orson=NNP=all
+Ortega=NNP=all
 Ortegal=NNP=all
 Orth=NNP=all
 Orthocoronavirinae=NNP=all # taxonomic terms
@@ -31815,6 +31830,7 @@ Paddington=NNP=all
 Paderborn=NNP=all
 Paderewski=NNP=all
 Padgett=NNP=all
+Padilla=NNP=all
 Padova=NNP=all
 Padraig=NNP=all
 Padre=NNP=all
@@ -32131,6 +32147,7 @@ Patanjali=NNP=all
 Patankala=NNP=za # South Africa, placename?
 Patchogue=NNP=all
 Pate=NNP=all
+Patel=NNP=all
 Patensie=NNP=za # South Africa, placename?
 Paternoster=Paternoster/NNP,Paternosters/NNPS=all
 Paterson=NNP=all
@@ -33575,6 +33592,7 @@ Qing=NNP=all
 Qinghai=NNP=all
 Qitsi=NNP=za # South Africa, placename?
 Qlik=NNP=all
+QoQ=abbreviation=all
 Qoboqobo=NNP=za # South Africa, placename?
 Qokama=NNP=za # South Africa, placename?
 Qokolweni=NNP=za # South Africa, placename?
@@ -34412,6 +34430,7 @@ Raytheon=NNP=all
 Rayton=NNP=za # South Africa, placename?
 Raúl=NNP=all
 Rb=NNP=all
+Rd=abbreviation=all
 Re=NNP=all
 Rea=NNP=all
 Reacher=NNP=all
@@ -36716,6 +36735,7 @@ Schelling=NNP=all
 Schematron=NNP=all
 Schenck=NNP=all
 Schenectady=NNP=all
+Schengen=NNP=all
 Schererville=NNP=all
 Scherman=NNP=all
 Schertz=NNP=all
@@ -37473,6 +37493,7 @@ Shuttleworth=NNP=all
 Shylock=Shylock/NNP,Shylocks/NNPS=all
 Shōtoku=NNP=all
 Si=NNP=all
+SiC=abbreviation=all
 Siabonga=NNP=za # South Africa, placename?
 Sialkot=NNP=all
 Siam=NNP=all
@@ -38230,6 +38251,7 @@ Spitsbergen=NNP=all
 Spitzer=NNP=all
 Spitzkop=NNP=za # South Africa, placename?
 Split=NNP=all
+Splunk=NNP=all
 Spock=NNP=all
 Spode=Spode/NNP,Spodes/NNPS=all
 Spoink=NNP=all
@@ -40809,6 +40831,7 @@ Tuscarora=Tuscarora/NNP,Tuscarora/NNPS,Tuscaroras/NNPS=all
 Tuscaroras=NNPS=all
 Tuscola=NNP=all
 Tuscumbia=NNP=all
+Tuskegee=NNP=all
 Tussaud=NNP=all
 Tussendal=NNP=za # South Africa, placename?
 Tustin=NNP=all
@@ -43282,6 +43305,8 @@ Wieland=NNP=all
 Wien=NNP=all
 Wierdapark=NNP=za # South Africa, placename?
 Wiesbaden=NNP=all
+Wiesel=NNP=all
+Wiesenthal=NNP=all
 Wiggins=NNP=all
 Wigglesworth=NNP=all
 Wigglytuff=NNP=all
@@ -44039,6 +44064,7 @@ Yitzhak=NNP=all
 Yizkor=NNP=all
 Ymir=NNP=all
 Yo-jong=NNP=all
+YoY=RB=all
 Yoda=NNP=all
 Yoder=NNP=all
 Yogesh=NNP=all
@@ -47141,6 +47167,8 @@ alpenstock=noun=all
 alpestrine=JJ=all
 alpha-gal=NN=all
 alpha-helical=JJ=all
+alpha-ketoglutarate=noun=all
+alpha-ketoglutaric=JJ=all
 alpha-linolenic=JJ=all
 alpha=noun_UN=all
 alphabet=noun=all
@@ -54207,6 +54235,7 @@ bismuthic=JJ=all
 bismuthous=JJ=all
 bison=bison/NN,bison/NNS,bisons/NNS=all
 bisontine=JJ=all
+bispecific=noun=all
 bisphenol=NN:U=all
 bisphosphate=noun=all
 bisphosphonate=noun=all
@@ -54619,7 +54648,7 @@ bloated=JJ=all
 bloatedness=NN:U=all
 bloater=noun=all
 bloating=noun_UN=all
-bloatware=bloatware/NN,bloatware/NN:U=all
+bloatware=NN:U=all
 blob=noun=all
 blob=verb=all
 blobfish=blobfish/NN,blobfish/NNS,blobfishes/NNS=all
@@ -57608,6 +57637,7 @@ caper=verb=all
 caperingly=RB=all
 capeskin=JJ=all
 capeskin=noun_U=all
+capex=NN:U=all
 capful=noun=all
 capias=noun=all
 capillaceous=JJ=all
@@ -57836,6 +57866,7 @@ cardiological=JJ=all
 cardiologist=noun=all
 cardiology=noun_U=all
 cardiomegaly=NN:U=all
+cardiometabolic=JJ=all
 cardiomyopathy=noun=all
 cardioprotective=JJ=all
 cardiopulmonary=JJ=all
@@ -60662,6 +60693,8 @@ clicking=noun_UN=all
 clickjacking=NN:U=all
 clickless=JJ=all
 clickstream=noun=all
+client-server=JJ=all
+client-side=JJ=all
 client=noun=all
 clientele=noun=all
 clientless=JJ=all
@@ -66085,6 +66118,7 @@ cutwater=noun=all
 cutworm=noun=all
 cuvette=noun=all
 cwt=NN=all
+cx=abbreviation=all
 cy-près=JJ=all
 cy-près=RB=all
 cyan=JJ=all
@@ -66718,6 +66752,7 @@ de-ice=verb=all
 de-link=verb=all
 de-mine=verb=all
 de-normalise=verb=all
+de-risk=verb=all
 de-stress=verb=all
 deacon=noun=all
 deaconess=noun=all
@@ -72030,6 +72065,7 @@ dyslogistically=RB=all
 dysmenorrhea=noun=all
 dysmenorrheal=JJ=all
 dysmenorrhoeal=JJ=all
+dysmorphia=noun_UN=all
 dysmorphic=JJ=all
 dysmorphism=noun_UN=all
 dyspathetic=JJ=all
@@ -72783,6 +72819,7 @@ elastane=NN:U=all
 elastic=JJ=all
 elastic=noun_U=all
 elastically=RB=all
+elasticated=JJ=all
 elasticity=noun_U=all
 elasticize|elasticise=verb=us,ca,gb|gb,au,nz,za
 elastin=noun_U=all
@@ -77659,6 +77696,7 @@ finance=verb=all
 financial=JJ=all
 financialization|financialisation=noun_UN=us,ca,gb|gb,au,nz,za
 financially=RB=all
+financials=NNS=all
 financier=noun=all
 financing=noun_U=all
 finasteride=NN:U=all
@@ -81018,6 +81056,7 @@ gender-normative=JJ=all
 gender-specific=JJ=all
 gender=gender/NN,gender/NN:U,genders/NNS=all
 gender=verb=all
+gendering=noun=all
 genderize|genderise=verb=us,ca,gb|gb,au,nz,za
 genderless=JJ=all
 genderlessness=NN:U=all
@@ -87752,6 +87791,7 @@ hypodermic=noun=all
 hypodermically=RB=all
 hypodermis=noun=all
 hypodynamic=JJ=all
+hypoechoic=JJ=all
 hypoellipticity=noun_UN=all
 hypoeutectic=JJ=all
 hypoeutectoid=JJ=all
@@ -89225,6 +89265,7 @@ inciter=noun=all
 incitingly=RB=all
 incitive=JJ=all
 incivility=noun_UN=all
+incl=abbreviation=all
 inclemency=noun_U=all
 inclement=JJ=all
 inclemently=RB=all
@@ -93519,6 +93560,8 @@ ketoacidosis=NN:U=all
 ketogenesis [pl. ketogeneses]=noun_U=all
 ketogenetic=JJ=all
 ketogenic=JJ=all
+ketoglutarate=noun=all
+ketoglutaric=JJ=all
 ketolytic=JJ=all
 ketone=noun_U=all
 ketonic=JJ=all
@@ -97121,6 +97164,8 @@ löllingite=NN:U=all
 m=abbreviation=all
 mAh=symbol=all
 mCi=mCi/NN:U,mCi/NNP=all
+mIRC=NNP=gb
+mL=abbreviation=all
 mRNA=mRNA/NN,mRNA/NNP,mRNAs/NNS=all
 mSATA=NNP=all
 mW=NNP=all
@@ -99231,6 +99276,8 @@ metaclass=noun=all
 metacognition=noun_UN=all
 metacognitive=JJ=all
 metadata=NN:U=all
+metadescription=noun=all
+metadescriptive=JJ=all
 metaethical=JJ=all
 metafiction=noun_UN=all
 metafictional=JJ=all
@@ -100862,6 +100909,7 @@ moire=JJ=all
 moire=noun=all
 moiré=JJ=all
 moiré=noun_UN=all
+moissanite=noun=all
 moist=moist/JJ,moister/JJR,moistest/JJS=all
 moisten=verb=all
 moistener=noun=all
@@ -103559,7 +103607,10 @@ neurochemistry=noun_U=all
 neurocognitive=JJ=all
 neurodegeneration=NN:UN=all
 neurodegenerative=JJ=all
+neurodevelopment=NN:U=all
 neurodevelopmental=JJ=all
+neurodivergent=JJ=all
+neurodivergent=noun=all
 neurodiverse=JJ=all
 neurodiversity=NN:U=all
 neuroeconomic=JJ=all
@@ -104646,6 +104697,7 @@ noncanonical=JJ=all
 noncapillary=JJ=all
 noncapital=JJ=all
 noncapitalistic=JJ=all
+noncapitalizable|noncapitalisable=JJ=us,ca,gb|gb,au,nz,za
 noncapitalized|noncapitalised=JJ=us,ca,gb|gb,au,nz,za
 noncapricious=JJ=all
 noncapsizable=JJ=all
@@ -111386,7 +111438,7 @@ pantropical=JJ=all
 pantropically=RB=all
 pantry=noun=all
 pantsuit=noun=all
-panty=noun=us # mainly US
+panty [pl. panties]=noun=us # mainly US
 pantyhose=pantyhose/NN,pantyhose/NNS=all
 panurgic=JJ=all
 panzer=JJ=all
@@ -119678,6 +119730,7 @@ psychodrama=noun=all
 psychodynamic=JJ=all
 psychodynamically=RB=all
 psychodynamics=NN:U=all
+psychoeducation=NN:U=all
 psychoeducational=JJ=all
 psychogalvanic=JJ=all
 psychogalvanometer=noun=all
@@ -124072,6 +124125,7 @@ resound=verb=all
 resounding=JJ=all
 resoundingly=RB=all
 resource=noun_UN=all
+resource=verb=all
 resourceful=JJ=all
 resourcefully=RB=all
 resourcefulness=NN:U=all
@@ -129074,7 +129128,9 @@ servantless=JJ=all
 servantlike=JJ=all
 serve=noun=all
 serve=verb=all
+server-side=JJ=all
 server=noun=all
+serverless=JJ=all
 servery=noun=all
 service-agnostic=JJ=all
 service-oriented=JJ=all
@@ -141669,6 +141725,7 @@ translunar=JJ=all
 translunary=JJ=all
 transmarginal=JJ=all
 transmarine=JJ=all
+transmembrane=JJ=all
 transmigrant=JJ=all
 transmigrant=noun=all
 transmigrate=verb=all
@@ -144528,6 +144585,7 @@ uncapacious=JJ=all
 uncaparisoned=JJ=all
 uncaped=JJ=all
 uncapitalistic=JJ=all
+uncapitalizable|uncapitalisable=JJ=us,ca,gb|gb,au,nz,za
 uncapitalized|uncapitalised=JJ=us,ca,gb|gb,au,nz,za
 uncapitulated=JJ=all
 uncapitulating=JJ=all
@@ -144935,6 +144993,7 @@ uncomminuted=JJ=all
 uncommiserated=JJ=all
 uncommiserating=JJ=all
 uncommissioned=JJ=all
+uncommittable=JJ=all
 uncommitted=JJ=all
 uncommodious=JJ=all
 uncommon=RB=all

@@ -5238,6 +5238,7 @@ non-worker
 non-workers
 non-working
 nonanaesthetised
+noncapitalisable
 noncapitalised
 noncartelised
 noncharacterised
@@ -8309,6 +8310,7 @@ unbowdlerises
 unbowdlerising
 uncanonisation
 uncanonisations
+uncapitalisable
 uncapitalised
 uncaramelised
 uncarbonised

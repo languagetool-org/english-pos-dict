@@ -7764,6 +7764,7 @@ lysogenize
 lysogenized
 lysogenizes
 lysogenizing
+mIRC
 macadamisation
 macadamisations
 macadamise
@@ -9302,7 +9303,9 @@ non-workers
 non-working
 nonanaesthetised
 nonanaesthetized
+noncapitalisable
 noncapitalised
+noncapitalizable
 noncapitalized
 noncartelised
 noncartelized
@@ -14781,7 +14784,9 @@ uncanonisation
 uncanonisations
 uncanonization
 uncanonizations
+uncapitalisable
 uncapitalised
+uncapitalizable
 uncapitalized
 uncaramelised
 uncaramelized
