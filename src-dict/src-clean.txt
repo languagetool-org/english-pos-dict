@@ -68121,6 +68121,7 @@ deoxidizer|deoxidiser=noun=us,ca,gb|gb,au,nz,za
 deoxidize|deoxidise=verb=us,ca,gb|gb,au,nz,za
 deoxygenated=JJ=all
 deoxyribonuclease=noun=all
+deoxyribonucleic=JJ=all
 deoxyribose=noun_U=all
 dep=noun=all
 depart=verb=all
@@ -70942,6 +70943,7 @@ don=verb=all
 dona=noun=all
 donate=verb=all
 donation=noun_UN=all
+donationware=NN:U=all
 donative=JJ=all
 donative=noun=all
 donator=noun=all
@@ -70974,6 +70976,7 @@ doodler=noun=all
 doodly-squat=NN:U=all
 doohickey=noun=au,ca,us
 doolally=JJ=gb # slang
+doom-scrolling=NN:U=all
 doom=noun_UN=all
 doom=verb=all
 doomed=JJ=all
@@ -70981,6 +70984,7 @@ dooms=RB=all
 doomsayer=noun=all
 doomsaying=NN:U=all
 doomscroll=verb=all
+doomscrolling=NN:U=all
 doomsday=noun_U=all
 doomster=noun=all
 door-to-door=JJ=all
@@ -77722,6 +77726,7 @@ finery=noun_U=all
 finespun=JJ=all
 finesse=noun_UN=all
 finesse=verb=all
+finetune=verb=all
 finger-tight=JJ=all
 finger=noun=all
 finger=verb=all
@@ -87806,9 +87811,9 @@ hypogeous=JJ=all
 hypogeum=hypogeum/NN,hypogea/NNS=all
 hypoglossal=JJ=all
 hypoglossal=noun=all
-hypoglycaemia=NN:U=all
 hypoglycemia|hypoglycaemia=noun_UN=ca,us|au,gb,nz,za
 hypoglycemic|hypoglycaemic=JJ=ca,us|au,gb,nz,za
+hypoglycemic|hypoglycaemic=noun=ca,us|au,gb,nz,za
 hypognathous=JJ=all
 hypogynous=JJ=all
 hypointensely=RB=all
@@ -109503,6 +109508,8 @@ outcall=noun=all
 outcall=verb=all
 outcast=JJ=all
 outcast=noun=all
+outcaste=noun=all
+outcaste=verb=all
 outclass=verb=all
 outclassed=JJ=all
 outclimb=verb=all
@@ -141655,8 +141662,11 @@ transfusion=noun_UN=all
 transfusional=JJ=all
 transfusive=JJ=all
 transgender=JJ=all
+transgender=noun=all
+transgender=verb=all
 transgendered=JJ=all
 transgenderism=noun_UN=all
+transgenderist=noun=all
 transgenerational=JJ=all
 transgenic=JJ=all
 transgress=verb=all

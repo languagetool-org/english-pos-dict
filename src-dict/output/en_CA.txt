@@ -3765,6 +3765,7 @@ hypocentres
 hypoglycemia
 hypoglycemias
 hypoglycemic
+hypoglycemics
 hypophysectomize
 hypophysectomized
 hypophysectomizes

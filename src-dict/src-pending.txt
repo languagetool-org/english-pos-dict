@@ -76633,7 +76633,6 @@ deoxygenating=UNTAGGED=gb
 deoxygenation=noun=gb
 deoxynivalenol=UNTAGGED=gb
 deoxynivalenols=UNTAGGED=gb
-deoxyribonucleic=UNTAGGED=all
 deoxyribonucleoprotein=NN=none
 deoxyribonucleotide=noun=none
 depaint=UNTAGGED=gb
@@ -78694,7 +78693,6 @@ donah=noun=none
 donanemab=UNTAGGED=all
 donary=noun=none
 donatary=noun=none
-donationware=UNTAGGED=all
 donatory=noun=none
 donbas=NN=none
 donder=UNTAGGED=za
@@ -78726,9 +78724,6 @@ donnot=noun=none
 donorship=noun=none
 donsie=JJ=none
 donzel=noun=none
-doo-rag=UNTAGGED=all
-doo-rags=UNTAGGED=all
-doo-wops=UNTAGGED=all
 doob=NN=none
 doocot=noun=none
 doodia=NN=none
@@ -78744,7 +78739,6 @@ doolee=noun=none
 doolie=noun=us-large
 dooly=noun=none
 doom-laden=UNTAGGED=gb,nz,za
-doom-scrolling=UNTAGGED=all
 doomier=UNTAGGED=gb
 doomiers=UNTAGGED=gb
 doomiest=UNTAGGED=gb
@@ -116883,14 +116877,10 @@ out-relief=NN:UN=none
 out-take=UNTAGGED=gb,nz,za
 out-takes=UNTAGGED=gb,nz,za
 out-tray=NN=gb,nz,za
-outang=UNTAGGED=gb,nz,za
-outangs=UNTAGGED=gb,nz,za
+outang=noun=gb,nz,za
+outangs=UNTAGGED=gb,nz,za # outgang?
 outbargain=UNTAGGED=us-large
 outbidder=NN=none
-outcaste=JJ=us-large
-outcaste=noun=us-large
-outcasted=UNTAGGED=all
-outcasting=UNTAGGED=gb,nz,za
 outcavilling=outcavilling/NN,outcavilling/NNS=none
 outcity=noun=none
 outclerk=NN=none
@@ -149110,10 +149100,6 @@ transformist=noun=none
 transfrontal=JJ=none
 transfuser=noun=us-large
 transfusionist=noun=none
-transgendering=UNTAGGED=gb
-transgenderist=UNTAGGED=gb
-transgenderists=UNTAGGED=gb
-transgenders=UNTAGGED=au,ca,us
 transgene=UNTAGGED=gb
 transgenes=UNTAGGED=gb
 tranship=UNTAGGED=gb,us-large

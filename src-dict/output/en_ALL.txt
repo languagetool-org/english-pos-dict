@@ -74163,6 +74163,7 @@ deoxidations
 deoxygenated
 deoxyribonuclease
 deoxyribonucleases
+deoxyribonucleic
 deoxyribose
 deoxyriboses
 dep
@@ -78334,6 +78335,7 @@ donates
 donating
 donation
 donations
+donationware
 donative
 donatives
 donator
@@ -78386,6 +78388,7 @@ doodles
 doodling
 doodly-squat
 doom
+doom-scrolling
 doomed
 dooming
 dooms
@@ -88135,6 +88138,10 @@ finessed
 finesses
 finessing
 finest
+finetune
+finetuned
+finetunes
+finetuning
 finger
 finger-tight
 fingerboard
@@ -102556,7 +102563,6 @@ hypogeous
 hypogeum
 hypoglossal
 hypoglossals
-hypoglycaemia
 hypognathous
 hypogynous
 hypointensely
@@ -131619,6 +131625,10 @@ outcalled
 outcalling
 outcalls
 outcast
+outcaste
+outcasted
+outcastes
+outcasting
 outcasts
 outclass
 outclassed
@@ -177954,8 +177964,12 @@ transfusions
 transfusive
 transgender
 transgendered
+transgendering
 transgenderism
 transgenderisms
+transgenderist
+transgenderists
+transgenders
 transgenerational
 transgenic
 transgress
