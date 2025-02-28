@@ -216,6 +216,8 @@
 #opthalmic=JJ=all # misspelling  ophthalmic
 #ord=abbreviation=all
 #otherwhere=RB=all # rare
+#outcaste=noun=all # less usual than outcast
+#outcaste=verb=all # less usual than outcast
 #pam=noun=all
 #parti=noun=all #unusual
 #peartly=RB=all dialect
@@ -109508,8 +109510,6 @@ outcall=noun=all
 outcall=verb=all
 outcast=JJ=all
 outcast=noun=all
-outcaste=noun=all
-outcaste=verb=all
 outclass=verb=all
 outclassed=JJ=all
 outclimb=verb=all
