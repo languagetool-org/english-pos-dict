@@ -97164,7 +97164,7 @@ löllingite=NN:U=all
 m=abbreviation=all
 mAh=symbol=all
 mCi=mCi/NN:U,mCi/NNP=all
-mIRC=NNP=gb
+mIRC=NNP=all
 mL=abbreviation=all
 mRNA=mRNA/NN,mRNA/NNP,mRNAs/NNS=all
 mSATA=NNP=all
