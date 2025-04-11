@@ -3556,6 +3556,8 @@ heroicise
 heroicised
 heroicises
 heroicising
+heroisation
+heroisations
 heroise
 heroised
 heroises

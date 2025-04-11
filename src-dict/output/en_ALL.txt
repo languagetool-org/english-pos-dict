@@ -13067,6 +13067,7 @@ Esper
 Esperantist
 Esperantists
 Esperanto
+Esperanza
 Espinosa
 Espoo
 Esposito
@@ -14695,6 +14696,7 @@ Fuego
 Fuelcell
 Fuengirola
 Fuenlabrada
+Fuentes
 Fugger
 Fuji
 Fujian
@@ -15355,6 +15357,7 @@ Gathic
 Gatineau
 Gatlin
 Gatlinburg
+Gatorade
 Gatsby
 Gatun
 Gatwick
@@ -27828,6 +27831,7 @@ Odesa
 Odessa
 Odets
 Odette
+Odilia
 Odin
 Odinian
 Odinic
@@ -34458,6 +34462,7 @@ Sorrento
 Soter
 Sotheby
 Sothic
+Soto
 Sotomayor
 Soudan
 Soule
@@ -38652,6 +38657,7 @@ Waipahu
 Waite
 Wakanda
 Wakashan
+Wakatsuki
 Wakayama
 Wake
 Wakefield
@@ -64968,6 +64974,8 @@ comfited
 comfiting
 comfits
 comfort
+comfortabilities
+comfortability
 comfortable
 comfortableness
 comfortably
@@ -76426,6 +76434,8 @@ disavowals
 disavowed
 disavowing
 disavows
+disbalance
+disbalances
 disband
 disbanded
 disbanding
@@ -76447,6 +76457,8 @@ disbelievers
 disbelieves
 disbelieving
 disbelievingly
+disbenefit
+disbenefits
 disbud
 disbudded
 disbudding
@@ -121302,11 +121314,10 @@ mollifyingly
 molls
 mollusc
 molluscan
-molluscans
+mollusclike
 molluscoid
 molluscoids
 molluscs
-mollusklike
 molly
 mollycoddle
 mollycoddled
@@ -124918,6 +124929,8 @@ neuromodulator
 neuromodulators
 neuromotor
 neuromuscular
+neuromyth
+neuromyths
 neuron
 neuronal
 neuronic
@@ -141932,6 +141945,7 @@ pozzolanic
 pp
 ppl
 ppm
+practica
 practicabilities
 practicability
 practicable
@@ -141949,6 +141963,8 @@ practices
 practician
 practicians
 practicing
+practicum
+practicums
 practiser
 practisers
 practitioner
@@ -179467,6 +179483,7 @@ tsarists
 tsars
 tsetse
 tsetses
+tsp
 tsunami
 tsunamic
 tsunamis

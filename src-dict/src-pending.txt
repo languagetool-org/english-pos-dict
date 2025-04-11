@@ -19041,7 +19041,6 @@ Gatima=UNTAGGED=gb
 Gatling=UNTAGGED=all
 Gatlings=UNTAGGED=gb
 Gatooma=UNTAGGED=gb
-Gatorade=UNTAGGED=au,ca,us
 Gatos=UNTAGGED=gb
 Gattamelata=NNP=none
 Gatton=UNTAGGED=gb
@@ -71293,8 +71292,6 @@ cometh=UNTAGGED=gb,nz,za
 comether=JJ=none
 comether=noun=none
 cometic=JJ=none
-comfortabilities=UNTAGGED=gb,nz,za
-comfortability=NN:UN=gb,nz,za
 comingle=verb=us
 comingling=NN=us
 comint=NN=none
@@ -77918,8 +77915,6 @@ disarticulation=noun_UN=gb
 disarticulator=noun=none
 disavowedly=RB=none
 disavower=noun=none
-disbalance=noun=us
-disbenefit=noun=gb
 disbound=UNTAGGED=gb
 disbowelling=disbowelling/NN,disbowelling/NNS=none
 disbranch=UNTAGGED=us-large
@@ -124469,7 +124464,6 @@ pracieuse=NN=none
 practic=JJ=none
 practicalist=noun=none
 practicer=noun=us-large
-practicum=noun=au,ca,us
 prad=noun=none
 praecipe=noun=none
 praecipitatio=NN=none

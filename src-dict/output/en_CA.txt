@@ -3557,6 +3557,8 @@ heroicize
 heroicized
 heroicizes
 heroicizing
+heroization
+heroizations
 heroize
 heroized
 heroizes

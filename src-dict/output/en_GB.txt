@@ -6326,10 +6326,14 @@ heroicize
 heroicized
 heroicizes
 heroicizing
+heroisation
+heroisations
 heroise
 heroised
 heroises
 heroising
+heroization
+heroizations
 heroize
 heroized
 heroizes

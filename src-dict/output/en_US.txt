@@ -3704,6 +3704,8 @@ heroicize
 heroicized
 heroicizes
 heroicizing
+heroization
+heroizations
 heroize
 heroized
 heroizes
@@ -4997,6 +4999,7 @@ moldings
 molds
 moldy
 mollusk
+mollusklike
 mollusks
 molt
 molted

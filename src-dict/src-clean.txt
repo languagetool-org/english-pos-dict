@@ -13933,6 +13933,7 @@ Esper=NNP=all
 Esperantist=Esperantist/NNP,Esperantists/NNPS=all
 Esperanto=Esperanto/NN:U,Esperanto/NNP=all
 Esperanto=JJ=all
+Esperanza=NNP=all
 Espinosa=NNP=all
 Esplanade=NNP=za # South Africa, placename?
 Espoo=NNP=all
@@ -15647,6 +15648,7 @@ Fuego=NNP=all
 Fuelcell=NNP=all
 Fuengirola=NNP=all
 Fuenlabrada=NNP=all
+Fuentes=NNP=all
 Fugger=NNP=all
 Fuji=NNP=all
 Fujian=NNP=all
@@ -16374,6 +16376,7 @@ Gathic=JJ=all
 Gatineau=NNP=all
 Gatlin=NNP=all
 Gatlinburg=NNP=all
+Gatorade=NNP=all
 Gatsby=NNP=all
 Gatun=NNP=all
 Gatwick=NNP=all
@@ -30767,6 +30770,7 @@ Odessa=NNP=all
 Odets=NNP=all
 Odette=NNP=all
 Odidini=NNP=za # South Africa, placename?
+Odilia=NNP=all
 Odin=NNP=all
 Odinburg=NNP=za # South Africa, placename?
 Odinian=JJ=all
@@ -38109,6 +38113,7 @@ Soshanguve=NNP=za # South Africa, placename?
 Soter=NNP=all
 Sotheby=NNP=all
 Sothic=JJ=all
+Soto=NNP=all
 Sotomayor=NNP=all
 Sotsha=NNP=za # South Africa, placename?
 Soudan=NNP=all
@@ -42769,6 +42774,7 @@ Waipahu=NNP=all
 Waite=NNP=all
 Wakanda=NNP=all
 Wakashan=NNP=all
+Wakatsuki=NNP=all
 Wakayama=NNP=all
 Wake=NNP=all
 Wakefield=NNP=all
@@ -61865,6 +61871,7 @@ comfit=noun=all
 comfit=verb=all
 comfort=noun_UN=all
 comfort=verb=all
+comfortability=noun_UN=all
 comfortable=JJ=all
 comfortableness=NN:U=all
 comfortably=RB=all
@@ -69689,6 +69696,7 @@ disauthorize|disauthorise=verb=us,ca,gb|gb,au,nz,za
 disavow=verb=all
 disavowable=JJ=all
 disavowal=noun=all
+disbalance=noun=all
 disband=verb=all
 disbandment=noun_U=all
 disbar [-rr-]=verb=all
@@ -69697,6 +69705,7 @@ disbelief=disbelief/NN:U,disbeliefs/NNS,disbelieves/NNS=all
 disbelieve=verb=all
 disbeliever=noun=all
 disbelievingly=RB=all
+disbenefit=noun=all
 disbud [-dd-]=verb=all
 disburden=verb=all
 disbursal=noun_U=all
@@ -85362,7 +85371,8 @@ heroics=NNS=all
 heroin=noun_U=all
 heroine=noun=all
 heroism=noun_U=all
-heroize|heroise=verb=us,ca,gb|gb,au,nz,za
+heroization|heroisation=noun=us,ca,gb|gb,au,nz,za
+heroize|heroise=verb=us,ca,gb|gb,au,nz,za # heroise not in dicts
 herolike=JJ=all
 heron=noun=all
 heronry=noun=all
@@ -100966,11 +100976,10 @@ mollification=noun_U=all
 mollify=verb=all
 mollifyingly=RB=all
 molluscan=JJ=all
-molluscan=noun=all
+mollusclike|mollusklike=JJ=all|us
 molluscoid=JJ=all
 molluscoid=noun=all
 mollusc|mollusk=noun=all|us
-mollusklike=JJ=all
 molly=noun=all
 mollycoddle=noun=all
 mollycoddle=verb=all
@@ -103654,6 +103663,7 @@ neuromodulation=noun=all
 neuromodulator=noun=all
 neuromotor=JJ=all
 neuromuscular=JJ=all
+neuromyth=noun=all
 neuronal=JJ=all
 neuronic=JJ=all
 neuron|neurone=JJ=all|gb,nz,za
@@ -116812,6 +116822,7 @@ practicalness=NN:U=all
 practice=noun_UN=all
 practice=verb=all
 practician=noun=all
+practicum [pl. practicums,practica]=noun=all
 practise=verb=au,ca,gb,nz,za
 practiser=noun=all
 practitioner=noun=all
@@ -138686,6 +138697,7 @@ taxpaying=JJ=all
 taxpaying=NN=all
 tazobactam=NN:U=all
 tazza=noun=all
+tbsp=abbreviation=all
 tbsp=noun=all
 tea=noun_U=all
 teabag=noun=all
@@ -142740,6 +142752,7 @@ tsarist=JJ=all
 tsarist=noun=all
 tsaristic=JJ=all
 tsetse=noun=all
+tsp=abbreviation=all
 tsunami=noun=all
 tsunamic=JJ=all
 tub=noun=all
