@@ -6814,6 +6814,12 @@ pseudocolor
 pseudocoloring
 pseudocolorings
 pseudocolors
+pseudononymization
+pseudononymizations
+pseudononymize
+pseudononymized
+pseudononymizes
+pseudononymizing
 psychedelicize
 psychedelicized
 psychedelicizes

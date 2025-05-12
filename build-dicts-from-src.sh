@@ -15,7 +15,7 @@ do
 done
 
 
-lt_version=6.6-SNAPSHOT
+lt_version=6.7-SNAPSHOT
 lt_tools=../languagetool/languagetool-standalone/target/LanguageTool-${lt_version}/LanguageTool-${lt_version}/languagetool.jar
 
 #to be updated

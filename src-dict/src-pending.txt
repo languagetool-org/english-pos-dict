@@ -64115,18 +64115,6 @@ bodyshell=UNTAGGED=gb
 bodyshells=UNTAGGED=gb
 bodyside=UNTAGGED=gb
 bodysides=UNTAGGED=gb
-bodysnatcher=UNTAGGED=gb
-bodysnatchers=UNTAGGED=gb
-bodysnatching=noun=gb
-bodysurf=UNTAGGED=gb,us-large,za
-bodysurfed=UNTAGGED=gb
-bodysurfer=noun=gb
-bodysurfing=UNTAGGED=gb
-bodysurfs=UNTAGGED=gb
-bodyweight=UNTAGGED=gb,nz,za
-bodyweights=UNTAGGED=gb
-bodyworker=UNTAGGED=gb
-bodyworkers=UNTAGGED=gb
 boehm=NN=none
 boehmeria=NN=none
 boehmite=noun=gb
@@ -80642,9 +80630,7 @@ electropolish=UNTAGGED=gb
 electropolished=UNTAGGED=gb
 electropolishes=UNTAGGED=gb
 electropolishing=UNTAGGED=gb
-electropollution=NN:U=gb
 electropop=NN:U=gb
-electroporation=NN=gb
 electropositively=UNTAGGED=gb
 electropositives=UNTAGGED=gb
 electroreception=NN:U=gb
@@ -122973,8 +122959,6 @@ pneumoconiotic=UNTAGGED=gb
 pneumocystic=UNTAGGED=gb
 pneumocystis=noun=none
 pneumocystosis=NN=none
-pneumocyte=UNTAGGED=gb
-pneumocytes=UNTAGGED=gb
 pneumodynamics=NN:U=us-large
 pneumoencephalitis=NN=none
 pneumoencephalograms=UNTAGGED=gb

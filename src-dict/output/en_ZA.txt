@@ -12125,6 +12125,12 @@ pseudocolour
 pseudocolouring
 pseudocolourings
 pseudocolours
+pseudononymisation
+pseudononymisations
+pseudononymise
+pseudononymised
+pseudononymises
+pseudononymising
 psychedelicise
 psychedelicised
 psychedelicises

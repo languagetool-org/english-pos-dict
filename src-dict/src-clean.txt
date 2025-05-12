@@ -5660,6 +5660,7 @@ Bessarabia=NNP=all
 Bessarabian=JJ=all
 Bessel=NNP=all
 Bessemer=NNP=all
+Bessent=NNP=all
 Bessie=NNP=all
 Best=NNP=all
 Bester=NNP=za # South Africa, placename?
@@ -55002,8 +55003,14 @@ bodybuilding=noun_U=all
 bodycam=noun=all
 bodyguard=noun=all
 bodyless=JJ=all
+bodysnatcher=noun=all
+bodysnatching=NN:U=all
 bodysuit=noun=all
+bodysurf=verb=all
+bodysurfer=noun=all
+bodyweight=noun_UN=all
 bodywork=noun_U=all
+bodyworker=noun=all
 boffin=noun=all
 bog-standard=JJ=all
 bog=noun=all
@@ -73005,7 +73012,9 @@ electrophysiology=noun_UN=all
 electroplate=verb=all
 electroplating=noun_UN=all
 electropneumatic=JJ=all
+electropollution=NN:U=all
 electroporate=verb=all
+electroporation=noun=all
 electropositive=JJ=all
 electroscope=noun=all
 electroscopic=JJ=all
@@ -114609,6 +114618,7 @@ pillowless=JJ=all
 pillowlike=JJ=all
 pillowslip=noun=all
 pillowy=JJ=all
+piloerection=noun_UN=all
 pilonidal=JJ=all
 pilose=JJ=all
 pilosebaceous=JJ=all
@@ -115544,6 +115554,7 @@ pneumatophore=noun=all
 pneumococcal=JJ=all
 pneumococcus=pneumococcus/NN,pneumococci/NNS=all
 pneumoconiosis=pneumoconiosis/NN:U,pneumoconioses/NNS=all
+pneumocyte=noun=gb
 pneumoencephalogram=NN=all
 pneumogastric=JJ=all
 pneumogastric=NN=all
@@ -116469,6 +116480,7 @@ posteruptive=JJ=all
 postesophageal=JJ=all
 postethmoid=JJ=all
 postexilian=JJ=all
+postexposure=JJ=all
 postfebrile=JJ=all
 postfemoral=JJ=all
 postfetal=JJ=all
@@ -119623,6 +119635,8 @@ pseudomoral=JJ=all
 pseudomultilocular=JJ=all
 pseudomythical=JJ=all
 pseudonational=JJ=all
+pseudononymization|pseudononymisation=noun_UN=us,ca,gb|gb,au,nz,za
+pseudononymize|pseudononymise=verb=us,ca,gb|gb,au,nz,za
 pseudonym=noun=all
 pseudonymity=noun_UN=all
 pseudonymous=JJ=all
@@ -126557,6 +126571,7 @@ sandy=sandy/JJ,sandier/JJR,sandiest/JJS=all
 sane=sane/JJ,saner/JJR,sanest/JJS=all
 sanely=RB=all
 saneness=NN:U=all
+sanewashing=NN:U=all
 sang-froid=NN:U=all
 sang=noun_U=all
 sangfroid=noun_U=all
@@ -130633,6 +130648,7 @@ sinner=noun=all
 sinningly=RB=all
 sinningness=NN:U=all
 sinoatrial=JJ=all
+sinofuturism=NN:U=all
 sinological=JJ=all
 sinologist=noun=all
 sinorespiratory=JJ=all
@@ -140490,6 +140506,7 @@ time-honoured=JJ=all
 time-lapse=JJ=all
 time-limited=JJ=all
 time-out=noun=all
+time-point=noun=all
 time-saving=JJ=all
 time-sensitive=JJ=all
 time-server=noun=all
@@ -140522,6 +140539,7 @@ timeous=JJ=all
 timeously=RB=all
 timeout=noun=all
 timepiece=noun=all
+timepoint=noun=all
 timer=noun=all
 timesaving=JJ=all
 timescale=noun=all
@@ -142379,6 +142397,7 @@ tripedal=JJ=all
 tripeptide=noun=all
 tripersonal=JJ=all
 tripetalous=JJ=all
+triphasic=JJ=all
 triphibian=JJ=all
 triphibious=JJ=all
 triphosphate=noun=all
@@ -155825,6 +155844,7 @@ weightlessly=RB=all
 weightlessness=NN:U=all
 weightlifter=noun=all
 weightlifting=noun_U=all
+weightloss=NN:U=all
 weighty=weighty/JJ,weightier/JJR,weightiest/JJS=all
 weir=noun=all
 weird=NN=all

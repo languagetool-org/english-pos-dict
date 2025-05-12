@@ -11034,6 +11034,8 @@ pneumatize
 pneumatized
 pneumatizes
 pneumatizing
+pneumocyte
+pneumocytes
 podsolisation
 podsolisations
 podsolization
@@ -11613,6 +11615,18 @@ pseudocolour
 pseudocolouring
 pseudocolourings
 pseudocolours
+pseudononymisation
+pseudononymisations
+pseudononymise
+pseudononymised
+pseudononymises
+pseudononymising
+pseudononymization
+pseudononymizations
+pseudononymize
+pseudononymized
+pseudononymizes
+pseudononymizing
 psychedelicise
 psychedelicised
 psychedelicises

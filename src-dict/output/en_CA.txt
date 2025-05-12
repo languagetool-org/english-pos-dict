@@ -6623,6 +6623,12 @@ pseudocolour
 pseudocolouring
 pseudocolourings
 pseudocolours
+pseudononymization
+pseudononymizations
+pseudononymize
+pseudononymized
+pseudononymizes
+pseudononymizing
 psychedelicize
 psychedelicized
 psychedelicizes
