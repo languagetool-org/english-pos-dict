@@ -107498,6 +107498,7 @@ enow=enow/RB=us-large
 enphytotic=JJ=us-large
 enplane=verb=au,ca,gb,us
 enprint=enprint/NN,enprints/NNS=gb
+enqueue=verb=all
 enquire=verb=au,gb,nz,za
 enquirer=enquirer/NN,enquirers/NNS=all
 enquiringly=RB=all
