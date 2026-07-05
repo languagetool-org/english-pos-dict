@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Dictionary Editor{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="{{ url_for('search') }}">Search</a>
+      <a href="{{ url_for('issues') }}">Issues</a>
+    </nav>
+    <form action="{{ url_for('search') }}" method="get" class="searchbar">
+      <input type="text" name="q" placeholder="lemma or form…"
+             value="{{ q|default('') }}" autofocus>
+      <button type="submit">Search</button>
+    </form>
+  </header>
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

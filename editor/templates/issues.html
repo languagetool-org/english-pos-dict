@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Issues — Dictionary Editor{% endblock %}
+{% block content %}
+  <h1>Issues <span class="muted">({{ total }})</span></h1>
+  <form id="rescan-form"><button type="submit">Rescan</button>
+    <span id="rescan-status" class="muted"></span></form>
+
+  {% for rule, items in grouped.items() %}
+    <section>
+      <h2>{{ rule }} <span class="muted">({{ items|length }})</span></h2>
+      <table class="entries">
+        <thead><tr><th>Lemma</th><th>Message</th><th>Where</th></tr></thead>
+        <tbody>
+        {% for i in items[:500] %}
+          <tr>
+            <td><a href="{{ url_for('entry', file=i.file, line_no=i.line_no) }}?evidence=1">{{ i.lemma }}</a></td>
+            <td>{{ i.message }}</td>
+            <td class="muted">{{ i.file }}:{{ i.line_no }}</td>
+          </tr>
+        {% endfor %}
+        </tbody>
+      </table>
+      {% if items|length > 500 %}<p class="muted">… {{ items|length - 500 }} more.</p>{% endif %}
+    </section>
+  {% endfor %}
+{% endblock %}

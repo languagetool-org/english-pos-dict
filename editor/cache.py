@@ -6,13 +6,17 @@ truth. Safe to delete at any time (git-ignored).
 
 import json
 import sqlite3
+import threading
 import time
 
 
 class Cache:
     def __init__(self, db_path):
         self.db_path = str(db_path)
-        self._conn = sqlite3.connect(self.db_path)
+        # Flask's dev server serves requests on multiple threads; allow the
+        # connection to be shared and serialise access with a lock.
+        self._lock = threading.Lock()
+        self._conn = sqlite3.connect(self.db_path, check_same_thread=False)
         self._conn.execute("""
             CREATE TABLE IF NOT EXISTS evidence (
                 lemma TEXT NOT NULL,
@@ -40,16 +44,18 @@ class Cache:
 
     # --- evidence ---------------------------------------------------------
     def put_evidence(self, lemma, source, value, ttl_seconds=None):
-        self._conn.execute(
-            "INSERT OR REPLACE INTO evidence (lemma, source, json, fetched_at, ttl)"
-            " VALUES (?, ?, ?, ?, ?)",
-            (lemma, source, json.dumps(value), time.time(), ttl_seconds))
-        self._conn.commit()
+        with self._lock:
+            self._conn.execute(
+                "INSERT OR REPLACE INTO evidence (lemma, source, json, fetched_at, ttl)"
+                " VALUES (?, ?, ?, ?, ?)",
+                (lemma, source, json.dumps(value), time.time(), ttl_seconds))
+            self._conn.commit()
 
     def get_evidence(self, lemma, source):
-        row = self._conn.execute(
-            "SELECT json, fetched_at, ttl FROM evidence WHERE lemma=? AND source=?",
-            (lemma, source)).fetchone()
+        with self._lock:
+            row = self._conn.execute(
+                "SELECT json, fetched_at, ttl FROM evidence WHERE lemma=? AND source=?",
+                (lemma, source)).fetchone()
         if row is None:
             return None
         payload, fetched_at, ttl = row
@@ -59,27 +65,31 @@ class Cache:
 
     # --- BECL import ------------------------------------------------------
     def put_becl(self, lemma, becl_class, verdict):
-        self._conn.execute(
-            "INSERT OR REPLACE INTO becl (lemma, becl_class, verdict)"
-            " VALUES (?, ?, ?)", (lemma, becl_class, verdict))
-        self._conn.commit()
+        with self._lock:
+            self._conn.execute(
+                "INSERT OR REPLACE INTO becl (lemma, becl_class, verdict)"
+                " VALUES (?, ?, ?)", (lemma, becl_class, verdict))
+            self._conn.commit()
 
     def get_becl(self, lemma):
-        row = self._conn.execute(
-            "SELECT becl_class, verdict FROM becl WHERE lemma=?",
-            (lemma,)).fetchone()
+        with self._lock:
+            row = self._conn.execute(
+                "SELECT becl_class, verdict FROM becl WHERE lemma=?",
+                (lemma,)).fetchone()
         if row is None:
             return None
         return {"becl_class": row[0], "verdict": row[1]}
 
     # --- issue snapshot ---------------------------------------------------
     def put_issues_snapshot(self, issues):
-        self._conn.execute(
-            "INSERT OR REPLACE INTO kv (key, json) VALUES ('issues', ?)",
-            (json.dumps(issues),))
-        self._conn.commit()
+        with self._lock:
+            self._conn.execute(
+                "INSERT OR REPLACE INTO kv (key, json) VALUES ('issues', ?)",
+                (json.dumps(issues),))
+            self._conn.commit()
 
     def get_issues_snapshot(self):
-        row = self._conn.execute(
-            "SELECT json FROM kv WHERE key='issues'").fetchone()
+        with self._lock:
+            row = self._conn.execute(
+                "SELECT json FROM kv WHERE key='issues'").fetchone()
         return json.loads(row[0]) if row else None

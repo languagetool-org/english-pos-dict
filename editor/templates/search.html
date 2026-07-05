@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block content %}
+  {% if q %}
+    <h1>Results for “{{ q }}”</h1>
+    {% if results %}
+      <table class="entries">
+        <thead><tr><th>Lemma</th><th>Tags</th><th>Variants</th><th>File</th></tr></thead>
+        <tbody>
+        {% for r in results %}
+          <tr>
+            <td><a href="{{ url_for('entry', file=r.file, line_no=r.line_no) }}">{{ r.lemma }}</a></td>
+            <td class="mono">{{ r.tags }}</td>
+            <td>{{ r.variants }}</td>
+            <td class="muted">{{ r.file }}:{{ r.line_no }}</td>
+          </tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    {% else %}
+      <p class="muted">No entries found.</p>
+    {% endif %}
+  {% else %}
+    <p class="muted">Search for a lemma or an inflected form to edit an entry.</p>
+  {% endif %}
+{% endblock %}

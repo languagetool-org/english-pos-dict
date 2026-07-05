@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}{{ entry.lemma_field }} — Dictionary Editor{% endblock %}
+{% block content %}
+  <h1>{{ entry.lemma_field }} <span class="muted">({{ file }}:{{ entry.line_no }})</span></h1>
+
+  <div class="editor" data-file="{{ file }}" data-line="{{ entry.line_no }}"
+       data-lemma="{{ entry.lemma_field }}">
+    <label for="line">Source line</label>
+    <input type="text" id="line" class="mono" value="{{ entry.logical_line }}">
+    <div class="actions">
+      <button id="save-btn">Save</button>
+      <button id="evidence-btn" data-auto="{{ '1' if show_evidence else '0' }}">Evidence</button>
+      <span id="save-status" class="muted"></span>
+    </div>
+
+    <h3>Validation</h3>
+    <ul id="problems" class="problems"></ul>
+
+    <h3>Expansion preview</h3>
+    <table class="expansion"><tbody id="expansion"></tbody></table>
+
+    <h3>Countability evidence</h3>
+    <div id="evidence" class="evidence muted">Not loaded.</div>
+  </div>
+{% endblock %}
