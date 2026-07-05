@@ -52,24 +52,25 @@ def check_line(line):
         "there=EX=all",
         "to=TO=all",
     ]
+    problems = []
     line = clean_line(line)
     if line == "" or line in to_ignore:
-        return
+        return problems
     parts = line.split("=")
     if len(parts) != 3:
-        print(line + " >> wrong number of characters '='")
-    tags = parts[1]
+        problems.append(line + " >> wrong number of characters '='")
+    tags = parts[1] if len(parts) > 1 else ""
     lemmas = parts[0].split("|")
     if len(parts) < 3:
-        print(f"Unsufficient number of fields on line: {line}")
-        exit(2)
+        problems.append(f"Unsufficient number of fields on line: {line}")
+        return problems
     variants_groups = parts[2].split("|")
     if "," not in tags and "/" in tags:
-        print(line + " >> incorrect combination of commas and slashes")
+        problems.append(line + " >> incorrect combination of commas and slashes")
     if ("," in tags or "/" in tags) and tags.count(",") != tags.count("/") - 1:
-        print(line + " >> incorrect combination of commas and slashes")
+        problems.append(line + " >> incorrect combination of commas and slashes")
     if "," in tags and ("|" in lemmas or "|" in variants_groups):
-        print(line + " >> this line cann't have multiple lemmas or groups of variants")
+        problems.append(line + " >> this line cann't have multiple lemmas or groups of variants")
     if "/" not in tags:
         if tags not in [
             "noun",
@@ -110,9 +111,9 @@ def check_line(line):
             "untagged",
             "VBD",
         ]:
-            print(line + " >> unknown tag")
+            problems.append(line + " >> unknown tag")
     if len(lemmas) != len(variants_groups):
-        print(
+        problems.append(
             line
             + " >> number of elements in lemma doesn't much number of elements in variant"
         )
@@ -130,36 +131,36 @@ def check_line(line):
                 "za",
                 "us-large",
             ]:
-                print(line + " >> unknown variant")
+                problems.append(line + " >> unknown variant")
     if len(lemmas) != len(set(lemmas)):
-        print(line + " >> duplicate lemmas")
+        problems.append(line + " >> duplicate lemmas")
     for lemma in lemmas:
         lemma, extra = inflection.getLemmaAndExtra(lemma)
         if extra != "" and tags in ["noun", "noun_U", "noun_UN"]:
             if not extra.startswith("pl. "):
-                print(
+                problems.append(
                     line + " >> In nouns, please indicate plural forms [pl. xxxx,yyyy]"
                 )
         if extra != "" and tags == "verb" and ";" not in extra:
             duplicate_consonant = inflection.getDuplicateConsonant(extra)
             if len(duplicate_consonant) == 0:
-                print(
+                problems.append(
                     line
                     + " >> In verbs, please indicate a double consonant [-ll-] or [-ll-,-l-]"
                 )
             last_consonant = lemma[-1]
             for c in duplicate_consonant:
                 if c != last_consonant and c != last_consonant + last_consonant:
-                    print(
+                    problems.append(
                         line
                         + " >> In verbs, please indicate a double consonant [-ll-] or [-ll-,-l-]"
                     )
         if ";" in extra:
             extra_parts = extra.split(";")
             if len(extra_parts) != 4:
-                print(line + " >> Irregular verbs should have 4 forms")
+                problems.append(line + " >> Irregular verbs should have 4 forms")
             if any(s == "" for s in extra_parts):
-                print(line + " >> Forms in irregular verbs cannot be empty")
+                problems.append(line + " >> Forms in irregular verbs cannot be empty")
             inflection.parseVerbalForms(
                 lemma
                 + "="
@@ -167,9 +168,16 @@ def check_line(line):
                 + "="
                 + parts[2]
             )
+    return problems
 
 
-for file_path in ["./src-dict/src-clean.txt", "./src-dict/src-pending.txt"]:
-    with open(file_path, "r", encoding="utf-8") as file:
-        for line in file.readlines():
-            check_line(line)
+def _main():
+    for file_path in ["./src-dict/src-clean.txt", "./src-dict/src-pending.txt"]:
+        with open(file_path, "r", encoding="utf-8") as file:
+            for line in file.readlines():
+                for problem in check_line(line):
+                    print(problem)
+
+
+if __name__ == "__main__":
+    _main()

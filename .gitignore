@@ -1,3 +1,7 @@
 /target
 .codegpt
 src-dict/__pycache__/inflection.cpython-312.pyc
+editor/.editor-cache.db
+editor/__pycache__/
+editor/**/__pycache__/
+.pytest_cache/
