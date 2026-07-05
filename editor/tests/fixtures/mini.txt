@@ -1,0 +1,5 @@
+beautiful=JJ=all
+bicycle=noun=all
+bidding=noun_U=all
+#advertizable=JJ=all # unusual
+bind=noun_UN=all
