@@ -78564,10 +78564,6 @@ dogedom=noun=none
 dogeship=noun=none
 dogey=noun=none
 dogface=noun=us-large
-dogfood=UNTAGGED=gb
-dogfooded=UNTAGGED=gb
-dogfooding=UNTAGGED=gb
-dogfoods=UNTAGGED=gb
 dogfox=noun=none
 doggery=noun=us-large
 doggess=noun=none
@@ -135505,7 +135501,6 @@ sec'y=UNTAGGED=us-large
 sec.=UNTAGGED=gb
 secale=NN=none
 secalose=noun=none
-secateur=noun=none
 secco=noun=us-large
 seceder=noun=gb,nz,za
 secern=verb=us-large

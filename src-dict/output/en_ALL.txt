@@ -78156,6 +78156,10 @@ dogfightings
 dogfights
 dogfish
 dogfishes
+dogfood
+dogfooded
+dogfooding
+dogfoods
 dogfought
 dogged
 doggeder
@@ -150277,6 +150281,10 @@ recoveries
 recovering
 recovers
 recovery
+recraft
+recrafted
+recrafting
+recrafts
 recreancies
 recreancy
 recreant
@@ -158823,6 +158831,8 @@ sec
 secant
 secantly
 secants
+secateur
+secateurs
 secede
 seceded
 secedes

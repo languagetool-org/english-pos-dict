@@ -36497,9 +36497,9 @@ Sandwich=NNP=all
 Sandy=NNP=all
 Sandygast=NNP=all
 Sanford=NNP=all
-Sanfori<ed|Sanforised=JJ=us,ca,gb|gb,au,nz,za
 Sanforize=verb=all
 Sanforized=JJ=all
+Sanforized|Sanforised=JJ=us,ca,gb|gb,au,nz,za
 Sang=NNP=all
 Sangcwaba=NNP=za # South Africa, placename?
 Sanger=NNP=all
@@ -70818,6 +70818,7 @@ dogfight [dogfights;dogfought;dogfought;dogfighting]=verb=all
 dogfight=noun=all
 dogfighting=noun=all
 dogfish=dogfish/NN,dogfish/NNS,dogfishes/NNS=all
+dogfood=verb=all
 dogged=dogged/JJ,doggeder/JJR,doggedest/JJS=all
 doggedly=RB=all
 doggedness=NN:U=all
@@ -99101,7 +99102,7 @@ merch=NN:U=all
 merchandiser|merchandizer=noun=all|us
 merchandise|merchandize=noun_U=all|us
 merchandise|merchandize=verb=all|us
-merchandising|merchandi<ing=noun_U=all|us
+merchandising|merchandizing=noun_U=all|us
 merchant=JJ=all
 merchant=noun=all
 merchantability=noun_UN=all
@@ -122430,6 +122431,7 @@ recoverableness=NN:U=all
 recovered=JJ=all
 recovering=JJ=all
 recovery=noun_UN=all
+recraft=verb=all
 recreancy=noun=all
 recreant=JJ=all
 recreant=noun=all
@@ -127825,6 +127827,7 @@ sec=JJ=all
 sec=noun=all
 secant=noun=all
 secantly=RB=all
+secateur=noun=all
 secede=verb=all
 secernent=JJ=all
 secession=noun_U=all
@@ -151322,7 +151325,6 @@ unscrupled=JJ=all
 unscrupulous=JJ=all
 unscrupulously=RB=all
 unscrupulousness=NN:U=all
-unscrutini<ed|unscrutinised=JJ=us,ca,gb|gb,au,nz,za
 unscrutinized|unscrutinised=JJ=us,ca,gb|gb,au,nz,za
 unscrutinizingly|unscrutinisingly=RB=us,ca,gb|gb,au,nz,za
 unscrutinizing|unscrutinising=JJ=us,ca,gb|gb,au,nz,za

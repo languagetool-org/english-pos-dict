@@ -257,7 +257,6 @@ Russianizes
 Russianizing
 Sabbatization
 Sabbatizations
-Sanfori<ed
 Sinicization
 Sinicizations
 Sovietization
@@ -4747,14 +4746,13 @@ mercerizer
 mercerizers
 mercerizes
 mercerizing
-merchandi<ing
-merchandi<ings
 merchandize
 merchandized
 merchandizer
 merchandizers
 merchandizes
 merchandizing
+merchandizings
 mercurialization
 mercurializations
 mercurialize
@@ -8930,7 +8928,6 @@ unsavorily
 unsavory
 unscandalized
 unschematized
-unscrutini<ed
 unscrutinized
 unscrutinizing
 unscrutinizingly

@@ -32332,7 +32332,6 @@ Sandwich	Sandwich	NNP
 Sandy	Sandy	NNP
 Sandygast	Sandygast	NNP
 Sanford	Sanford	NNP
-Sanfori<ed	Sanfori<ed	JJ
 Sanforised	Sanforised	JJ
 Sanforize	Sanforize	VB
 Sanforize	Sanforize	VBP
@@ -94167,6 +94166,12 @@ dogfights	dogfight	VBZ
 dogfish	dogfish	NN
 dogfish	dogfish	NNS
 dogfishes	dogfish	NNS
+dogfood	dogfood	VB
+dogfood	dogfood	VBP
+dogfooded	dogfood	VBD
+dogfooded	dogfood	VBN
+dogfooding	dogfood	VBG
+dogfoods	dogfood	VBZ
 dogfought	dogfight	VBD
 dogfought	dogfight	VBN
 dogged	dog	VBD
@@ -149275,8 +149280,6 @@ mercerizes	mercerize	VBZ
 mercerizing	mercerize	VBG
 mercers	mercer	NNS
 merch	merch	NN:U
-merchandi<ing	merchandi<ing	NN:U
-merchandi<ings	merchandi<ing	NNS
 merchandise	merchandise	NN:U
 merchandise	merchandise	VB
 merchandise	merchandise	VBP
@@ -149299,6 +149302,8 @@ merchandizers	merchandizer	NNS
 merchandizes	merchandize	NNS
 merchandizes	merchandize	VBZ
 merchandizing	merchandize	VBG
+merchandizing	merchandizing	NN:U
+merchandizings	merchandizing	NNS
 merchant	merchant	JJ
 merchant	merchant	NN
 merchantabilities	merchantability	NNS
@@ -194286,6 +194291,12 @@ recovering	recovering	JJ
 recovers	recover	NNS
 recovers	recover	VBZ
 recovery	recovery	NN:UN
+recraft	recraft	VB
+recraft	recraft	VBP
+recrafted	recraft	VBD
+recrafted	recraft	VBN
+recrafting	recraft	VBG
+recrafts	recraft	VBZ
 recreancies	recreancy	NNS
 recreancy	recreancy	NN
 recreant	recreant	JJ
@@ -207265,6 +207276,8 @@ sec	sec	NN
 secant	secant	NN
 secantly	secantly	RB
 secants	secant	NNS
+secateur	secateur	NN
+secateurs	secateur	NNS
 secede	secede	VB
 secede	secede	VBP
 seceded	secede	VBD
@@ -247687,7 +247700,6 @@ unscrupled	unscrupled	JJ
 unscrupulous	unscrupulous	JJ
 unscrupulously	unscrupulously	RB
 unscrupulousness	unscrupulousness	NN:U
-unscrutini<ed	unscrutini<ed	JJ
 unscrutinised	unscrutinised	JJ
 unscrutinising	unscrutinising	JJ
 unscrutinisingly	unscrutinisingly	RB
