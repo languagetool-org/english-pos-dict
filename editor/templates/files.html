@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}Files — Dictionary Editor{% endblock %}
+{% block content %}
+  <h1>Source Files</h1>
+  <table class="entries">
+    <thead><tr><th>File</th><th>Active</th><th>Suppressed</th><th>Total</th><th></th></tr></thead>
+    <tbody>
+    {% for name, s in stats.items()|sort %}
+      <tr>
+        <td><strong><a href="{{ url_for('file_view', name=name) }}">{{ name }}</a></strong></td>
+        <td>{{ s.active }}</td>
+        <td class="muted">{{ s.suppressed }}</td>
+        <td class="muted">{{ s.total }}</td>
+        <td><a href="{{ url_for('file_view', name=name) }}">browse →</a></td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+
+  <h2>Scripts</h2>
+  <div class="scripts-panel">
+    <div class="script-row">
+      <button id="run-build-dict" class="script-btn">Build dictionary</button>
+      <span class="script-desc">runs <code>build-src-dict.py</code></span>
+      <span id="build-dict-status" class="muted"></span>
+    </div>
+    <div class="script-row">
+      <button id="run-separate" class="script-btn">Separate entries</button>
+      <span class="script-desc">runs <code>separate.py</code> (clean/pending/discarded)</span>
+      <span id="separate-status" class="muted"></span>
+    </div>
+    <pre id="script-output" class="script-output muted"></pre>
+  </div>
+
+  <h2>Git</h2>
+  <div class="git-panel">
+    <div class="git-status" id="git-status">loading…</div>
+    <div class="git-diff" id="git-diff"></div>
+    <div class="git-commit-row">
+      <input type="text" id="git-message" placeholder="commit message…" class="mono">
+      <button id="git-commit-btn">Commit</button>
+      <span id="git-commit-status" class="muted"></span>
+    </div>
+  </div>
+{% endblock %}

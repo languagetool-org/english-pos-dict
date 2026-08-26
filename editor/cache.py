@@ -64,12 +64,13 @@ class Cache:
         return json.loads(payload)
 
     # --- BECL import ------------------------------------------------------
-    def put_becl(self, lemma, becl_class, verdict):
+    def put_becl(self, lemma, becl_class, verdict, commit=True):
         with self._lock:
             self._conn.execute(
                 "INSERT OR REPLACE INTO becl (lemma, becl_class, verdict)"
                 " VALUES (?, ?, ?)", (lemma, becl_class, verdict))
-            self._conn.commit()
+            if commit:
+                self._conn.commit()
 
     def get_becl(self, lemma):
         with self._lock:
@@ -93,3 +94,28 @@ class Cache:
             row = self._conn.execute(
                 "SELECT json FROM kv WHERE key='issues'").fetchone()
         return json.loads(row[0]) if row else None
+
+    # --- runtime settings ------------------------------------------------
+    def get_setting(self, key, default=None):
+        with self._lock:
+            row = self._conn.execute(
+                "SELECT json FROM kv WHERE key=?", (f"setting:{key}",)).fetchone()
+        if row is None:
+            return default
+        return json.loads(row[0])
+
+    def set_setting(self, key, value):
+        with self._lock:
+            self._conn.execute(
+                "INSERT OR REPLACE INTO kv (key, json) VALUES (?, ?)",
+                (f"setting:{key}", json.dumps(value)))
+            self._conn.commit()
+
+    def clear_evidence(self, source=None):
+        """Drop cached evidence rows (optionally for one source)."""
+        with self._lock:
+            if source:
+                self._conn.execute("DELETE FROM evidence WHERE source=?", (source,))
+            else:
+                self._conn.execute("DELETE FROM evidence")
+            self._conn.commit()

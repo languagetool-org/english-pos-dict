@@ -1,4 +1,3 @@
-'strewth=UNTAGGED=gb
 'struth=UNTAGGED=gb
 -war=UNTAGGED=gb
 1-dodecanol=NN=none
@@ -69048,7 +69047,6 @@ chicken-breastedness=NN=none
 chicken-hearted=JJ=none
 chickenheartedly=UNTAGGED=gb
 chickeree=NN=none
-chickling=chickling/NN,chickling/NNS=none
 chickory=noun=none
 chickowee=noun=none
 chicnessably=UNTAGGED=gb
@@ -102163,7 +102161,6 @@ litigative=UNTAGGED=us-large
 litigiosity=NN:UN=none
 litocranius=NN=none
 litote=noun=none
-litreage=UNTAGGED=gb
 litreages=UNTAGGED=gb
 litter-bearer=NN=none
 litterateur=noun=au,ca,us
@@ -160940,3 +160937,4 @@ zymotics=UNTAGGED=gb
 zythum=UNTAGGED=gb
 zythums=UNTAGGED=gb
 zyzzyva=noun=none
+'strewth=UNTAGGED=gb

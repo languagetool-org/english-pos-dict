@@ -2,8 +2,13 @@
 {% block title %}Issues — Dictionary Editor{% endblock %}
 {% block content %}
   <h1>Issues <span class="muted">({{ total }})</span></h1>
-  <form id="rescan-form"><button type="submit">Rescan</button>
-    <span id="rescan-status" class="muted"></span></form>
+  <div class="actions">
+    <form id="rescan-form" style="display:inline"><button type="submit">Rescan</button>
+      <span id="rescan-status" class="muted"></span></form>
+    <form id="validate-all-form" style="display:inline"><button type="submit">Validate All (check-syntax)</button>
+      <span id="validate-all-status" class="muted"></span></form>
+  </div>
+  <div id="validate-all-results" class="muted" style="font-size:.85rem"></div>
 
   {% for rule, items in grouped.items() %}
     <section>

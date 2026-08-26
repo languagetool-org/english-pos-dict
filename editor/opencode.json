@@ -1,0 +1,24 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "poe": {
+      "models": {
+        "TM-Inkling": {
+          "name": "Inkling"
+        },
+        "Kimi-K3-Tog": {
+          "name": "Kimi K3 (Together AI)"
+        },
+        "Qwen3.8-2.4T-A95B": {
+          "name": "Qwen 3.8 2.4T A95B"
+        },
+        "DeepSeekV4-0731-JT": {
+          "name": "DeepSeek V4 (JasInTech)"
+        },
+        "GLM-5.2-JasInTech": {
+          "name": "GLM 5.2 (JasInTech)"
+        }
+      }
+    }
+  }
+}

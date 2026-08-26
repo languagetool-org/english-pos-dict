@@ -12,14 +12,17 @@ from editor.providers.base import EvidenceProvider, CountabilityEvidence
 BECL_CLASS_TO_VERDICT = {
     "countable": "countable",
     "count": "countable",
+    "regular_count": "countable",
     "uncountable": "uncountable",
     "uncount": "uncountable",
     "mass": "uncountable",
+    "regular_mass": "uncountable",
     "both": "both",
     "dual": "both",
     "plural": "both",
     "plural_only": "both",
     "collective": "both",
+    "both_mass_count": "both",
 }
 
 VERDICT_TO_TAG = {

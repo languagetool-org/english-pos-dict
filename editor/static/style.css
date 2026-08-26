@@ -27,3 +27,62 @@ button { padding: .35rem .8rem; cursor: pointer; }
 .banner-warn { background: #fef5e7; border: 1px solid var(--warn); color: var(--warn);
   padding: .5rem; border-radius: 6px; margin-bottom: .6rem; }
 .tag { font-family: ui-monospace, monospace; background: #eef; padding: 0 .3rem; border-radius: 3px; }
+.corpus-settings { position: relative; }
+.corpus-settings summary { cursor: pointer; color: var(--accent); font-weight: 600; user-select: none; }
+.corpus-settings-body { position: fixed; right: 1rem; top: 3.4rem; background: var(--bg);
+  border: 1px solid var(--line); border-radius: 6px; padding: .6rem; min-width: 340px;
+  max-width: calc(100vw - 2rem); box-sizing: border-box;
+  box-shadow: 0 2px 8px rgba(0,0,0,.08); z-index: 10; }
+.corpus-settings-body label { display: block; font-size: .8rem; color: var(--muted); margin-bottom: .3rem; }
+.corpus-settings-body input[type=text] { width: 100%; padding: .35rem .5rem; font-family: ui-monospace, monospace; }
+.corpus-settings-actions { margin: .5rem 0; display: flex; gap: .6rem; align-items: center; }
+.actions.triage { border-top: 1px solid var(--line, #ddd); padding-top: .6rem; }
+.actions.triage select { padding: .3rem .5rem; }
+#move-status { font-size: .85rem; }
+.corpus-help { font-size: .8rem; color: var(--muted); margin: .4rem 0 0; line-height: 1.4; }
+
+/* Source-line field reference (entry page) */
+.field-help { font-size: .85rem; line-height: 1.5; }
+.field-help p { margin: .4rem 0; }
+.field-help table { border-collapse: collapse; width: 100%; }
+.field-help td { vertical-align: top; padding: .45rem .6rem; border-bottom: 1px solid var(--line, #ddd); }
+.field-help td:first-child { white-space: nowrap; font-weight: 600; }
+.field-help ul { margin: .2rem 0 .4rem; padding-left: 1.2rem; }
+.field-help code { font-family: ui-monospace, monospace; background: #f2f2f2; padding: 0 .25rem; border-radius: 3px; }
+
+/* Entry navigation */
+.entry-nav { display: flex; gap: .8rem; align-items: center; margin: .4rem 0 .8rem; font-size: .9rem; }
+.nav-btn { text-decoration: none; color: var(--accent); padding: .2rem .5rem; border: 1px solid var(--accent); border-radius: 4px; }
+.nav-btn:hover { background: var(--accent); color: #fff; }
+
+/* Stats grid (search home page) */
+.stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: .6rem; margin: 1rem 0; }
+.stat-card { border: 1px solid var(--line); border-radius: 6px; padding: .6rem; }
+.stat-name { font-weight: 600; }
+.stat-name a { text-decoration: none; color: var(--accent); }
+.stat-count { font-size: .9rem; }
+.stat-muted { font-size: .8rem; color: var(--muted); }
+
+/* File view */
+suppressed { opacity: .5; }
+
+/* Scripts panel */
+.scripts-panel { margin: .5rem 0; }
+.script-row { display: flex; gap: .6rem; align-items: center; margin: .4rem 0; }
+.script-btn { padding: .3rem .7rem; }
+.script-desc { font-size: .85rem; color: var(--muted); }
+.script-output { font-family: ui-monospace, monospace; font-size: .8rem; max-height: 300px;
+  overflow-y: auto; white-space: pre-wrap; background: #f8f8f8; padding: .5rem;
+  border: 1px solid var(--line); border-radius: 4px; margin-top: .5rem; }
+
+/* Git panel */
+.git-panel { margin: .5rem 0; }
+.git-status { font-size: .9rem; margin-bottom: .4rem; }
+.git-diff { font-family: ui-monospace, monospace; font-size: .8rem; max-height: 400px;
+  overflow-y: auto; white-space: pre-wrap; background: #f8f8f8; padding: .5rem;
+  border: 1px solid var(--line); border-radius: 4px; margin: .5rem 0; }
+.git-commit-row { display: flex; gap: .5rem; align-items: center; margin-top: .4rem; }
+.git-commit-row input { flex: 1; padding: .35rem .5rem; font-size: .9rem; }
+
+/* Keyboard shortcut hint */
+button { padding: .35rem .8rem; cursor: pointer; }

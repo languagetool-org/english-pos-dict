@@ -99,3 +99,26 @@ prepone=verb=none # Indian English
 * Script to make tests: `src-dict/check-syntax.py`
 * Script to build the dictionaries: `./build-dicts-from-src.sh`
 
+
+## File tiers and triage
+
+The source is split into three files (upstream `src-dict/separate.py`):
+
+* `src-clean.txt` — **release** entries: tagged, `all` variants. Consumed by
+  the spelling/tagger builds (`build-all-dicts.py`).
+* `src-pending.txt` — **candidates**: anything not yet release-worthy
+  (UNTAGGED, variant-specific like `=gb`, unusual words under review).
+* `src-discarded.txt` — **rejected** entries (junk, nonsense, obsolete):
+  kept for reference, never built.
+
+The webapp (`editor/`) lets you move an entry between these files:
+
+* **promote** — pending → clean (once it's tagged and variant-correct)
+* **demote** — clean → pending (needs review, variant fix, or a tag)
+* **reject** — pending or clean → discarded
+
+Moves preserve the `#`-suppress prefix and any trailing `# comment`, and the
+destination write is validated (the app refuses a move that would produce an
+invalid line). All three files are sorted with `sort -u` by
+`build-dicts-from-src.sh`; `check-syntax.py` runs over clean + pending, so
+discarded entries are exempt from syntax checks.

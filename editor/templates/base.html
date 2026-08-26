@@ -10,8 +10,29 @@
   <header>
     <nav>
       <a href="{{ url_for('search') }}">Search</a>
+      <a href="{{ url_for('files') }}">Files</a>
       <a href="{{ url_for('issues') }}">Issues</a>
     </nav>
+    <details class="corpus-settings">
+      <summary>Corpus</summary>
+      <div class="corpus-settings-body">
+        <label for="bcql-url">BCQL endpoint (a/an article test, BlackLab)</label>
+        <input type="text" id="bcql-url" placeholder="http://host:8080"
+               value="">
+        <label for="corpus-url">Count endpoint (plural-rate, plain Lucene)</label>
+        <input type="text" id="corpus-url" placeholder="http://host:8082"
+               value="">
+        <div class="corpus-settings-actions">
+          <button type="button" id="corpus-save">Save</button>
+          <span id="corpus-settings-status" class="muted"></span>
+        </div>
+        <p class="corpus-help">
+          Evidence comes from BECL (built-in), then the two corpus endpoints —
+          BCQL counts "a/an + lemma" contexts, the count service counts plural
+          vs noun hits — then Wiktionary. Empty URL = that source is off.
+        </p>
+      </div>
+    </details>
     <form action="{{ url_for('search') }}" method="get" class="searchbar">
       <input type="text" name="q" placeholder="lemma or form…"
              value="{{ q|default('') }}" autofocus>

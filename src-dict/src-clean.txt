@@ -46092,7 +46092,7 @@ afterpart=noun=all
 afterpiece=noun=all
 afters=NN:U=all
 aftershaft=noun=all
-aftershave=aftershave/NN,aftershave/NN:U,aftershaves/NNS=all
+aftershave=noun_UN=all
 aftershock=noun=all
 aftershow=noun=all
 aftertaste=noun=all
@@ -58917,7 +58917,7 @@ changefulness=NN:U=all
 changeless=JJ=all
 changelessly=RB=all
 changelessness=NN:U=all
-changeling=changeling/NN,changeling/NNS,changelings/NNS=all
+changeling=noun=all
 changelog=noun=all
 changemaker=noun=all
 changeover=noun=all
@@ -59384,6 +59384,7 @@ chickenshit=noun=all
 chickpea=noun=all
 chickweed=noun_U=all
 chicle=noun_U=all
+chickling=noun=all  
 chicly=RB=all
 chicness=NN:U=all
 chicory=noun_U=all
@@ -157975,3 +157976,4 @@ zálesíite=NN:U=all
 ω=symbol=all
 ℓ=symbol=all
 ⅇ=symbol=all
+litotes=NNS=all

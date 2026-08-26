@@ -18,9 +18,9 @@ from editor.cache import Cache
 from editor.providers.becl import classify
 
 
-def ingest(path, cache, lemma_col=0, class_col=1, delimiter="\t"):
+def ingest(path, cache, lemma_col=0, class_col=1, delimiter="\t", encoding="utf-8"):
     count = 0
-    with open(path, encoding="utf-8", newline="") as f:
+    with open(path, encoding=encoding, newline="") as f:
         reader = csv.reader(f, delimiter=delimiter)
         for row in reader:
             if not row or row[0].startswith("#"):
@@ -31,8 +31,9 @@ def ingest(path, cache, lemma_col=0, class_col=1, delimiter="\t"):
             becl_class = row[class_col].strip()
             if not lemma:
                 continue
-            cache.put_becl(lemma, becl_class, classify(becl_class))
+            cache.put_becl(lemma, becl_class, classify(becl_class), commit=False)
             count += 1
+    cache._conn.commit()
     return count
 
 
@@ -40,14 +41,16 @@ def _main(argv=None):
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("becl_file")
     p.add_argument("--db", default="editor/.editor-cache.db")
-    p.add_argument("--lemma-col", type=int, default=0)
-    p.add_argument("--class-col", type=int, default=1)
-    p.add_argument("--delim", default="tab",
-                   help="'tab', 'comma', or a literal delimiter character")
+    p.add_argument("--lemma-col", type=int, default=1)
+    p.add_argument("--class-col", type=int, default=26)
+    p.add_argument("--delim", default=";",
+                   help="'tab', 'comma', 'semicolon', or a literal delimiter character")
+    p.add_argument("--encoding", default="utf-8")
     args = p.parse_args(argv)
-    delimiter = {"tab": "\t", "comma": ","}.get(args.delim, args.delim)
+    delimiter = {"tab": "\t", "comma": ",", "semicolon": ";"}.get(args.delim, args.delim)
     cache = Cache(args.db)
-    n = ingest(args.becl_file, cache, args.lemma_col, args.class_col, delimiter)
+    n = ingest(args.becl_file, cache, args.lemma_col, args.class_col, delimiter,
+               args.encoding)
     print(f"Ingested {n} BECL entries into {args.db}")
 
 

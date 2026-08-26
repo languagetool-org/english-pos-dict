@@ -1,16 +1,36 @@
 {% extends "base.html" %}
 {% block title %}{{ entry.lemma_field }} — Dictionary Editor{% endblock %}
 {% block content %}
-  <h1>{{ entry.lemma_field }} <span class="muted">({{ file }}:{{ entry.line_no }})</span></h1>
+  <h1>{{ entry.lemma_field }} <span class="muted">({{ file }}:{{ entry.line_no }}/{{ total_entries }})</span></h1>
+  <div class="entry-nav">
+    {% if prev_no %}
+      <a href="{{ url_for('entry', file=file, line_no=prev_no) }}" class="nav-btn">← Prev</a>
+    {% endif %}
+    <a href="{{ url_for('file_view', name=file) }}?start={{ ((entry.line_no - 1) // 200) * 200 + 1 }}" class="nav-btn">↑ {{ file }}</a>
+    {% if next_no %}
+      <a href="{{ url_for('entry', file=file, line_no=next_no) }}" class="nav-btn">Next →</a>
+    {% endif %}
+  </div>
 
   <div class="editor" data-file="{{ file }}" data-line="{{ entry.line_no }}"
        data-lemma="{{ entry.lemma_field }}">
     <label for="line">Source line</label>
     <input type="text" id="line" class="mono" value="{{ entry.logical_line }}">
     <div class="actions">
-      <button id="save-btn">Save</button>
+      <button id="save-btn">Save (Ctrl+S)</button>
       <button id="evidence-btn" data-auto="{{ '1' if show_evidence else '0' }}">Evidence</button>
       <span id="save-status" class="muted"></span>
+    </div>
+
+    <div class="actions triage">
+      <label for="move-dest">Triage:</label>
+      <select id="move-dest">
+        <option value="src-clean.txt">→ src-clean.txt (promote)</option>
+        <option value="src-pending.txt">→ src-pending.txt (demote/review)</option>
+        <option value="src-discarded.txt">→ src-discarded.txt (reject)</option>
+      </select>
+      <button id="move-btn">Move entry</button>
+      <span id="move-status" class="muted"></span>
     </div>
 
     <h3>Validation</h3>
@@ -21,5 +41,61 @@
 
     <h3>Countability evidence</h3>
     <div id="evidence" class="evidence muted">Not loaded.</div>
+    <div id="corpus-status" class="muted" style="font-size: .8rem; margin-top: .4rem;"></div>
+
+    <h3>Source-line fields</h3>
+    <div class="field-help">
+      <p><code>lemma=forms_and_tags=variants</code> — exactly three fields, joined
+      by <code>=</code>.</p>
+      <table class="field-help-table">
+        <tbody>
+          <tr>
+            <td><strong>1 · lemma</strong></td>
+            <td>Headword. Alternate spellings joined by <code>|</code> (must pair
+            with the same number of variant groups). Suffix in brackets:
+            <code>submit [-tt-]=verb</code>, irregular verb forms
+            <code>sing [sings;sang;sung;singing]=verb</code>, noun plurals
+            <code>nightwatchman [pl. nightwatchmen]=noun</code>.</td>
+          </tr>
+          <tr>
+            <td><strong>2 · forms_and_tags</strong></td>
+            <td>
+              <div>Shorthands (auto-inflect, incl. regular plural for nouns):</div>
+              <ul>
+                <li><code>noun</code> → <code>NN</code> + regular <code>NNS</code></li>
+                <li><code>noun_U</code> → <code>NN:U</code> (uncountable, no plural)</li>
+                <li><code>noun_UN</code> → <code>NN:UN</code> (uncountable but plural exists)</li>
+                <li><code>verb</code> → regular <code>VB…</code> forms</li>
+              </ul>
+              <div>Explicit POS tags: <code>NN</code>, <code>NN:U</code>,
+              <code>NN:UN</code>, <code>NNS</code>, <code>NNP</code>, <code>JJ</code>,
+              <code>JJR</code>, <code>JJS</code>, <code>RB</code>, <code>RBR</code>,
+              <code>RBS</code>, <code>VB</code>, <code>VBD</code>, <code>VBG</code>,
+              <code>VBN</code>, <code>VBP</code>, <code>VBZ</code>, <code>IN</code>,
+              <code>CC</code>, <code>CD</code>, <code>DT</code>, <code>PRP</code>,
+              <code>PRP$</code>, <code>WP</code>, <code>WP$</code>, <code>WDT</code>,
+              <code>WRB</code>, <code>RP</code>, <code>MD</code>, <code>UH</code>,
+              <code>POS</code>, <code>PDT</code>, <code>FW</code>, <code>abbreviation</code>,
+              <code>contraction</code>, <code>symbol</code>, <code>punctuation</code>,
+              <code>UNTAGGED</code>.</div>
+              <div>Multiple explicit forms: comma-joined
+              <code>be=be/VB,was/VBD,…,is/VBZ</code> (form/tag pairs separated by
+              <code>/</code>).</div>
+            </td>
+          </tr>
+          <tr>
+            <td><strong>3 · variants</strong></td>
+            <td>Spelling variants, comma-separated: <code>us</code>, <code>gb</code>,
+            <code>ca</code>, <code>au</code>, <code>nz</code>, <code>za</code>.
+            Shorthands: <code>all</code> (all variants), <code>none</code>
+            (tagger dictionary only, not spelling dicts). When the lemma has
+            alternates (<code>|</code>), groups are <code>|</code>-separated:
+            <code>unrealizable|unrealisable=JJ=us,ca,gb|gb,au,nz,za</code>.</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="muted">A <code>#</code> prefix disables the entry (e.g.
+      <code>#advertizable=JJ=all</code>). Details: <code>src-dict/README.md</code>.</p>
+    </div>
   </div>
 {% endblock %}

@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}{{ name }} — Dictionary Editor{% endblock %}
+{% block content %}
+  <h1>{{ name }} <span class="muted">({{ total }} entries)</span></h1>
+  <div class="entry-nav">
+    {% if start > 1 %}
+      <a href="{{ url_for('file_view', name=name, start=start - page_size) }}" class="nav-btn">← Prev {{ page_size }}</a>
+    {% endif %}
+    <span class="muted">entries {{ start }}–{{ [start + page_size - 1, total]|min }}</span>
+    {% if start + page_size <= total %}
+      <a href="{{ url_for('file_view', name=name, start=start + page_size) }}" class="nav-btn">Next {{ page_size }} →</a>
+    {% endif %}
+  </div>
+  <table class="entries">
+    <thead><tr><th>#</th><th>Lemma</th><th>Tags</th><th>Variants</th><th>Suppressed</th></tr></thead>
+    <tbody>
+    {% for e in entries %}
+      <tr{% if e.suppressed %} class="suppressed"{% endif %}>
+        <td class="muted">{{ e.line_no }}</td>
+        <td><a href="{{ url_for('entry', file=name, line_no=e.line_no) }}?evidence=1">{{ e.lemma_field }}</a></td>
+        <td class="mono">{{ e.tags }}</td>
+        <td>{{ e.variants }}</td>
+        <td>{% if e.suppressed %}# {% endif %}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}

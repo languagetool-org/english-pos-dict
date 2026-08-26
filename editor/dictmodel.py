@@ -74,13 +74,20 @@ class DictFile:
         self._lines = self.path.read_text(
             encoding="utf-8").splitlines(keepends=True)
         self._loaded_hash = self._hash_on_disk()
+        self._entries = None
 
     def _hash_on_disk(self) -> str:
         return hashlib.sha256(self.path.read_bytes()).hexdigest()
 
     def entries(self) -> list[Entry]:
-        return [parse_line(line, self.path.name, i + 1)
-                for i, line in enumerate(self._lines)]
+        if self._entries is None:
+            self._entries = [parse_line(line, self.path.name, i + 1)
+                             for i, line in enumerate(self._lines)]
+        return self._entries
+
+    def invalidate(self):
+        """Drop cached parsed entries after an edit (replace_line does not)."""
+        self._entries = None
 
     def replace_line(self, line_no: int, new_text: str):
         if self._hash_on_disk() != self._loaded_hash:
@@ -88,6 +95,7 @@ class DictFile:
         old = self._lines[line_no - 1]
         nl = "\n" if old.endswith("\n") else ""
         self._lines[line_no - 1] = new_text.rstrip("\n") + nl
+        self._entries = None
         self._atomic_write()
 
     def _atomic_write(self):
@@ -101,3 +109,25 @@ class DictFile:
             if os.path.exists(tmp):
                 os.remove(tmp)
         self._loaded_hash = self._hash_on_disk()
+
+    def remove_line(self, line_no: int) -> str:
+        """Remove and return the raw text of a line (1-based). Raises
+        StaleFileError if the file changed on disk since load."""
+        if self._hash_on_disk() != self._loaded_hash:
+            raise StaleFileError(f"{self.path} changed on disk since load")
+        old = self._lines.pop(line_no - 1)
+        self._entries = None
+        self._atomic_write()
+        return old
+
+    def append_line(self, raw: str):
+        """Append a raw line (with or without newline)."""
+        if self._hash_on_disk() != self._loaded_hash:
+            raise StaleFileError(f"{self.path} changed on disk since load")
+        raw = raw.rstrip("\n")
+        if self._lines and self._lines[-1].endswith("\n"):
+            self._lines.append(raw + "\n")
+        else:
+            self._lines.append(raw + "\n")
+        self._entries = None
+        self._atomic_write()

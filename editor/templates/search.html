@@ -1,8 +1,10 @@
 {% extends "base.html" %}
+{% block title %}{% if q %}{{ q }} — {% endif %}Dictionary Editor{% endblock %}
 {% block content %}
   {% if q %}
-    <h1>Results for “{{ q }}”</h1>
+    <h1>Results for "{{ q }}"</h1>
     {% if results %}
+      <p class="muted">{{ results|length }} result{{ 's' if results|length != 1 }}</p>
       <table class="entries">
         <thead><tr><th>Lemma</th><th>Tags</th><th>Variants</th><th>File</th></tr></thead>
         <tbody>
@@ -20,6 +22,16 @@
       <p class="muted">No entries found.</p>
     {% endif %}
   {% else %}
-    <p class="muted">Search for a lemma or an inflected form to edit an entry.</p>
+    <h1>Dictionary Editor</h1>
+    <div class="stats-grid">
+      {% for name, s in stats.items()|sort %}
+        <div class="stat-card">
+          <div class="stat-name"><a href="{{ url_for('file_view', name=name) }}">{{ name }}</a></div>
+          <div class="stat-count">{{ s.active }} active</div>
+          {% if s.suppressed %}<div class="stat-muted">{{ s.suppressed }} suppressed</div>{% endif %}
+        </div>
+      {% endfor %}
+    </div>
+    <p class="muted">Search for a lemma or inflected form to edit an entry.</p>
   {% endif %}
 {% endblock %}
